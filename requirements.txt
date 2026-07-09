@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langgraph
+langchain-google-genai
+pydantic
+pydantic[email]
+python-dotenv
+requests
+cloudinary
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib
+bcrypt==4.0.1
+python-multipart
