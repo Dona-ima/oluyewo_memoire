@@ -65,6 +65,13 @@ RÈGLE ABSOLUE sur les événements récents :
 - Les rumeurs impliquant des dirigeants, des coups d'état, des élections ou des 
   changements de gouvernement DOIVENT toujours déclencher une recherche web.
 
+RÈGLE sur les fautes d'orthographe et les termes mal orthographiés :
+- Si la rumeur contient un mot qui semble être une faute d'orthographe d'un terme connu
+  (ex: "antavirus" → "hantavirus", "covide" → "Covid", "omicront" → "Omicron"),
+  interprète-le comme le terme correct le plus probable et analyse la rumeur en conséquence.
+- Mentionne explicitement dans ton analyse que tu as interprété le terme corrigé.
+- Ne rejette jamais une rumeur uniquement parce qu'elle contient une faute d'orthographe.
+
 Rumeur textuelle à analyser : {rumor_text}
 Indices issus de la recherche inversée de l'image (Google Lens) : {indices_recherche_inversee}
 Preuves internet additionnelles déjà collectées : {evidence_gathered}
