@@ -198,29 +198,48 @@ def agent_verificateur_principal(state: AgentState) -> dict:
     performance_log = state.get("performance_metrics", {"total_latency": 0.0, "total_api_calls": 0, "path_taken": []})
     performance_log["total_latency"] += (fin_noeud - debut_noeud)
     performance_log["total_api_calls"] += api_calls_count
-    performance_log["path_taken"].append("agent_verificateur_principal")
+    performance_log["path_taken"].append("Agent Vérificateur Principal")
+
+    journal_agents = list(state.get("journal_agents") or [])
+    journal_agents.append({
+        "agent": "agent_verificateur_principal",
+        "score_confiance": response.confidence_score,
+        "iteration": state.get("iterations", 0)
+    })
 
     return {
         "image_description": response.image_description,
         "lens_results": lens_results_text,
         "sub_questions": response.sub_questions,
         "confidence_score": response.confidence_score,
-        "performance_metrics": performance_log
+        "performance_metrics": performance_log,
+        "journal_agents": journal_agents
     }
 
-
 def agent_chercheur_web(state: AgentState) -> dict:
+
     questions_a_chercher = state.get("sub_questions", [])
+    iteration_actuelle = state["iterations"]
+    journal_agents = list(state.get("journal_agents") or [])
+    journal_agents.append({
+        "agent": "agent_chercheur_web",
+        "iteration": iteration_actuelle,
+        "questions": questions_a_chercher
+    })
     nouvelles_preuves = []
-    
+    sources_collectees = list(state.get("sources_collectees") or [])
+
     print(f"--- AGENT CHERCHEUR WEB : Déclenchement (Itération : {state['iterations']}) ---")
     
     for question in questions_a_chercher:
         if question.strip():
             print(f"Recherche en cours pour : '{question}'")
-            resultat_recherche = effectuer_recherche_web(question)
-            nouvelles_preuves.append(f"Résultats pour la requête [{question}] :\n{resultat_recherche}")
             time.sleep(1)
+            resultat = effectuer_recherche_web(question)
+            nouvelles_preuves.append(
+                f"Résultats pour la requête [{question}] :\n{resultat['texte']}"
+            )
+            sources_collectees.extend(resultat["sources"])
             
     preuves_totales = list(state.get("evidence_gathered") or [])
     if nouvelles_preuves:
@@ -232,11 +251,24 @@ def agent_chercheur_web(state: AgentState) -> dict:
     if questions_a_chercher:
         historique_total.extend(questions_a_chercher)
 
+    performance_log = state.get("performance_metrics", {"total_latency": 0.0, "total_api_calls": 0, "path_taken": []})
+    performance_log["path_taken"].append("Agent Chercheur Web")
+
+    # Déduplique par URL
+    urls_vues = {s["url"] for s in sources_collectees}
+    for source in resultat["sources"]:
+        if source["url"] not in urls_vues:
+            sources_collectees.append(source)
+            urls_vues.add(source["url"])
+
     return {
         "evidence_gathered": preuves_totales,
         "search_history": historique_total,
+        "sources_collectees": sources_collectees,
         "iterations": state["iterations"] + 1,
-        "sub_questions": [] 
+        "sub_questions": [],
+        "journal_agents": journal_agents,
+        "performance_metrics": performance_log
     }
 
 
@@ -276,12 +308,22 @@ def agent_synthetiseur_verdict(state: AgentState) -> dict:
     if score_final == 0.0:
         # Fallback : utilise le dernier score du vérificateur
         score_final = state.get("confidence_score", 0.0)
-        
+
+    sources_finales = sorted(
+        state.get("sources_collectees", []),
+        key=lambda x: x.get("score", 0),
+        reverse=True
+    )[:5]
+
+    performance_log = state.get("performance_metrics", {"total_latency": 0.0, "total_api_calls": 0, "path_taken": []})
+    performance_log["path_taken"].append("Agent Synthétiseur Verdict")
 
     payload_interface = {
         "statut": response.verdict,
         "score_certitude": score_final,
         "analyse_narrative": response.explanation,
+        "sources": sources_finales,
+        "journal_agents": state.get("journal_agents", []),
         "metadonnees": {
             "recherches_effectuees": state.get("search_history", []),
             "image_analyse": True if state.get("image_description") else False,

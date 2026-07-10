@@ -10,7 +10,9 @@ class AgentState(TypedDict):
     search_history: List[str]
     evidence_gathered: List[str]
     confidence_score: float
+    sources_collectees: List[Dict[str, Any]]
     iterations: int
     verdict: str
     justification_json: Dict[str, Any]
     performance_metrics: Dict[str, Any]
+    journal_agents: List[Dict[str, Any]]

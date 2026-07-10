@@ -2,22 +2,17 @@ import os
 import requests
 from typing import List
 
-def effectuer_recherche_web(requete: str) -> str:
-    """
-    Interroge l'API Tavily (ou Serper) pour obtenir des extraits de textes factuels.
-    Nécessite la clé API TAVILY_API_KEY dans votre fichier .env.
-    """
+def effectuer_recherche_web(requete: str) -> dict:
     api_key = os.getenv("TAVILY_API_KEY")
     if not api_key:
-        # En mode secours si la clé est manquante pour éviter un crash complet
-        return f"[Erreur] Clé API Tavily manquante. Impossible de chercher : '{requete}'"
+        return {"texte": f"[Erreur] Clé API Tavily manquante.", "sources": []}
         
     url = "https://api.tavily.com/search"
     payload = {
         "api_key": api_key,
         "query": requete,
-        "search_depth": "advanced", # Recherche poussée pour le fact-checking
-        "max_results": 3            # On prend les 3 meilleurs résultats
+        "search_depth": "advanced",
+        "max_results": 3
     }
     
     try:
@@ -25,12 +20,27 @@ def effectuer_recherche_web(requete: str) -> str:
         response.raise_for_status()
         data = response.json()
         
-        # On extrait et formatte les résultats pertinents
-        resultats = []
+        resultats_texte = []
+        sources = []
         for res in data.get("results", []):
-            resultats.append(f"Source: {res.get('url')}\nTitre: {res.get('title')}\nExtrait: {res.get('content')}\n")
+            # Tavily retourne un score entre 0 et 1
+            score = res.get("score", 0)
             
-        return "\n---\n".join(resultats) if resultats else "Aucun résultat trouvé sur le web."
+            # Ne garde que les sources avec un score de pertinence >= 0.7
+            if score >= 0.7:
+                resultats_texte.append(
+                    f"Source: {res.get('url')}\nTitre: {res.get('title')}\nExtrait: {res.get('content')}\n"
+                )
+                sources.append({
+                    "url": res.get("url"),
+                    "titre": res.get("title"),
+                    "score": score
+                })
+            
+        return {
+            "texte": "\n---\n".join(resultats_texte) if resultats_texte else "Aucun résultat trouvé.",
+            "sources": sources
+        }
         
     except Exception as e:
-        return f"[Erreur de recherche] : {str(e)}"
+        return {"texte": f"[Erreur de recherche] : {str(e)}", "sources": []}

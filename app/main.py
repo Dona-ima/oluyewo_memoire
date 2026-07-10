@@ -150,6 +150,7 @@ async def verify_rumor(
             "search_history": [],
             "evidence_gathered": [],
             "confidence_score": 0.0,
+            "sources_collectees": [],
             "iterations": 0,
             "verdict": "",
             "justification_json": {},
