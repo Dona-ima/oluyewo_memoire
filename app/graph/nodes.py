@@ -41,7 +41,7 @@ Instructions cruciales :
    - Image détournée + texte vrai → 'Contexte détourné' (l'image vient d'ailleurs MAIS l'événement a réellement eu lieu)
    - Aucune image détournée + texte faux → 'Faux'
    - Aucune image détournée + texte vrai → 'Vrai'
-   - Preuves insuffisantes dans les deux cas → 'Unvérifiable'
+   - Preuves insuffisantes dans les deux cas → 'Invérifiable'
    
    Le statut 'Contexte détourné' concerne UNIQUEMENT l'image, pas le texte.
    Le texte doit être vérifié indépendamment via les preuves web collectées.
@@ -224,6 +224,8 @@ def agent_verificateur_principal(state: AgentState) -> dict:
     }
 
 def agent_chercheur_web(state: AgentState) -> dict:
+    debut_noeud = time.perf_counter()
+    api_calls_count = 0
 
     questions_a_chercher = state.get("sub_questions", [])
     iteration_actuelle = state["iterations"]
@@ -243,6 +245,7 @@ def agent_chercheur_web(state: AgentState) -> dict:
             print(f"Recherche en cours pour : '{question}'")
             time.sleep(1)
             resultat = effectuer_recherche_web(question)
+            api_calls_count += 1
             nouvelles_preuves.append(
                 f"Résultats pour la requête [{question}] :\n{resultat['texte']}"
             )
@@ -258,7 +261,11 @@ def agent_chercheur_web(state: AgentState) -> dict:
     if questions_a_chercher:
         historique_total.extend(questions_a_chercher)
 
+    fin_noeud = time.perf_counter()
+    
     performance_log = state.get("performance_metrics", {"total_latency": 0.0, "total_api_calls": 0, "path_taken": []})
+    performance_log["total_latency"] += (fin_noeud - debut_noeud)
+    performance_log["total_api_calls"] += api_calls_count
     performance_log["path_taken"].append("Agent Chercheur Web")
 
     # Déduplique par URL
@@ -281,6 +288,8 @@ def agent_chercheur_web(state: AgentState) -> dict:
 
 
 def agent_synthetiseur_verdict(state: AgentState) -> dict:
+    debut_noeud = time.perf_counter()
+    api_calls_count = 0
     print("--- AGENT SYNTHÉTISEUR : Formulation du verdict final ---")
     
     llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.3)
@@ -303,6 +312,7 @@ def agent_synthetiseur_verdict(state: AgentState) -> dict:
     for attempt in range(max_retries):
         try:
             response: FinalVerdictStructure = structured_llm.invoke([("user", prompt_formate)])
+            api_calls_count += 1
             break
         except Exception as e:
             if "503" in str(e) and attempt < max_retries - 1:
@@ -310,6 +320,7 @@ def agent_synthetiseur_verdict(state: AgentState) -> dict:
                 time.sleep(10)
             else:
                 raise e
+            
             
     score_final = response.score_final
     if score_final == 0.0:
@@ -322,7 +333,11 @@ def agent_synthetiseur_verdict(state: AgentState) -> dict:
         reverse=True
     )[:5]
 
+    fin_noeud = time.perf_counter()
+    
     performance_log = state.get("performance_metrics", {"total_latency": 0.0, "total_api_calls": 0, "path_taken": []})
+    performance_log["total_latency"] += (fin_noeud - debut_noeud)
+    performance_log["total_api_calls"] += api_calls_count
     performance_log["path_taken"].append("Agent Synthétiseur Verdict")
 
     payload_interface = {
