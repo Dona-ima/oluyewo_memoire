@@ -1,0 +1,945 @@
+{
+  "id_rumeur": 931701,
+  "id_image": 931701,
+  "caption": "We looked at over 5900 Wikipedia edits from the Houses of Parliament s IP addresses",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747417/oluyewo_benchmark/dcft11nckpgnz1dpgihu.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Logo History #316: Wikipedia - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=MU2P3YeEMqA",
+      "image_url": "https://i.ytimg.com/vi/MU2P3YeEMqA/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3jQqdRkZmFQXB8FqerT2EfbvVx8ahXwPGmtP_tWBfIMrFeNI",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Logo History #316: Wikipedia - YouTube",
+        "link": "https://www.youtube.com/watch?v=MU2P3YeEMqA",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3jQqdRkZmFQXB8FqerT2EfbvVx8ahXwPGmtP_tWBfIMrFeNI",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/MU2P3YeEMqA/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Logo History #316: Wikipedia\n\nThe Future Godfather\n\nHello YouTube!!! Welcome to Logo History! For this episode we are taking a look at Wikipedia! It is an online encyclopedia launched in 2001 and it is the sou...",
+        "metadata": {
+          "title": "Logo History #316: Wikipedia",
+          "description": "Hello YouTube!!! Welcome to Logo History! For this episode we are taking a look at Wikipedia! It is an online encyclopedia launched in 2001 and it is the sou...",
+          "keywords": "video, sharing, camera phone, video phone, free, upload",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=MU2P3YeEMqA",
+          "og:title": "Logo History #316: Wikipedia",
+          "og:image": "https://i.ytimg.com/vi/MU2P3YeEMqA/hqdefault.jpg",
+          "og:image:width": "480",
+          "og:image:height": "360",
+          "og:description": "Hello YouTube!!! Welcome to Logo History! For this episode we are taking a look at Wikipedia! It is an online encyclopedia launched in 2001 and it is the sou...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=MU2P3YeEMqA&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=MU2P3YeEMqA&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=MU2P3YeEMqA&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/MU2P3YeEMqA",
+          "og:video:secure_url": "https://www.youtube.com/embed/MU2P3YeEMqA",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Logo History #316: Wikipedia",
+          "twitter:description": "Hello YouTube!!! Welcome to Logo History! For this episode we are taking a look at Wikipedia! It is an online encyclopedia launched in 2001 and it is the sou..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une vidéo YouTube intitulée 'Logo History #316: Wikipedia' présente l'histoire du logo de Wikipédia, une encyclopédie en ligne lancée en 2001.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "Wikipedia"
+        ],
+        "DATE": [
+          "2001"
+        ],
+        "EVENT": [
+          "Logo History #316: Wikipedia"
+        ],
+        "OTHER": [
+          "Logo History"
+        ]
+      },
+      "score_e5": 0.7563384309651554
+    },
+    {
+      "titre": "Why did Wikipedia gain the reputation of an non credible ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/wikipedia/comments/1c1uazj/why_did_wikipedia_gain_the_reputation_of_an_non/",
+      "image_url": "https://preview.redd.it/why-did-wikipedia-gain-the-reputation-of-an-non-credible-v0-z9b0i4ogtxtc1.jpeg?auto=webp&s=b71643cae0fd2329f4bd4c150fb5b287708db473",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLWZ80Ub4hZ1Lxh-pV3zIsHBjajrXS1QQjD16Vod3KPKZCADbt",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Why did Wikipedia gain the reputation of an non credible ...",
+        "link": "https://www.reddit.com/r/wikipedia/comments/1c1uazj/why_did_wikipedia_gain_the_reputation_of_an_non/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLWZ80Ub4hZ1Lxh-pV3zIsHBjajrXS1QQjD16Vod3KPKZCADbt",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://preview.redd.it/why-did-wikipedia-gain-the-reputation-of-an-non-credible-v0-z9b0i4ogtxtc1.jpeg?auto=webp&s=b71643cae0fd2329f4bd4c150fb5b287708db473",
+        "image_width": 2160,
+        "image_height": 3840
+      },
+      "webpage": {
+        "text": "Why did Wikipedia gain the reputation of an non credible source that it has now?\n\nI genuinely don’t understand the outward distrust of Wikipedia. As far as I know, it is fact checked constantly, and all edits have to be approved by site moderators which also fact check the source.\n\nCreVolve • r/wikipedia • 4/11/2024, 11:47:43 PM\n\n↑1,840 • 332 comments\n\n\n\n---\n* Moni3 • 4/12/2024, 12:15:01 AM • ↑880\n\n  Everyone has a bias. That outward distrust is good. People need to be wary of all information they take in, always weighing it.\n  \n  > all edits have to be approved by site moderators which also fact check the source.\n  \n  All edits aren't monitored like that. Bots will monitor some kinds of edits. But if you add information to an article and it looks like a kinda reliable source, there's a good chance no one will check it for a good long while. Someone might stumble on it and check it, but unless it's a really high traffic article and you're inserting a controversial view, it might stay unnoticed for years. It can also be found if the article is suggested for a copy edit or nominated for Good Article or Featured Article status. Those articles get some scrutiny.\n\n  \n\n  * Six_of_1 • 4/12/2024, 12:46:46 AM • ↑237\n\n    Also being monitored by moderators doesn't mean much because who are the moderators? Are they neutral or are they biased?\n\n    \n\n    * ComradeBehrund • 4/12/2024, 12:59:15 AM • ↑159\n\n      And are they knowledgeable in the field of every article they supervise? (No, they're social media moderators, not a peer-review)\n\n      \n\n      * Moni3 • 4/12/2024, 1:27:42 AM • ↑53\n\n        Good Article and Featured Article status are close to peer review. FA far more so than GA. After describing my utter frustration at the FA process I've been told by at least two PhDs that it's very similar.\n        \n        Just so the language is accurate: everyone who makes a user account on Wikipedia is an editor, whether they write 20-page articles or sort articles into categories, never adding any public info to any articles. There are no positions that use the term \"moderator\". Administrators are voted into their duties and can block and ban users and remove edits that break Wikipedia's rules. Arbitration Committee members are voted into their duties and make decisions about controversial topics and problematic users.\n\n        \n\n        * cp5184 • 4/12/2024, 2:29:14 PM • ↑15\n\n          \"peer review\" run by social media. Not by people who have any understanding of the subject.\n          \n          Military topics are some of the worst because you have people obsessed with war that don't have any grounding in the topics and can be absolute fanatics, developing misinformed positions set in stone.\n\n          \n\n          * HearingNo8617 • 4/12/2024, 7:32:44 PM • ↑2\n\n            Example?\n\n            \n\n            * cp5184 • 4/12/2024, 8:42:54 PM • ↑6\n\n              In the past it's been stuff like tanks. Overstating the flaws of the M4 sherman based on misinformation, things like needing 5 m4s to take one german tank, overstating the qualities of german tanks, german weaponry in general.\n              \n              A lot of that has been cleaned up....\n              \n              I've done a little work trying to clean up some of the navy and aircraft articles...\n              \n              low hanging fruit? The gun articles are some of the most obviously terrible.\n              \n              The AK-47 article is probably a mix of fanfiction and propaganda. Same with the M-16, articles overstating the qualities of german guns, painting false narratives...\n              \n              The AK-47 and M-16 both had quite difficult early years. The AK-47 had production difficulties for ~15+ years during which time it may as well not have existed, the SKS serving in it's place, by the time the AK-47 got going it had almost already been replaced by the AK-74...\n              \n              Particularly though... There's the propaganda surrounding it.\n              \n              The AK-47 became famous around the world, for the USSR it was like their coca cola or their levi jeans, or whatever... at the same time, as I mentioned, it was actually an enormous disaster.\n              \n              But that didn't stop the USSR from giving it the full celebrity treatment, giving it a false history and so on.\n              \n              If anything, it was more of a fantasy hero, like rambo, or luke skywalker, or mickey mouse, or something, like popeye.\n              \n              So the myth is that mikhail kalashnikov, a humble farmer, joined the army, was wounded, fighting on the frontlines, was wounded...\n              \n              In his hospital bed, he... speaking to nobody in particular (Making it all the more fortunate that there was someone there to record it) said outloud, \"Every german soldier has a futuristic machine gun, Russian soldiers have to share world war 1 mosin nagant... I shall design a rifle such that each russian soldier will be able to carry the best machine gun in the world!\", or something like that.\n              \n              So, in his hospital bed, he designs the AK-47, and saves the world for communism. Making good on his promise to put the best machine gun in the hand of every russian soldier.\n              \n              The AK-47 article probably retells most of this uncritically.\n              \n              Obviously it's all fantasy. iirc mikhail kalashnikov was a tractor mechanic. He probably worked with a team designing the AK-47 for a committee. At some point he was employed by a soviet armory.\n              \n              I don't know the exact sequence of events. But they're almost certainly misrepresented.\n              \n              The same can be said for most military gun articles on wikipedia.\n              \n              For instance try to find in the M-16 article that... I don't know the details, in 1959 I think, colt signed the first contract for select fire AR-15s to be sold to a military... what would become the M-16...\n              \n              The contract was with the Federation of Malaya. Also the british may have trialed it in the Malay emergency, don't know. Things like that. Also I doubt it covers how much of a disaster the M-16/AR-15 was, with basically everything being broken on it. Instead, last I checked, the article was more focused on pushing a false narrative related to some stupid american gun politics.\n              \n              Then there's the stg-44/assault rifle thing... Lots of BS there...\n              \n              So... the narrative is that in ww2 germany makes the \"revolutionary\" stg-44 out of nothing... And it creates the unbreakable mold for the STG, the Stermgewehr, the assault rifle...\n              \n              But... for instance, it doesn't mention things like the STG-57.\n              \n              Why is that important? The STG-57 damages the narrative of the hero myth of the STG-44 and so on... So rather than admit it, it's ignored.\n              \n              The Swiss STG-57? Like it never existed. The Austrian STG-58? Never heard of it...\n              \n              All ignored...\n              \n              An interesting point... one, also, obviously, ignored...\n              \n              Originally... the STG-44... wasn't called the STG-44... It was the MKB... MachineCarbine... A type of gun with a long history going back decades...\n              \n              But... Again... That breaks the narrative of the hero genius gun that created an entirely new kind of gun an entirely new name that only refers to one type of gun...\n              \n              The lewis Assault Phase rifle? Never heard of it, why even bring it up. The select-fire carbine/intermediate power rifles of world war 1? Why even mention them?\n              \n              It's just an endless parade of nonsense.\n              \n              The military fans like their stories, like their false narratives, and they don't like anything that contradicts them.\n\n              \n\n        * HearingNo8617 • 4/12/2024, 7:32:52 PM • ↑3\n\n          The real black pill is not that the Wikipedia good articles aren't similar to peer review, it is that peer review is not at all robust, so much crap gets through it\n\n          \n\n      * m0j0m0j • 4/12/2024, 2:44:52 PM • ↑3\n\n        Moderators may be knowledgeable about the subject, but they may be fanboys, not neutral experts. (Me having flashbacks of being overruled on Assange edits by a German openly communist moderator). This is why I read Britannica instead of Wiki, if possible, where not just knowledge, but at least some level of neutrality is also enforced\n\n        \n\n    * StarsofSobek • 4/12/2024, 7:20:50 AM • ↑18\n\n      Yeah, there’s definitely a few moderators who have bias or conflict of interest. Fun side note though: when my sibling was bored, back in the mid 2000’s, they’d find uncommon pages and edit them to test the updates and accuracy. The longest successful edit was for a fairytale that was manipulated into a murder story. It stayed up for three weeks before it was caught. My sibling was really proud of that one. Other edits didn’t last a week. Lol!\n\n      \n\n      * [deleted] • 4/12/2024, 7:34:14 AM • ↑6\n\n        I've done similar stuff. The quickest reversal was done within I think like ten minutes or so, and it was for a suburb of Seattle. I got a six month ban for that so I wouldn't be too surprised if the mod who reversed my edit was from there or something.\n\n        \n\n      * wtfduud • 4/12/2024, 7:31:29 PM • ↑2\n\n        If he wanted to be really diabolical, he could link to a source behind a paywall.\n\n        \n\n    * ChromeYoda • 4/12/2024, 12:08:59 PM • ↑6\n\n      Who watches the Watchmen?\n\n      \n\n    * [deleted] • 4/12/2024, 1:15:23 PM • ↑8\n\n      [deleted]\n\n      \n\n      * bellos_ • 4/12/2024, 1:52:23 PM • ↑2\n\n        > However Taylor Swift doesn't because the \"moderators\" on her page don't think it's relevant to her life.\n        \n        You mean because information about her personal life can be found in the 'Life and career' section of the article, which is made very clear if you read either it or the edit history. Most articles have them separated, but that doesn't mean the information was excluded.\n\n        \n\n    * Hollowplanet • 4/12/2024, 11:08:18 AM • ↑6\n\n      They have groups to organize and push their bias.\n\n      \n\n  * RadioPale6197 • 4/12/2024, 2:46:43 AM • ↑18\n\n    Reminds me of the tweet of some guy who increased the size of some state everytime he was drunk\n\n    \n\n    * nicholsml • 4/12/2024, 8:50:31 AM • ↑11\n\n      This one?\n      \n      https://www.reddit.com/r/a:t5_vv2wi/comments/amvwcv/everytime_im_drunk_i_make_missouri_slightly/\n\n      \n\n      * RadioPale6197 • 4/12/2024, 9:38:33 AM • ↑4\n\n        Exactly this one\n\n        \n\n      * StevenGorefrost • 4/12/2024, 2:16:54 PM • ↑3\n\n        He's right, that is a bitch nerd move.\n\n        \n\n  * gerwaldlindhelm • 4/12/2024, 3:20:20 AM • ↑26\n\n    I was debating with someone a while ago and told them edits are checked by moderators and she made a few random edits to prove me wrong. A day later a single edit got reversed. There are trolls and other bad actors vandalising articles so caution is always advised\n\n    \n\n    * KhanJrJr • 4/12/2024, 4:52:13 AM • ↑19\n\n      Approximately a decade ago, my spouse added himself to the notable residents section of our hometown’s Wikipedia page. It took months before it was removed as he did not indeed “run this town” as he claimed.\n\n      \n\n    * PritongKandule • 4/12/2024, 4:59:32 AM • ↑21\n\n      I'm a recent changes patroller (not an administrator, you literally just volunteer to do it. I did have to get approved by an admin to have user privileges like edits rollback and reverting pending changes.)\n      \n      For reference, this is what the recent changes log looks like. Yes that's a lot of information to parse through manually.\n      \n      We do have bots that take care of 80-90% of obvious vandalism (things with swear words, slurs or just deleting entire blocks of texts). We can also filter the log based on what the algorithm thinks are \"bad faith\" or \"low quality\" edits, filter edits from \"trusted\" accounts, and I have a few hundred pages on my watchlist which are often-vandalized pages that I check from time to time. I also have browser tools (like RedWarn) to simplify the process further with a few clicks.\n      \n      Still, making judgement calls on reverting a non-obvious bad faith edit can be difficult. It only takes 5-10 seconds for an editor to add an unsourced edit or claim, but it could take me 5-10 minutes to verify that the edit is not vandalism. Wikipedia advises editors to \"assume good faith\" unless there's a reason to believe otherwise so we can't just go reverting everything since it can be discouraging for newbie editors just looking to help or contribuite. I also live in the opposite of the globe from the US, so there are actually times when most US editors are asleep that I feel like there are only a very small handful of editors online checking the recent changes log which causes the backlog to build up.\n\n      \n\n      * ShinkoMinori • 4/12/2024, 11:21:34 AM • ↑7\n\n        The \"scots\" language got butchered by someone who wasnt scottish and didnt speak scots. The scotland goverment protested and after YEARS of being there got acknowledge by the editor but not the site.\n\n        \n\n    * BuonaparteII • 4/12/2024, 5:02:37 AM • ↑2\n\n      > A day later a single edit got reversed\n      \n      It depends on moderator discretion (or bot programming), but they can easily reverse all the (bad) edits by IP address\n\n      \n\n  * Truepeak • 4/12/2024, 8:50:44 AM • ↑7\n\n    Some obscure topics may even be written by someone with little understanding of the topic and still pass.\n    \n    Recently, I was implementing a rope data structure and the algorithm on wikipedia was wrong (it was technically correct, but slow enough to make the data structure useless)\n\n    \n\n    * wtfduud • 4/12/2024, 7:28:16 PM • ↑4\n\n      Wikipedia is a terrible place to look for help with technical/mathematical topics.\n      \n      Anyone who has tried to use wikipedia for highschool/university math homework can relate.\n\n      \n\n    * hayesarchae • 4/14/2024, 2:23:15 PM • ↑2\n\n      This plagues my discipline (anthropology). I love wikipedia in theory, but anything it says about culture, religion, or politics has to be taken with a huge grain of salt. Or any encyclopedia, really. In the case of a truly obscure topic, even an outfit like the Britannica is not going to hunt down a true expert on every entry, but rather have an \"area expert\" to research and write a broad range of related topics. They may or may not have ever studied that particular topic professionally.\n\n      \n\n  * WebBorn2622 • 4/12/2024, 7:55:58 AM • ↑12\n\n    Yeah as someone belonging to two very tiny ethnic minorities I can confirm 20% of what’s written about us is just made up, racist stereotypes or common misconceptions.\n    \n    But no one notices or bothers to do anything because who’s googling it exactly? No one.\n    \n    The frequently visited pages tend to be a bit more reliable\n\n    \n\n* gametheorisedTTT • 4/12/2024, 12:20:01 AM • ↑471\n\n  Because teachers taught in class that you shouldn't cite it as a source of information. And you shouldn't. Wikipedia or any encyclopedia isn't a source for your academic work but the sources cited in Wikipedia may well be.\n  \n  And this was lost in translation to be Wikipedia is unreliable.\n  \n  This was alongside more valid concerns of Wikipedia being able to be changed by anyone. This may well have been an issue a decade ago but as far as I know, nowadays Wikipedia has a variety of methods to keep it moderated, especially on higher traffic articles, but I guess some really obscure article can be manipulated (?)\n\n  \n\n  * boredindividual413 • 4/12/2024, 2:07:40 AM • ↑158\n\n    Whenever my classmates complain about not being able to cite Wikipedia I just tell them to cite Wikipedia's sources...I don't get why this is such a groundbreaking concept to some people.\n\n    \n\n    * scarabic • 4/12/2024, 3:49:30 AM • ↑76\n\n      Sadly 3/4 of the time I try to check sources the links are broken.\n\n      \n\n      * wikipedianredditor • 4/12/2024, 5:13:58 AM • ↑49\n\n        Some of those will have an archived version.\n\n        \n\n        * CloakerJosh • 4/12/2024, 5:45:03 AM • ↑28\n\n          Indeed - you can use archive.org to pull up since-removed material in the vast majority of cases.\n\n          \n\n      * cannedrex2406 • 4/12/2024, 2:38:37 PM • ↑7\n\n        Honestly, I just pull the info from the wiki and still use the expired source link when I was in University\n        \n        They don't really check all the sources unless it's very important to the report/paper (and in which case, why the fuck are you using Wikipedia for something so important)\n\n        \n\n    * cyrilio • 4/12/2024, 3:49:57 AM • ↑31\n\n      This is exactly the power of Wikipedia. You can get a basic overview of a topic. But if you want to dive in to the research/sources. They’re right there!! Just one click away.\n\n      \n\n      * [deleted] • 4/12/2024, 6:35:19 AM • ↑9\n\n        [deleted]\n\n        \n\n    * yaujj36 • 4/12/2024, 6:40:58 PM • ↑5\n\n      To be honest, I think schools need to teach the beauty of academic papers. It is so very interesting to read. However, I feel like school are not teaching you to read an academic paper unless you are in university which is very crucial for your course.\n\n      \n\n    * mahleg • 4/12/2024, 8:32:18 PM • ↑3\n\n      In college what I would do is use the citations from Wikipedia and drop them into LexisNexis for related articles and boom lots of additional sources for whatever dumb paper I was writing.\n\n      \n\n  * Coldones • 4/12/2024, 5:39:57 AM • ↑27\n\n    funny that my teachers in HS didn't let us use wikipedia but they would be fine with some random old geocities page or seo spam article\n\n    \n\n    * redbananass • 4/12/2024, 12:08:52 PM • ↑19\n\n      Exactly. Like Wikipedia is probably more reliable than some random website. And the same questions people ask about Wikipedia, like who wrote this, what is their bias, etc, should be asked of any source.\n\n      \n\n  * [deleted] • 4/12/2024, 3:14:21 AM • ↑8\n\n    I agree. My university poli-sci courses insisted that we cite primary sources only. Encyclopedias, newspapers, and magazines didn't count. But if those publications published their sources, we had a starting point for further research. Wikipedia is not a primary source but that doesn't mean it's unreliable.\n\n    \n\n    * dbdr • 4/12/2024, 7:14:12 AM • ↑5\n\n      And it seems to me Wikipedia generally cites sources more than most newspapers and magazines do.\n\n      \n\n    * vulpinefever • 4/12/2024, 6:50:00 PM • ↑2\n\n      Primary and Secondary sources are fine. It's tertiary sources that you can't cite in academic works.\n      \n      A primary source is an interview, statistical data, works of art, original research papers where the researchers participated or observed it themselves. A magazine or newspaper article could be a primary source, especially if it's about a story that the journalist personally witnessed. Secondary sources are papers that discuss other primary sources like meta-analysis articles and review papers, you can still use these in academic works because secondary sources provide their own interpretation.\n      \n      Tertiary sources are things like wikipedia or an encyclopedia which summarise a topic by providing an overview of multiple primary and secondary sources but do not introduce any additional interpretation. These can't be used for academic research because they basically just repeat what primary and secondary sources have said.\n\n      \n\n  * JeezThatsBright • 4/12/2024, 1:36:25 AM • ↑13\n\n    I've seen unreliable stuff happen, but generally for high-traffic articles I trust it. I've made",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Une discussion sur Reddit aborde la réputation de Wikipédia et la perception de sa crédibilité, évoquant le processus de validation des modifications par les modérateurs, administrateurs et membres du comité d'arbitrage, ainsi que les critiques concernant la vérification des sources et les biais potentiels.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "CreVolve",
+          "Moni3",
+          "Six_of_1",
+          "ComradeBehrund",
+          "cp5184",
+          "HearingNo8617",
+          "Kubura"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Reddit",
+          "Wikipedia"
+        ],
+        "DATE": [
+          "4/11/2024",
+          "4/12/2024"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "M4 Sherman"
+        ]
+      },
+      "score_e5": 0.7746983714880316
+    },
+    {
+      "titre": "Wikipedia, Other Sites to Go Dark Today | Burr Ridge, IL Patch",
+      "source": "Patch",
+      "lien": "https://patch.com/illinois/burrridge/wikipedia-other-sites-to-go-dark-tomorrow-c12a895e",
+      "image_url": "https://patch.com/img/cdn/users/188795/2012/01/raw/9f6a2648d94e88ddf4814df9557a9e8c.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Bnrvay_MT-Coh7LWE88F3Kf25VwvRPgjK8liUpl4HvyflN0x",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Wikipedia, Other Sites to Go Dark Today | Burr Ridge, IL Patch",
+        "link": "https://patch.com/illinois/burrridge/wikipedia-other-sites-to-go-dark-tomorrow-c12a895e",
+        "source": "Patch",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRN5lD-E5p27T9mmYmTn0uRywUFEu9-8rTb5T3b8bLd56gnAj3nCovzAv467hq4Y7ctN6Fnsxyfv3J9g6emwCpMX4FGKg-zwy3rjUaDvRM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Bnrvay_MT-Coh7LWE88F3Kf25VwvRPgjK8liUpl4HvyflN0x",
+        "thumbnail_width": 249,
+        "thumbnail_height": 203,
+        "image": "https://patch.com/img/cdn/users/188795/2012/01/raw/9f6a2648d94e88ddf4814df9557a9e8c.jpg",
+        "image_width": 768,
+        "image_height": 627
+      },
+      "webpage": {
+        "text": "Wikipedia, Other Sites to Go Dark Today\n\nSkip to main content\n\n * Darien, IL\n * Hinsdale-Clarendon Hills, IL\n * Western Springs, IL\n * La Grange, IL\n * Lemont, IL\n * Downers Grove, IL\n * Oak Brook, IL\n * Woodridge, IL\n * Palos, IL\n * Oak Lawn, IL\n\n * Illinois\n\n * Top National News\n * See All Communities\n\nSince launching in 2001, Wikipedia has become a go-to reference guide for the Internet-savvy, with many people casually checking it every day to answer one question or another. But tomorrow, you’ll be on your own.\n\nWikipedia has joined with several other high-profile websites in a 24-hour blackout, to protest a pair of Internet regulations bills making their way through Congress. Other sites involved include Reddit, Mozilla and Boing Boing, according to this Huffington Post report. \n\nThe blackout will only affect the English-language version of Wikipedia. The blackout begins at midnight Eastern Time on Wednesday, which is 11 p.m. Central Time Tuesday night, and run for 24 hours. Visitors to Wikipedia and other protesting sites will see a message opposing the two proposals, the Stop Internet Piracy Act and the Protect IP Act.\n\n\nFind out what's happening in Burr Ridgefor free with the latest updates from Patch.\n\nSue Gardner, executive director of the Wikimedia Foundation, goes into her reasons for the blackout here. Other sites, like Google, will join in the protest, but will not go dark. Google will post a link to its homepage expressing its opposition to the proposed legislation.\n\nThe two bills in question are aimed at curtailing Internet piracy, and giving the government more tools to crack down on illegal uploads and downloads. The bills are supported by Hollywood studios, music publishers and other copyright holders, who believe piracy is hurting their business.\n\n\nFind out what's happening in Burr Ridgefor free with the latest updates from Patch.\n\nBut opponents say the proposed legislation goes too far, and would force sites like Google to become “online police,” according to this ABC News report. Opponents also say the laws run counter to the notion of a free and open Internet.\n\nPatch.com and AOL are not participating in the blackout. \"As written, we\ncannot support the bills.  We believe an open Internet is critical for\ninnovation, job creation, and the sustained growth of Internet\nbusinesses. We are in the process of working directly with lawmakers\nto improve the bills,\" Tekedra N. Mawakana, AOL's Senior Vice\nPresident of Public Policy, said.\n\nThe Stop Online Piracy Act (SOPA) would give the U.S. Department of Justice the ability to seek court orders against websites accused of copyright infringement. Those court orders could include banning those sites from search engines, and requiring Internet service providers to block access to them. \n\nA House Judiciary Committee meeting on the bill was scheduled for Wednesday, but President Barack Obama has voiced opposition to it, and it has been shelved, according to this Forbes report.\n\nSOPA’s counterpart in the Senate, the Protect Intellectual Property Act (PIPA), is similar, and would also allow the U.S. Department of Justice to seek court orders against sites accused of copyright infringement, and demand that search engines and other linking sites remove access to them.\n\nSenate Majority Leader Harry Reid has set the first vote on PIPA for Jan. 24, according to ABC News.\n\nFor more, check out this Time Magazine guide to surviving Wednesday’s Wikipedia blackout.\n\nGet more local news delivered straight to your inbox. Sign up for free Patch newsletters and alerts.",
+        "metadata": {
+          "description": "The 24-hour blackout is in protest of a pair of bills moving through Congress that would allow for more strict regulation of Internet piracy. Wikipedia's blackout starts at 11 p.m. Tuesday night.",
+          "author_id": "188795",
+          "og:title": "Wikipedia, Other Sites to Go Dark Today",
+          "og:description": "The 24-hour blackout is in protest of a pair of bills moving through Congress that would allow for more strict regulation of Internet piracy. Wikipedia's blackout starts at 11 p.m. Tuesday night.",
+          "og:image": "https://patch.com/img/cdn/users/188795/2012/01/raw/9f6a2648d94e88ddf4814df9557a9e8c.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "900",
+          "og:site_name": "Burr Ridge, IL Patch",
+          "og:updated_time": "2012-01-18T17:22:33Z",
+          "og:type": "article",
+          "og:url": "https://patch.com/illinois/burrridge/wikipedia-other-sites-to-go-dark-tomorrow-c12a895e",
+          "article:section": "Community Corner",
+          "article:modified_time": "2012-01-18T17:22:33Z",
+          "article:published_time": "2012-01-18T01:46:47Z",
+          "apple-mobile-web-app-title": "Patch",
+          "fb:app_id": "521361477908471",
+          "fb:pages": "57421062540",
+          "og:locale": "en_US"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "url": "https://patch.com/illinois/burrridge/wikipedia-other-sites-to-go-dark-tomorrow-c12a895e",
+          "headline": "Wikipedia, Other Sites to Go Dark Today",
+          "description": "The 24-hour blackout is in protest of a pair of bills moving through Congress that would allow for more strict regulation of Internet piracy. Wikipedia&apos;s blackout starts at 11 p.m. Tuesday night.",
+          "datePublished": "2012-01-18T01:46:47Z",
+          "dateModified": "2012-01-18T17:22:33Z",
+          "articleSection": "Community Corner",
+          "author": {
+            "@type": "Person",
+            "name": "Andre Salles",
+            "url": "https://patch.com/users/andre-salles"
+          },
+          "image": [
+            "https://patch.com/img/cdn/users/188795/2012/01/raw/9f6a2648d94e88ddf4814df9557a9e8c.jpg"
+          ],
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://patch.com/illinois/burrridge/wikipedia-other-sites-to-go-dark-tomorrow-c12a895e"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Patch",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://patch.com/img/cdn/assets/layout/icons/logo/android-chrome-192x192.png?width=48",
+              "width": "48",
+              "height": "48"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Wikipédia et d'autres sites web comme Reddit, Mozilla et Boing Boing prévoient un black-out de 24 heures pour protester contre deux projets de loi de réglementation d'Internet aux États-Unis, à savoir le Stop Online Piracy Act (SOPA) et le Protect IP Act. La Wikimedia Foundation, Google, AOL, la Chambre des représentants des États-Unis et le département de la Justice des États-Unis sont également mentionnés en lien avec ces propositions législatives.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sue Gardner",
+          "Tekedra N. Mawakana",
+          "Barack Obama"
+        ],
+        "LOCATION": [
+          "Burr Ridge",
+          "Illinois",
+          "Darien",
+          "Hinsdale-Clarendon Hills",
+          "Western Springs",
+          "La Grange",
+          "Lemont",
+          "Downers Grove",
+          "Oak Brook",
+          "Woodridge",
+          "Palos",
+          "Oak Lawn",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Wikipedia",
+          "Patch",
+          "Reddit",
+          "Mozilla",
+          "Boing Boing",
+          "Huffington Post",
+          "Wikimedia Foundation",
+          "Google",
+          "ABC News",
+          "AOL",
+          "House Judiciary Committee",
+          "Forbes",
+          "U.S. Department of Justice",
+          "Congress"
+        ],
+        "DATE": [
+          "2001",
+          "Wednesday",
+          "Tuesday night"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Stop Internet Piracy Act",
+          "Protect IP Act",
+          "Stop Online Piracy Act",
+          "SOPA"
+        ]
+      },
+      "score_e5": 0.762642205417927
+    },
+    {
+      "titre": "Horrors From Wikipedia - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=Fgt6ZSBBIro",
+      "image_url": "https://i.ytimg.com/vi/Fgt6ZSBBIro/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNAk1R-4KhdXIpPAJoFTQhYcjfbvcskKKs9isFBf08nr7gfJEE",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Horrors From Wikipedia - YouTube",
+        "link": "https://www.youtube.com/watch?v=Fgt6ZSBBIro",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNAk1R-4KhdXIpPAJoFTQhYcjfbvcskKKs9isFBf08nr7gfJEE",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/Fgt6ZSBBIro/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Horrors From Wikipedia\n\nSomething Sinister\n\nAs of right now, Wikipedia is collecting money in an effort to make it through another year. If you’re like me, you probably used the website countless times...",
+        "metadata": {
+          "title": "Horrors From Wikipedia",
+          "description": "As of right now, Wikipedia is collecting money in an effort to make it through another year. If you’re like me, you probably used the website countless times...",
+          "keywords": "horrors, from, wikipedia, scary, disturbing, story, narration, something sinister, true crime, article, articles, wiki",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=Fgt6ZSBBIro",
+          "og:title": "Horrors From Wikipedia",
+          "og:image": "https://i.ytimg.com/vi/Fgt6ZSBBIro/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "As of right now, Wikipedia is collecting money in an effort to make it through another year. If you’re like me, you probably used the website countless times...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=Fgt6ZSBBIro&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=Fgt6ZSBBIro&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=Fgt6ZSBBIro&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/Fgt6ZSBBIro",
+          "og:video:secure_url": "https://www.youtube.com/embed/Fgt6ZSBBIro",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "wiki",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Horrors From Wikipedia",
+          "twitter:description": "As of right now, Wikipedia is collecting money in an effort to make it through another year. If you’re like me, you probably used the website countless times..."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "@id": "https://www.youtube.com/watch?v=Fgt6ZSBBIro",
+          "name": "Horrors From Wikipedia",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fgt6ZSBBIro/maxresdefault.jpg",
+          "uploadDate": "2025-12-30T10:52:11-08:00",
+          "comment": [
+            {
+              "@type": "https://schema.org/Comment",
+              "dateCreated": "2025-12-30T14:56:27-08:00",
+              "text": "\"Wikipedia is not a source\" runs through my head in an echo of many teachers voices from my high school years whenever I visit the site",
+              "author": {
+                "@type": "https://schema.org/Person",
+                "name": "@subterreneanhomesickalien",
+                "url": "https://www.youtube.com/@subterreneanhomesickalien",
+                "alternateName": "bootes"
+              },
+              "upvoteCount": 1753
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une vidéo YouTube intitulée 'Horrors From Wikipedia' mentionne que Wikipédia collecte des fonds pour pouvoir traverser une nouvelle année.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "Wikipedia"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Horrors From Wikipedia"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7698394727607053
+    },
+    {
+      "titre": "Croatian Wikipedia - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Croatian_Wikipedia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-hr.svg/1280px-Wikipedia-logo-v2-hr.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU45Kur6nZNx_WpNwyWgXDi5NOZ_iN8iaq5_dVwFB5AlQ0G1zK",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Croatian Wikipedia - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Croatian_Wikipedia",
+        "source": "Wikipedia",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRLIcgPlYxOaoBg0MnSobLYyflrgF_RLdwAY09AXHWGy2jqWQnuIBNCY5I1BuzY7jeAJga0y0b9htBHe94i3Pg4B0NhHMNDVsmS-FVRKL014d-Xf6sX",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU45Kur6nZNx_WpNwyWgXDi5NOZ_iN8iaq5_dVwFB5AlQ0G1zK",
+        "thumbnail_width": 241,
+        "thumbnail_height": 209,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-hr.svg/1280px-Wikipedia-logo-v2-hr.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "image_width": 1470,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Croatian Wikipedia\n\nCroatian-language edition of Wikipedia\n\n\nScreenshot\nCroatian Wikipedia's Main Page on 17 January 2021\nType of site      Internet encyclopedia project\nAvailable in      Croatian\nOwner             Wikimedia Foundation\nURL               hr.wikipedia.org\nCommercial        No\nRegistration      Optional\nLaunched          16 February 2003; 23 years ago (2003-02-16)\nContent license   Creative Commons Attribution/\n                  Share-Alike 4.0 (most text also dual-licensed under GFDL)\n                  Media licensing varies\n\nThe Croatian Wikipedia (Croatian: Wikipedija na hrvatskome jeziku) is the Croatian language version of Wikipedia, which was created on 16 February 2003.[1] It has 235,297 articles and a total of 7.58 million edits. It has 367,859 registered users, out of which 1,004 have been active in the last 30 days, and 14 administrators. Throughout 2014, fewer than two dozen editors made more than 100 edits a month; around 150 made more than 5 edits a month.[2] As of July 2024, there were about 135 editors making at least 5 edits a month.[3]\n\nBetween 2013 and 2021, the Croatian Wikipedia received attention from international media for promoting a Croatian nationalist[4] far-right worldview, including anti-LGBT propaganda and bias against the Serbs of Croatia through historical denialism and the negation or dilution of the severity of crimes committed by the Ustaše regime under the Independent State of Croatia. The crimes of World War II–era criminals, as well as those of contemporary Croatian politicians and public figures, were whitewashed, supported by massive usage of unreliable sources,[5][6] all of which received negative reception from the Croatian government, media, and historians.[7][8] Several editors involved in co-opting Croatian Wikipedia throughout the 2010s were banned or demoted in 2021, when one of the most active administrators, under the username \"Kubura\", was found to have taken control of the site through approximately eighty sockpuppet accounts.[9][10][11]\n\n\n2011 reliability analysis\n\nIn a 2011 study by Kubelka and Šoštarić, the reliability of Croatian Wikipedia was compared to Croatian Encyclopedia – the Croatian national encyclopedia.[12] Twenty-four reviewers, experts in specific fields, analyzed a representative selection of articles according to the parameters of informativeness, accuracy of presented information, sufficiency, direction and objectivity. Articles were analyzed in 11 thematic categories: arts and culture; history and biographies; medicine and health; technology and applied science; geography; religion; science; mathematics and logic; philosophy; sport and society; and social sciences. Articles were sorted into categories using machine learning techniques, and feature weight statistics were calculated using tf–idf. A total of 500 articles in 250 pairs were randomly chosen and sorted into categories to serve as representative samples.[13]\n\nIn both samples, facts were manually enumerated – 3015 from the Croatian Encyclopedia and 3315 from Croatian Wikipedia. Comparison for factual accuracy showed that for every error in the Croatian Encyclopedia, 2.25 errors were found in Croatian Wikipedia.[14] Analysis by individual categories showed that most errors in Croatian Wikipedia were in the philosophy category, where on average two errors in ten articles were found. The only category where the Croatian Encyclopedia had more errors was natural sciences, where the ratio was 1.25:0.75 in favor of Croatian Wikipedia.[15] Of those factual errors, the ratio was 21:12 for major errors, and 34:23 for minor errors. The overall ratio for minor factual errors was thus lower, the only exception being the society and social sciences category, where the minor error ratio was 3:1.\n\nThe reliability analysis for Croatian Wikipedia indicated that 74% of articles were error-free, and 11% had minor errors. Major factual errors were found in 5% of articles, while 4% of articles had both major and minor errors. Overall 85% of articles were deemed \"satisfactory\" (error-free and containing minor errors), while in comparison 92% of articles in the Croatian Encyclopedia achieved the same rating.[16] 40% of articles in Croatian Wikipedia were assessed as sufficiently informative, as opposed to 62% of articles in Croatian Encyclopedia. 16% of Croatian Wikipedia articles were assessed as \"insufficiently informative\", as opposed to 5% of articles from Croatian Encyclopedia.[17] The criterion of objectivity measured the neutral point of view in articles; 91% of Croatian Wikipedia articles were assessed as neutral, as opposed to 98% in Croatian Encyclopedia. 2% of Croatian Wikipedia articles were assessed as non-neutral, as opposed to 0% in Croatian Encyclopedia.[17] According to their subjective preference, reviewers chose 53% of articles in Croatian Encyclopedia as their preferred article version, while only 19.5% of Wikipedia articles were preferred, with 27% of articles being assessed as equal in quality.[18]\n\n\nControversies\n\nSee also: Far-right politics in Croatia\n\n\nMedia reports about political bias\n\nIn September 2013, complaints about right-wing bias of administrators and editors on the Croatian Wikipedia began to receive attention from the media, following the launch of a Facebook page titled Razotkrivanje sramotne hr.wikipedije (Exposing the disgraceful hr.wikipedia) which was created with the intent of bringing attention to the issue. According to Jurica Pavičić, a professor at the University of Split and columnist for daily newspaper Jutarnji list, the gradual takeover of the Croatian Wikipedia was started in 2009 by \"a small group of conservative administrators\" who blocked editors for having \"liberal-to-moderate views on controversial topics\".[19][5] Reported examples of bias include historical negationism such as watering-down and denial of the crimes committed by the Ustaše regime, and equating anti-fascism with forms of totalitarianism.[20] Other issues included the bias against Serbs of Croatia and the LGBT population.[21][22] Editors who tried to remove the biased sections were reportedly being harassed by administrators and quickly received permanent blocks under various pretexts.[23] The issue was reported by Jutarnji list and featured on the front page of its print edition on 11 September 2013.[24]\n\n\nGovernment reaction\n\nTwo days later, Croatia's Minister of Science, Education and Sports, Željko Jovanović, called for students in Croatia to avoid using Croatian Wikipedia.[25] In an interview with Novi list, Jovanović stated:[25]\n\n> the idea of openness and relevance as a knowledge source that Wikipedia could and should represent has been completely discredited – which, for certain, has never been the goal of Wikipedia's creators nor the huge number of people around the world who share their knowledge and time using that medium. Croatian pupils and students have been wronged by this, so we have to warn them, unfortunately, that a large part of the content of the Croatian version of Wikipedia is not only dubious but also  obvious forgeries, and therefore we invite them to use more reliable sources of information, which include Wikipedia in English and in other major languages of the world.\n\nJovanović also referred to Croatian Wikipedia editors as a \"minority group that has usurped the right to edit the Croatian-language Wikipedia\".[25] Wikipedia's co-founder Jimmy Wales said that complaints about bias on Croatian Wikipedia were \"nothing new\", but that Jovanović's denunciation was alarming. Wales reiterated his opinion that separating Croatian and Serbian Wikipedias was wrong, as they \"in fact use the same language\".[26]\n\n\nInterviews with historians\n\nIn 2013, in an interview given to Index.hr, Robert Kurelić, a professor of history at the Juraj Dobrila University of Pula, commented that \"the Croatian Wikipedia is only a tool used by its administrators to promote their own political agendas, giving false and distorted facts\".[8] Some examples he listed include the Croatian Wikipedia's coverage of the term Istrijanstvo (Istrianism), defined as a \"movement fabricated to reduce the number of Croats\", and antifašizam (anti-fascism), which according to him was defined as the opposite of what it really means.[8] Kurelić further advised \"that it would be good if a larger number of people got engaged and started writing on Wikipedia\", because \"administrators want to exploit high-school and university students, the most common users of Wikipedia, to change their opinions and attitudes, which presents a serious issue\".[8]\n\nAlso in 2013, Snježana Koren, a historian at the Faculty of Humanities and Social Sciences, University of Zagreb, judged the disputed articles as \"biased and malicious, partly even illiterate\", in an interview with Croatian news agency HINA.[27] She further added that \"These are the types of articles you can find on the pages of fringe organizations and movements, but there should be no place for that on Wikipedia\", expressing doubts on the ability of its authors to distinguish good from evil.[27] Koren concluded that the ulterior motive of such writings was to rehabilitate the Independent State of Croatia, a puppet state of Nazi Germany, and that \"there is no other way to characterize such efforts than as Ustaše movement\".[27]\n\nThe Croatian Wikipedia page on the Jasenovac concentration camp was regarded as a prime example of its historical negationism and distortions. The Croatian version of the page referred to the WWII Jasenovac concentration camp as a \"collection camp\" and labour camp, downplayed the crimes committed there as well as the number of victims, and relied on \"right-wing media and private blogs\" for \"a large number\" of its references.[28] Hrvoje Klasić, also a historian at the Faculty of Humanities and Social Sciences in Zagreb, stated to the Balkan Investigative Reporting Network in 2018 that \"although Jasenovac was in part a labour camp, referring to it as that alone is misleading\", arguing that \"referring to Jasenovac as simply a collection and labour camp is to use 'the same language' as Ustasa propaganda\", and also added that \"a number of articles and topics are done in a completely revisionist manner , with highly emphasised nationalist and, I would dare to say, pro-Ustasa sentiment\".[28]\n\n\nDisinformation assessment by Wikimedia Foundation\n\nIn 2021, the Wikimedia Foundation posted a job ad for a disinformation evaluator position, with the aim to further examine disputed content on the Croatian Wikipedia.[29][better source needed] In March 2021, a number of changes were made to remove administrative access from a group of editors considered responsible for the entire affair, some of whom had their names published in Croatian media.[7][better source needed] One of these was exposed to be a known far-right web portal editor, who passed off his self-published materials as \"reliable sources\" on the Croatian Wikipedia.[30] In April 2021, an article was published by the Western Balkans edition of Radio Free Europe stating how the situation of the Croatian-language Wikipedia has finally changed and that the correction of problematic articles was in progress.[31] Editing activity picked up from 2020 through early 2022, with over 200 editors making at least 5 edits a month. As of July 2024, there were about 135 editors making at least 5 edits a month.[3]\n\nIn June 2021, Wikimedia published a Croatian Wikipedia Disinformation Assessment, which was conducted by an external expert. The report concluded that \"a group of Croatian language Wikipedia (Hr.WP) admins held undue de facto control over the project at least from 2011 to 2020.[9] During that time, the group intentionally distorted the content presented in Croatian language Wikipedia articles in a way that matched the narratives of political organisations and groups that can broadly be defined as the Croatian radical right.\"[9] According to the assessment, the administrators had abused their power to ban dissidents and selectively enforce and break rules, resulting in project capture.[9]\n\n\nReferences\n\n 1.  ↑ \"Glavna stranica\". Wikipedia (in Croatian). Wikimedia Foundation. Archived from the original on 11 March 2012. Retrieved 31 October 2011.\n 2.  ↑ \"Wikipedia Statistics Croatian\". stats.wikimedia.org. Wikimedia Foundation. Archived from the original on 12 October 2014. Retrieved 10 December 2014.\n 3.  1 2 \"Wikistats - Statistics For Wikimedia Projects\". stats.wikimedia.org. Archived from the original on 11 July 2020. Retrieved 28 July 2024.\n 4.  ↑ Gadzo, Mersiha. \"Are Croat nationalists pushing a political agenda on Wikipedia?\". Al Jazeera. Retrieved 25 April 2026.\n 5.  1 2 Dewey, Caitlin (4 August 2014). \"Men's rights activists think a \"hateful\" feminist conspiracy is ruining Wikipedia\". The Washington Post. Archived from the original on 4 August 2014. Retrieved 8 April 2020.\n 6.  ↑ \"Što nas Wikipedia uči o medijskoj pismenosti: Kako su pali Daily Mail, Breitbart i InfoWars\". Faktograf.hr (in Croatian). 18 October 2018. Archived from the original on 23 March 2019. Retrieved 30 January 2019.\n 7.  1 2 Jarić Dauenahuer, Nenad (23 March 2021). \"Hrvatska Wikipedija konačno prestaje biti ustaško ruglo\". Index.hr (in Croatian). Archived from the original on 6 January 2022. Retrieved 10 July 2021.\n 8.  1 2 3 4 \"Jovanovićeva poruka učenicima i studentima: Ne koristite hrvatsku Wikipediju!\" [Jovanović's message to pupils and students: Don't use Croatian Wikipedia!]. Index.hr (in Croatian). 13 September 2013. Retrieved 13 September 2013.\n 9.  1 2 3 4 5 \"Croatian Wikipedia Disinformation Assessment-2021 – Meta\". Meta Wikimedia. Archived from the original on 14 March 2022. Retrieved 14 June 2021. Many articles created and edited by the members of this group present the views that match political and socio-cultural positions advocated by a loosely connected group of Croatian radical right political parties and ultra-conservative populist movements. The group has been using its positions of power to attract new like-minded contributors, silence and ban dissenters, manipulate community elections and subvert Wikipedia's and the broader movement's native conflict resolution mechanisms.\n 10. ↑ \"Wikimedia bans admin of Wikipedia Croatia for pushing radical right agendas\". therecord.media. Archived from the original on 11 January 2024. Retrieved 11 January 2024.\n 11. ↑ Krnić, Lovro (16 March 2021). \"Početak kraja Endehapedije\". Portal Novosti. Archived from the original on 1 May 2022. Retrieved 11 January 2024.\n 12. ↑ Kubelka & Šoštarić 2013.\n 13. ↑ Kubelka & Šoštarić 2013, p. 124-125.\n 14. ↑ Kubelka & Šoštarić 2013, p. 127.\n 15. ↑ Kubelka & Šoštarić 2013, p. 128.\n 16. ↑ Kubelka & Šoštarić 2013, p. 129.\n 17. 1 2 Kubelka & Šoštarić 2013, p. 130.\n 18. ↑ Kubelka & Šoštarić 2013, p. 131.\n 19. ↑ Sampson, Tim (1 October 2013). \"How pro-fascist ideologues are rewriting Croatia's history\". dailydot.com. Archived from the original on 4 March 2016. Retrieved 1 July 2015.\n 20. ↑ \"Fascist movement takes over Croatian Wikipedia?\". InSerbia News. Archived from the original on 29 September 2013. Retrieved 13 September 2013.\n 21. ↑ Trolls hijack Wikipedia to turn articles against gays Archived 2018-07-08 at the Wayback Machine, Gay Star News\n 22. ↑ Tko prepravlja LGBT Hrvatsku na Wikipediji?\n 23. ↑ \"Kako je hrvatsku Wikipediju uzurpirala ustašoidna desnica\" [How did pro-Ustasha right-wing editors take Croatian Wikipedia]. Tportal (in Croatian). 11 September 2013. Retrieved 11 September 2013.\n 24. ↑ \"Desničari preuzeli uređivanje hrvatske Wikipedije\" [Right-wing editors took over the Croatian Wikipedia]. Jutarnji list (in Croatian). 10 September 2013. Archived from the original on 25 March 2016. Retrieved 11 September 2013.\n 25. 1 2 3 \"Jovanović: Djeco, ne baratajte hrvatskom Wikipedijom jer su sadržaji falsificirani\" [Jovanović: \"Children, do not use the Croatian Wikipedia because its contents are forgeries\"]. Novi list (in Croatian). 13 September 2013. Archived from the original on 14 September 2013. Retrieved 13 September 2013.\n 26. ↑ Penić, Goran (14 September 2013). \"Osnivač Wikipedije govori za Nedjeljni: 'Srbi i Hrvati ne smiju imati odvojene Wikipedije'\" [Wikipedia Founder Talks to Sunday News: 'Serbs and Croats must not have separate Wikipedias']. Jutarnji list (in Croatian). Archived from the original on 16 December 2019. Retrieved 8 April 2020. Wales je u raspravi iznio zanimljiv, ali i kontroverzan stav oko hrvatske i srpske Wikipedije. On se, kaže, oduvijek zalagao da na području Balkana ne trebaju postojati dvije odvojene Wikipedije, srpska i hrvatska, jer da je zapravo riječ o istom jeziku, samo drugačijem pismu. [During the argument, Wales made an interesting, but controversial point about the Croatian and Serbian Wikipedias. He says he has always supported the idea of not having two separate Wikipedias, a Serbian and a Croatian one, in the Balkans region, as they in fact use the same language, albeit with different scripts.]\n 27. 1 2 3 \"Hr.wikipedija pod povećalom zbog falsificiranja hrvatske povijesti\" [Croatian Wikipedia under scrutiny for fabricating Croatian history]. Novi list (in Croatian). HINA. 15 September 2013. Archived from the original on 21 December 2013. Retrieved 15 September 2013.\n 28. 1 2 Milekic, Sven (26 March 2018). \"How Croatian Wikipedia Made a Concentration Camp Disappear\". Balkan Insight. Archived from the original on 27 March 2022. Retrieved 27 November 2019.\n 29. ↑ \"Wikipedija u obračunu s dezinformacijama na hrvatskom: Objavili oglas za novo radno mjesto\". tportal.hr (in Croatian). Archived from the original on 4 February 2021. Retrieved 31 January 2021.\n 30. ↑ Krnić, Lovro (16 March 2021). \"Početak kraja Endehapedije\". Novosti (in Croatian). Archived from the original on 1 May 2022. Retrieved 10 July 2021.\n 31. ↑ Zebić, Enis (6 April 2021). \"Demontaža revizionističkih sadržaja u hrvatskoj Wikipediji\" [The dismantling of revisionist content on Croatian Wikipedia]. slobodnaevropa.org (in Serbo-Croatian). Radio Free Europe/Radio Liberty. Retrieved 27 July 2024.\n\n * Kubelka, Ozren; Šoštarić, Petra (2013), \"Wikipedija nasuprot Hrvatskoj enciklopediji, kvalitativan odnos slobodno i tradicionalno uređenoga enciklopedijskoga sadržaja na hrvatskom jeziku\" [Wikipedia opposite the Croatian Encyclopedia, a qualitative relation between a freely and a traditionally edited encyclopedic text in Croatian], Studia lexicographica (PDF) (in Croatian), 9, Zagreb: Miroslav Krleža Lexicographical Institute: 119–133, retrieved 20 July 2018\n\n * \"Hrvati koji pišu najveću svjetsku enciklopediju\". Jutarnji list (in Croatian). 18 February 2007. Archived from the original on 21 October 2012.\n * Simić, Tanja (12 December 2005). \"Hrvatski junaci Wikipedije\" . Nacional (in Croatian). Archived from the original on 13 June 2011. Retrieved 7 July 2012.\n\n\nExternal links\n\nWikimedia Commons has media related to Croatian Wikipedia.\n * Official website (in Croatian)",
+        "metadata": {
+          "title": "Croatian Wikipedia - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikipedia-logo-v2-hr.svg/1280px-Wikipedia-logo-v2-hr.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1045",
+          "og:image:height": "1200",
+          "og:title": "Croatian Wikipedia - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Croatian Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Croatian_Wikipedia",
+          "sameAs": "http://www.wikidata.org/entity/Q203488",
+          "mainEntity": "http://www.wikidata.org/entity/Q203488",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2005-12-22T21:01:43Z",
+          "dateModified": "2026-08-20T20:18:44Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wikipedia-logo-v2-hr.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "Croatian-language edition of Wikipedia"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'article sur la Wikipédia en croate (hr.wikipedia.org), créée le 16 février 2003 et gérée par la Wikimedia Foundation, détaille ses statistiques, son historique marqué par une orientation nationaliste et d'extrême droite entre 2013 et 2021, ainsi qu'une étude de fiabilité de 2011 la comparant à l'Encyclopédie croate.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kubelka",
+          "Šoštarić",
+          "Kubura"
+        ],
+        "LOCATION": [
+          "Croatia"
+        ],
+        "ORGANIZATION": [
+          "Wikimedia Foundation",
+          "Croatian Wikipedia",
+          "Croatian Encyclopedia",
+          "Ustaše regime"
+        ],
+        "DATE": [
+          "17 January 2021",
+          "16 February 2003",
+          "2014",
+          "July 2024",
+          "2013",
+          "2021",
+          "World War II",
+          "2011"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Creative Commons Attribution/ Share-Alike 4.0",
+          "GFDL"
+        ]
+      },
+      "score_e5": 0.75040808099066
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Wikipedia",
+      "Houses of Parliament"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "5900 Wikipedia edits",
+      "IP addresses"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "CreVolve",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Moni3",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Six_of_1",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "ComradeBehrund",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "cp5184",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "HearingNo8617",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kubura",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sue Gardner",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tekedra N. Mawakana",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kubelka",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Šoštarić",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Burr Ridge",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Illinois",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Darien",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hinsdale-Clarendon Hills",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Western Springs",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "La Grange",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lemont",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Downers Grove",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oak Brook",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Woodridge",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Palos",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oak Lawn",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Croatia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Patch",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mozilla",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boing Boing",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Huffington Post",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikimedia Foundation",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AOL",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "House Judiciary Committee",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Department of Justice",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Congress",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Croatian Wikipedia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Croatian Encyclopedia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ustaše regime",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2001",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "4/11/2024",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "4/12/2024",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday night",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "17 January 2021",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "16 February 2003",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2024",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "World War II",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Logo History #316: Wikipedia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Horrors From Wikipedia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Logo History",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "M4 Sherman",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Stop Internet Piracy Act",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Protect IP Act",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Stop Online Piracy Act",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SOPA",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Creative Commons Attribution/ Share-Alike 4.0",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "GFDL",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T09:55:04.404326"
+  }
+}

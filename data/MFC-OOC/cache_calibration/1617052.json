@@ -1,0 +1,650 @@
+{
+  "id_rumeur": 1617052,
+  "id_image": 1617052,
+  "caption": "The early learning at the Westacre Montessori School was rated good by Ofsted in June",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748295/oluyewo_benchmark/hvbvevnu0c9r7kh3icnp.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "George and nursery - a relatively new Royal tradition - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-35130335",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/15B23/production/_87276888_montessori-2.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDn1msnksda_lBJU2m5ieKyDVNyRCVcyIUGJZQ2sGPGgDpV2mM",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "George and nursery - a relatively new Royal tradition - BBC News",
+        "link": "https://www.bbc.com/news/uk-35130335",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDn1msnksda_lBJU2m5ieKyDVNyRCVcyIUGJZQ2sGPGgDpV2mM",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/15B23/production/_87276888_montessori-2.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "George and nursery - a relatively new Royal tradition\n\nPrince George is continuing a royal tradition, but not one that is long established.\n\nThe Queen was educated at home and relied on her nanny, Crawfie, to take her on educational trips - including a journey on the London tube.\n\nPrince Charles did go to school, but his nursery was a palace room containing a blackboard, a desk and a governess.\n\nIt was at his mother's insistence that Prince William was exposed to children of his own age when he started at Mrs Mynors' school.",
+        "metadata": {
+          "description": "Prince George is continuing a royal tradition in attending nursery - but not one that is long established.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Prince George is continuing a royal tradition in attending nursery - but not one that is long established.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4EDB/production/_87278102_nurseryfamily.jpg",
+          "og:image:alt": "Duke and Duchess of Cambridge with Prince George and Princess Charlotte",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "George and nursery - a relatively new Royal tradition",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-35130335",
+          "article:section": "UK",
+          "twitter:description": "Prince George is continuing a royal tradition in attending nursery - but not one that is long established.",
+          "twitter:title": "George and nursery - a relatively new Royal tradition"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-35130335",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-12-18T10:52:22.000Z",
+          "dateModified": "2015-12-18T10:52:22.000Z",
+          "description": "Prince George is continuing a royal tradition in attending nursery - but not one that is long established.",
+          "headline": "George and nursery - a relatively new Royal tradition",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4EDB/production/_87278102_nurseryfamily.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4EDB/production/_87278102_nurseryfamily.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-35130335",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Peter Hunt",
+              "sameAs": [
+                "https://www.bbc.co.uk/news/correspondents/peterhunt",
+                "https://twitter.com/BBCPeterHunt"
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Prince George continues a royal tradition regarding nursery school, though not a long-established one. The Queen was educated at home with a nanny named Crawfie, including a trip on the London tube. Prince Charles went to school with a nursery in a palace room containing a blackboard, a desk, and a governess. Prince William was exposed to children of his own age at Mrs Mynors' school at his mother's insistence.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "George",
+          "Prince George",
+          "Crawfie",
+          "Prince Charles",
+          "Prince William"
+        ],
+        "LOCATION": [
+          "London"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Mrs Mynors' school"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "London tube"
+        ]
+      },
+      "score_e5": 0.7418448251499294
+    },
+    {
+      "titre": "On this day in 2016, His Royal Highness Prince George of ...",
+      "source": "x.com",
+      "lien": "https://x.com/RoyalWikipedia/status/2008523948284362848",
+      "image_url": "https://pbs.twimg.com/media/G9-14lgWwAAUH1d.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHgUFOZbCpOegd6qjcCrxKvfD7ajPkjoX4rFQ_NSs5HXhvsDrn",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "On this day in 2016, His Royal Highness Prince George of ...",
+        "link": "https://x.com/RoyalWikipedia/status/2008523948284362848",
+        "source": "x.com",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAD____f398QEBAgICDv7-9wcHBAQECAgIC_v7_Pz8-vr6-QkJAwMDBQUFCfn59gYGBA_ZVxAAAA2ElEQVQ4jc1SSRLDIAzD7GuS_7-2yKQNENJrqwMMFiBbthB_gkSMrY_F_qik8d4bo69QJt9fd2SFOCh8An7k8aAIseMaw1KaslBSKig1kUL1NMFRxsIiWko98xBxWCx4s-CFihCJRquIqwsUJFZMvFKdYcFYmgvsEKAdHgQ4exOw3EucRfKXL2BoehSpBRo29EkkkbXN0LUIdzA1Q7clj3fvrt1FNoq8O9rhapj5Wv7ZoUzHWfDAXx1uUxHGjioJA07wVLCrQ4HdKdPufexD04jW_4Dl2PwELxkCBNiT_pD8AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHgUFOZbCpOegd6qjcCrxKvfD7ajPkjoX4rFQ_NSs5HXhvsDrn",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://pbs.twimg.com/media/G9-14lgWwAAUH1d.jpg",
+        "image_width": 1080,
+        "image_height": 1080
+      },
+      "webpage": null,
+      "texte_contexte": "Post from x.com referencing His Royal Highness Prince George on this day in 2016.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Prince George"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "x.com"
+        ],
+        "DATE": [
+          "2016"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.701962252285293
+    },
+    {
+      "titre": "Prince George to attend £33-a-day Montessori nursery in Norfolk",
+      "source": "The Telegraph",
+      "lien": "https://www.telegraph.co.uk/news/uknews/prince-george/12057507/William-and-Kate-choose-Montessori-nursery-in-Norfolk-for-Prince-George.html",
+      "image_url": "https://www.telegraph.co.uk/multimedia/archive/03530/Westacre_Montessor_3530037b.jpg?imwidth=680",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNvdvjZSCpS0gYx-6-T96txr6EfvYmvYlBSM8obmls5ls_dUt6",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Prince George to attend £33-a-day Montessori nursery in Norfolk",
+        "link": "https://www.telegraph.co.uk/news/uknews/prince-george/12057507/William-and-Kate-choose-Montessori-nursery-in-Norfolk-for-Prince-George.html",
+        "source": "The Telegraph",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSXKdA-TK1hyo39O45Hg6AzDd9YahmoSB7hbZYBUVK2rk53GL4ary-Plt2M82YuLM_k2VtuJvXWjV92grK0RAmB7_Svxk_YI6Fn_VEeu-aSycAD5HFKmvYj",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNvdvjZSCpS0gYx-6-T96txr6EfvYmvYlBSM8obmls5ls_dUt6",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://www.telegraph.co.uk/multimedia/archive/03530/Westacre_Montessor_3530037b.jpg?imwidth=680",
+        "image_width": 387,
+        "image_height": 620
+      },
+      "webpage": {
+        "text": "Access Restricted\n\nTELEGRAPH MEDIA GROUP HOLDINGS Ltd\n\n\nAccess Restricted\n\nThank you for your interest. Unauthorised access is prohibited. To access this content, you must have prior permission and a valid contract. Please contact our team at licensing@telegraph.co.uk to discuss licensing options.\n\nIf you are a Telegraph Subscriber, please contact customerservice@telegraph.co.uk , quoting the reference code on this page.\n\nReference ID: 0.ad51c317.1788722333.a9c6579d",
+        "metadata": {
+          "title": "Access Restricted"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Prince George to attend a Montessori nursery in Norfolk, referenced by The Telegraph with access restrictions.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Prince George"
+        ],
+        "LOCATION": [
+          "Norfolk"
+        ],
+        "ORGANIZATION": [
+          "The Telegraph",
+          "Telegraph Media Group Holdings Ltd"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7730084731062813
+    },
+    {
+      "titre": "File:Westacre Montessori school - geograph.org.uk - 5989854 ...",
+      "source": "Wikimedia Commons",
+      "lien": "https://commons.wikimedia.org/wiki/File:Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg/960px-Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FVT6jtGoDME3KqpCW1WY8HzXuSSE7LpDtzCu7VfUGJUaqX4G",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "File:Westacre Montessori school - geograph.org.uk - 5989854 ...",
+        "link": "https://commons.wikimedia.org/wiki/File:Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg",
+        "source": "Wikimedia Commons",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTKL4eFSPEnxVpZuK-uuPg1T7Fq0Mf9Q9EKykyFOXYTGf7RFB9yOJeojFa1u8ZIaifU0AK2_RSm9HKPereiDfVYhQzOQo3XEHUDiejM0E5WbEMQHPnGOstvQWU",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FVT6jtGoDME3KqpCW1WY8HzXuSSE7LpDtzCu7VfUGJUaqX4G",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg/960px-Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "image_width": 720,
+        "image_height": 960
+      },
+      "webpage": {
+        "text": "File:Westacre Montessori school - geograph.org.uk - 5989854.jpg\n\nThis file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.\n\nCamera manufacturer                NIKON\nCamera model                       COOLPIX P900\nExposure time                      1/250 sec (0.004)\nF-number                           f/3.5\nISO speed rating                   100\nDate and time of data generation   11:19, 30 November 2018\nLens focal length                  8.9 mm\nLatitude                           52° 43′ 10.27″ N\nLongitude                          0° 34′ 27.08″ E\nAltitude                           4.9 meters above sea level\nOrientation                        Normal\nHorizontal resolution              300 dpi\nVertical resolution                300 dpi\nSoftware used                      COOLPIX P900 V1.5\nFile change date and time          11:19, 30 November 2018\nY and C positioning                Centered\nExposure Program                   Normal program\nExif version                       2.3\nDate and time of digitizing        11:19, 30 November 2018\nMeaning of each component           1. Y\n                                    2. Cb\n                                    3. Cr\n                                    4. does not exist\nImage compression mode             4\nAPEX exposure bias                 0\nMaximum land aperture              2.9 APEX (f/2.73)\nMetering mode                      Pattern\nLight source                       Unknown\nFlash                              Flash did not fire, compulsory flash suppression\nSupported Flashpix version         1\nColor space                        sRGB\nFile source                        Digital still camera\nScene type                         A directly photographed image\nCustom image processing            Normal process\nExposure mode                      Auto exposure\nWhite balance                      Auto white balance\nDigital zoom ratio                 0\nFocal length in 35 mm film         50 mm\nScene capture type                 Standard\nScene control                      High gain down\nContrast                           Normal\nSaturation                         Normal\nSharpness                          Normal\nSubject distance range             Unknown\nGPS time (atomic clock)            10:20\nSatellites used for measurement    14\nGeodetic survey data used          WGS84\nGPS date                           30 November 2018\nGPS tag version                    0.0.3.2",
+        "metadata": {
+          "title": "File:Westacre Montessori school - geograph.org.uk - 5989854.jpg - Wikimedia Commons",
+          "og:image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg/1280px-Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "900",
+          "og:title": "File:Westacre Montessori school - geograph.org.uk - 5989854.jpg - Wikimedia Commons",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "license": "https://creativecommons.org/licenses/by-sa/2.0",
+          "acquireLicensePage": "//commons.wikimedia.org/wiki/File:Westacre_Montessori_school_-_geograph.org.uk_-_5989854.jpg",
+          "name": "Westacre Montessori school - geograph.org.uk - 5989854",
+          "uploadDate": "2023-12-24 07:20:37",
+          "width": "4608 px",
+          "height": "3456 px",
+          "contentSize": 6492477,
+          "encodingFormat": "image/jpeg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "File of Westacre Montessori school from Wikimedia Commons, with camera metadata from a Nikon Coolpix P900 dated November 30, 2018.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Wikimedia Commons",
+          "NIKON"
+        ],
+        "DATE": [
+          "30 November 2018"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "COOLPIX P900"
+        ]
+      },
+      "score_e5": 0.8295964803033917
+    },
+    {
+      "titre": "Prince George Will Be Attending Nursery School Starting in ...",
+      "source": "Vanity Fair",
+      "lien": "https://www.vanityfair.com/style/2015/12/prince-george-nursery-school-westacre-montessori",
+      "image_url": "https://media.vanityfair.com/photos/567421afc3098a7c3d8e2878/master/w_1600,c_limit/prince-george-nursery-school-embed.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQafTfwvbZv2kEfhHWVSCrbStBPXLiUbdpot217Z7RUbdvwLYWQ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Prince George Will Be Attending Nursery School Starting in ...",
+        "link": "https://www.vanityfair.com/style/2015/12/prince-george-nursery-school-westacre-montessori",
+        "source": "Vanity Fair",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRVN-JInnXfZgAM8dvTugSMLqKyg1x4On8ckATh9SIs9QwHrGrG6mQ6BCypFgL_pp5RC9hh79AoTIGVfUlrRWEzFcPXlCcvuzk011_EpOgb2Wv_poAb2Co",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQafTfwvbZv2kEfhHWVSCrbStBPXLiUbdpot217Z7RUbdvwLYWQ",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://media.vanityfair.com/photos/567421afc3098a7c3d8e2878/master/w_1600,c_limit/prince-george-nursery-school-embed.jpg",
+        "image_width": 1080,
+        "image_height": 1440
+      },
+      "webpage": {
+        "text": "Prince George Will Be Attending Nursery School Starting in January\n\nImagine driving your child to nursery school in the morning and seeing, in the car behind you, Kate Middleton in the driver’s seat, handing George a backpack and a folder of loose papers, giving him a kiss before he jumps out of the car. Imagine showing up to a bowling birthday party, to find Prince William feeding coins into a vending machine (“Hey, they’re having in fun in there?” “Oh! Yes, I think they’re onto cake now!”). But most of all, imagine operating with the knowledge that your son or daughter was in the same class as Prince George, and wanting, every night, to ask your Kayla or Jayden, “So . . . are you and George . . . getting along?,” not wanting to make it so obvious to Jayden that, maybe, just maybe, if the cards played out right for these toddlers, George could become his lifetime friend (with fantasies of Jayden giving the best-man speech at George’s wedding, becoming the godfather to George’s child, etc.).\n\nThis is all a lengthy preamble to say: for a bunch of parents, this will (sort of) be the case, as Prince George, who will turn three in July, will be attending nursery school, starting at the end of January. Kensington Palace issued the news in a press release this morning, stating that George will be going to Westacre Montessori School Nursery, in Norfolk. The school said, “We are looking forward to welcoming George to our nursery where he will get the same special experience as all of our children.”\n\nCNN notes that, as the school is located near the Duke and Duchess’s Sandringham estate (as opposed to their home in London, at Kensington Palace), the decision indicates that they now think of their country home as “their primary residence” (William’s air-ambulance pilot job is also close to their Sandringham home).\n\nWestacre operates out of a converted chapel and is, again per CNN, “a modest, rural school,” one which costs $49 per day. William also attended a Montessori nursery school when he was a child, though his was located in London, at the private Mrs. Mynors’ Nursery School.\n\nRelated: See the Royal Family Christmas Card, Featuring William, Kate, George, and Charlotte\n\n----------------------------------------\n\n\nBy George! The Most Adorable Pictures of Prince George on the Australia/New Zealand Royal Tour\n\n\n----------------------------------------",
+        "metadata": {
+          "title": "Prince George Will Be Attending Nursery School Starting in January | Vanity Fair",
+          "author": "Josh Duboff",
+          "description": "What school have Kate and William picked for the two-year-old?",
+          "keywords": "prince george,royals",
+          "news_keywords": "prince george,royals",
+          "og:description": "What school have Kate and William picked for the two-year-old?",
+          "og:image": "https://media.vanityfair.com/photos/567421b0317013b9434296d0/16:9/w_1280,c_limit/t-prince-george-nursery-school.jpg",
+          "og:image:secure_url": "https://media.vanityfair.com/photos/567421b0317013b9434296d0/16:9/w_1280,c_limit/t-prince-george-nursery-school.jpg",
+          "og:locale": "en_US",
+          "og:site_name": "Vanity Fair",
+          "og:title": "Prince George Will Be Attending Nursery School Starting in January",
+          "og:type": "article",
+          "og:url": "https://www.vanityfair.com/style/2015/12/prince-george-nursery-school-westacre-montessori",
+          "article:content_tier": "free",
+          "article:opinion": "false",
+          "article:section": "tags",
+          "article:published_time": "2015-12-18T15:48:22.074Z",
+          "article:modified_time": "2015-12-18T15:48:22.074Z",
+          "article:author": "Josh Duboff",
+          "twitter:card": "summary_large_image",
+          "twitter:creator": "@VanityFair",
+          "twitter:description": "What school have Kate and William picked for the two-year-old?",
+          "twitter:domain": "https://www.vanityfair.com",
+          "twitter:image": "https://media.vanityfair.com/photos/567421b0317013b9434296d0/16:9/w_1280,c_limit/t-prince-george-nursery-school.jpg?mbid=social_retweet",
+          "twitter:site": "@VanityFair",
+          "twitter:title": "Prince George Will Be Attending Nursery School Starting in January",
+          "pinterest:image": "https://media.vanityfair.com/photos/567421b0317013b9434296d0/2:3/w_1000,h_1500,c_limit/t-prince-george-nursery-school.jpg",
+          "fb:app_id": "256281040558",
+          "fb:pages": "8810407571"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "articleBody": "This is all a lengthy preamble to say: for a bunch of parents, this will (sort of) be the case, as Prince George, who will turn three in July, will be attending nursery school, starting at the end of January. Kensington Palace issued the news in a press release this morning, stating that George will be going to Westacre Montessori School Nursery, in Norfolk. The school said, “We are looking forward to welcoming George to our nursery where he will get the same special experience as all of our children.”\nCNN notes that, as the school is located near the Duke and Duchess’s Sandringham estate (as opposed to their home in London, at Kensington Palace), the decision indicates that they now think of their country home as “their primary residence” (William’s air-ambulance pilot job is also close to their Sandringham home).\nWestacre operates out of a converted chapel and is, again per CNN, “a modest, rural school,” one which costs $49 per day. William also attended a Montessori nursery school when he was a child, though his was located in London, at the private Mrs. Mynors’ Nursery School.\nRelated: See the Royal Family Christmas Card, Featuring William, Kate, George, and Charlotte",
+          "isBasedOn": "",
+          "articleSection": "style",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Josh Duboff",
+              "sameAs": "https://www.vanityfair.com/contributor/josh-duboff"
+            }
+          ],
+          "dateModified": "2015-12-18T10:48:22.074-05:00",
+          "datePublished": "2015-12-18T10:48:22.074-05:00",
+          "headline": "Prince George Will Be Attending Nursery School Starting in January",
+          "image": [
+            "https://media.vanityfair.com/photos/567421b0317013b9434296d0/master/w_1440,h_960,c_limit/t-prince-george-nursery-school.jpg"
+          ],
+          "inLanguage": "en-US",
+          "keywords": [
+            "royals",
+            "prince george",
+            "_wordcount",
+            "web"
+          ],
+          "thumbnailUrl": "",
+          "url": "https://www.vanityfair.com/style/2015/12/prince-george-nursery-school-westacre-montessori",
+          "isPartOf": {
+            "@type": "CreativeWork",
+            "name": "Vanity Fair"
+          },
+          "isAccessibleForFree": true,
+          "alternativeHeadline": "What school have Kate and William picked for the two-year-old?",
+          "description": "What school have Kate and William picked for the two-year-old?",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.vanityfair.com/style/2015/12/prince-george-nursery-school-westacre-montessori"
+          },
+          "publisher": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Vanity Fair",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.vanityfair.com/verso/static/vanityfair-global/assets/newsletter-social.jpg",
+              "width": "500px",
+              "height": "114px"
+            },
+            "url": "https://www.vanityfair.com"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Prince George, turning three in July, will attend Westacre Montessori School Nursery in Norfolk starting at the end of January. Kensington Palace issued a press release about the decision. The school is located near the Duke and Duchess's Sandringham estate.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Prince George",
+          "Kate Middleton",
+          "George",
+          "Prince William",
+          "Kayla",
+          "Jayden",
+          "Charlotte"
+        ],
+        "LOCATION": [
+          "Norfolk",
+          "London",
+          "Australia",
+          "New Zealand"
+        ],
+        "ORGANIZATION": [
+          "Vanity Fair",
+          "Westacre Montessori School Nursery",
+          "Kensington Palace",
+          "CNN",
+          "Mrs. Mynors' Nursery School"
+        ],
+        "DATE": [
+          "January",
+          "July"
+        ],
+        "EVENT": [
+          "Royal Tour"
+        ],
+        "OTHER": [
+          "Sandringham estate"
+        ]
+      },
+      "score_e5": 0.8307963544390177
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Westacre Montessori School",
+      "Ofsted"
+    ],
+    "DATE": [
+      "June"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "early learning"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Prince George",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Crawfie",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Prince Charles",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Prince William",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mrs. Mynors' school",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "London tube",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "x.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Norfolk",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Telegraph",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Telegraph Media Group Holdings Ltd",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikimedia Commons",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NIKON",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30 November 2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "COOLPIX P900",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kate Middleton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kayla",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jayden",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Charlotte",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Zealand",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Vanity Fair",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Westacre Montessori School Nursery",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kensington Palace",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNN",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Royal Tour",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sandringham estate",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T20:19:07.637540"
+  }
+}

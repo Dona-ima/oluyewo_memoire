@@ -1,0 +1,488 @@
+{
+  "id_rumeur": 1450159,
+  "id_image": 1450159,
+  "caption": "Snowdonia is Wales highestplaced entry on the list",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748616/oluyewo_benchmark/wsj1sb5jtymovhdy4gi3.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Seven Welsh locations in Lonely Planet top 500 list - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-wales-33977954",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/8017/production/_85019723_snowdonia.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfLbPDgVyX0ppKR06S-K3W-N3yUKI5AuOkrkn3grD4OKElITKj",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Seven Welsh locations in Lonely Planet top 500 list - BBC News",
+        "link": "https://www.bbc.com/news/uk-wales-33977954",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfLbPDgVyX0ppKR06S-K3W-N3yUKI5AuOkrkn3grD4OKElITKj",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/8017/production/_85019723_snowdonia.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Seven Welsh locations in Lonely Planet top 500 list\n\nSeven Welsh locations have been named in a list of the 500 all-time best places to visit in the world.\n\nSnowdonia National Park tops the entries from Wales in Lonely Planet's Ultimate Travelist, external, ranked 181st.\n\nTintern Abbey was the top venue in south Wales, St Davids Cathedral (west) and Brecon Beacons National Park (mid).\n\nThe other three making the list are Clough Williams-Ellis's Portmeirion Village, Caernarfon Castle and St Fagans National History Museum.\n\nAt 15th, London's British Museum was the highest placed British attraction, with The Temples of Angkor in Cambodia voted the world's must-see location.\n\nDeputy Tourism Minister Ken Skates, said: \"This recognition from a well known and respected travel expert such as the Lonely Planet is excellent news for Wales.\"",
+        "metadata": {
+          "description": "Seven Welsh locations are named in a Lonely Planet list of the 500 all-time best places to visit in the world.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Seven Welsh locations are named in a Lonely Planet list of the 500 all-time best places to visit in the world.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/DF2E/production/_85043175_snowdon_summit_1.jpg",
+          "og:image:alt": "Top of snowdon",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Seven Welsh locations in Lonely Planet top 500 list",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-wales-33977954",
+          "article:section": "Wales",
+          "twitter:description": "Seven Welsh locations are named in a Lonely Planet list of the 500 all-time best places to visit in the world.",
+          "twitter:title": "Seven Welsh locations in Lonely Planet top 500 list"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-wales-33977954",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-08-18T16:26:42.000Z",
+          "dateModified": "2015-08-18T16:26:42.000Z",
+          "description": "Seven Welsh locations are named in a Lonely Planet list of the 500 all-time best places to visit in the world.",
+          "headline": "Seven Welsh locations in Lonely Planet top 500 list",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/DF2E/production/_85043175_snowdon_summit_1.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/DF2E/production/_85043175_snowdon_summit_1.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-wales-33977954",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Sept lieux gallois ont été nommés dans la liste des 500 meilleurs endroits à visiter au monde par Lonely Planet (Ultimate Travelist). Le parc national de Snowdonia est le mieux classé du pays de Galles à la 181e place. D'autres sites incluent Tintern Abbey, la cathédrale St Davids, le parc national de Brecon Beacons, le village de Portmeirion de Clough Williams-Ellis, le château de Caernarfon et le musée historique national de St Fagans. Le British Museum de Londres est classé 15e et les temples d'Angkor au Cambodge sont votés lieu incontournable mondial. Le vice-ministre du Tourisme Ken Skates a commenté cette reconnaissance.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Clough Williams-Ellis",
+          "Ken Skates"
+        ],
+        "LOCATION": [
+          "Wales",
+          "Snowdonia National Park",
+          "Tintern Abbey",
+          "St Davids Cathedral",
+          "Brecon Beacons National Park",
+          "Portmeirion Village",
+          "Caernarfon Castle",
+          "St Fagans National History Museum",
+          "London",
+          "British Museum",
+          "The Temples of Angkor",
+          "Cambodia"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "Lonely Planet",
+          "Welsh Government"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Lonely Planet's Ultimate Travelist"
+        ],
+        "OTHER": [
+          "Deputy Tourism Minister"
+        ]
+      },
+      "score_e5": 0.8094617554872556
+    },
+    {
+      "titre": "Cautley Spout - the Howgills doing what they do best: a ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DUdBrNlDnzG/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3948515858863538900",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKqHLlBGvv5zWNfi9wUMzUkrwfgHlLCub_lcqUZzz2W5AkLVUR",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Cautley Spout - the Howgills doing what they do best: a ...",
+        "link": "https://www.instagram.com/p/DUdBrNlDnzG/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8efe98d1a72b2fc12a54e6/images/VwTtLNCmUyIzGb-0ObQRrOKwP4FZotz2XQ7H9T7hp5A.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKqHLlBGvv5zWNfi9wUMzUkrwfgHlLCub_lcqUZzz2W5AkLVUR",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3948515858863538900",
+        "image_width": 2048,
+        "image_height": 2048
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram concernant Cautley Spout dans les Howgills.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Cautley Spout",
+          "Howgills"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7052183645308662
+    },
+    {
+      "titre": "Attractions and Places To See around Llanuwchllyn - Top 20 ...",
+      "source": "Komoot",
+      "lien": "https://www.komoot.com/guide/2797004/attractions-around-llanuwchllyn",
+      "image_url": "https://d2exd72xrrp1s7.cloudfront.net/www/guide/2797004/1UhOFv?width=768&height=576&crop=true",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h54IVoP7dNZnRvOa7td3uSo3SxOpz96kAbUdmkZsEyZHJzLm",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Attractions and Places To See around Llanuwchllyn - Top 20 ...",
+        "link": "https://www.komoot.com/guide/2797004/attractions-around-llanuwchllyn",
+        "source": "Komoot",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRngeD29lFgtcgkQOi2Bpj52XirvkhuRxmJT3ZMPLzQSu8hT2LxZ7GypwZVCB7mZyCDkklXHnw9JS2xYbNOx8dBpAai6pEgYSp75LTK65Z5PKCMKw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h54IVoP7dNZnRvOa7td3uSo3SxOpz96kAbUdmkZsEyZHJzLm",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://d2exd72xrrp1s7.cloudfront.net/www/guide/2797004/1UhOFv?width=768&height=576&crop=true",
+        "image_width": 576,
+        "image_height": 768
+      },
+      "webpage": {
+        "text": "Attractions and Places To See around Llanuwchllyn - Top 20\n\nAre there family-friendly attractions around Llanuwchllyn?\n\nYes, Llanuwchllyn offers several family-friendly options. Llyn Tegid (Lake Bala) is the largest natural lake in Wales and is popular for water sports, fishing, and walking trails suitable for families. Additionally, Llyn Cynwch, associated with the Precipice Walk, is also noted as family-friendly, offering pleasant strolls along its banks.\n\nWhat kind of natural features can I explore near Llanuwchllyn?\n\nThe region around Llanuwchllyn is rich in natural monuments, including prominent mountain summits and large glacial lakes. You can explore the vast expanse of Llyn Tegid (Lake Bala), the largest natural lake in Wales, or the serene Llyn Cynwch. For mountain enthusiasts, there are challenging summits like Aran Fawddwy and Aran Benllyn, offering wide-ranging views across Snowdonia.\n\nAre there easy walks or beginner hiking trails near Llanuwchllyn?\n\nYes, there are easy hiking trails available. For instance, you can find easy routes around Llyn Tegid (Lake Bala), such as the 'View of Bala Lake loop from Llangywer' (5.7 km) or the 'Llyn Tegid loop from Llangywer' (3.5 km). You can find more options in the Easy hikes around Llanuwchllyn guide.\n\nWhat are the best viewpoints around Llanuwchllyn?\n\nFor breathtaking vistas, the summits of the Aran mountains are highly recommended. Aran Fawddwy, the highest mountain south of Snowdon, offers wide-ranging views across Snowdonia from its 905m peak. Its neighbour, Aran Benllyn, also provides extensive views across Northern Snowdonia. Additionally, Arenig Fawr Summit is another great Snowdonia mountain with panoramic views.\n\nWhat outdoor activities can I do near these attractions?\n\nThe area around Llanuwchllyn is ideal for various outdoor activities. You can enjoy water sports and fishing on Llyn Tegid (Lake Bala). For land-based activities, there are numerous routes for running, gravel biking, and hiking. Explore options in the Running Trails around Llanuwchllyn or the Gravel biking around Llanuwchllyn guides.\n\nAre there any historical or cultural sites to visit?\n\nYes, the region has historical significance. Llyn Cynwch is part of the historic Nannau estate. Additionally, the Arenig Fawr Summit features a poignant memorial to a US Flying Fortress that crashed in 1943, offering a historical perspective amidst the natural beauty.\n\nCan I swim in the lakes around Llanuwchllyn?\n\nWhile Llyn Tegid (Lake Bala) is a popular venue for water sports, it's important to note that swimming is not permitted in all lakes. For example, Llyn Cynwch is a working water basin that supplies drinking water for Dolgellau, and therefore, swimming is not allowed there.\n\nWhat is the best time of year to visit Llanuwchllyn?\n\nThe best time to visit Llanuwchllyn largely depends on your preferred activities. Spring and summer (May to September) offer milder weather, ideal for hiking, water sports on Llyn Tegid (Lake Bala), and enjoying the scenic views. Autumn brings beautiful foliage, while winter can be challenging for mountain routes but offers a stark beauty for experienced hikers.\n\nWhat should I wear for hiking near Llanuwchllyn?\n\nGiven the diverse landscape, including challenging mountain routes and lakeside paths, it's advisable to wear appropriate hiking gear. This includes sturdy waterproof boots, layered clothing suitable for changing weather conditions, and waterproof outer layers. For challenging summits like Aran Fawddwy, ensure you are well-prepared with navigation tools and sufficient supplies.\n\nAre there any challenging mountain routes for experienced hikers?\n\nAbsolutely. The region is known for its challenging mountain routes. The Summit of Aran Fawddwy is a tough climb, but rewards hikers with incredible views. Its neighbour, Aran Benllyn, also offers a characterful and challenging ascent. The Arenig Fawr Summit is another classic Welsh mountain for experienced hikers.\n\nWhat do visitors enjoy most about the attractions around Llanuwchllyn?\n\nVisitors frequently appreciate the stunning natural beauty and the wide-ranging views. The komoot community has upvoted the attractions 27 times and shared 23 photos, highlighting the scenic majesty of the mountains and the serene glacial lakes. The challenging yet rewarding nature of the mountain climbs and the peaceful lakeside walks are often cited as highlights.\n\nWhere can I find routes for gravel biking near Llanuwchllyn?\n\nLlanuwchllyn offers several options for gravel biking, ranging from easy to difficult. You can explore routes like the 'Penmaenpool Toll Bridge loop' (34.4 km, difficult) or the 'Tarw Du Trail Entrance loop' (9.7 km, easy). More detailed routes and information can be found in the Gravel biking around Llanuwchllyn guide.",
+        "metadata": {
+          "title": "Attractions and Places To See around Llanuwchllyn - Top 20 | Komoot",
+          "description": "Explore the most beautiful places to visit around Llanuwchllyn. Plan your next hike or cycling adventure to one of the 20\n top attractions.",
+          "og:image:width": "768",
+          "og:image:height": "576",
+          "og:image": "https://d2exd72xrrp1s7.cloudfront.net/www/guide/2797004/1UhOFv?width=768&height=576&crop=true",
+          "og:site_name": "komoot",
+          "og:title": "Attractions and Places To See around Llanuwchllyn - Top 20 | Komoot",
+          "og:description": "Best attractions and places to see around Llanuwchllyn include 14 highlights waiting to be explored. This region in Wales is characterized by its significant natural monuments, including prominent mountain summits and large glacial lakes. Llanuwchllyn offers a diverse landscape for visitors seeking outdoor experiences. Best attractions and places to see around Llanuwchllyn The most popular attractions is Llyn Cynwch, a lake that is part of the historic Nannau estate and a working water basin. It is associated with the Precipice Walk, offering views along its banks. Another must-see spot is Summit of Aran Fawddwy, a summit that is the UK’s highest mountain south of Snowdon. Visitors can expect wide-ranging views across Snowdonia from its 905 m peak. Visitors also love Llyn Tegid (Lake Bala), the largest natural lake in Wales. This glacial lake is a popular venue for water sports, fishing, and walking trails around its perimeter. Llanuwchllyn is known for its natural monuments, including mountain summits and lakes. The area offers a variety of attractions to see and explore, from challenging mountain routes to serene lakeside paths. The attractions around Llanuwchllyn are appreciated by the komoot community, with 27 upvotes and 23 photos shared by visitors.",
+          "og:type": "website",
+          "og:url": "https://www.komoot.com/guide/2797004/attractions-around-llanuwchllyn",
+          "og:locale": "en_GB",
+          "og:locale:alternate": "tr_TR",
+          "fb:app_id": "216222385104691"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Routes",
+              "item": "https://www.komoot.com/discover/start_from_current_location/tours"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Places to see",
+              "item": "https://www.komoot.com/places/1/places-to-see"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "United Kingdom",
+              "item": "https://www.komoot.com/guide/233727/attractions-in-the-united-kingdom"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Wales",
+              "item": "https://www.komoot.com/guide/356311/attractions-in-wales"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "North Wales",
+              "item": "https://www.komoot.com/guide/1763334/attractions-in-north-wales"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Gwynedd",
+              "item": "https://www.komoot.com/guide/365144/attractions-in-gwynedd"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Llanuwchllyn",
+              "item": "https://www.komoot.com/guide/2797004/attractions-around-llanuwchllyn"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Guide des attractions et des choses à voir autour de Llanuwchllyn, mentionnant Llyn Tegid (Lake Bala) comme le plus grand lac naturel du pays de Galles, Llyn Cynwch associé au domaine historique de Nannau et au sentier Precipice Walk, ainsi que des sommets montagneux comme Aran Fawddwy, Aran Benllyn et Arenig Fawr. Ce dernier abrite un mémorial d'un bombardier américain (US Flying Fortress) qui s'est écrasé en 1943.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Llanuwchllyn",
+          "Wales",
+          "Llyn Tegid",
+          "Lake Bala",
+          "Llyn Cynwch",
+          "Aran Fawddwy",
+          "Snowdonia",
+          "Aran Benllyn",
+          "Arenig Fawr",
+          "Dolgellau",
+          "Nannau estate"
+        ],
+        "ORGANIZATION": [
+          "Komoot"
+        ],
+        "DATE": [
+          "1943"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "US Flying Fortress"
+        ]
+      },
+      "score_e5": 0.7672202924334057
+    },
+    {
+      "titre": "Summer view over the Newlands Hause Valley, near Buttermere ...",
+      "source": "Alamy",
+      "lien": "https://www.alamy.com/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-image455391433.html",
+      "image_url": "https://c8.alamy.com/comp/2HCTTCT/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-2HCTTCT.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrkNAxmx8UvGgZTRq21QLGmRboIIGF3tJDUJLhQl0Ck6Byenw1",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Summer view over the Newlands Hause Valley, near Buttermere ...",
+        "link": "https://www.alamy.com/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-image455391433.html",
+        "source": "Alamy",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSm7wq70Hz3SK1HCSxaDgXV8WEvqkVDLs8QagGRHzDNQzte7GllDK5epmtyEggjDpE9n783LQ736ZYlVeXWB4tYQcqjX9z3ODEFZCCGUvXx8ua2",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrkNAxmx8UvGgZTRq21QLGmRboIIGF3tJDUJLhQl0Ck6Byenw1",
+        "thumbnail_width": 192,
+        "thumbnail_height": 262,
+        "image": "https://c8.alamy.com/comp/2HCTTCT/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-2HCTTCT.jpg",
+        "image_width": 956,
+        "image_height": 1300
+      },
+      "webpage": {
+        "text": "Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK Stock Photo\n\nSummer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK\n\nCaptions are provided by our contributors.\n\nRMID:Image ID:2HCTTBN\n\nPreview\n\nBuy the print\n\n\nImage details\n\nContributor:\n\nDave Porter\n\nImage ID:\n\n2HCTTBN\n\nFile size:\n\n55.6 MB (3.1 MB Compressed download)\n\nReleases:\n\nModel - no | Property - noDo I need a release?\n\nDimensions:\n\n5400 x 3600 px | 45.7 x 30.5 cm | 18 x 12 inches | 300dpi\n\nDate taken:\n\n26 August 2024\n\nLocation:\n\nNewlands Hause Valley, near Buttermere",
+        "metadata": {
+          "title": "Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK Stock Photo - Alamy",
+          "apple-mobile-web-app-title": "Alamy images",
+          "fb:admins": "150454471633963",
+          "author": "Alamy Limited",
+          "twitter:title": "Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK Stock Photo - Alamy",
+          "twitter:description": "Download this stock image: Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK - 2HCTTBN from Alamy's library of millions of high resolution stock photos, illustrations and vectors.",
+          "og:url": "https://www.alamy.com/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-image455391433.html",
+          "og:title": "Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK Stock Photo - Alamy",
+          "og:description": "Download this stock image: Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK - 2HCTTBN from Alamy's library of millions of high resolution stock photos, illustrations and vectors.",
+          "og:image": "https://c7.alamy.com/comp/2HCTTBN/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-2HCTTBN.jpg",
+          "description": "Download this stock image: Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK - 2HCTTBN from Alamy's library of millions of high resolution stock photos, illustrations and vectors.",
+          "keywords": "214 wainwright walks, beautiful countryside, blue sky, buttermere fells, buttermere pass, clouds, colour, countryside, cumbria, cumbrian mountains"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "name": "Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK",
+          "image": "https://c7.alamy.com/comp/2HCTTBN/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-2HCTTBN.jpg",
+          "contentUrl": "https://c7.alamy.com/comp/2HCTTBN/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-2HCTTBN.jpg",
+          "license": "https://www.alamy.com/image-license-details/?v=1",
+          "acquireLicensePage": "https://www.alamy.com/summer-view-over-the-newlands-hause-valley-near-buttermere-lake-district-national-park-cumbria-england-uk-image455391433.html",
+          "description": "Summer view over the Newlands Hause Valley, near Buttermere, Lake District National Park, Cumbria, England, UK",
+          "keywords": [
+            "214 wainwright walks",
+            "beautiful countryside",
+            "blue sky",
+            "buttermere fells",
+            "buttermere pass",
+            "clouds",
+            "colour",
+            "countryside",
+            "cumbria",
+            "cumbrian mountains",
+            "daytime",
+            "england",
+            "english fells",
+            "english lake district",
+            "english lakes",
+            "english national parks",
+            "fells",
+            "geography",
+            "lake district",
+            "lake district fells",
+            "lake district national park",
+            "lakeland",
+            "lakeland attractions",
+            "lakes",
+            "landscape",
+            "landscapes",
+            "mountain views",
+            "national parks",
+            "newlands hause",
+            "newlands hause car park",
+            "newlands pass",
+            "newlands summer",
+            "newlands valley",
+            "newlands valley allerdale",
+            "newlands valley walks",
+            "no people",
+            "no people in landscape",
+            "north",
+            "northern",
+            "northwest",
+            "outdoor",
+            "outdoors",
+            "panoramic",
+            "robinson fell",
+            "scenes",
+            "scenic",
+            "sky",
+            "summer allerdale",
+            "summer newlands valley",
+            "sunny",
+            "sunshine",
+            "travel",
+            "uk",
+            "wainwright fells",
+            "wainwright walks",
+            "walks"
+          ],
+          "creditText": "Alamy"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vue estivale sur la vallée de Newlands Hause, près de Buttermere, dans le parc national du Lake District, à Cumbria, en Angleterre (Royaume-Uni), photographiée le 26 août 2024 par Dave Porter.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dave Porter"
+        ],
+        "LOCATION": [
+          "Newlands Hause Valley",
+          "Buttermere",
+          "Lake District National Park",
+          "Cumbria",
+          "England",
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "Alamy"
+        ],
+        "DATE": [
+          "26 August 2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.717736892457647
+    },
+    {
+      "titre": "Dalveen Pass - Scotland",
+      "source": "Pinterest",
+      "lien": "https://www.pinterest.com/pin/20758848252068411/",
+      "image_url": "https://i.pinimg.com/736x/a6/2b/e6/a62be64b806447d921a7ac093ec9fa49.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkaOdCb_QIn2IzZRuFiqXy_NSv9HsG2Df5vKeaKlWk5sCpMYdQ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Dalveen Pass - Scotland",
+        "link": "https://www.pinterest.com/pin/20758848252068411/",
+        "source": "Pinterest",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkaOdCb_QIn2IzZRuFiqXy_NSv9HsG2Df5vKeaKlWk5sCpMYdQ",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://i.pinimg.com/736x/a6/2b/e6/a62be64b806447d921a7ac093ec9fa49.jpg",
+        "image_width": 489,
+        "image_height": 736
+      },
+      "webpage": {
+        "text": "Dalveen Pass - Scotland | Scotland hills, Scottish highlands scenic views, Glen clova pictures",
+        "metadata": {
+          "title": "Dalveen Pass - Scotland | Scotland hills, Scottish highlands scenic views, Glen clova pictures",
+          "fb:app_id": "274266067164",
+          "og:site_name": "Pinterest",
+          "og:image": "https://i.pinimg.com/736x/a6/2b/e6/a62be64b806447d921a7ac093ec9fa49.jpg",
+          "og:image:height": "489",
+          "og:image:width": "736",
+          "og:type": "pinterestapp:pin",
+          "og:updated_time": "2011-12-20T11:41:59.000Z",
+          "og:url": "https://au.pinterest.com/pin/dalveen-pass-scotland--20758848252068411/",
+          "twitter:image:src": "https://i.pinimg.com/736x/a6/2b/e6/a62be64b806447d921a7ac093ec9fa49.jpg",
+          "pinterestapp:repins": "1",
+          "twitter:title": "Dalveen Pass - Scotland | Scotland hills, Scottish highlands scenic views, Glen clova pictures",
+          "og:title": "Dalveen Pass - Scotland | Scotland hills, Scottish highlands scenic views, Glen clova pictures",
+          "description": "Explore the stunning Dalveen Pass in Scotland, where lush green mountains meet the clouds in the distance. Discover the natural beauty of this Scottish landscape from above. The highlands of scotland, West scotland, Ireland scotland",
+          "og:description": "Explore the stunning Dalveen Pass in Scotland, where lush green mountains meet the clouds in the distance. Discover the natural beauty of this Scottish landscape from above. The highlands of scotland, West scotland, Ireland scotland",
+          "twitter:description": "Explore the stunning Dalveen Pass in Scotland, where lush green mountains meet the clouds in the distance. Discover the natural beauty of this Scottish landscape from above. The highlands of scotland, West scotland, Ireland scotland",
+          "robots": "max-image-preview:large",
+          "pinterestapp:pinboard": "https://www.pinterest.com/megans7/travel/",
+          "pinterestapp:pinner": "https://www.pinterest.com/megans7/"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Image de Dalveen Pass en Écosse, associée aux collines écossaises, aux vues panoramiques des Highlands écossais et à des images de Glen Clova.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Dalveen Pass",
+          "Scotland",
+          "Scottish highlands",
+          "Glen Clova"
+        ],
+        "ORGANIZATION": [
+          "Pinterest"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7198917545259162
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Snowdonia",
+      "Wales"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:27:47.896290"
+  }
+}

@@ -1,0 +1,1338 @@
+{
+  "id_rumeur": 1569820,
+  "id_image": 1569820,
+  "caption": "Tiffany is north east of Aberdeen",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756887/oluyewo_benchmark/skbwzg5gv9uv1grkqhti.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Self-healing networks ease support burden on North Sea oil ...",
+      "source": "SiliconANGLE",
+      "lien": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/",
+      "image_url": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-tsKQ5HGV-NV5F4511CVSuiS3GRRtueRlkgQzHmyTOpTmhRhk",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Self-healing networks ease support burden on North Sea oil ...",
+        "link": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/",
+        "source": "SiliconANGLE",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACUElEQVRYhbWXsU_bQByFv1QZLIgiurqiSpdulkoEQ8TQKuykE1kZ2Cv-A3fIXDHDkBVPHT2GiaFSqGSFSCxY8uChA5ZhMF3ogHM9HMe5c8yb7uLLvc_3e7bvapSUb1lfgR9p97jleT_LzFMrYfwpNf6SuTRKQX6_CoBvWRup8eGSocMUJKoMwLcsG_gGbKiMByLgpOV59koAUp1bisZzU7AkH7kABXUuqxEL8vECQKPOZTUkk483krkN3JYx__v0pDr0ELhNvQBpBXzLUp4F4J3rUjdNAJI45tfeHu8fH5X_3_K8GkgroCNjZ0eYAxjNJn92d7nRAJipFMD6_v7cb1v9Phf399oQ2gB106TR6wEQBQHhZALAh06Ht5ub2hDaADNzgLHjcOU4ot85OgLQgtAGWJcArhyH8fm56Lf7fdFWhdACWOt2RfimrstdEJDEsVgFo9mkfXCgBaEFIIdv6rqifS21t6RVUIFQBqibJmvdLvD83I-l2k9dlygIgP9hVIVQBngRPqnuM8mrMAujCoQyQDZ8WV2enYl2O1OGIgglgEavJ8IXTibi2Zd1J70TsmEsglACkO_-8vR04Tj5WjaMWQhlgLppYmxvi75c66yuXZckjoH8MOZJ6Wt48fDATZIsnUxHgzBU_xp-bjT4aBiVAswkA3zneTP52hBR6gWU2JKtWI4hcDwIQ3GjpTalJSBGqXHxpjQHZOG2XBHCT431tuU5IDY5B5MCiAg4GYShvWzulY9mORBDMnWuBEACmctHCjFiQZ0rBZBAKjme_wPQyi98UZfoHAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-tsKQ5HGV-NV5F4511CVSuiS3GRRtueRlkgQzHmyTOpTmhRhk",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg",
+        "image_width": 261,
+        "image_height": 464
+      },
+      "webpage": {
+        "text": "Self-healing networks ease support burden on North Sea oil rigs\n\nUPDATED 09:00 EST / DECEMBER 30 2014\n\n\nSelf-healing networks ease support burden on North Sea oil rigs\n\nRemote locations are the bane of networking professionals, and the North Sea brings new meanings to the word “remote.” For Canadian Natural Resources, Ltd., which is one of the largest independent crude oil and natural gas producers in the world, maintaining connectivity to its offshore oil rigs was an expensive necessity.\n\nThe company can’t afford to staff every platform with full-time IT support, and putting someone from headquarters on a helicopter or ferry every time a router goes down is both impractical and unreliable, given and long travel times and unpredictable weather. That opens the door to potentially weeks-long outages.\n\nSo CNRL recently turned its attention to the infrastructure itself for an answer.\n\nWith help from a Glasgow-based Cisco partner called Provista UK Ltd., the energy company embarked on an ambitious effort to overhaul its regional network to reduce the amount of manual work needed to address connectivity problems. The goal was to minimize the need for the IT department to maintain an on-site presence to troubleshoot outages.\n\nProvista installed a set of controllers on each rig in a high-availability configuration in which operational data such as the number of connected routers is continuously synchronized from the primary device to the standby so as to ensure fast recovery in the event of an outage. Each pair hooks up to a central networking module at CNRL’s main Aberdeen location, where the company can enforce polices across the entire environment.\n\nThanks to the new setup, Provista says drilling workers can now afford to wait weeks for a fix without compromising their productivity or quality of life, which gives the IT organization a much larger window to resolve problems. That kills two birds with one stone: It takes pressure off the already thinly stretched operations team while addressing inevitable hiccups such as a storm.\n\nMoreover, the Glasgow consultancy boasts that the implementation helped address CNRL’s secondary need to provide connectivity for visitors such as executives surveying the field. Admins can secure and regulate guest activity using Cisco’s built-in management software.\n\nBBC photo\n\n----------------------------------------\n\n\nA message from John Furrier, co-founder of SiliconANGLE:\n\nSupport our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.\n\n * 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more\n * 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network\n\nSiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE, theCUBE Network, theCUBE Research, CUBE365, theCUBE AI and theCUBE SuperStudios — with flagship locations in Silicon Valley and the New York Stock Exchange — SiliconANGLE Media operates at the intersection of media, technology and AI.\n\nFounded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.\n\nLATEST STORIES\n\n\n * Former Uber CEO Travis Kalanick is returning to the robotaxi race\n\n * OpenAI to set misalignment disclosure rules after agents took over a wiki\n\n * What to expect during DigiCert's World Quantum Readiness Day event: Join theCUBE Sept. 17\n\n * What to expect at Workiva's Amplify event: Join theCUBE Sept. 15–16\n\n * Anthropic uses Claude to formalize proof of Fermat’s Last Theorem\n\n * Equinix turns the network into the control plane for enterprise AI inference\n\nLATEST STORIES",
+        "metadata": {
+          "title": "Self-healing networks ease support burden on North Sea oil rigs - SiliconANGLE",
+          "description": "Self-healing networks ease support burden on North Sea oil rigs - SiliconANGLE",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Self-healing networks ease support burden on North Sea oil rigs - SiliconANGLE",
+          "og:description": "Self-healing networks ease support burden on North Sea oil rigs - SiliconANGLE",
+          "og:url": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/",
+          "og:site_name": "SiliconANGLE",
+          "article:published_time": "2014-12-30T14:00:45+00:00",
+          "og:image": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg",
+          "author": "Maria Deutscher"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#article",
+              "isPartOf": {
+                "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/"
+              },
+              "author": {
+                "name": "Maria Deutscher",
+                "@id": "https://siliconangle.com/#/schema/person/ce7e1037d127314d43ac454356f5b013"
+              },
+              "headline": "Self-healing networks ease support burden on North Sea oil rigs",
+              "datePublished": "2014-12-30T14:00:45+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/"
+              },
+              "wordCount": 353,
+              "image": {
+                "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#primaryimage"
+              },
+              "thumbnailUrl": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg",
+              "keywords": [
+                "Cisco",
+                "CNRL",
+                "connectivity",
+                "Networking",
+                "offshore drilling rigs",
+                "Provista UK Ltd."
+              ],
+              "articleSection": [
+                "Wikibon"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/",
+              "url": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/",
+              "name": "Self-healing networks ease support burden on North Sea oil rigs - SiliconANGLE",
+              "isPartOf": {
+                "@id": "https://siliconangle.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#primaryimage"
+              },
+              "image": {
+                "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#primaryimage"
+              },
+              "thumbnailUrl": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg",
+              "datePublished": "2014-12-30T14:00:45+00:00",
+              "author": {
+                "@id": "https://siliconangle.com/#/schema/person/ce7e1037d127314d43ac454356f5b013"
+              },
+              "description": "Self-healing networks ease support burden on North Sea oil rigs - SiliconANGLE",
+              "breadcrumb": {
+                "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#primaryimage",
+              "url": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg",
+              "contentUrl": "http://news.bbcimg.co.uk/media/images/74156000/jpg/_74156892_tiffanyplatformcnrbbc.jpg"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://siliconangle.com/2014/12/30/self-healing-networks-ease-support-burden-on-north-sea-oil-rigs/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://siliconangle.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Wikibon",
+                  "item": "https://siliconangle.com/category/wikibon/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Self-healing networks ease support burden on North Sea oil rigs"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://siliconangle.com/#website",
+              "url": "https://siliconangle.com/",
+              "name": "SiliconANGLE",
+              "description": "Extracting the signal from the noise.",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://siliconangle.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://siliconangle.com/#/schema/person/ce7e1037d127314d43ac454356f5b013",
+              "name": "Maria Deutscher",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://secure.gravatar.com/avatar/3ad350b2a279451826e560c7de5c199f180edb72e89463cd99dbdd726f34ebb3?s=96&r=pg",
+                "url": "https://secure.gravatar.com/avatar/3ad350b2a279451826e560c7de5c199f180edb72e89463cd99dbdd726f34ebb3?s=96&r=pg",
+                "contentUrl": "https://secure.gravatar.com/avatar/3ad350b2a279451826e560c7de5c199f180edb72e89463cd99dbdd726f34ebb3?s=96&r=pg",
+                "caption": "Maria Deutscher"
+              },
+              "description": "Maria Deutscher is a staff writer for SiliconANGLE covering all things enterprise and fresh. Her work takes her from the bowels of the corporate network up to the great free ranges of the open-source ecosystem and back on a daily basis, with the occasional pit stop in the world of end-users. She is especially passionate about cloud computing and data analytics, although she also has a soft spot for stories that diverge from the beaten track to provide a more unique perspective on the complexities of the industry.",
+              "url": "https://siliconangle.com/author/chi22/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Self-healing networks implemented by Provista UK Ltd. for Canadian Natural Resources, Ltd. (CNRL) on North Sea oil rigs to ease support burden and maintain connectivity without full-time on-site IT staff.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Furrier"
+        ],
+        "LOCATION": [
+          "North Sea",
+          "Glasgow",
+          "Aberdeen"
+        ],
+        "ORGANIZATION": [
+          "SiliconANGLE",
+          "Canadian Natural Resources, Ltd.",
+          "Provista UK Ltd.",
+          "Cisco",
+          "BBC",
+          "SiliconANGLE Media",
+          "theCUBE",
+          "Alumni Trust Network"
+        ],
+        "DATE": [
+          "December 30 2014",
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.73380985512949
+    },
+    {
+      "titre": "Saipem: No Complaints About Kashagan Leaks",
+      "source": "Marine Technology News",
+      "lien": "https://www.marinetechnologynews.com/news/saipem-complaints-about-kashagan-491574",
+      "image_url": "https://images.marinetechnologynews.com/images/maritime/w500/photo-courtesy-26803.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-OTLLxULQxK4kHiBnSv1m5jHDKk2OhB_h6mc3EpCz8lLDphWn",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Saipem: No Complaints About Kashagan Leaks",
+        "link": "https://www.marinetechnologynews.com/news/saipem-complaints-about-kashagan-491574",
+        "source": "Marine Technology News",
+        "source_icon": "https://serpapi.com/searches/6a8f0158ab28c6a55e138740/images/pFvt60RqgUEYMJ9KTyTvZy4yl3OyfKmX1KjsXoPfrnw.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-OTLLxULQxK4kHiBnSv1m5jHDKk2OhB_h6mc3EpCz8lLDphWn",
+        "thumbnail_width": 233,
+        "thumbnail_height": 216,
+        "image": "https://images.marinetechnologynews.com/images/maritime/w500/photo-courtesy-26803.jpg",
+        "image_width": 539,
+        "image_height": 500
+      },
+      "webpage": {
+        "text": "Saipem: No Complaints About Kashagan Leaks\n\nItalian oil industry services company Saipem said on Tuesday it had not received any complaint regarding pipes it laid for the giant Kashagan offshore oil field in Kazakhstan where production has been halted due to leaks in the network.\n\nProduction at Kashagan, the world's biggest oil find in 35 years, started last September but was stopped in early October after gas leaks were found in the pipeline network.\n\n\"Saipem laid the pipes, welded them and tested the welding before delivery in 2008,\" Chief Executive Umberto Vergine told reporters on the sidelines of Saipem's annual shareholders' meeting.\n\n\"I don't know what the root problem is and the consortium is making a comprehensive evaluation. At the moment there hasn't been any complaint,\" he added.\n\nThe Kashagan consortium includes Italy's Eni, Exxon Mobil, Royal Dutch Shell, Total and Kazakh state oil firm KazMunaiGas.\n\nTwo people who recently returned from the $50 billion project have said oil majors have found that whole kilometers of pipeline are defective and replacing the damaged section may be a better bet than trying to repair it.\n\nIn April the chief executive of Eni, the biggest shareholder in Saipem, said he was not counting on any production from Kashagan this year or possibly next due to faulty welding.\n\n(Reporting by Giancarlo Navach; Writing by Danilo Masoni; Editing by Greg Mahlich)",
+        "metadata": {
+          "title": "Saipem: No Complaints About Kashagan Leaks",
+          "description": "Italian Oil Industry Services Company Saipem Said On Tuesday It Had Not Received Any Complaint Regarding Pipes It Laid For… ",
+          "fb:pages": "241458972668248",
+          "og:site_name": "Marine Technology News",
+          "og:type": "article",
+          "og:title": "Saipem: No Complaints about Kashagan Leaks",
+          "og:description": "Italian oil industry services company Saipem said on Tuesday it had not received any complaint regarding pipes it laid for the giant…",
+          "og:published_time": "2014-05-06T14:04:25Z",
+          "og:url": "https://www.marinetechnologynews.com/news/saipem-complaints-about-kashagan-491574",
+          "og:image": "https://images.marinetechnologynews.com/images/maritime/w800/photo-courtesy-26803.jpg",
+          "nwm:image_small": "https://images.marinetechnologynews.com/images/maritime/w100/photo-courtesy-26803.jpg",
+          "fb:app_id": "708273125878189"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Saipem comments on pipes laid for the Kashagan offshore oil field in Kazakhstan where production has been halted due to leaks in the network.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Umberto Vergine",
+          "Giancarlo Navach",
+          "Danilo Masoni",
+          "Greg Mahlich"
+        ],
+        "LOCATION": [
+          "Kazakhstan",
+          "Kashagan"
+        ],
+        "ORGANIZATION": [
+          "Saipem",
+          "Eni",
+          "Exxon Mobil",
+          "Royal Dutch Shell",
+          "Total",
+          "KazMunaiGas"
+        ],
+        "DATE": [
+          "Tuesday",
+          "September",
+          "October",
+          "2008",
+          "April",
+          "this year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Kashagan offshore oil field"
+        ]
+      },
+      "score_e5": 0.7099676561075543
+    },
+    {
+      "titre": "Murchison oilfield - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Murchison_oilfield",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Conocos_Murchison_platform_(DEX_KF_000638).jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjgF2OnxLOhpgTJAb396TG-WL1GE3WSOpME98nfy4ADvvOmBc",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Murchison oilfield - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Murchison_oilfield",
+        "source": "Wikipedia",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRLIcgPlYxOaoBg0MnSobLYyflrgF_RLdwAY09AXHWGy2jqWQnuIBNCY5I1BuzY7jeAJga0y0b9htBHe94i3Pg4B0NhHMNDVsmS-FVRKL014d-Xf6sX",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjgF2OnxLOhpgTJAb396TG-WL1GE3WSOpME98nfy4ADvvOmBc",
+        "thumbnail_width": 200,
+        "thumbnail_height": 251,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Conocos_Murchison_platform_(DEX_KF_000638).jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "image_width": 3189,
+        "image_height": 4000
+      },
+      "webpage": {
+        "text": "Murchison oilfield\n\nNorwegian oil field in the North Sea\n\nThe Murchison oil field is located in the northern North Sea in the East Shetland Basin on the UK Continental Shelf. The field is situated 150 km north-east of Shetland and straddles the UK/Norwegian median line. It lies in UK Block 211/19 and extends into Norwegian Block 33/9.[1] The field is named after the Scottish geologist Sir Roderick Impey Murchison (1792–1871). Recoverable reserves were estimated to be 340 million barrels of oil out of a total oil-in-place of 790 million barrels. The field was developed through a large steel jacket platform standing in 156 m of water.[1] The peak production rate was 150,383 barrels of oil per day in December 1982.[1] Oil production was supported by gas and water injection. Production ceased in 2014 and the platform was removed in 2017.[2]\n\n\nHistory\n\nThe Murchison oil field was discovered in 1975 by Conoco (UK) Ltd. The reservoir is a Middle Jurassic Brent Group sandstone sealed by Upper Jurassic shales. The oil is unsaturated and had a gravity of 36° API, and without a gas cap.[3] The topsides for Murchison were designed by Matthew Hall Engineering which was awarded the contract in November 1976.[4] Construction was by McDermott Scotland at their Ardersier yard. Initially there were facilities for ten oil production wells, ten water injection wells, two gas injection wells and five spare slots. The production capacity was 164,000 barrels of oil per day and 1.3 million standard cubic metres of gas per day. There was a single production train with three stages of 3-phase of oil, gas and water separation; the first stage separator initially operated at 45 barg. Electricity generation was powered by two 19 MW Rolls-Royce Olympus C gas turbines. The topside accommodation was for 200 people.[4] The topsides weighed 16,000 tonnes and there were 16 modules supported by an eight leg steel jacket of lift weight 24,640 tonnes.[5]\n\nThe British and Norwegian government licensees entered into an agreement in 1979 concerning common exploitation of the resources on the Murchison field.[6]\n\n\nOperation\n\nThe platform was installed in 1979 and after one year of hook-up and commissioning production started in September 1980. Oil was exported through a 16-inch pipeline via the Dunlin platform and then the Cormorant Alpha platform to Sullom Voe. Gas was reinjected into the reservoir and excess was exported via a 6-inch spur line to the Northern Leg Gas Pipeline (NLGP) to Brent Alpha then via the FLAGS pipeline to St Fergus. Peak production occurred in 1984 at a rate of 3.1 million cubic metres of oil equivalent.[6] In later field life fuel gas was imported from the NLGP. The Playfair field to the north of Murchison was developed in 2004 and produced through an extended reach well.[5] In January 1995 Conoco relinquished ownership and Oryx U.K. Energy Co. was appointed as operator of the Murchison, Hutton and Lyell fields. Oryx stated this was ‘the chance to add value to the fields by extending the Murchison and Hutton field lives by at least 5 years, and by adopting a new style of working’.[7] In October 1998 Kerr-McGee acquired Oryx and became the operator of Murchison.[8] Canadian Natural Resources (CNR) acquired the Murchison field and installation from Kerr-McGee in 2002,[9] and CNR remained the operator through to platform decommissioning. The total oil produced during the life of the field was 400 million barrels.[1]\n\n\nDecommissioning\n\nCNR submitted a Cessation of Production application which was approved by the UK government in 2012.[1] Production ceased in 2014. Decommissioning activities started from 2013 by plugging the wells. The platform was dismantled by removing the topsides modules and then removing the jacket to a height of about 44 m above the sea bed.[1] Drill cuttings and pipelines were left in situ. The upper jacket was removed in June 2017 completing the decommissioning process.[6][2]\n\n\nSee also\n\n * Energy policy of the United Kingdom\n * Energy use and conservation in the United Kingdom\n\n\nReferences\n\n 1. 1 2 3 4 5 6 \"Murchison oil field decommissioning, Offshore Technology\".\n 2. 1 2 \"CNR North Sea\".\n 3. ↑ \"The Murchison field, Lyell Memoirs, Geological Society of London\".\n 4. 1 2 Matthew Hall Engineering publicity brochure undated but c. 1990\n 5. 1 2 \"A Barrel Full - Murchison oil field\".\n 6. 1 2 3 \"Norwegian Petroleum - Murchison\".\n 7. ↑ \"Offshore Northern Europe Oryx Squeezes Extra Production From Mature U.K. N. Sea Fields, Oil & Gas Journal 19 August 1996\".\n 8. ↑ \"Kerr-McGee, Oryx join U.S. merger frenzy, Oil & Gas Journal, 26 October 1998\".\n 9. ↑ \"Kerr-McGee parts with certain North Sea assets, Hutton TLP, Oil & Gas Journal, 6 September 2002\".\n\n61°23′55″N 1°44′42″E﻿ / ﻿61.3985°N 1.7450°E﻿ / 61.3985; 1.7450",
+        "metadata": {
+          "title": "Murchison oilfield - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Conocos_Murchison_platform_%28DEX_KF_000638%29.jpg/1280px-Conocos_Murchison_platform_%28DEX_KF_000638%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "957",
+          "og:title": "Murchison oilfield - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Murchison oilfield",
+          "url": "https://en.wikipedia.org/wiki/Murchison_oilfield",
+          "sameAs": "http://www.wikidata.org/entity/Q12717025",
+          "mainEntity": "http://www.wikidata.org/entity/Q12717025",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2018-06-20T06:22:15Z",
+          "dateModified": "2026-03-26T20:09:30Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Conocos_Murchison_platform_%28DEX_KF_000638%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "oilfield in the northern North Sea in the East Shetland Basin on the UK Continental Shelf"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Overview of the Murchison oilfield, a Norwegian oil field located in the northern North Sea in the East Shetland Basin on the UK Continental Shelf, detailing its development, history, operation, and eventual decommissioning.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Roderick Impey Murchison"
+        ],
+        "LOCATION": [
+          "North Sea",
+          "East Shetland Basin",
+          "UK Continental Shelf",
+          "Shetland",
+          "UK Block 211/19",
+          "Norwegian Block 33/9",
+          "St Fergus",
+          "Hutton",
+          "Lyell"
+        ],
+        "ORGANIZATION": [
+          "Wikipedia",
+          "Conoco (UK) Ltd.",
+          "Matthew Hall Engineering",
+          "McDermott Scotland",
+          "Rolls-Royce",
+          "Oryx U.K. Energy Co."
+        ],
+        "DATE": [
+          "1792–1871",
+          "December 1982",
+          "2014",
+          "2017",
+          "1975",
+          "November 1976",
+          "1979",
+          "September 1980",
+          "1984",
+          "2004",
+          "January 1995"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Middle Jurassic Brent Group",
+          "Playfair field",
+          "Northern Leg Gas Pipeline",
+          "FLAGS pipeline"
+        ]
+      },
+      "score_e5": 0.7358379862402412
+    },
+    {
+      "titre": "Greenpeace protesters leave North Sea oil platforms after ...",
+      "source": "OGV Energy",
+      "lien": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/",
+      "image_url": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv5qHbU0JRKLQuIu4CtLU2HnLlW--n0fy-5WASIl9ukI73x-2P",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Greenpeace protesters leave North Sea oil platforms after ...",
+        "link": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/",
+        "source": "OGV Energy",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSIZO3RJUOuLNKXG9awrs1H_bh13XniJxRsD86DzTpBhVSxuX0xlOAnHUZGr9UmZiEQaWU974CgTtjG8ogP7H7NJnsMgTsrKedtcLEt6xrBrY-pXE-_kgt63rp4Xg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv5qHbU0JRKLQuIu4CtLU2HnLlW--n0fy-5WASIl9ukI73x-2P",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+        "image_width": 434,
+        "image_height": 650
+      },
+      "webpage": {
+        "text": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours\n\nActivists who spent the night on two North Sea oil platforms to campaign against leaving parts of the old rigs in the sea have ended their protest after more than 24 hours.\n\nGreenpeace International said activists from the Netherlands, Germany and Denmark had boarded Shell’s Brent Alpha and Bravo platforms as part of a protest against plans by the company to leave parts of old structures in the North Sea.\n\nThe environmental group said climbers scaled the platforms, which are no longer operational and lie north-east of the Shetland Islands, and hung banners which read: “Shell, clean up your mess!” and “Stop Ocean Pollution”.\n\nGreenpeace confirmed on Tuesday that five activists had left the platforms after spending more than 24 hours on board.\n\nIt said that Shell’s decommissioning plans will leave parts of four Brent oil platforms at sea with a total of around 640,000 cubic metres of oily water and 40,000 cubic metres of oily sediment containing more than 11,000 tonnes of oil.\n\nCampaigner Christian Bissau added: “Our activists have made sure that Shell’s refusal to clean up its own mess won’t go unnoticed.\n\n“This is a company that prides itself on being able to extract fossil fuels miles deep into the Earth’s crust, and yet they say it’s too hard to extract oil sludge from a few feet of concrete in their own rigs.\n\n“This multi-billion-pound oil giant is just trying to skimp and save at the expense of our marine environment.\n\n“If our governments are serious about protecting our seas, they should never allow oil companies like Shell to treat them as a waste dump.”\n\nGreenpeace International said that although a ban on dumping installations and platforms in the North East Atlantic ocean was agreed in 1998, Shell has requested an exemption from the UK Government.\n\nIt is calling for governments to protect the ocean and “not cave in to corporate pressure”.\n\nBut a Shell spokesman said on Monday that the company had spent 10 years conducting in-depth research into decommissioning the Brent platforms and its recommendations were the result of more than 300 scientific and technical studies.\n\nSource: The Scotsman\n\nPublished: 15-10-2019",
+        "metadata": {
+          "title": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours - Global Energy Network",
+          "description": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours   Activists who spent the night on two North Sea oil platforms to campaign",
+          "og:locale": "en_GB",
+          "og:type": "article",
+          "og:title": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours",
+          "og:description": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours   Activists who spent the night on two North Sea oil platforms to campaign",
+          "og:url": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/",
+          "og:site_name": "Global Energy Network",
+          "article:publisher": "https://www.facebook.com/ogvenergy",
+          "article:published_time": "2019-10-14T23:00:00+00:00",
+          "og:image": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+          "og:image:width": "650",
+          "og:image:height": "434",
+          "og:image:type": "image/jpeg",
+          "author": "Lucky Chugh"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#article",
+              "isPartOf": {
+                "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/"
+              },
+              "author": {
+                "name": "Lucky Chugh",
+                "@id": "https://globalenergynetwork.net/#/schema/person/ef938b34c5424d477657be239e0536d9"
+              },
+              "headline": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours",
+              "datePublished": "2019-10-14T23:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/"
+              },
+              "wordCount": 377,
+              "publisher": {
+                "@id": "https://globalenergynetwork.net/#organization"
+              },
+              "image": {
+                "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#primaryimage"
+              },
+              "thumbnailUrl": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+              "articleSection": [
+                "Regional"
+              ],
+              "inLanguage": "en-GB",
+              "copyrightYear": "2019",
+              "copyrightHolder": {
+                "@id": "https://globalenergynetwork.net/#organization"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/",
+              "url": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/",
+              "name": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours - Global Energy Network",
+              "isPartOf": {
+                "@id": "https://globalenergynetwork.net/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#primaryimage"
+              },
+              "image": {
+                "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#primaryimage"
+              },
+              "thumbnailUrl": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+              "datePublished": "2019-10-14T23:00:00+00:00",
+              "description": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours   Activists who spent the night on two North Sea oil platforms to campaign",
+              "breadcrumb": {
+                "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#breadcrumb"
+              },
+              "inLanguage": "en-GB",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#primaryimage",
+              "url": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+              "contentUrl": "https://globalenergynetwork.net/wp-content/uploads/2024/10/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours.jpeg",
+              "width": 650,
+              "height": 434
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://globalenergynetwork.net/news-item/greenpeace-protesters-leave-north-sea-oil-platforms-after-more-than-24-hours/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://globalenergynetwork.net/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "News",
+                  "item": "https://globalenergynetwork.net/news/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Greenpeace protesters leave North Sea oil platforms after more than 24 hours"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://globalenergynetwork.net/#website",
+              "url": "https://globalenergynetwork.net/",
+              "name": "Global Energy Network",
+              "description": "The next GEN destination for energy news, insights, and careers.",
+              "publisher": {
+                "@id": "https://globalenergynetwork.net/#organization"
+              },
+              "alternateName": "GEN",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://globalenergynetwork.net/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-GB"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://globalenergynetwork.net/#organization",
+              "name": "Global Energy Network",
+              "alternateName": "GEN",
+              "url": "https://globalenergynetwork.net/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-GB",
+                "@id": "https://globalenergynetwork.net/#/schema/logo/image/",
+                "url": "https://globalenergynetwork.net/wp-content/uploads/2026/02/Global-Energy-Network-Logo-_-Inverted.png",
+                "contentUrl": "https://globalenergynetwork.net/wp-content/uploads/2026/02/Global-Energy-Network-Logo-_-Inverted.png",
+                "width": 1400,
+                "height": 383,
+                "caption": "Global Energy Network"
+              },
+              "image": {
+                "@id": "https://globalenergynetwork.net/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/ogvenergy",
+                "https://x.com/GENetwork_",
+                "https://uk.linkedin.com/company/global-energy-network",
+                "https://www.youtube.com/@OGVGroup",
+                "https://www.instagram.com/ogvenergy/",
+                "https://www.pinterest.co.uk/oilandgasvision/"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://globalenergynetwork.net/#/schema/person/ef938b34c5424d477657be239e0536d9",
+              "name": "Lucky Chugh",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-GB",
+                "@id": "https://secure.gravatar.com/avatar/07b96105e960111af5e3297a63b1f28b6d3126854461a454a2754e1e6faa7bd5?s=96&d=mm&r=g",
+                "url": "https://secure.gravatar.com/avatar/07b96105e960111af5e3297a63b1f28b6d3126854461a454a2754e1e6faa7bd5?s=96&d=mm&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/07b96105e960111af5e3297a63b1f28b6d3126854461a454a2754e1e6faa7bd5?s=96&d=mm&r=g",
+                "caption": "Lucky Chugh"
+              },
+              "url": "https://globalenergynetwork.net/news-item/author/kd007growth/"
+            }
+          ]
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Greenpeace protesters left Shell's Brent Alpha and Bravo platforms in the North Sea after more than 24 hours of campaigning against plans to leave parts of old structures in the sea.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Christian Bissau"
+        ],
+        "LOCATION": [
+          "North Sea",
+          "Netherlands",
+          "Germany",
+          "Denmark",
+          "Shetland Islands"
+        ],
+        "ORGANIZATION": [
+          "OGV Energy",
+          "Greenpeace International",
+          "Shell",
+          "The Scotsman"
+        ],
+        "DATE": [
+          "Tuesday",
+          "Monday",
+          "15-10-2019",
+          "1998"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Brent Alpha and Bravo platforms",
+          "North East Atlantic ocean"
+        ]
+      },
+      "score_e5": 0.7110390933956606
+    },
+    {
+      "titre": "BMT Offers CNRI Decommissioning Support",
+      "source": "Marine Link",
+      "lien": "https://www.marinelink.com/news/decommissioning-support340228",
+      "image_url": "https://images.marinelink.com/images/maritime/photo-courtesy-6207.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2_RMAdpfFOJ6H37P6m0Gl8f_WYX8kHkMCcbQInCoa19p5Q9S4",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "BMT Offers CNRI Decommissioning Support",
+        "link": "https://www.marinelink.com/news/decommissioning-support340228",
+        "source": "Marine Link",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRn-p7NBUWOSGxMmQ8fdQx0EtPgsYhsYz1kCxjAZfger3EIJ8f7DCfAANCmT6GuPscwGqG21s_1h-kf4D1oXZQ34JzavREayS09hd0eawWNeOYGc-dPyco",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2_RMAdpfFOJ6H37P6m0Gl8f_WYX8kHkMCcbQInCoa19p5Q9S4",
+        "thumbnail_width": 279,
+        "thumbnail_height": 181,
+        "image": "https://images.marinelink.com/images/maritime/photo-courtesy-6207.jpg",
+        "image_width": 385,
+        "image_height": 250
+      },
+      "webpage": {
+        "text": "BMT Offers CNRI Decommissioning Support\n\nSeptember 1, 2011\n\n(Photo Courtesy of CNRI)\n\nBMT Cordah won a contract by Canadian Natural Resources International (CNRI).  This project will see BMT provide vital support and guidance for the environmental aspects during two of CNRI’s decommissioning projects, both of which are currently in the planning and consenting phase. CNRI’s Murchison and Ninian Northern fields located in the northern North Sea have both been in operation since the early 1980’s.  To ensure compliance with the requirements of key legislation and regulations set out by the UK Department of Energy and Climate Change (DECC), CNRI turned to BMT to draw upon its expertise and knowledge of decommissioning projects which includes Shelley, North West Hutton and Maureen Alpha and dates back to 1995.\nAs part of its support, BMT will develop the necessary documentation to inform project decisions, assess and manage environmental issues and ultimately support CNRI’s decommissioning programmes submission to DECC for approval.  This includes: register of environmental permits, licences and consents; decommissioning waste management strategy; assessment of energy use and gaseous emissions; drill cuttings pile management assessment; comparative assessment of pipeline and jacket decommissioning options; EIA (Environmental Impact Assessment) scoping report and subsequent Environmental Statement. \nDavid Sell, Managing Director of BMT Cordah, comments:  “The North Sea hosts almost 600 offshore platforms of which 54% are more than 15 years old. The average age of the decommissioned platforms in the North Sea to date is 17 years, indicating that decommissioning will become an increasingly significant issue in the region over the next decade. With strong experience in offshore operations, impact assessment and consenting procedures, our team of decommissioning experts are ideally placed to inform and manage the project for organisations such as CNRI.”\n\nSubscribe for\nMaritime Reporter E-News\n\nMaritime Reporter E-News is the maritime industry's largest circulation and most authoritative ENews Service, delivered to your Email five times per week",
+        "metadata": {
+          "title": "BMT Offers CNRI Decommissioning Support",
+          "description": "BMT Cordah won a contract by Canadian Natural Resources International (CNRI). This project will see BMT provide vital support… ",
+          "fb:app_id": "654779848950006",
+          "og:site_name": "MarineLink",
+          "og:type": "article",
+          "og:title": "BMT Offers CNRI Decommissioning Support",
+          "og:description": "BMT Cordah won a contract by Canadian Natural Resources International (CNRI). This project will see BMT provide vital support and…",
+          "og:published_time": "2011-09-01T08:33:48Z",
+          "og:url": "https://www.marinelink.com/news/decommissioning-support340228",
+          "og:logo": "https://www.marinelink.com/Content/MarineLinkLogo-c.png",
+          "og:image": "https://images.marinelink.com/images/maritime/w800/photo-courtesy-6207.jpg",
+          "nwm:image_small": "https://images.marinelink.com/images/maritime/w100/photo-courtesy-6207.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "BMT Cordah won a contract from Canadian Natural Resources International (CNRI) to provide environmental support and guidance for decommissioning projects at the Murchison and Ninian Northern fields in the northern North Sea.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Sell"
+        ],
+        "LOCATION": [
+          "North Sea"
+        ],
+        "ORGANIZATION": [
+          "BMT",
+          "Canadian Natural Resources International",
+          "BMT Cordah",
+          "UK Department of Energy and Climate Change"
+        ],
+        "DATE": [
+          "September 1, 2011",
+          "early 1980’s",
+          "1995",
+          "over the next decade"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Murchison and Ninian Northern fields",
+          "Shelley",
+          "North West Hutton",
+          "Maureen Alpha",
+          "Maritime Reporter E-News"
+        ]
+      },
+      "score_e5": 0.7422646364840221
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Tiffany"
+    ],
+    "LOCATION": [
+      "Aberdeen"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "John Furrier",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Umberto Vergine",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Giancarlo Navach",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Danilo Masoni",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Greg Mahlich",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Roderick Impey Murchison",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Christian Bissau",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Sell",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Sea",
+      "rangs": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Glasgow",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Aberdeen",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kazakhstan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kashagan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Shetland Basin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "UK Continental Shelf",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shetland",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "UK Block 211/19",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Norwegian Block 33/9",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St Fergus",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hutton",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lyell",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Netherlands",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Denmark",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SiliconANGLE",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Canadian Natural Resources, Ltd.",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Provista UK Ltd.",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cisco",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SiliconANGLE Media",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "theCUBE",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alumni Trust Network",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Saipem",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Eni",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Exxon Mobil",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Royal Dutch Shell",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Total",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "KazMunaiGas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Conoco (UK) Ltd.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Matthew Hall Engineering",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "McDermott Scotland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rolls-Royce",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Oryx U.K. Energy Co.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "OGV Energy",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Greenpeace International",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Scotsman",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BMT",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BMT Cordah",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UK Department of Energy and Climate Change",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 30 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "this year",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1792–1871",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 1982",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1975",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 1976",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1979",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 1980",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1984",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2004",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 1995",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "15-10-2019",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1998",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 1, 2011",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early 1980’s",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1995",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "over the next decade",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Kashagan offshore oil field",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Middle Jurassic Brent Group",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Playfair field",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Northern Leg Gas Pipeline",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "FLAGS pipeline",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Brent Alpha and Bravo platforms",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "North East Atlantic ocean",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Murchison and Ninian Northern fields",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Shelley",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "North West Hutton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Maureen Alpha",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Maritime Reporter E-News",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:42:33.709842"
+  }
+}

@@ -112,47 +112,33 @@ def detail_verification(verification_id: int, current_user: dict = Depends(obten
 
 # --- Route principale ---
 @app.post("/verify-rumor")
-async def verify_rumor(
-    request: Request,
-    rumor_text: str = Form(...),
-    image_file: UploadFile = File(None)
-):
+async def verify_rumor(request: Request, rumor_text: str = Form(...), image_file: UploadFile = File(None)):
     if not rumor_text.strip():
-        raise HTTPException(status_code=400, detail="Le texte de la rumeur ne peut pas être vide.")
+        raise HTTPException(
+            status_code=400,
+            detail="Le texte de la rumeur ne peut pas être vide."
+        )
 
     user_id = obtenir_user_id_optionnel(request)
     chemin_image_temporaire = ""
     url_image_cloudinary = ""
     actuel_date = datetime.now().strftime("%d %B %Y")
-
     try:
-        
+        # --- Gestion de l'image ---
         if image_file:
             nom_unique = f"photo_{time.time()}_{image_file.filename}"
             chemin_image_temporaire = os.path.join(UPLOAD_DIR, nom_unique)
             with open(chemin_image_temporaire, "wb") as buffer:
                 shutil.copyfileobj(image_file.file, buffer)
-            
-            
             url_image_cloudinary = uploader_image(chemin_image_temporaire)
-            os.remove(chemin_image_temporaire)  
-        else:
-            url_image_cloudinary = ""
+            os.remove(chemin_image_temporaire)
+            chemin_image_temporaire = ""
 
-
+        # --- État initial ---
         etat_initial = {
             "rumor_text": rumor_text,
             "rumor_image": url_image_cloudinary,
             "current_date": actuel_date,
-            "image_description": "",
-            "lens_results": "",
-            "sub_questions": [],
-            "search_history": [],
-            "evidence_gathered": [],
-            "confidence_score": 0.0,
-            "sources_collectees": [],
-            "iterations": 0,
-            "verdict": "",
             "justification_json": {},
             "performance_metrics": {
                 "total_latency": 0.0,
@@ -161,20 +147,30 @@ async def verify_rumor(
             }
         }
 
+        # --- Exécution du graphe ---
         config = {"configurable": {"thread_id": f"session_{time.time()}"}}
-        resultat_graphe = await graphe_oluyewo.ainvoke(etat_initial, config=config)
+        resultat_graphe = await graphe_oluyewo.ainvoke(
+            etat_initial,
+            config=config
+        )
+        # --- Récupération du rapport produit par le Nœud 2 ---
+        reponse_finale = resultat_graphe.get(
+            "justification_json",
+            {
+                "resultat_utilisateur": {
+                    "titre": "Analyse indisponible",
+                    "resume": "Le système n'a pas pu générer le rapport d'analyse.",
+                    "analyse_contexte": {},
+                    "analyse_image_rumeur": {},
+                    "mise_en_relation": "",
+                    "conclusion": "",
+                    "avertissement": ""
+                },
+                "donnees_techniques": {}
+            }
+        )
 
-        reponse_finale = resultat_graphe.get("justification_json", {
-            "statut": "Unvérifiable",
-            "score_certitude": 0.0,
-            "analyse_narrative": "Le système n'a pas pu générer de rapport.",
-            "metadonnees": {}
-        })
-
-        if chemin_image_temporaire and os.path.exists(chemin_image_temporaire):
-            url_image_cloudinary = uploader_image(chemin_image_temporaire)
-            os.remove(chemin_image_temporaire)
-
+        # --- Sauvegarde en base ---
         sauvegarder_verification(
             rumor_text,
             url_image_cloudinary,
@@ -186,8 +182,14 @@ async def verify_rumor(
         return reponse_finale
 
     except Exception as e:
+
         import traceback
         traceback.print_exc()
-        if chemin_image_temporaire and os.path.exists(chemin_image_temporaire):
+
+        if (chemin_image_temporaire and os.path.exists(chemin_image_temporaire)):
             os.remove(chemin_image_temporaire)
-        raise HTTPException(status_code=500, detail=f"Erreur interne : {str(e)}")
+
+        raise HTTPException(
+            status_code=500,
+            detail=f"Erreur interne : {str(e)}"
+        )

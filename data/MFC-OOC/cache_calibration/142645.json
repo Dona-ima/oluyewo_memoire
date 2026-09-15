@@ -1,0 +1,830 @@
+{
+  "id_rumeur": 142645,
+  "id_image": 142645,
+  "caption": "Italy arrests African migrant over murder of US woman",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747937/oluyewo_benchmark/mgfdmbrweti9cs46qbzu.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Ashley Olsen: Police arrest man over Florence murder - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-us-canada-35311187",
+      "image_url": "http://c.files.bbci.co.uk/16E35/production/_87694739_hi030908857.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNUm8jhsUmqwAufpTUHm-sF8qY-xb4rE1SVlM1uSGGV6tD7__B",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Ashley Olsen: Police arrest man over Florence murder - BBC News",
+        "link": "https://www.bbc.com/news/world-us-canada-35311187",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNUm8jhsUmqwAufpTUHm-sF8qY-xb4rE1SVlM1uSGGV6tD7__B",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/16E35/production/_87694739_hi030908857.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Ashley Olsen: Police arrest man over Florence murder\n\nMr Diaw, who is said to have arrived in arrived in Italy illegally a few months ago, was arrested early on Thursday after his DNA was reportedly found on a condom and a cigarette butt in the artist's flat.\n\nMr Diaw is said to have taken Ms Olsen's mobile phone, into which he inserted his own Sim card.\n\nMr Creazzo said Mr Diaw had \"largely admitted\" his role in the events.\n\nItalian media said the suspect, aged about 27, had told police Ms Olsen had fallen during a row.\n\nWhen she was found, she had bruises and scratches on her neck.\n\nMs Olsen was from Summer Haven, Florida, and had been living in Florence for three years.\n\nIn a tribute in English-language newspaper The Florentine, her friends called her death, external \"horrific\" and \"unimaginable\".\n\n\"While we mourn her passing we place our trust fully in the Italian authorities to investigate this tragic episode,\" they said.\n\n\"We wait to hear what they discover, and pray that justice will be swiftly served to whoever his responsible.\"\n\nPolice in Italy were criticised for how they handled a murder case involving another American, Amanda Knox, after British student Meredith Kercher was found dead in 2007 in Perugia, Italy.",
+        "metadata": {
+          "description": "Police in Italy arrest a man over the murder of American Ashley Olsen, who was found strangled in her flat in Florence.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Police in Italy arrest a man over the murder of American Ashley Olsen, who was found strangled in her flat in Florence.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16E35/production/_87694739_hi030908857.jpg",
+          "og:image:alt": "Ashley Olsen",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Ashley Olsen: Police arrest man over Florence murder",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-us-canada-35311187",
+          "article:section": "US & Canada",
+          "twitter:description": "Police in Italy arrest a man over the murder of American Ashley Olsen, who was found strangled in her flat in Florence.",
+          "twitter:title": "Ashley Olsen: Police arrest man over Florence murder"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-us-canada-35311187",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-01-14T13:12:36.000Z",
+          "dateModified": "2016-01-14T13:12:36.000Z",
+          "description": "Police in Italy arrest a man over the murder of American Ashley Olsen, who was found strangled in her flat in Florence.",
+          "headline": "Ashley Olsen: Police arrest man over Florence murder",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16E35/production/_87694739_hi030908857.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16E35/production/_87694739_hi030908857.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-us-canada-35311187",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Ashley Olsen, une Américaine originaire de Summer Haven en Floride vivant à Florence depuis trois ans, a été retrouvée morte avec des ecchymoses et des égratignures sur le cou. Un homme nommé Mr. Diaw, arrivé illégalement en Italie quelques mois auparavant, a été arrêté un jeudi après que son ADN a été retrouvé sur un préservatif et un mégot de cigarette dans l'appartement de l'artiste. Il aurait pris le téléphone portable de Ms. Olsen et y aurait inséré sa propre carte SIM. Mr. Creazzo a déclaré que Mr. Diaw avait largement admis son rôle dans les événements. Des médias italiens ont indiqué que le suspect, âgé d'environ 27 ans, a déclaré à la police que Ms. Olsen était tombée lors d'une dispute. Les amis de la victime ont exprimé leur tristesse et leur confiance dans les autorités italiennes. La police en Italie avait auparavant été critiquée pour sa gestion d'une autre affaire de meurtre impliquant une Américaine, Amanda Knox, après la mort de l'étudiante britannique Meredith Kercher en 2007 à Pérouse.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ashley Olsen",
+          "Mr. Diaw",
+          "Ms. Olsen",
+          "Mr. Creazzo",
+          "Amanda Knox",
+          "Meredith Kercher"
+        ],
+        "LOCATION": [
+          "Italy",
+          "Summer Haven",
+          "Florida",
+          "Florence",
+          "Perugia"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "BBC",
+          "The Florentine"
+        ],
+        "DATE": [
+          "Thursday",
+          "2007"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Sim card",
+          "DNA"
+        ]
+      },
+      "score_e5": 0.7992796203504914
+    },
+    {
+      "titre": "Florence court convicts Cheik Tidiane Diaw of murdering ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2016/dec/22/florence-court-convicts-cheik-tidiane-diaw-murdering-ashley-olsen",
+      "image_url": "https://i.guim.co.uk/img/media/2660537d6543837f72b59af3d2578f5107b7b23e/0_198_1392_835/master/1392.jpg?width=700&quality=85&auto=format&fit=max&s=f08e099f5baded8a729f67192b0cce54",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiD3TT3H2tEqidbrAiJenjS_NufVQDrjbEArQ9Cq5rmfduGSWT",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Florence court convicts Cheik Tidiane Diaw of murdering ...",
+        "link": "https://www.theguardian.com/world/2016/dec/22/florence-court-convicts-cheik-tidiane-diaw-murdering-ashley-olsen",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ede6271577f46d8007856/images/KuCop9YOsOr76x-Vo6vsm4DIfUmCfTNq3pXlcUAHDGU.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiD3TT3H2tEqidbrAiJenjS_NufVQDrjbEArQ9Cq5rmfduGSWT",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/2660537d6543837f72b59af3d2578f5107b7b23e/0_198_1392_835/master/1392.jpg?width=700&quality=85&auto=format&fit=max&s=f08e099f5baded8a729f67192b0cce54",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Florence court convicts Cheik Tidiane Diaw of murdering Ashley Olsen | Italy\n\nA Senegalese man has been convicted by a court in Florence of murdering Ashley Olsen, a 35-year-old native of Florida whose death shocked the Italian city’s small art community.\n\nCheik Tidiane Diaw, 27, was sentenced to 30 years in prison after the court found there was evidence beyond a reasonable doubt that he had purposely killed Olsen after the two fought in her apartment.\n\n\nOlsen’s body was discovered by her boyfriend on 9 January, about a day after she was killed. She had sustained wounds to the head and had been strangled to death.\n\nThe verdict marked the conclusion of a case that, like other violent domestic crimes in Italy, was consumed by questions about the victim’s character and judgment, with some media reports suggesting Olsen’s habits and lifestyle had played a role in her murder.\n\nJust weeks after her body was found, Olsen’s family was forced to denounce the depiction of their daughter in the Italian press reports as a girl who liked to party, saying it was “offensive”.\n\n\nDiaw, who had entered Italy illegally just a few months earlier, met Olsen at a nightclub on the night she was killed. Toxicology reports later showed that she had consumed alcohol and drugs. The two left the club together, a fact that was later proved by CCTV footage, and went to her apartment, where they had sex.\n\nDiaw’s comments to police indicated that she had then asked him to leave, at which point he pushed her to the ground, causing fractures to her skull. The physical evidence then showed that he strangled her to death. Diaw admitted having pushed the American but denied having killed her.\n\nDiaw later told police that Olsen had treated him “like a dog”. A representative for Olsen’s family said they were satisfied with the verdict. “We cannot be happy when it is related to a death, but we are definitely satisfied by the decision,” said Michele Capecchi, an attorney for the family.\n\nFriends described Olsen as a vivacious member of Florence’s tight-knit artist community, who was frequently spotted walking her dog, Scout, around the Santo Spirito neighbourhood. She had moved to Florence, where her father also lived, in 2012 and became involved in the artists’ scene. She was “strong, talented and a genuinely kind woman”, said Jade Moss, a friend.\n\nA few days before the verdict was announced, Moss published a letter in a local newspaper, The Florentine, describing how difficult it was to observe the harsh judgments that had been made about Olsen and the “terrible victim blaming fiction that was printed in certain publications”.\n\n“The reconstruction [in court] of her last hours has been extremely difficult to see and hear, as well as the baseless judgments made against Ashley. Her family, partner and friends have never doubted her integrity in the wake of this tragedy,” Moss wrote. “The only thing Ashley was guilty of is her childlike naivety and trust of all human beings.”\n\nAfter the verdict, the family’s attorney also pointed to the way some media reports had portrayed Olsen’s final hours, including suggestions that she had had consensual sex with Diaw. Capecchi said Olsen’s consumption of alcohol and drugs had made her incapable of consent.\n\n“The comments that I read over the media, people trying to comment saying she asked for it because she was having an easy life, was one of the things that pissed us off the most,” Capecchi said.\n\nHer only mistake, he said, was trusting Diaw a little too much. But the crime was not hers, he made clear, but Diaw’s reaction to her rejection of him. “As long as we have men who are not willing to accept the fact that there is a refusal, without being offended, we as a society have failed,” he said.",
+        "metadata": {
+          "title": "Florence court convicts Cheik Tidiane Diaw of murdering Ashley Olsen | Italy | The Guardian",
+          "description": "Senegalese man sentenced to 30 years in prison for the killing of American woman in case that shocked city’s art community",
+          "og:url": "http://www.theguardian.com/world/2016/dec/22/florence-court-convicts-cheik-tidiane-diaw-murdering-ashley-olsen",
+          "article:author": "https://www.theguardian.com/profile/stephanie-kirchgaessner",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/4266fd055a1efeea6a0c572d1eb8efa2eff38c02/48_93_2641_1584/master/2641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=b8cefc9197a6ba7f8bf3397c4e6144d4",
+          "al:ios:url": "gnmguardian://world/2016/dec/22/florence-court-convicts-cheik-tidiane-diaw-murdering-ashley-olsen?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Florence court convicts Cheik Tidiane Diaw of murdering Ashley Olsen",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2018-03-04T12:46:11.000Z",
+          "og:image:height": "720",
+          "og:description": "Senegalese man sentenced to 30 years in prison for the killing of American woman in case that shocked city’s art community",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2016-12-22T18:09:30.000Z",
+          "article:tag": "Italy,Europe,World news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un tribunal de Florence a condamné Cheik Tidiane Diaw à 30 ans de prison pour le meurtre d'Ashley Olsen, une Américaine de 35 ans originaire de Floride. Le corps d'Olsen a été découvert par son petit ami le 9 janvier, environ un jour après sa mort, présentant des blessures à la tête et des traces de strangulation. Diaw, âgé de 27 ans et entré illégalement en Italie, avait rencontré Olsen dans une discothèque la nuit de sa mort. Ils sont allés dans son appartement où ils ont eu des relations sexuelles. Selon les déclarations de Diaw à la police, après qu'elle lui a demandé de partir, il l'a poussée au sol, lui causant des fractures au crâne, avant de l'étrangler. Diaw a admis avoir poussé l'Américaine mais a nié l'avoir tuée. L'affaire a suscité des questions et des rapports de presse sur le caractère de la victime. Des amis, dont Jade Moss, et l'avocat de la famille Michele Capecchi, ont réagi au verdict.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Cheik Tidiane Diaw",
+          "Ashley Olsen",
+          "Olsen",
+          "Diaw",
+          "Jade Moss",
+          "Michele Capecchi"
+        ],
+        "LOCATION": [
+          "Florence",
+          "Italy",
+          "Florida",
+          "Santo Spirito"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "The Florentine"
+        ],
+        "DATE": [
+          "9 January",
+          "2012",
+          "2016"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "CCTV footage"
+        ]
+      },
+      "score_e5": 0.7929680114359988
+    },
+    {
+      "titre": "Suspect Arrested in Italy in Murder of US Woman - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=FCrhNl5u_cw",
+      "image_url": "https://i.ytimg.com/vi/FCrhNl5u_cw/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1ht1Y3vQmbB4J8U98YOYTzgS8UdN0KFeA2Z07X8zHmQM9m5PA",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Suspect Arrested in Italy in Murder of US Woman - YouTube",
+        "link": "https://www.youtube.com/watch?v=FCrhNl5u_cw",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1ht1Y3vQmbB4J8U98YOYTzgS8UdN0KFeA2Z07X8zHmQM9m5PA",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/FCrhNl5u_cw/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Suspect Arrested in Italy in Murder of US Woman\n\nAssociated Press\n\nDNA analysis of a condom and cigarette butt led Italian prosecutors to arrest a Senegalese man in the death of an American woman in Florence. (Jan. 14)Subscr...",
+        "metadata": {
+          "title": "Suspect Arrested in Italy in Murder of US Woman",
+          "description": "DNA analysis of a condom and cigarette butt led Italian prosecutors to arrest a Senegalese man in the death of an American woman in Florence. (Jan. 14)Subscr...",
+          "keywords": "3f4a5d40a52f4ca0838d0d710ca83676, Ashley Olsen, Italy, Florence, Western Europe, Europe, Homicide, Violent crime, Crime, Arrests, Forensics, General news, Law and order, suspect, arrested, woman, murder, italy, associated press, AP, AP online, associated press style, news, breaking news, latest news, business, finance, politics, local news, commentary, reports, current affairs, top news, headlines, news today",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=FCrhNl5u_cw",
+          "og:title": "Suspect Arrested in Italy in Murder of US Woman",
+          "og:image": "https://i.ytimg.com/vi/FCrhNl5u_cw/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "DNA analysis of a condom and cigarette butt led Italian prosecutors to arrest a Senegalese man in the death of an American woman in Florence. (Jan. 14)Subscr...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=FCrhNl5u_cw&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=FCrhNl5u_cw&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=FCrhNl5u_cw&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/FCrhNl5u_cw",
+          "og:video:secure_url": "https://www.youtube.com/embed/FCrhNl5u_cw",
+          "og:video:type": "text/html",
+          "og:video:width": "640",
+          "og:video:height": "360",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "news today",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Suspect Arrested in Italy in Murder of US Woman",
+          "twitter:description": "DNA analysis of a condom and cigarette butt led Italian prosecutors to arrest a Senegalese man in the death of an American woman in Florence. (Jan. 14)Subscr..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une analyse ADN d'un préservatif et d'un mégot de cigarette a conduit les procureurs italiens à arrêter un homme sénégalais suite à la mort d'une femme américaine à Florence.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Italy",
+          "Florence"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "Associated Press"
+        ],
+        "DATE": [
+          "Jan. 14"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "DNA"
+        ]
+      },
+      "score_e5": 0.8269375422996083
+    },
+    {
+      "titre": "Italian Police Looking for Man Seen in Video With US Woman ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/International/italian-police-man-video-us-woman-found-dead/story?id=36275504",
+      "image_url": "https://s.abcnews.com/images/International/AP_ashley_olsen_cf_160113_16x9_992.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTScV_qjf5c918Xop1f5BVUboVadsku0lqawlFwakgTVe_BaZjm",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Italian Police Looking for Man Seen in Video With US Woman ...",
+        "link": "https://abcnews.com/International/italian-police-man-video-us-woman-found-dead/story?id=36275504",
+        "source": "ABC News",
+        "source_icon": "https://serpapi.com/searches/6a8ede6271577f46d8007856/images/m8P_UNUCygPDhi2FWDpISo9BW8r2iaRCMpSD3OHFf0g.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTScV_qjf5c918Xop1f5BVUboVadsku0lqawlFwakgTVe_BaZjm",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://s.abcnews.com/images/International/AP_ashley_olsen_cf_160113_16x9_992.jpg",
+        "image_width": 558,
+        "image_height": 992
+      },
+      "webpage": {
+        "text": "Italian Police Looking for Man Seen in Video With US Woman Later Found Dead in Florence\n\nThe man was captured on video with Ashley Olsen, Italian news reports say.\n\n&#151; -- Italian authorities are close to identifying the man they believe is responsible for killing Ashley Olsen, the 35-year-old U.S. expatriate found dead in her Florence apartment over the weekend, according to Italian news reports.\n\nAfter analyzing hundreds of hours of surveillance video from cameras, including one on Olsen's street, authorities have turned their focus on a man, possibly a drug dealer, who was spotted on video walking Olsen home and then going inside her apartment building with her, according to media reports.\n\nAn preliminary autopsy on Tuesday showed that Olsen had been strangled, officials said. An Italian prosecutor in the case said the killer could have used a thin cord or chain.\n\nInvestigators were told by Olsen's friends that they had been out with her at a Florence club called Montecarla on Thursday but that they'd left earlier than she did, according to the Associated Press. That was the last time they saw her.\n\n\nPopular Reads\n\n\nThe club was located 10 minutes away from her rented apartment.\n\nOlsen's naked body was found by her Italian artist boyfriend in her studio apartment nearly 36 hours later, on Saturday afternoon, according to local reports. Police said that her neck showed signs of bruising and scratching. There were no signs of a scuffle, no forced entry and nothing was missing, Italian news reports said.\n\nOlsen was a Florida native. She'd been living in Florence for about three years, according to the AP, after moving to the country to be with her father, Walter Olsen.\n\nIn a statement Tuesday, Walter Olsen said: \"We are devastated that our precious Ashley has passed away resulting from a horrible and senseless crime.\"\n\n\nSponsored Content by Taboola",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "Italian authorities are reportedly looking for a man they say was captured on video walking with Ashley Olsen, the U.S. expatriate found dead in a Florence apartment.",
+          "keywords": "ashley olsen, florence italy, florida native, italian expatriate, artist boyfriend",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "Italian Police Looking for Man Seen in Video With US Woman Later Found Dead in Florence",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/International/italian-police-man-video-us-woman-found-dead/story?id=36275504",
+          "og:title": "Italian Police Looking for Man Seen in Video With US Woman Later Found Dead in Florence",
+          "og:description": "Italian authorities are reportedly looking for a man they say was captured on video walking with Ashley Olsen, the U.S. expatriate found dead in a Florence apartment.",
+          "og:image": "https://s.abcnews.com/images/International/AP_ashley_olsen_cf_160113_16x9_992.jpg?w=1600",
+          "og:type": "article",
+          "lastPublishedDate": "2016-01-14T16:21:32Z",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "55845270277",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@ABC",
+          "twitter:creator": "ABC News",
+          "twitter:title": "Italian Police Looking for Man Seen in Video With US Woman Later Found Dead in Florence",
+          "twitter:description": "Italian authorities are reportedly looking for a man they say was captured on video walking with Ashley Olsen, the U.S. expatriate found dead in a Florence apartment.",
+          "twitter:url": "https://abcnews.com/International/italian-police-man-video-us-woman-found-dead/story?id=36275504",
+          "twitter:image": "https://s.abcnews.com/images/International/AP_ashley_olsen_cf_160113_16x9_992.jpg?w=1600",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "al:iphone:url": "abcnewsiphone://link/prism-story,36275504",
+          "al:iphone:app_store_id": "300255638",
+          "al:iphone:app_name": "ABC News - Breaking US & World News",
+          "al:ipad:url": "abcnewsipad://link/prism-story,36275504",
+          "al:ipad:app_store_id": "380520716",
+          "al:ipad:app_name": "ABC News for ipad",
+          "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.com/International/italian-police-man-video-us-woman-found-dead/story?id=36275504",
+          "al:android:app_name": "ABC News Breaking Latest News",
+          "al:android:package": "com.abc.abcnews",
+          "al:web:url": "https://abcnews.com/International/italian-police-man-video-us-woman-found-dead/story?id=36275504"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La police italienne recherche un homme aperçu en vidéo avec Ashley Olsen, une expatriée américaine de 35 ans retrouvée morte dans son appartement de Florence. Après l'analyse de vidéos de surveillance, les autorités se sont concentrées sur un homme soupçonné d'avoir raccompagné Olsen chez elle et d'être entré dans son immeuble. Une autopsie préliminaire a indiqué qu'elle avait été étranglée. Des amis ont indiqué l'avoir vue dans un club appelé Montecarla. Le corps nu d'Olsen a été découvert par son petit ami artiste italien environ 36 heures plus tard, le samedi après-midi, dans son studio. Originaire de Floride, elle vivait à Florence depuis environ trois ans pour se rapprocher de son père, Walter Olsen.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ashley Olsen",
+          "Olsen",
+          "Walter Olsen"
+        ],
+        "LOCATION": [
+          "Florence",
+          "Florida"
+        ],
+        "ORGANIZATION": [
+          "ABC News",
+          "Associated Press"
+        ],
+        "DATE": [
+          "Saturday",
+          "Tuesday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Montecarla"
+        ]
+      },
+      "score_e5": 0.7763061002513139
+    },
+    {
+      "titre": "Italy Arrests Suspect in Death of American Woman - The New ...",
+      "source": "The New York Times",
+      "lien": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+      "image_url": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-facebookJumbo.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmTdCBKvLyCO_hQyB8GvIhel6lYm5ePksSLKnJgVEOqHhenAH",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Italy Arrests Suspect in Death of American Woman - The New ...",
+        "link": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+        "source": "The New York Times",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwSEhISEhISEhIYGBgSEhITExMSEhISEhIUFBQSEhISEhITExMSEhIUFBQbGxsSEhISEhK8R-FnAAAAEXRSTlMAqdTxDrYqyJkai15L4jsFd3oeBHkAAAD8SURBVDiNxZNJcsQgDEUZJMDMuv9lI6DdbURnmYoWlOG_QsPHSv1PQNbuPEy-GJ1egqck9GZohsXeeFuoXLvu6RPWW17zBlQ6YgcSUUE09qObPUUmw-WBi-9UosjLBF5ibKol7UvBKrt0QXWr-aN3BfWQxxyQjHKRaFx1fQE4ea-jgl-AwHVDewG5H7rjBlHBAqqlKIE4lQXMoQUBIJ_F-wamjXSzsKJvQHXko3YAvsGzi92LodjaHoDTssuRg4HoFoA7kKdBUS-LLgAt3IL1oPwaISRDVvThbptR62n5Maq-vycrdS7j8ZzuXCJLeOsBvujzloCIQf4Sfx0_-9wR8otzrKEAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmTdCBKvLyCO_hQyB8GvIhel6lYm5ePksSLKnJgVEOqHhenAH",
+        "thumbnail_width": 162,
+        "thumbnail_height": 311,
+        "image": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-facebookJumbo.jpg",
+        "image_width": 420,
+        "image_height": 803
+      },
+      "webpage": {
+        "text": "Italy Arrests Suspect in Death of American Woman\n\nEurope|Italy Arrests Suspect in Death of American Woman\n\nhttps://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html\n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nROME — The Italian police announced Thursday that a Senegalese migrant had been arrested in the killing of a young American found dead in her Florence apartment last weekend.\n\nThe mysterious circumstances of the death of Ashley Ann Olsen, 35, of Florida, immediately drew global attention. Her body was discovered Saturday morning by her boyfriend, who alerted the police.\n\nInvestigators said Thursday that Ms. Olsen had met the suspect — Cheik Tidiane Diaw, a 27-year-old Senegalese who is in the country illegally — at a Florence nightclub on the evening of Jan. 7. Witnesses saw the two leave the club together, and street cameras recorded them returning to her apartment early Jan. 8. Investigators said they had consensual sex before Ms. Olsen was killed.\n\nDNA analysis of a condom and a cigarette butt discovered in Ms. Olsen’s bathroom, as well as other biological evidence, suggested that Mr. Diaw and Ms. Olsen had been the only two people in the apartment at that time. Mr. Diaw also stole Ms. Olsen’s smartphone and used it, investigators said.\n\nGiuseppe Creazzo, chief prosecutor of Florence, said in a televised news conference that Mr. Diaw had been questioned for several hours and had “substantially admitted to the accusations.” Mr. Creazzo said he did not know what Mr. Diaw’s motives might have been, but he suggested that the two might have had an argument.\n\n“The investigation is not over,” Mr. Creazzo said, “but they are obviously at a good, excellent point.”\n\n----------------------------------------\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\n----------------------------------------\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.\n\n\nRelated Content\n\n",
+        "metadata": {
+          "description": "The police in Florence held a Senegalese man in connection with the killing of Ashley Ann Olsen, 35, of Florida.",
+          "twitter:url": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "twitter:title": "Italy Arrests Suspect in Death of American Woman (Published 2016)",
+          "twitter:description": "The police in Florence held a Senegalese man in connection with the killing of Ashley Ann Olsen, 35, of Florida.",
+          "twitter:image": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-articleLarge.jpg?year=2016&h=714&w=600&s=80c237f69704b2699e689840b4e27ca288574bbc9c3aa3f71c26603d6d5e465d&k=ZQJBKqZ0VN&tw=1",
+          "twitter:image:alt": "Ms. Olsen, who was from Florida, in an undated photo.",
+          "twitter:card": "summary_large_image",
+          "og:url": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "og:type": "article",
+          "og:title": "Italy Arrests Suspect in Death of American Woman (Published 2016)",
+          "og:image": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-facebookJumbo.jpg?year=2016&h=420&w=803&s=6f6ef0a67f4ba2dc3902c863015ad470c5282e01912683b1b570fc904fff248d&k=ZQJBKqZ0VN",
+          "og:image:alt": "Ms. Olsen, who was from Florida, in an undated photo.",
+          "og:description": "The police in Florence held a Senegalese man in connection with the killing of Ashley Ann Olsen, 35, of Florida.",
+          "article:published_time": "2016-01-14T13:34:47.000Z",
+          "article:modified_time": "2016-01-14T13:34:40.000Z",
+          "news_keywords": "Murders and Homicides,Cheik Tidiane Diaw,Ashley Ann Olsen,Florence",
+          "article:section": "World",
+          "article:author": "https://www.nytimes.com/by/gaia-pianigiani",
+          "article:tag": "Florence (Italy)",
+          "article:opinion": "false",
+          "article:content_tier": "metered",
+          "al:android:url": "nyt://article/263aeefe-d9fb-5e57-ba60-dc42b69435a0",
+          "al:android:package": "com.nytimes.android",
+          "al:android:app_name": "NYTimes",
+          "al:iphone:url": "nytimes://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "al:iphone:app_store_id": "284862083",
+          "al:iphone:app_name": "NYTimes",
+          "al:ipad:url": "nytimes://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "al:ipad:app_store_id": "357066198",
+          "al:ipad:app_name": "NYTimes",
+          "fb:app_id": "9869919170"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "@id": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "description": "The police in Florence held a Senegalese man in connection with the killing of Ashley Ann Olsen, 35, of Florida.",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-facebookJumbo.jpg",
+              "height": 420,
+              "width": 803,
+              "contentUrl": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-facebookJumbo.jpg",
+              "caption": "Ms. Olsen, who was from Florida, in an undated photo.",
+              "creditText": "The Florentine, via Associated Press"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-superJumbo.jpg",
+              "height": 955,
+              "width": 803,
+              "contentUrl": "https://static01.nyt.com/images/2016/01/15/world/15italy_web2/15italy_web2-superJumbo.jpg",
+              "caption": "Ms. Olsen, who was from Florida, in an undated photo.",
+              "creditText": "The Florentine, via Associated Press"
+            }
+          ],
+          "mainEntityOfPage": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "url": "https://www.nytimes.com/2016/01/15/world/europe/ashley-ann-olsen-italy-arrest.html",
+          "author": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "url": "https://www.nytimes.com/by/gaia-pianigiani",
+              "name": "Gaia Pianigiani"
+            }
+          ],
+          "dateModified": "2016-01-14T13:34:40.000Z",
+          "datePublished": "2016-01-14T13:34:47.000Z",
+          "headline": "Italy Arrests Suspect in Death of American Woman",
+          "alternativeHeadline": "Italians Hold Suspect in Killing of American Woman ",
+          "video": [
+            {
+              "id": "https://www.nytimes.com/video/world/europe/100000004144569/arrest-over-us-woman-murder-in-italy.html"
+            }
+          ],
+          "publisher": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".meteredContent"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The New York Times",
+            "productID": "nytimes.com:basic"
+          },
+          "copyrightHolder": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "sourceOrganization": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "copyrightYear": 2026,
+          "articleSection": "World, Europe",
+          "keywords": [
+            "Pianigiani, Gaia",
+            "Diaw, Cheik Tidiane",
+            "Olsen, Ashley Ann",
+            "Florence (Italy)"
+          ],
+          "isAccessibleForFree": false
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La police italienne a annoncé l'arrestation d'un migrant sénégalais, Cheik Tidiane Diaw, 27 ans, dans le cadre du meurtre d'Ashley Ann Olsen, 35 ans, originaire de Floride, retrouvée morte dans son appartement à Florence. Le corps a été découvert le samedi matin par son petit ami. Les deux s'étaient rencontrés dans une discothèque le soir du 7 janvier. L'analyse ADN d'un préservatif et d'un mégot de cigarette trouvés dans la salle de bain suggère qu'ils étaient les seuls présents. M. Diaw a également volé et utilisé le smartphone de la victime. Giuseppe Creazzo, procureur en chef de Florence, a indiqué que Diaw avait en grande partie admis les accusations lors de son interrogatoire.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Cheik Tidiane Diaw",
+          "Ashley Ann Olsen",
+          "Ms. Olsen",
+          "Mr. Diaw",
+          "Giuseppe Creazzo"
+        ],
+        "LOCATION": [
+          "Rome",
+          "Italy",
+          "Florence",
+          "Florida"
+        ],
+        "ORGANIZATION": [
+          "The New York Times"
+        ],
+        "DATE": [
+          "Thursday",
+          "Jan. 7",
+          "Jan. 8"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "DNA"
+        ]
+      },
+      "score_e5": 0.8201908334779132
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Italy",
+      "United States"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "African migrant"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Ashley Olsen",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cheik Tidiane Diaw",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mr. Creazzo",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Amanda Knox",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Meredith Kercher",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jade Moss",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Michele Capecchi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Walter Olsen",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Summer Haven",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florence",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Perugia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Santo Spirito",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rome",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Florentine",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The New York Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9 January",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 14",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 7",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 8",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sim card",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "DNA",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "CCTV footage",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Montecarla",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T13:18:16.401064"
+  }
+}

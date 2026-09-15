@@ -1,0 +1,346 @@
+{
+  "id_rumeur": 755393,
+  "id_image": 755393,
+  "caption": "Jurassic World yes another Jurassic Park sequel",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748164/oluyewo_benchmark/vcyiqtlcucwvpgusvncu.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Jurassic World (2015)",
+      "source": "Jurassic World (2015)",
+      "lien": "https://www.imdb.com/title/tt0369610/mediaviewer/rm4004642048/",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNjk5NTcyMzkxNV5BMl5BanBnXkFtZTgwOTE3NTkyNDE@._V1_.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg_vCEPSMftrCRRs4J0KIO-t-y-q19Jm7-RZ6-YCSEORH6EpL",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Jurassic World (2015)",
+        "link": "https://www.imdb.com/title/tt0369610/mediaviewer/rm4004642048/",
+        "source": "Jurassic World (2015)",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEX1xRgAAABFNwaXeg6BaAwYEwKtixHIoRM2LAWQcw66lRJiTwkJBwAyKARsVwpNPgeigg9WRQjCnBPluBbUqxR6YgwRDQGnhhCJbg0nHwNcSgk9MQaRdA55YQvarxVzz2HsAAAAk0lEQVQ4je3Q3QrDIAwFYE9idZ2utrbd2v29_2NWLQw7YTAGu-ohQi4-SKIQe_6ZljpPZHoiGsKjUTQ05UCiUoD1ADRwBi4HmBJgWsERqANQ6g1YkF2BjSD0cgtm2DkDVwe3BacKLgPGFOCG5jMwqBMYgXsY0RVAQiUQb0lLPl5Ac_tkNXDPsZi1UOyZf_n7Pd9nAQLzBd8NVN_LAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvg_vCEPSMftrCRRs4J0KIO-t-y-q19Jm7-RZ6-YCSEORH6EpL",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://m.media-amazon.com/images/M/MV5BNjk5NTcyMzkxNV5BMl5BanBnXkFtZTgwOTE3NTkyNDE@._V1_.jpg",
+        "image_width": 1365,
+        "image_height": 2048
+      },
+      "webpage": null,
+      "texte_contexte": "Jurassic World (2015)",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Jurassic World"
+        ]
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "Jurassic World' Passes 'Avengers' to Become Third Biggest ...",
+      "source": "Variety",
+      "lien": "https://variety.com/2015/film/box-office/jurassic-world-third-biggest-film-ever-1201545912/",
+      "image_url": "https://variety.com/wp-content/uploads/2015/06/jurassic-world-13.jpg?w=1000&h=563&crop=1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvTrJUEpPxmAdpL0upAUeEJqtlmNrr9IboA721BnvN_jgaUpnO",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Jurassic World' Passes 'Avengers' to Become Third Biggest ...",
+        "link": "https://variety.com/2015/film/box-office/jurassic-world-third-biggest-film-ever-1201545912/",
+        "source": "Variety",
+        "source_icon": "https://serpapi.com/searches/6a8ef8ba7223f421ffd5edf1/images/5b1vW_G1btMhWRtCKtCzegmArjFz7uSGzln1AYuzGiQ.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvTrJUEpPxmAdpL0upAUeEJqtlmNrr9IboA721BnvN_jgaUpnO",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://variety.com/wp-content/uploads/2015/06/jurassic-world-13.jpg?w=1000&h=563&crop=1",
+        "image_width": 563,
+        "image_height": 1000
+      },
+      "webpage": null,
+      "texte_contexte": "Jurassic World' Passes 'Avengers' to Become Third Biggest",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Variety"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Jurassic World",
+          "Avengers"
+        ]
+      },
+      "score_e5": 0.8223057220300579
+    },
+    {
+      "titre": "Jurassic World (2015) | Abandoned park scene | MOVIECLIPS HD ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=UXuQMn9YqcU",
+      "image_url": "https://i.ytimg.com/vi/UXuQMn9YqcU/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxPpFb47pBSa_rqgQlSsLO1OH-FpWR8JPuGDljkzyts8IAVFe9",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Jurassic World (2015) | Abandoned park scene | MOVIECLIPS HD ...",
+        "link": "https://www.youtube.com/watch?v=UXuQMn9YqcU",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxPpFb47pBSa_rqgQlSsLO1OH-FpWR8JPuGDljkzyts8IAVFe9",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/UXuQMn9YqcU/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "Jurassic World (2015) Abandoned park scene MOVIECLIPS HD",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "MOVIECLIPS"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Jurassic World"
+        ]
+      },
+      "score_e5": 0.800364693478602
+    },
+    {
+      "titre": "Exciting Jurassic World Adventure | Ben from jurassic world ...",
+      "source": "Pinterest",
+      "lien": "https://www.pinterest.com/pin/exciting-jurassic-world-adventure--63894888453640580/",
+      "image_url": "https://i.pinimg.com/736x/f9/03/cf/f903cfc53f355698a4c74bdf91e1c332.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVsEXMIFnw4ITK81igZQgukNuqwhVjepyOH1-qIsIpQW5Eddjr",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Exciting Jurassic World Adventure | Ben from jurassic world ...",
+        "link": "https://www.pinterest.com/pin/exciting-jurassic-world-adventure--63894888453640580/",
+        "source": "Pinterest",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVsEXMIFnw4ITK81igZQgukNuqwhVjepyOH1-qIsIpQW5Eddjr",
+        "thumbnail_width": 299,
+        "thumbnail_height": 168,
+        "image": "https://i.pinimg.com/736x/f9/03/cf/f903cfc53f355698a4c74bdf91e1c332.jpg",
+        "image_width": 1136,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Exciting Jurassic World Adventure Ben from jurassic world",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ben"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Pinterest"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Jurassic World"
+        ]
+      },
+      "score_e5": 0.8147232060040577
+    },
+    {
+      "titre": "Film about the blind Iowa boy who played with Johnny Cash ...",
+      "source": "The Des Moines Register",
+      "lien": "https://www.desmoinesregister.com/story/news/local/kyle-munson/2015/11/24/life-briefly-movie-brian-knapp-johnny-cash-bill-paxton-ashley-judd-ty-simpkins-iowa/76115842/",
+      "image_url": "https://www.desmoinesregister.com/gcdn/-mm-/d6f9c974d8e89c01835dad5f1a3cc646b4b839df/c=0-27-2247-1297/local/-/media/2015/11/20/IAGroup/DesMoines/635836281163133573-VTDTab-07-03-2015-Choices-1-D006--2015-07-02-IMG-vtd-0612-Jurassic-Wo-1-1-34B82788-L636955141-IMG-vtd-0612-Jurassic-Wo-1-1-34B82788.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTT-r9MiZwWJSv8EFvrDSqFq1BLdo8XHpfGWZbg4kNdBTcAjD",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Film about the blind Iowa boy who played with Johnny Cash ...",
+        "link": "https://www.desmoinesregister.com/story/news/local/kyle-munson/2015/11/24/life-briefly-movie-brian-knapp-johnny-cash-bill-paxton-ashley-judd-ty-simpkins-iowa/76115842/",
+        "source": "The Des Moines Register",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcToS_rZ7xaLcOKLCDWa37yBxv2robWwJjbDwaHMaIytEL7aziJl8I5zPvHNDh-J0IwaZxPv33tL0JAuSyRUcd0WBAocessX-peuzAAShZMYIkNq9FKDASj2y34OJwnb",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTT-r9MiZwWJSv8EFvrDSqFq1BLdo8XHpfGWZbg4kNdBTcAjD",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.desmoinesregister.com/gcdn/-mm-/d6f9c974d8e89c01835dad5f1a3cc646b4b839df/c=0-27-2247-1297/local/-/media/2015/11/20/IAGroup/DesMoines/635836281163133573-VTDTab-07-03-2015-Choices-1-D006--2015-07-02-IMG-vtd-0612-Jurassic-Wo-1-1-34B82788-L636955141-IMG-vtd-0612-Jurassic-Wo-1-1-34B82788.jpg",
+        "image_width": 1270,
+        "image_height": 2247
+      },
+      "webpage": null,
+      "texte_contexte": "Film about the blind Iowa boy who played with Johnny Cash",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Johnny Cash",
+          "Brian Knapp",
+          "Bill Paxton",
+          "Ashley Judd",
+          "Ty Simpkins",
+          "Kyle Munson"
+        ],
+        "LOCATION": [
+          "Iowa"
+        ],
+        "ORGANIZATION": [
+          "The Des Moines Register"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7349669937964243
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Jurassic World",
+      "Jurassic Park"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Ben",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Johnny Cash",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Brian Knapp",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bill Paxton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ashley Judd",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ty Simpkins",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kyle Munson",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iowa",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Variety",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MOVIECLIPS",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pinterest",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Des Moines Register",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Jurassic World",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Avengers",
+      "rangs": [
+        2
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:05:52.984905"
+  }
+}

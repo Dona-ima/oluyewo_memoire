@@ -1,0 +1,962 @@
+{
+  "id_rumeur": 248207,
+  "id_image": 248207,
+  "caption": "The Michigan National Guard loads up cases of bottled water into Flint residents cars at Fire Station 8 in Flint MI on Monday January 25 2016",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747288/oluyewo_benchmark/jceklyyxe948ch97typw.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Trump's Freeze On EPA Grants Leaves Scientists Wondering ...",
+      "source": "IFLScience",
+      "lien": "https://www.iflscience.com/trumps-freeze-on-epa-grants-leaves-scientists-wondering-what-it-means-40022",
+      "image_url": "https://assets.iflscience.com/assets/articleNo/40022/aImg/16706/1485340931-flint-o.webp",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUWiNNrYBEFDdHqoe2KeO2n4a-Ib4bCZXIgXhMoYarxKCsbs-S",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Trump's Freeze On EPA Grants Leaves Scientists Wondering ...",
+        "link": "https://www.iflscience.com/trumps-freeze-on-epa-grants-leaves-scientists-wondering-what-it-means-40022",
+        "source": "IFLScience",
+        "source_icon": "https://serpapi.com/searches/6a8edbd973d22454d5c99839/images/S6dej4TAnUH-uHQ0yURJyM4XLkocIaZ-IJMQKPwyRCE.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUWiNNrYBEFDdHqoe2KeO2n4a-Ib4bCZXIgXhMoYarxKCsbs-S",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://assets.iflscience.com/assets/articleNo/40022/aImg/16706/1485340931-flint-o.webp",
+        "image_width": 662,
+        "image_height": 1000
+      },
+      "webpage": {
+        "text": "Trump's Freeze On EPA Grants Leaves Scientists Wondering What It Means\n\nThe new Trump administration has ordered a “freeze” on Environmental Protection Agency (EPA) grants and contracts. Scientists have been left struggling to work out what it means, and to explain to the public just how devastating this decision could be.\n\nThe period between last year's election and the inauguration provided plenty of indications that Trump planned to escalate his party's war on science. The appointment of Oklahoma attorney general Scott Pruit, who has sued the EPA, disputing its right to regulate mercury and other toxins, was a clear sign that much of the agency's work would be nobbled. A leaked copy of alleged plans for the agency didn't help. The document proposes that the EPA should cease funding scientific research entirely.\n\nNevertheless, much of what the EPA does has not been all that controversial, at least until now, and some grant recipients might have expected they wouldn't be in the firing line. It now appears likely that this is not the case.\n\nOn Tuesday, as one of his first acts after taking office, Trump sent a letter to the EPA's administration office ordering a freeze, but managers within the program don't yet know what this means. It's not uncommon for government agencies to engage in hiring freezes, with no new employment occurring until the thaw. However, staff at the agency are reportedly unclear on whether a grants and contracts freeze means that no new grants can be made, or whether payments are to cease on existing grants.\n\nThe fact that EPA employees, along with those at the Departments of Agriculture and the Interior have been gagged from talking to the media has not helped. The EPA website does not appear to have been updated since last Wednesday, and the Twitter account has fallen silent since Friday.\n\nA freeze on new grants lasting for weeks or months would be damaging, but if current contracts are included, the effects will be catastrophic. Most of the EPA's work is outsourced, rather than done in-house. The agency has an estimated $6.4 billion worth of contracts with businesses, universities, and research institutions for projects such as testing water quality and cleaning up polluted sites. Coming so soon after the crisis of lead in the Flint water supply gained national attention, the firms conducting this work probably didn't think anyone would stop paying them to keep working, but now they can't be so sure.\n\nSimilarly, many graduate students and researchers are trying to find out if their payments, which include health insurance, have been cut off. Attempts to call the White House for clarification have been unsuccessful. This isn't surprising. Hundreds of administration staff need to be replaced at every presidential changeover, and more than 90 percent are currently unfilled, with Trump yet to send nominees' names to the Senate for confirmation.\n\nContrary to reports that the White House switchboard has shut down, it appears to still be operating, but the volume of calls has been so great, most are not getting through. For those that do, there may be no one working in the White House who can answer their questions.\n\nThe confusion is not restricted to scientists. State governments depend on the work of the EPA, and some have been trying to find out what it means for them, so far without success. \n\n-\n\n\nThis post from Jacquelyn Gill has been shared more than 4,000 times as scientists seek information about what is happening to their grants.",
+        "metadata": {
+          "title": "Trump's Freeze On EPA Grants Leaves Scientists Wondering What It Means | IFLScience",
+          "description": "Trump's Freeze On EPA Grants Leaves Scientists Wondering What It Means",
+          "article:published_time": "2017-01-25T13:08:00.000Z",
+          "article:modified_time": "2020-07-25T05:02:49.000Z",
+          "og:title": "Trump's Freeze On EPA Grants Leaves Scientists Wondering What It Means",
+          "og:type": "article",
+          "og:url": "https://www.iflscience.com/trumps-freeze-on-epa-grants-leaves-scientists-wondering-what-it-means-40022",
+          "og:site_name": "IFLScience",
+          "og:image": "https://assets.iflscience.com/assets/articleNo/40022/aImg/16706/1485340931-flint-l.jpg",
+          "twitter:title": "Trump's Freeze On EPA Grants Leaves Scientists Wondering What It Means",
+          "fb:pages": "367116489976035",
+          "fb:app_id": "1847617632182481",
+          "fb:use_automatic_ad_placement": "enable=true"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "The Trump administration ordered a freeze on Environmental Protection Agency (EPA) grants and contracts. Scientists and staff are struggling to understand the implications of this decision. Oklahoma attorney general Scott Pruitt was appointed to lead the EPA. A letter ordering the freeze was sent to the EPA's administration office on a Tuesday after Trump took office. The agency has an estimated $6.4 billion worth of contracts for projects like water quality testing and cleaning up polluted sites.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Trump",
+          "Scott Pruitt"
+        ],
+        "LOCATION": [
+          "Oklahoma"
+        ],
+        "ORGANIZATION": [
+          "IFLScience",
+          "Environmental Protection Agency",
+          "EPA",
+          "White House",
+          "Departments of Agriculture",
+          "Departments of the Interior"
+        ],
+        "DATE": [
+          "last year",
+          "Tuesday",
+          "last Wednesday",
+          "Friday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7571633908217289
+    },
+    {
+      "titre": "L'eau de la colere - La Vérité - VOA Afrique",
+      "source": "projects.voanews.com",
+      "lien": "https://projects.voanews.com/flint-en-crise/la-verite.php",
+      "image_url": "https://projects.voanews.com/flint-en-crise/img/pic9.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDwRhWPMcZAjhWuAIIfFtpTHT_LXddw7ioY0RPqpMLFUnfBNb4",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "L'eau de la colere - La Vérité - VOA Afrique",
+        "link": "https://projects.voanews.com/flint-en-crise/la-verite.php",
+        "source": "projects.voanews.com",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACCUlEQVRYhe2UO2gVQRSGP-9N4aMSX7VXFLEQEbRwhMQgkQGRNOJFt0yaVCGFMGBhN2ARtNAmKYNcuxCEUZGo4KRQELEQjZLUasTKR2HE4p6Rs8NuLC3cHxbOnPPPOd_MLguNGjVq9L9rk3HhPbBP5Vajt520MC5MADdV_S1wFZiP3v6oa2xcWAb2Z-kb0dtJnWgBc5lpr3Gho9bDKr4DHIne9v4y_HjFcICucaGVA9yuMJ6WRi0F8AQoNhqsdK4mvwcYKQFEb5eB51UAwFFgu8QT0dufyWBcGDMu3JNnLNuf36pWUQKo2TAkp08gj6K3r9Xwa8AMcEaeGckBEL19Q__GqjRqXNiaA_SAdWXaBRxWAEtq-E5gqqLxlNSSnqr4s4q3AaMlgOjtR-BB1vAscELiNZXvAO0KgLbUktKe78D1zPvnNegvMn8Nk8AWifXJVijfVtK61JLSniXgbuYdMS7szgHmga9qvUPFJ1MQvV0DpisApqWWlG7vIfAK-KRqbaBbAojefhOIKg0aFw4q72VgHLgvz7jkADAuHAJOJYDo7S_gcdazABjIknPApRqIAriiIGaB2dxkXBgAbsnyC_AigQDnlfWYceFA6a9E_0P8UAOwUJPXwzfTP8SgpBbl9Akg18USgJh7FcZ30dtnGw02LnSBl8AFVVpUvVeA1WxrQaNGjRr9a_0GfCOc-ZQf9kIAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDwRhWPMcZAjhWuAIIfFtpTHT_LXddw7ioY0RPqpMLFUnfBNb4",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://projects.voanews.com/flint-en-crise/img/pic9.jpg",
+        "image_width": 600,
+        "image_height": 900
+      },
+      "webpage": {
+        "text": "L'eau de la colere - La Vérité\n\nLe gouverneur Rick Snyders ne peut plus ignorer l’évidence. Il annonce qu’un plan d’action va être mis en place à Flint. Le Michigan va donner des filtres aux habitants ainsi que des tests pour analyser l’eau du robinet. La ville rebranche son arrivée d’eau sur celle de Détroit. Mais ce changement arrive trop tard.\n\nLes habitants sont en colère, et parmi eux, Karen Weaver, qui n’a pas sa langue dans sa poche. Cette mère de trois enfants compte bien prendre les choses en main. Chaque jour, elle aussi s’inquiète de la santé de sa famille, mais aussi de ce qui se passe dans la ville. Sa ville.\n\nKaren Weaver a grandi ici, dans les quartiers nord de Flint, près de la rivière avec ses trois frères et sa sœur. Après le lycée, elle a continué ses études et s’installe à Flint, sa ville natale, pour continuer sa carrière. Elle finit par obtenir un poste au sein de l’administration de l’hôpital. Armée de ses années d’expérience bureaucratique, elle décide de se présenter aux élections municipales avec une seule promesse : en finir avec la crise de l’eau.\n\nElle bat à plate couture l’ancien maire Dayne Walling qui avait trinqué son verre d’eau avec d’autres élus lors du changement, un an et demi auparavant.\n\nLe 9 novembre 2015, elle devient la première africaine-américaine à obtenir le poste de maire de Flint. Trois semaines après son élection, lors d’un conseil municipal, elle demande que “tout le nécessaire soit fait pour résoudre cet état d’urgence, avec effet immédiat”. En janvier 2016, elle réussit à attirer l’attention nationale. Le président Barack Obama débarque dans son bureau pour déclarer l’état d’urgence fédéral à Flint.\n\nKaren Weaver avait promis d’appeler le FBI pour enquêter. C’est chose faite depuis février 2016. La police fédérale commence à regarder scrupuleusement tous les e-mails et les échanges entre les différentes agences.\n\n\nEn février 2016, la Garde nationale basée au Michigan arrive à Flint. Les hommes en tenues militaires sont postés devant les centres de distribution pour donner des filtres et des bouteilles d’eau. Ils attendent dans un vent glacial les milliers d’habitants confus et frustrés par la situation.\n\nUn centre de distribution est installé à la caserne des pompiers, non loin de la mairie.\n\n“Bonjour Madame, pouvez-vous ouvrir votre coffre ? Il vous faut combien de paquets ?”, demande machinalement le militaire, soufflant un nuage de vapeur sur la vitre entrouverte. Avec la température, les conducteurs ne sortent pas de la voiture. “Il m’en faudrait quatre, j’en récupère aussi pour ma voisine”.\n\nLes habitants ont compris que la solidarité devait primer sur l’espoir que l’État ou la municipalité trouve une solution rapide face à un problème sans précédent pour une ville de 100 000 habitants.\n\n“On nous donne des bouteilles d’eau et des filtres, mais pour combien de temps ?” se demandent deux voisines au centre de distribution.\n\nAprès avoir vu ses cheveux auburn se décolorer, puis sa peau irritée, Melissa Mays ne décolère pas. Ses enfants de 9, 10 et 13 ans ont mal aux os, un des symptômes d’un empoisonnement au plomb.\n\nMelissa Mays est devenue militante par la force des choses. La ville et l’État du Michigan ont continué, pendant des mois, à confirmer la salubrité de l’eau alors que les tests prouvaient le contraire. Dès novembre 2015, elle s’est réunie avec des milliers d’autres habitants pour lancer des actions en justice. Sous le nom “Mays, et al”, elle a déposé trois plaintes dont deux contre le gouverneur Rick Snyder pour violation de droits civiques.\n\nQuatre mois plus tard, l’Agence de protection de l’environnement interroge le gouverneur qui déclare que cette crise “est un fiasco au niveau local, régional et national”, ajoutant que l’administration a “laissé tomber les habitants de Flint”.\n\n\nAu côté de Melissa Mays, l’avocate Trachelle Young a aussi été victime de l’eau. Ses enfants, son mari, et elle-même ont bu cette eau impropre à la consommation pendant plus d’un an. Sans hésitation, cette femme spécialiste en droit criminel se lance dans un combat juridique contre la Ville et l’État du Michigan.\n\nPour la première fois de sa carrière, Trachelle Young organise un recours collectif contre la municipalité. Cette mère d’une quarantaine d’années qui, tous les jours, amène ses enfants chez ses parents pour prendre des douches en dehors de Flint, garde espoir. Elle croit en la justice. Depuis un an, elle s’acharne à défendre les droits bafoués des habitants qui paient leurs factures d’eau chaque mois.\n\nUne première victoire soulage les esprits en avril 2015. Trois employés sont poursuivis en justice. Stephen Busch et Michael Prysby, employés de l’Etat du Michigan et Michael Glasgow, employé de la ville et directeur de la qualité de l’eau, sont accusés de “négligence et tentative de falsifications de preuves”.\n\nDeux mois après, deux entreprises sont dans le viseur du Procureur général du Michigan Bill Schuette. Le géant de l’eau français Veolia et une compagnie américaine, Lockwood, Andrews & Newnam, sont accusés de négligence et de nuisance publique.\n\nFin juillet, six autres personnes sont mises en cause par la justice. Mais un an plus tard, les procédures judiciaires sont toujours en cours et aucune condamnation n’a été prononcée.\n\n\nLire la suite\n\n\n 1.  16 octobre 2015\n     \n     Flint décide de revenir à son fournisseur précédent, la ville de Detroit avec l’espoir que les habitants auront à nouveau confiance en leurs élus.\n\n 2.  9 novembre 2015\n     \n     Karen Weaver est élue maire de Flint. Elle a battu l’ancien maire Dayne Walling avec 10 points d’avance (55% contre 45%).\n\n 3.  14 décembre 2015\n     \n     La maire de Flint Karen déclare l'état d’urgence.\n\n 4.  Janvier 2016\n     \n     Rick Snyder finit par déclarer l'état d’urgence au niveau régional. Le 20 janvier, Barack Obama arrive à Flint pour annoncer la même chose au niveau national afin de débloquer des fonds pour envoyer de l’aide.\n\n 5.  17 février 2016\n     \n     Le gouverneur Rick Snyder est entendu pour la première fois par un comité d'enquête. Il affirme que l’Etat a échoué.\n\n 6.  21 mars 2016\n     \n     Le gouverneur annonce un plan d’action mené par les agences. Il devrait aider à apporter une aide professionnelle aux enfants de moins de 6 ans avec des taux élevés de plomb, remplacer les tuyaux d’adduction d’eau dans les infrastructures publiques et les 8 000 bâtiments de la municipalité.\n\n 7.  23 mars 2016\n     \n     Le comité indépendant d’enquête sur la crise annonce, dans un rapport préliminaire, que le département de la qualité de l’environnement de l’Etat du Michigan est en partie responsable.\n\n 8.  12 avril 2016\n     \n     Les chercheurs de Virginia Tech annoncent que l’eau n’est toujours pas potable bien qu’elle vient de Detroit. La corrosion des tuyaux affecte toujours la salubrité.\n\n 9.  20 avril 2016\n     \n     Le procureur général du Michigan, Bill Schuette, met en examen trois employés. Stephen Busch et Michael Prysby, employés de l’Etat du Michigan et Michael Glasgow, employé de la ville et directeur de la qualité de l’eau, sont accusés de “négligence et tentative de falsifications de preuves”.\n\n 10. 22 juin 2016\n     \n     Deux entreprises sont les cibles d’une action collective citoyenne et d’une mise en cause par le procureur du Michigan. Le géant de l’eau français Veolia et une compagnie américaine, Lockwood, Andrews & Newnam, sont accusés de négligence et de nuisance publique.\n\n----------------------------------------\n\n * Journaliste: Nastasia Peteuil\n * Développeur Web: Fredner Cayemitte",
+        "metadata": {
+          "title": "L'eau de la colere - La Vérité - VOA Afrique",
+          "author": "Nastasia Peteuil, Fredner Cayemitte",
+          "og:url": "index.php",
+          "og:type": "article",
+          "og:title": "L'eau de la colere",
+          "og:description": "Depuis trois ans, les habitants de Flint n’ont plus accès à l’eau potable. Après avoir été empoisonnés au plomb pendant dix-huit mois, ils n’ont plus foi en l’administration et attendent inlassablement que le Michigan ou l’Etat fédéral leur viennent en aide. VOA Afrique a mené l’enquête sur l’eau de la colère à Flint. Retour sur le syndrome d’une Amérique oubliée.",
+          "og:video": "VIDEOS/video39.mp4",
+          "twitter:title": "L'eau de la colere",
+          "twitter:description": " Depuis trois ans, les habitants de Flint n’ont plus accès à l’eau potable. Après avoir été empoisonnés au plomb pendant dix-huit mois, ils n’ont plus foi en l’administration et attendent inlassablement que le Michigan ou l’Etat fédéral leur viennent en aide. VOA Afrique a mené l’enquête sur l’eau de la colère à Flint. Retour sur le syndrome d’une Amérique oubliée."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Governor Rick Snyder announced an action plan for Flint, Michigan, providing filters and water tests, and reconnecting the city's water supply to Detroit. Karen Weaver, a former hospital administration employee and native of Flint, ran for mayor with the promise to end the water crisis and became the first African-American mayor of Flint on November 9, 2015. President Barack Obama declared a federal state of emergency in Flint in January 2016. The FBI began investigating in February 2016, and the Michigan National Guard arrived to distribute water filters and bottles.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rick Snyder",
+          "Karen Weaver",
+          "Dayne Walling",
+          "Barack Obama",
+          "Melissa May"
+        ],
+        "LOCATION": [
+          "Flint",
+          "Michigan",
+          "Détroit"
+        ],
+        "ORGANIZATION": [
+          "VOA Afrique",
+          "FBI",
+          "Garde nationale"
+        ],
+        "DATE": [
+          "9 novembre 2015",
+          "janvier 2016",
+          "février 2016"
+        ],
+        "EVENT": [
+          "crise de l'eau"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7948592749735175
+    },
+    {
+      "titre": "Your Guide to Emergency Preparedness in the Greater Kansas ...",
+      "source": "Prepare Metro KC",
+      "lien": "https://preparemetrokc.org/wp-content/uploads/2025/07/memc-booklet-2024.pdf",
+      "image_url": "x-raw-image:///e109b6106f134553ed50cddec7e9266dae845776914c0bab9800036d2b45f45d",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOCqvoE9NEWmtCXMXTGZX0e-ba58bcWqPAdUXEl3y1y2LStW_V",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Your Guide to Emergency Preparedness in the Greater Kansas ...",
+        "link": "https://preparemetrokc.org/wp-content/uploads/2025/07/memc-booklet-2024.pdf",
+        "source": "Prepare Metro KC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB4UlEQVRYhe3WP2gUQRTH8c9KuEpExMpCLFII_gEDEtKIFkI6ERERFATR20ZB0FrETgjauWsKC2sRQWz9gxCLBDSoWFiISJAQUohVCBmL2UjE3M7endHmvs3AzNv3Z36Pt8OAAX0wydAkQ_34yJoYFYxkjOMgtmAJK9UKLawEWhnzmAo8yfnSVwIFwxkPAt-q9WXOQuKb7RmHAmfF27mU8zlZZQdnz0omevoYJRMFb-tsNiV8LGC8ZKSH4COibNvq7GobKOMKpjBT8hHP8V7UdjHjBwQ2V4F2Yg8OY3fl404iRrKSYbzAjpTtOswF9uUsdjJISaDNJ7GhuiLE2zlWF7xRApWzRnZrWMTRNtMpw6TjMs6Ah00jB95gNOd1E_vaBIrYXI_E4ZNiOXArY7SSrRGpMXpZ7OxaAtMZF_JYfVekJDiVOF_G9cBYu4fgpOfArprj-cCJnFe9BG6UAL5bX_-vOJJ3oXUnaiUIPO2wf7KbRus5gYwbYrVrWcLs3wieTKDNHMb8PlBamCk4c7fPxwgNHyT3aK1wFdcytq7uB2YzTrf5sKEJrFLEhjyXcR77q-0FHGj_KdXGUrC35HFJKLjZq59ufzK_yHmXcVycA61_ngBcjA_R27jfj58BA_4rPwFA8nF9iD1CpwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOCqvoE9NEWmtCXMXTGZX0e-ba58bcWqPAdUXEl3y1y2LStW_V",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "x-raw-image:///e109b6106f134553ed50cddec7e9266dae845776914c0bab9800036d2b45f45d",
+        "image_width": 321,
+        "image_height": 481
+      },
+      "webpage": null,
+      "texte_contexte": "Guide to emergency preparedness in the Greater Kansas area.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Greater Kansas"
+        ],
+        "ORGANIZATION": [
+          "Prepare Metro KC"
+        ],
+        "DATE": [
+          "2024",
+          "2025"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7733181222583878
+    },
+    {
+      "titre": "Tweets About Flint Ending Free Water Distribution Are ...",
+      "source": "Elite Daily",
+      "lien": "https://www.elitedaily.com/p/tweets-about-flint-ending-free-water-distribution-are-calling-this-decision-out-8727529",
+      "image_url": "https://imgix.bustle.com/uploads/getty/2018/4/8/4853d855-de73-41bd-91f8-873e122950d1-getty-505416028.jpg?w=1200&h=1200&fit=crop&crop=faces&fm=jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPqG6pdU0hIbjyWzECeQL_1GsLbU3i_scdkLv4o36jKZSEEU6",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Tweets About Flint Ending Free Water Distribution Are ...",
+        "link": "https://www.elitedaily.com/p/tweets-about-flint-ending-free-water-distribution-are-calling-this-decision-out-8727529",
+        "source": "Elite Daily",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVHcEzJlPfJk_fJk_fJk_fJk_fJk_jJk_bJk_fKk_fJk_fIk_bHlPbJk_bJlPbJk_ZH7lhVAAAAD3RSTlMAQdhaosIU5HGMsyIH9C4qK2YYAAABA0lEQVQ4jYWTUZLEIAhEVUTRRLn_bRdhZrc0muUnli8g3ahzS6Tv4vYUQ44r97nYtwQe0RZ-y7ZLEBWGStdagJiL5VbyD-pc50-qfzLlmhsh7TFUoZkO1DCHzbnWPQpszIez5YdYQToIfzseytpq4WY7yZesamguItpVSlQtOcJSQNxLrlMbsG6U9sY1lYERtlJExjg4lIMPZB6fTHQ6PuwHKqJHtr-PfEjEF6wdwBvvmXHaSNdc79dko1RDnhIuuSTfpV3WhtNtFo3mHUQdUqBZL2iB5PEzo0eLgfPlQEeIu5ssBbCMcze5I260F0Qnn8lKH6hEHvjN5vrPFMS301Ow-AEtIgxJWU0fmAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPqG6pdU0hIbjyWzECeQL_1GsLbU3i_scdkLv4o36jKZSEEU6",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://imgix.bustle.com/uploads/getty/2018/4/8/4853d855-de73-41bd-91f8-873e122950d1-getty-505416028.jpg?w=1200&h=1200&fit=crop&crop=faces&fm=jpg",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Tweets About Flint Ending Free Water Distribution Are Calling This Decision Out\n\nOn April 6, Michigan Gov. Rick Snyder announced that the state would stop providing free bottled water to residents of the city of Flint, which made headlines in 2016 after it was discovered that the city's water supply was contaminated with lead. Now, Michigan officials claim lead levels in the water are stable, but many people are criticizing the decision. These tweets about Flint ending free water distribution are required reading if you want to know what this decision means for Flint locals.\n\nGov. Rick Snyder released a public statement about the decision on April 6 via his website, claiming water quality has been restored and is within drinking standards for residents.\n\nHe said,\n\n> I have said all along that ensuring the quality of the water in Flint and helping the people and the city move forward were a top priority for me and my team. We have worked diligently to restore the water quality and the scientific data now proves the water system is stable and the need for bottled water has ended. ... Since Flint’s water is now well within the standards set by the federal government, we will now focus even more of our efforts on continuing with the health, education and economic development assistance needed to help move Flint forward.\n\nThe city had been receiving free bottled water since January 2016, when a 2016 study by the American Journal of Public Health found that Flint children held high levels of lead in their blood after the city switched to the Detroit water system in 2011. Roughly 8,000 children were exposed to high levels of lead and the study also linked 12 deaths from Legionnaires’ disease to the city's water quality. Studies showed that the a lot of the lead contamination came from aging, lead-lines pipes. As a result, Michigan agreed to pay $87 million to replace those pipes, but unfortunately there's still a lot of work to be done. According to The Times, a little over 6,000 pipes have been replaced in Flint, Michigan thus far. The city aims to have all pipes replaced by 2020, but according to an administrator, there could be at least 12,000 pipes remaining to be replaced.\n\nSnyder may claim that this is the right decision, but others don't buy that Flint's water is safe enough to drink and are taking to Twitter to express their anger.\n\nIt doesn't look like the residents of Flint have much faith in the decision, either. One Twitter user even posted a video on April 7 via Twitter showing the line of Flint residents waiting to receive clean water.\n\nFlint’s mayor, Karen Weaver, told The New York Times that she wasn't made aware of Gov. Snyder's decision until \"a few moments before\" it was made public. Weaver expressed her disapproval of the decision through a press release on Flint, Michigan's website, and claimed she plans to contact Gov. Snyder to find a solution:\n\n> I know this is not the situation any of us want to be in. We did not cause the man-made water disaster, therefore adequate resources should continue being provided until the problem is fixed and all the lead and galvanized pipes have been replaced. I will be contacting the Governor’s office immediately to express the insensitivity of the decision he made today and to make sure he is aware of the additional needs that I have requested for the residents of Flint.\n\nPerhaps what makes residents so skeptical of authorities' claim that the water in Flint is fine is that upon discovering the high levels of lead in the city's water supply in 2016, the city and state officials repeatedly claimed that the water was fine. In July of 2015, after months of concerns from residents, a spokesman for the Michigan Department of Environmental Quality told Michigan Public Radio that \"anyone who is concerned about lead in the drinking water in Flint can relax\" and suggested that it was not a widespread problem. Two months later, a report from Virginia Tech University found that 40 percent of homes had elevated lead levels.\n\nThe Associated Press reported in April 2016 that state employees had been charged with conspiracy and tampering with evidence as well as failure to provide safe drinking water to city residents. Four city and state employees eventually reached plea deals, while four others have gone to trial on charges of misconduct in office and willful neglect of duty, among other charges.\n\nSince news about Flint surfaced in 2016, both residents and activists alike have accused high-profile politicians of allegedly disregarding low income areas like Flint, particularly those with high populations of people of color. According to the U.S. Census Bureau as of July 2016, the majority of Flint, Michigan's population is African American and the average household makes less than $25,000.\n\n\nWant to know how you can help Flint? Check out all the ways you can lend a hand.",
+        "metadata": {
+          "title": "Tweets About Flint Ending Free Water Distribution Are Calling This Decision Out",
+          "og:type": "article",
+          "og:url": "https://www.elitedaily.com/p/tweets-about-flint-ending-free-water-distribution-are-calling-this-decision-out-8727529",
+          "og:title": "Flint Won't Get Any More Free Bottled Water After Lead Crisis, & People Are Furious",
+          "og:image": "https://imgix.bustle.com/uploads/getty/2018/4/8/4853d855-de73-41bd-91f8-873e122950d1-getty-505416028.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:description": "On April 6, Michigan Gov. Rick Snyder announced that the state would stop providing free bottled water to residents of the city of Flint, which made headlines in 2016 after it was discovered that the city's water supply was contaminated with lead.…",
+          "description": "On April 6, Michigan Gov. Rick Snyder announced that the state would stop providing free bottled water to residents of the city of Flint, which made headlines in 2016 after it was discovered that the city's water supply was contaminated with lead.…",
+          "article:published_time": "2018-04-09T00:32:47.850Z",
+          "article:publisher": "https://www.facebook.com/EliteDaily",
+          "og:site_name": "Elite Daily"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.elitedaily.com#organization",
+              "name": "Elite Daily",
+              "url": "https://www.elitedaily.com",
+              "logo": "https://cdn2.bustle.com/2026/elitedaily/icon-8652ca414f.png",
+              "sameAs": [
+                "https://www.facebook.com/EliteDaily",
+                "https://instagram.com/elitedaily",
+                "https://www.pinterest.com/elitedaily",
+                "https://www.snapchat.com/discover/Elite-Daily/8822570171",
+                "https://x.com/EliteDaily"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.elitedaily.com#website",
+              "name": "Elite Daily",
+              "url": "https://www.elitedaily.com",
+              "publisher": {
+                "@id": "https://www.elitedaily.com#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Tweets About Flint Ending Free Water Distribution Are Calling This Decision Out",
+              "description": "On April 6, Michigan Gov. Rick Snyder announced that the state would stop providing free bottled water to residents of the city of Flint, which made headlines in 2016 after it was discovered that the city's water supply was contaminated with lead.…",
+              "datePublished": "2018-04-09T00:32:47+00:00",
+              "dateModified": "2018-04-09T00:32:47+00:00",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.elitedaily.com/p/tweets-about-flint-ending-free-water-distribution-are-calling-this-decision-out-8727529"
+              },
+              "isPartOf": {
+                "@id": "https://www.elitedaily.com#website"
+              },
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "url": "https://imgix.bustle.com/uploads/getty/2018/4/8/4853d855-de73-41bd-91f8-873e122950d1-getty-505416028.jpg?w=1200&h=675&fit=crop&crop=faces&fm=jpg",
+                  "width": "1200",
+                  "height": "675"
+                },
+                {
+                  "@type": "ImageObject",
+                  "url": "https://imgix.bustle.com/uploads/getty/2018/4/8/4853d855-de73-41bd-91f8-873e122950d1-getty-505416028.jpg?w=1200&h=900&fit=crop&crop=faces&fm=jpg",
+                  "width": "1200",
+                  "height": "900"
+                },
+                {
+                  "@type": "ImageObject",
+                  "url": "https://imgix.bustle.com/uploads/getty/2018/4/8/4853d855-de73-41bd-91f8-873e122950d1-getty-505416028.jpg?w=1200&h=1200&fit=crop&crop=faces&fm=jpg",
+                  "width": "1200",
+                  "height": "1200"
+                }
+              ],
+              "author": [
+                {
+                  "@type": "Person",
+                  "@id": "https://www.elitedaily.com/profile/shelby-black-7776735",
+                  "name": "Shelby Black",
+                  "url": "https://www.elitedaily.com/profile/shelby-black-7776735",
+                  "worksFor": {
+                    "@id": "https://www.elitedaily.com#organization"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.elitedaily.com#organization"
+              },
+              "articleSection": "News",
+              "creator": [
+                "Shelby Black"
+              ],
+              "keywords": [
+                "Web Culture",
+                "news"
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "item": {
+                    "@type": "WebPage",
+                    "@id": "https://www.elitedaily.com/news",
+                    "name": "News"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "On April 6, Michigan Governor Rick Snyder announced the end of free bottled water distribution in Flint, claiming water quality has been restored and meets drinking standards. Flint made headlines in 2016 after its water supply was found to be contaminated with lead following a switch to the Detroit water system in 2011. A 2016 study linked lead exposure in children and Legionnaires' disease deaths to the water quality. Michigan agreed to pay $87 million to replace aging lead-lined pipes. Flint Mayor Karen Weaver expressed disapproval of the decision to end free water distribution.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rick Snyder",
+          "Karen Weaver"
+        ],
+        "LOCATION": [
+          "Michigan",
+          "Flint"
+        ],
+        "ORGANIZATION": [
+          "Elite Daily",
+          "American Journal of Public Health",
+          "The Times",
+          "The New York Times"
+        ],
+        "DATE": [
+          "April 6",
+          "2016",
+          "January 2016",
+          "2011",
+          "2020",
+          "April 7"
+        ],
+        "EVENT": [
+          "Legionnaires' disease"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7803287555928062
+    },
+    {
+      "titre": "There's One Big Difference in How Democrats and Republicans ...",
+      "source": "Mic",
+      "lien": "https://www.mic.com/articles/132910/there-s-one-big-difference-in-how-democrats-and-republicans-are-talking-about-flint?utm_medium=main&utm_campaign=social&utm_source=policymictblr",
+      "image_url": "https://imgix.bustle.com/mic/gzuyqrd83lah1u2loqy7pmpz6jby6iap01xa8vs4ywsj5fq8ugckjyvsndxa9di5.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzXT1CVNPvQod08KzXNJmRraiWnlF9_JtoNJuuDqii6KObT0pN",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "There's One Big Difference in How Democrats and Republicans ...",
+        "link": "https://www.mic.com/articles/132910/there-s-one-big-difference-in-how-democrats-and-republicans-are-talking-about-flint?utm_medium=main&utm_campaign=social&utm_source=policymictblr",
+        "source": "Mic",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVHcEwXAAMXAAMXAAMXAAMXAAMYAAQXAAMXAAQXAAQXAAMXAAMXAAQWAAMXAAMXAAQHT7RdAAAAD3RSTlMAxZNEUNQKP3muIOdl9Yl_t3tKAAAA-klEQVQ4jX2UWRKDMAhAIftC5P63LSQabTvCByi-CYRFAGillAanzeuFIndKsMQzM4klsd6JCnCwSn0ATuxxAT7wknADCtcN6JMb-wgFUOL1C8goCuLyiuiBURJjC-gNkglwhmYDYZl3oECxgTpvaQAIaAPqGO-A1Kh11W-AeGhw_AIqonsCbuoHcIsAVaOMbyAQhQ2om3v9zSHuEHNAIr4neQwthQG4qMX8C3ED-s0EUP3OArSVxcghaj_IAHrWmTGA0eSeORrtbtpPC0gyDe1q91SPxTmBfgN0rh49AGRse3nTnE-OZ7t17VMoPunm-7n-ycl8HfpPgA_7zyJBOly1LAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzXT1CVNPvQod08KzXNJmRraiWnlF9_JtoNJuuDqii6KObT0pN",
+        "thumbnail_width": 190,
+        "thumbnail_height": 266,
+        "image": "https://imgix.bustle.com/mic/gzuyqrd83lah1u2loqy7pmpz6jby6iap01xa8vs4ywsj5fq8ugckjyvsndxa9di5.jpg",
+        "image_width": 2144,
+        "image_height": 3000
+      },
+      "webpage": {
+        "text": "There's One Big Difference in How Democrats and Republicans Are Talking About Flint\n\nDemocratic and Republican presidential candidates have sharply diverged in their responses to the water crisis convulsing Flint, Michigan, with Democrats demanding accountability and Republicans largely silent amid the ongoing crisis — suggesting that partisan polarization extends even to the issue of poisoned water.\n\nThe background: The water crisis dates to 2014, when Flint's emergency manager, a state appointee, flipped the city's water source from Detroit to the Flint River during construction of a pipeline to a new, cheaper water source, Lake Huron. Though the Flint River was laden with toxic chemicals, including lead, state and local officials insisted for months that water from the river was safe. By January 2015, however, testing revealed that chemical levels in the water violated the Safe Water Drinking Act.\n\nThe consequences may extend far beyond murky tap water and skin reactions: 10 people have died from Legionnaires' disease in cases that may be linked to the toxic water. President Barack Obama declared a state of emergency in Flint on Saturday, a step that allowed the Federal Emergency Management Agency to distribute relief funds, safe water and emergency kits.\n\n\nThe response: Democratic White House hopefuls Hillary Clinton, Bernie Sanders and Martin O'Malley have been forceful in their response to the crisis, calling Flint's poisoned water a national outrage.\n\nOn Saturday, Sanders called on Michigan Gov. Rick Snyder to resign, saying that the governor \"did nothing\" even after knowing for months that Flint's water supply was toxic.\n\n\"Because of the conduct by Gov. Snyder's administration and his refusal to take responsibility, families will suffer from lead poisoning for the rest of their lives,\" Sanders said in a statement. \"Children in Flint will be plagued with brain damage and other health problems. The people of Flint deserve more than an apology.\"\n\nIn Sunday's Democratic debate, Clinton slammed Snyder's handling of the crisis, saying \"every single American should be outraged\" and suggesting that the poor, predominantly minority city had suffered a fate that would never have befallen a more affluent community.\n\n\"I'll tell you what: If the kids in a rich suburb of Detroit had been drinking contaminated water and being bathed in it, there would have been action,\" Clinton said.\n\nAsked after the debate if he thought Snyder should resign, O'Malley responded, \"It would appear that somebody sure as hell should.\"\n\n\"Lead poisoning is something that has plagued poor communities in cities and people of color,\" he said. \"And the notion that our own government or that a local municipal government would be knowingly trying to cover something like this up is really appalling.\"\n\nBy contrast, the Republican response has been mostly muted.\n\nCampaigning in Iowa on Monday, Sen. Marco Rubio of Florida declined to comment on the matter, saying he hadn't been paying close enough attention to formulate a position.\n\n\"That's not an issue that right now we've been focused on for me to give you a deeply detailed answer on what the right approach should be, other than to tell you that in general I believe the federal government's role in some of these things [is] largely limited unless it involves a federal jurisdictional issue,\" CNN quoted Rubio as saying.\n\n\"So I'd love to give you a better answer on it,\" the senator went on. \"It's just not an issue we've been quite frankly fully briefed or apprised of in terms of the role the governor has played and the state has played in Michigan on these sorts of issues.\"\n\nGOP frontrunner Donald Trump echoed Rubio's comments. While the water crisis is a \"shame,\" Trump said in remarks quoted by NBC News, he doesn't plan on saying more.\n\n\"A thing like that shouldn't happen, but again, I don't want to comment on that,\" Trump said. \"They've got a very difficult problem and I know the governor's got a very difficult time going. But you know, I shouldn't be commenting on Flint.\"\n\nRepresentatives from other GOP presidential campaigns did not immediately respond to Mic's requests for comment.\n\nWhy it matters: Given the interplay of public health, race and economic inequality, the Flint crisis is ripe for political discussion. Flint is about more than municipal water practices: It raises important questions about social justice, the role of government and the marginalization of disadvantaged communities. Such concerns have long animated American progressivism, so the Democratic candidates' outspokenness hardly comes as a surprise. \n\nBut the Republican Party has a vested interest in convincing the American electorate that it's not indifferent to racial injustice or the suffering of the poor, that the GOP's small-government ideology won't jeopardize public safety. Responding to Flint with crickets won't advance those objectives.\n\nCorrection: Jan. 19, 2016",
+        "metadata": {
+          "title": "There's One Big Difference in How Democrats and Republicans Are Talking About Flint",
+          "og:type": "article",
+          "og:url": "https://www.mic.com/articles/132910/there-s-one-big-difference-in-how-democrats-and-republicans-are-talking-about-flint",
+          "og:title": "There's One Big Difference in How Democrats and Republicans Are Talking About Flint",
+          "og:image": "https://imgix.bustle.com/mic/z2du37afa0si9ajphvuwunxi0cvybxtxdlcn1hohslc9jsxqinfph2nglhlp3ofx.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:description": "Democratic and Republican presidential candidates have sharply diverged in their responses to the water crisis convulsing Flint, Michigan, with Democrats demanding accountability and Republicans largely silent amid the ongoing crisis — suggesting…",
+          "description": "Democratic and Republican presidential candidates have sharply diverged in their responses to the water crisis convulsing Flint, Michigan, with Democrats demanding accountability and Republicans largely silent amid the ongoing crisis — suggesting…",
+          "article:published_time": "2016-01-19T19:24:25.000Z",
+          "article:publisher": "https://www.facebook.com/MicMedia",
+          "og:site_name": "Mic"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Organization",
+              "@id": "https://www.mic.com#organization",
+              "name": "Mic",
+              "url": "https://www.mic.com",
+              "logo": "https://cdn2.bustle.com/2026/mic/icon-5136306e6d.png",
+              "sameAs": [
+                "https://www.facebook.com/MicMedia",
+                "https://instagram.com/mic",
+                "https://x.com/mic",
+                "https://www.youtube.com/user/micmediavideo"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.mic.com#website",
+              "name": "Mic",
+              "url": "https://www.mic.com",
+              "publisher": {
+                "@id": "https://www.mic.com#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "There's One Big Difference in How Democrats and Republicans Are Talking About Flint",
+              "description": "Democratic and Republican presidential candidates have sharply diverged in their responses to the water crisis convulsing Flint, Michigan, with Democrats demanding accountability and Republicans largely silent amid the ongoing crisis — suggesting…",
+              "datePublished": "2016-01-19T19:24:25+00:00",
+              "dateModified": "2016-01-19T19:24:25+00:00",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.mic.com/articles/132910/there-s-one-big-difference-in-how-democrats-and-republicans-are-talking-about-flint"
+              },
+              "isPartOf": {
+                "@id": "https://www.mic.com#website"
+              },
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "url": "https://imgix.bustle.com/mic/z2du37afa0si9ajphvuwunxi0cvybxtxdlcn1hohslc9jsxqinfph2nglhlp3ofx.jpg?w=1200&h=675&fit=crop&crop=faces&fm=jpg",
+                  "width": "1200",
+                  "height": "675"
+                },
+                {
+                  "@type": "ImageObject",
+                  "url": "https://imgix.bustle.com/mic/z2du37afa0si9ajphvuwunxi0cvybxtxdlcn1hohslc9jsxqinfph2nglhlp3ofx.jpg?w=1200&h=900&fit=crop&crop=faces&fm=jpg",
+                  "width": "1200",
+                  "height": "900"
+                },
+                {
+                  "@type": "ImageObject",
+                  "url": "https://imgix.bustle.com/mic/z2du37afa0si9ajphvuwunxi0cvybxtxdlcn1hohslc9jsxqinfph2nglhlp3ofx.jpg?w=1200&h=1200&fit=crop&crop=faces&fm=jpg",
+                  "width": "1200",
+                  "height": "1200"
+                }
+              ],
+              "author": [
+                {
+                  "@type": "Person",
+                  "@id": "https://www.mic.com/profile/luke-brinker-16507071",
+                  "name": "Luke Brinker",
+                  "url": "https://www.mic.com/profile/luke-brinker-16507071",
+                  "worksFor": {
+                    "@id": "https://www.mic.com#organization"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.mic.com#organization"
+              },
+              "articleSection": "Impact",
+              "creator": [
+                "Luke Brinker"
+              ],
+              "keywords": [
+                "current"
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "item": {
+                    "@type": "WebPage",
+                    "@id": "https://www.mic.com/impact",
+                    "name": "Impact"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "The water crisis in Flint, Michigan, began in 2014 when the emergency manager switched the city's water source from Detroit to the Flint River. Testing by January 2015 revealed chemical levels violating the Safe Water Drinking Act, and 10 people died from Legionnaires' disease linked to the toxic water. President Barack Obama declared a state of emergency on Saturday, allowing FEMA to distribute relief funds. Democratic presidential candidates Hillary Clinton, Bernie Sanders, and Martin O'Malley criticized the crisis and Governor Rick Snyder's response, while Republican Senator Marco Rubio declined to comment.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hillary Clinton",
+          "Bernie Sanders",
+          "Martin O'Malley",
+          "Rick Snyder",
+          "Barack Obama",
+          "Marco Rubio"
+        ],
+        "LOCATION": [
+          "Flint",
+          "Michigan",
+          "Detroit",
+          "Flint River",
+          "Lake Huron",
+          "Iowa",
+          "Florida"
+        ],
+        "ORGANIZATION": [
+          "Mic",
+          "Federal Emergency Management Agency",
+          "FEMA"
+        ],
+        "DATE": [
+          "2014",
+          "January 2015",
+          "Saturday",
+          "Sunday",
+          "Monday"
+        ],
+        "EVENT": [
+          "Legionnaires' disease"
+        ],
+        "OTHER": [
+          "Safe Water Drinking Act"
+        ]
+      },
+      "score_e5": 0.7837196246012552
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Michigan",
+      "Flint",
+      "Fire Station 8",
+      "Flint MI"
+    ],
+    "ORGANIZATION": [
+      "Michigan National Guard"
+    ],
+    "DATE": [
+      "Monday January 25 2016"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "bottled water"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Trump",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Scott Pruitt",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rick Snyder",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Karen Weaver",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dayne Walling",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Melissa May",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hillary Clinton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bernie Sanders",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Martin O'Malley",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marco Rubio",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oklahoma",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Flint",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Michigan",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Detroit",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greater Kansas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Flint River",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lake Huron",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iowa",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IFLScience",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Environmental Protection Agency",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "White House",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Departments of Agriculture",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Departments of the Interior",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "VOA Afrique",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FBI",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Garde nationale",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Prepare Metro KC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Elite Daily",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "American Journal of Public Health",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Times",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The New York Times",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mic",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Federal Emergency Management Agency",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last Wednesday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9 novembre 2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "janvier 2016",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "février 2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 6",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 7",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "crise de l'eau",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Legionnaires' disease",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Safe Water Drinking Act",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T09:13:36.015501"
+  }
+}

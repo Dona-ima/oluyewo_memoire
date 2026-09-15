@@ -1,0 +1,272 @@
+{
+  "id_rumeur": 550469,
+  "id_image": 942827,
+  "caption": "Guizhou ChinaA flower is seen behind dew hanging on a branch at a park in Kaili",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748127/oluyewo_benchmark/fwkglka0wjbozmixkuv4.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Isn't she the cutest bumble bee? 🥰🌸🐝 Watch it come to ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DUBOjGuDM4L/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3819397413606268276",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2RWeLly3FmNgy4Ow_SWCbYWR9EzLdcATCKOW6wJC0euMNqmvP",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Isn't she the cutest bumble bee? 🥰🌸🐝 Watch it come to ...",
+        "link": "https://www.instagram.com/p/DUBOjGuDM4L/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef85e2c2bb43864bb6fb1/images/YBer4zr-i_Hs4Fk0huEsAEFXuOupOuVru2ZCouLlpMc.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2RWeLly3FmNgy4Ow_SWCbYWR9EzLdcATCKOW6wJC0euMNqmvP",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3819397413606268276",
+        "image_width": 1920,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram intitulée 'Isn't she the cutest bumble bee? 🥰🌸🐝 Watch it come to'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "bumble bee"
+        ]
+      },
+      "score_e5": 0.7604208018656579
+    },
+    {
+      "titre": "Bombus flavifrons - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Bombus_flavifrons",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bombus_flavifrons.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBv8vEWkQIwfWhPbqMvn36Y4B0760h2CW0FdBJl50Vph6GwJkL",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Bombus flavifrons - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Bombus_flavifrons",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBv8vEWkQIwfWhPbqMvn36Y4B0760h2CW0FdBJl50Vph6GwJkL",
+        "thumbnail_width": 211,
+        "thumbnail_height": 239,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bombus_flavifrons.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "image_width": 1900,
+        "image_height": 2160
+      },
+      "webpage": null,
+      "texte_contexte": "Page Wikipedia consacrée à Bombus flavifrons.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Wikipedia"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Bombus flavifrons"
+        ]
+      },
+      "score_e5": 0.7626571953680075
+    },
+    {
+      "titre": "In this picture, the bumblebee is raising its front leg, a ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DPondqpCQaq/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3951353113892812663",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9kOeZTHuMlAaJ33UPE4YduJT7UNTbAPifeLJlEigfYnsy-Mfm",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "In this picture, the bumblebee is raising its front leg, a ...",
+        "link": "https://www.instagram.com/p/DPondqpCQaq/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9kOeZTHuMlAaJ33UPE4YduJT7UNTbAPifeLJlEigfYnsy-Mfm",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3951353113892812663",
+        "image_width": 1800,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram indiquant : 'In this picture, the bumblebee is raising its front leg, a'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "bumblebee"
+        ]
+      },
+      "score_e5": 0.7479988746056239
+    },
+    {
+      "titre": "Garden Bumblebee | NatureSpot",
+      "source": "NatureSpot",
+      "lien": "https://www.naturespot.org/species/garden-bumblebee",
+      "image_url": "https://warehouse1.indicia.org.uk/upload/o_1jt1m68la1t2e1u9j1l8o1721v78dk.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxwEP7ycOcYX26J0CK7i2KJ94PYn-g327nR47T9DbMcoZm-qu_",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Garden Bumblebee | NatureSpot",
+        "link": "https://www.naturespot.org/species/garden-bumblebee",
+        "source": "NatureSpot",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSgeVRlUG0LHkARSj0IscnZ_MiG6MX8DcEtfkBjSC37jTpcxv_RzDgHa2BYKN5WjPCGss0Sy_w7oONaFY0iSJKuFo10GjvU43Y5iLaermS0zagrSSHLYl0",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxwEP7ycOcYX26J0CK7i2KJ94PYn-g327nR47T9DbMcoZm-qu_",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://warehouse1.indicia.org.uk/upload/o_1jt1m68la1t2e1u9j1l8o1721v78dk.jpg",
+        "image_width": 1024,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "Page NatureSpot sur le bourdon de jardin (Garden Bumblebee).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "NatureSpot"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Garden Bumblebee"
+        ]
+      },
+      "score_e5": 0.7689287984430238
+    },
+    {
+      "titre": "Bring the Buzzzzz Back to Your Garden - Fine Gardening",
+      "source": "Fine Gardening",
+      "lien": "https://www.finegardening.com/article/bring-the-buzzzzz-back-to-your-garden",
+      "image_url": "https://images.finegardening.com/app/uploads/5031/04/23171546/041105722_bee_xlg-main.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtrblKjFBW6hFSasXDlQJ_tvKkAlJFmp0Zt85_XAp2G5F_4da",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Bring the Buzzzzz Back to Your Garden - Fine Gardening",
+        "link": "https://www.finegardening.com/article/bring-the-buzzzzz-back-to-your-garden",
+        "source": "Fine Gardening",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQUMU7ANht00IxtAQTYVKqRCBGbcUNwkUMe-AmkFa7DdG_aDnD7r8JO3wSxPou8_Q5-uQN_bdDj0QSNP6nOEYC6aZi5po_tr6Q-gdrtpmnqBDTBpHEvnWPgZg4",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtrblKjFBW6hFSasXDlQJ_tvKkAlJFmp0Zt85_XAp2G5F_4da",
+        "thumbnail_width": 224,
+        "thumbnail_height": 224,
+        "image": "https://images.finegardening.com/app/uploads/5031/04/23171546/041105722_bee_xlg-main.jpg",
+        "image_width": 555,
+        "image_height": 555
+      },
+      "webpage": null,
+      "texte_contexte": "Article de Fine Gardening intitulé 'Bring the Buzzzzz Back to Your Garden'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Fine Gardening"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Garden"
+        ]
+      },
+      "score_e5": 0.7837889629245253
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Guizhou",
+      "China",
+      "Kaili"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "flower"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NatureSpot",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Fine Gardening",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "bumblebee",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Bombus flavifrons",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Garden Bumblebee",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Garden",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:52:07.397923"
+  }
+}

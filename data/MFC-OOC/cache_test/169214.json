@@ -1,0 +1,722 @@
+{
+  "id_rumeur": "169214",
+  "id_image": "169214",
+  "caption": "Tropical Cyclone Winston is expected to make landfall on Fiji s main island Saturday night local time",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122905/169214.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Tropical cyclone could cause catastrophic damage in Fiji | Honolulu Star-Advertiser",
+      "source": "Honolulu Star-Advertiser",
+      "lien": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/",
+      "image_url": "https://www.staradvertiser.com/wp-content/uploads/2016/02/web1_20160219_winston_fiji_NASA.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROj7_PhEzmQ8XSZ1XZ_g6AEE-0U7ir5mrlQnaVRowJ37ZQxM_U",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Tropical cyclone could cause catastrophic damage in Fiji | Honolulu Star-Advertiser",
+        "source": "Honolulu Star-Advertiser",
+        "link": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/",
+        "imageUrl": "https://www.staradvertiser.com/wp-content/uploads/2016/02/web1_20160219_winston_fiji_NASA.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROj7_PhEzmQ8XSZ1XZ_g6AEE-0U7ir5mrlQnaVRowJ37ZQxM_U"
+      },
+      "webpage": {
+        "text": "Tropical cyclone could cause catastrophic damage in Fiji\n\n1/3\n\nSwipe or click to see more\n\n2/3\n\nSwipe or click to see more\n\nNOAA/NATIONAL WEATHER SERVICE\n\nThis animation shows Tropical Cyclone Winston approaching Fiji Friday afternoon.\n\n3/3\n\nSwipe or click to see more\n\nNASA GODDARD RAPID RESPONSE/NOAA\n\nThe VIIRS instrument aboard NASA-NOAA’s Suomi NPP satellite captured this visible image of Tropical Cyclone Winston in the South Pacific Ocean today.\n\n\nHurricane and gale warnings have been posted across the South Pacific nation of Fiji as Tropical Cyclone Winston bears down on the islands this weekend.\n\nThe Joint Typhoon Warning Center at Pearl Harbor forecasts Winston to make landfall as a major Category 4 cyclone with sustained winds of 150 mph.\n\n“Expect very destructive hurricane-force winds,” the Fiji meteorological service warned residents in the nation’s eastern islands. The forecast also calls for flooding from heavy rains and storm surge. The storm was generating rough seas with wave heights to 38 feet on Friday, NASA’s hurricane website said.\n\nThe National Hurricane Center says with a Category 4 hurricane, “catastrophic damage will occur: Well-built framed homes can sustain severe damage with loss of most of the roof structure and/or some exterior walls. Most trees will be snapped or uprooted and power poles downed. Fallen trees and power poles will isolate residential areas. Power outages will last weeks to possibly months. Most of the area will be uninhabitable for weeks or months.”\n\nWinston is expected to hit the southern coast of Taveuni Island around midday Saturday, Fiji time, then move on to the southern coast of Vanua Levu.\n\n“The town of Savusavu and especially the village of Namalata will be severely impacted by Winston,” Accuweather.com said.\n\nDon't miss out on what's happening!\n\nStay in touch with breaking news, as it happens, conveniently in your email inbox. It's FREE!\n\nBy clicking to sign up, you agree to Star-Advertiser's and Google's Terms of Service and Privacy Policy. This form is protected by reCAPTCHA.\n\nOn Sunday, the storm should be just west of the main island of Fiji, before turning south and weakening.\n\nWinston initially passed west and south of Fiji before turning back toward the island earlier this week.\n\n“Destructive winds may begin several hours before the cyclone center passes overhead or nearby,” the Fiji agency said.\n\nThe Fiji’s Bureau of Statistics says the island nation, which is about 1,000 miles north of New Zealand, had a population of more than 830,000 in its 2007 census. Fiji is made up of more than 300 small islands, only about a third of which are inhabited.\n\n——\n\nBloomberg News contributed to this story.",
+        "metadata": {
+          "title": "Tropical cyclone could cause catastrophic damage in Fiji | Honolulu Star-Advertiser",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Tropical cyclone could cause catastrophic damage in Fiji | Honolulu Star-Advertiser",
+          "og:description": "Hurricane and gale warnings have been posted across the South Pacific nation of Fiji as Tropical Cyclone Winston bears down on the islands this weekend.",
+          "og:url": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/",
+          "og:site_name": "Honolulu Star-Advertiser",
+          "article:publisher": "https://www.facebook.com/staradvertiser/",
+          "article:published_time": "2016-02-20T02:35:00+00:00",
+          "article:modified_time": "2016-02-20T03:21:29+00:00",
+          "og:image": "https://www.staradvertiser.com/wp-content/uploads/2016/02/20160219_animated_windston.gif",
+          "og:image:width": "720",
+          "og:image:height": "480",
+          "og:image:type": "image/gif",
+          "author": "Star-Advertiser Staff"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#article",
+              "isPartOf": {
+                "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/"
+              },
+              "author": {
+                "name": "Star-Advertiser Staff",
+                "@id": "https://www.staradvertiser.com/#/schema/person/84f8216cfcd97e759b71591fbe9dd80e"
+              },
+              "headline": "Tropical cyclone could cause catastrophic damage in Fiji",
+              "datePublished": "2016-02-19T00:00:00-10:00",
+              "dateModified": "2016-02-19T16:40:14-10:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/"
+              },
+              "wordCount": 337,
+              "commentCount": 3,
+              "publisher": {
+                "@id": "https://www.staradvertiser.com/#organization"
+              },
+              "image": [
+                "https://www.staradvertiser.com/wp-content/uploads/2016/02/20160219_animated_windston.gif"
+              ],
+              "thumbnailUrl": "https://www.staradvertiser.com/wp-content/uploads/2016/02/20160219_animated_windston.gif",
+              "articleSection": [
+                "Breaking News"
+              ],
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#respond"
+                  ]
+                }
+              ],
+              "description": "Hurricane and gale warnings have been posted across the South Pacific nation of Fiji as Tropical Cyclone Winston bears down on the islands this weekend.",
+              "isAccessibleForFree": "True",
+              "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": "True",
+                "cssSelector": ".hsa-paywall"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/",
+              "url": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/",
+              "name": "Tropical cyclone could cause catastrophic damage in Fiji | Honolulu Star-Advertiser",
+              "isPartOf": {
+                "@id": "https://www.staradvertiser.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.staradvertiser.com/wp-content/uploads/2016/02/20160219_animated_windston.gif",
+              "datePublished": "2016-02-20T02:35:00+00:00",
+              "dateModified": "2016-02-20T03:21:29+00:00",
+              "breadcrumb": {
+                "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#primaryimage",
+              "url": "https://www.staradvertiser.com/wp-content/uploads/2016/02/20160219_animated_windston.gif",
+              "contentUrl": "https://www.staradvertiser.com/wp-content/uploads/2016/02/20160219_animated_windston.gif",
+              "width": 720,
+              "height": 480,
+              "caption": "NOAA/NATIONAL WEATHER SERVICE This animation shows Tropical Cyclone Winston approaching Fiji Friday afternoon."
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.staradvertiser.com/2016/02/19/breaking-news/tropical-cyclone-could-cause-catastrophic-damage-in-fiji/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.staradvertiser.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Tropical cyclone could cause catastrophic damage in Fiji"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.staradvertiser.com/#website",
+              "url": "https://www.staradvertiser.com/",
+              "name": "Honolulu Star-Advertiser",
+              "description": "Hawaii News, Sports, Weather and Entertainment",
+              "publisher": {
+                "@id": "https://www.staradvertiser.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.staradvertiser.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.staradvertiser.com/#organization",
+              "name": "Honolulu Star-Advertiser",
+              "url": "https://www.staradvertiser.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.staradvertiser.com/#/schema/logo/image/",
+                "url": "https://www.staradvertiser.com/wp-content/uploads/2022/10/sa-organization-logo.png",
+                "contentUrl": "https://www.staradvertiser.com/wp-content/uploads/2022/10/sa-organization-logo.png",
+                "width": 900,
+                "height": 900,
+                "caption": "Honolulu Star-Advertiser"
+              },
+              "image": {
+                "@id": "https://www.staradvertiser.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/staradvertiser/",
+                "https://x.com/staradvertiser",
+                "https://www.instagram.com/staradvertiser/",
+                "https://www.linkedin.com/company/honolulu-star-advertiser",
+                "https://www.pinterest.com/staradvertiser/",
+                "https://www.youtube.com/user/StarAdvertiser"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "500 Ala Moana Blvd. #7-500",
+                "addressLocality": "Honolulu",
+                "addressRegion": "Hawaii",
+                "postalCode": "96813",
+                "addressCountry": "US"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.staradvertiser.com/#/schema/person/84f8216cfcd97e759b71591fbe9dd80e",
+              "name": "Star-Advertiser Staff",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.staradvertiser.com/#/schema/person/image/",
+                "url": "https://secure.gravatar.com/avatar/4a68c32313f70ecfb542ad6e32f5c4fb?s=96&d=blank&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/4a68c32313f70ecfb542ad6e32f5c4fb?s=96&d=blank&r=g",
+                "caption": "Star-Advertiser Staff"
+              },
+              "url": "https://www.staradvertiser.com/author/star-advertiser-staff/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le cyclone tropical Winston s'approche des îles Fidji, menaçant de causer des dommages catastrophiques avec des vents de force d'ouragan destructeurs, des submersions marines et des inondations. L'animation montre le cyclone approchant les Fidji un vendredi après-midi, capturé par le satellite Suomi NPP de la NASA et de la NOAA via l'instrument VIIRS. Le Joint Typhoon Warning Center à Pearl Harbor prévoit un impact en tant que cyclone de catégorie 4 avec des vents soutenus de 150 mph. Le service météorologique fidjien et Accuweather avertissent de l'impact sévère sur les îles orientales, notamment Taveuni Island, Vanua Levu, la ville de Savusavu et le village de Namalata. L'archipel compte plus de 300 petites îles et une population de plus de 830 000 habitants selon le recensement de 2007, situé à environ 1 000 miles au nord de la Nouvelle-Zélande.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Fiji",
+          "Honolulu",
+          "South Pacific Ocean",
+          "Pearl Harbor",
+          "Taveuni Island",
+          "Vanua Levu",
+          "Savusavu",
+          "Namalata",
+          "New Zealand"
+        ],
+        "ORGANIZATION": [
+          "NOAA",
+          "National Weather Service",
+          "NASA",
+          "Goddard Rapid Response",
+          "Suomi NPP satellite",
+          "Joint Typhoon Warning Center",
+          "Fiji meteorological service",
+          "National Hurricane Center",
+          "Accuweather.com",
+          "Fiji's Bureau of Statistics",
+          "Bloomberg News",
+          "Star-Advertiser",
+          "Google"
+        ],
+        "DATE": [
+          "2016-02-19",
+          "Friday",
+          "this weekend",
+          "midday Saturday",
+          "Sunday",
+          "earlier this week",
+          "2007"
+        ],
+        "EVENT": [
+          "Tropical Cyclone Winston"
+        ],
+        "OTHER": [
+          "VIIRS",
+          "Category 4",
+          "reCAPTCHA"
+        ]
+      },
+      "score_e5": 0.8250700413196571
+    },
+    {
+      "titre": "Cyclone Pam - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Cyclone_Pam",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pam_2015-03-13_0220Z.jpg/250px-Pam_2015-03-13_0220Z.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ65GENNd0kcEl1DxPhVPh_ggF2yStognlbAUsk9kES8b9SsK4r",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Cyclone Pam - Wikipedia",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Cyclone_Pam",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pam_2015-03-13_0220Z.jpg/250px-Pam_2015-03-13_0220Z.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ65GENNd0kcEl1DxPhVPh_ggF2yStognlbAUsk9kES8b9SsK4r"
+      },
+      "webpage": {
+        "text": "Cyclone Pam\n\n2015 South Pacific cyclone\nThis article is about the 2015 South Pacific tropical cyclone. For the 1997 storm of the same name, see Cyclone Pam (1997). For the mock hurricane exercise in New Orleans, see Hurricane Pam.\nNot to be confused with Cyclone Lam.\n\n\nCyclone Pam near peak intensity while over Vanuatu on 13\nMarch\nMeteorological history\nFormed            6 March 2015 (2015-03-06)\nExtratropical     15 March 2015 (2015-03-15)\nDissipated        20 March 2015 (2015-03-20)\nCategory 5 severe tropical cyclone\n10-minute sustained (FMS)\nHighest winds     250 km/h (155 mph)\nLowest pressure   896 hPa (mbar); 26.46 inHg\n                  (Fourth-lowest in the Southern Hemisphere)\nCategory 5-equivalent tropical cyclone\n1-minute sustained (SSHWS/JTWC)\nHighest winds     280 km/h (175 mph)\nLowest pressure   911 hPa (mbar); 26.90 inHg\nOverall effects\nFatalities        15–16 total\nDamage            $543 million (2015 USD)\nAreas affected    Fiji, Kiribati, Solomon Islands, Tuvalu, Vanuatu, New\n                  Caledonia, New Zealand\nIBTrACS\n----------------------------------------\n\nPart of the 2014–15 South Pacific cyclone season\n\nSevere Tropical Cyclone Pam was the second most intense tropical cyclone of the South Pacific Ocean in terms of sustained winds and is regarded as one of the worst natural disasters in the history of Vanuatu.[1] A total of 15–16 people died either directly or indirectly as a result of Pam with many others injured. The storm's impacts were also felt, albeit to a lesser extent, on other islands in the South Pacific, most notably the Solomon Islands, Tuvalu, and New Zealand. Pam is the third most intense storm of the South Pacific Ocean according to pressure, after Winston of 2016 and Zoe of 2002. It is also the second most intense tropical cyclone in 2015, only behind Hurricane Patricia. In addition, Pam is tied with Orson, Monica, Marcus and Fantala for having the second strongest ten-minute maximum sustained winds in the Southern Hemisphere. Thousands of homes, schools and buildings were damaged or destroyed, with an estimated 3,300 people displaced as a result.\n\nPam formed on 6 March, east of the Solomon Islands and tracked slowly in a generally southward direction, slowly intensifying as it did so. Two days later, the disturbance reached tropical cyclone intensity and, over subsequent days, Pam gradually strengthened before reaching Category 5 cyclone status on both the Australian and Saffir–Simpson scales on 12 March. The next day, Pam's sustained winds peaked at 250 km/h (155 mph) as the storm moved through Vanuatu, passing near several constituent islands and making direct hits on others. On 14 March, Pam's winds began to slowly weaken, but its pressure dropped further to a minimum of 896 mbar (hPa; 26.46 inHg) before rising shortly afterwards. Over the next few days, the cyclone's weakening accelerated as it moved poleward. On 15 March, Pam passed northeast of New Zealand before transitioning into an extratropical cyclone that same day.\n\nEarly in Pam's history, a damaging storm surge impacted Tuvalu, prompting a state of emergency declaration after 45 percent of the nation's residents were displaced. Torrential rainfall occurred in the southeastern Solomon Islands, particularly in the Santa Cruz Islands. In Vanuatu, all emergency centres were activated and relief personnel were put on standby with Pam assessed as having the potential to be one of the nation's worst tropical cyclones. Catastrophic damage occurred as the storm moved through the archipelago, particularly in Efate, the location of the Ni-Vanuatu capital of Port Vila; and the Tafea islands of Erromango and Tanna. The cyclone crippled Vanuatu's infrastructure: an estimated 90 percent of the nation's buildings were impacted by the storm's effects, telecommunications were paralysed, and water shortages continue to plague the small nation. Pam later brought heavy winds and rough surf to New Zealand's North Island during its weakening stages.\n\n\nMeteorological history\n\nDuring the opening days of March 2015, a major westerly wind burst occurred, which subsequently contributed to the development of the 2014–16 El Niño event and the development of two tropical cyclones near Kiribati on either side of the equator.[2] The first tropical cyclone became Tropical Storm Bavi and impacted the Marshall Islands, the Mariana Islands and Philippines. The second system was first noted as Tropical Disturbance 11F by the Fiji Meteorological Service (FMS) on 6 March, while it was located about 750 kilometres (465 mi) to the north-east of Honiara in the Solomon Islands.[3] The system was located underneath an upper-level ridge of high pressure and within an area favourable for further development with low-moderate vertical windshear.[3][4] As a result, weather forecast models anticipated the development of a significant tropical cyclone over the coming days.[4] Initially, the disturbance floundered east of the Solomon Islands and slowly strengthened,[5] reaching tropical depression intensity on 8 March. The storm's appearance and areal coverage of showers remained stationary until the following day,[6] when the formation of rainbands wrapping around the centre of the system prompted the FMS to upgrade the storm's classification to a category 1 tropical cyclone on the Australian tropical cyclone scale, assigning it the name Pam.[7] Atmospheric conditions at the time were slightly favourable for continued development as the storm continued to slowly track along the southern periphery of a high-pressure area to its north.[8]\n\nFollowing the storm's naming, Pam began to curve southwards around midday on 9 March. Computer models continued to point towards the possibility of rapid intensification occurring as the cyclone approached Vanuatu.[9] Significant development in Pam's organisation took place throughout the remainder of the day into 10 March.[10] The cyclone's circulation centre quickly tightened, with the central dense overcast atop it persisting in strength.[11] At 18:00 UTC on 10 March, the FMS upgraded the system to category 3 strength, making it a severe tropical cyclone.[12] Shortly after, microwave imagery revealed a primordial eye-feature developing within Pam.[13] This became apparent on visible light images on 11 March.[14] That day, Pam became quasi-stationary east of the Santa Cruz Islands before resuming its prior southwesterly motion towards the end of 11 March.[15][16] The storm's eye continued to warm as its cloud tops cooled such that at 12:00 UTC, the FMS assessed Pam to have reached Category 5 intensity on the Australian cyclone scale.[17] Six hours later, the JTWC estimated that the storm reached Category 5-equivalent intensity on the Saffir–Simpson hurricane wind scale as Pam was east of Penama.[18]\n\nEarly on 13 March, the JTWC determined Pam reached its peak one-minute sustained winds of 270 km/h (170 mph) as it neared Vanuatu;[19] this was increased to 280 km/h (175 mph) in post-season reanalysis. Several hours later, the cyclone began to curve towards the south-southeast, allowing Pam to pass just east of Efate.[20] At that time, the FMS estimated Pam as having record-breaking 250 km/h (155 mph) ten-minute sustained winds.[21] The storm's winds gradually slowed afterwards as Pam tracked west of Tafea. However, the FMS indicated that the cyclone's pressure dropped further to a minimum of 896 mbar (hPa; 26.46 inHg) on 14 March,[22] making Pam the second most intense tropical cyclone in the South Pacific basin after Cyclone Zoe in 2002.[23] This intensity was short-lived, however, as Pam's central pressure began rising shortly thereafter as the storm accelerated southeastward.[24] After 12:00 UTC that day, Pam left the area of responsibility of the FMS and entered the monitoring region of New Zealand's MetService, who estimated that Pam weakened to Category 4 intensity on 15 March after maintaining Category 5 intensity for 36 hours.[25] Shortly after, the storm's eye faded away and Pam's low level circulation became displaced from its associated thunderstorms, signalling a rapid weakening phase.[26] Later on 15 March, both agencies discontinued issuing advisories as Pam entered a phase of extratropical transition while affecting northeastern New Zealand. The system moved eastwards, and eventually dissipated over the waters of the South Pacific on 20 March.\n\n\nEffects\n\nSevere Tropical Cyclone Pam was responsible for 24 deaths as it impacted various parts of the Pacific Ocean, before the name was retired from the South Pacific lists of tropical cyclone names. The system also influenced the Pacific trade winds and with Tropical Storm Bavi, caused one of the strongest trade wind reversals that had been observed on record.[27]\n\n\nKiribati\n\nBavi and Pam caused severe weather including swells, heavy rain and strong winds to be reported within Kiribati between 8–11 March. Significant damage occurred in Tarawa due to swells, including to major causeways[28] and strong winds struck outlying atolls.[29]\n\n\nVanuatu\n\n> After all the development we have done for the last couple of years and this big cyclone came and just destroyed... all the infrastructure the government has... built. Completely destroyed.\n\n— Vanuatu President Baldwin Lonsdale, [30]\n\nBy 12 March, the National Disaster Management Office in Vanuatu activated all emergency operation centres in the country. Officials reported difficulty in contacting outlying islands where there was poor infrastructure. In those areas, they advised residents to identify nearby shelters in case evacuation was necessary. Across the country, residents spent the day on 12 March stocking up on supplies for the storm. The International Federation of Red Cross and Red Crescent Societies stated volunteers were on standby for assessments in Fiji, the Solomon Islands, and Vanuatu once the storm passed. Supplies of water and water purification systems were pre-positioned for the countries.[31] Acting director of the Vanuatu National Disaster Management Office, Peter Korisa, warned that should Pam strike the capital of Port Vila it could be worse than Cyclone Uma in 1987 which killed 50 people and caused US$150 million in damage.[32]\n\nThe death toll from Cyclone Pam is uncertain, with totals from the Vanuatu Government and United Nations differing. According to Vanuatu, 11 people died as a direct result of Pam. Four others died at Vila Central Hospital shortly after the storm's passage, though these are considered indirectly related.[33] According to the United Nations, a total of 16 people were killed.[34] In the immediate aftermath, media outlets indicated unconfirmed reports of 44 casualties in the many villages destroyed by the storm;[35][36][37] however, these claims were never substantiated.[34]\n\nAccording to UNICEF, at least 132,000 people have been impacted by Tropical Cyclone Pam, of whom 54,000 are children.[38] Communication across the country was crippled, with only one cellular tower in Port Vila remaining operational. The power grid was devastated as well and officials estimated repairs could take weeks.[39] Four days after the storm, nearly 60 of the nation's inhabited islands remained cut-off from the outside world.[40] UNICEF has estimated that up to 90 percent of the buildings in Vanuatu have been affected by Tropical Cyclone Pam. Hospitals, schools and water supply are either compromised or destroyed.[38] Journalist Michael McLennan in Port Vila likened the effects of Pam to a bomb: \"It's like a bomb has gone through...It's really quite apocalyptic.\" Sune Gudnitz, head of the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), stated that Pam was indeed a worst-case scenario for Vanuatu.[41]\n\nIsland    Fatalities   Ref.\nEfate     7            [33]\nLelepa    1            [33]\nMataso    2            [42]\nTanna     5            [33]\nUnknown   0–1          [33][34]\nTotal     15–16        [33][34]\nFatalities include indirect deaths also\n\nCatastrophic damage occurred on the islands of Erromango and Tanna. Communication with the islands was completely severed during the storm, and first contact with residents did not take place until two days after Pam's passage. A pilot who flew to the islands reported that all infrastructure had been crippled, with every structure severely damaged or destroyed. Concrete buildings held up during the storm, but lost their roofs. Locals reported two fatalities on Tanna, though this was unconfirmed by officials. Additionally, there was no drinkable water left on the island.[43] Approximately 95 percent of the homes on Tongoa were reportedly destroyed.[40] Total damage in Vanuatu reached VT48.6 billion (US$449 million).[44]\n\nNorth of Efate, the small island of Mataso was largely destroyed with only two homes left standing after the storm. Residents sought refuge in caves to ride out the storm; two people died there.[42]\n\nThe Tukoro, Vanuata's most significant patrol vessel, was washed ashore on Moso Island.[45] Repairs took 16 months.\n\nAccording to UNESCO, a total of $268.4 million is needed for total recovery and rehabilitation of the nation.[46]\n\n\nTuvalu\n\nPrior to the formation of Cyclone Pam, flooding from king tides, which peaked at 3.4 m (11 ft) on 19 February 2015, caused considerable road damage across the multi-island nation of Tuvalu.[47][48] Between 10 and 11 March, waves, estimated to be 3–5 m (9.8–16.4 ft), associated with the cyclone swept across the low-lying islands of Tuvalu. The atolls of Nanumea, Nanumanga, Niutao, Nui, Nukufetau, Nukulaelae, and Vaitupu were most affected.[49][50] Significant damage to agriculture and infrastructure occurred.[51] The outermost islands were hardest hit, with one flooded in its entirety.[52] A state of emergency was subsequently declared on 14 March.[51][53] Water supplies on Nui were contaminated by seawater and rendered undrinkable.[49] An estimated 45 percent of the nation's nearly 10,000 people were displaced, according to Prime Minister Enele Sopoaga.[54] Damage across the nation amounted to US$92 million.[55] Significant saltwater intrusion occurred on eight islands.[29]\n\n\nSolomon Islands\n\nEarly in the Cyclone Pam's development, it produced torrential rains and gale-force winds over the Solomon Provinces of Malaita, Makira-Ulawa, and Temotu.[32] Trees and crops were flattened, and residents sheltered in schools and in caves after their homes were destroyed.[56] Rainfall was particularly intense over the Santa Cruz Islands, where a 24‑hour total of 495 mm (19.5 in) was observed.[57] Continuous heavy rain prompted the evacuation of 500 students in West Guadalcanal.[58]\n\nThe storm later struck the remote islands of Anuta and Tikopia on 12 March, causing extensive damage.[59] Approximately 1,500 homes were damaged or destroyed in the region and 5,000 people were directly.[60] Powerful winds toppled numerous trees. Several injuries were reported, though exact numbers are unknown. Tikopia's lost roughly 90 percent of its food crop and fruit trees; water sources were also contaminated. Contact with Anuta was lost as all its phone lines failed;[59] the island remained isolated for at least a week after Pam's passage.[61]\n\n\nFiji\n\nAlthough not in the direct path of Pam, officials in Fiji warned residents in low-lying areas of potential flooding from the system's outer rain bands.[62] On 11 March, the Northern Division activated its Emergency Operations Centre and directed precautionary measures to be undertaken, with the expectation that flash flooding and coastal flooding from high tides were set to occur.[63] Emergency shelters for possible evacuations were identified by 12 March.[64] Fears concerning the Fijian infrastructure's susceptibility to winds and flooding were raised by the Disaster Management Office.[65] Later that day, cruise operators announced that trips to the Yasawa Islands would be cancelled due to the storm.[66] Anticipating dangerous conditions from the cyclone, the fifth leg of the Volvo Ocean Race was postponed until at least 01:00 UTC on 16 March.[67] Other residents were warned not to venture out to sea as Pam passed nearby.[68]\n\n\nNew Caledonia\n\nA pre-cyclone alert was raised in New Caledonia as a precaution.[32] On 13 March 2015 at noon local time, this was raised to the first level of cyclone alert for the Loyalty Islands and for the Isle of Pines.[69] The second and highest level of cyclone alert was raised at 03:00 local time on 14 March 2015 for the islands of Maré and Lifou,[70] and the alert ended at 17:00 and 20:00 local time on the same day. All alert levels were then lifted on Sunday, 15 March at 08:00 local time.\n\nOn the whole, material damages were relatively light, with a few fallen trees, a few roofs blown out, and only 26 people in need of emergency housing (18 on Maré and 8 on Lifou). At the height of the storm, a maximum of 6000 inhabitants suffered power outages, but power was then restored fairly quickly to the vast majority. As perceived by the population of the Loyalty Islands, the worst damage was in fact the loss of the yams harvest, which will affect numerous communities of both Maré and Lifou, both as a means of subsistence for the coming season and as a cultural apparatus for ceremonies like weddings.[71]\n\n\nNew Zealand\n\nCivil Defense officials in New Zealand issued severe weather warnings, that the remnants of Cyclone Pam could bring unprecedented damage to much of the northeastern coastal areas of the North Island. Swells of 6–8 m (20–26 ft) were forecast with potential for damage exceeding that of Cyclone Bola – which struck New Zealand's North Island in 1988.[72]\n\nOn 15 March gale-force winds began affecting northern parts of the North Island and continued into the following day,[73] with gusts peaking at 148 km/h (92 mph) in Kaeo and 144 km/h (89 mph) in Hicks Bay.[74] Some voluntary evacuations took place in the Gisborne region.[73] Power outages took place in the Whangarei District.[75] Heavy rains accompanied the system as well, with over 200 mm (7.9 in) falling in areas between Hicks Bay and Gisborne.[76] Along the coast, waves reached 4.5 m (15 ft) in Tutukaka and 5–6 m (16–20 ft) near Tolaga Bay.[75][77] The cyclone also brought cooler temperatures throughout most of the North Island and northern South Island.[76]\n\nThe storm later brought winds up to 140 km/h (87 mph) to the Chatham Islands (pop: 650), prompting the declaration of a civil defence emergency. Downed trees cut power to portions of the islands, though no major damage was reported. Twelve people sought refuge in a public shelter.[78] A wharf on the north side of the islands was damaged by rough seas.[79] Insurance loss in New Zealand amounted to NZ$2.2 million (US$1.63 million).[80]\n\n\nAftermath\n\nAn RAAF Lockheed P-3 Orion was dispatched to the eastern Solomon Islands for aerial damage surveys.[81]\n\n\nVanuatu\n\nBefore the disaster, many developed countries pledged funds to assist smaller, developing nations with disaster preparation and relief efforts.[82] Jim Yong Kim, president of the World Bank, has called for insurance schemes to help the Vanuatu government respond to natural disasters.[83] United Nations Secretary-General Ban Ki-moon highlighted that climate change leads to increased risks of natural disasters.[84]\n\nWhile attending the World Conference on Disaster Risk Reduction in Sendai, Japan, Vanuatu President Baldwin Lonsdale requested international assistance for his people.[85] Immediately following the cyclone's impact in Vanuatu, governments across the world began providing aid relief funds. Sufficient repairs of Bauerfield International Airport were completed by 14 March to allow the first flights from Australia carrying aid to arrive. Initial monetary assistance included $3.8 million from Australia, $2.9 million from the United Kingdom, $1.8 million from New Zealand, and $1.05 million from the European Union, $250,000 from India and promised to extend any furth",
+        "metadata": {
+          "title": "Cyclone Pam - Wikipedia",
+          "og:image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pam_2015-03-13_0220Z.jpg/960px-Pam_2015-03-13_0220Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "900",
+          "og:image:height": "1200",
+          "og:title": "Cyclone Pam - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Cyclone Pam",
+          "url": "https://en.wikipedia.org/wiki/Cyclone_Pam",
+          "sameAs": "http://www.wikidata.org/entity/Q19567333",
+          "mainEntity": "http://www.wikidata.org/entity/Q19567333",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2011-12-20T02:44:40Z",
+          "dateModified": "2026-08-08T03:58:35Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pam_2015-03-13_0220Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "Category 5 South Pacific cyclone in 2015"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le cyclone tropical sévère Pam, l'un des pires désastres naturels de l'histoire du Vanuatu, a traversé l'océan Pacifique Sud en mars 2015. Formé le 6 mars à l'est des îles Salomon, il a atteint le statut de cyclone de catégorie 5 le 12 mars, avec des vents atteignant 250 km/h (155 mph) et une pression minimale de 896 hPa, touchant directement le Vanuatu et affectant d'autres îles dont Fidji, Kiribati, Tuvalu, la Nouvelle-Calédonie et la Nouvelle-Zélande. La tempête a causé la mort de 15 à 16 personnes, des dégâts estimés à 543 millions de dollars américains, et a déplacé environ 3 300 personnes en détruisant des milliers d'habitations et d'écoles.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Pam"
+        ],
+        "LOCATION": [
+          "Vanuatu",
+          "New Orleans",
+          "South Pacific Ocean",
+          "Southern Hemisphere",
+          "Fiji",
+          "Kiribati",
+          "Solomon Islands",
+          "Tuvalu",
+          "New Caledonia",
+          "New Zealand",
+          "Australia"
+        ],
+        "ORGANIZATION": [
+          "FMS",
+          "SSHWS",
+          "JTWC",
+          "IBTrACS"
+        ],
+        "DATE": [
+          "1997",
+          "13 March",
+          "6 March 2015",
+          "15 March 2015",
+          "20 March 2015",
+          "2015",
+          "2014-15",
+          "2016",
+          "2002",
+          "12 March",
+          "14 March"
+        ],
+        "EVENT": [
+          "Cyclone Pam",
+          "Cyclone Lam",
+          "Hurricane Pam",
+          "Zoe of 2002",
+          "Winston of 2016"
+        ],
+        "OTHER": [
+          "Category 5",
+          "Orson",
+          "Monica",
+          "Marcus",
+          "Fantala"
+        ]
+      },
+      "score_e5": 0.7551145894823831
+    },
+    {
+      "titre": "Typhoon Mindulle (2021) - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Typhoon_Mindulle_(2021)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mindulle_2021-09-26_0426Z.jpg/960px-Mindulle_2021-09-26_0426Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQACGME1OCY0Vlq7hu6UX7m7IyL-taZBzVKzQnhjr5eERAeuwZz",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Typhoon Mindulle (2021) - Wikipedia",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Typhoon_Mindulle_(2021)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mindulle_2021-09-26_0426Z.jpg/960px-Mindulle_2021-09-26_0426Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQACGME1OCY0Vlq7hu6UX7m7IyL-taZBzVKzQnhjr5eERAeuwZz"
+      },
+      "webpage": {
+        "text": "Typhoon Mindulle (2021)\n\nPacific typhoon in 2021\nThis article is about the 2021 typhoon. For other storms of the same name, see List of storms named Mindulle.\n\nTyphoon Mindulle near peak intensity on September 26\nMeteorological history\nFormed            September 22, 2021\nDissipated        October 2, 2021\nViolent typhoon\n10-minute sustained (JMA)\nHighest winds     195 km/h (120 mph)\nLowest pressure   920 hPa (mbar); 27.17 inHg\nCategory 5-equivalent super typhoon\n1-minute sustained (SSHWS/JTWC)\nHighest winds     260 km/h (160 mph)\nLowest pressure   916 hPa (mbar); 27.05 inHg\nOverall effects\nFatalities        None\nDamage            Minimal\nAreas affected    Japan, Russia, Alaska\nIBTrACS\n----------------------------------------\n\nPart of the 2021 Pacific typhoon season\n\nTyphoon Mindulle was a long-lived and strong typhoon that lasted out the sea in late September 2021. As the seventeenth named storm, and the sixth typhoon of the 2021 Pacific typhoon season, Mindulle originated from an area of low pressure 703 nmi (1,302 km; 809 mi) southeast of Guam. It quickly organized until attaining the name Mindulle. Mindulle eventually became a Category 1 typhoon on September 25 in 3:00 UTC.[1][2] Wind shear slowed its rapid intensification, but it still managed to intensify. Mindulle eventually reached Category 5 typhoon the next day, as the storm had a large eye in its center.[3] Wind shear weakened the storm, but reintensified. On October 2, JMA issued its last advisory as it becomes extratropical as it continued moving northeast.[4]\n\n\nMeteorological history\n\nOn September 21, the Joint Typhoon Warning Center spotted an area of convection formed approximately 703 nmi (1,302 km; 809 mi) southeast of Guam.[5] The system rapidly consolidated itself and formed a well-defined LLCC,[6] and thus, the system strengthened into a tropical depression on 00:00 UTC of September 22.[7] The JTWC did the same later that day, designating the system as 20W.[8] At 09:00 UTC of September 23, the JTWC upgraded it to a tropical storm, as its low-level circulation center became partially exposed.[9] The Japan Meteorological Agency did the same three hours later, and named it Mindulle.[nb 1][11] At 12:00 UTC of September 24, the JMA upgraded it to a severe tropical storm.[12] By 03:00 UTC the next day, the JTWC upgraded it to a Category 1-equivalent typhoon, as it developed a small eye. The presence of dry air had slowed its intensification, but it still managed to become a typhoon.[13][14] Mindulle started to rapidly intensify as it quickly intensified into a Category 2-equivalent typhoon. Its eye expanded but became ragged due to the presence of dry air.[15] Mindulle continued its rapid intensification, as it further intensified into a Category 4-equivalent typhoon at 15:00 UTC. Mindulle's eye became well-defined and at 03:00 UTC the next day, it became a Category 5-equivalent super typhoon, making it the third super typhoon of this season. Satellite imagery showed that the typhoon had developed a well defined 15 nmi (28 km; 17 mi) eye and deepening of the central core.[16] At 15:00 UTC, Mindulle weakened into a Category 4-equivalent super typhoon as the eye and the convective structure started to degrade. It also underwent an eyewall replacement cycle, as it developed another eyewall.[17] At 03:00 UTC of September 27, the JTWC further downgraded the system to a Category 3-equivalent typhoon,[18] and six hours later, the agency had further downgraded it to a Category 2-equivalent typhoon because of the effects of the eyewall replacement cycle and the increasing presence of dry air.[19] At 15:00 UTC of September 28, Mindulle re-intensified into a Category 3-equivalent typhoon, as it moved over favorable conditions. Satellite imagery showed that the typhoon continued to struggle to intensify. Its 20 nmi (37 km; 23 mi) eye had steadily shrunk but it remained cloud covered and ragged.[20] By the next day at 03:00 UTC, the JTWC re-upgraded it to a Category 4-equivalent typhoon as the eye cleared out again.[21] At 21:00 UTC of September 29, it rapidly weakened and by 15:00 UTC the next day, it weakened from a Category 3-equivalent typhoon to a Category 1-equivalent typhoon. Cool dry air and cool sea-surface temperatures were responsible for the weakening.[22][23][24] At 21:00 UTC of October 1, the JTWC issued its final warning as it downgraded to a tropical storm.[25] Three hours later, JMA also issued its final warning, as it became extratropical cyclone, off the coast of Hokkaido.[26] The storm continued northeast towards Alaska until losing its identity.\n\n\nPreparations and impact\n\n\nJapan\n\nThe storm's outer rain bands brought heavy rain and winds across eastern Japan. Wind gusts of 150 kph (95 mph) were recorded in Choshi and Miyake Island in the Izu islands chain.[27] 10 people were injured in Kanagawa and 4 were in injured in Ibaraki.[28]\n\n\nSee also\n\n * Weather of 2021\n * Tropical cyclones in 2021\n * 2021 Pacific typhoon season\n * Other storms of the same name\n * Typhoon Lupit (2003)\n * Typhoon Sudal (2004)\n * Typhoon Dolphin (2015)\n\n\nNotes\n\n 1. ↑ The name Mindulle (Korean: 민들레, [mindɯɭɭe̞]) was contributed by North Korea and means dandelion (Taraxacum mongolicum) in Korean.[10]\n\n\nReferences\n\n 1.  ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 11 (Report). United States Joint Typhoon Warning Center. 25 September 2021. Retrieved 25 September 2021.\n 2.  ↑ \"RSMC Prognostic Reasoning No. 8 for Typhoon Mindulle (2116)\". Japan Meteorological Agency. September 25, 2021. Retrieved September 25, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 3.  ↑ Prognostic Reasoning for Category 4-Equivalent Super Typhoon 20W (Mindulle) Warning No. 15 (Report). United States Joint Typhoon Warning Center. 26 September 2021. Retrieved 26 September 2021.\n 4.  ↑ \"JRSMC Tropical Cyclone Advisory\". Japan Meteorological Agency. October 2, 2021. Retrieved October 2, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 5.  ↑ Significant Tropical Weather Advisory for Western and Southern Pacific Ocean (Report). United States Joint Typhoon Warning Center. 21 September 2021. Retrieved 22 September 2021.\n 6.  ↑ Tropical Cyclone Formation Alert (Invest 99W) (Report). United States Joint Typhoon Warning Center. 21 September 2021. Retrieved 22 September 2021.\n 7.  ↑ \"JMA Warning and Summary 220000\". Japan Meteorological Agency. September 22, 2021. Retrieved September 22, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 8.  ↑ Prognostic Reasoning for Tropical Depression 20W (Twenty) Warning No. 1 (Report). United States Joint Typhoon Warning Center. 22 September 2021. Retrieved 23 September 2021.\n 9.  ↑ Prognostic Reasoning for Tropical Storm 20W (Twenty) Warning No. 4 (Report). United States Joint Typhoon Warning Center. 23 September 2021. Retrieved 24 September 2021.\n 10. ↑ \"List of names for tropical cyclones adopted by the Typhoon Committee for the western North Pacific and the South China Sea\". Japan Meteorological Agency. Archived from the original on August 5, 2005. Retrieved March 16, 2026.\n 11. ↑ \"RSMC Prognostic Reasoning No. 2 for Tropical Storm Mindulle (2116)\". Japan Meteorological Agency. September 23, 2021. Retrieved September 24, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 12. ↑ \"RSMC Prognostic Reasoning No. 6 for Severe Tropical Storm Mindulle (2116)\". Japan Meteorological Agency. September 24, 2021. Retrieved September 24, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 13. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 11 (Report). United States Joint Typhoon Warning Center. 25 September 2021. Retrieved 25 September 2021.\n 14. ↑ \"RSMC Prognostic Reasoning No. 8 for Typhoon Mindulle (2116)\". Japan Meteorological Agency. September 25, 2021. Retrieved September 25, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 15. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 12 (Report). United States Joint Typhoon Warning Center. 25 September 2021. Retrieved 25 September 2021.\n 16. ↑ Prognostic Reasoning for Category 4-Equivalent Super Typhoon 20W (Mindulle) Warning No. 15 (Report). United States Joint Typhoon Warning Center. 26 September 2021. Retrieved 26 September 2021.\n 17. ↑ Prognostic Reasoning for Category 4-Equivalent Super Typhoon 20W (Mindulle) Warning No. 17 (Report). United States Joint Typhoon Warning Center. 26 September 2021. Retrieved 26 September 2021.\n 18. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 18 (Report). United States Joint Typhoon Warning Center. 27 September 2021. Retrieved 27 September 2021.\n 19. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 20 (Report). United States Joint Typhoon Warning Center. 27 September 2021. Retrieved 27 September 2021.\n 20. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 25 (Report). United States Joint Typhoon Warning Center. 28 September 2021. Retrieved 29 September 2021.\n 21. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 27 (Report). United States Joint Typhoon Warning Center. 28 September 2021. Retrieved 29 September 2021.{{cite report}}: CS1 maint: deprecated archival service (link)\n 22. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 30 (Report). United States Joint Typhoon Warning Center. 29 September 2021. Retrieved 1 October 2021.\n 23. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 31 (Report). United States Joint Typhoon Warning Center. 30 September 2021. Retrieved 1 October 2021.\n 24. ↑ Prognostic Reasoning for Typhoon 20W (Mindulle) Warning No. 33 (Report). United States Joint Typhoon Warning Center. 30 September 2021. Retrieved 1 October 2021.\n 25. ↑ Tropical Storm 20W (Mindulle) Warning No. 38-Final (Report). United States Joint Typhoon Warning Center. 1 October 2021. Retrieved 2 October 2021.\n 26. ↑ \"JRSMC Tropical Cyclone Advisory\". Japan Meteorological Agency. October 2, 2021. Retrieved October 2, 2021.{{cite web}}: CS1 maint: deprecated archival service (link)\n 27. ↑ \"Eastern Japan battered by heavy rain and winds as Typhoon Mindulle passes by\". October 1, 2021. Retrieved October 1, 2021.\n 28. ↑ \"Mindulle Typhoon: 14 people injured in Japan\". The Times of India. ANI. 2 October 2021. Retrieved 2023-01-24.",
+        "metadata": {
+          "title": "Typhoon Mindulle (2021) - Wikipedia",
+          "og:image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mindulle_2021-09-26_0426Z.jpg/960px-Mindulle_2021-09-26_0426Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "900",
+          "og:image:height": "1200",
+          "og:title": "Typhoon Mindulle (2021) - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Typhoon Mindulle (2021)",
+          "url": "https://en.wikipedia.org/wiki/Typhoon_Mindulle_(2021)",
+          "sameAs": "http://www.wikidata.org/entity/Q108665166",
+          "mainEntity": "http://www.wikidata.org/entity/Q108665166",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2022-11-29T22:30:07Z",
+          "dateModified": "2026-08-22T11:00:23Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mindulle_2021-09-26_0426Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "Western Pacific super typhoon in 2021"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le typhon Mindulle a évolué en mer fin septembre 2021 en tant que dix-septième tempête nommée et sixième typhon de la saison des typhons du Pacifique 2021. Formé à partir d'une zone de basse pression située à 703 milles marins au sud-est de Guam, le système s'est intensifié pour devenir une tempête tropicale le 23 septembre, puis un typhon de catégorie 1 le 25 septembre. Il a atteint le stade de super typhon équivalent à la catégorie 5 le lendemain avant de s'affaiblir en raison du cisaillement du vent et de l'air sec, puis de se diriger vers le nord-est en devenant extratropical le 2 octobre 2021, avec des dommages minimes signalés au Japon, en Russie et en Alaska.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mindulle"
+        ],
+        "LOCATION": [
+          "Japan",
+          "Russia",
+          "Alaska",
+          "Guam"
+        ],
+        "ORGANIZATION": [
+          "JMA",
+          "JTWC",
+          "IBTrACS"
+        ],
+        "DATE": [
+          "2021",
+          "September 2021",
+          "September 26",
+          "September 22, 2021",
+          "October 2, 2021",
+          "September 25",
+          "September 21",
+          "September 23",
+          "September 24"
+        ],
+        "EVENT": [
+          "Typhoon Mindulle",
+          "2021 Pacific typhoon season"
+        ],
+        "OTHER": [
+          "Category 5",
+          "20W",
+          "LLCC"
+        ]
+      },
+      "score_e5": 0.7224251025777362
+    },
+    {
+      "titre": "Cyclone Freddy - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Cyclone_Freddy",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Freddy_2023-02-19_0900Z.jpg/960px-Freddy_2023-02-19_0900Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE5iPNZWtQslX9fE0OAvSxiJog1QsYHeuoTKjafvvylVHk8smx",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Cyclone Freddy - Wikipedia",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Cyclone_Freddy",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Freddy_2023-02-19_0900Z.jpg/960px-Freddy_2023-02-19_0900Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE5iPNZWtQslX9fE0OAvSxiJog1QsYHeuoTKjafvvylVHk8smx"
+      },
+      "webpage": {
+        "text": "Cyclone Freddy\n\nAustralian and South-West Indian cyclone in 2023\nNot to be confused with Cyclone Fred or Cyclone Frederic. For other storms of the same name, see List of storms named Freddy.\n\n\nCyclone Freddy at its peak intensity while northeast of\nRodrigues on 19 February\nMeteorological history\nFormed            4 February 2023\nDissipated        14 March 2023\nDuration          5 weeks and 3 days\n                  (Longest-lasting tropical cyclone on record)\nVery intense tropical cyclone\n10-minute sustained (MFR)\nHighest winds     230 km/h (145 mph)\nLowest pressure   927 hPa (mbar); 27.37 inHg\nCategory 5-equivalent tropical cyclone\n1-minute sustained (SSHWS/JTWC)\nHighest winds     260 km/h (160 mph)\nLowest pressure   923 hPa (mbar); 27.26 inHg\nOverall effects\nFatalities        1,434\n                  (Second-deadliest tropical cyclone in the South-West Indian\n                  Ocean, third-deadliest in the Southern Hemisphere)\nInjuries          2,004\nMissing           19\nDamage            $1.53 billion (2023 USD)\n                  (Fourth-costliest cyclone in the South-West Indian Ocean\n                  basin)\nAreas affected     * Mascarene Islands\n                   * Madagascar\n                   * Mozambique\n                   * Zimbabwe\n                   * Malawi\n                   * South Africa\n                   * Eswatini\n                   * Zambia\nIBTrACS\n----------------------------------------\n\nPart of the 2022–23 Australian region and South-West Indian\nOcean cyclone seasons\n----------------------------------------\n\nHistory\n • Meteorological history\n\n\nResponse\n • Humanitarian response\n\n\nOther wikis\n • Commons: Freddy images\n\nVery Intense Tropical Cyclone Freddy, also known as Severe Tropical Cyclone Freddy, was an exceptionally long-lived, powerful, and deadly tropical cyclone that traversed the southern Indian Ocean for more than five weeks in February and March 2023. Freddy was the longest-lasting tropical cyclone ever recorded worldwide and produced the second-highest accumulated cyclone energy—a metric used to measure the total energy generated by tropical cyclones—of any individual cyclone on record globally. Additionally, it is the third-deadliest tropical cyclone recorded in the Southern Hemisphere, only behind 2019's Cyclone Idai and the 1973 Flores cyclone.\n\nFreddy originated from a tropical low that was located south of the Indonesian archipelago on 4 February 2023. As it traveled westward across the Indian Ocean, the storm quickly intensified, becoming a Category 4 severe tropical cyclone on the Australian scale. Freddy moved into the South-West Indian Ocean, where it reached its peak intensity with 10-minute sustained winds of 230 km/h (145 mph) and a central atmospheric pressure of 927 hPa (27.37 inHg), making it a very intense tropical cyclone. Meanwhile, 1-minute sustained winds reached 260 km/h (160 mph), corresponding to Category 5-equivalent intensity on the Saffir–Simpson scale. After reaching its peak intensity, the cyclone moved toward the northern Mascarene Islands and made landfall near Mananjary, Madagascar on 21 February. It weakened further across Madagascar but regained strength upon reaching the Mozambique Channel, where it intensified and made its second landfall near Vilankulos, Mozambique on 24 February. After moving across Mozambique, the cyclone endured and re-entered the channel on 1 March. It then regained its tropical characteristics and started moving along the coast of Madagascar. Freddy intensified again before making its final landfall near Quelimane, Mozambique on 11 March. It then rapidly weakened as it moved inland and dissipated by 14 March.\n\nPreparations for the storm in the Mascarene Islands included flight groundings, cyclone alerts, and personnel being prepped for the aftermath, among other things. In Madagascar, areas previously affected by Cyclones Batsirai and Cheneso were feared to be worsened by the storm's arrival. Impacts in Mozambique were more severe than in Madagascar and included heavy rainfall in the southern half of the country and widely damaged infrastructure. Effects in Mozambique were exacerbated after its second landfall with further floods and wind damage. The hardest-hit was Malawi where incessant rains caused catastrophic flash floods, especially Blantyre. The nation's power grid was crippled, with its hydroelectric dam rendered inoperable. Overall, the cyclone resulted in at least 1,434 fatalities, 2,004 injuries, 19 people missing, and caused about US$1.53 billion in damage. Consequently, due to the extensive damage and loss of life, the Australian Bureau of Meteorology has retired the name Freddy from the Australian rotating naming lists. In 2025, the name was replaced with Frederic.[1]\n\n\nMeteorological history\n\nMain article: Meteorological history of Cyclone Freddy\n\nThe system that developed into Cyclone Freddy formed on 4 February 2023, when the Australian Bureau of Meteorology (BoM) identified it as Tropical Low 13U. Its formation occurred during an active phase of the Madden–Julian oscillation combined with an equatorial Rossby wave while it was south of the Indonesian archipelago. Later, persistent convection around the system's circulation led the BoM to upgrade the tropical low to a Category 1 tropical cyclone on the Australian scale at 12:00 UTC, and it was assigned the name Freddy. The system became increasingly susceptible to wind shear and dry air intrusion, causing Freddy to weaken back into a minimal tropical storm on 9 February. The cyclone quickly restrengthened with the storm becoming a Category 3 severe tropical cyclone—and at 18:00 UTC on 11 February, the cyclone reached as a high-end Category 4 severe tropical cyclone in the Australian basin. On 14 February, the system tracked over the 90th meridian east and into the South-West Indian Ocean cyclone region, and hence responsibility for the storm transitioned to Météo-France (MFR) at La Réunion.[2][3]\n\nOn 19 February, the MFR upgraded Freddy to a very intense tropical cyclone based on a Dvorak technique rating of T7.0, with 10-minute sustained winds of 220 km/h (140 mph) and an estimated barometric pressure of 931 hPa (27.49 inHg). In post-analysis, the MFR concluded a peak wind speed of 230 km/h (145 mph), and minimum central pressure of 927 hPa (27.37 inHg). The system reached Category 5-equivalent intensity, with the United States Joint Typhoon Warning Center (JTWC) reporting 1-minute sustained winds of 260 km/h (160 mph). The cyclone's eye pattern quickly deteriorated while it was traversing north of the Mascarene Islands. Freddy made landfall as a strong Category 2-equivalent intensity with 1-minute sustained winds of 175 km/h (110 mph) near Mananjary, Madagascar on 21 February. This made Freddy the strongest storm to impact the island nation since Cyclone Batsirai a year earlier.[4]\n\nAfter crossing Madagascar, its circulation became exposed, and the deep convection was stripped away from the center. Freddy emerged into the Mozambique Channel, quickly re-intensifying into a severe tropical storm on 23 February. Freddy reached Mozambique south of Vilankulos on 24 February, bringing winds of 85 km/h (50 mph), which was just shy of severe tropical storm intensity, before moving into Zimbabwe late on 26 February, where it remained for a couple of days. Freddy entered the channel early on 1 March and continued to intensify, reaching tropical cyclone status as it accelerated eastward towards the coast of Madagascar on 5 March, but then weakened to just below minimal tropical storm strength due to increased wind shear and dry air intrusion. Freddy rapidly intensified once more and made its final landfall near Quelimane, Mozambique, with the JTWC estimated winds of about 175 km/h (110 mph) on 11 March; however, the storm's circulation dissipated shortly thereafter, marking the end of Freddy's time as a tropical cyclone on 14 March.[5][6]\n\n\nRecords\n\nSee also: Meteorological history of Cyclone Freddy § Records\n\nCyclone Freddy lasted 36 days, made it the longest-lasting tropical cyclone worldwide, in terms of the number of days maintaining tropical storm status or higher, beating the previous record set by Hurricane John in 1994. Freddy was also the second-farthest traveling tropical cyclone globally, behind 1994's Hurricane John, with a distance traveled of 12,785 km (7,945 mi). Freddy also holds the record for the second-highest accumulated cyclone energy—a metric that measures the total energy generated by tropical cyclones, at 83.31—just shy of Hurricane Ioke in 2006. Freddy was the tropical cyclone that underwent six separate rounds of rapid intensification. It was also one of only six systems to traverse the entire southern Indian Ocean from east to west, along with cyclones Litanne in 1994 as well as Leon–Eline, Hudah in 2000, Dikeledi in 2025 and Grant in 2026.[7][8][9][10]\n\n\nPreparations\n\n\nMascarene Islands\n\nA class I cyclone warning was issued by Mauritius for Rodrigues, and later a class II cyclone warning was issued.[11][12] Flights from Rodrigues to Saint-Denis, Réunion, were canceled or rescheduled due to inclement weather.[13] Prime Minister Pravind Jugnauth stated this during a radio and television address urging vigilance and caution.[14] The Mauritius Meteorological Services (MMS) issued a class III cyclone warning, estimating that Freddy's center gusts might reach up to 300 km/h (185 mph).[15] The country also shut down its stock exchange as the storm neared.[16] A total of 1,019 people sought refuge in public shelters.[17]\n\nOn 18 February, a cyclone yellow pre-alert was issued for the island of Réunion by the MFR.[18] The following day, this was upgraded to an orange alert which prompted all schools to close. Hospital patients whose conditions did not require immediate treatment were to return home while those with more care-intensive needs were to be transported to designated facilities.[19] The island's power company, EDF La Réunion, prepped 200 personnel with a further 100 people from subcontracted companies for immediate repairs once storm conditions subsided. Call centers were staffed with 60 additional workers. The company also prepped 50 vehicles, electrical equipment, 15 generators, and 4 helicopters for use.[20] Residents in areas hard-hit by Cyclone Batsirai in February 2022 worried of exacerbated damage upon Freddy's arrival.[21] Authorities in Le Tampon were mobilizing for the system's arrival.[22] High seas prompted the closure of the Nouvelle route du Littoral with bus shuttles established to transport residents through inland routes to and from communities in the north and west.[23][24] On 20 February, the RSMA-R mobilized 250 personnel for relief efforts.[25] All service at Roland Garros Airport was suspended the same day, with service to resume following the cyclone's passage.[26] A red alert for coastal flooding was issued for areas between Champs Borne and Pointe des Cascades.[27] The city of Saint-Benoît opened two public shelters and closed all sporting facilities.[28] Officials in Saint-Pierre postponed a local carnival for more than two weeks.[29]\n\n\nMadagascar\n\nCyclone Freddy threatened areas of Madagascar still reeling from the successive impacts of Cyclones Batsirai and Emnati in 2022; 874,000 people remained food insecure in the region.[30] Medair noted that the region was suffering from a surge in childhood malnutrition stemming from an inadequate humanitarian response to the aforementioned cyclones.[31] On 18 February, General Directorate of Meteorology issued warnings for the Analanjirofo and Sava regions, advising residents to take precautions as the cyclone was expected to make landfall.[32] In the landfall area, Madagascar's weather service noted \"torrential rains\" and \"very high to enormous seas\" were of concern.[16] The government of Madagascar pre-positioned 120 tonnes (120 long tons; 130 short tons) of rice to areas threatened by Freddy.[30] Transportation services and schools were closed on 21 February.[33] Residents at risk of Freddy placed sandbags over their homes' roofs for reinforcement.[34]\n\nThe International Federation of Red Cross and Red Crescent Societies (IFRC) in Madagascar announced it was preparing for the cyclone.[32] Météo-France noted on 19 February that accumulations for 200 mm (7.9 in) were possible for the southern regions of Madagascar.[35] The Global Disaster Alert and Coordination System estimated over 2.2 million people would be affected by Freddy's storm surge and flooding in the country.[36] Tents, ropes, chainsaws, and other supplies have been sent by the National Office for Risk and Disaster Management (BNGRC) to the eastern districts.[37] The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) and its partners deployed 80 humanitarian staff to Mahanoro, Mananjary, and Manakara, and placed two aircraft on standby. The agency was unable to sufficiently allocate emergency supplies due to a lack of funding and shortages from Cyclone Cheneso the month prior.[30] Medair already had field offices in place after Cyclone Cheneso in southern and southeastern Madagascar. Emphasis was placed on providing clean drinking water and emergency kits to residents in Marondava and Maroansetra.[31] At least 7,000 people were pre-emptively evacuated from at-risk coastal regions before Freddy's arrival.[38]\n\n\nMozambique and Malawi\n\nIn February 2023, local reports had estimated over 600,000 people were expected to be affected in the country by the cyclone alone.[39] Rainfall predictions reached 200–300 mm (7.9–11.8 in) south of Beira into Inhambane Province, with 400 mm (16 in) locally. Overall, a month's worth of rain was forecasted.[40] The country's national meteorological service issued a red alert on 21 February. Freddy's intense and prolonged rainfall was also feared to worsen flooding in central and northern areas, affecting up to 1.75 million people, this rainfall also caused deadly landslides.[41] Rescue teams, food supplies, tents, and boats were put in place to support the aftermath.[42]\n\nDuring March 2023, as Freddy approached a second time, the Mozambique National Meteorology Institute (INAM) predicted torrential rains of more than 200 mm (7.9 in) in 24 hours in the provinces of Manica, Sofala, Tete, and Zambezia. Peak rainfall was forecasted to be between 400–500 mm (16–20 in).[43] According to the National Institute for Disaster Risk Management and Reduction (INGD), approximately 565,000 people were at risk,[44] though a United Nations and European Union-led disaster alert predicted 2.3 million were at risk. Thousands were moved to evacuation shelters as precaution.[45] Cyclone Freddy was expected to hit Malawi, and bring with it torrential rains and damaging winds to the southern region.[46] Forecasts predicted accumulations of rainfall there could reach 400–500 mm (16–20 in).[46] The Ministry of Education ordered the suspension of all classes in districts at risk.[46]\n\n\nImpact\n\n\nNation/Territory   Fatalities          Missing        Injuries    Affected         Damage\n                                                                                   (2023 USD)\nMadagascar         17[47]              3[48]          —N/a        299,000[47]      —N/a\nMalawi             1,216[49][50][51]   —N/a           1,724[52]   >500,000[53]     $507 million[54]\nMauritius          1[55]               16[56][nb 1]   0           2,500[58]        —N/a\nMozambique         198[59][60]         —N/a           280[61]     ≥1,074,970[60]   $290 million[62]\nRéunion            0                   0              0           ≥25,000          —N/a\nZimbabwe           2[63]               0              0           —N/a             —N/a\nTotals:            1,434               19             2,004       ≥1,712,987       $1.53 billion[64]\n\nIn general, Freddy produced extraordinarily heavy rains, primarily in Mozambique and Malawi. Heavy winds lashed areas as well, and infrastructure took heavy hits due to excessive flooding. Freddy's stalling over Mozambique and Malawi worsened the rains immensely.\n\n\nMascarene Islands\n\nAccording to the MMS, the cyclone passed within 200 km (120 mi) of Mauritius, just north of Grand Bay.[65] Strong winds and waves were observed along the northern coast of Mauritius.[16] Winds in Port Louis reached 104 km/h (65 mph) while a peak gust of 154 km/h (96 mph) was observed on Signal Mountain.[66] Flooding and gale-force winds also affected the country.[67] According to media reports, there was one fatality, and at least 500 displaced families in a variety of shelters across Mauritius.[55]\n\nAround 4:00 a.m. local time on 20 February, contact was lost with the Taiwanese-flagged fishing trawler LV Lien Sheng Fa with a crew of 16 just outside the territorial waters of Mauritius.[68] The crew included a Taiwanese captain and 15 Indonesian fishermen. An alert was sent out by Taiwan's Fisheries Agency for the missing vessel on 23 February.[69] The MV Star Venture found the ship capsized on 25 February about 400 km (250 mi) northeast of Mauritius within the nation's exclusive economic zone. Later sorties by the aircraft Dornier and the ship CGA Baracuda failed to find any survivors.[57][69] Mauritius deployed a diving team to confirm the identity of the ship.[69] The vessel's lifeboat was confirmed to have been deployed; however, it has not been found as of 3 March.[69]\n\nFreddy impacted Réunion on 20–21 February, with its effects being relatively limited.[70] Nearly 25,000 customers were left without power at the height of the cyclone; all but 500 had their service restored within a day.[71] In Saint-Paul, 20 tons of mangoes were destroyed.[72] Highway RD48 in Salazie was closed due to a landslide.[73] Eleven mobile sites maintained by Orange S.A. were knocked offline in Tampon, Saint-Louis, and Saint-Paul.[70] On 23 February, Foehn winds on the backside of the storm led to temperatures reaching 31 to 36 °C (88 to 97 °F) along the southwestern coast of Réunion.[74]\n\n\nMadagascar\n\nDamage was less than expected due to Freddy's weaker-than-forecasted winds, and early preparations.[75][41] Freddy made its first landfall near Mananjary, which was still recovering from Cyclone Batsirai a year earlier.[76][77] In total, over 14,000 homes were affected, with 1,206 destroyed, 3,079 flooded, and at least 9,696 damaged.[38] At least 22,500 people were displaced, with over 12,000 in Mananjary alone.[78][79] Freddy also left 79 schools roofless, and damaged or destroyed 37 and 6 respectively. The storm's effects caused more 11,000 to flee their homes.[80] The impact zone of Freddy included 13-15 municipalities.[75] About 16 km2 (6.2 sq mi) of land was flooded according to UNOSAT.[81] Overall, the cyclone was responsible for seven deaths, and affected 226,000.[82]\n\nOn its second arrival, Cyclone Freddy brought severe rains to the southwestern portion of the country.[83] At least 72,600 people were affected by the cyclone, including 20 people who were displaced, of whom 16,367 are in 34 temporary sites in several districts, and over 7,900 are living with relatives in the regions of Menabe and Atsimo Andrefana.[83] 158 of which were destroyed, 67 of which were damaged, and 55 of which had no roofs.[83] Overall, 12,400 houses (6,000 of which were flooded, 900 of which were damaged, and 5,500 of which were destroyed) and 280 classrooms, some 28,000 students were prevented from attending school.[83] Ten people have died and three were missing.[83]\n\n\nMozambique\n\nDuring February 2023, Cyclone Freddy made its first landfall in Mozambique (and second landfall overall) south of Vilanculos, Inhambane Province, causing heavy rains, strong winds, and rough seas.[84][85] Some damage was reported, primarily due to fallen trees and rooftops.[86] Public infrastructure and services have also suffered widespread damage, including 60 health units, 1,012 schools.[87][88] At least ten people died in the country during the firs",
+        "metadata": {
+          "title": "Cyclone Freddy - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Freddy_2023-02-19_0900Z.jpg/960px-Freddy_2023-02-19_0900Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "933",
+          "og:image:height": "1200",
+          "og:title": "Cyclone Freddy - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Cyclone Freddy",
+          "url": "https://en.wikipedia.org/wiki/Cyclone_Freddy",
+          "sameAs": "http://www.wikidata.org/entity/Q116784559",
+          "mainEntity": "http://www.wikidata.org/entity/Q116784559",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2023-02-15T20:09:39Z",
+          "dateModified": "2026-09-06T12:20:52Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Freddy_2023-02-19_0900Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "Australian and South-West Indian cyclone in 2023"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le cyclone très intense Freddy a traversé l'océan Indien sud pendant plus de cinq semaines en février et mars 2023, battant le record de longévité pour un cyclone tropical et générant une énergie considérable. Formé le 4 février 2023 au sud de l'archipel indonésien, il a atteint l'intensité de catégorie 5 avec des vents soutenus à 260 km/h et une pression de 927 hPa. Freddy a touché terre à Mananjary à Madagascar le 21 février, puis une seconde fois à Vilankulos au Mozambique le 24 février, affectant également les îles Mascareignes, le Zimbabwe, le Malawi, l'Afrique du Sud, l'Eswatini et la Zambie, entraînant 1 434 décès et 1,53 milliard de dollars de dégâts.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Freddy",
+          "Fred",
+          "Frederic"
+        ],
+        "LOCATION": [
+          "Rodrigues",
+          "Mascarene Islands",
+          "Madagascar",
+          "Mozambique",
+          "Zimbabwe",
+          "Malawi",
+          "South Africa",
+          "Eswatini",
+          "Zambia",
+          "Indian Ocean",
+          "Mananjary",
+          "Vilankulos",
+          "Mozambique Channel",
+          "Indonesia"
+        ],
+        "ORGANIZATION": [
+          "MFR",
+          "JTWC",
+          "IBTrACS",
+          "Commons"
+        ],
+        "DATE": [
+          "2023",
+          "19 February",
+          "4 February 2023",
+          "14 March 2023",
+          "2019",
+          "1973",
+          "February and March 2023",
+          "21 February",
+          "24 February"
+        ],
+        "EVENT": [
+          "Cyclone Freddy",
+          "Cyclone Idai",
+          "1973 Flores cyclone",
+          "2022–23 Australian region and South-West Indian Ocean cyclone seasons"
+        ],
+        "OTHER": [
+          "Category 5"
+        ]
+      },
+      "score_e5": 0.739227435201193
+    },
+    {
+      "titre": "Typhoon Haishen (2020) - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Typhoon_Haishen_(2020)",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Haishen_2020-09-04_0352Z.jpg/960px-Haishen_2020-09-04_0352Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHDKU1dZZt8FfAaxYLGjhbgbXFVPxz8Z8-T2kXXpdP1ZYdpH9y",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Typhoon Haishen (2020) - Wikipedia",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Typhoon_Haishen_(2020)",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Haishen_2020-09-04_0352Z.jpg/960px-Haishen_2020-09-04_0352Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHDKU1dZZt8FfAaxYLGjhbgbXFVPxz8Z8-T2kXXpdP1ZYdpH9y"
+      },
+      "webpage": {
+        "text": "Typhoon Haishen (2020)\n\nPacific typhoon in 2020\nThis article is about the 2020 typhoon. For other storms of the same name, see List of storms named Haishen and List of storms named Kristine.\n\n\nTyphoon Haishen at peak intensity on September 4\nMeteorological history\nFormed            August 30, 2020\nExtratropical     September 7, 2020\nDissipated        September 10, 2020\nViolent typhoon\n10-minute sustained (JMA)\nHighest winds     195 km/h (120 mph)\nLowest pressure   910 hPa (mbar); 26.87 inHg\nCategory 4-equivalent super typhoon\n1-minute sustained (SSHWS/JTWC)\nHighest winds     250 km/h (155 mph)\nLowest pressure   915 hPa (mbar); 27.02 inHg\nOverall effects\nFatalities        4 total\nMissing           6\nDamage            >$100 million (2020 USD)\nAreas affected    Mariana Islands, Japan, South Korea, North Korea,\n                  Northeastern China\nIBTrACS\n----------------------------------------\n\nPart of the 2020 Pacific typhoon season\n\nTyphoon Haishen, known in the Philippines as Typhoon Kristine, was a powerful tropical cyclone that became the first super typhoon of the 2020 Pacific typhoon season. Haishen, which is also the season's tenth named storm and the fifth typhoon, originated from a disorganized low-pressure area situated near Guam. As the disturbance tracked southwestward and quickly organized, the Joint Typhoon Warning Center (JTWC) issued a Tropical Cyclone Formation Alert (TCFA) on the system, and a day later, on September 1, the system intensified into a tropical depression.[1] Then, the Japan Meteorological Agency (JMA) upgraded the system to a tropical storm, naming it Haishen as it moved southwestward.[2] At about 12:00 UTC on September 2, the Philippine Atmospheric, Geological and Astronomical Services Administration (PAGASA) indicated that Haishen had entered the Philippine Area of Responsibility (PAR) and assigned the local name Kristine.[3][4] Later that day, Haishen became a typhoon. On September 3, while drifting northwestward into extremely favorable conditions, Haishen underwent significant intensification, becoming a Category 3-equivalent typhoon and developing a pinhole eye before entering an eyewall replacement cycle (EWRC). Strengthening resumed shortly afterward, and the JTWC estimated peak sustained winds at 155 mph (250 km/h) as the storm reached Category 4 super typhoon status with a new, symmetrical, and clear eye.[5][6]\n\nTraversing northward toward land while gaining latitude, ocean heat content became unfavorable for supporting such a strong system, and while the central pressure decreased, the system's wind speeds began decreasing, as the structure began degrading. The eye's former shape was no longer present as it appeared ragged on satellite imagery, and Dvorak analysis indicated that Haishen was beginning to weaken steadily. On September 5, Haishen began to lose its eye as its inner eyewall began contracting, and it subsequently weakened to a category 3-equivalent typhoon.[7] On September 6, Haishen made landfall on Japan and South Korea as a strong category 2-equivalent typhoon.[8]\n\nHaishen was the third typhoon within a span of two weeks to make landfall in the Korean Peninsula, the others being Bavi and Maysak.\n\n\nMeteorological history\n\nOn August 29, the JTWC began tracking a very disorganized tropical disturbance situated a couple hundred miles northeast of Guam. By the next day, the disturbance had quickly organized, and the JTWC issued a Tropical Cyclone Formation Alert (TCFA) for the low-pressure area.[9] By the next day, it intensified into Tropical Depression 11W.[1] Traversing generally south-westward, the depression quickly intensified into a tropical storm.[2] The JMA soon followed and upgraded the system into a tropical storm as well, and was given the international name Haishen.[a] Later that day, Haishen became a severe tropical storm as it headed southwest into the Philippine Sea. Intensification on September 3 was significant - with Typhoon Haishen acquiring a pinhole eye early in the day, but it later underwent an eyewall replacement cycle. The cycle completed quickly, however, and strengthening resumed almost immediately. Then, the JTWC noted the possibility of Haishen becoming a Category 5 super typhoon in one of their advisories.\n\nEntering the Philippine Area of Responsibility (PAR), the Philippine Atmospheric, Geological and Atmospheric Services Administration (PAGASA) named the system Kristine.[3][4] Early on September 4, the JTWC assessed that Haishen became a Category 4-equivalent super typhoon - with 1-minute sustained wind speeds of 135 kn (155 mph; 250 km/h),[5] with a clear, symmetrical eye visible on satellite imagery.[6] On September 5, as Haishen's latitude increased, the ocean heat content in the area decreased,[11] which disrupted the system's core and caused its eye to appear ragged on satellite imagery, subsequently indicating weakening, and dropping below super typhoon status.[7]\n\nLater that day, the system left the PAR and PAGASA issued its last bulletin on the typhoon.[12] As the system continued its northward track toward the Japanese archipelago, it continued to weaken and became a category 3 typhoon as Haishen made another eyewall replacement cycle, and not too long after it dropped to a category 2 typhoon as it neared the Southern Ryukyu Islands of Japan. A mandatory evacuation order was issued for western Japan as millions of people evacuated accordingly.[8] Haishen made landfall in Ulsan, South Korea at around 09:00 KST (00:00 UTC) on September 7,[13] with 10-minute maximum sustained winds at 140 km/h (85 mph) and the central pressure at 955 hPa (28.20 inHg). Shortly after, Haishen entered the Sea of Japan as a high-end tropical storm; due to the low-sea surface temperatures, Haishen quickly weakened and made landfall in the South Hamgyong Province, North Korea with 10-minute maximum sustained winds of 100 km/h (60 mph) and a central pressure of 980 hPa (28.94 inHg).[14] Soon afterwards, JTWC issued its final warning on Haishen, as it moved further inland into North Korea.[15] At 18:50 UTC, JMA issued its last advisory on Haishen, and declared it an extratropical low as it moved near the China–North Korea border.[14]\n\n\nPreparations\n\n\nJapan\n\nOfficials ordered people to evacuate from dangerous areas near the coast and follow orders by local governments. According to Japanese public broadcaster NHK., 246, 251 people in Kagoshima and 36,392 in Nagasaki were evacuated. More than 580 domestic flights and bullet trains were cancelled to southern Kyushu and Okinawa.[16] Authorities issued emergency warnings and stated that residents were urged to prepare for evacuation.[17]\n\n\nSouth Korea\n\nThe Korea Meteorological Administration has issued a preliminary typhoon warning for all South Korean provinces as well as a heavy rain warning for northern Gangwon Province. Over 340 flights and 114 shipping routes, in addition to several national train services, were cancelled.[18]\n\n\nNorth Korea\n\nResidents in coastal Kangwon Province were evacuated and flood warnings were issued ahead of the storm.[18]\n\n\nImpact\n\nAt least four casualties were reported, with two in Japan and another two in South Korea. The storm caused flood and wind-related damage and major power outages. Around 10,000 houses were damaged, destroyed or flooded in storm-related incidents. Total combined economic losses are anticipated to surpass US$100 million.[19]\n\n\nJapan\n\nHaishen brought strong winds and high waves to parts of Japan.[20] At least two people were killed and over 100 were injured.[21] A mudslide in Miyazaki Prefecture left four people missing.[18] Agricultural damage across the nation were at JP¥14.93 billion (US$140 million).[22] The Kyushu Electric Power Co stated at least 107,540 households were still without power across the Kyushu region as of September 7, 2020.[23] Moreover, more than 200,000 households were out of power in Kagoshima and 3,930 households in Okinawa.[24] As of being in the path of Haishen, the Japanese Coast Guard was forced to temporarily suspend their search and rescue mission for missing crew members of the cargo ship, Gulf Livestock 1, which sank a week before as of the effects of Typhoon Maysak.[25]\n\n\nSouth Korea\n\nAs if the Korean Peninsula was not already devastated by Typhoon Maysak which made landfall less than a week earlier, Haishen made landfall in the city of Ulsan, early September 7 local time.[26] Flooding rains and strong winds from Haishen displaced 3,100 people and left at least 75,000 households without power. Two people were killed and five were injured; two others went missing.[18] Two nuclear power plants in Gyeongju automatically stopped during the typhoon for yet unknown reasons.[21] Rains up to 150 mm (5.9 in) were common for coastal areas along the eastern portion of the peninsula, while 75 mm (3.0 in) rain was recorded in the western areas. Transportation was disrupted as of the extremely flooded roads. According to The Korea Herald, power cuts and severe tree damage was expected in the area. Due to the severe power cut, work was immediately shut down the Hyundai Motors factory in Ulsan.[23] In Busan, a city with a population of 3.4 million, traffic lights collapsed, signboards were ripped off and roads shut down due to strong winds and heavy rain. Total damage along with Typhoon Maysak were calculated at ₩606.3 billion (US$510 million).[27]\n\n\nNorth Korea\n\nWidespread flooding occurred in the country. Military personnel were dispatched to assist in rebuilding houses. Roughly 300,000 members of the Workers' Party of Korea involved themselves in reconstruction projects.[21]\n\n\nChina\n\nThe extratropical remnants of Haishen entered Northeast China, causing flooding to the region. The total damage in the region, along with Bavi and Maysak, reached CN¥12.8 billion (US$1.87 billion).[28]\n\n\nSee also\n\n * Weather of 2020\n * Tropical cyclones in 2020\n * Other typhoons named Haishen\n * Typhoon Rusa (2002) – also affected South Korea.\n * Typhoon Maemi (2003) – a powerful storm that also struck South Korea.\n * Typhoon Sanba (2012) – another significant storm that struck the Korean Peninsula.\n * Typhoon Hinnamnor (2022) – another powerful typhoon that made landfall in South Korea.\n * Typhoon Nanmadol (2022) – an intense typhoon that had a similar path and same intensity.\n\n\nNotes\n\n 1. ↑ The name Haishen (Mandarin: 海神, [xaɪ˧˩˧ ʂən˧˥]) was contributed by China and literally means \"god of sea\" in Mandarin.[10]\n\n\nReferences\n\n 1.  1 2 \"Archived copy\". www.metoc.navy.mil. Archived from the original on September 4, 2020. Retrieved January 15, 2022.{{cite web}}: CS1 maint: archived copy as title (link)\n 2.  1 2 \"Super Typhoon 11W (Haishen), # 18 - Pacific Storm Tracker - Stripes\". www.stripes.com. Archived from the original on September 4, 2020.\n 3.  1 2 \"気象庁｜統合地図ページ\". Archived from the original on September 4, 2020.\n 4.  1 2 \"PAGASA\". Archived from the original on September 4, 2020.\n 5.  1 2 \"Archived copy\". www.metoc.navy.mil. Archived from the original on September 4, 2020. Retrieved January 15, 2022.{{cite web}}: CS1 maint: archived copy as title (link)\n 6.  1 2 \"Archived copy\". www.metoc.navy.mil. Archived from the original on September 4, 2020. Retrieved January 15, 2022.{{cite web}}: CS1 maint: archived copy as title (link)\n 7.  1 2 \"Archived copy\". www.metoc.navy.mil. Archived from the original on September 5, 2020. Retrieved January 12, 2022.{{cite web}}: CS1 maint: archived copy as title (link)\n 8.  1 2 \"Typhoon Haishen batters South Korea after slamming Japan\". BBC News. September 7, 2020.\n 9.  ↑ \"Archived copy\". www.metoc.navy.mil. Archived from the original on September 4, 2020. Retrieved January 15, 2022.{{cite web}}: CS1 maint: archived copy as title (link)\n 10. ↑ \"List of names for tropical cyclones adopted by the Typhoon Committee for the western North Pacific and the South China Sea\". Japan Meteorological Agency. Archived from the original on August 5, 2005. Retrieved March 16, 2026.\n 11. ↑ \"Archived copy\". www.ospo.noaa.gov. Archived from the original on September 5, 2020. Retrieved January 12, 2022.{{cite web}}: CS1 maint: archived copy as title (link)\n 12. ↑ \"Severe Weather Bulletin #4-FINAL for Typhoon \"Kristine\"\" (PDF). PAGASA. Philippine Atmospheric, Geophysical and Astronomical Services Administration. September 5, 2020. Archived from the original on September 5, 2020. Retrieved September 5, 2020.\n 13. ↑ \"Typhoon Haishen making landfall in Ulsan, disrupting flights, train services, plants\". Yonhap News Agency. September 7, 2020. Retrieved September 7, 2020.{{cite web}}: CS1 maint: deprecated archival service (link)\n 14. 1 2 \"Japan Meteorological Agency | Tropical Cyclone Information\". www.jma.go.jp. Retrieved September 7, 2020.\n 15. ↑ \"JTWC's Tropical cyclone warning text on Tropical storm 11W (Haishen)\". Archived from the original on September 4, 2020.\n 16. ↑ \"Typhoon Haishen weakens but still powerful | NHK WORLD-JAPAN News\". NHK WORLD. Archived from the original on September 6, 2020. Retrieved September 6, 2020.\n 17. ↑ Slotkin, Jason (September 5, 2020). \"Southwestern Japan Braces For Powerful Typhoon Haishen\". NPR. Retrieved February 16, 2021.\n 18. 1 2 3 4 \"Typhoon Haishen threatens Korea after battering Japan\". Channel NewsAsia. September 7, 2020. Retrieved September 8, 2020.\n 19. ↑ \"Global Catastrophe Recap September 2020\" (PDF). Aon. October 8, 2020. Archived (PDF) from the original on October 8, 2020. Retrieved October 8, 2020.\n 20. ↑ \"Typhoon Haishen brings strong winds, power outages to Japan\". AlJazeera.com. Retrieved September 7, 2020.\n 21. 1 2 3 \"North Korea dispatches troops to rebuild after Typhoon Haishen\". Nikkei Asian Review. September 8, 2020. Retrieved September 8, 2020.\n 22. ↑ 令和2年台風第10号に関する情報 (in Japanese). Ministry of Agriculture, Forestry and Fisheries. November 2, 2020. Retrieved December 27, 2017.\n 23. 1 2 Travis, Courtney (September 7, 2020). \"Formidable Typhoon Haishen triggers landslides in Japan, deluges South Korea\". AccuWeather. Retrieved February 15, 2021.\n 24. ↑ Helen Regan, Junko Ogura and Jake Kwon (September 6, 2020). \"Japan and the Korean Peninsula brace for second powerful typhoon in a week\". CNN. Retrieved February 16, 2021.\n 25. ↑ \"Typhoon Haishen: four missing in Japan as storm pounds South Korea\". the Guardian. September 7, 2020. Retrieved February 16, 2021.\n 26. ↑ Douty, Adam (September 15, 2020). \"Powerful Typhoon Haishen slams Japan, South Korea\". Accuweather. Retrieved February 16, 2020.\n 27. ↑ 정부, 태풍 '마이삭'·'하이선' 피해 복구비 6천63억원 확정 (in Korean). KBS World. September 29, 2020. Retrieved September 29, 2020.\n 28. ↑ 应急管理部公布2020年全国十大自然灾害 (in Chinese). Ministry of Emergency Management. January 2, 2021. Retrieved January 5, 2020.\n\n\nExternal links\n\nWikimedia Commons has media related to Typhoon Haishen (2020).\n * JMA General Information of Typhoon Haishen (2010) from Digital Typhoon\n * JMA Best Track Data of Typhoon Haishen (2010) (in Japanese)\n * 11W.HAISHEN from the U.S. Naval Research Laboratory",
+        "metadata": {
+          "title": "Typhoon Haishen (2020) - Wikipedia",
+          "og:image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Haishen_2020-09-04_0352Z.jpg/960px-Haishen_2020-09-04_0352Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "900",
+          "og:image:height": "1200",
+          "og:title": "Typhoon Haishen (2020) - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Typhoon Haishen (2020)",
+          "url": "https://en.wikipedia.org/wiki/Typhoon_Haishen_(2020)",
+          "sameAs": "http://www.wikidata.org/entity/Q98819110",
+          "mainEntity": "http://www.wikidata.org/entity/Q98819110",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2020-09-04T23:25:59Z",
+          "dateModified": "2026-09-11T04:15:17Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Haishen_2020-09-04_0352Z.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "Pacific typhoon in 2020"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le typhon Haishen, également connu sous le nom de typhon Kristine aux Philippines, a été le premier super typhon de la saison des typhons du Pacifique 2020. Originaire d'une basse pression près de Guam fin août, il est devenu une tempête tropicale le 1er septembre 2020, puis un typhon et a atteint le statut de super typhon de catégorie 4 avec des vents de 155 mph (250 km/h) le 3 septembre. Le système a ensuite faibli en raison de conditions océaniques défavorables avant de toucher terre le 6 septembre 2020 au Japon et en Corée du Sud en tant que typhon de catégorie 2, affectant également les îles Mariannes, la Corée du Nord et le nord-est de la Chine.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Haishen",
+          "Kristine"
+        ],
+        "LOCATION": [
+          "Mariana Islands",
+          "Japan",
+          "South Korea",
+          "North Korea",
+          "Northeastern China",
+          "Guam",
+          "Philippines"
+        ],
+        "ORGANIZATION": [
+          "JTWC",
+          "JMA",
+          "PAGASA",
+          "IBTrACS"
+        ],
+        "DATE": [
+          "2020",
+          "September 7, 2020",
+          "September 10, 2020",
+          "August 30, 2020",
+          "September 1",
+          "September 2",
+          "September 3",
+          "September 5",
+          "September 6"
+        ],
+        "EVENT": [
+          "Typhoon Haishen",
+          "2020 Pacific typhoon season"
+        ],
+        "OTHER": [
+          "Tropical Cyclone Formation Alert",
+          "Category 4"
+        ]
+      },
+      "score_e5": 0.7521561071374615
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Fiji"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "Saturday night"
+    ],
+    "EVENT": [
+      "Tropical Cyclone Winston"
+    ],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Fiji",
+      "South Pacific Ocean",
+      "New Zealand",
+      "Japan",
+      "Guam"
+    ],
+    "ORGANIZATION": [
+      "JTWC",
+      "IBTrACS",
+      "JMA"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Category 4",
+      "Category 5"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.8250700413196571,
+  "S_ent": 0.2,
+  "S_OOC": 0.5125350206598286,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE",
+    "EVENT",
+    "OTHER"
+  ]
+}

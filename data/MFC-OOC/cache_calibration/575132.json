@@ -1,0 +1,373 @@
+{
+  "id_rumeur": 575132,
+  "id_image": 197635,
+  "caption": "Wouldbe immigrants sit on a fence at the SpanishMoroccan border as they try to enter Melilla",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748108/oluyewo_benchmark/h25xzhodkzenzdgzejsz.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Afghan girls ride donkeys carrying firewood for their home ...",
+      "source": "Alamy",
+      "lien": "https://www.alamy.com/afghan-girls-ride-donkeys-carrying-firewood-for-their-home-in-the-gushta-district-of-nangarhar-province-east-of-kabul-afghanistan-monday-oct-01-2012-ap-photorahmat-gul-image537306694.html",
+      "image_url": "https://c8.alamy.com/comp/2P64C4P/afghan-girls-ride-donkeys-carrying-firewood-for-their-home-in-the-gushta-district-of-nangarhar-province-east-of-kabul-afghanistan-monday-oct-01-2012-ap-photorahmat-gul-2P64C4P.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkFfdJqXw3UQDSlltKYuweRYaJ7t8O3pSLQRtwIsA9RU0e1gnw",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Afghan girls ride donkeys carrying firewood for their home ...",
+        "link": "https://www.alamy.com/afghan-girls-ride-donkeys-carrying-firewood-for-their-home-in-the-gushta-district-of-nangarhar-province-east-of-kabul-afghanistan-monday-oct-01-2012-ap-photorahmat-gul-image537306694.html",
+        "source": "Alamy",
+        "source_icon": "https://serpapi.com/searches/6a8ef82773d17513050a3985/images/XnMFndQHCJ4deL_BrNif4DnqeKS1LZsQqXCiuj7VrME.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkFfdJqXw3UQDSlltKYuweRYaJ7t8O3pSLQRtwIsA9RU0e1gnw",
+        "thumbnail_width": 187,
+        "thumbnail_height": 270,
+        "image": "https://c8.alamy.com/comp/2P64C4P/afghan-girls-ride-donkeys-carrying-firewood-for-their-home-in-the-gushta-district-of-nangarhar-province-east-of-kabul-afghanistan-monday-oct-01-2012-ap-photorahmat-gul-2P64C4P.jpg",
+        "image_width": 900,
+        "image_height": 1300
+      },
+      "webpage": null,
+      "texte_contexte": "Afghan girls ride donkeys carrying firewood for their home in the Gushta district of Nangarhar province, east of Kabul, Afghanistan, Monday, Oct. 01, 2012. AP Photo/Rahmat Gul.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rahmat Gul"
+        ],
+        "LOCATION": [
+          "Afghanistan",
+          "Gushta district",
+          "Nangarhar province",
+          "Kabul"
+        ],
+        "ORGANIZATION": [
+          "Alamy",
+          "AP"
+        ],
+        "DATE": [
+          "October 01, 2012"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "donkeys",
+          "firewood"
+        ]
+      },
+      "score_e5": 0.7305922473274831
+    },
+    {
+      "titre": "Overcoming the Overlooked: The Role of Nomadic Communities ...",
+      "source": "Shot@Life",
+      "lien": "https://shotatlife.org/2025/04/17/overcoming-the-overlooked/",
+      "image_url": "https://shotatlife.org/wp-content/uploads/2025/04/image-3.png",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqwU_s04mKH-FXv1laNVT5_mwvCMDxSkkaNPwsCN2i6LE759y",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Overcoming the Overlooked: The Role of Nomadic Communities ...",
+        "link": "https://shotatlife.org/2025/04/17/overcoming-the-overlooked/",
+        "source": "Shot@Life",
+        "source_icon": "https://serpapi.com/searches/6a8ef82773d17513050a3985/images/QhYsCoOzg3IH_FkBbxiNq7dxnQxF8Lltk5eu2ls6iL0.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqwU_s04mKH-FXv1laNVT5_mwvCMDxSkkaNPwsCN2i6LE759y",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://shotatlife.org/wp-content/uploads/2025/04/image-3.png",
+        "image_width": 344,
+        "image_height": 574
+      },
+      "webpage": null,
+      "texte_contexte": "Overcoming the Overlooked: The Role of Nomadic Communities",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Shot@Life"
+        ],
+        "DATE": [
+          "2025/04/17"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Nomadic Communities"
+        ]
+      },
+      "score_e5": 0.7620984319140974
+    },
+    {
+      "titre": "The secret life of Afghans under the Taliban",
+      "source": "The Economist",
+      "lien": "https://www.economist.com/1843/2022/12/05/the-secret-life-of-afghans-under-the-taliban",
+      "image_url": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/media-assets/image/1843_20221201_AFGHAN-11.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRXAM5-t2khkqQ_W4VB9oWF3FU0nJEg9QEXLeWz_Y8XrpG5tM6",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "The secret life of Afghans under the Taliban",
+        "link": "https://www.economist.com/1843/2022/12/05/the-secret-life-of-afghans-under-the-taliban",
+        "source": "The Economist",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAG1BMVEXjEgv____nMCrxiYXua2fqTUj74eD4w8L0pqNSsaqGAAAAd0lEQVQ4jd3SSwrAIAwEUJ189P4nrtoiFqaGLttZCXkYHEzpV6l5jRKh3gZFAROnYNyB03IgDVxHj4BaAHgmqNgD5D1A2QEfNW0AzMyDFckikAqfv-ihr2FbFsCrWIDQXTIbQHYy115RbT1o-zoElNuXe3rpV3MALRMBh7U_EZUAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRXAM5-t2khkqQ_W4VB9oWF3FU0nJEg9QEXLeWz_Y8XrpG5tM6",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/media-assets/image/1843_20221201_AFGHAN-11.jpg",
+        "image_width": 899,
+        "image_height": 1349
+      },
+      "webpage": null,
+      "texte_contexte": "The secret life of Afghans under the Taliban",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Economist",
+          "Taliban"
+        ],
+        "DATE": [
+          "2022/12/05"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7602276652067196
+    },
+    {
+      "titre": "Jeder ist hier verdächtig\": Auf dem Dingo im Staub ...",
+      "source": "Ntv",
+      "lien": "https://www.n-tv.de/politik/Auf-dem-Dingo-im-Staub-Afghanistans-article7384936.html",
+      "image_url": "https://www.n-tv.de/img/3796150/1349344439/Img_16_9/400/image.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3l2AdaK09mQtznib6FyZzJLxB7tcnb3gnbEYF0xZZ61nRAvr6",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Jeder ist hier verdächtig\": Auf dem Dingo im Staub ...",
+        "link": "https://www.n-tv.de/politik/Auf-dem-Dingo-im-Staub-Afghanistans-article7384936.html",
+        "source": "Ntv",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEXjHDf____xjpvqVWnnOFD4xs398fPoR13lKkTznKj84-b61NrucYLsY3b1qrT2uMGISjwGAAAAf0lEQVQ4je3RSQ6AIAwF0N9BAXG4_20tg4kDmrhw5180pLykDQB_WvEij_dMxN8AyulDAvlkvWFvqcZVQBOcVb0A2cCMQNQdRgCxAMaUZtiE8QS6DaTLUBa5AVzHtEFk1bLxDbCKxWpEC2gBIx1WBCR9kRPxUGbW3PCPT_7ndVZIDgIqvOrA5AAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3l2AdaK09mQtznib6FyZzJLxB7tcnb3gnbEYF0xZZ61nRAvr6",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.n-tv.de/img/3796150/1349344439/Img_16_9/400/image.jpg",
+        "image_width": 225,
+        "image_height": 400
+      },
+      "webpage": null,
+      "texte_contexte": "Jeder ist hier verdächtig\": Auf dem Dingo im Staub",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "Ntv"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Dingo"
+        ]
+      },
+      "score_e5": 0.7444351585727537
+    },
+    {
+      "titre": "An Afghan burqa-clad woman with a child ride a donkey along ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/detail/news-photo/an-afghan-burqa-clad-woman-with-a-child-ride-a-donkey-along-news-photo/1840165545?slot=25",
+      "image_url": "https://media.gettyimages.com/id/1840165545/photo/afghanistan-lifestyle.jpg?s=594x594&w=gi&k=20&c=j2enJhkv8I6SPEopagRYFImYdMrbVmIKpRKhE_DZcFs=",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMXXOF6ptfFSI_rg8WZ3DyEWQtjmKkz3dKHdtihq18HyzNhwcW",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "An Afghan burqa-clad woman with a child ride a donkey along ...",
+        "link": "https://www.gettyimages.com/detail/news-photo/an-afghan-burqa-clad-woman-with-a-child-ride-a-donkey-along-news-photo/1840165545?slot=25",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUzMzP___9xcXH5-fnt7e05OTnl5eXz8_Obm5vT09NQUFDJycmGhoZ4eHi5ubnZ2dlFRUVVVVWkpKTBwcFlZWWhoaFsbGyqqqqwsLBbW1uOjo4_Pz-4uLiAgIBhYWFaWlpkXRWsAAABAElEQVQ4jb2S2ZaCMAyGu9gFWoSCFgYQ3v8tJWEUpqk3XkwuODn5v5KVsX-18l4bbpxXLDrDqW75r-kevkQf-F9L9QqC8mo7VG38SYF6C1_C5tzk5t1JggbeeXShAk2ABYBwJFMpECAa0R2zgDJb1IE3aaiGpGAtvHOiFFAtHygw1acZyJICrCkOvcrozJuXPOfe4yZq6x_VQho42pyy0m4PADoRmk_A-q7QaNeLTBrLz6ZvlBCXMyHXRFZXPIe2nQuJxJwAuOO9wmmUmYWb9zmwfS8pAH9tX-lg6F0C4Krmagnl6tFP2xDJTY-ky6jPYxB0DEyJvoBRmGKIGfl7ewLKAgiUEUNA0gAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMXXOF6ptfFSI_rg8WZ3DyEWQtjmKkz3dKHdtihq18HyzNhwcW",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.gettyimages.com/id/1840165545/photo/afghanistan-lifestyle.jpg?s=594x594&w=gi&k=20&c=j2enJhkv8I6SPEopagRYFImYdMrbVmIKpRKhE_DZcFs=",
+        "image_width": 396,
+        "image_height": 594
+      },
+      "webpage": null,
+      "texte_contexte": "An Afghan burqa-clad woman with a child ride a donkey along",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "donkey",
+          "burqa"
+        ]
+      },
+      "score_e5": 0.7156760322191805
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Spain",
+      "Morocco",
+      "Melilla"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "immigrants"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Rahmat Gul",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gushta district",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nangarhar province",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kabul",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alamy",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 01, 2012",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "donkeys",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "firewood",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shot@Life",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025/04/17",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Nomadic Communities",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Economist",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taliban",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2022/12/05",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ntv",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Dingo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "burqa",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:44:34.259449"
+  }
+}

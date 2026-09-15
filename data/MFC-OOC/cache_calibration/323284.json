@@ -1,0 +1,855 @@
+{
+  "id_rumeur": 323284,
+  "id_image": 217785,
+  "caption": "The Honey Soother cocktail one of the recipes you ll receive on a tour of Jamaica s Appleton Estate",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756782/oluyewo_benchmark/jdlu87uhwyv9pnkytyxk.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Minus5 Ice Bar Vegas/New York City - WESH",
+      "source": "WESH",
+      "lien": "https://www.wesh.com/article/minus5-ice-bar-vegas-new-york-city/4329987",
+      "image_url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wesh/25621876-25621876.jpg?resize=1200:*",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqk8fjFyEh_3iV8nhWXGJ2PN98izfEo_w16QiYl_Ept06PH3wB",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Minus5 Ice Bar Vegas/New York City - WESH",
+        "link": "https://www.wesh.com/article/minus5-ice-bar-vegas-new-york-city/4329987",
+        "source": "WESH",
+        "source_icon": "https://serpapi.com/searches/6a8f00ef9a1f2c15a6a71026/images/_Z1DkRsi8BuEzAr_ooh51h_ItUwFigzu5NS0CTYmCvQ.jpeg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqk8fjFyEh_3iV8nhWXGJ2PN98izfEo_w16QiYl_Ept06PH3wB",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wesh/25621876-25621876.jpg?resize=1200:*",
+        "image_width": 800,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Minus5 Ice Bar Vegas/New York City\n\nUpdated: 12:00 AM EDT Apr 23, 2014\n\nEditorial Standards ⓘ\n\nKayla Becker\n\nMinus5 Ice Bar is one of two ice bars on International Drive. Check out these images of the Las Vegas and New York City locations.",
+        "metadata": {
+          "fb:app_id": "154212591255637",
+          "article:publisher": "https://www.facebook.com/wesh2news",
+          "description": "Minus5 Ice Bar is one of two ice bars on International Drive. Check out these images of the Las Vegas and New York City locations.",
+          "keywords": "Ice Bar, Minus5",
+          "news_keywords": "Ice Bar, Minus5",
+          "sailthru.author": "Kayla Becker",
+          "author": "Kayla Becker",
+          "title": "Minus5 Ice Bar Vegas/New York City",
+          "og:title": "Minus5 Ice Bar Vegas/New York City",
+          "og:description": "Minus5 Ice Bar is one of two ice bars on International Drive. Check out these images of the Las Vegas and New York City locations.",
+          "og:url": "https://www.wesh.com/article/minus5-ice-bar-vegas-new-york-city/4329987",
+          "og:site_name": "WESH",
+          "og:locale": "en_US",
+          "og:image": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wesh/25621876-25621876.jpg?crop=1xw%3A0.84375000000000000xh%3Bcenter%2Ctop&resize=1200%3A*",
+          "og:image:width": "1200",
+          "og:image:height": "800",
+          "og:image:alt": "Minus5 Ice Bar Vegas/New York City",
+          "og:type": "article",
+          "article:published_time": "2014-04-23T04:00:00Z",
+          "article:modified_time": "2022-06-03T23:15:08.639579Z",
+          "twitter:title": "Minus5 Ice Bar Vegas/New York City",
+          "twitter:description": "Minus5 Ice Bar is one of two ice bars on International Drive. Check out these images of the Las Vegas and New York City locations."
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.wesh.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Orlando My Way",
+              "item": "https://www.wesh.com/orlando-my-way"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Minus5 Ice Bar Vegas/New York City",
+              "item": "https://www.wesh.com/article/minus5-ice-bar-vegas-new-york-city/4329987"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Minus5 Ice Bar est l'un des deux bars de glace situés sur International Drive, avec des images présentées des emplacements de Las Vegas et de New York City.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kayla Becker"
+        ],
+        "LOCATION": [
+          "Las Vegas",
+          "New York City",
+          "International Drive"
+        ],
+        "ORGANIZATION": [
+          "WESH",
+          "Minus5 Ice Bar"
+        ],
+        "DATE": [
+          "Apr 23, 2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7110752101178479
+    },
+    {
+      "titre": "Frozen Fun For Summer | Bar & Restaurant",
+      "source": "Bar & Restaurant News",
+      "lien": "https://www.barandrestaurant.com/operations/frozen-fun-summer",
+      "image_url": "https://qtxasset.com/quartz/qcloud1/media/image/files/nightclub/nodes/2014/8626/Minus5.png",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfrJMpmccvCEm_Aqmh4FuUg5B5-r7uNOwDDSdXfEHCn24TCsR5",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Frozen Fun For Summer | Bar & Restaurant",
+        "link": "https://www.barandrestaurant.com/operations/frozen-fun-summer",
+        "source": "Bar & Restaurant News",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABxElEQVRYhe3UO2hUQRQG4C-7iRBlEZUE4wNFMD4wpLARGxXsIohdEBSsfJQ2VjYWljaSxsJCOwsLWyH4ACsbERUjopBoiG_diEQ3rsWchHi9u1iojfPDsPfMzvznP68hIyMj439HtWSvCyuxHu_x_V8K6sJJPMAdLP_bDisFu4FrmEG31tFXsQP7sTfO_hEBTbzA5_iGJVhcODeAQdxEL3b-ho_OEn86W1xqhtPj2I1FuIArmMUyfMIHTJfwVLEV-_ARz3EM1zFiQWbbCegN8nM4jfOYwG3cD2FDUoZuYDNWYxyTOIITeIx78f-ryELbxu7GLakRV8TecIg6G_YqnMJFrIu9bTiD_rDX4mkIGkDfAr55_FKTFhiXGrMPS3FQKsdlHEYNddzFWNz5KkX6JNYk3haJW5Wgo2DX4uwbKcImnsXqkVI9JpWmyNPQJuVlGajEqmFN_B6IiEbxRSrB3OhdlfpgCC9LeColAc2j-BJWcCjIprEBR6WZH8ElvMZG7JGmYXs4npXGsY53wbMrhH6TstMoCigq65Ce4J4gqmOL1L2PIgukF7M_BExJpahikzR2E3Fv7v2YwcMQkpGRkZHxE34A6jhiR1-3BuwAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfrJMpmccvCEm_Aqmh4FuUg5B5-r7uNOwDDSdXfEHCn24TCsR5",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://qtxasset.com/quartz/qcloud1/media/image/files/nightclub/nodes/2014/8626/Minus5.png",
+        "image_width": 640,
+        "image_height": 960
+      },
+      "webpage": {
+        "text": "Frozen Fun For Summer\n\nIf you have kids, then you know Frozen has been the big movie hit this year, but as the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operators. Rolling out frozen drinks, both classic and updated, using top of the line equipment and products is a must. And customers are asking for them.\n\nPerhaps the ultimate in ice is Minus5 Ice Bar, which has two locations in Las Vegas, one in New York and one in Orlando, Fla. Everything from the walls and the bar to the seats and the glasses are made from ice, so it stands to reason that the drinks are frozen, too.\n\n\nMinus5 Cocktails\n\nTheir most popular cocktails (costing $10 to $12) are:\n\n * The Freezing Apple (vodka, sour apple pucker, and sweet and sour mix)\n * The Iceberg (grape vodka, triple sec and sweet and sour mix)\n * The Avalanche (vodka and pineapple juice)\n * The Ice man (coconut and pineapple with raspberry vodka), which is like a raspberry piña colada\n * The FroCinn (cinnamon vodka, mango, pineapple, grape and orange juices).\n * The SnowFlake (cherry vodka, peach schnapps, white cranberry juice and orange juice). This is a very summery cocktail, yet despite this it’s well-liked in the wintry atmosphere of Minus5.\n\nSince the temperature inside Minus5 is 23ºF, no blender is used here. “Because it’s cold the juice pours like a slush. It’s as close as you can get to a frozen cocktail,” says Rupert King, general manager of the Monte Carlo Las Vegas bar. “And the drinks freeze if you don’t drink them fast enough,” he adds. “Our drinks come in the rocks rather than on the rocks.”\n\nThe bars’ seven frozen cocktails constitute about 80% of the drinks the bars serve, and many new guests to the bars ask for them specifically. “They have this cultish following,” King explains. “Everyone drinks these; they’re coming in for the experience.”\n\nFrozen beverages are more seasonal at Boxwood Tap + Grill in Dallas, Texas. “As soon as it starts warming up customers think patios and nice frozen drinks,” says bar manager Shawn Egerton.\n\nBoxwood has three frozen drink machines, all top-of-the-line. Two machines are inside and one is outside and they’re typically turned on as soon as the weather turns in April.\n\nThe bar offers two frozen drinks but rotates them seasonally and for special events. There’s the frozen Cuba Libre “with Bacardi 151 to give it a manly kick,” Egerton says, and a BTG Rita. For the latter the bar uses Sauza Blanco—100% blue agave tequila.\n\nWomen are the big market for these drinks, Egerton says, because they “seem to be very open minded with new drink trends and always interested in trying new things that sound fun and refreshing.”\n\nBut for everyone frozen drinks seem to signal summer. “It’s about the feeling of what these drinks give you,” Egerton adds. “When you see the machine and see the ice you want that cold refreshing beverage.”\n\nThe drinks cost $7 or $5 during happy hour, with 16% food costs (though up to 27% during happy hour).\n\nThe cocktails at Sycamore Den in San Diego are $9 and this 1970s-style cocktail lounge offers beverages from that decade, including a Poor Reds slushie cocktail, which like Boxwood’s drinks, comes out of a machine. It’s made with Jenever (Dutch gin), Galliano, Crème de cacao, Milk, Rx (local sarsparilla bitters) and cinnamon, and served in an old-fashioned glass.\n\n\nDovetail Julep from Sycamore Den\n\nPour Reds is a spin on the popular 1970s cocktail, the Golden Cadillac, which was created by Poor Red's BBQ in El Dorado, Calif. It’s served year round, thanks to San Diego’s mild climate.\n\n“It's nice to have [frozen drinks] as an alternative cocktail source,” says cocktail curator Eric Johnson. “Our patrons love trying new cocktails, and we enjoy experimenting with different ways of preparation.”\n\nSycamore Den also serves a Dovetail Julep, which includes shaved iced so is more chunky than the Pour Red. This is a really summery drink, says Johnson and  contains gin, Cognac, a sugar cube, mint, and peach bitters. “It’s like an old fashioned with mint and not too sweet for men,” he says. “We use snow (ground down ice) so it turns into a slushie.”\n\nOne thing these frozen drinks all have in common is they’re fun to drink and order. A company that’s also having fun with frozen drinks is Monkey Shoulder whisky, which is developing frozen drinks with its triple malt blended whisky, which is richer than a blended whiskey, says Freddy May, ambassador for the brand.\n\n\nThe Monkey Colada from Monkey Shoulder\n\nA popular drink it’s created is the Monkey Shoulder Whiskey margarita, which uses half lime and half lemon juice, the whiskey and agave nectar. There’s also the Monkey Colada featuring pineapple puree, coconut liquor, coconut water and fresh lime juice.\n\n“We’ve moved away from the cheesy frozen drinks of the 80s but we’re also moving away from the uber serious mixologists,” May says. “People are realizing you can have fun with drinks.”",
+        "metadata": {
+          "title": "Frozen Fun For Summer | Bar &amp; Restaurant",
+          "description": "If you have kids, then you know Frozen has been the big movie hit this year, but as the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operator",
+          "keywords": "Drink development,Cocktail ideas,Beverage trends,Operations,Operations",
+          "og:site_name": "Bar & Restaurant",
+          "og:type": "article",
+          "og:url": "https://www.barandrestaurant.com/operations/frozen-fun-summer",
+          "og:title": "Frozen Fun For Summer",
+          "og:description": "If you have kids, then you know Frozen has been the big movie hit this year, but as the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operator | As the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operators. Rolling out frozen drinks, both classic and updated, using top of the line equipment and products is a must.",
+          "article:author": "Amanda Baltazar",
+          "article:section": "Operations",
+          "article:tag": "Operations",
+          "article:published_time": "2014-07-01T01:00:00-0400",
+          "twitter:title": "Frozen Fun For Summer",
+          "twitter:description": "If you have kids, then you know Frozen has been the big movie hit this year, but as the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operator | As the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operators. Rolling out frozen drinks, both classic and updated, using top of the line equipment and products is a must.",
+          "parsely-title": "Frozen Fun For Summer",
+          "parsely-author": "Amanda Baltazar",
+          "gtm-keywords": "Drink development,Cocktail ideas,Beverage trends"
+        },
+        "jsonld": {
+          "@context": "https://schema.org/",
+          "@graph": {
+            "@type": "NewsArticle",
+            "headline": "Frozen Fun For Summer ",
+            "articleSection": "Operations",
+            "keywords": [
+              "Drink development",
+              "Cocktail ideas",
+              "Beverage trends",
+              "Operations"
+            ],
+            "description": "As the weather gets warmer all thoughts are turning more to frozen beverages for bar and nightclub operators. Rolling out frozen drinks, both classic and updated, using top of the line equipment and products is a must. ",
+            "datePublished": "2014-07-01T05:00:00",
+            "isAccessibleForFree": true,
+            "dateModified": "2014-07-02T17:39:31Z",
+            "author": [
+              [
+                {
+                  "@type": "Person",
+                  "name": "Amanda Baltazar",
+                  "url": "https://www.barandrestaurant.com/person/amanda-baltazar"
+                }
+              ]
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Bar and Restaurant",
+              "url": "https://www.barandrestaurant.com"
+            },
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.barandrestaurant.com/operations/frozen-fun-summer"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Minus5 Ice Bar possède deux emplacements à Las Vegas, un à New York et un à Orlando en Floride, où tout est fait de glace (murs, bar, sièges, verres) et où la température est de 23ºF, proposant des cocktails glacés spécifiques sans mixeur. D'autres bars comme Boxwood Tap + Grill à Dallas, au Texas, proposent également des boissons glacées saisonnières.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rupert King",
+          "Shawn Egerton"
+        ],
+        "LOCATION": [
+          "Las Vegas",
+          "New York",
+          "Orlando",
+          "Dallas",
+          "Texas"
+        ],
+        "ORGANIZATION": [
+          "Bar & Restaurant News",
+          "Minus5 Ice Bar",
+          "Monte Carlo Las Vegas",
+          "Boxwood Tap + Grill",
+          "Bacardi",
+          "Sauza Blanco"
+        ],
+        "DATE": [
+          "April"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Frozen",
+          "Freezing Apple",
+          "Iceberg",
+          "Avalanche",
+          "Ice man",
+          "FroCinn",
+          "SnowFlake",
+          "Cuba Libre",
+          "BTG Rita"
+        ]
+      },
+      "score_e5": 0.7098337460946711
+    },
+    {
+      "titre": "Viva New Vegas! | HILUXURY",
+      "source": "HILuxury",
+      "lien": "https://hiluxury.com/voyage/viva-new-vegas",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62412f5c16c66f703612005a/1659450435461-0O1U3H7FC6J2CVQ6CP3X/ICEBAR+1.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyATAiVjEZ9F90_suh_vdYxRQYWDkbUEi3hXm_WOxBQPXCAVtL",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Viva New Vegas! | HILUXURY",
+        "link": "https://hiluxury.com/voyage/viva-new-vegas",
+        "source": "HILuxury",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEUANV4ANV____8ANF4AM10AKVgAK1kAMl3x9ffs8POLmar4-vsAMFtugpcAJ1YcQWd4iZwAIFMAJFUfRms6VHQAHlEsTW9PaoZKYH1HY4EAGk_f5OlgeZMWQGfW3uStt8OTorNacYu9xs9lfpaaqbnk6u7I0NkAEk07WXiwucQeSm9_kqYvU3WvnXvQAAAByUlEQVQ4jX2TDXerIAyGg1DZelEL-HGtgM7Vznb7_79vBMXand2b03ISeZqkbwwAEALEn8uB0eYHCwGe0dk99Q_Xy-16--WaFgPKGOeccQC-mo8ZY2smoLYsdVHUpSZlWaCzhDVbC1LbtC9JMjQ1NM0f77Tta5L0TcvXSkCF8sApZyBSD2S58sBRMbL1SA8IpNgDAmmOwCF0HvqH3wES_yI8APYMRLViCfIMLPLsSuScC_EjwypfAI7zX2_PQBxDAIa59bYvEUfjyV9LRJl2OpBnHfCKC3joQAj7qQMr38Q_dcD8wiDwKPEM-Nzn8T8ZfH-qTRqB05QIKEaXaSoZpinSyiQBKN6N66bBlGBM5x0Mu4sxp3HqphZLCC4rmXJOmZCySrkIoRB5JaVAJbTVFrTWYP2n9m6hqUZfk8L6e9Wp69vHa9Gdi07qeVJwuimd3S7ZxO8ol3L82jSjdWfrpFb9p8x6Zd_7YT72nAYgH9ub0e7DukpTOwUg683AnMQWcncYmy6tXfo52ruF42Ueuc76-kpcHpZDQ-H7sdjmF1ggNdd3ZnVa-0bDzBllwAAP_6XB2cJtP9fRx0WG3aov73_ckvAmxm0P9g1wVyNxAe1J5QAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyATAiVjEZ9F90_suh_vdYxRQYWDkbUEi3hXm_WOxBQPXCAVtL",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://images.squarespace-cdn.com/content/v1/62412f5c16c66f703612005a/1659450435461-0O1U3H7FC6J2CVQ6CP3X/ICEBAR+1.jpg",
+        "image_width": 1667,
+        "image_height": 2500
+      },
+      "webpage": {
+        "text": "Viva New Vegas!\n\nLocal visitors to Hawai‘i’s ninth island already know the routine: Stay at the California Hotel, eat oxtail soup at Market Street Café, and gamble on Fremont Street. But if you haven’t visited Las Vegas lately, don’t write it off as the same old (sin) city. New developments and chic hotspots have been popping up all over town in recent years, transforming Vegas into a surprisingly sophisticated destination filled with eclectic, exciting attractions.\n\nConsider Omega Mart, an otherworldly “supermarket” stocked with surreal custom products including “Who Told You This Was Butter?” air freshener, “nut-free salted peanuts” (an 8-ounce container of salt), and lavender and lemon sparkling water called Gender Fluid. Omega Mart is the latest immersive experience by renowned arts collective Meow Wolf, known for creating elaborate and often mind-bending interactive installations by international and local artists in Sante Fe, Denver, and now Vegas. Here, guests are welcome to simply soak up the imaginative artwork (Tattooed chicken! Dehydrated water!) or locate secret portals that lead to alien factories within Omega Mart and otherworldly spaces. When the advertisements say “you have no idea what’s in-store for you,” believe it.\n\nOmega Mart is located inside AREA15, a 200,000-square-foot entertainment complex that also houses Oddwood, a neon bar lit up by a 25-foot-tall maple tree elaborately lined with LED lights; Wink World, a funhouse of psychedelic art and sound designed by Blue Man Group co-creator Chris Wink; and the Lost Spirits Distillery, which offers a guided tour through themed tasting rooms modeled after traveling carnivals and the steampunk alleys of 19th-century London. Like a cross between the Great Gatsby and Willy Wonka, Lost Spirits is a playground of submarines and speakeasies, where chandeliers sway in time to the sounds of Leonard Cohen crooning overhead as live magicians, holograms, circus performers and snake charmers perform for passersby.\n\nAs if not to be outdone, shiny Resorts World Las Vegas also opened its doors amid the pandemic, nearly a decade after first being announced in 2013. This 88-acre ultra-luxe resort and casino on the north end of the Strip is Hilton’s largest property worldwide; come for attractions like the 50-foot mirrored sphere projecting digital light shows on the main corridor but stay for tucked away attractions — such as the Here Kitty Kitty Vice Den, where the walls are adorned with faded Chinese advertisements and neon tigers. This den’s drinks are as playful as the decor, with cocktails such as the spicy Hui Kitty Kitty, a mix of shochu, white port, beef bone (you read that right), and serrano pepper slices. A pseudo-Vietnamese pho in cocktail form, why not?\n\nFor a more chill drinking experience, head further down the Strip to the minus5 ICEBAR at the LINQ Promenade to enjoy beverages in a bar built entirely from 100 tons of ice shipped in from Canada and Minnesota. At 23 degrees Fahrenheit, this is the only bar in Vegas where your beer or cocktail (served in an ice glass, naturally) gets colder over time; an impressive feat, considering you’re still in the middle of the Mojave Desert.\n\nSee that desert for yourself nearby aboard LINQ’s High Roller, the tallest observation wheel in North America that climbs to 550 feet above the Strip over the course of a 30-minute spin. Those leery of heights who are looking to take the edge off may opt for the High Roller’s happy half hour package, where certain pods are fitted with a bartender serving unlimited drinks for a nominal upcharge. (Talk about raising the bar.)\n\nLook no further for an example of how this “New” Vegas has evolved over the past few years than the Sahara Hotel and Casino. The Sahara may be the second oldest hotel on the Strip (the Flamingo takes the top spot) but step inside today — across the gleaming marble and mosaic lobby, through the sprawling casino floor backlit with vibrant red tones, and past the glass lounges and lobby bars that glow gold — and you’ll realize the old adage is true: This is not your father’s Sahara.\n\nActually, not your grandfather’s Sahara may be more accurate. This 70-year-old resort doesn’t look a day over three years old, which is when the Sahara returned to the Strip after first closing in 2011 before undergoing a $150 million renovation and, ultimately, becoming the Sahara once more.\n\n“Las Vegas went through many years where it was just implosion after implosion,” says Rachel Hunt, Sahara’s vice president of marketing. “Too often, the idea is that older properties are never going to be as good as they once were, so why not start new? But there’s history here. The question for our design team was, how do we make things even better?”\n\nAt the Sahara, history is important. Originally built in 1952, this “Jewel of the Desert” helped usher in the Golden Era of Las Vegas, transforming the Strip from a scattering of mostly Western-themed roadside motels and gambling halls to a lavish vacation destination with multistoried resorts and casinos. With its Olympic-size pool (the first in Vegas) and Moroccan resort atmosphere, the Sahara attracted Hollywood stars, such as Cary Grant and Grace Kelly, and musicians including Duke Ellington, Elvis Presley, and The Beatles. The Sahara was one of the hotels that Frank Sinatra, Sammy Davis Jr., and the rest of the Rat Pack attempted to rob in the original Ocean’s 11; in reality, Sinatra and Dean Martin could often be found in the hotel’s Casbar Lounge, watching their pal Don Rickles perform.\n\nToday, Casbar Lounge is still going strong, serving cocktails like the Mojave Margarita, made with Espolòn Reposado tequila, Giffard apricot brandy, prickly pear purée, agave syrup and fresh lime juice, all smoked with mesquite. Call it a new twist on an old classic. But in Las Vegas, what isn’t?",
+        "metadata": {
+          "title": "Viva New Vegas! | HILUXURY",
+          "og:site_name": "HILUXURY",
+          "og:title": "Viva New Vegas! | HILUXURY",
+          "og:latitude": "40.7207559",
+          "og:longitude": "-74.0007613",
+          "og:url": "https://hiluxury.com/voyage/viva-new-vegas",
+          "og:type": "article",
+          "og:description": "Welcome to a sophisticated, subversive Sin City like you’ve never experienced.",
+          "og:image": "http://static1.squarespace.com/static/62412f5c16c66f703612005a/6242a74e2ce9c340bd53d969/62e933962d79f40cee2fde4a/1745638826080/Vegas_Hi-res_GettyImages-1150412852.jpg?format=1500w",
+          "og:image:width": "1500",
+          "og:image:height": "1000",
+          "twitter:title": "Viva New Vegas! | HILUXURY",
+          "twitter:description": "Welcome to a sophisticated, subversive Sin City like you’ve never experienced.",
+          "description": " Welcome to a sophisticated, subversive Sin City like you’ve never experienced. "
+        },
+        "jsonld": {
+          "url": "https://hiluxury.com",
+          "name": "HILUXURY",
+          "description": "",
+          "image": "//images.squarespace-cdn.com/content/v1/62412f5c16c66f703612005a/b8696202-9a94-4638-919c-5eb912c26a5b/HILuxury+logo+2022_w+TAG.png",
+          "@context": "http://schema.org",
+          "@type": "WebSite"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Présentation de divers attraits et nouveaux hotspots à Las Vegas, incluant Omega Mart (par Meow Wolf dans AREA15), Oddwood, Wink World, Lost Spirits Distillery, Resorts World Las Vegas avec le Here Kitty Kitty Vice Den, et le minus5 ICEBAR au LINQ Promenade construit à partir de 100 tonnes de glace.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Chris Wink",
+          "Leonard Cohen",
+          "Great Gatsby",
+          "Willy Wonka"
+        ],
+        "LOCATION": [
+          "Hawai‘i",
+          "Las Vegas",
+          "Fremont Street",
+          "Sante Fe",
+          "Denver",
+          "London",
+          "Canada",
+          "Minnesota"
+        ],
+        "ORGANIZATION": [
+          "California Hotel",
+          "Market Street Café",
+          "Meow Wolf",
+          "Blue Man Group",
+          "Lost Spirits Distillery",
+          "Resorts World Las Vegas",
+          "Hilton",
+          "minus5 ICEBAR"
+        ],
+        "DATE": [
+          "2013"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Omega Mart",
+          "AREA15",
+          "Oddwood",
+          "Wink World",
+          "Here Kitty Kitty Vice Den",
+          "LINQ Promenade"
+        ]
+      },
+      "score_e5": 0.7132870820097096
+    },
+    {
+      "titre": "minus 5 ice lounge | Echostains Blog",
+      "source": "Echostains Blog - WordPress.com",
+      "lien": "https://echostains.wordpress.com/tag/minus-5-ice-lounge/",
+      "image_url": "https://echostains.wordpress.com/wp-content/uploads/2009/07/minus5_glasses-3_1.jpg?w=584",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm60sQkMymZENy4FBPXW3yj6rUmIF1hnymi2edJo09UN7JSBDY",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "minus 5 ice lounge | Echostains Blog",
+        "link": "https://echostains.wordpress.com/tag/minus-5-ice-lounge/",
+        "source": "Echostains Blog - WordPress.com",
+        "source_icon": "https://serpapi.com/searches/6a8f00ef9a1f2c15a6a71026/images/2rMAE381QNaeRQ9uQnvfY5ee18lrZvBgTldNi5p1DCU.jpeg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm60sQkMymZENy4FBPXW3yj6rUmIF1hnymi2edJo09UN7JSBDY",
+        "thumbnail_width": 185,
+        "thumbnail_height": 273,
+        "image": "https://echostains.wordpress.com/wp-content/uploads/2009/07/minus5_glasses-3_1.jpg?w=584",
+        "image_width": 271,
+        "image_height": 400
+      },
+      "webpage": {
+        "text": "minus 5 ice lounge\n\nJust a quick one before going out.  Spent most of the day painting (as in painting and decorating).  All white paint in my hair (at least I THINK it’s white paint…lol!).  The colour scheme? not mine I may add….white paint on white paint.  I’ve got that snow blindness or whatever you call it.  Antarctic. \n\nMinus 5 bar\n\n I’d love to go to the Antarctic!  The nearest I got was the Minus 5 Bar in the Mandalay Hotel, Las Vegas.  It’s a strange place to say the least.  You pay your money and are issued with a  parka and padded mittens and boots . When you go a bit further along you are given a bit of a talk about the bar…finally you are allowed into the inner sanctum.   A bar made of ICE! Thats right, actually made from ice! \n\nCool drinks, shaken not stirred\n\nthere are ice sculptures, ice seats (with rugs on)…even the glasses are made out of ice!  How cool is that?  Obviously VERY lol!\n\nUs in the Minus 6 Ice Lounge Las Vegas\n\nMinus 5 website HERE\n\nHERE’S some more info about it",
+        "metadata": {
+          "title": "minus 5 ice lounge | Echostains Blog",
+          "og:type": "website",
+          "og:title": "minus 5 ice lounge – Echostains Blog",
+          "og:url": "https://echostains.wordpress.com/tag/minus-5-ice-lounge/",
+          "og:site_name": "Echostains Blog",
+          "og:image": "https://echostains.wordpress.com/wp-content/uploads/2025/02/image-1.jpg?w=200",
+          "og:image:width": "200",
+          "og:image:height": "200",
+          "og:locale": "en_US",
+          "fb:app_id": "249643311490",
+          "description": "Posts about minus 5 ice lounge written by echostains"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Visite du Minus 5 Bar situé dans le Mandalay Hotel à Las Vegas, un bar fait entièrement de glace où les clients reçoivent une parka, des moutes matelassées et des bottes, et où les boissons et les verres sont également en glace.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Las Vegas",
+          "Antarctic"
+        ],
+        "ORGANIZATION": [
+          "Minus 5 Bar",
+          "Mandalay Hotel"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Minus 6 Ice Lounge"
+        ]
+      },
+      "score_e5": 0.7094412620442612
+    },
+    {
+      "titre": "Chill out at ice bars and hotels",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/picture-gallery/travel/destinations/2013/12/27/chill-out-at-ice-bars-and-hotels/4205355/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/d7695588b9b9a8ca92a86e8768e1f95b789301bd/c=0-214-2100-1399/local/-/media/USATODAY/USATODAY/2013/12/26//1388070715001-Minus5-Ice-Bar-Cocktails.jpg?width=700&height=395&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO6I5s1WemDDhOEtyQnMDpbuzF8iO-SeYyUHIcF0ZS955aqdt3",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Chill out at ice bars and hotels",
+        "link": "https://www.usatoday.com/picture-gallery/travel/destinations/2013/12/27/chill-out-at-ice-bars-and-hotels/4205355/",
+        "source": "USA Today",
+        "source_icon": "https://serpapi.com/searches/6a8f00ef9a1f2c15a6a71026/images/WwfDgidPBOVRZnqN8JNFhGBuy2ANRv0_bxz7xayFR8A.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO6I5s1WemDDhOEtyQnMDpbuzF8iO-SeYyUHIcF0ZS955aqdt3",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.usatoday.com/gcdn/-mm-/d7695588b9b9a8ca92a86e8768e1f95b789301bd/c=0-214-2100-1399/local/-/media/USATODAY/USATODAY/2013/12/26//1388070715001-Minus5-Ice-Bar-Cocktails.jpg?width=700&height=395&fit=crop&format=pjpg&auto=webp",
+        "image_width": 395,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Chill out at ice bars and hotels\n\nONLY AT USA TODAY:\nNewsletters For Subscribers Real Estate From the Archives USA TODAY PLAY Crossword Marvel Comics eNewspaper Magazines      Investigations Video\nPodcasts Humankind Advertise Your Business WITNESS (True Crime) Just Curious Best-selling Booklist Top Workplaces Nomination Legals Press Releases Cars Grocery Shopping\nOUR PORTFOLIO:\nReal Estate 10BEST USA TODAY Store      Shopping\nBlueprint WITNESS (True Crime) Southern Kitchen      Home Internet Services\nCrossword\n\n\nTRAVEL\n\n\nChill out at ice bars and hotels\n\nDec. 31, 2013, 11:25 a.m. ET\n\n\nFeatured Weekly Ad\nAbout Us Newsroom Staff Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Request a Correction Media Room Accessibility Sitemap Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Help Center Manage Account Give Feedback Get Home Delivery eNewspaper USA TODAY Shop USA TODAY Print Editions Licensing & Reprints Advertise Your Business Careers Internships Support Local Business\nNews Tips Submitting letters to the editor Podcasts Newsletters Mobile Apps Facebook X Instagram LinkedIn Threads YouTube Reddit Flipboard\nReal Estate 10BEST USA TODAY Store Shopping Deals Cashback Best-selling Booklist Southern Kitchen Jobs Sports Betting Sports Weekly Studio Gannett Classifieds Blueprint WITNESS (True Crime) Home Internet Services Branded Stories Hub\n\n© 2026 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+        "metadata": {
+          "title": "Chill out at ice bars and hotels"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Galerie de photos de USA Today intitulée 'Chill out at ice bars and hotels' publiée le 31 décembre 2013.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "USA Today",
+          "Gannett Satellite Information Network, LLC"
+        ],
+        "DATE": [
+          "Dec. 31, 2013"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.711989923992997
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Jamaica"
+    ],
+    "ORGANIZATION": [
+      "Appleton Estate"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Honey Soother"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Kayla Becker",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rupert King",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Shawn Egerton",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Wink",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Leonard Cohen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Great Gatsby",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Willy Wonka",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Las Vegas",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York City",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "International Drive",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orlando",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dallas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hawai‘i",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fremont Street",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sante Fe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Denver",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Minnesota",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Antarctic",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WESH",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Minus5 Ice Bar",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bar & Restaurant News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Monte Carlo Las Vegas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boxwood Tap + Grill",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bacardi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sauza Blanco",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "California Hotel",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Market Street Café",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Meow Wolf",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Blue Man Group",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lost Spirits Distillery",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Resorts World Las Vegas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hilton",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Minus 5 Bar",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mandalay Hotel",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA Today",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gannett Satellite Information Network, LLC",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Apr 23, 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Dec. 31, 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Frozen",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Freezing Apple",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Iceberg",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Avalanche",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ice man",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "FroCinn",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SnowFlake",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Cuba Libre",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "BTG Rita",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Omega Mart",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "AREA15",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Oddwood",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Wink World",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Here Kitty Kitty Vice Den",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LINQ Promenade",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Minus 6 Ice Lounge",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:11:10.164068"
+  }
+}

@@ -1,0 +1,820 @@
+{
+  "id_rumeur": 800862,
+  "id_image": 800862,
+  "caption": "Commuters wait for their ferry to leave Circular Quay wharf to Manly as the ferry Charlotte arrives",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748584/oluyewo_benchmark/fvcmywqubgsje9icaxr4.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Sydney's ferry system - in pictures | Sydney | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/australia-news/gallery/2015/dec/01/sydneys-ferry-system-in-pictures",
+      "image_url": "https://i.guim.co.uk/img/media/9513dd24a64888a81cbfa261a8a9ce505a8aefcb/0_0_3500_2265/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=bc751fb2e618af66351bfc1aeb66b5d9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOXSvV2PW1cf1E9UC5sjgosEg0JDI8iGh2ul1OgrNnIalDtrI",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Sydney's ferry system - in pictures | Sydney | The Guardian",
+        "link": "https://www.theguardian.com/australia-news/gallery/2015/dec/01/sydneys-ferry-system-in-pictures",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efc251f758a28d8f3bc25/images/WizXlZ5i6yoOFNTZFYdEx0uaAwCMW7L2pzxazoq9PCo.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOXSvV2PW1cf1E9UC5sjgosEg0JDI8iGh2ul1OgrNnIalDtrI",
+        "thumbnail_width": 181,
+        "thumbnail_height": 279,
+        "image": "https://i.guim.co.uk/img/media/9513dd24a64888a81cbfa261a8a9ce505a8aefcb/0_0_3500_2265/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=bc751fb2e618af66351bfc1aeb66b5d9",
+        "image_width": 453,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Sydney's ferry system -  in pictures | Sydney\n\nSydney's ferry system - in pictures\n\nThis article is more than 10 years old\n\nSydney’s ferry system has been its lifeblood since the mid 1800s and now has more than 15m individual passenger journeys each year and 40,000 trips are taken every day",
+        "metadata": {
+          "title": "Sydney's ferry system - in pictures | Sydney | The Guardian",
+          "description": "Sydney’s ferry system has been its lifeblood since the mid 1800s and now has more than 15m individual passenger journeys each year and 40,000 trips are taken every day",
+          "og:url": "http://www.theguardian.com/australia-news/gallery/2015/dec/01/sydneys-ferry-system-in-pictures",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/924d9c7d66a9403602172e285681153361e035c4/353_127_2912_1747/master/2912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=3a2b6d80386ac7cffd48c1ca48ec540d",
+          "al:ios:url": "gnmguardian://australia-news/gallery/2015/dec/01/sydneys-ferry-system-in-pictures?contenttype=Article&source=applinks",
+          "og:title": "Sydney's ferry system - in pictures",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2016-10-26T22:57:04.000Z",
+          "og:image:height": "720",
+          "og:description": "Sydney’s ferry system has been its lifeblood since the mid 1800s and now has more than 15m individual passenger journeys each year and 40,000 trips are taken every day",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Australia news",
+          "article:published_time": "2015-12-01T08:30:11.000Z",
+          "article:tag": "Sydney,Australia news,Ferry travel,Travel,World news,Transport policy",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Sydney's ferry system -  in pictures"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le système de ferry de Sydney est l'élément vital de la ville depuis le milieu des années 1800, réalisant plus de 15 millions de trajets individuels de passagers chaque année avec 40 000 voyages quotidiens.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Sydney"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "mid 1800s"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "ferry system"
+        ]
+      },
+      "score_e5": 0.7378506732751234
+    },
+    {
+      "titre": "G'day on the ferry | The Wider Image | Reuters",
+      "source": "The Wider Image - Reuters",
+      "lien": "https://widerimage.reuters.com/story/gday-on-the-ferry",
+      "image_url": "https://widerimage.reuters.com/images/Q_R5ChVKlRml3tKGh9ARAF6qvsuZzPuFMl7gjZgQx1vHDAi-Q9KZlEUI8xlotqvYexoabx_I0YP9EJJbsLfYk2TaO4_cmQaXjk-4eeyQGdg.jfif",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSThRj8LldfFL18J8ql5-CdPLVudJyYinX2pyy58OoNm4sC1ZT5",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "G'day on the ferry | The Wider Image | Reuters",
+        "link": "https://widerimage.reuters.com/story/gday-on-the-ferry",
+        "source": "The Wider Image - Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSThRj8LldfFL18J8ql5-CdPLVudJyYinX2pyy58OoNm4sC1ZT5",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://widerimage.reuters.com/images/Q_R5ChVKlRml3tKGh9ARAF6qvsuZzPuFMl7gjZgQx1vHDAi-Q9KZlEUI8xlotqvYexoabx_I0YP9EJJbsLfYk2TaO4_cmQaXjk-4eeyQGdg.jfif",
+        "image_width": 820,
+        "image_height": 1230
+      },
+      "webpage": {
+        "text": "G’day on the ferry | The Wider Image\n\nOn the ferries that crisscross Sydney's harbour, passengers sit inside hunched over their smartphones, often ignoring the gorgeous scenery afforded by what some describe as the world's most beautiful commute.\n\nThe arrival in 1788 of British Captain Arthur Phillip's 11 convict ships in Sydney Cove and subsequent discovery of a freshwater stream led to what is now Circular Quay ferry port and, in many ways, the birthplace of modern Australia.",
+        "metadata": {
+          "title": "G’day on the ferry | The Wider Image | Reuters",
+          "author": "Jason Reed",
+          "description": "On the ferries that crisscross Sydney's harbour, passengers sit inside hunched over their smartphones, often ignoring the gorgeous scenery afforded by what some describe as the world's most beautiful commute.",
+          "keywords": "Sydney, Australia, Jason Reed, Forces of Industry, Ferry, transport, tourism, journey, travel, Sydney Opera House, commute, boat, lifestyle, trips",
+          "apple-mobile-web-app-title": "Wider Image",
+          "article:publisher": "https://www.facebook.com/Reuters",
+          "fb:pages": "114050161948682",
+          "fb:app_id": "449130258435416",
+          "og:site_name": "The Wider Image",
+          "og:url": "https://widerimage.reuters.com/story/gday-on-the-ferry",
+          "og:type": "article",
+          "og:title": "G’day on the ferry",
+          "og:image": "../images/WBTnOVC7qqta06gXHeKsQ6W73qHZsA_88Tgr1Iy4wLSgrHbWBmM14IYdKK-DbAmoGRE0yLrJbrz9KYyAmuoPBzXcJH5fD4oecsiuWi-8aJ1tMznwWkhuIfGSEafUW15c.jfif",
+          "og:image:width": "768",
+          "og:image:height": "512",
+          "og:description": "On the ferries that crisscross Sydney's harbour, passengers sit inside hunched over their smartphones, often ignoring the gorgeous scenery afforded by what some describe as the world's most beautiful commute.",
+          "og:locality": "Sydney",
+          "widerimage:location:latitude": "-33.867477",
+          "widerimage:location:longitude": "151.206978",
+          "geo.position": "-33.867477, 151.206978",
+          "geo.placename": "Sydney, Australia",
+          "article:author": "https://widerimage.reuters.com/photographer/jason-reed",
+          "twitter:title": "G’day on the ferry by Jason Reed",
+          "twitter:description": "On the ferries that crisscross Sydney's harbour, passengers sit inside hunched over their smartphones, often ignoring the gorgeous scenery afforded by what some describe as the world's most beautiful commute.",
+          "al:ipad:app_store_id": "566306890",
+          "al:ipad:app_name": "The Wider Image",
+          "al:ipad:url": "widerimage://Story/C51EFBA1-CB18-4E99-9297-A9BAD5FEE1F4",
+          "al:web:should_fallback": "false"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Sur les ferries traversant le port de Sydney, les passagers sont assis à l'intérieur penchés sur leurs smartphones. L'arrivée en 1788 des 11 navires négriers/de bagnards du capitaine britannique Arthur Phillip à Sydney Cove et la découverte ultérieure d'un ruisseau d'eau douce ont mené à ce qui est aujourd'hui le port de ferry de Circular Quay et, à bien des égards, la naissance de l'Australie moderne.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Arthur Phillip"
+        ],
+        "LOCATION": [
+          "Sydney",
+          "Sydney Cove",
+          "Circular Quay",
+          "Australia"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [
+          "1788"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "convict ships"
+        ]
+      },
+      "score_e5": 0.7707608897657684
+    },
+    {
+      "titre": "Photos of the Week: 11/28-12/4 - The Atlantic",
+      "source": "The Atlantic",
+      "lien": "https://www.theatlantic.com/photo/2015/12/photos-of-the-week-1128-124/418863/",
+      "image_url": "https://cdn.theatlantic.com/thumbor/r04H-GDf1UFyvRiMlkjj0ZDxFS0=/900x582/media/img/photo/2015/12/photos-of-the-week-1128-124/w02_RTX1WGWJ/original.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYXcWirCxYHE2iUn9Z7QO3oqQC5sRF5YQ3psPNzmC_ZbQm3sRb",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Photos of the Week: 11/28-12/4 - The Atlantic",
+        "link": "https://www.theatlantic.com/photo/2015/12/photos-of-the-week-1128-124/418863/",
+        "source": "The Atlantic",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRC8qz9tOu4cg_YHRYT8TVeJiNcTtZ8mAcVuxQ9pNYbfoeBJmDnKzntUrrIg7nZn4M-k4QDk0O602fmJG_s43Fo5sYL7eUbzjci7m5tYtB7eMoOigWztmqD",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYXcWirCxYHE2iUn9Z7QO3oqQC5sRF5YQ3psPNzmC_ZbQm3sRb",
+        "thumbnail_width": 180,
+        "thumbnail_height": 279,
+        "image": "https://cdn.theatlantic.com/thumbor/r04H-GDf1UFyvRiMlkjj0ZDxFS0=/900x582/media/img/photo/2015/12/photos-of-the-week-1128-124/w02_RTX1WGWJ/original.jpg",
+        "image_width": 582,
+        "image_height": 900
+      },
+      "webpage": {
+        "text": "Photos of the Week: 11/28-12/4\n\nA policeman hauls ass in Oklahoma, record-setting smog in Beijing, a horrific shooting in San Bernardino, a climate conference in Paris, Christmas lights in New York, Pope Francis in Central African Republic, and much more.\n\nHints: View this page full screen. Skip to the next and previous photo by typing j/k or ←/→.\n\n * Firefighters protest by lighting themselves on fire in front of a regional government building to demand more work safety measures and against what they say is a covert privatization of their sector, in Oviedo, Spain, on December 3, 2015. #\n   \n   Reuters\n   \n   Read more\n\n * Commuters wait for their ferry to leave Circular Quay wharf en route to Manly as First Fleet class Ferry ‘Charlotte’ arrives in Sydney, Australia. Sydney's ferry system has been its lifeblood since the mid 1800s, transporting more than 15 million individual passenger journeys each year, according to the Bureau of Transport Statistics. Picture taken July 2, 2015, released November 30, 2015. #\n   \n   Jason Reed / Reuters\n   \n   Read more\n\n * A Coast Guard chopper airlifts a sailor after he delivered food material to a residential area flooded due to heavy rainfall in Chennai, in the southern Indian state of Tamil Nadu, on December 4, 2015. The relentless rains that lashed the state for three days eased Friday, but the misery of tens of thousands of people was far from over, with large parts of the main city still underwater along with the region's biggest airport. #\n   \n   Arun Sankar K / AP\n   \n   Read more\n\n * A donkey pokes out of the back of a police vehicle in Norman, Oklahoma, on December 1, 2015. Officer Kyle Canaan, in the driver's seat, responded to a call of a donkey on the loose and he transported it to a nearby home. #\n   \n   Robin Strader / Norman Police Department via AP\n   \n   Read more\n\n * Indigenous children depict fish in the sea during a rally held the day before the start of the Paris Climate Change Conference in Sao Paulo, Brazil, on November 29, 2015. #\n   \n   Nacho Doce / Reuters\n   \n   Read more\n\n * Monarch butterflies rest on a pine tree in Angangueo, Mexico, on November 28, 2015. Thousands of striking orange-and-black monarch butterflies began arriving to their winter home in central Mexico on Saturday (November 28) in their annual migration. #\n   \n   Daniel Becerril / Reuters\n   \n   Read more\n\n * Police officers conduct a manhunt after a mass shooting in San Bernardino, California, on December 2, 2015. Two assailants opened fire on a holiday party on Wednesday, at a social services agency in San Bernardino, California, killing 14 people and wounding 21 others, then fled the scene, triggering an intense manhunt and a shootout with police, authorities said. #\n   \n   Mike Blake / Reuters\n   \n   Read more\n\n * This picture taken on November 29, 2015 shows pagodas on a polluted day in Hohhot, north China's Inner Mongolia region. Northern China choked under some of the worst smog this year on November 30, with Beijing's pollution soaring to 22 times healthy limits, triggering the city's second-highest air alert on the eve of global climate change talks. #\n   \n   AFP / Getty\n   \n   Read more\n\n * One of the sculptures in the artwork “Where the Tides Ebb and Flow” by Argentinian artist Pedro Marzorati on rising waters of the global warming, is installed in a pond at the Montsouris park during the United Nations Climate Change Conference, in Paris, on December 2, 2015. #\n   \n   Francois Mori / AP\n   \n   Read more\n\n * Men stand in front of solar panels at the Mohammed bin Rashid Al Maktoum Solar Park in Dubai, on November 28, 2015. #\n   \n   Ashraf Mohammad Mohammad Alam / Reuters\n   \n   Read more\n\n * A surfer drops in on a large wave at Praia do Norte in Nazare, Portugal, on November 29, 2015. #\n   \n   Rafael Marchante / Reuters\n   \n   Read more\n\n * Employees work along a production line at a factory of Dongfeng Nissan Passenger Vehicle in Zhengzhou, Henan province, China. #\n   \n   Reuters\n   \n   Read more\n\n * A long-tailed macaque sits at Pra Prang Sam Yot temple before the annual Monkey Buffet Festival in Lopburi, north of Bangkok, on November 29, 2015. The festival provides food and drinks to the local monkey population, which numbers more than 2,000, to thank them for drawing tourists to the town. #\n   \n   Jorge Silva / Reuters\n   \n   Read more\n\n * New York Police Department officers provide security at the lighting ceremony for the 83rd Rockefeller Center Christmas Tree, near Rockefeller Center in New York, on December 2, 2015. #\n   \n   Lucas Jackson / Reuters\n   \n   Read more\n\n * Workers clean windows of an office building in central Seoul, South Korea, on December 1, 2015. #\n   \n   Kim Hong-Ji / Reuters\n   \n   Read more\n\n * Firemen use their hoses during a fire at a residential and commercial area in downtown Quiapo in Manila, Philippines, on December 4, 2015. Fire officials said a number of people were injured in the fire that gutted several homes and business establishments, and left close to one thousand families living in the area homeless. #\n   \n   Bullit Marquez / AP\n   \n   Read more\n\n * Volunteers walk on a huge pile of life jackets left behind by refugees and migrants who arrived on the Greek island of Lesbos after crossing the Aegean Sea from Turkey on December 3, 2015. #\n   \n   Aris Messinis / AFP / Getty\n   \n   Read more\n\n * Sarajevo's TV tower is seen surrounded with fog, in Sarajevo, Bosnia, on December 4, 2015. Traffic pollution and the burning of low quality coal for heating due to high price of natural gas, causes clouds of air pollution during days with low air pressure in unusually warm weather. #\n   \n   Amel Emric / AP\n   \n   Read more\n\n * Royal Guards parade in front of the Grand Palace as part of celebrations of the 88th birthday of Thai King Bhumibol Adulyadej in Bangkok on December 3, 2015. #\n   \n   Nicolas Asfouri / AFP / Getty\n   \n   Read more\n\n * Discarded heroin syringes are stuck into a banana tree after they were used by addicts in Hanoi, Vietnam, on December 1, 2015. Some of the syringes are re-used by poorer addicts. The estimated number of adolescents dying of AIDS in the Asia Pacific region has more than doubled since 2005, experts said on Monday, warning of a “hidden epidemic.” #\n   \n   Nguyen Huy Kham / Reuters\n   \n   Read more\n\n * A stranded migrant holding a baby shouts next to a Greek police cordon following scuffles at the Greek-Macedonian border, near the village of Idomeni, Greece, on December 3, 2015. #\n   \n   Alexandros Avramidis / Reuters\n   \n   Read more\n\n * Children touch the hand of Pope Francis as he visits a refugee camp after arriving in Bangui, Central African Republic, on November 29, 2015. Pope Francis arrived as “a pilgrim of peace” in the conflict-ridden republic on November 29, flying in from Uganda. #\n   \n   Giuseppe Cacace / AFP / Getty\n   \n   Read more\n\n * Chesterfield County Sheriff's deputy Carolyn King removes rifles from a shipping container as she and other officers sort through thousands of guns found in the home and garage of Brent Nicholson in Pageland, South Carolina, on November 10, 2015 (photo released December 3). Nicholson had been detained after a traffic stop in October, and held for possession of stolen weapons found in his vehicle, after which authorities discovered a massive hoard of weapons at his home. Inside Nicholson's house, guns were everywhere: rifles and shotguns piled in the living room, halls and bedrooms; handguns littering tables and countertops. Outside, when sheriff's investigators rolled up the door on the pre-fab metal garage, more arms spilled out at their feet. The question of how one man amassed such a stockpile of guns—estimated to number nearly 5,000—arises just as there is renewed American soul-searching over the widespread availability of firearms in the wake of a series of mass shootings. #\n   \n   Jason Miczek / Reuters\n   \n   Read more\n\n * Rescuers try to evacuate a man stranded in the floods by an over-flowing Adyar River in Chennai, Tamil Nadu, India, on December 2, 2015. Weeks of torrential rains have forced the Chennai airport in southern India to close and cut off several roads and highways, leaving tens of thousands of people stranded in their homes, government officials said. #\n   \n   AP\n   \n   Read more\n\n * Spanish model Macarena Silva smiles backstage as she poses for a picture during Sevilla de Boda (Seville Wedding) fashion show in the Andalusian capital of Seville on November 27, 2015. #\n   \n   Marcelo del Pozo / Reuters\n   \n   Read more\n\n * Pairs of shoes are symbolically placed on the Place de la Republique, after the cancellation of a planned climate march following shootings in the French capital, ahead of the World Climate Change Conference 2015 in Paris on November 29, 2015. #\n   \n   Eric Gaillard / Reuters\n   \n   Read more\n\n * Demonstrators clash with CRS riot policemen near the Place de la Republique after the cancellation of a planned climate march following shootings in Paris on November 29, 2015. #\n   \n   Eric Gaillard / Reuters\n   \n   Read more\n\n * People gather at the inauguration of the Gavlebocken (Gavle Goat), which is a traditionally Christmas display, at Slottstorget (Castle Square) in central Gavle, Sweden, on November 29, 2015. The giant straw statue of a goat is an enlarged version of the traditional Swedish Yule Goat figure and has been erected annually in the town since 1966, at the beginning of Advent. #\n   \n   Mats Astrand / TT News Agency / Reuters\n   \n   Read more\n\n * Law enforcement officers look over evidence near the remains of a SUV involved in Wednesday’s attack in San Bernardino, California, on December 3, 2015. Authorities were working to determine why a man and a woman opened fire at a holiday party of his co-workers in Southern California, killing 14 people and wounding 21 in an attack that appeared to have been planned, and may be tied to terror groups. #\n   \n   Mario Anzuoni / Reuters\n   \n   Read more\n\n * A participant is seen under a beam of light as hundreds of people ride indoor bicycles during a campaign to promote body-building exercises, at a gymnasium in Kunming, Yunnan province, China, on December 1, 2015. #\n   \n   Wong Campion / Reuters\n   \n   Read more\n\n * A green vine snake feeds on an Indian Forest Skink inside the Silent Valley national park in Kerala, India, on November 28, 2015. #\n   \n   Abhishek Chinnappa / Reuters\n   \n   Read more\n\n * History enthusiasts dressed in regimental costumes march through fields on their way to in Slavkov u Brna, Czech Republic, on December 4, 2015. The re-enactment of Napoleon's famous battle of Austerlitz, celebrating its 210th anniversary, will take place on Saturday, December 5. #\n   \n   Petr David Josek / AP\n   \n   Read more\n\n * A woman, wearing a mask and seen in a traditional costume, visits Tiananmen Square during a heavily polluted day in Beijing, China, on November 29, 2015. #\n   \n   Kim Kyung Hoon / Reuters\n   \n   Read more\n\n * A projection of French artist JR is displayed on the national assembly in Paris as part of the 2015 Paris Climate Conference on November 29, 2015. #\n   \n   Laurent Cipriani / AP\n   \n   Read more\n\n * Pedestrians look at a car which fell into a pit after crashing through a brick wall, on a hazy day in Xianyang, Shaanxi province, China, on November 30, 2015. Local police said the accident occurred in early morning on Monday when the driver could not see the road clearly due to thick fog. No one was injured from the crash, local media reported. #\n   \n   Reuters\n   \n   Read more\n\n   We want to hear what you think about this article. Submit a letter to the editor or write to [email protected].",
+        "metadata": {
+          "title": "Photos of the Week: 11/28-12/4 - The Atlantic",
+          "keywords": "The Atlantic, The Atlantic Magazine, TheAtlantic.com, Atlantic, news, opinion, breaking news, analysis, commentary, business, politics, culture, international, science, technology, national and life",
+          "description": "A policeman hauls ass in Oklahoma, record-setting smog in Beijing, a climate conference in Paris, Christmas lights in New York, Pope Francis in Central African Republic, and much more.",
+          "og:site_name": "The Atlantic",
+          "og:locale": "en_US",
+          "fb:admins": "577048155,17301937",
+          "fb:app_id": "100770816677686",
+          "fb:pages": "29259828486,128344747344340,457711054591520,128377530562508,370457103090695,1631141167169115,1468531833474495,1061579677251147,148681772342453,1510507419185410",
+          "og:title": "Photos of the Week: 11/28-12/4",
+          "og:type": "article",
+          "og:url": "http://www.theatlantic.com/photo/2015/12/photos-of-the-week-1128-124/418863/",
+          "og:image": "https://cdn.theatlantic.com/thumbor/VSb6KAKKF1AOSvYIi8CWozbKIOs=/0x163:2000x1205/960x500/media/img/photo/2015/12/photos-of-the-week-1128-124/w01_RTX1X12V-1/original.jpg",
+          "og:description": "A policeman hauls ass in Oklahoma, record-setting smog in Beijing, a climate conference in Paris, Christmas lights in New York, Pope Francis in Central African Republic, and much more.",
+          "article:opinion": "false",
+          "article:content_tier": "metered",
+          "author": "Alan Taylor"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Des navetteurs attendent leur ferry pour quitter le quai de Circular Quay en route vers Manly alors que le ferry de classe First Fleet 'Charlotte' arrive à Sydney, en Australie. Le système de ferry de Sydney transporte plus de 15 millions de voyages individuels de passagers chaque année, selon le Bureau of Transport Statistics. Photo prise le 2 juillet 2015, publiée le 30 novembre 2015 par Jason Reed pour Reuters. Le texte mentionne également d'autres actualités de la semaine du 28 novembre au 4 décembre 2015 à travers le monde.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jason Reed",
+          "Pope Francis",
+          "Kyle Canaan"
+        ],
+        "LOCATION": [
+          "Oklahoma",
+          "Beijing",
+          "San Bernardino",
+          "Paris",
+          "New York",
+          "Central African Republic",
+          "Oviedo",
+          "Spain",
+          "Sydney",
+          "Australia",
+          "Chennai",
+          "Tamil Nadu",
+          "Norman",
+          "Sao Paulo",
+          "Brazil",
+          "Angangueo",
+          "Mexico",
+          "California",
+          "Hohhot",
+          "Inner Mongolia",
+          "China"
+        ],
+        "ORGANIZATION": [
+          "The Atlantic",
+          "Reuters",
+          "Bureau of Transport Statistics",
+          "AP",
+          "Norman Police Department"
+        ],
+        "DATE": [
+          "11/28-12/4",
+          "December 3, 2015",
+          "July 2, 2015",
+          "November 30, 2015",
+          "December 4, 2015",
+          "December 1, 2015",
+          "November 29, 2015",
+          "November 28, 2015",
+          "December 2, 2015",
+          "mid 1800s"
+        ],
+        "EVENT": [
+          "Paris Climate Change Conference"
+        ],
+        "OTHER": [
+          "Charlotte",
+          "First Fleet class Ferry"
+        ]
+      },
+      "score_e5": 0.8011649335639452
+    },
+    {
+      "titre": "Riding the Sydney Ferry to Darling Harbour 🚢 | Scenic ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=2ABzbLh_buo",
+      "image_url": "https://i.ytimg.com/vi/2ABzbLh_buo/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXS-4GEb0_Ro9cgtYnakZOue-70yqklEMCUT-81I8yITNuJSZo",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Riding the Sydney Ferry to Darling Harbour 🚢 | Scenic ...",
+        "link": "https://www.youtube.com/watch?v=2ABzbLh_buo",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXS-4GEb0_Ro9cgtYnakZOue-70yqklEMCUT-81I8yITNuJSZo",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/2ABzbLh_buo/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Riding the Sydney Ferry to Darling Harbour 🚢 | Scenic Harbour Cruise Round T\n\nDaryl Pritchard Videos\n\nExperience the beauty of Sydney Harbour as we go riding on Sydney Ferries, one of the most scenic and iconic ways to explore the city. In this video, we take...",
+        "metadata": {
+          "title": "Riding the Sydney Ferry to Darling Harbour 🚢 | Scenic Harbour Cruise Round T",
+          "description": "Experience the beauty of Sydney Harbour as we go riding on Sydney Ferries, one of the most scenic and iconic ways to explore the city. In this video, we take...",
+          "keywords": "harbour, ferry, sydney, australia, boat, sail, darling harbour, water",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=2ABzbLh_buo",
+          "og:title": "Riding the Sydney Ferry to Darling Harbour 🚢 | Scenic Harbour Cruise Round T",
+          "og:image": "https://i.ytimg.com/vi/2ABzbLh_buo/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Experience the beauty of Sydney Harbour as we go riding on Sydney Ferries, one of the most scenic and iconic ways to explore the city. In this video, we take...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=2ABzbLh_buo&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=2ABzbLh_buo&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=2ABzbLh_buo&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/2ABzbLh_buo",
+          "og:video:secure_url": "https://www.youtube.com/embed/2ABzbLh_buo",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "water",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Riding the Sydney Ferry to Darling Harbour 🚢 | Scenic Harbour Cruise Round T",
+          "twitter:description": "Experience the beauty of Sydney Harbour as we go riding on Sydney Ferries, one of the most scenic and iconic ways to explore the city. In this video, we take..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Trajet en ferry de Sydney vers Darling Harbour, une croisière panoramique dans le port de Sydney à bord des ferries de Sydney.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Daryl Pritchard"
+        ],
+        "LOCATION": [
+          "Sydney",
+          "Sydney Harbour",
+          "Darling Harbour"
+        ],
+        "ORGANIZATION": [
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Sydney Ferries"
+        ]
+      },
+      "score_e5": 0.7542525679902459
+    },
+    {
+      "titre": "Belbin Ferry Painting of Lady Approaching Circular Quay",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/312684935495543/posts/3904112139686120/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9371353339610873",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR54bbhsXHUk_ss_U0ncj5tamaLv4WBVZJ_DeltJ49YwrSLMhJJ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Belbin Ferry Painting of Lady Approaching Circular Quay",
+        "link": "https://www.facebook.com/groups/312684935495543/posts/3904112139686120/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR54bbhsXHUk_ss_U0ncj5tamaLv4WBVZJ_DeltJ49YwrSLMhJJ",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9371353339610873",
+        "image_width": 1056,
+        "image_height": 1584
+      },
+      "webpage": {
+        "text": "Old Sydney Album | A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay\n\nA further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay. Unfortunately the prints are too big to scan so the edges are missing, nothing important... Lihat lainnya",
+        "metadata": {
+          "title": "Old Sydney Album | A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTEwNzk5MDA4NDg6Vks6MzkwNDExMjEzOTY4NjEyMA==",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTEwNzk5MDA4NDg6Vks6MzkwNDExMjEzOTY4NjEyMA==",
+          "og:type": "video.other",
+          "og:title": "Old Sydney Album | A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay | Facebook",
+          "og:description": "A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay. Unfortunately the prints are too big to scan so the edges are missing, nothing important...",
+          "og:url": "https://www.facebook.com/groups/312684935495543/posts/3904112139686120/",
+          "og:image:alt": "Old Sydney Album | A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10222430509686446",
+          "og:locale": "en_US",
+          "description": "A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay. Unfortunately the prints are too big to...",
+          "twitter:title": "Old Sydney Album | A further Phil Belbin ferry painting / print of...",
+          "twitter:description": "A further Phil Belbin ferry painting / print of the Lady Ferguson, late afternoon, approaching Circular Quay. Unfortunately the prints are too big to scan so the edges are missing, nothing important..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Peinture ou impression d'un ferry par Phil Belbin représentant le 'Lady Ferguson' en fin d'après-midi, s'approchant de Circular Quay.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Phil Belbin"
+        ],
+        "LOCATION": [
+          "Sydney",
+          "Circular Quay"
+        ],
+        "ORGANIZATION": [
+          "Facebook"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Lady Ferguson"
+        ]
+      },
+      "score_e5": 0.7928260773971031
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Circular Quay wharf",
+      "Manly"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Charlotte"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Sydney",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "mid 1800s",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "ferry system",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Arthur Phillip",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sydney Cove",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Circular Quay",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1788",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "convict ships",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jason Reed",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pope Francis",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kyle Canaan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oklahoma",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beijing",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Bernardino",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Central African Republic",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oviedo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chennai",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tamil Nadu",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Norman",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sao Paulo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Angangueo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mexico",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hohhot",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Inner Mongolia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Atlantic",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bureau of Transport Statistics",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Norman Police Department",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "11/28-12/4",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 3, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 30, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 4, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 1, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 29, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 28, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 2, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Paris Climate Change Conference",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Charlotte",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "First Fleet class Ferry",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Daryl Pritchard",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sydney Harbour",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Darling Harbour",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sydney Ferries",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Phil Belbin",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Lady Ferguson",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T00:56:03.817717"
+  }
+}

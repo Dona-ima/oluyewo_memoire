@@ -1,0 +1,1199 @@
+{
+  "id_rumeur": 284211,
+  "id_image": 405516,
+  "caption": "A Volgograd resident walks crying in Volgograd Russia early Monday",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748602/oluyewo_benchmark/tbpahcljfn10eujoehiy.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Wind-Whipped Snowstorm Slams Boston Again",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/news/weather/wind-whipped-snowstorm-slams-boston-again-n306561",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2015_07/891351/ss-150215-boston-snow-05.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRC3DOHhVsR_njr_g9_TeDIjznCrtup8UfjyAqgRaapK7Qf4Xn",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Wind-Whipped Snowstorm Slams Boston Again",
+        "link": "https://www.nbcnews.com/news/weather/wind-whipped-snowstorm-slams-boston-again-n306561",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8efc4ff680d1e7cebd3f8f/images/eJ7OWNX_QN_SQAD1wz2S5PMxnsy5dI9iA9U3donNjEw.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRC3DOHhVsR_njr_g9_TeDIjznCrtup8UfjyAqgRaapK7Qf4Xn",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2015_07/891351/ss-150215-boston-snow-05.jpg",
+        "image_width": 372,
+        "image_height": 560
+      },
+      "webpage": {
+        "text": "Wind-Whipped Snowstorm Slams Boston Again \n\nIE 11 is not supported. For an optimal experience visit our site on another browser.\n\n\nWind-Whipped Snowstorm Slams Boston Again\n\nA storm brought a new round of snow to New England forcing people to contend with a fourth winter onslaught in less than a month.\n\n\nAdd to Google\n\nFeb. 15, 2015, 10:35 AM EST / Updated Feb. 15, 2015, 11:14 AM EST\n\nAdd to Google",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "description": "A storm brought a new round of snow to New England forcing people to contend with a fourth winter onslaught in less than a month. ",
+          "og:url": "https://www.nbcnews.com/news/weather/wind-whipped-snowstorm-slams-boston-again-n306561",
+          "og:title": "Wind-Whipped Snowstorm Slams Boston Again ",
+          "og:description": "A storm brought a new round of snow to New England forcing people to contend with a fourth winter onslaught in less than a month. ",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_07/891351/ss-150215-boston-snow-05.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_07/891351/ss-150215-boston-snow-05.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Wind-Whipped Snowstorm Slams Boston Again ",
+          "branch:deeplink:description": "A storm brought a new round of snow to New England forcing people to contend with a fourth winter onslaught in less than a month. ",
+          "twitter:title": "Wind-Whipped Snowstorm Slams Boston Again ",
+          "twitter:description": "A storm brought a new round of snow to New England forcing people to contend with a fourth winter onslaught in less than a month. ",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2015-02-15T16:14:20.000Z",
+          "article:modified_time": "2015-06-11T00:00:00.000Z"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Wind-Whipped Snowstorm Slams Boston Again ",
+          "url": "https://www.nbcnews.com/news/weather/wind-whipped-snowstorm-slams-boston-again-n306561",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2015_07/891351/ss-150215-boston-snow-05.jpg",
+          "alternativeHeadline": "Wind-Whipped Snowstorm Slams Boston Again ",
+          "articleBody": "",
+          "dateModified": "2015-02-15T16:14:20.000Z",
+          "datePublished": "2015-02-15T15:35:02.000Z",
+          "articleSection": "news",
+          "articleId": "ncna306561",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna306561"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_07/891351/ss-150215-boston-snow-05.jpg",
+            "caption": "A man shovels snow in the East Boston neighborhood of Boston, Sunday, Feb. 15, 2015. ",
+            "height": 1660,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "A storm brought a new round of snow to New England forcing people to contend with a fourth winter onslaught in less than a month. ",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/news/weather/wind-whipped-snowstorm-slams-boston-again-n306561"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une tempête de neige accompagnée de vents violents frappe Boston et la Nouvelle-Angleterre, constituant le quatrième assaut hivernal en moins d'un mois.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Boston",
+          "New England"
+        ],
+        "ORGANIZATION": [
+          "Google",
+          "NBC News"
+        ],
+        "DATE": [
+          "Feb. 15, 2015"
+        ],
+        "EVENT": [
+          "Wind-Whipped Snowstorm Slams Boston Again"
+        ],
+        "OTHER": [
+          "IE 11"
+        ]
+      },
+      "score_e5": 0.7217330046936334
+    },
+    {
+      "titre": "Coldest Temperatures In Years Blast U.S., Prompting Polar ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/US/coldest-temperatures-years-blast-us-prompting-polar-vortex/story?id=29007247",
+      "image_url": "https://s.abcnews.com/images/US/AP_boston_snow_jt_150215_16x9_1600.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXIgA701VDQe-fHRaVV8U3qpDI-ZMEYfOYePFgEXnJGkIcOxJ6",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Coldest Temperatures In Years Blast U.S., Prompting Polar ...",
+        "link": "https://abcnews.com/US/coldest-temperatures-years-blast-us-prompting-polar-vortex/story?id=29007247",
+        "source": "ABC News",
+        "source_icon": "https://serpapi.com/searches/6a8efc4ff680d1e7cebd3f8f/images/YCXSU47OuaLwOemIldhjaMfWkYvyhqikNc6q9lcrQVs.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXIgA701VDQe-fHRaVV8U3qpDI-ZMEYfOYePFgEXnJGkIcOxJ6",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://s.abcnews.com/images/US/AP_boston_snow_jt_150215_16x9_1600.jpg",
+        "image_width": 900,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Coldest Temperatures In Years Blast U.S., Prompting Polar Vortex Chatter\n\n&#151; -- Once again the relentless stretch of bitter cold battering Northeastern cities including Boston with record snow has many people wondering if the polar vortex is here.\n\nOn Monday morning, Boston experienced its coldest temperature since 2004, and New York City woke up to the coldest February morning in 28 years. Record cold temperatures were set from Ohio to Virginia, and all the way up to New England.\n\nYou may remember when the term polar vortex became popular last winter. The relentless and record-breaking cold experienced last year had many Americans looking for an explanation, and February of this year has been just as bad if not worse in many Northeastern cities.\n\nThough the term makes good headlines, the truth is the polar vortex is still circulating near and around the North Pole where it's almost always positioned. What much of the country is dealing with is a persistent chain of Arctic air masses plunging south into the continental U.S., a common situation for winter.\n\nA majority of the time, the frigid cold experienced during the winter months is not related to the polar vortex. In fact, as the winter season progresses, the cold air masses to the north across Canada, are growing colder or \"maturing\". As this happens, it also helps promote the likelihood of more frequent, and intense shots of Arctic air to move over the United States later in the winter season.\n\nHowever, the arctic blast that is on the way for the second half of the week will likely be a case where the Arctic air moving in is directly influenced from part of the polar vortex itself.\n\nHere's a recap:\n\n\nThe polar vortex has been known about and studied by the meteorological community for decades. It is an almost always present upper-level circulation that hangs out most of the of time around both the North and South Poles. The circulation is at it's strongest during the winter months. It is not at the surface, nor is it an actual storm system. It is also not related to every push of cold air.\n\n\nPopular Reads\n\n\nABC News Chief Meteorologist Ginger Zee says the polar jet stream is like a fence keeping the air influenced by the polar vortex in place. During the first week of January 2014, the polar jet stream was kinked enough to build a large ridge in the west and allow a lobe of the polar vortex to slip southward into Canada, greatly influencing the air that set records in the northern plains and Great Lakes.\n\nLast year the northern Plains and Midwest were hit the hardest, but this year the pattern that set up has the trajectory of the coldest air focusing a bit more to the east.\n\nOver the past several weeks, the jet stream has been locked in a similar pattern allowing for numerous shots of Arctic air to move right down from Canada.\n\n\nLater this week, yet another blast of Arctic air will arrive, keeping temperatures well below normal through the end of the week across most of the eastern part of the country. A piece, or lobe of the polar vortex will displace itself father south in Canada and influence the bitter cold air moving in.\n\nLooking ahead, there are no indications that this pattern will be changing, leaving the gate open for more blasts of Arctic air to plunge down from Canada. The next time major cities such as Philadelphia, New York, and Boston can expect to reach above the freezing mark will be towards the end of the upcoming weekend. Forecast highs for this upcoming Sunday are currently in the mid to upper 30s.\n\nHowever, this return to an average mid-late February feel will be short lived, as several additional shots of Arctic air look to be in store right through the end of the month and even into the first few days of March.",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "Persistent blasts of arctic air have been keeping it bitter cold for much of the country.",
+          "keywords": "polar vortex, arctic, bitter, cold, frigid, temperatures, wind chills",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "Coldest Temperatures In Years Blast U.S., Prompting Polar Vortex Chatter",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/US/coldest-temperatures-years-blast-us-prompting-polar-vortex/story?id=29007247",
+          "og:title": "Coldest Temperatures In Years Blast U.S., Prompting Polar Vortex Chatter",
+          "og:description": "Persistent blasts of arctic air have been keeping it bitter cold for much of the country.",
+          "og:image": "https://s.abcnews.com/images/US/AP_boston_snow_jt_150215_16x9_992.jpg?w=1600",
+          "og:type": "article",
+          "lastPublishedDate": "2015-02-17T14:43:34Z",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "55845270277",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@ABC",
+          "twitter:creator": "ABC News",
+          "twitter:title": "Coldest Temperatures In Years Blast U.S., Prompting Polar Vortex Chatter",
+          "twitter:description": "Persistent blasts of arctic air have been keeping it bitter cold for much of the country.",
+          "twitter:url": "https://abcnews.com/US/coldest-temperatures-years-blast-us-prompting-polar-vortex/story?id=29007247",
+          "twitter:image": "https://s.abcnews.com/images/US/AP_boston_snow_jt_150215_16x9_992.jpg?w=1600",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "al:iphone:url": "abcnewsiphone://link/prism-story,29007247",
+          "al:iphone:app_store_id": "300255638",
+          "al:iphone:app_name": "ABC News - Breaking US & World News",
+          "al:ipad:url": "abcnewsipad://link/prism-story,29007247",
+          "al:ipad:app_store_id": "380520716",
+          "al:ipad:app_name": "ABC News for ipad",
+          "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.com/US/coldest-temperatures-years-blast-us-prompting-polar-vortex/story?id=29007247",
+          "al:android:app_name": "ABC News Breaking Latest News",
+          "al:android:package": "com.abc.abcnews",
+          "al:web:url": "https://abcnews.com/US/coldest-temperatures-years-blast-us-prompting-polar-vortex/story?id=29007247"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des températures extrêmement froides et des chutes de neige records touchent les États-Unis et le Nord-Est, notamment Boston et New York City, provoquant des discussions sur le vortex polaire. Des masses d'air arctique descendent vers le sud du pays.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ginger Zee"
+        ],
+        "LOCATION": [
+          "U.S.",
+          "United States",
+          "Boston",
+          "New York City",
+          "Ohio",
+          "Virginia",
+          "New England",
+          "North Pole",
+          "Canada",
+          "Great Lakes",
+          "Midwest"
+        ],
+        "ORGANIZATION": [
+          "ABC News"
+        ],
+        "DATE": [
+          "Monday",
+          "2004",
+          "February",
+          "28 years",
+          "last winter",
+          "first week of January 2014",
+          "later this year",
+          "decades",
+          "second half of the week"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "polar vortex",
+          "polar jet stream"
+        ]
+      },
+      "score_e5": 0.7119903300312771
+    },
+    {
+      "titre": "Storm forecast to bring up to 9 inches of snow to Illinois ...",
+      "source": "FOX 32 Chicago",
+      "lien": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois",
+      "image_url": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2019/08/764/432/94f76754-GETTY-chicago-snow_1518202004617_4917225_ver1.0_640_360.jpg?ve=1&tl=1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhK-cIwt8LV0bTh4ben2ynXW55DqVVwWY1oT1vwYB5v1GimzqC",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Storm forecast to bring up to 9 inches of snow to Illinois ...",
+        "link": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois",
+        "source": "FOX 32 Chicago",
+        "source_icon": "https://serpapi.com/searches/6a8efc4ff680d1e7cebd3f8f/images/BjdeoFXGRwIlf6vIsllSenFOlN1dSyWndb7iCsSVgzw.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhK-cIwt8LV0bTh4ben2ynXW55DqVVwWY1oT1vwYB5v1GimzqC",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2019/08/764/432/94f76754-GETTY-chicago-snow_1518202004617_4917225_ver1.0_640_360.jpg?ve=1&tl=1",
+        "image_width": 432,
+        "image_height": 764
+      },
+      "webpage": {
+        "text": "Storm forecast to bring up to 9 inches of snow to Illinois\n\nPublished March 23, 2018 7:09 PM CDT\n\narticle\n\nA man digs out his car along a snow-covered street in Chicago. (Scott Olson/Getty Images)\n\nCHICAGO (AP) - Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.\n\nThe National Weather Service had winter storm warnings in effect Friday through Saturday evening in northwestern and central Illinois. The weather service predicts wet and heavy snow with wind gusts of up to 35 mph that could cause tree branches to fall and cause power outages. Forecasters say the late season snowstorm will start out as a rain and snow mix but quickly change to moderate and at times heavy snowfall.\n\nThe storm is expected to impact the Rockford and Chicago areas along with Freeport, Peoria, Sterling, Pontiac and the Quad Cities.\n\nWinter weather advisories have been issued for cities including Bloomington, Champaign, Kankakee, Joliet and DeKalb.",
+        "metadata": {
+          "description": "Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.",
+          "fb:app_id": "1654618091489537",
+          "dc.title": "Storm forecast to bring up to 9 inches of snow to Illinois",
+          "dc.description": "Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.",
+          "og:title": "Storm forecast to bring up to 9 inches of snow to Illinois",
+          "og:description": "Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.",
+          "og:type": "article",
+          "og:image": "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2019/08/1200/630/94f76754-GETTY-chicago-snow_1518202004617_4917225_ver1.0_640_360.jpg?ve=1&tl=1",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:url": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois",
+          "og:site_name": "FOX 32 Chicago",
+          "og:locale": "en_US",
+          "twitter:title": "Storm forecast to bring up to 9 inches of snow to Illinois",
+          "twitter:description": "Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.",
+          "article:opinion": "false",
+          "keywords": "News"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#webpage",
+              "url": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois",
+              "name": "Storm forecast to bring up to 9 inches of snow to Illinois",
+              "description": "Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.",
+              "isPartOf": {
+                "@id": "https://www.fox32chicago.com/#website"
+              },
+              "mainEntity": {
+                "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#article"
+              },
+              "breadcrumb": {
+                "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#breadcrumb"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#primaryimage"
+              }
+            },
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#article",
+              "isPartOf": {
+                "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#webpage"
+              },
+              "headline": "Storm forecast to bring up to 9 inches of snow to Illinois",
+              "description": "Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.",
+              "articleSection": "News",
+              "datePublished": "2018-03-23T19:09:04-05:00",
+              "dateModified": "2018-03-23T19:09:04-05:00",
+              "author": [
+                {
+                  "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#author-1",
+                  "@type": "Person",
+                  "name": "FOX 32 Chicago"
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.fox32chicago.com/#organization"
+              },
+              "image": {
+                "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#primaryimage"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#webpage"
+              },
+              "articleBody": "CHICAGO (AP) - Forecasters say a winter storm is expected to bring as much as 9 inches of snow to parts of northern and central Illinois.The National Weather Service had winter storm warnings in effect Friday through Saturday evening in northwestern and central Illinois. The weather service predicts wet and heavy snow with wind gusts of up to 35 mph that could cause tree branches to fall and cause power outages. Forecasters say the late season snowstorm will start out as a rain and snow mix but quickly change to moderate and at times heavy snowfall.The storm is expected to impact the Rockford and Chicago areas along with Freeport, Peoria, Sterling, Pontiac and the Quad Cities.Winter weather advisories have been issued for cities including Bloomington, Champaign, Kankakee, Joliet and DeKalb.",
+              "url": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois",
+              "isAccessibleForFree": true,
+              "keywords": "news"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#primaryimage",
+              "url": "https://static.fox32chicago.com/www.fox32chicago.com/content/uploads/2019/08/94f76754-GETTY-chicago-snow_1518202004617_4917225_ver1.0_640_360.jpg",
+              "caption": "A man digs out his car along a snow-covered street in Chicago. (Scott Olson/Getty Images)"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#author-1",
+              "name": "FOX 32 Chicago",
+              "worksFor": {
+                "@id": "https://www.fox32chicago.com/#organization"
+              }
+            },
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.fox32chicago.com/#organization",
+              "name": "FOX 32 Chicago",
+              "alternateName": "WFLD, FOX 32",
+              "url": "https://www.fox32chicago.com/",
+              "sameAs": [
+                "https://www.facebook.com/Fox32Chicago/",
+                "https://twitter.com/fox32news",
+                "https://www.instagram.com/fox32chicago/",
+                "https://www.youtube.com/@FOX32Chicago/",
+                "https://en.wikipedia.org/wiki/WFLD",
+                "https://www.wikidata.org/wiki/Q7949353",
+                "https://www.wikidata.org/wiki/Q7949353"
+              ],
+              "foundingDate": "1966-01-04",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.foxtv.com/static/orion/img/wfld/favicons/favicon-96x96.png",
+                "width": "96",
+                "height": "96"
+              },
+              "contactPoint": [
+                {
+                  "@type": "ContactPoint",
+                  "telephone": "+1-312-565-5532",
+                  "contactType": "news desk"
+                }
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": {
+                  "@type": "Country"
+                }
+              }
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.fox32chicago.com/#website",
+              "url": "https://www.fox32chicago.com/",
+              "name": "FOX 32 Chicago",
+              "publisher": {
+                "@id": "https://www.fox32chicago.com/#organization"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "News",
+                  "item": "https://www.fox32chicago.com/tag/fts"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "News",
+                  "item": "https://www.fox32chicago.com/tag/news"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Storm forecast to bring up to 9 inches of snow to Illinois",
+                  "item": "https://www.fox32chicago.com/news/storm-forecast-to-bring-up-to-9-inches-of-snow-to-illinois"
+                }
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une tempête hivernale tardive est prévue pour apporter jusqu'à 9 pouces de neige dans le nord et le centre de l'Illinois, accompagnée de vents soufflant jusqu'à 35 mph, provoquant des pannes de courant et touchant plusieurs villes dont Rockford et Chicago.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Scott Olson"
+        ],
+        "LOCATION": [
+          "Illinois",
+          "Chicago",
+          "Rockford",
+          "Freeport",
+          "Peoria",
+          "Sterling",
+          "Pontiac",
+          "Quad Cities",
+          "Bloomington",
+          "Champaign",
+          "Kankakee",
+          "Joliet",
+          "DeKalb"
+        ],
+        "ORGANIZATION": [
+          "FOX 32 Chicago",
+          "Getty Images",
+          "AP",
+          "National Weather Service"
+        ],
+        "DATE": [
+          "March 23, 2018",
+          "Friday",
+          "Saturday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7165844617522494
+    },
+    {
+      "titre": "Another in 'biblical' series of snowstorms slams New England ...",
+      "source": "Norman Transcript",
+      "lien": "https://www.normantranscript.com/news/nation_world/another-in-biblical-series-of-snowstorms-slams-new-england/article_67eb4208-2882-56d7-a6c5-c0f4ad68ffef.html",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/0/42/04206130-d175-597d-9594-8eb07d7bda17/54e12876923d0.image.jpg?resize=753,500",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5Qvi0-vASLiFI2scFerFPlSjlfFPj6Jox5ntojNJOxGSjTmR1",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Another in 'biblical' series of snowstorms slams New England ...",
+        "link": "https://www.normantranscript.com/news/nation_world/another-in-biblical-series-of-snowstorms-slams-new-england/article_67eb4208-2882-56d7-a6c5-c0f4ad68ffef.html",
+        "source": "Norman Transcript",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSnaR1ykxaCsG8gFJprdwLO-doONY-e6cOA1qIQbst3apyuZwNWuvO0Vz3RVBtXTQJvLH2Tl9doLhlCzU0weXDlZkVe-vTmmYZW1-n4vhc2DxO5aEslCjtkMpBtiJE",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5Qvi0-vASLiFI2scFerFPlSjlfFPj6Jox5ntojNJOxGSjTmR1",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/0/42/04206130-d175-597d-9594-8eb07d7bda17/54e12876923d0.image.jpg?resize=753,500",
+        "image_width": 500,
+        "image_height": 753
+      },
+      "webpage": {
+        "text": "Another in 'biblical' series of snowstorms slams New England | Nation/World\n\nWeather Alert\n\n\nHeat Advisory until MON 7:00 PM CDT\n\n...HEAT ADVISORY REMAINS IN EFFECT UNTIL 7 PM CDT MONDAY...\n\n* WHAT...Heat index values up to 109.\n\n* WHERE...Portions of central, east central, northern, northwest,\nsoutheast, southern, and southwest Oklahoma and northern Texas.\n\n* WHEN...Until 7 PM CDT Monday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\nDrink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors.\n\n&&\n\n\nA man works to clear snow Sunday, Feb. 15, 2015, in Concord, N.H. A storm brought a new round of wind-whipped snow to New England on Sunday, creating near-whiteout conditions in coastal areas and forcing people to contend with a fourth winter onslaught in less than a month.\n\nBOSTON  — Another weekend, another major snow storm: The latest system to sweep the Northeast brought another foot to Boston — on top of 6 feet that has fallen over the last month — and tested New Englanders who say the winter is beginning to feel like one without end.\n\nEven after the storm, forecasters warned of exceptionally cold air, perhaps the coldest yet of the season. Strong winds expected to continue into Monday reduced visibility, created drifts and complicated an ongoing cleanup effort. Forecasters were talking about another storm on the horizon for midweek.\n\n\nTrending Video",
+        "metadata": {
+          "title": "Another in 'biblical' series of snowstorms slams New England | Nation/World | normantranscript.com",
+          "keywords": "nation_world, news",
+          "news_keywords": "nation_world, news",
+          "description": "BOSTON — Another weekend, another major snow storm: The latest system to sweep the Northeast brought another foot to Boston — on top of 6 feet that has fallen over",
+          "author": "Alanna Durkin and Michael Melia Associated Press",
+          "og:type": "article",
+          "og:url": "https://www.normantranscript.com/news/nation_world/another-in-biblical-series-of-snowstorms-slams-new-england/article_67eb4208-2882-56d7-a6c5-c0f4ad68ffef.html",
+          "og:image": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/a/77/a77cfc83-dd7d-5772-8058-b65d275bfe18/54e12877740f6.image.jpg?crop=800%2C420%2C0%2C60",
+          "og:image:width": "800",
+          "og:image:height": "420",
+          "og:title": "Another in 'biblical' series of snowstorms slams New England",
+          "og:description": "BOSTON — Another weekend, another major snow storm: The latest system to sweep the Northeast brought another foot to Boston — on top of 6 feet that has fallen over",
+          "og:site_name": "Norman Transcript",
+          "og:section": "Nation/World",
+          "fb:app_id": "78409409615",
+          "article:publisher": "https://www.facebook.com/normantranscript/",
+          "tncms:ads": "dmp"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une nouvelle tempête de neige majeure frappe la Nouvelle-Angleterre et Boston, ajoutant un pied de neige aux 6 pieds déjà tombés au cours du mois précédent et créant des conditions de quasi-blizzard dans les zones côtières, notamment à Concord (N.H.).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "New England",
+          "Oklahoma",
+          "Texas",
+          "Concord",
+          "N.H.",
+          "Boston",
+          "Northeast"
+        ],
+        "ORGANIZATION": [
+          "Norman Transcript"
+        ],
+        "DATE": [
+          "until MON 7:00 PM CDT",
+          "Monday",
+          "Sunday, Feb. 15, 2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Heat Advisory"
+        ]
+      },
+      "score_e5": 0.7108203313155778
+    },
+    {
+      "titre": "Blizzard live updates: Snow totals top 2 feet as wind gusts ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard?id=130378101&entryId=130420473",
+      "image_url": "https://i.abcnewsfe.com/a/10baf72a-fa67-4190-a444-0b2584a85420/snow-11-abc-gmh-260223_1771867775303_hpMain.jpg?w=750",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6Bts1b485vLCk-z1b1V6n7EFp_MOAaHpMHk8xZ_EjEv7e3vHH",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Blizzard live updates: Snow totals top 2 feet as wind gusts ...",
+        "link": "https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard?id=130378101&entryId=130420473",
+        "source": "ABC News",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSdDthOrHkB1b96UNLuMPbE4vVuL5NiDZTko3J-5DIK22_kLyBpIKBSKl80dqNb6nykKXM-Kqn6YZiii7CYJzvu5_QN0NEepvDAToLVeL8WKw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6Bts1b485vLCk-z1b1V6n7EFp_MOAaHpMHk8xZ_EjEv7e3vHH",
+        "thumbnail_width": 175,
+        "thumbnail_height": 289,
+        "image": "https://i.abcnewsfe.com/a/10baf72a-fa67-4190-a444-0b2584a85420/snow-11-abc-gmh-260223_1771867775303_hpMain.jpg?w=750",
+        "image_width": 454,
+        "image_height": 750
+      },
+      "webpage": {
+        "text": "Blizzard live updates: Snow totals top 2 feet as wind gusts reach 80 mph\n\nThe governors of New York and New Jersey have issued states of emergency.\n\nA massive winter storm is barreling across the Northeast, dumping more than 2 feet of snow and prompting the first blizzard warning for New York City in nearly a decade.\n\nBlowing winds up to 80 mph and heavy snow are pummeling New Jersey, New York, Pennsylvania, Connecticut, Rhode Island and Massachusetts.\n\n\nKey Headlines\n\n * Feb 23, 2026, 1:41 PM EST\n\n * Feb 23, 2026, 1:37 PM EST\n\n * Feb 23, 2026, 12:10 PM EST\n\n * Feb 23, 2026, 11:28 AM EST\n\nHere's how the news is developing.\n\nFeb 23, 2026, 1:37 PM EST\n\n\nNYC remains under state of emergency, schools to reopen Tuesday\n\n\nNew York City remains under a state of emergency even though \"the worst has passed,\" Mayor Zohran Mamdani said at a news conference Monday.\n\n\"I’m imploring New Yorkers to stay off the roads,\" he said.\n\n\nOver 2 feet of snow has fallen in parts of Staten Island, Mamdani said. Central Park has recorded more than 19 inches.\n\n\"Conditions have begun to moderate, but there is still more to come,\" he said, noting that snow will linger through the afternoon and wind gusts could stay as high as 40 mph through the evening.\n\nMamdani said the city’s schools will return to in-person learning on Tuesday.\n\n\nFeb 23, 2026, 12:10 PM EST\n\n\nNew York City travel ban lifted but mayor cautions New Yorkers to stay inside\n\n\nNew York City’s travel ban is now lifted, but Mayor Zohran Mamdani is urging New Yorkers to \"stay indoors as much as possible.\"\n\nThe city has seen 14 to 20 inches of snow so far, Mamdani said, with another inch or two expected.\n\n\"The city's travel ban is lifted, but conditions on the roads remain icy,\" he wrote on social media. \"If you choose to drive, please exercise caution, travel slowly, and be mindful of others on the road.\"\n\n\nIn Westchester County, just north of New York City, the road ban has been extended to 6 p.m. Monday.\n\nFeb 23, 2026, 11:28 AM EST\n\n\nNew Jersey travel ban extended to noon, Hoboken's ban extended to 4 pm\n\n\nNew Jersey’s travel ban, which began at 9 p.m. Sunday, will now remain in effect until noon on Monday, police announced.\n\nNew Jersey State Police said the \"extension is necessary due to …. [the] heavy snowfall, blizzard-like conditions, and strong winds that continue to create dangerous travel conditions.\"\n\n\"Residents are urged to avoid all non-essential travel until the restriction is lifted,\" police said.\n\n\nThis is the first time all of New Jersey has been under a blizzard warning in 30 years.\n\nIn Hoboken, just outside New York City, officials said the city travel ban is extended to 4 p.m.\n\n\nStaying off the roads allows crews to continue plowing safely and allows public safety to address emergencies quickly,\" city officials said.\n\nNew Jersey Transit said it's suspended all of its trains and busses until further notice.\n\nFeb 23, 2026, 11:11 AM EST\n\n\nWind gusts over 80 mph\n\n\nThe blizzard’s powerful winds are downing trees, damaging cars, knocking out power and causing extremely dangerous travel conditions.\n\nWind gusts have hit 84 mph in the Hamptons in New York; 83 mph on Nantucket in Massachusetts; 73 mph on Cape Cod, Massachusetts; and 62 mph at New York City’s JFK airport.\n\n\nSponsored Content by Taboola\n\n\nTop Stories",
+        "metadata": {
+          "og:locale": "en_US",
+          "keywords": "LiveBlog, 130378101",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "NYC remains under state of emergency, schools to reopen Tuesday",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/US/live-updates/severe-winter-storm-live-updates-northeast-braces-blizzard/?id=130378101&entryId=130420473",
+          "og:title": "NYC remains under state of emergency, schools to reopen Tuesday",
+          "og:image": "https://i.abcnewsfe.com/a/dbaf87c9-8932-48bc-a910-f2f424ef69fa/snow-10-ap-gmh-260223_1771866512824_hpMain.jpg",
+          "og:type": "article",
+          "fb:pages": "55845270277"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une tempête hivernale massive balaie le Nord-Est des États-Unis, déposant plus de 2 pieds de neige et entraînant des avertissements de blizzard, des états d'urgence à New York et dans le New Jersey, ainsi que des interdictions de voyager et des rafales de vent atteignant 80 mph.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Zohran Mamdani"
+        ],
+        "LOCATION": [
+          "New York",
+          "New Jersey",
+          "Northeast",
+          "New York City",
+          "Pennsylvania",
+          "Connecticut",
+          "Rhode Island",
+          "Massachusetts",
+          "Staten Island",
+          "Central Park",
+          "Westchester County",
+          "Hoboken"
+        ],
+        "ORGANIZATION": [
+          "ABC News",
+          "New Jersey State Police",
+          "New Jersey Transit"
+        ],
+        "DATE": [
+          "Feb 23, 2026",
+          "Monday",
+          "Tuesday",
+          "Sunday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7174390851245002
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Volgograd",
+      "Russia"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "Monday"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Boston",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New England",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Feb. 15, 2015",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Wind-Whipped Snowstorm Slams Boston Again",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IE 11",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ginger Zee",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York City",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ohio",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Virginia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Pole",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Great Lakes",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Midwest",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2004",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "28 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last winter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "first week of January 2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "later this year",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "decades",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "second half of the week",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "polar vortex",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "polar jet stream",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Scott Olson",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Illinois",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chicago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rockford",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Freeport",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Peoria",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sterling",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pontiac",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Quad Cities",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bloomington",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Champaign",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kankakee",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Joliet",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "DeKalb",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FOX 32 Chicago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Weather Service",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 23, 2018",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oklahoma",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Concord",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "N.H.",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Northeast",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Norman Transcript",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "until MON 7:00 PM CDT",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Heat Advisory",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Zohran Mamdani",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Jersey",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pennsylvania",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Connecticut",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rhode Island",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Massachusetts",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Staten Island",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Central Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Westchester County",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hoboken",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New Jersey State Police",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New Jersey Transit",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Feb 23, 2026",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:19:52.657243"
+  }
+}

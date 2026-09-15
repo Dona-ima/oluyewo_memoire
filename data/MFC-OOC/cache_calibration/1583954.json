@@ -1,0 +1,752 @@
+{
+  "id_rumeur": 1583954,
+  "id_image": 1583954,
+  "caption": "Restrictions on Bulgarians and Romanians in the EU will be lifted from January",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747604/oluyewo_benchmark/akzdepdlhdauhoyhhpaj.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "UK targets to cut immigration 'punish businesses' - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-34070185",
+      "image_url": "http://c.files.bbci.co.uk/15C5C/production/_84308198_border_empty_pa.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnh_v0uEOhQbpMCuf1hDuDWOGQe6IFu8xV2DBse7CzzimM7Qz",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "UK targets to cut immigration 'punish businesses' - BBC News",
+        "link": "https://www.bbc.com/news/uk-34070185",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnh_v0uEOhQbpMCuf1hDuDWOGQe6IFu8xV2DBse7CzzimM7Qz",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/15C5C/production/_84308198_border_empty_pa.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "UK targets to cut immigration 'punish businesses'\n\nSunder Katwala, director of British Future, said: \"The prime minister currently has no long-term plan to meet his net migration target. It is little wonder there is such low public trust on immigration and the government's ability to manage it.\n\n\"Responding to each damaging set of immigration figures with new ad-hoc policies is no way to manage such an important issue.\n\n\"A comprehensive immigration review would set out what's possible and what isn't. It could also give the public more of a say in what happens - providing impartial facts about the impacts of different policies on the economy, society and public services.\"\n\nSimon Walker, director general of the Institute of Directors, said: \"Scrabbling around to find measures to hit a bizarre and unachievable migration target is no way to give British businesses the stable environment they need.\n\n\"Combined with ministers' increasingly strong rhetoric on immigration, the UK's reputation as an open, competitive economy is under threat.\"\n\nThe prime minister vowed to get net migration down to \"tens of thousands\" each year \"no ifs, no buts\" in a speech in 2011.\n\nBut the most recent figures in May showed net migration in the UK stood at 318,000 in 2014.",
+        "metadata": {
+          "description": "Prime Minister David Cameron is \"punishing businesses\" by trying to fulfil promises to cut immigration, the Institute of Directors says.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Prime Minister David Cameron is \"punishing businesses\" by trying to fulfil promises to cut immigration, the Institute of Directors says.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15C5C/production/_84308198_border_empty_pa.jpg",
+          "og:image:alt": "UK Border controls sign at Heathrow Airport",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "UK targets to cut immigration 'punish businesses'",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-34070185",
+          "article:section": "UK",
+          "twitter:description": "Prime Minister David Cameron is \"punishing businesses\" by trying to fulfil promises to cut immigration, the Institute of Directors says.",
+          "twitter:title": "UK targets to cut immigration 'punish businesses'"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-34070185",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-08-27T02:44:12.000Z",
+          "dateModified": "2015-08-27T06:56:00.000Z",
+          "description": "Prime Minister David Cameron is \"punishing businesses\" by trying to fulfil promises to cut immigration, the Institute of Directors says.",
+          "headline": "UK targets to cut immigration 'punish businesses'",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15C5C/production/_84308198_border_empty_pa.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15C5C/production/_84308198_border_empty_pa.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-34070185",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Royaume-Uni fait face à des critiques concernant ses objectifs et ses politiques en matière d'immigration. Sunder Katwala de British Future et Simon Walker de l'Institute of Directors critiquent l'absence de plan à long terme du Premier ministre pour atteindre l'objectif de migration nette. Les chiffres récents de mai montraient une migration nette de 318 000 en 2014, alors que le Premier ministre s'était engagé en 2011 à la réduire à quelques dizaines de milliers par an.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sunder Katwala",
+          "Simon Walker"
+        ],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "British Future",
+          "Institute of Directors"
+        ],
+        "DATE": [
+          "2011",
+          "May",
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7069109750297922
+    },
+    {
+      "titre": "Government suffers two defeats in Lords on Immigration Bill ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-politics-35767948",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/15C5C/production/_84308198_border_empty_pa.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoGRpx_flLCWUDTs85JAhE1_v5MceXx9i4zXSM0pr7S20Cw9FM",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Government suffers two defeats in Lords on Immigration Bill ...",
+        "link": "https://www.bbc.com/news/uk-politics-35767948",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoGRpx_flLCWUDTs85JAhE1_v5MceXx9i4zXSM0pr7S20Cw9FM",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/15C5C/production/_84308198_border_empty_pa.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Government suffers two defeats in Lords on Immigration Bill\n\nThe government has twice been defeated in the Lords over its Immigration Bill, shortly after losing a vote in the Commons on Sunday trading.\n\nPeers voted to allow asylum seekers the right to work if their claims have not been processed within six months.\n\nThey also voted to allow overseas domestic workers to change employers without risking immediate deportation.\n\nOpponents had argued the latter provision would create \"a wide open door to the UK\" that could be abused.\n\nPeers voted by 280 votes to 195 in favour of a Labour, Lib Dem and crossbench amendment to the Immigration Bill, external on the rights of asylum seekers to work.\n\nLord Alton of Liverpool, who proposed it, said it would end the \"enforced workhouse destitution\" currently experienced by asylum seekers.\n\n\"They are frustrated at being forced to remain idle and survive on benefits,\" he said.\n\n\"How many of us could exist on just over £5 a day while an asylum application was being considered? This is way below the poverty line. Where is the justice and fairness in that?\"\n\nAt present, asylum seekers are not allowed to work, external unless they have been waiting for a decision on their case for more than a year - and then only in national shortage occupations.\n\n * Where do asylum seekers live?\n\n * What happens to asylum seekers who come to the UK?\n\nLord Alton said 3,500 people had been waiting for six months or more by the end of last year, and they deserved to be able to work rather than \"eke out\" an existence on \"pitiful\" state benefits.\n\nHe insisted \"all the available evidence shows that permission to work does not act as a pull factor for asylum seekers, or migrants.\"",
+        "metadata": {
+          "description": "Ministers lose two votes in the Lords over the treatment of asylum seekers and overseas domestic workers - soon after a Commons defeat on Sunday trading.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Ministers lose two votes in the Lords over the treatment of asylum seekers and overseas domestic workers - soon after a Commons defeat on Sunday trading.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1600E/production/_88662109_border_empty_pa.jpg",
+          "og:image:alt": "UK Border controls sign at Heathrow Airport",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Government suffers two defeats in Lords on Immigration Bill",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-politics-35767948",
+          "article:section": "UK Politics",
+          "twitter:description": "Ministers lose two votes in the Lords over the treatment of asylum seekers and overseas domestic workers - soon after a Commons defeat on Sunday trading.",
+          "twitter:title": "Government suffers two defeats in Lords on Immigration Bill"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-politics-35767948",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-03-09T20:21:52.000Z",
+          "dateModified": "2016-03-09T20:21:52.000Z",
+          "description": "Ministers lose two votes in the Lords over the treatment of asylum seekers and overseas domestic workers - soon after a Commons defeat on Sunday trading.",
+          "headline": "Government suffers two defeats in Lords on Immigration Bill",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1600E/production/_88662109_border_empty_pa.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1600E/production/_88662109_border_empty_pa.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-politics-35767948",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le gouvernement britannique a subi deux défaites à la Chambre des lords concernant le projet de loi sur l'immigration. Les pairs ont voté pour accorder aux demandeurs d'asile le droit de travailler si leurs demandes ne sont pas traitées dans les six délais et pour permettre aux travailleurs domestiques étrangers de changer d'employeur. Lord Alton of Liverpool a proposé l'amendement sur les droits des demandeurs d'asile.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Lord Alton of Liverpool"
+        ],
+        "LOCATION": [
+          "UK",
+          "Liverpool"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Lords",
+          "Commons",
+          "Labour",
+          "Lib Dem"
+        ],
+        "DATE": [
+          "Sunday",
+          "last year"
+        ],
+        "EVENT": [
+          "Immigration Bill"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7327768509933104
+    },
+    {
+      "titre": "Customs declarations to treble after Brexit – leaving staff ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/politics/2017/oct/20/customs-declarations-to-treble-after-brexit-leaving-staff-struggling",
+      "image_url": "https://i.guim.co.uk/img/media/c93828628693556c568acc69ea926d50ee1e36ba/0_34_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=f8d46da615aa7a7c9d0d4b27ab78e4cd",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0sgb11CzvCTKSeHI8dLKegDay68KlTCJwG8wGkkT7Sev0Nt-z",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Customs declarations to treble after Brexit – leaving staff ...",
+        "link": "https://www.theguardian.com/politics/2017/oct/20/customs-declarations-to-treble-after-brexit-leaving-staff-struggling",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0sgb11CzvCTKSeHI8dLKegDay68KlTCJwG8wGkkT7Sev0Nt-z",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/c93828628693556c568acc69ea926d50ee1e36ba/0_34_3500_2100/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=f8d46da615aa7a7c9d0d4b27ab78e4cd",
+        "image_width": 720,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Customs declarations to treble after Brexit – leaving staff struggling | Brexit\n\nCustoms declarations are expected to more than treble after Brexit while immigration officials face making more than double the number of decisions, Whitehall’s official spending watchdog has found.\n\n\nAs Theresa May’s government prepares to leave the EU, the National Audit Office has warned that the extra workload will come as staff numbers at the border are being cut and increasing reliance on outdated technology.\n\nMeg Hillier, the chair of the public accounts committee, said the report underlines the sheer scale of the task ahead for the Home Office and cast doubt over the government’s ability to cope.\n\n\n“The government can’t even get started on many of these challenges until we have progress on the exit deal.\n\n\n“Add to that the Home Office’s poor track record with projects like e-borders and for all the government bluster about Brexit it’s difficult to see how, practically, it will be able to deliver any of these huge changes in time.”\n\nIn a 30-page report released on Friday, auditors have painted a bleak picture of Britain’s readiness by the time the UK breaks away from the EU in March 2019.\n\n\nIf the existing entry regime for non-European Economic Area nationals is extended to all EEA arrivals, auditors said UK Visas and Immigration will need to make 230% more decisions a year.\n\n\nIf customs declarations are required for trade between the UK and EU, the total number could increase by 360%, from the £55m currently made on non-EU trade to £255m, the report said.\n\nThe need to carry out biosecurity and standards checks on livestock, food and other goods could add to officials’ workload, the report said.\n\nAuditors wrote: “The number of decisions that have to be made over whether to permit people and goods to cross the border could increase significantly (potentially 230% and 360% respectively) through the need to make decisions on traffic from the EU.”\n\n“It may require bespoke processes for managing the land border with Ireland and the replacement of (or significant changes to) border services currently provided by European member states.”\n\nNew digital services are due to be introduced at the border for passport holders and customs declarations to replace outdated systems. But given the government’s track record rolling out other new IT systems, auditors warn that both face severe challenges.\n\nThe report points out that border force staff have been cut by 4% over the last four years and could “struggle to deal with the training, workforce, financial and prioritisation challenges involved in managing so many changes to its business in a short space of time”.\n\nAuditors said any changes to border management requires time and help from multiple government departments.\n\n“Our previous work shows that some changes to border management processes cannot be made without significant lead times and their successful implementation may require action from many parts of government and industry.\n\n\n“The government will therefore need to make reasonable planning assumptions and take action where necessary to allow the border to be managed effectively from March 2019.”",
+        "metadata": {
+          "title": "Customs declarations to treble after Brexit – leaving staff struggling | Brexit | The Guardian",
+          "description": "Auditors paint bleak picture of Britain’s readiness to cope with extra workload at the border as staff numbers are cut",
+          "og:url": "http://www.theguardian.com/politics/2017/oct/20/customs-declarations-to-treble-after-brexit-leaving-staff-struggling",
+          "article:author": "https://www.theguardian.com/profile/rajeev-syal",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/c93828628693556c568acc69ea926d50ee1e36ba/0_34_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTcucG5n&enable=upscale&s=01466caeb6dd8fe6b6c91a7f92569eea",
+          "al:ios:url": "gnmguardian://politics/2017/oct/20/customs-declarations-to-treble-after-brexit-leaving-staff-struggling?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Customs declarations to treble after Brexit – leaving staff struggling",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2020-02-03T12:13:49.000Z",
+          "og:image:height": "720",
+          "og:description": "Auditors paint bleak picture of Britain’s readiness to cope with extra workload at the border as staff numbers are cut",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Politics",
+          "article:published_time": "2017-10-20T15:27:26.000Z",
+          "article:tag": "Brexit,European Union,Politics,UK news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les déclarations en douane au Royaume-Uni devraient plus que tripler après le Brexit, tandis que les agents de l'immigration devront faire face à une forte augmentation des décisions. Un rapport de la National Audit Office et des déclarations de Meg Hillier soulignent les défis à venir pour le Home Office lors de la sortie de l'UE prévue en mars 2019, dans un contexte de réduction du personnel frontalier.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Theresa May",
+          "Meg Hillier"
+        ],
+        "LOCATION": [
+          "UK",
+          "Britain",
+          "EU",
+          "Ireland"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "National Audit Office",
+          "public accounts committee",
+          "Home Office",
+          "UK Visas and Immigration",
+          "European Economic Area"
+        ],
+        "DATE": [
+          "Friday",
+          "March 2019",
+          "the last four years"
+        ],
+        "EVENT": [
+          "Brexit"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7667698563655183
+    },
+    {
+      "titre": "UK visa problems worry scientists | Nature",
+      "source": "Nature",
+      "lien": "https://www.nature.com/articles/506014a",
+      "image_url": "https://media.springernature.com/w300/springer-static/image/art:10.1038/506014a/MediaObjects/41586_2014_Article_BF506014a_Figb_HTML.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNhHxDzDv_bUj3Qg-ZacB6woTJEmo8yovx0XEdPPmO_Q6ehIVW",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "UK visa problems worry scientists | Nature",
+        "link": "https://www.nature.com/articles/506014a",
+        "source": "Nature",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcREiof8KGZ5hWbx7Li9FWO3LdA51dpslVG5mNdz20UTQ4mQ-zlKzEVzC9AmecTt7iUtCJD23Lf9DMuwz26a1reIqmAo9ZdDwh_Rkknh9TKmkQV22A",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNhHxDzDv_bUj3Qg-ZacB6woTJEmo8yovx0XEdPPmO_Q6ehIVW",
+        "thumbnail_width": 182,
+        "thumbnail_height": 276,
+        "image": "https://media.springernature.com/w300/springer-static/image/art:10.1038/506014a/MediaObjects/41586_2014_Article_BF506014a_Figb_HTML.jpg",
+        "image_width": 198,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "UK visa problems worry scientists\n\nImmigration policies scare off foreign talent, warn critics.\n\nThis is a preview of subscription content, access via your institution\n\n\nAccess options\n\nAccess through your institution\n\nSubscribe to this journal\n\nReceive 52 print issues and online access\n\n$199.00 per year\n\nonly $3.83 per issue\n\nBuy this article\n\n * Purchase on SpringerLink\n * Instant access to the full article PDF.\n\nUSD 39.95\n\nPrices may be subject to local taxes which are calculated during checkout\n\n\nSubjects\n\n\nAdditional information\n\n\nRelated links\n\n\nRights and permissions\n\n\nAbout this article\n\n\nCite this article\n\nCressey, D. UK visa problems worry scientists. Nature 506, 14–15 (2014). https://doi.org/10.1038/506014a\n\nDownload citation\n\n * Published: 04 February 2014\n\n * Issue date: 06 February 2014\n\n * DOI: https://doi.org/10.1038/506014a",
+        "metadata": {
+          "title": "UK visa problems worry scientists | Nature",
+          "dc.title": "UK visa problems worry scientists",
+          "dc.description": "Immigration policies scare off foreign talent, warn critics.",
+          "description": "Immigration policies scare off foreign talent, warn critics.",
+          "twitter:title": "UK visa problems worry scientists",
+          "twitter:description": "Nature - Immigration policies scare off foreign talent, warn critics.",
+          "og:url": "https://www.nature.com/articles/506014a",
+          "og:type": "article",
+          "og:site_name": "Nature",
+          "og:title": "UK visa problems worry scientists - Nature",
+          "og:description": "Immigration policies scare off foreign talent, warn critics.",
+          "og:image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F506014a/MediaObjects/41586_2014_Article_BF506014a_Figb_HTML.jpg"
+        },
+        "jsonld": {
+          "mainEntity": {
+            "headline": "UK visa problems worry scientists",
+            "description": "Immigration policies scare off foreign talent, warn critics.",
+            "datePublished": "2014-02-04T00:00:00Z",
+            "dateModified": "2014-02-04T00:00:00Z",
+            "pageStart": "14",
+            "pageEnd": "15",
+            "sameAs": "https://doi.org/10.1038/506014a",
+            "keywords": [
+              "Government",
+              "Law",
+              "Policy",
+              "Science",
+              "Humanities and Social Sciences",
+              "multidisciplinary"
+            ],
+            "image": [
+              "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2F506014a/MediaObjects/41586_2014_Article_BF506014a_Figb_HTML.jpg",
+              "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2F506014a/MediaObjects/41586_2014_Article_BF506014a_Figa_HTML.png"
+            ],
+            "isPartOf": {
+              "name": "Nature",
+              "issn": [
+                "1476-4687",
+                "0028-0836"
+              ],
+              "volumeNumber": "506",
+              "@type": [
+                "Periodical",
+                "PublicationVolume"
+              ]
+            },
+            "publisher": {
+              "name": "Nature Publishing Group UK",
+              "logo": {
+                "url": "https://www.springernature.com/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+              },
+              "@type": "Organization"
+            },
+            "author": [
+              {
+                "name": "Daniel Cressey",
+                "@type": "Person"
+              }
+            ],
+            "isAccessibleForFree": true,
+            "@type": "NewsArticle"
+          },
+          "@context": "https://schema.org",
+          "@type": "WebPage"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les problèmes de visa au Royaume-Uni suscitent l'inquiétude des scientifiques et des critiques avertissent que les politiques d'immigration effraient les talents étrangers.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Cressey"
+        ],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "Nature",
+          "SpringerLink"
+        ],
+        "DATE": [
+          "04 February 2014",
+          "06 February 2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7199844627685335
+    },
+    {
+      "titre": "Statement on health measures on the UK border - UK Parliament",
+      "source": "UK Parliament",
+      "lien": "https://www.parliament.uk/business/news/2020/june/statement-on-health-measures-on-the-uk-border/",
+      "image_url": "https://www.parliament.uk/globalassets/assets/subjects/asylum-immigration-nationality/standard/pa-9018498-uk-border-control-credit-steve-parsons-.jpg?width=1000&quality=85",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzL_ace7FEsVea5zeN4I9yokbd5oAh2mqtGQ9Daxye6_73_Ck3",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Statement on health measures on the UK border - UK Parliament",
+        "link": "https://www.parliament.uk/business/news/2020/june/statement-on-health-measures-on-the-uk-border/",
+        "source": "UK Parliament",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRy97DXrin2831cBw-KZ51LvRh_Evz8ntpmO8yoR2QXvS0Aif6KYmuC4pvoBMBei2LFx6jwnpQelyR4QA9VDNhfHAtTVbQk0Mqek3JPIMlILkHOsYeKGw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzL_ace7FEsVea5zeN4I9yokbd5oAh2mqtGQ9Daxye6_73_Ck3",
+        "thumbnail_width": 159,
+        "thumbnail_height": 318,
+        "image": "https://www.parliament.uk/globalassets/assets/subjects/asylum-immigration-nationality/standard/pa-9018498-uk-border-control-credit-steve-parsons-.jpg?width=1000&quality=85",
+        "image_width": 500,
+        "image_height": 1000
+      },
+      "webpage": null,
+      "texte_contexte": "Déclaration sur les mesures sanitaires à la frontière du Royaume-Uni.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "UK Parliament"
+        ],
+        "DATE": [
+          "June 2020"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7764028029645097
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Bulgaria",
+      "Romania",
+      "European Union"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "January"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "restrictions"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Sunder Katwala",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Simon Walker",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Future",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Institute of Directors",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lord Alton of Liverpool",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Liverpool",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lords",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Commons",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Labour",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lib Dem",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Immigration Bill",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Theresa May",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Meg Hillier",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "European Union",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ireland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Audit Office",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "public accounts committee",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Home Office",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UK Visas and Immigration",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Economic Area",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 2019",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "the last four years",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Brexit",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cressey",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nature",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SpringerLink",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "04 February 2014",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "06 February 2014",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UK Parliament",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2020",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:57:27.639417"
+  }
+}

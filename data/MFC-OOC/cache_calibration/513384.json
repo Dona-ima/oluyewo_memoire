@@ -1,0 +1,718 @@
+{
+  "id_rumeur": 513384,
+  "id_image": 513384,
+  "caption": "Jerusalem Israel Palestinian Muslims walk next to the Dome of the Rock mosque to attend Eid alFitr prayers in the alAqsa mosque compound",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757290/oluyewo_benchmark/sp89l4mkidvo39jeo5sz.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Eid Blessings! | Virtual Mosque",
+      "source": "Virtual Mosque",
+      "lien": "https://www.virtualmosque.com/miscellaneous/announcements/eid-blessings/",
+      "image_url": "https://www.virtualmosque.com/wp-content/uploads/45065749_-1801.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMBEeQDZT4cMmmpDexv1W0yw9opiLsiPWBgA4RIBmm0_S6Vdm",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Eid Blessings! | Virtual Mosque",
+        "link": "https://www.virtualmosque.com/miscellaneous/announcements/eid-blessings/",
+        "source": "Virtual Mosque",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAMAAAAynjhNAAAAP1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC6E-JdAAAAFHRSTlMApzZtj1HLvmYR8BuBQnUI4tgk-nxMmZMAAADqSURBVCiRzZPJFsMgCEVBRaNxaBr-_1srZqhtUtdlEeVc4SEGgN48jIzGWMU05DgOn4YUghpRw_Y3zyxm7-WfgXeLdxSSa3DN_ho_MRso9cAEyfLjSlkO0K7xxfHRePBmk3cfF9AKDiC1ExTquG6JITa4zOBlfWPxPDJBldCADHKHs78kYkU-YFWqK86S5ayrOtSkQ9OpiaX8smOpGrbS5601SSKOp18Fc49z7sT5gqP-L2zRoDLO2iXk6QMHAzk66UVYrJMTHTZJi-uyOhpVzZOmp2zaT4R34-Hn7UFMuYHHe-FvWMduOBgvqd4Zw3v2JCEAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMBEeQDZT4cMmmpDexv1W0yw9opiLsiPWBgA4RIBmm0_S6Vdm",
+        "thumbnail_width": 180,
+        "thumbnail_height": 280,
+        "image": "https://www.virtualmosque.com/wp-content/uploads/45065749_-1801.jpg",
+        "image_width": 300,
+        "image_height": 466
+      },
+      "webpage": {
+        "text": "Eid Blessings!\n\nAsalamu alaykum,\n\nOn behalf of the entire staff and writers here at virtualmosque.com, I would like to express my profound happiness with Allah who guided us to complete another Ramadan. It was only by His mercy that we were able to do so. I hope and pray that all of you have a blessed, illuminated and fun filled Eid.\n\n\nI would like to thank each and everyone of you for visiting our site, offering your advice and giving us your time. Your visits mean so much to us and your comments are truly valued. I’m touched by the countless number of people I met who read this blog and benefited from it. The staff and myself hope to improve our site soon and with your prayers we are sure that Allah will grant us the ability. Finally, I would like to thank all of our writers and staff who work 7 days a week to insure the site stays active.\n\nEid Mubarak!\n\nSuhaib Webb\n\n\nYou may also like\n\n\nAbout the author\n\nSuhaib Webb is a contemporary American-Muslim educator, activist, and lecturer. His work bridges classical and contemporary Islamic thought, addressing issues of cultural, social and political relevance to Muslims in the West. After converting to Islam in 1992, Webb left his career in the music industry to pursue his passion in education. He earned a Bachelor’s in Education from the University of Central Oklahoma and received intensive private training in the Islamic Sciences under a renowned Muslim Scholar of Senegalese descent. Webb was hired as the Imam at the Islamic Society of Greater Oklahoma City, where he gave khutbas (sermons), taught religious classes, and provided counselling to families and young people; he also served as an Imam and resident scholar in communities across the U.S.\n\nFrom 2004-2010, Suhaib Webb studied at the world’s preeminent Islamic institution of learning, Al-Azhar University, in the College of Shari`ah. During this time, after several years of studying the Arabic Language and the Islamic legal tradition, he also served as the head of the English Translation Department at Dar al-Ifta al-Misriyyah.\n\nOutside of his studies at Al-Azhar, Suhaib Webb completed the memorization of the Quran in the city of Makkah, Saudi Arabia. He has been granted numerous traditional teaching licenses (ijazat), adhering to centuries-old Islamic scholarly practice of ensuring the highest standards of scholarship. Webb was named one of the 500 Most Influential Muslims in the World by the Royal Islamic Strategic Studies Center in 2010.",
+        "metadata": {
+          "title": "Eid Blessings! | Virtual Mosque"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page du site Virtual Mosque souhaitant une bonne fête de l'Aïd (Eid Blessings! / Eid Mubarak) aux visiteurs et remerciant le personnel ainsi que les rédacteurs. La page mentionne également l'auteur Suhaib Webb, un éducateur, activiste et conférencier américain-musulman, détaillant son parcours incluant ses études à l'Université Al-Azhar, son rôle d'imam et ses formations.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Suhaib Webb",
+          "Allah"
+        ],
+        "LOCATION": [
+          "Makkah",
+          "Saudi Arabia",
+          "U.S."
+        ],
+        "ORGANIZATION": [
+          "Virtual Mosque",
+          "University of Central Oklahoma",
+          "Islamic Society of Greater Oklahoma City",
+          "Al-Azhar University",
+          "Dar al-Ifta al-Misriyyah",
+          "Royal Islamic Strategic Studies Center"
+        ],
+        "DATE": [
+          "1992",
+          "2004-2010",
+          "2010",
+          "7 days a week"
+        ],
+        "EVENT": [
+          "Ramadan",
+          "Eid"
+        ],
+        "OTHER": [
+          "Quran"
+        ]
+      },
+      "score_e5": 0.7493323955966867
+    },
+    {
+      "titre": "St. Thomas student who spoke at Easter Sunday in Vatican ...",
+      "source": "MPR News",
+      "lien": "https://www.mprnews.org/story/2025/04/22/st-thomas-student-who-spoke-at-easter-sunday-in-vatican-city-remembers-pope-francis",
+      "image_url": "https://img.apmcdn.org/ec8a4d315859f234c7f557e3cd8a6ccad67e4004/uncropped/7f1298-20250422-the-vatican-400.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeVikX1xZLP9UYix1PFVEULfuvQoNVkgDvFezOx1hvUYIK1XfB",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "St. Thomas student who spoke at Easter Sunday in Vatican ...",
+        "link": "https://www.mprnews.org/story/2025/04/22/st-thomas-student-who-spoke-at-easter-sunday-in-vatican-city-remembers-pope-francis",
+        "source": "MPR News",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBw0KCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3NTc3Nzc3Nzc3NzcrNzc3Nys3NzU3NTU3Kzc3Nzc3NzcrNys3NzQ1Nzc1NSstNzIrK__AABEIACAAIAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAABgIEBQH_xAAqEAABAwMDAwIHAQAAAAAAAAABAgMRAAQSEyFBBQYxIjIjQlGBkaGxFP_EABgBAQADAQAAAAAAAAAAAAAAAAIBBAUA_8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACETFRYRL_2gAMAwEAAhEDEQA_AEXKjKt_su16NeG7HWmrh7FbJa0c9h6ysHHgwkfXfbmtO2Y7ULa1PWV1ptNpC3vjAKchAc2yn0q1JVECfaY3vL5M0zsiblRlUx0--kIUy7nnpxHzgSR-N64_aXNuyh19taG1-1Sh52n-Usg-iRsOo_42Xm8M9R1lycojTUVR45n7Vfc7jLjDidIpWdUIKXBACyTv6ZMTwRPNL2VGVLWBpVdYxudzuOMLb0UhSmcM9Tw5iUlzx5IPj91V6l1hF7aIZ0iFpIOq4sKUABGIOIMc7k1jZUZV2sgpU4n_2Q.jpeg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeVikX1xZLP9UYix1PFVEULfuvQoNVkgDvFezOx1hvUYIK1XfB",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://img.apmcdn.org/ec8a4d315859f234c7f557e3cd8a6ccad67e4004/uncropped/7f1298-20250422-the-vatican-400.jpg",
+        "image_width": 267,
+        "image_height": 400
+      },
+      "webpage": {
+        "text": "St. Thomas student who spoke at Easter Sunday in Vatican City remembers Pope Francis\n\nCreate an account or log in to save stories.\n\nThanks for liking this story! We have added it to a list of your favorite stories.\n\nUniversity of St. Thomas students studying at their Rome Bernardi Campus have found themselves in the thick of world news. They were there for Pope Francis’ final public appearance on Easter Sunday and the pontiff’s death the following day.\n\nAlex Lenzmeier, class of 2028, was one of a handful of students who gave a reading on Easter in St. Peter's Basilica and was surrounded by his peers when news of the pope’s passing broke Monday morning. He joined MPR News host Cathy Wurzer to share his experience of being in Italy right now.\n\nThe following conversation has been lightly edited for length and clarity. Listen to the full conversation by clicking the player button above.\n\n\nHow were you chosen to give a reading on Easter?\n\nSo Thanos Zyngas has been the director of our campus here in Rome for quite some time, and he's built up connections. And so every year, the Vatican reaches out to him, asking if there are any students who would be interested in reading. And I thought to myself, “it's too good of an opportunity to pass up.” And so he signed me up for it, and had a rehearsal on Saturday, and then I read at Mass on Sunday.\n\nMPR News helps you turn down the noise and build shared understanding. Turn up your support for this public resource and keep trusted journalism accessible to all.\n\n\nHow were you feeling in St. Peter’s Basilica?\n\nI had grown up altar serving, but I had never read at Mass before, and so I was a little nervous. The rehearsal on Saturday went pretty well. And then we had a rehearsal before Mass on Sunday, and looking out and seeing just the thousands of people standing out in the square, that was a little nerve-wracking. But I tried to put that down, not think about that or the broadcast. And then once I got up there for the reading during mass, it went pretty smoothly.\n\n\nWhat were you thinking while near Pope Francis?\n\nBecause of his illness, we didn't have a chance to speak with him at all. He gave his Urbi et Orbi blessing from the balcony, and we could kind of see him. But then he came down in the Popemobile and drove right next to us a few times. He seemed pretty happy to be out there, although he did look quite ill. But it was good for the people of Rome, Catholics in Rome, to be able to see him one last time.\n\n\nWhere were you when you heard about his death, and how did you first react?\n\nWe were just on our campus, doing some schoolwork, eating breakfast. When the news came out, we all kind of saw it on our phones around the same time, and then we got together and talked about it, because obviously it has a lot of impact on us Catholics, especially, you know, Catholic studies students in Rome.\n\nObviously we are sad, but he's been Pope for 12 years now, and he did a great job and played a huge role in the development of the Catholic Church in the early 21st century. We know he's in a better place now, and we're very grateful for all the things he's done, especially for the young students.\n\n\nDo you feel like the Pope's death is maybe hitting you differently because you're in Italy, versus back in Minnesota?\n\nOh, absolutely. I was quite young when Francis was elected, though I remember it being a big occasion. But now, the magnitude of it's just so much greater because we're here. We're going to be participating and watching in St. Peter's Basilica for when the new pope is elected. We’ll try to be as involved as we can with the papal funeral. Everyone is so connected to the Pope and the Catholic faith here; the death of the Pope really affects everyone here. And if Rome wasn't busy before for the Jubilee year and for the Easter season, it's going to be very busy the next few weeks.",
+        "metadata": {
+          "og:site_name": "MPR News",
+          "og:url": "https://www.mprnews.org/story/2025/04/22/st-thomas-student-who-spoke-at-easter-sunday-in-vatican-city-remembers-pope-francis",
+          "title": "St. Thomas student who spoke at Easter Sunday in Vatican City remembers Pope Francis",
+          "twitter:title": "St. Thomas student who spoke at Easter Sunday in Vatican City remembers Pope Francis",
+          "og:title": "St. Thomas student who spoke at Easter Sunday in Vatican City remembers Pope Francis",
+          "description": "Alex Lenzmeier, class of 2028, was one of a handful of students who gave a reading on Easter in St. Peter's Basilica and was surrounded by his peers when news of the pope’s passing broke Monday morning. He joined MPR News host Cathy Wurzer to share his experience of being in Italy right now.",
+          "twitter:description": "Alex Lenzmeier, class of 2028, was one of a handful of students who gave a reading on Easter in St. Peter's Basilica and was surrounded by his peers when news of the pope’s passing broke Monday morning. He joined MPR News host Cathy Wurzer to share his experience of being in Italy right now.",
+          "og:description": "Alex Lenzmeier, class of 2028, was one of a handful of students who gave a reading on Easter in St. Peter's Basilica and was surrounded by his peers when news of the pope’s passing broke Monday morning. He joined MPR News host Cathy Wurzer to share his experience of being in Italy right now.",
+          "og:image": "https://img.apmcdn.org/ec8a4d315859f234c7f557e3cd8a6ccad67e4004/widescreen/a2b245-20250422-the-vatican-2000.jpg",
+          "og:image:width": "2000",
+          "og:image:height": "1124",
+          "og:image:alt": "the vatican",
+          "og:type": "article",
+          "fb:pages": "99142348590"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.mprnews.org/story/2025/04/22/st-thomas-student-who-spoke-at-easter-sunday-in-vatican-city-remembers-pope-francis"
+          },
+          "headline": "St. Thomas student who spoke at Easter Sunday in Vatican City remembers Pope Francis",
+          "image": [
+            "https://img.apmcdn.org/ec8a4d315859f234c7f557e3cd8a6ccad67e4004/widescreen/a2b245-20250422-the-vatican-2000.jpg"
+          ],
+          "datePublished": "2025-04-22T15:42:00-05:00",
+          "dateModified": "2025-04-22T15:42:00-05:00",
+          "description": "Alex Lenzmeier, class of 2028, was one of a handful of students who gave a reading on Easter in St. Peter&apos;s Basilica and was surrounded by his peers when news of the pope’s passing broke Monday morning. He joined MPR News host Cathy Wurzer to share his experience of being in Italy right now.",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Cathy Wurzer"
+            },
+            {
+              "@type": "Person",
+              "name": "Gracie  Stockton"
+            }
+          ],
+          "keywords": false,
+          "wordcount": 651,
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "MPR News",
+            "ethicsPolicy": "https://www.mprnews.org/ethics",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.mprnews.org/mpr-news-1080x1080.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de MPR News concernant Alex Lenzmeier, un étudiant de l'Université de Saint Thomas étudiant sur leur campus de Rome (Rome Bernardi Campus), qui a prononcé une lecture lors de la messe du dimanche de Pâques à la basilique Saint-Pierre au Vatican. L'article évoque également la dernière apparition publique du pape François ce jour-là et son décès survenu le lendemain, ainsi que les témoignages de l'étudiant recueillis par l'animatrice Cathy Wurzer.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Pope Francis",
+          "Alex Lenzmeier",
+          "Cathy Wurzer",
+          "Thanos Zyngas"
+        ],
+        "LOCATION": [
+          "Vatican City",
+          "Rome",
+          "Italy",
+          "St. Peter's Basilica",
+          "St. Peter's Square"
+        ],
+        "ORGANIZATION": [
+          "St. Thomas",
+          "University of St. Thomas",
+          "MPR News",
+          "Rome Bernardi Campus"
+        ],
+        "DATE": [
+          "2025/04/22",
+          "Easter Sunday",
+          "Monday morning",
+          "class of 2028",
+          "12 years",
+          "Saturday",
+          "Sunday"
+        ],
+        "EVENT": [
+          "Easter Sunday",
+          "Mass"
+        ],
+        "OTHER": [
+          "Popemobile",
+          "Urbi et Orbi blessing"
+        ]
+      },
+      "score_e5": 0.7099670494236623
+    },
+    {
+      "titre": "نابلس بوست ‎ added a new photo. | نابلس بوست",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/100089120315470/photos/973441582303177/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=973441582303177",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDJKni5AVzB5a--O_ytnMN9CXtjqKRa9_wNvVqUcGCPP_g9hRW",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "نابلس بوست ‎ added a new photo. | نابلس بوست",
+        "link": "https://www.facebook.com/100089120315470/photos/973441582303177/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDJKni5AVzB5a--O_ytnMN9CXtjqKRa9_wNvVqUcGCPP_g9hRW",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=973441582303177",
+        "image_width": 960,
+        "image_height": 960
+      },
+      "webpage": {
+        "text": "نابلس بوست\n\nFacebook\n\nBuka aplikasi\n\nLogin\n\n2 of 4\n\n\nUnggahan seluler\n\nنابلس بوست\n\n14 Apr ·",
+        "metadata": {
+          "title": "نابلس بوست - ‎نابلس بوست ‎ menambahkan foto baru.",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "app-id=284882215",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "app-id=284882215",
+          "og:type": "article",
+          "og:title": "نابلس بوست  - ‎نابلس بوست ‎ menambahkan foto baru.",
+          "og:description": "‎نابلس بوست ‎ menambahkan foto baru.",
+          "og:url": "https://www.facebook.com/photo.php?fbid=973441582303177&set=a.102606252720052&id=100089120315470",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=973441582303177",
+          "og:locale": "en_US",
+          "description": "‎نابلس بوست ‎ menambahkan foto baru.",
+          "twitter:title": "نابلس بوست  - ‎نابلس بوست ‎ menambahkan foto baru.",
+          "twitter:description": "‎نابلس بوست ‎ menambahkan foto baru."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication de la page Facebook 'نابلس بوست' (Nablus Post) datée du 14 avril, contenant une photo partagée.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Facebook",
+          "نابلس بوست"
+        ],
+        "DATE": [
+          "14 Apr"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7684816603809732
+    },
+    {
+      "titre": "London to Istanbul - A Very Long Walk by Andy Ward",
+      "source": "www.sidetracked.com",
+      "lien": "https://www.sidetracked.com/edition-02/istanbul.php",
+      "image_url": "https://www.sidetracked.com/edition-02/images/img_istanbul-03.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFOFVmIUhW4lLjui5JZ0eFuLnsbF1_K3a9016KBYxyZ3LCkUJ1",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "London to Istanbul - A Very Long Walk by Andy Ward",
+        "link": "https://www.sidetracked.com/edition-02/istanbul.php",
+        "source": "www.sidetracked.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRzT110_MyfiV5HeXzJFe2yxJIyDiJOSQR6OyCvvea159Na-MdDyHUKSngq9oFdBs9n-qb45QiqbxKyioULq0i9He8Vucq-r3bQNQ7ncB_zqEdcLZMk6kWk",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFOFVmIUhW4lLjui5JZ0eFuLnsbF1_K3a9016KBYxyZ3LCkUJ1",
+        "thumbnail_width": 167,
+        "thumbnail_height": 301,
+        "image": "https://www.sidetracked.com/edition-02/images/img_istanbul-03.jpg",
+        "image_width": 544,
+        "image_height": 980
+      },
+      "webpage": null,
+      "texte_contexte": "Page web de Sidetracked (édition 02) concernant le récit de voyage 'London to Istanbul - A Very Long Walk' par Andy Ward.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Andy Ward"
+        ],
+        "LOCATION": [
+          "London",
+          "Istanbul"
+        ],
+        "ORGANIZATION": [
+          "Sidetracked"
+        ],
+        "DATE": [
+          "edition-02"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.73324873749741
+    },
+    {
+      "titre": "On September 13th, from St. Peter's Square, I will have the ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DN3SBQe2D9P/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3708512063914022998",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUWwDlT7dyGsBOCB6f20V3a36Yxsd06XLTtw3OcY2DepsvMkTM",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "On September 13th, from St. Peter's Square, I will have the ...",
+        "link": "https://www.instagram.com/p/DN3SBQe2D9P/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUWwDlT7dyGsBOCB6f20V3a36Yxsd06XLTtw3OcY2DepsvMkTM",
+        "thumbnail_width": 259,
+        "thumbnail_height": 195,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3708512063914022998",
+        "image_width": 1914,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram indiquant : 'On September 13th, from St. Peter's Square, I will have the'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "St. Peter's Square"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [
+          "September 13th"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7452526350695167
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Palestinian Muslims"
+    ],
+    "LOCATION": [
+      "Jerusalem",
+      "Israel",
+      "Dome of the Rock",
+      "alAqsa mosque compound"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "Eid alFitr"
+    ],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Suhaib Webb",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Allah",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Makkah",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Saudi Arabia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "U.S.",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Virtual Mosque",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of Central Oklahoma",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic Society of Greater Oklahoma City",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al-Azhar University",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Dar al-Ifta al-Misriyyah",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Royal Islamic Strategic Studies Center",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1992",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2004-2010",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "7 days a week",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Ramadan",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Eid",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Quran",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pope Francis",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alex Lenzmeier",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cathy Wurzer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Thanos Zyngas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vatican City",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rome",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St. Peter's Basilica",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St. Peter's Square",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "St. Thomas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of St. Thomas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MPR News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rome Bernardi Campus",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025/04/22",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Easter Sunday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday morning",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "class of 2028",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Easter Sunday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Mass",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Popemobile",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Urbi et Orbi blessing",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "نابلس بوست",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "14 Apr",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Andy Ward",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Istanbul",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sidetracked",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "edition-02",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 13th",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T22:05:28.419589"
+  }
+}

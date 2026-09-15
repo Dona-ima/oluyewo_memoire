@@ -1,0 +1,480 @@
+{
+  "id_rumeur": 289773,
+  "id_image": 289773,
+  "caption": "A memorial sits outside the Strang Funeral Home near the Antioch Community High School",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748305/oluyewo_benchmark/lehvubwm2z9gp9w1494y.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Today in Pictures : September 7",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/news/photo/today-pictures-september-7-n423031",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_37/1209256/ss-150907-tip-03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMSVsT1zYfJFCEZhXsIt7lA-4Lq8K2GQTqm3lkKKroBVuB9vG",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Today in Pictures : September 7",
+        "link": "https://www.nbcnews.com/news/photo/today-pictures-september-7-n423031",
+        "source": "NBC News",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyWp3RniHyHhmsHqTc5zb-2kjWkrLCZsS4XIQDq4LyYjZZFgl28s2SLJv0sjnlurLyd_DkqQ68o0jFa67Yi2vGiBvh9RuoNzUth5Y_SALQ4ivHWHM",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMSVsT1zYfJFCEZhXsIt7lA-4Lq8K2GQTqm3lkKKroBVuB9vG",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_37/1209256/ss-150907-tip-03.jpg",
+        "image_width": 1000,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "Today in Pictures : September 7\n\nSee the 10 best images of the day.\n\n\nSept. 7, 2015, 6:14 PM EDT / Updated Sept. 7, 2015, 6:14 PM EDT",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "description": "See the 10 best images of the day.",
+          "og:url": "https://www.nbcnews.com/news/photo/today-pictures-september-7-n423031",
+          "og:title": "Today in Pictures : September 7",
+          "og:description": "See the 10 best images of the day.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_37/1209256/ss-150907-tip-03.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_37/1209256/ss-150907-tip-03.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Today in Pictures : September 7",
+          "branch:deeplink:description": "See the 10 best images of the day.",
+          "twitter:title": "Today in Pictures : September 7",
+          "twitter:description": "See the 10 best images of the day.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2015-09-07T22:14:05.000Z",
+          "article:modified_time": "2015-09-09T01:37:55.000Z"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Today in Pictures : September 7",
+          "url": "https://www.nbcnews.com/news/photo/today-pictures-september-7-n423031",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2015_37/1209256/ss-150907-tip-03.jpg",
+          "alternativeHeadline": "Today in Pictures : September 7",
+          "articleBody": "",
+          "dateModified": "2015-09-07T22:14:05.000Z",
+          "datePublished": "2015-09-07T22:14:07.000Z",
+          "articleSection": "news",
+          "articleId": "ncna423031",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna423031"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_37/1209256/ss-150907-tip-03.jpg",
+            "caption": "ANTIOCH, IL - SEPTEMBER 07:  A memorial sits outside the Strang Funeral Home near the Antioch Commuity High School during the visitation and funeral of slain Fox Lake police officer Lt. Joe Gliniewicz, known as G.I. Joe, on September 7, 2015 in Fox Lake, Illinois.  Gliniewicz was shot and killed on September 1, while on duty in Fox Lake. Police are searching for three suspects in connection with his death.  (Photo by Scott Olson/Getty Images)",
+            "height": 2000,
+            "width": 3000
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "See the 10 best images of the day.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/news/photo/today-pictures-september-7-n423031"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Today in Pictures : September 7 See the 10 best images of the day. Sept. 7, 2015, 6:14 PM EDT / Updated Sept. 7, 2015, 6:14 PM EDT",
+      "niveau_contexte": 2,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7480111415613401
+    },
+    {
+      "titre": "Slain Fox Lake officer laid to rest - Chicago Sun-Times",
+      "source": "Chicago Sun-Times",
+      "lien": "https://chicago.suntimes.com/news/2015/9/7/18606144/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/151d1f9/2147483647/strip/true/crop/1024x683+0+0/resize/840x560!/quality/90/?url=https://cdn.vox-cdn.com/thumbor/SKHw5Ktd4lpEUcYsHS54PwRmRIc=/0x0:1024x683/1024x683/filters:focal(512x341:513x342)/cdn.vox-cdn.com/uploads/chorus_asset/file/16250327/GLIN090815_8_600x400.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy0CZDfjQ_gGTYceAu0e2sCVCPf91sxGRxtonGHrttCS_P3rLM",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Slain Fox Lake officer laid to rest - Chicago Sun-Times",
+        "link": "https://chicago.suntimes.com/news/2015/9/7/18606144/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+        "source": "Chicago Sun-Times",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQJpsZZFLpxdFd2uAChLEVYCkHgkOb_JRl0s9wT39PrtuiciyPUVU7p50fuUdQfTJN1QJfTK8fAtqLr4gvSoQiuCBfj65CE-Y4a5jjqqPJI3FzdYYlFXinEMg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy0CZDfjQ_gGTYceAu0e2sCVCPf91sxGRxtonGHrttCS_P3rLM",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cst.brightspotcdn.com/dims4/default/151d1f9/2147483647/strip/true/crop/1024x683+0+0/resize/840x560!/quality/90/?url=https://cdn.vox-cdn.com/thumbor/SKHw5Ktd4lpEUcYsHS54PwRmRIc=/0x0:1024x683/1024x683/filters:focal(512x341:513x342)/cdn.vox-cdn.com/uploads/chorus_asset/file/16250327/GLIN090815_8_600x400.jpg",
+        "image_width": 560,
+        "image_height": 840
+      },
+      "webpage": {
+        "text": "Slain Fox Lake officer laid to rest\n\nAn 18-mile-long procession of law-enforcement vehicles led the way for the hearse carrying the body of Fox Lake Police Lt. Charles Joseph Gliniewicz to his final resting place at Hillside East Cemetery in Antioch on Monday evening.\n\nThe funeral procession arrived at the cemetery about 6 p.m. and graveside services got underway about 6:45 p.m., according to Stephanie Barrons, of Antioch, who watched the procession and burial with her husband, Kevin, from across the street from the cemetery.\n\nGliniewicz was buried with full, traditional military honors. There were bagpipes, a color guard, the playing of “Taps” and a 21-gun salute. Family members encircled Gliniewicz’s casket under a large, blue tent and police officers surrounded them, at least 20 rows deep, she said.\n\n“There were six or seven helicopters which flew straight, and one veered right to signify the missing man,” Barrons said. “It was phenomenal.”\n\nBarrons, whose son Matthew went to high school with Gliniewicz’s son D.J., said that she felt honored to be a part of something so important for the community.\n\n“This is something I will never forget,” she said. “I saw some officers from Detroit, Las Vegas and New York. To see all of this show of support is something I will never see again.”\n\n\nFox Lake Police Lt. Charles Joseph Gliniewicz was laid to rest Monday evening at Hillside East Cemetery in Antioch. | Brian Hil/Daily Herald via AP\n\nEarlier Monday, thousands gathered to say a final goodbye to a man remembered as a father of four and a dad to thousands of others.\n\n“When we were growing up, we all knew Joe was a hero,” said the slain officer’s brother, Antioch Fire Lt. Michael S. Gliniewicz, speaking at the funeral at Antioch Community High School. “Now the nation knows he’s a hero. We are Gliniewicz strong. I love you, brother.”\n\nThe public, local dignitaries and police from as far away as Dallas, Los Angeles and New York paid their respects to the man the community and the country has affectionately dubbed “G.I. Joe.”\n\nGliniewicz, 52, was shot Tuesday while chasing three suspicious men on foot in a marshy area of Fox Lake, about 45 miles northwest of Chicago. Police continue to look for the suspects and plan to update the media on the search at 12:30 p.m. Tuesday.\n\nThe married father of four sons was a 30-year veteran of the police department. His wife, Mel, wore a police badge on a necklace during the service. Her husband’s coffin was draped in an American flag.\n\n\nFox Lake Police Lt. Charles Joseph Gliniewicz’s family shares a hug as hundreds of mourners, including family, friends and police officers turned out to say a final farewell to the slain officer on Monday evening. | Brian Hil/Daily Herald via AP\n\nGov. Bruce Rauner was among the crowd estimated at 5,000 people.\n\nGliniewicz was awarded the police department’s Medal of Honor at the funeral service, held at the high school where Gliniewicz graduated in 1981.\n\nRetired Fox Lake Police Chief Michael Behan spoke of the Gliniewicz’s dedication to youth and the Fox Lake police Explorer’s program.\n\n“Joe did Explorers for 30 years — 30 years,” Behan said. “Joe met [his future wife], they fell in love, they had four children — four boys. Joe was a father to those boys. . . . He loved them. I’m here to tell you, they broke the mold with Joe because he was dad to about 1,000 others who went through Explorers.”\n\nAntioch Police Officer Nicholas Garcia jokingly remembered his buddy’s unique way of speaking.\n\n“He had code words for everything,” Garcia recalled. “Joe got up every morning at ‘0 dark 30,’ and immediately grabbed his coffee because he insisted on being ‘vertical and caffeinated’ at all times.”\n\nGliniewicz often referred to his four sons individually as “Son No. 1″ or “Son No. 4.”\n\n“Joe was a great husband, an awesome dad, a mentor to the police officers of tomorrow and a friend to many, including me and I’ll miss him,” Garcia said.\n\nAntioch Village Trustee Jerry Johnson described the visitation as “really somber, very serious.”\n\n“Walking through, the emotion — words cannot describe it,” Johnson said.\n\n\nA police officer wipes tears from his eyes as he grieves the loss of slain Fox Lake police officer Lt. Joe Gliniewicz outside his funeral service at Antioch Community High School on Monday. | Scott Olson/Getty Images\n\nFormer Fox Lake Police Chief Joe Semasko, who was Gliniewicz’s first chief from 1985-1989, said that all of the good things people are saying about his former officer are true.\n\n“You recognize certain people right away,” Semasko said. “Few in Fox Lake had the initiative, dedication and drive that Joe did. Joe was a very good person.”\n\nJohn Lucas, a recently retired Lake County sheriff’s lieutenant, knew Gliniewicz for about 30 years.\n\n“It’s horrifying, and it’s every cop’s worst nightmare,” Lucas said. “It should be every citizen’s worst nightmare.”\n\nLucas said that to be at his friend’s viewing was “surreal,” however he knows that danger comes with the job.\n\n“Unfortunately for us in law enforcement it is a harsh reality that we never want to confront, but it can happen any day,” he said.\n\nNot lost on Lucas was the fact that his friend was about to retire.\n\n“When we heard the news, my wife was just like, ‘I’m so glad you retired,’ ” Lucas said. “It seems to be getting more and more dangerous out there.”\n\nSgt. 1st Class Anthony Leggett, who is based in Arlington Heights in the U.S. Army Reserve 814th Military Police Company, worked with Gliniewicz, who was in his division, in 2000-2001. He laughed as he talked about his friend, who was in better shape than most of the company. | Ruth Fuller/For the Sun-Times\n\nSgt. 1st Class Anthony Leggett, who is based in Arlington Heights in the U.S. Army Reserve 814th Military Police Company, worked with Gliniewicz, who was in his division, in 2000-2001. He laughed about memories with his friend, who was in better shape than most of the company.\n\n“We all knew Joe for his humongous cups of coffee,” Leggett said. “We called him a PT stud – a physical fitness test stud.”\n\n“Joe would finish PT and go have a cigarette,” he said. “He would run two miles in nine minutes and smoke a cigarette afterwards.”\n\nLeggett said that he has seen his share of uniformed officer’s funerals from his time working with the casualty assistance unit. He has never, however, seen such an amazing response like the one he saw for Gliniewicz and his family.\n\n“To see a sea of blue, all the uniforms, all the support, is just fantastic,” Leggett said. “I saw some from as far away as Dallas.”\n\nAfter the funeral procession, U.S. Rep. Bob Dold, R-Ill., remarked about the incredible turnout from the community.\n\n“I’ve never seen anything like this,” Dold said. “It’s moving to say the least.”\n\nDold said that the thousands of people who took the time to attend the funeral, line the streets or pull their boats up along the lakes while the procession passed on a day usually reserved for picnics with family is a testament to the man they were there to honor.\n\n“The community is speaking with a loud, singular voice that they are supporting Joe’s family and will continue to do so,” he said.\n\nThe streets and businesses in Antioch were lined with pictures of Gliniewicz and blue bows, thanks to a group of local volunteers made up of friends of the family.\n\n“We started on Friday cutting blue and black tablecloths to make bows and police flags,” said Michelle Torkilsen of Lake Villa. “We also did a cup tribute along the procession route in Antioch, which spelled out G.I. (a heart) Joe and his badge number.”\n\nWhile most mourners left the high school seeming sad and sentimental, one of Gliniewicz’s cousins said she was angry.\n\n“This is ridiculous,” said Sherrie Surek, of Round Lake. “When I look at those kids I see a real empty world for them. I hope to God they find his killer.”\n\nFuneral services for Fox Lake Police Lt. Charles Joseph Gliniewicz begin Monday morning with the arrival of his casket at Antioch High School. | Patrick Kunzer/Daily Herald via AP\n\n\nMel Gliniewicz (center), the wife of slain Fox Lake Police Lt. Joe Gliniewicz, leaves her husband’s funeral servce at Antioch Community High School on Monday. | Scott Olson/Getty Images\n\nPeople pay their respects as a funeral procession carrying slain Lt. Joe Gliniewicz passes by on Monday. | Scott Olson/Getty Images\n\n\nPolice on motorcycles follow in a procession after Lt. Joe Gliniewicz’s funeral service on Monday. | Scott Olson/Getty Images\n\n\nThe hearse carrying Fox Lake Police Lt. Joe Gliniewicz nears the cemetery where he was laid to rest Monday evening in Antioch. | Photo courtesy of Stephanie Barrons\n\n\nBagpipers near the cemetery where Fox Lake Police Lt. Joe Gliniewicz was laid to rest Monday evening. | Photo courtesy of Stephanie Barrons\n\n\nPeople pay their respects as a funeral procession carrying slain Fox Lake Police Lt. Joe Gliniewicz passes by on Monday. | Scott Olson/Getty Images\n\n\nThe coffin of slain Fox Lake police officer Lt. Joe Gliniewicz arrives at Antioch Community High School for his visitation and funeral service on Monday. | Getty Images\n\n\nA blue ribbon decorates a pole outside Antioch Commuity High School during the visitation and funeral of slain Fox Lake police officer Lt. Joe Gliniewicz, known as G.I. Joe, on Monday. | Getty Images\n\n\nA memorial balloon outside the Strang Funeral Home near the Antioch Commuity High School during the visitation and funeral for Lt. Joe Gliniewicz. | Scott Olson/Getty Images\n\n\nPolice officers arrive for the visitation and funeral of slain Fox Lake police officer Lt. Joe Gliniewicz at Antioch Community High School on Monday. | Getty Images\n\nContributing: Stefano Esposito, The Associated Press",
+        "metadata": {
+          "title": "Slain Fox Lake officer laid to rest - Chicago Sun-Times",
+          "og:title": "Lt. Gliniewicz laid to rest: 'Now the nation knows he’s a hero'",
+          "og:url": "https://chicago.suntimes.com/news/2015/9/7/18606144/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+          "og:image": "https://cst.brightspotcdn.com/dims4/default/237ae33/2147483647/strip/true/crop/1024x585+0+49/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ff1dFWkrJQvLFd6rr6HQ94RAVd0A%3D%2F0x0%3A1024x683%2F1024x683%2Ffilters%3Afocal%28512x341%3A513x342%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16250309%2FFUNERAL8_999x666.jpg",
+          "og:image:url": "https://cst.brightspotcdn.com/dims4/default/237ae33/2147483647/strip/true/crop/1024x585+0+49/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ff1dFWkrJQvLFd6rr6HQ94RAVd0A%3D%2F0x0%3A1024x683%2F1024x683%2Ffilters%3Afocal%28512x341%3A513x342%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16250309%2FFUNERAL8_999x666.jpg",
+          "og:image:width": "1461",
+          "og:image:height": "834",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "FUNERAL8_999x666.jpg",
+          "og:site_name": "Chicago Sun-Times",
+          "og:type": "article",
+          "article:author": "https://chicago.suntimes.com/authors/sun-times-staff",
+          "article:published_time": "2015-09-07T23:24:22Z",
+          "article:modified_time": "2019-05-11T15:53:32Z",
+          "article:section": "News",
+          "twitter:title": "Lt. Gliniewicz laid to rest: 'Now the nation knows he’s a hero'",
+          "fb:app_id": "425672421661236",
+          "parsely-title": "Lt. Gliniewicz laid to rest: 'Now the nation knows he’s a hero'",
+          "parsely-author": "Sun-Times staff"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "articleSection": "News",
+          "url": "https://chicago.suntimes.com/news/2015/9/7/18606144/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+          "dateModified": "2019-05-11T15:53:32Z",
+          "datePublished": "2015-09-07T23:24:22Z",
+          "image": [
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 683,
+              "url": "https://cst.brightspotcdn.com/dims4/default/6a3c1e1/2147483647/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ff1dFWkrJQvLFd6rr6HQ94RAVd0A%3D%2F0x0%3A1024x683%2F1024x683%2Ffilters%3Afocal%28512x341%3A513x342%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16250309%2FFUNERAL8_999x666.jpg",
+              "width": 1024
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 675,
+              "url": "https://cst.brightspotcdn.com/dims4/default/5c74f1e/2147483647/strip/false/crop/1024x576+0+54/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ff1dFWkrJQvLFd6rr6HQ94RAVd0A%3D%2F0x0%3A1024x683%2F1024x683%2Ffilters%3Afocal%28512x341%3A513x342%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16250309%2FFUNERAL8_999x666.jpg",
+              "width": 1200
+            }
+          ],
+          "isBasedOn": "https://chicago.suntimes.com/news/2015/9/7/18606144/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://chicago.suntimes.com/news/2015/9/7/18606144/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero"
+          },
+          "author": [
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "affiliation": {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "logo": "https://cst.brightspotcdn.com/ed/28/86c5cf23453dbce1e90e26a9a932/29740796-348306485691331-803244405740797952-n.jpg",
+                "name": "Chicago Sun-Times"
+              },
+              "name": "Sun-Times staff",
+              "url": "https://chicago.suntimes.com/authors/sun-times-staff"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Chicago Sun-Times",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://cst.brightspotcdn.com/a7/da/9a739da544a698cdb98e1b1c5f27/ctimes-logo.svg"
+            }
+          },
+          "name": "Slain Fox Lake officer laid to rest - Chicago Sun-Times",
+          "headline": "Slain Fox Lake officer laid to rest"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Slain Fox Lake officer laid to rest An 18-mile-long procession of law-enforcement vehicles led the way for the hearse carrying the body of Fox Lake Police Lt. Charles Joseph Gliniewicz to his final resting place at Hillside East Cemetery in Antioch on Monday evening. The funeral procession arrived at the cemetery about 6 p.m. and graveside services got underway about 6:45 p.m., according to Stephanie Barrons, of Antioch, who watched the procession and burial with her husband, Kevin, from across the street from the cemetery. Gliniewicz was buried with full, traditional military honors. There were bagpipes, a color guard, the playing of “Taps” and a 21-gun salute. Family members encircled Gliniewicz’s casket under a large, blue tent and police officers surrounded them, at least 20 rows deep, she said. “There were six or seven helicopters which flew straight, and one veered right to signify the missing man,” Barrons said. “It was phenomenal.” Barrons, whose son Matthew went to high school with Gliniewicz’s son D.J., said that she felt honored to be a part of something so important for the community. “This is something I will never forget,” she said. “I saw some officers from Detroit, Las Vegas and New York. To see all of this show of support is something I will never see again.” Fox Lake Police Lt. Charles Joseph Gliniewicz was laid to rest Monday evening at Hillside East Cemetery in Antioch. Brian Hil/Daily Herald via AP Earlier Monday, thousands gathered to say a final goodbye to a man remembered as a father of four and a dad to thousands of others. “When we were growing up, we all knew Joe was a hero,” said the slain officer’s brother, Antioch Fire Lt. Michael S. Gliniewicz, speaking at the funeral at Antioch Community High School. “Now the nation knows he’s a hero. We are Gliniewicz strong. I love you, brother.” The public, local dignitaries and police from as far away as Dallas, Los Angeles and New York paid their respects to the man the community and the country has affectionately dubbed “G.I. Joe.” Gliniewicz, 52, was shot Tuesday while chasing three suspicious men on foot in a marshy area of Fox Lake, about 45 miles northwest of Chicago. Police continue to look for the suspects and plan to update the media on the search at 12:30 p.m. Tuesday. The married father of four sons was a 30-year veteran of the police department. His wife, Mel, wore a police badge on a necklace during the service. Her husband’s coffin was draped in an American flag. Fox Lake Police Lt. Charles Joseph Gliniewicz’s family shares a hug as hundreds of mourners, including family, friends and police officers turned out to say a final farewell to the slain officer on Monday evening. Brian Hil/Daily Herald via AP Gov. Bruce Rauner was among the crowd estimated at 5,000 people. Gliniewicz was awarded the police department’s Medal of Honor at the funeral service, held at the high school where Gliniewicz graduated in 1981. Retired Fox Lake Police Chief Michael Behan spoke of the Gliniewicz’s dedication to youth and the Fox Lake police Explorer’s program. “Joe did Explorers for 30 years — 30 years,” Behan said. “Joe met [his future wife], they fell in love, they had four children — four boys. Joe was a father to those boys. . . . He loved them. I’m here to tell you, they broke the mold with Joe because he was dad to about 1,000 others who went through Explorers.” Antioch Police Officer Nicholas Garcia jokingly remembered his buddy’s unique way of speaking. “He had code words for everything,” Garcia recalled. “Joe got up every morning at ‘0 dark 30,’ and immediately grabbed his coffee because he insisted on being ‘vertical and caffeinated’ at all times.” Gliniewicz often referred to his four sons individually as “Son No. 1″ or “Son No. 4.” “Joe was a great husband, an awesome dad, a mentor to the police officers of tomorrow and a friend to many, including me and I’ll miss him,” Garcia said. Antioch Village Trustee Jerry Johnson described the visitation as “really somber, very serious.” “Walking through, the emotion — words cannot describe it,” Johnson said. A police officer wipes tears from his eyes as he grieves the loss of slain Fox Lake police officer Lt. Joe Gliniewicz outside his funeral service at Antioch Community High School on Monday. Scott Olson/Getty Images Former Fox Lake Police Chief Joe Semasko, who was Gliniewicz’s first chief from 1985-1989, said that all of the good things people are saying about his former officer are true. “You recognize certain people right away,” Semasko said. “Few in Fox Lake had the initiative, dedication and drive that Joe did. Joe was a very good person.” John Lucas, a recently retired Lake County sheriff’s lieutenant, knew Gliniewicz for about 30 years. “It’s horrifying, and it’s every cop’s worst nightmare,” Lucas said. “It should be every citizen’s worst nightmare.” Lucas said that to be at his friend’s viewing was “surreal,” however he knows that danger comes with the job. “Unfortunately for us in law enforcement it is a harsh reality that we never want to confront, but it can happen any day,” he said. Not lost on Lucas was the fact that his friend was about to retire. “When we heard the news, my wife was just like, ‘I’m so glad you retired,’ ” Lucas said. “It seems to be getting more and more dangerous out there.” Sgt. 1st Class Anthony Leggett, who is based in Arlington Heights in the U.S. Army Reserve 814th Military Police Company, worked with Gliniewicz, who was in his division, in 2000-2001. He laughed as he talked about his friend, who was in better shape than most of the company. Ruth Fuller/For the Sun-Times Sgt. 1st Class Anthony Leggett, who is based in Arlington Heights in the U.S. Army Reserve 814th Military Police Company, worked with Gliniewicz, who was in his division, in 2000-2001. He laughed about memories with his friend, who was in better shape than most of the company. “We all knew Joe for his humongous cups of coffee,” Leggett said. “We called him a PT stud – a physical fitness test stud.” “Joe would finish PT and go have a cigarette,” he said. “He would run two miles in nine minutes and smoke a cigarette afterwards.” Leggett said that he has seen his share of uniformed officer’s funerals from his time working with the casualty assistance unit. He has never, however, seen such an amazing response like the one he saw for Gliniewicz and his family. “To see a sea of blue, all the uniforms, all the support, is just fantastic,” Leggett said. “I saw some from as far away as Dallas.” After the funeral procession, U.S. Rep. Bob Dold, R-Ill., remarked about the incredible turnout from the community. “I’ve never seen anything like this,” Dold said. “It’s moving to say the least.” Dold said that the thousands of people who took the time to attend the funeral, line the streets or pull their boats up along the lakes while the procession passed on a day usually reserved for picnics with family is a testament to the man they were there to honor. “The community is speaking with a loud, singular voice that they are supporting Joe’s family and will continue to do so,” he said. The streets and businesses in Antioch were lined with pictures of Gliniewicz and blue bows, thanks to a group of local volunteers made up of friends of the family. “We started on Friday cutting blue and black tablecloths to make bows and police flags,” said Michelle Torkilsen of Lake Villa. “We also did a cup tribute along the procession route in Antioch, which spelled out G.I. (a heart) Joe and his badge number.” While most mourners left the high school seeming sad and sentimental, one of Gliniewicz’s cousins said she was angry. “This is ridiculous,” said Sherrie Surek, of Round Lake. “When I look at those kids I see a real empty world for them. I hope to God they find his killer.” Funeral services for Fox Lake Police Lt. Charles Joseph Gliniewicz begin Monday morning with the arrival of his casket at Antioch High School. Patrick Kunzer/Daily Herald via AP Mel Gliniewicz (center), the wife of slain Fox Lake Police Lt. Joe Gliniewicz, leaves her husband’s funeral servce at Antioch Community High School on Monday. Scott Olson/Getty Images People pay their respects as a funeral procession carrying slain Lt. Joe Gliniewicz passes by on Monday. Scott Olson/Getty Images Police on motorcycles follow in a procession after Lt. Joe Gliniewicz’s funeral service on Monday. Scott Olson/Getty Images The hearse carrying Fox Lake Police Lt. Joe Gliniewicz nears the cemetery where he was laid to rest Monday evening in Antioch. Photo courtesy of Stephanie Barrons Bagpipers near the cemetery where Fox Lake Police Lt. Joe Gliniewicz was laid to rest Monday evening. Photo courtesy of Stephanie Barrons People pay their respects as a funeral procession carrying slain Fox Lake Police Lt. Joe Gliniewicz passes by on Monday. Scott Olson/Getty Images The coffin of slain Fox Lake police officer Lt. Joe Gliniewicz arrives at Antioch Community High School for his visitation and funeral service on Monday. Getty Images A blue ribbon decorates a pole outside Antioch Commuity High School during the visitation and funeral of slain Fox Lake police officer Lt. Joe Gliniewicz, known as G.I. Joe, on Monday. Getty Images A memorial balloon outside the Strang Funeral Home near the Antioch Commuity High School during the visitation and funeral for Lt. Joe Gliniewicz. Scott Olson/Getty Images Police officers arrive for the visitation and funeral of slain Fox Lake police officer Lt. Joe Gliniewicz at Antioch Community High School on Monday. Getty Images Contributing: Stefano Esposito, The Associated Press",
+      "niveau_contexte": 2,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7664101602364204
+    },
+    {
+      "titre": "Funeral for slain police officer Lt. Charles Joseph Gliniewicz",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/picture-gallery/news/2015/09/07/funeral-for-slain-police-officer-lt-charles-joseph-gliniewicz/71856830/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/7e44e913e413cfde9f5421ae52a84aa6928f0043/c=0-292-2996-1985/local/-/media/2015/09/07/USATODAY/USATODAY/635772519957142049-GTY-487216682.jpg?width=700&height=396&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNINl-b_w1B-vF_LLAqOVm_WrAxHGXbo0LdA_UiAiwII_zyrlR",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Funeral for slain police officer Lt. Charles Joseph Gliniewicz",
+        "link": "https://www.usatoday.com/picture-gallery/news/2015/09/07/funeral-for-slain-police-officer-lt-charles-joseph-gliniewicz/71856830/",
+        "source": "USA Today",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRkw90JTOBQFA6Ysfk8QBTt_ObUcEoOHvZd2vm0JFDBtH2ZqgEJ2xCTePKyo7RXVAwuFsAg-6vLfXa-mWTBzpAYASGFDOhiZBFzhWsTHJ8N9KZOBawL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNINl-b_w1B-vF_LLAqOVm_WrAxHGXbo0LdA_UiAiwII_zyrlR",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.usatoday.com/gcdn/-mm-/7e44e913e413cfde9f5421ae52a84aa6928f0043/c=0-292-2996-1985/local/-/media/2015/09/07/USATODAY/USATODAY/635772519957142049-GTY-487216682.jpg?width=700&height=396&fit=crop&format=pjpg&auto=webp",
+        "image_width": 396,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Funeral for slain police officer Lt. Charles Joseph Gliniewicz\n\nFind us on Google 📌 America's birthday 🎂 Start the day smarter ☀️ Get the USA TODAY app\n\n\nNEWS\nIllinois\nAdd Topic\n\n\nFuneral for slain police officer Lt. Charles Joseph Gliniewicz\n\nUpdated Sept. 7, 2015, 8:27 p.m. ET\n\n\nFeatured Weekly Ad\n\nAbout Us Newsroom Staff Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Request a Correction Media Room Accessibility Sitemap Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Help Center Manage Account Give Feedback Get Home Delivery eNewspaper USA TODAY Shop USA TODAY Print Editions Licensing & Reprints Advertise Your Business Careers Internships Support Local Business\nNews Tips Submitting letters to the editor Podcasts Newsletters Mobile Apps Facebook X Instagram LinkedIn Threads YouTube Reddit Flipboard\nReal Estate 10BEST USA TODAY Store Shopping Deals Cashback Best-selling Booklist Southern Kitchen Jobs Sports Betting Sports Weekly Studio Gannett Classifieds Blueprint WITNESS (True Crime) Home Internet Services Branded Stories Hub\n© 2026 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+        "metadata": {
+          "title": "Funeral for slain police officer Lt. Charles Joseph Gliniewicz"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Funeral for slain police officer Lt. Charles Joseph Gliniewicz Find us on Google 📌 America's birthday 🎂 Start the day smarter ☀️ Get the USA TODAY app NEWS Illinois Add Topic Funeral for slain police officer Lt. Charles Joseph Gliniewicz Updated Sept. 7, 2015, 8:27 p.m. ET Featured Weekly Ad About Us Newsroom Staff Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Request a Correction Media Room Accessibility Sitemap Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices Contact Us Help Center Manage Account Give Feedback Get Home Delivery eNewspaper USA TODAY Shop USA TODAY Print Editions Licensing & Reprints Advertise Your Business Careers Internships Support Local Business News Tips Submitting letters to the editor Podcasts Newsletters Mobile Apps Facebook X Instagram LinkedIn Threads YouTube Reddit Flipboard Real Estate 10BEST USA TODAY Store Shopping Deals Cashback Best-selling Booklist Southern Kitchen Jobs Sports Betting Sports Weekly Studio Gannett Classifieds Blueprint WITNESS (True Crime) Home Internet Services Branded Stories Hub © 2026 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+      "niveau_contexte": 2,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7336930837850323
+    },
+    {
+      "titre": "Lt. Gliniewicz laid to rest: 'Now the nation knows he's a ...",
+      "source": "Chicago Sun-Times",
+      "lien": "https://chicago.suntimes.com/2016/6/24/18437224/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/50a1ffe/2147483647/strip/true/crop/1024x683+0+0/resize/840x560!/quality/90/?url=https://cdn.vox-cdn.com/thumbor/dEjSNd0xrp6T7rYE5YfrHtGRd64=/0x0:1024x683/1024x683/filters:focal(512x341:513x342)/cdn.vox-cdn.com/uploads/chorus_asset/file/16140541/glin090815_8.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYmHhXyYxTY73xOsn5vT3Ewz7qc_s5ZrjDxl1nuElcItLqlMF1",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Lt. Gliniewicz laid to rest: 'Now the nation knows he's a ...",
+        "link": "https://chicago.suntimes.com/2016/6/24/18437224/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+        "source": "Chicago Sun-Times",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQJpsZZFLpxdFd2uAChLEVYCkHgkOb_JRl0s9wT39PrtuiciyPUVU7p50fuUdQfTJN1QJfTK8fAtqLr4gvSoQiuCBfj65CE-Y4a5jjqqPJI3FzdYYlFXinEMg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYmHhXyYxTY73xOsn5vT3Ewz7qc_s5ZrjDxl1nuElcItLqlMF1",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cst.brightspotcdn.com/dims4/default/50a1ffe/2147483647/strip/true/crop/1024x683+0+0/resize/840x560!/quality/90/?url=https://cdn.vox-cdn.com/thumbor/dEjSNd0xrp6T7rYE5YfrHtGRd64=/0x0:1024x683/1024x683/filters:focal(512x341:513x342)/cdn.vox-cdn.com/uploads/chorus_asset/file/16140541/glin090815_8.jpg",
+        "image_width": 560,
+        "image_height": 840
+      },
+      "webpage": {
+        "text": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’\n\nAn 18-mile-long procession of law-enforcement vehicles led the way for the hearse carrying the body of Fox Lake Police Lt. Charles Joseph Gliniewicz to his final resting place at Hillside East Cemetery in Antioch on Monday evening.\n\nThe funeral procession arrived at the cemetery about 6 p.m. and graveside services got underway about 6:45 p.m., according to Stephanie Barrons, of Antioch, who watched the procession and burial with her husband, Kevin, from across the street from the cemetery.\n\nGliniewicz was buried with full, traditional military honors. There were bagpipes, a color guard, the playing of “Taps” and a 21-gun salute. Family members encircled Gliniewicz’s casket under a large, blue tent and police officers surrounded them, at least 20 rows deep, she said.\n\n“There were six or seven helicopters which flew straight, and one veered right to signify the missing man,” Barrons said. “It was phenomenal.”\n\nBarrons, whose son Matthew went to high school with Gliniewicz’s son D.J., said that she felt honored to be a part of something so important for the community.\n\n“This is something I will never forget,” she said. “I saw some officers from Detroit, Las Vegas and New York. To see all of this show of support is something I will never see again.”\n\n\nEarlier Monday, thousands gathered to say a final goodbye to a man remembered as a father of four and a dad to thousands of others.\n\n“When we were growing up, we all knew Joe was a hero,” said the slain officer’s brother, Antioch Fire Lt. Michael S. Gliniewicz, speaking at the funeral at Antioch Community High School. “Now the nation knows he’s a hero. We are Gliniewicz strong. I love you, brother.”\n\nThe public, local dignitaries and police from as far away as Dallas, Los Angeles and New York paid their respects to the man the community and the country has affectionately dubbed “G.I. Joe.”\n\nGliniewicz, 52, was shot Tuesday while chasing three suspicious men on foot in a marshy area of Fox Lake, about 45 miles northwest of Chicago. Police continue to look for the suspects and plan to update the media on the search at 12:30 p.m. Tuesday.\n\nThe married father of four sons was a 30-year veteran of the police department. His wife, Mel, wore a police badge on a necklace during the service. Her husband’s coffin was draped in an American flag.\n\n\nGov. Bruce Rauner was among the crowd estimated at 5,000 people.\n\nGliniewicz was awarded the police department’s Medal of Honor at the funeral service, held at the high school where Gliniewicz graduated in 1981.\n\nRetired Fox Lake Police Chief Michael Behan spoke of the Gliniewicz’s dedication to youth and the Fox Lake police Explorer’s program.\n\n“Joe did Explorers for 30 years — 30 years,” Behan said. “Joe met [his future wife], they fell in love, they had four children — four boys. Joe was a father to those boys. . . . He loved them. I’m here to tell you, they broke the mold with Joe because he was dad to about 1,000 others who went through Explorers.”\n\nAntioch Police Officer Nicholas Garcia jokingly remembered his buddy’s unique way of speaking.\n\n“He had code words for everything,” Garcia recalled. “Joe got up every morning at ‘0 dark 30,’ and immediately grabbed his coffee because he insisted on being ‘vertical and caffeinated’ at all times.”\n\nGliniewicz often referred to his four sons individually as “Son No. 1″ or “Son No. 4.”\n\n“Joe was a great husband, an awesome dad, a mentor to the police officers of tomorrow and a friend to many, including me and I’ll miss him,” Garcia said.\n\nAntioch Village Trustee Jerry Johnson described the visitation as “really somber, very serious.”\n\n“Walking through, the emotion — words cannot describe it,” Johnson said.\n\n\nFormer Fox Lake Police Chief Joe Semasko, who was Gliniewicz’s first chief from 1985-1989, said that all of the good things people are saying about his former officer are true.\n\n“You recognize certain people right away,” Semasko said. “Few in Fox Lake had the initiative, dedication and drive that Joe did. Joe was a very good person.”\n\nJohn Lucas, a recently retired Lake County sheriff’s lieutenant, knew Gliniewicz for about 30 years.\n\n“It’s horrifying, and it’s every cop’s worst nightmare,” Lucas said. “It should be every citizen’s worst nightmare.”\n\nLucas said that to be at his friend’s viewing was “surreal,” however he knows that danger comes with the job.\n\n“Unfortunately for us in law enforcement it is a harsh reality that we never want to confront, but it can happen any day,” he said.\n\nNot lost on Lucas was the fact that his friend was about to retire.\n\n“When we heard the news, my wife was just like, ‘I’m so glad you retired,’ ” Lucas said. “It seems to be getting more and more dangerous out there.”\n\n\nSgt. 1st Class Anthony Leggett, who is based in Arlington Heights in the U.S. Army Reserve 814th Military Police Company, worked with Gliniewicz, who was in his division, in 2000-2001. He laughed about memories with his friend, who was in better shape than most of the company.\n\n“We all knew Joe for his humongous cups of coffee,” Leggett said. “We called him a PT stud – a physical fitness test stud.”\n\n“Joe would finish PT and go have a cigarette,” he said. “He would run two miles in nine minutes and smoke a cigarette afterwards.”\n\nLeggett said that he has seen his share of uniformed officer’s funerals from his time working with the casualty assistance unit. He has never, however, seen such an amazing response like the one he saw for Gliniewicz and his family.\n\n“To see a sea of blue, all the uniforms, all the support, is just fantastic,” Leggett said. “I saw some from as far away as Dallas.”\n\nAfter the funeral procession, U.S. Rep. Bob Dold, R-Ill., remarked about the incredible turnout from the community.\n\n“I’ve never seen anything like this,” Dold said. “It’s moving to say the least.”\n\nDold said that the thousands of people who took the time to attend the funeral, line the streets or pull their boats up along the lakes while the procession passed on a day usually reserved for picnics with family is a testament to the man they were there to honor.\n\n“The community is speaking with a loud, singular voice that they are supporting Joe’s family and will continue to do so,” he said.\n\nThe streets and businesses in Antioch were lined with pictures of Gliniewicz and blue bows, thanks to a group of local volunteers made up of friends of the family.\n\n“We started on Friday cutting blue and black tablecloths to make bows and police flags,” said Michelle Torkilsen of Lake Villa. “We also did a cup tribute along the procession route in Antioch, which spelled out G.I. (a heart) Joe and his badge number.”\n\nWhile most mourners left the high school seeming sad and sentimental, one of Gliniewicz’s cousins said she was angry.\n\n“This is ridiculous,” said Sherrie Surek, of Round Lake. “When I look at those kids I see a real empty world for them. I hope to God they find his killer.”\n\n\nContributing: Stefano Esposito, The Associated Press",
+        "metadata": {
+          "title": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’ - Chicago Sun-Times",
+          "og:title": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’",
+          "og:url": "https://chicago.suntimes.com/2016/6/24/18437224/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+          "og:image": "https://cst.brightspotcdn.com/dims4/default/9510baa/2147483647/strip/true/crop/1024x585+0+28/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FrhJ7mfLLVuDT6NyMlP9T3wGncgs%3D%2F0x0%3A1024x640%2F1024x640%2Ffilters%3Afocal%28512x320%3A513x321%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16140523%2Fglincem090815_1.jpg",
+          "og:image:url": "https://cst.brightspotcdn.com/dims4/default/9510baa/2147483647/strip/true/crop/1024x585+0+28/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FrhJ7mfLLVuDT6NyMlP9T3wGncgs%3D%2F0x0%3A1024x640%2F1024x640%2Ffilters%3Afocal%28512x320%3A513x321%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16140523%2Fglincem090815_1.jpg",
+          "og:image:width": "1461",
+          "og:image:height": "834",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "Fox Lake Police Lt. Charles Joseph Gliniewicz was laid to rest Monday evening at Hillside East Cemetery in Antioch. | Brian Hil/Daily Herald via AP",
+          "og:site_name": "Chicago Sun-Times",
+          "og:type": "article",
+          "article:author": "https://chicago.suntimes.com/authors/sun-times-staff",
+          "article:published_time": "2016-06-24T14:55:00Z",
+          "article:modified_time": "2019-04-18T00:56:14Z",
+          "article:section": "News",
+          "twitter:title": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’",
+          "fb:app_id": "425672421661236",
+          "parsely-title": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’",
+          "parsely-author": "Sun-Times staff",
+          "description": "<p>An 18-mile-long procession of law-enforcement vehicles led the way for the hearse carrying the body of Fox Lake Police Lt. Charles Joseph"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "articleSection": "News",
+          "url": "https://chicago.suntimes.com/2016/6/24/18437224/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+          "dateModified": "2019-04-18T00:56:14Z",
+          "datePublished": "2016-06-24T14:55:00Z",
+          "description": "&lt;p&gt;An 18-mile-long procession of law-enforcement vehicles led the way for the hearse carrying the body of Fox Lake Police Lt. Charles Joseph",
+          "image": [
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 640,
+              "url": "https://cst.brightspotcdn.com/dims4/default/f652d40/2147483647/strip/false/crop/1024x640+0+0/resize/1024x640!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FrhJ7mfLLVuDT6NyMlP9T3wGncgs%3D%2F0x0%3A1024x640%2F1024x640%2Ffilters%3Afocal%28512x320%3A513x321%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16140523%2Fglincem090815_1.jpg",
+              "width": 1024
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 675,
+              "url": "https://cst.brightspotcdn.com/dims4/default/2fb9f61/2147483647/strip/false/crop/1024x576+0+32/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FrhJ7mfLLVuDT6NyMlP9T3wGncgs%3D%2F0x0%3A1024x640%2F1024x640%2Ffilters%3Afocal%28512x320%3A513x321%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F16140523%2Fglincem090815_1.jpg",
+              "width": 1200
+            }
+          ],
+          "isBasedOn": "https://chicago.suntimes.com/2016/6/24/18437224/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://chicago.suntimes.com/2016/6/24/18437224/lt-gliniewicz-laid-to-rest-now-the-nation-knows-he-s-a-hero"
+          },
+          "author": [
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "affiliation": {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "logo": "https://cst.brightspotcdn.com/ed/28/86c5cf23453dbce1e90e26a9a932/29740796-348306485691331-803244405740797952-n.jpg",
+                "name": "Chicago Sun-Times"
+              },
+              "name": "Sun-Times staff",
+              "url": "https://chicago.suntimes.com/authors/sun-times-staff"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Chicago Sun-Times",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://cst.brightspotcdn.com/a7/da/9a739da544a698cdb98e1b1c5f27/ctimes-logo.svg"
+            }
+          },
+          "name": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’ - Chicago Sun-Times",
+          "headline": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Lt. Gliniewicz laid to rest: ‘Now the nation knows he’s a hero’ An 18-mile-long procession of law-enforcement vehicles led the way for the hearse carrying the body of Fox Lake Police Lt. Charles Joseph Gliniewicz to his final resting place at Hillside East Cemetery in Antioch on Monday evening. The funeral procession arrived at the cemetery about 6 p.m. and graveside services got underway about 6:45 p.m., according to Stephanie Barrons, of Antioch, who watched the procession and burial with her husband, Kevin, from across the street from the cemetery. Gliniewicz was buried with full, traditional military honors. There were bagpipes, a color guard, the playing of “Taps” and a 21-gun salute. Family members encircled Gliniewicz’s casket under a large, blue tent and police officers surrounded them, at least 20 rows deep, she said. “There were six or seven helicopters which flew straight, and one veered right to signify the missing man,” Barrons said. “It was phenomenal.” Barrons, whose son Matthew went to high school with Gliniewicz’s son D.J., said that she felt honored to be a part of something so important for the community. “This is something I will never forget,” she said. “I saw some officers from Detroit, Las Vegas and New York. To see all of this show of support is something I will never see again.” Earlier Monday, thousands gathered to say a final goodbye to a man remembered as a father of four and a dad to thousands of others. “When we were growing up, we all knew Joe was a hero,” said the slain officer’s brother, Antioch Fire Lt. Michael S. Gliniewicz, speaking at the funeral at Antioch Community High School. “Now the nation knows he’s a hero. We are Gliniewicz strong. I love you, brother.” The public, local dignitaries and police from as far away as Dallas, Los Angeles and New York paid their respects to the man the community and the country has affectionately dubbed “G.I. Joe.” Gliniewicz, 52, was shot Tuesday while chasing three suspicious men on foot in a marshy area of Fox Lake, about 45 miles northwest of Chicago. Police continue to look for the suspects and plan to update the media on the search at 12:30 p.m. Tuesday. The married father of four sons was a 30-year veteran of the police department. His wife, Mel, wore a police badge on a necklace during the service. Her husband’s coffin was draped in an American flag. Gov. Bruce Rauner was among the crowd estimated at 5,000 people. Gliniewicz was awarded the police department’s Medal of Honor at the funeral service, held at the high school where Gliniewicz graduated in 1981. Retired Fox Lake Police Chief Michael Behan spoke of the Gliniewicz’s dedication to youth and the Fox Lake police Explorer’s program. “Joe did Explorers for 30 years — 30 years,” Behan said. “Joe met [his future wife], they fell in love, they had four children — four boys. Joe was a father to those boys. . . . He loved them. I’m here to tell you, they broke the mold with Joe because he was dad to about 1,000 others who went through Explorers.” Antioch Police Officer Nicholas Garcia jokingly remembered his buddy’s unique way of speaking. “He had code words for everything,” Garcia recalled. “Joe got up every morning at ‘0 dark 30,’ and immediately grabbed his coffee because he insisted on being ‘vertical and caffeinated’ at all times.” Gliniewicz often referred to his four sons individually as “Son No. 1″ or “Son No. 4.” “Joe was a great husband, an awesome dad, a mentor to the police officers of tomorrow and a friend to many, including me and I’ll miss him,” Garcia said. Antioch Village Trustee Jerry Johnson described the visitation as “really somber, very serious.” “Walking through, the emotion — words cannot describe it,” Johnson said. Former Fox Lake Police Chief Joe Semasko, who was Gliniewicz’s first chief from 1985-1989, said that all of the good things people are saying about his former officer are true. “You recognize certain people right away,” Semasko said. “Few in Fox Lake had the initiative, dedication and drive that Joe did. Joe was a very good person.” John Lucas, a recently retired Lake County sheriff’s lieutenant, knew Gliniewicz for about 30 years. “It’s horrifying, and it’s every cop’s worst nightmare,” Lucas said. “It should be every citizen’s worst nightmare.” Lucas said that to be at his friend’s viewing was “surreal,” however he knows that danger comes with the job. “Unfortunately for us in law enforcement it is a harsh reality that we never want to confront, but it can happen any day,” he said. Not lost on Lucas was the fact that his friend was about to retire. “When we heard the news, my wife was just like, ‘I’m so glad you retired,’ ” Lucas said. “It seems to be getting more and more dangerous out there.” Sgt. 1st Class Anthony Leggett, who is based in Arlington Heights in the U.S. Army Reserve 814th Military Police Company, worked with Gliniewicz, who was in his division, in 2000-2001. He laughed about memories with his friend, who was in better shape than most of the company. “We all knew Joe for his humongous cups of coffee,” Leggett said. “We called him a PT stud – a physical fitness test stud.” “Joe would finish PT and go have a cigarette,” he said. “He would run two miles in nine minutes and smoke a cigarette afterwards.” Leggett said that he has seen his share of uniformed officer’s funerals from his time working with the casualty assistance unit. He has never, however, seen such an amazing response like the one he saw for Gliniewicz and his family. “To see a sea of blue, all the uniforms, all the support, is just fantastic,” Leggett said. “I saw some from as far away as Dallas.” After the funeral procession, U.S. Rep. Bob Dold, R-Ill., remarked about the incredible turnout from the community. “I’ve never seen anything like this,” Dold said. “It’s moving to say the least.” Dold said that the thousands of people who took the time to attend the funeral, line the streets or pull their boats up along the lakes while the procession passed on a day usually reserved for picnics with family is a testament to the man they were there to honor. “The community is speaking with a loud, singular voice that they are supporting Joe’s family and will continue to do so,” he said. The streets and businesses in Antioch were lined with pictures of Gliniewicz and blue bows, thanks to a group of local volunteers made up of friends of the family. “We started on Friday cutting blue and black tablecloths to make bows and police flags,” said Michelle Torkilsen of Lake Villa. “We also did a cup tribute along the procession route in Antioch, which spelled out G.I. (a heart) Joe and his badge number.” While most mourners left the high school seeming sad and sentimental, one of Gliniewicz’s cousins said she was angry. “This is ridiculous,” said Sherrie Surek, of Round Lake. “When I look at those kids I see a real empty world for them. I hope to God they find his killer.” Contributing: Stefano Esposito, The Associated Press",
+      "niveau_contexte": 2,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7697361442862887
+    },
+    {
+      "titre": "34 Fox Funeral Home Stock Photos, High-Res Pictures, and ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/photos/fox-funeral-home",
+      "image_url": "https://media.gettyimages.com/id/487216682/photo/antioch-il-a-memorial-sits-outside-the-strang-funeral-home-near-the-antioch-commuity-high.jpg?s=612x612&w=gi&k=20&c=-QmcXT_pBE_oCQfc8ea81FJ0R3VYRfBffkl55q0OvRA=",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReZvjZRQI3_ka3C5q7CRR7HKhD6FOJvMx-fesqwSJIlfnZMWX7",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "34 Fox Funeral Home Stock Photos, High-Res Pictures, and ...",
+        "link": "https://www.gettyimages.com/photos/fox-funeral-home",
+        "source": "Getty Images",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ5xwpxMjOWdRpeKcuUn7JhahFZ4hhmNbtqmKf3pALagxfrcJ3szbXgDI4uNfsYrQp-5B4_Mj1HyK3y1xuTL8lmjvzucq8uG9K5D7rtkG1hijwRZSjf9wxM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReZvjZRQI3_ka3C5q7CRR7HKhD6FOJvMx-fesqwSJIlfnZMWX7",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.gettyimages.com/id/487216682/photo/antioch-il-a-memorial-sits-outside-the-strang-funeral-home-near-the-antioch-commuity-high.jpg?s=612x612&w=gi&k=20&c=-QmcXT_pBE_oCQfc8ea81FJ0R3VYRfBffkl55q0OvRA=",
+        "image_width": 408,
+        "image_height": 612
+      },
+      "webpage": null,
+      "texte_contexte": "34 Fox Funeral Home Stock Photos, High-Res Pictures, and Getty Images",
+      "niveau_contexte": 1,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7620511060710303
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Strang Funeral Home",
+      "Antioch Community High School"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "memorial"
+    ]
+  },
+  "entites_regroupees": [],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T20:34:00.156978"
+  }
+}

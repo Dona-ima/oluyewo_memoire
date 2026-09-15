@@ -1,0 +1,693 @@
+{
+  "id_rumeur": 596375,
+  "id_image": 731915,
+  "caption": "A video frame said to show Serb paramilitaries guarding Muslim prisoners from Srebrenica",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748198/oluyewo_benchmark/h5b6z8kzladur3ubixjf.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "ISIS markets itself as the \"cool\" organization - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=BVdhfX_8c1g",
+      "image_url": "https://i.ytimg.com/vi/BVdhfX_8c1g/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKStWM9ihQF-L63wZmT0B24Jp8FD-BB2IqVjfiMkwYXEGaAS2M",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "ISIS markets itself as the \"cool\" organization - YouTube",
+        "link": "https://www.youtube.com/watch?v=BVdhfX_8c1g",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKStWM9ihQF-L63wZmT0B24Jp8FD-BB2IqVjfiMkwYXEGaAS2M",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/BVdhfX_8c1g/hqdefault.jpg",
+        "image_width": 360,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "ISIS markets itself as the \"cool\" organization\n\nCNN\n\nCNN's Stephanie Elam reports on ISIS's operational tendencies, which include power, propaganda, PR, and social media",
+        "metadata": {
+          "title": "ISIS markets itself as the \"cool\" organization",
+          "description": "CNN's Stephanie Elam reports on ISIS's operational tendencies, which include power, propaganda, PR, and social media",
+          "keywords": "CNN, News, CNN TV, CNN Newsroom, CNN Tonight",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=BVdhfX_8c1g",
+          "og:title": "ISIS markets itself as the \"cool\" organization",
+          "og:image": "https://i.ytimg.com/vi/BVdhfX_8c1g/hqdefault.jpg",
+          "og:image:width": "480",
+          "og:image:height": "360",
+          "og:description": "CNN's Stephanie Elam reports on ISIS's operational tendencies, which include power, propaganda, PR, and social media",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=BVdhfX_8c1g&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=BVdhfX_8c1g&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=BVdhfX_8c1g&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/BVdhfX_8c1g",
+          "og:video:secure_url": "https://www.youtube.com/embed/BVdhfX_8c1g",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "CNN Tonight",
+          "fb:app_id": "87741124305",
+          "twitter:title": "ISIS markets itself as the \"cool\" organization",
+          "twitter:description": "CNN's Stephanie Elam reports on ISIS's operational tendencies, which include power, propaganda, PR, and social media"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "CNN's Stephanie Elam reports on ISIS's operational tendencies, which include power, propaganda, PR, and social media, highlighting how ISIS markets itself as the \"cool\" organization.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Stephanie Elam"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "ISIS",
+          "CNN",
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "social media",
+          "propaganda",
+          "PR"
+        ]
+      },
+      "score_e5": 0.7604320560722416
+    },
+    {
+      "titre": "British man in Isis recruitment video 'obsessed with jihad ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=MawcRc1CWlI",
+      "image_url": "https://i.ytimg.com/vi/MawcRc1CWlI/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR28NXxfiEGVn1yBbkWWgptliXi-7l68PDf_ARauVlNzp1N9vjT",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "British man in Isis recruitment video 'obsessed with jihad ...",
+        "link": "https://www.youtube.com/watch?v=MawcRc1CWlI",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR28NXxfiEGVn1yBbkWWgptliXi-7l68PDf_ARauVlNzp1N9vjT",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/MawcRc1CWlI/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "British man in Isis recruitment video 'obsessed with jihad'\n\nChannel 4 News\n\nA third Brit identified in an Isis recruitment video, Abdul Rakeeb, was \"obsessed with pushing jihad\" says a former friend.Subscribe to Channel 4 News: http:...",
+        "metadata": {
+          "title": "British man in Isis recruitment video 'obsessed with jihad'",
+          "description": "A third Brit identified in an Isis recruitment video, Abdul Rakeeb, was \"obsessed with pushing jihad\" says a former friend.Subscribe to Channel 4 News: http:...",
+          "keywords": "Abdul Rakeeb, British Isis, Isis recruitment, Isis recruitment video, Isis, IS, Islamic State, caliphate, Isis War, Iraq, Isis Iraq, Iraq War, Iraq Islamic State, Islamic State Isis, Muslim State, Middle East, conflict, war, religion, Islam, Muslim, Channel 4 News, 4 News, Channel 4, news, latest news, breaking news, news today",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=MawcRc1CWlI",
+          "og:title": "British man in Isis recruitment video 'obsessed with jihad'",
+          "og:image": "https://i.ytimg.com/vi/MawcRc1CWlI/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "A third Brit identified in an Isis recruitment video, Abdul Rakeeb, was \"obsessed with pushing jihad\" says a former friend.Subscribe to Channel 4 News: http:...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=MawcRc1CWlI&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=MawcRc1CWlI&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=MawcRc1CWlI&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/MawcRc1CWlI",
+          "og:video:secure_url": "https://www.youtube.com/embed/MawcRc1CWlI",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "news today",
+          "fb:app_id": "87741124305",
+          "twitter:title": "British man in Isis recruitment video 'obsessed with jihad'",
+          "twitter:description": "A third Brit identified in an Isis recruitment video, Abdul Rakeeb, was \"obsessed with pushing jihad\" says a former friend.Subscribe to Channel 4 News: http:..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A third Brit identified in an Isis recruitment video, Abdul Rakeeb, was obsessed with pushing jihad, according to a former friend, as reported by Channel 4 News.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abdul Rakeeb"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Isis",
+          "Channel 4 News",
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "jihad"
+        ]
+      },
+      "score_e5": 0.7690905082552287
+    },
+    {
+      "titre": "Isis slave markets sell girls for 'as little as a pack of ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2015/jun/09/isis-slave-markets-sell-girls-for-as-little-as-a-pack-of-cigarettes-un-envoy-says",
+      "image_url": "https://i.guim.co.uk/img/media/2de4c4e68b5cebbf5d2f38f59ab96d1728cc4131/0_0_5681_3408/5681.jpg?width=700&quality=85&auto=format&fit=max&s=c9b34eb64d6f1fd15067a778ce671798",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRS5LBcMPZNcNwJWkWQ4fTBbW_neAHyYvnET9fnmJ2c7WpPiFo",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Isis slave markets sell girls for 'as little as a pack of ...",
+        "link": "https://www.theguardian.com/world/2015/jun/09/isis-slave-markets-sell-girls-for-as-little-as-a-pack-of-cigarettes-un-envoy-says",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef9076feec41ceb73edd4/images/5pq2rpMRmLfR_ZJecD_vKE6TNQLLWj6xmh8j8WYZfX8.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRS5LBcMPZNcNwJWkWQ4fTBbW_neAHyYvnET9fnmJ2c7WpPiFo",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/2de4c4e68b5cebbf5d2f38f59ab96d1728cc4131/0_0_5681_3408/5681.jpg?width=700&quality=85&auto=format&fit=max&s=c9b34eb64d6f1fd15067a778ce671798",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Isis slave markets sell girls for 'as little as a pack of cigarettes', UN envoy says | Islamic State\n\nTeenage girls abducted by Islamic State fighters in Iraq and Syria are being sold in slave markets “for as little as a pack of cigarettes”, the UN envoy on sexual violence said on Monday.\n\nZainab Bangura visited Iraq and Syria in April, and has since been working on an action plan to address the horrific sexual violence being waged by Isis fighters.\n\n“This is a war that is being fought on the bodies of women,” Bangura said.\n\nThe UN envoy spoke to women and girls who had escaped from captivity in Isis-controlled areas, met with local religious and political leaders and visited refugees in Turkey, Lebanon and Jordan.\n\nJihadists continued to run slave markets for girls abducted during fresh offensives, but there were no figures on the numbers enslaved by the fighters, she said.\n\n“They kidnap and abduct women when they take areas so they have – I don’t want to call it a fresh supply – but they have new girls,” she said.\n\nGirls are sold for “as little as a pack of cigarettes” or for several hundred or thousand dollars, she said.\n\nBangura described the ordeal of several teenage girls, many of whom were part of the Yazidi minority targeted by the jihadists.\n\n“Some were taken, locked up in a room – over 100 of them in a small house – stripped naked and washed.”\n\nThey were then made to stand in front of a group of men who decided “what you are worth”.\n\nBangura gave the account of a 15-year-old girl who was sold to an Isis leader, a sheikh aged in his 50s, who showed her a gun and a stick and asked her “tell me what you want”.\n\n“She said ‘the gun’ and he replied: ‘I didn’t buy you so that you could kill yourself’,” before raping her, Bangura said.\n\nAbducting girls has become a key part of the Isis strategy to recruit foreign fighters who have been travelling to Iraq and Syria in record numbers over the last 18 months.\n\n“This is how they attract young men: we have women waiting for you, virgins that you can marry,” Bangura said. “The foreign fighters are the backbone of the fighting.”\n\nA recent UN report said close to 25,000 foreign fighters from more than 100 countries were involved in conflicts worldwide, with the largest influx by far into Syria and Iraq.\n\nThe envoy likened the jihadists’ abuse of women and girls to “medieval” practices and said Isis wants “to build a society that reflects the 13th century”.\n\nDespite the monstrous violence, communities like the Yazidis are welcoming the girls back and offering them support to pick up the pieces of their broken lives, said Bangura.\n\nShe praised Yazidi religious leader Baba Sheikh for publicly declaring that the girls need understanding, but noted that no such pronouncements had come from the Turkmen leaders.\n\nBangura returned from a tour of European capitals to discuss the plight of women and girls under Isis and hopes to address the UN security council soon to discuss what can be done.\n\nA UN technical team is due to travel to the region to work out details of the plan to help victims of Isis sexual violence.",
+        "metadata": {
+          "title": "Isis slave markets sell girls for 'as little as a pack of cigarettes', UN envoy says | Islamic State | The Guardian",
+          "description": "UN envoy on sexual violence says abducting girls has become a key part of Isis strategy to recruit foreign fighters in Iraq and Syria over the past 18 months",
+          "og:url": "http://www.theguardian.com/world/2015/jun/09/isis-slave-markets-sell-girls-for-as-little-as-a-pack-of-cigarettes-un-envoy-says",
+          "article:author": "Agence France-Presse",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/2de4c4e68b5cebbf5d2f38f59ab96d1728cc4131/0_0_5681_3408/5681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=6e198acf266b3d51760cee36acccfee4",
+          "al:ios:url": "gnmguardian://world/2015/jun/09/isis-slave-markets-sell-girls-for-as-little-as-a-pack-of-cigarettes-un-envoy-says?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Isis slave markets sell girls for 'as little as a pack of cigarettes', UN envoy says",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2022-10-19T16:17:08.000Z",
+          "og:image:height": "720",
+          "og:description": "UN envoy on sexual violence says abducting girls has become a key part of Isis strategy to recruit foreign fighters in Iraq and Syria over the past 18 months",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2015-06-09T01:18:40.000Z",
+          "article:tag": "Islamic State,World news,Iraq,Syria,Women,Middle East and north Africa,Rape and sexual assault,United Nations,Global development,Women's rights and gender equality",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Teenage girls abducted by Islamic State fighters in Iraq and Syria are being sold in slave markets for as little as a pack of cigarettes or several hundred or thousand dollars, according to UN envoy on sexual violence Zainab Bangura. Bangura visited Iraq, Syria, Turkey, Lebanon, and Jordan, noting that the victims include members of the Yazidi minority. The abductions are part of an ISIS strategy to recruit foreign fighters, with close to 25,000 foreign fighters involved in conflicts worldwide.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Zainab Bangura",
+          "Baba Sheikh"
+        ],
+        "LOCATION": [
+          "Iraq",
+          "Syria",
+          "Turkey",
+          "Lebanon",
+          "Jordan"
+        ],
+        "ORGANIZATION": [
+          "Islamic State",
+          "Isis",
+          "UN",
+          "The Guardian",
+          "UN security council"
+        ],
+        "DATE": [
+          "April",
+          "Monday",
+          "13th century",
+          "last 18 months"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Yazidi",
+          "Turkmen"
+        ]
+      },
+      "score_e5": 0.7704989247097699
+    },
+    {
+      "titre": "Holder Calls on U.S. Allies to Disrupt Grooming of Islamic ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/holder-calls-on-u-s-allies-to-disrupt-grooming-of-islamic-terrorists-1404826340",
+      "image_url": "https://s.wsj.net/public/resources/images/WO-AS943_HOLDER_GR_20140708190809.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsN8dBFsYL9-zJ-2Fm4BSvDJriEq9zBNG3Q_6IbmDeJB-iCFuE",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Holder Calls on U.S. Allies to Disrupt Grooming of Islamic ...",
+        "link": "https://www.wsj.com/articles/holder-calls-on-u-s-allies-to-disrupt-grooming-of-islamic-terrorists-1404826340",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsN8dBFsYL9-zJ-2Fm4BSvDJriEq9zBNG3Q_6IbmDeJB-iCFuE",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://s.wsj.net/public/resources/images/WO-AS943_HOLDER_GR_20140708190809.jpg",
+        "image_width": 810,
+        "image_height": 1242
+      },
+      "webpage": null,
+      "texte_contexte": "Holder Calls on U.S. Allies to Disrupt Grooming of Islamic Terrorists.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Holder"
+        ],
+        "LOCATION": [
+          "U.S."
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.768431169683077
+    },
+    {
+      "titre": "Cardiff men in Isis recruitment video 'can be reintegrated ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/uk-news/2014/jun/23/cardiff-men-isis-recruitment-video-return",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/6/23/1403517882381/Isis-recruitment-video-011.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrzGa055KQoPEc9WSFgh89_8zlZFeRmD_8Imj0vJXD2eQrA8Eh",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Cardiff men in Isis recruitment video 'can be reintegrated ...",
+        "link": "https://www.theguardian.com/uk-news/2014/jun/23/cardiff-men-isis-recruitment-video-return",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrzGa055KQoPEc9WSFgh89_8zlZFeRmD_8Imj0vJXD2eQrA8Eh",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/6/23/1403517882381/Isis-recruitment-video-011.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Cardiff men in Isis recruitment video 'can be reintegrated' | Cardiff\n\nA community leader has said the young men from Cardiff who appeared in a recruitment video for an Islamist group could yet be reintegrated into their communities.\n\nMohammed Sarul Islam, a friend of the family of one of the men, 20-year-old Reyaad Khan, said he hoped they would be able to return from Syria and resume a worthwhile life in the Welsh capital.\n\n\"This is a close-knit community that will be able to work together and bring them back to the good side from the bad side. I believe that can happen,\" he told the Guardian.\n\nKhan and Nasser Muthana, also 20, both appeared in a recruitment video for Islamic State in Iraq and Syria (Isis), urging UK Muslims to join insurgents in Syrian and Iraq. Muthana's younger brother Aseel, 17, is also believed to be in Syria.\n\nThe older Muthana boy vanished from Cardiff after telling his family he was going to a Islamic seminar in Shropshire, while his brother told his parents he was off to revise for a maths exam at a friend's house before disappearing.\n\nIslam said Khan left his home in Cardiff eight months ago on the pretext that he was going to an Islamic conference in Birmingham. When he failed to return his mother contacted the police and they discovered that he had gone to Syria. She had no idea where he was or what he was doing until the video emerged.\n\n\"She wanted to go to try to find him,\" said Islam. \"She is in pieces, totally broken down. When I was campaigning to be a councillor I would knock on their door and I remember Reyaad. He was just a little boy. It's strange to think of him going to Syria or Iraq.\"\n\nA mosque where the Muthana brothers worshipped, Al-Manar centre, said it was not the source of radicalism and blamed the internet for affecting the pair.\n\nIslam, who received death threats when he spoke out against extremism when a terrorist plot involving two Cardiff men was exposed in 2010, said he believed the boys may have been exposed to extremist material on the internet before being tempted to Syria on the pretext of providing humanitarian aid and further radicalised or manipulated there.\n\nOn Sunday, Muthana's father, Ahmed, a retired electrical engineer, told the Guardian he felt as if a bomb had hit his neat, modest Cardiff home when he saw the video. \"I was shocked, I was sad, I cried,\" he said. \"My wife collapsed. It feels as if the ground under my feet has disappeared.\"\n\nThe video showed Nasser, a talented, sports-mad 20-year-old born and bred in the Welsh capital who not long ago had planned to go to medical school, urging other Muslims to join the fighting. \"He looked skinny and tough,\" said Muthana. \"He wasn't tough at all when he was here. I think he has been forced to talk in that way. He has been told what to say.\"\n\nNevertheless, Muthana, 57, said his son had let down his family and his country. \"This is my country. I came here aged 13 from Aden when I was orphaned. It is his country. He was born here in the hospital down the road. He has been educated here. He has betrayed Great Britain.\"\n\nKhan went to secondary school with Nasser. \"I used to have him in my car,\" Muthana said. \"I'd take them to the mosque. He seemed fine. Like all of them.\"",
+        "metadata": {
+          "title": "Cardiff men in Isis recruitment video 'can be reintegrated' | Cardiff | The Guardian",
+          "description": "Community leader Mohammed Sarul Islam says he hopes the two will be able to return from Syria and resume a worthwhile life",
+          "og:url": "http://www.theguardian.com/uk-news/2014/jun/23/cardiff-men-isis-recruitment-video-return",
+          "article:author": "https://www.theguardian.com/profile/stevenmorris",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/6/23/1403517882381/Isis-recruitment-video-011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=cf111328519d4f3b3bd3346d569ffcde",
+          "al:ios:url": "gnmguardian://uk-news/2014/jun/23/cardiff-men-isis-recruitment-video-return?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Cardiff men in Isis recruitment video 'can be reintegrated'",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2021-08-31T14:26:21.000Z",
+          "og:image:height": "720",
+          "og:description": "Community leader Mohammed Sarul Islam says he hopes the two will be able to return from Syria and resume a worthwhile life",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "UK news",
+          "article:published_time": "2014-06-23T10:13:50.000Z",
+          "article:tag": "Cardiff,UK news,Islamic State,Syria",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Young men from Cardiff who appeared in an Islamic State in Iraq and Syria recruitment video, including Reyaad Khan and Nasser Muthana, urged UK Muslims to join insurgents in Syria and Iraq. Nasser's younger brother Aseel is also believed to be in Syria. Community figures like Mohammed Sarul Islam and Nasser's father Ahmed Muthana discussed the situation, noting the influence of the internet and extremist material.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mohammed Sarul Islam",
+          "Reyaad Khan",
+          "Nasser Muthana",
+          "Aseel Muthana",
+          "Ahmed Muthana"
+        ],
+        "LOCATION": [
+          "Cardiff",
+          "Syria",
+          "Iraq",
+          "Welsh capital",
+          "Shropshire",
+          "Birmingham",
+          "UK",
+          "Aden"
+        ],
+        "ORGANIZATION": [
+          "Isis",
+          "Islamic State",
+          "The Guardian",
+          "Al-Manar centre"
+        ],
+        "DATE": [
+          "Sunday",
+          "2010",
+          "eight months ago"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7573371767338883
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Srebrenica"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Serb",
+      "Muslim"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Stephanie Elam",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abdul Rakeeb",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Zainab Bangura",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Baba Sheikh",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Holder",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mohammed Sarul Islam",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Reyaad Khan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nasser Muthana",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Aseel Muthana",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ahmed Muthana",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Turkey",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lebanon",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jordan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "U.S.",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cardiff",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Welsh capital",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shropshire",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Birmingham",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "UK",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Aden",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIS / Islamic State",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNN",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Channel 4 News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN security council",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al-Manar centre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "13th century",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last 18 months",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "eight months ago",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "social media",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "propaganda",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "PR",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "jihad",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Yazidi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Turkmen",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T18:32:41.176456"
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id_rumeur": 67765,
+  "id_image": 67765,
+  "caption": "Officers load a man into an ambulance at the corner of North and Pennsylvania Aves Police said that a gun the man was carrying went off No officers fired weapons",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748113/oluyewo_benchmark/drh6jlcgjyezoxfhwjxa.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Tensions in Baltimore",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/news/picture/tensions-in-baltimore-idUSRTX1BJBG/",
+      "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2015/05/05/2015-05-05T023907Z_16002_GF10000084131_RTRMADP_0_USA-POLICE-BALTIMORE.JPG?auth=8c16c652861c1849dc1aa96bbe24d89d5685a5975ad32707a7285799ced425f8&width=1920&quality=80",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hSoLGdun7ADkQG5nn6cTfs1npuFab9AGYX-SON0CI8HmWFIp",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Tensions in Baltimore",
+        "link": "https://www.reuters.com/news/picture/tensions-in-baltimore-idUSRTX1BJBG/",
+        "source": "Reuters",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTNHh6oiaXzUIwxZSM0gUOrc7N7g2N8RKkqbWOzXvOso5vcZ8DTO8KL450TYRQU_6wWHhohpQncTnHivZOyNKNUZXHsNglCx-gji29ZNZahhZ4HRxc",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hSoLGdun7ADkQG5nn6cTfs1npuFab9AGYX-SON0CI8HmWFIp",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2015/05/05/2015-05-05T023907Z_16002_GF10000084131_RTRMADP_0_USA-POLICE-BALTIMORE.JPG?auth=8c16c652861c1849dc1aa96bbe24d89d5685a5975ad32707a7285799ced425f8&width=1920&quality=80",
+        "image_width": 1280,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Tensions in Baltimore (Reuters)",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Baltimore"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Tensions in Baltimore"
+        ],
+        "OTHER": []
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "Baltimore police say man's gun discharged during arrest, no ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/article/world/us/baltimore-police-say-mans-gun-discharged-during-arrest-no-injuries-idUSKBN0NP1TF/",
+      "image_url": "https://archive-images.prod.global.a201836.reutersmedia.net/2015/05/04/LYNXMPEB430SR.JPG",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGm_xHux8IDL8YEyq76mypjwI_M8dkogLXbEVdHi9WQczpp7d0",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Baltimore police say man's gun discharged during arrest, no ...",
+        "link": "https://www.reuters.com/article/world/us/baltimore-police-say-mans-gun-discharged-during-arrest-no-injuries-idUSKBN0NP1TF/",
+        "source": "Reuters",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTNHh6oiaXzUIwxZSM0gUOrc7N7g2N8RKkqbWOzXvOso5vcZ8DTO8KL450TYRQU_6wWHhohpQncTnHivZOyNKNUZXHsNglCx-gji29ZNZahhZ4HRxc",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGm_xHux8IDL8YEyq76mypjwI_M8dkogLXbEVdHi9WQczpp7d0",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://archive-images.prod.global.a201836.reutersmedia.net/2015/05/04/LYNXMPEB430SR.JPG",
+        "image_width": 533,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Baltimore police say man's gun discharged during arrest, no injuries (Reuters)",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Baltimore"
+        ],
+        "ORGANIZATION": [
+          "Reuters",
+          "Baltimore police"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "gun"
+        ]
+      },
+      "score_e5": 0.8366211788714323
+    },
+    {
+      "titre": "Baltimore riots: Thousands arrested denied entry to ...",
+      "source": "IBTimes UK",
+      "lien": "https://www.ibtimes.co.uk/baltimore-riots-thousands-arrested-denied-entry-detention-centres-due-serious-injuries-1500791",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1436881/baltimore-police.jpg?w=1600&h=1200&q=88&f=21994f1f686d3c5921a855c1a02d32ad",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1dcWb6puB20XbNML36xtfsiR2wI6wtSlXuU158yYch2S3uQ4k",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Baltimore riots: Thousands arrested denied entry to ...",
+        "link": "https://www.ibtimes.co.uk/baltimore-riots-thousands-arrested-denied-entry-detention-centres-due-serious-injuries-1500791",
+        "source": "IBTimes UK",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRz0f0UDGjUfYUmJYReYwdsUxYnV2uuF7keygQHKcTglo0M-q6WrcXmX9LydZeTdFIq9FZnd7l6u1iRzg4aGRdijosr9DEKWUIXKDo6MXV5MJh069ud7Q",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1dcWb6puB20XbNML36xtfsiR2wI6wtSlXuU158yYch2S3uQ4k",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://d.ibtimes.co.uk/en/full/1436881/baltimore-police.jpg?w=1600&h=1200&q=88&f=21994f1f686d3c5921a855c1a02d32ad",
+        "image_width": 1200,
+        "image_height": 1600
+      },
+      "webpage": null,
+      "texte_contexte": "Baltimore riots: Thousands arrested denied entry to detention centres due to serious injuries (IBTimes UK)",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Baltimore"
+        ],
+        "ORGANIZATION": [
+          "IBTimes UK"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Baltimore riots"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7462501790794169
+    },
+    {
+      "titre": "Marilyn Mosby News & Latest Pictures From Newsweek.com",
+      "source": "Newsweek",
+      "lien": "https://www.newsweek.com/topic/marilyn-mosby",
+      "image_url": "https://assets.newsweek.com/wp-content/uploads/2025/08/330644-ambulance.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhVuWs-Wcqf8B5WdUamF6OWt_NRKrQ-4diVmhlH4t43wPAyKA",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Marilyn Mosby News & Latest Pictures From Newsweek.com",
+        "link": "https://www.newsweek.com/topic/marilyn-mosby",
+        "source": "Newsweek",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTL3zocgowwlqREzSUlrRnJDAiBLqRa7IRyGJKbQWRubik5gizFVgWVmngk0LMNzVXXOMre7nmZu8VIW1fqG6uflFSOeVbJy9jqZ4rAl8ASGNAnrhIe",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhVuWs-Wcqf8B5WdUamF6OWt_NRKrQ-4diVmhlH4t43wPAyKA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://assets.newsweek.com/wp-content/uploads/2025/08/330644-ambulance.jpg",
+        "image_width": 287,
+        "image_height": 430
+      },
+      "webpage": null,
+      "texte_contexte": "Marilyn Mosby News & Latest Pictures From Newsweek.com (Newsweek)",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Marilyn Mosby"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Newsweek",
+          "Newsweek.com"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7532572874455219
+    },
+    {
+      "titre": "Police & Fire News • Page 142 of 498 • Brooklyn Paper",
+      "source": "Brooklyn Paper",
+      "lien": "https://www.brooklynpaper.com/category/news/police-fire/page/142/",
+      "image_url": "https://www.brooklynpaper.com/wp-content/uploads/2021/07/D3C9776-1200x855-1.jpeg?quality=51&w=384",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSngwu_Fj6x2W3p75QaZUnQMHbqe0X97lH6apdtTUAFayJ1BxXy",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Police & Fire News • Page 142 of 498 • Brooklyn Paper",
+        "link": "https://www.brooklynpaper.com/category/news/police-fire/page/142/",
+        "source": "Brooklyn Paper",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTgRAP3TXWVpP2mZhOOvk9MAwaKoxNEWbTLsTm7tFqc_WKBxAR6FSXXgH8oCdXmIPCyjPn0ktLdv-EKXMiMg36PQtrpeSwdS3vUzH0qIgVDSaRoHX8eJXauDFc",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSngwu_Fj6x2W3p75QaZUnQMHbqe0X97lH6apdtTUAFayJ1BxXy",
+        "thumbnail_width": 189,
+        "thumbnail_height": 266,
+        "image": "https://www.brooklynpaper.com/wp-content/uploads/2021/07/D3C9776-1200x855-1.jpeg?quality=51&w=384",
+        "image_width": 273,
+        "image_height": 384
+      },
+      "webpage": null,
+      "texte_contexte": "Police & Fire News • Page 142 of 498 • Brooklyn Paper",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brooklyn"
+        ],
+        "ORGANIZATION": [
+          "Brooklyn Paper"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Police & Fire News"
+        ]
+      },
+      "score_e5": 0.7874486738474673
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "North and Pennsylvania Aves"
+    ],
+    "ORGANIZATION": [
+      "Police"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "ambulance",
+      "gun"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Baltimore",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Tensions in Baltimore",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Baltimore police",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "gun",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IBTimes UK",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Baltimore riots",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marilyn Mosby",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Newsweek",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Newsweek.com",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brooklyn",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Brooklyn Paper",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Police & Fire News",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:46:52.619584"
+  }
+}

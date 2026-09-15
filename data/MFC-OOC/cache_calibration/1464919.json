@@ -1,0 +1,732 @@
+{
+  "id_rumeur": 1464919,
+  "id_image": 1464919,
+  "caption": "Bargain hunters were in evidence at retail centres such as Silverburn Shopping Centre in Glasgow",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756838/oluyewo_benchmark/pignn1xs0ltcrwdjqvm5.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Black Friday weekend: Online the winner in sales frenzy",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/business-42143842",
+      "image_url": "https://c.files.bbci.co.uk/9C05/production/_86914993_86914992.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosRjSJA2jT2uWVUX9f1FsbFQQTUqRzeZapp_es33wCHMx8F6W",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Black Friday weekend: Online the winner in sales frenzy",
+        "link": "https://www.bbc.com/news/business-42143842",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosRjSJA2jT2uWVUX9f1FsbFQQTUqRzeZapp_es33wCHMx8F6W",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://c.files.bbci.co.uk/9C05/production/_86914993_86914992.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Black Friday weekend: Online the winner in sales frenzy\n\nIf you thought the shops were looking quiet last Friday then you were right.\n\nA whopping £1.4bn was spent on online sales in the UK on Black Friday - up some 11.7% on last year, according to online retailers trade body IMRG.\n\nBut on High Streets, shopping centres and retail parks it was a different story with footfall figures down 3.6%, analysis firm Springboard said.\n\nOnline's shopping growth is already an established trend, but IMRG says it works particularly well for sales.\n\n\nClicks versus bricks\n\n\n\"People shop in a lot more places than they would normally. Because they know everyone is offering massive discounts then they are inclined to shop around more. Online lends itself well to that,\" says IMRG strategy and insight director Andy Mulcahy.\n\n * Black Friday - bonkers or brilliant?\n * Cyber Monday shopping: Top tips\n\nYet in the battle of clicks versus bricks it isn't just Black Friday that counts.\n\nThe sales bonanza that kicks off the day after Thanksgiving is now a four-day long event culminating in so-called Cyber Monday.\n\nAccording to online data specialist PCA Predict, UK online sales were up 3% between 11am and 5pm this Cyber Monday compared to last year.\n\nIt said the peak minute for purchasing goods was towards the end of the working day at 4:38pm.\n\n\nPCA Predict's head of marketing Chris Boaz says people have realised they don't need to brave the High Street to bag a deal.\n\n\"The days when consumers would be willing to get up early to bag a bargain are gone,\" he says.\n\nYet the popularity of \"click and collect\" means people are still eventually making it to the shops even if they did buy what they wanted online.\n\nSpringboard says numbers picked up over the weekend as shoppers went to collect their purchases.\n\nThe other impact on shopper numbers, both online and in the shops, is that many shops are now offering deals long ahead of Black Friday.\n\nMr Mulcahy says shops often run a discount campaign to drive up sales.\n\n\"Black Friday's really a psychological thing persuading you that's the best price you can get.\n\n\"If you put your nose into it then you could get access to pretty good discounts in October and early November,\" he adds.",
+        "metadata": {
+          "description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "og:title": "Black Friday weekend: Online the winner in sales frenzy",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/business-42143842",
+          "twitter:title": "Black Friday weekend: Online the winner in sales frenzy",
+          "og:description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "twitter:description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/9C05/production/_86914993_86914992.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "576",
+          "og:image:alt": "Shoppers at Silverburn Shopping Centre",
+          "al:ios:url": "bbcx://news/business-42143842",
+          "al:ios:app_store_id": "364147881",
+          "al:ios:app_name": "BBC: World News & Stories",
+          "al:android:url": "bbcx://news/business-42143842",
+          "al:android:app_name": "BBC: World News & Stories",
+          "al:android:package": "bbc.mobile.news.ww",
+          "al:web:url": "https://bbc.com/news/business-42143842",
+          "cXenseParse:recs:section": "Business"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/business-42143842",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+            }
+          },
+          "datePublished": "2017-11-27T21:51:32.000Z",
+          "dateModified": "2017-11-28T00:10:27.000Z",
+          "description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "headline": "Black Friday weekend: Online the winner in sales frenzy",
+          "image": {
+            "@type": "ImageObject",
+            "width": "1024",
+            "height": "576",
+            "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C05/production/_86914993_86914992.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9C05/production/_86914993_86914992.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/business-42143842",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le week-end du Black Friday a vu les ventes en ligne progresser pour atteindre 1,4 milliard de livres au Royaume-Uni (en hausse de 11,7% par rapport à l'année précédente selon l'IMRG), tandis que la fréquentation des magasins physiques, des centres commerciaux et des parcs de détail a baissé de 3,6% selon Springboard. Le Cyber Monday et les achats en ligne ont bénéficié d'une forte activité, bien que le service 'click and collect' continue de ramener des clients dans les boutiques physiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Andy Mulcahy",
+          "Chris Boaz"
+        ],
+        "LOCATION": [
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "IMRG",
+          "Springboard",
+          "PCA Predict"
+        ],
+        "DATE": [
+          "October",
+          "early November"
+        ],
+        "EVENT": [
+          "Black Friday",
+          "Cyber Monday",
+          "Thanksgiving"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7503132766349317
+    },
+    {
+      "titre": "Black Friday shoppers 'move online' - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-scotland-scotland-business-34940231",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9C05/production/_86914993_86914992.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg0q0_MmAyHylcpYKKgmX3QW8HAZ3B0xQOFonr7D5aksb1bNZ8",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Black Friday shoppers 'move online' - BBC News",
+        "link": "https://www.bbc.com/news/uk-scotland-scotland-business-34940231",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg0q0_MmAyHylcpYKKgmX3QW8HAZ3B0xQOFonr7D5aksb1bNZ8",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9C05/production/_86914993_86914992.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Black Friday shoppers 'move online'\n\nThere was little sign of a Black Friday shopping frenzy on the high streets after Scots appeared to turn to the internet for bargains.\n\nOnline data specialist PCA Predict said e-commerce activity surged north of the border, particularly in the Glasgow and Edinburgh areas.\n\nMany Scottish stores had opened their doors early on Black Friday in order to draw in bargain hunters.\n\nBut reports indicated that fewer people turned up than expected.\n\nBlack Friday is a US tradition in which goods are discounted following the Thanksgiving holiday.\n\nIt has become increasingly popular in the UK.\n\nPCA Predict chief technical officer Jamie Turner said: \"In Scotland there has been up to four times as much (e-commerce) traffic as we would normally see, so the Scots are really keen for a bargain.\"\n\nMr Turner added that at one point, Scottish towns and cities accounted for the top ten spending hotspots in the UK.",
+        "metadata": {
+          "description": "There was little sign of a Black Friday shopping frenzy on the high streets as Scots appeared to turn to the internet for bargains.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "There was little sign of a Black Friday shopping frenzy on the high streets as Scots appeared to turn to the internet for bargains.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/E3DA/production/_86903385_chaos.gif",
+          "og:image:alt": "Black Friday sales",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Black Friday shoppers 'move online'",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-scotland-scotland-business-34940231",
+          "article:section": "Scotland business",
+          "twitter:description": "There was little sign of a Black Friday shopping frenzy on the high streets as Scots appeared to turn to the internet for bargains.",
+          "twitter:title": "Black Friday shoppers 'move online'"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-scotland-scotland-business-34940231",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-11-27T00:46:12.000Z",
+          "dateModified": "2015-11-27T18:30:35.000Z",
+          "description": "There was little sign of a Black Friday shopping frenzy on the high streets as Scots appeared to turn to the internet for bargains.",
+          "headline": "Black Friday shoppers 'move online'",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/E3DA/production/_86903385_chaos.gif"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/E3DA/production/_86903385_chaos.gif",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-scotland-scotland-business-34940231",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Peu de signes d'une frénésie d'achats pour le Black Friday sur les rues commerçantes écossaises, les consommateurs s'étant tournés vers Internet pour les bonnes affaires, avec une activité e-commerce particulièrement forte dans les zones de Glasgow et d'Edimbourg selon PCA Predict.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jamie Turner"
+        ],
+        "LOCATION": [
+          "Scotland",
+          "Glasgow",
+          "Edinburgh",
+          "United States",
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "PCA Predict"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Black Friday",
+          "Thanksgiving"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7784556189841503
+    },
+    {
+      "titre": "Black Friday weekend: Online the winner in sales frenzy ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/news/business-42143842",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9C05/production/_86914993_86914992.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTurPIHgak_1RrNSMIJ1XEPquwicMctnft58WvTl5xUhdXvi6p-",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Black Friday weekend: Online the winner in sales frenzy ...",
+        "link": "https://www.bbc.co.uk/news/business-42143842",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEX___8AAABDQ0PQ0NA_Pz_l5eXT09PW1tYZGRnf39_5-fn29vbZ2dnp6elSUlJiYmJoaGgQEBA7OzsJnrLuAAAAW0lEQVQ4je2Quw7AIAgArQKKb_3_j60Vk45uTt50ITcASl2O4a2ZWB-iWAz_bAQpgx5AQa5ilbGI5TQCbM-kM4EYEHexhl_g1phJi2nilbpTwW7J7ZnbR10O8QLINgU5f1dY_AAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTurPIHgak_1RrNSMIJ1XEPquwicMctnft58WvTl5xUhdXvi6p-",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9C05/production/_86914993_86914992.jpg",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "PCA Predict's head of marketing Chris Boaz says people have realised they don't need to brave the High Street to bag a deal.\n\n\"The days when consumers would be willing to get up early to bag a bargain are gone,\" he says.\n\nYet the popularity of \"click and collect\" means people are still eventually making it to the shops even if they did buy what they wanted online.\n\nSpringboard says numbers picked up over the weekend as shoppers went to collect their purchases.\n\nThe other impact on shopper numbers, both online and in the shops, is that many shops are now offering deals long ahead of Black Friday.\n\nAs consumer Group Which? pointed out last week many of last year's so-called Black Friday deals were cheaper or available at the same price at other times of year.\n\nMr Mulcahy says shops often run a discount campaign to drive up sales.\n\n\"Black Friday's really a psychological thing persuading you that's the best price you can get.\n\n\"If you put your nose into it then you could get access to pretty good discounts in October and early November,\" he adds.",
+        "metadata": {
+          "description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9C05/production/_86914993_86914992.jpg",
+          "og:image:alt": "Shoppers at Silverburn Shopping Centre",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Black Friday weekend: Online the winner in sales frenzy",
+          "og:type": "article",
+          "og:url": "https://www.bbc.co.uk/news/business-42143842",
+          "article:section": "Business",
+          "twitter:description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "twitter:title": "Black Friday weekend: Online the winner in sales frenzy"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.co.uk/news/business-42143842",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2017-11-27T21:51:32.000Z",
+          "dateModified": "2017-11-28T00:10:27.000Z",
+          "description": "Some £1.4bn was spent on online sales in the UK on Black Friday, up 11.7% on last year, says one forecast.",
+          "headline": "Black Friday weekend: Online the winner in sales frenzy",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9C05/production/_86914993_86914992.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9C05/production/_86914993_86914992.jpg",
+          "mainEntityOfPage": "https://www.bbc.co.uk/news/business-42143842",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Durant le week-end du Black Friday, la popularité du 'click and collect' a incité les acheteurs à se rendre dans les magasins pour récupérer leurs achats en ligne, malgré une baisse initiale de la fréquentation des rues commerçantes. De nombreux magasins proposent des réductions bien avant le Black Friday.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Chris Boaz",
+          "Andy Mulcahy"
+        ],
+        "LOCATION": [
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Springboard",
+          "Which?"
+        ],
+        "DATE": [
+          "last week",
+          "October",
+          "early November"
+        ],
+        "EVENT": [
+          "Black Friday"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7513614977123083
+    },
+    {
+      "titre": "Strong holiday shopping kickoff is a good sign for retailers",
+      "source": "CNBC",
+      "lien": "https://www.cnbc.com/2025/12/01/strong-holiday-shopping-kickoff-is-a-good-sign-for-retailers.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108234443-1764600592348-gettyimages-2248313265-BLACK_FRIDAY_SHOPPING.jpeg?v=1766493674",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM1f-6TN85L3S3UlUBTNu_5tDEkZiXwB-5AdyJSMJ2bbet3-F-",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Strong holiday shopping kickoff is a good sign for retailers",
+        "link": "https://www.cnbc.com/2025/12/01/strong-holiday-shopping-kickoff-is-a-good-sign-for-retailers.html",
+        "source": "CNBC",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTOk4fg1-gt0by7268I7F8olu8Ty7H4wfzAcpmkmsbO7kEOZ2lnAZhGDeOx31xmwF9I9RSkDoPJm-2XgzE9FXuyckufv_ccRTVwvyf2o7fNDqg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM1f-6TN85L3S3UlUBTNu_5tDEkZiXwB-5AdyJSMJ2bbet3-F-",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://image.cnbcfm.com/api/v1/image/108234443-1764600592348-gettyimages-2248313265-BLACK_FRIDAY_SHOPPING.jpeg?v=1766493674",
+        "image_width": 2666,
+        "image_height": 4000
+      },
+      "webpage": {
+        "text": "Strong holiday shopping kickoff is a good sign for retailers\n\nWhat weak consumer? Strong holiday shopping kickoff is a good sign for retailers\n\n\nPublished Mon, Dec 1 20251:53 PM EST",
+        "metadata": {
+          "og:type": "article",
+          "og:title": "What weak consumer? Strong holiday shopping kickoff is a good sign for retailers",
+          "og:description": "\"The narrative that the consumer is not doing well is being challenged,\" said Jim Cramer.",
+          "og:url": "https://www.cnbc.com/2025/12/01/strong-holiday-shopping-kickoff-is-a-good-sign-for-retailers.html",
+          "og:site_name": "CNBC",
+          "og:image": "https://image.cnbcfm.com/api/v1/image/108234443-1764600592348-gettyimages-2248313265-BLACK_FRIDAY_SHOPPING.jpeg?v=1766493674&w=1920&h=1080",
+          "twitter:title": "What weak consumer? Strong holiday shopping kickoff is a good sign for retailers",
+          "twitter:description": "\"The narrative that the consumer is not doing well is being challenged,\" said Jim Cramer.",
+          "AssetType": "cnbcnewsstory",
+          "pageNodeId": "108234545",
+          "description": "\"The narrative that the consumer is not doing well is being challenged,\" said Jim Cramer.",
+          "article:publisher": "https://www.facebook.com/cnbc",
+          "article:published_time": "2025-12-01T18:53:44+0000",
+          "article:modified_time": "2025-12-01T18:53:44+0000",
+          "news_keywords": "Bath & Body Works Inc,Nike Inc,Home Depot Inc,Walmart Inc,Urban Outfitters Inc,Abercrombie & Fitch Co,stock takes,Jim Cramer,Investment strategy,Markets,Breaking News: Markets,Amazon.com Inc,Costco Wholesale Corp,TJX Companies Inc,business news",
+          "keywords": "Bath & Body Works Inc,Nike Inc,Home Depot Inc,Walmart Inc,Urban Outfitters Inc,Abercrombie & Fitch Co,stock takes,Jim Cramer,Investment strategy,Markets,Breaking News: Markets,Amazon.com Inc,Costco Wholesale Corp,TJX Companies Inc,business news",
+          "al:ios:app_name": "CNBC Business News and Finance",
+          "al:ios:app_store_id": "398018310",
+          "article:section": "CNBC Investing Club: Analysis",
+          "article:author": "https://www.facebook.com/CNBC",
+          "author": "Paulina Likos",
+          "article:opinion": "false",
+          "article:tag": "TJX Companies Inc"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "description": "\"The narrative that the consumer is not doing well is being challenged,\" said Jim Cramer.",
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xpath": [
+              "/html/head/title",
+              "/html/head/meta[@name=\"description\"]/@content"
+            ],
+            "cssSelector": [
+              ".xyz-data"
+            ]
+          },
+          "mainEntityOfPage": "https://www.cnbc.com/2025/12/01/strong-holiday-shopping-kickoff-is-a-good-sign-for-retailers.html",
+          "url": "https://www.cnbc.com/2025/12/01/strong-holiday-shopping-kickoff-is-a-good-sign-for-retailers.html",
+          "headline": "What weak consumer? Strong holiday shopping kickoff is a good sign for retailers",
+          "dateCreated": "2025-12-01T18:53:44+0000",
+          "datePublished": "2025-12-01T18:53:44+0000",
+          "dateModified": "2025-12-01T18:53:44+0000",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Paulina Likos",
+              "url": "https://www.cnbc.com/paulina-likos/"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/",
+            "foundingDate": "1989-04-17",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png",
+              "width": 378,
+              "height": 98
+            },
+            "sameAs": [
+              "https://www.facebook.com/cnbc",
+              "https://www.instagram.com/cnbc",
+              "https://www.linkedin.com/company/cnbc",
+              "https://twitter.com/cnbc",
+              "https://en.wikipedia.org/wiki/CNBC",
+              "https://www.youtube.com/cnbc"
+            ]
+          },
+          "articleSection": "CNBC Investing Club",
+          "keywords": [
+            "cnbc",
+            "InvestingClub",
+            "Articles",
+            "Bath & Body Works Inc",
+            "Nike Inc",
+            "Home Depot Inc",
+            "Walmart Inc",
+            "Urban Outfitters Inc",
+            "Abercrombie & Fitch Co",
+            "stock takes",
+            "Jim Cramer",
+            "Investment strategy",
+            "Markets",
+            "Breaking News: Markets",
+            "Amazon.com Inc",
+            "Costco Wholesale Corp",
+            "TJX Companies Inc",
+            "Investing",
+            "CNBC Investing Club: Newsletter",
+            "CNBC Investing Club",
+            "Consumer Confidence",
+            "Consumer Discretionary",
+            "Consumer Staples",
+            "CNBC Investing Club: Analysis",
+            "source:tagname:CNBC US Source"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://image.cnbcfm.com/api/v1/image/108234443-1764600592348-gettyimages-2248313265-BLACK_FRIDAY_SHOPPING.jpeg?v=1766493674&w=1200&h=675",
+              "width": 1200,
+              "height": 675
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://image.cnbcfm.com/api/v1/image/108234443-1764600592348-gettyimages-2248313265-BLACK_FRIDAY_SHOPPING.jpeg?v=1766493674&w=1200&h=1200",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "isAccessibleForFree": false,
+            "@type": "WebPageElement",
+            "cssSelector": ".xyz-data"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le coup d'envoi des achats de fin d'année a connu un démarrage fort, constituant un signe positif pour les détaillants.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "CNBC"
+        ],
+        "DATE": [
+          "Mon, Dec 1 2025"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7659437962472035
+    },
+    {
+      "titre": "Retail Trends For 2018",
+      "source": "Forbes",
+      "lien": "https://www.forbes.com/sites/walterloeb/2017/12/29/retail-trends-for-2018/",
+      "image_url": "https://specials-images.forbesimg.com/dam/imageserve/898796746/960x0.jpg?fit=scale",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMPFo1mzZ7tR3i327MHGAflZE8H--oOSucdy3vrzMnGV8a0XTw",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Retail Trends For 2018",
+        "link": "https://www.forbes.com/sites/walterloeb/2017/12/29/retail-trends-for-2018/",
+        "source": "Forbes",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcStsFTtOA-Gr2Cf1TGnVGGF1nqm10KGRhJS83fDnH-ZzYd8xji1iIzt-qzdIYjwIsySiHufTYXd2stTOLcrolb1witi-Zl1RkryuwGqDVGnyiorvQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMPFo1mzZ7tR3i327MHGAflZE8H--oOSucdy3vrzMnGV8a0XTw",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://specials-images.forbesimg.com/dam/imageserve/898796746/960x0.jpg?fit=scale",
+        "image_width": 638,
+        "image_height": 958
+      },
+      "webpage": null,
+      "texte_contexte": "Article publié par Forbes concernant les tendances de la vente au détail pour l'année 2018.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Walter Loeb"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Forbes"
+        ],
+        "DATE": [
+          "2018",
+          "2017/12/29"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7384048622838036
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Glasgow"
+    ],
+    "ORGANIZATION": [
+      "Silverburn Shopping Centre"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Bargain hunters"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Andy Mulcahy",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Boaz",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jamie Turner",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Walter Loeb",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Glasgow",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Edinburgh",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IMRG",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Springboard",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PCA Predict",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Which?",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNBC",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early November",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last week",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Mon, Dec 1 2025",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017/12/29",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Black Friday",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Cyber Monday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Thanksgiving",
+      "rangs": [
+        1,
+        2
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:34:38.773007"
+  }
+}

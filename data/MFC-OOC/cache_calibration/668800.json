@@ -1,0 +1,309 @@
+{
+  "id_rumeur": 668800,
+  "id_image": 1655965,
+  "caption": "Afghan children cool off at a pond to escape the heat on a hot day in Herat",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748160/oluyewo_benchmark/qhcqm8u2n4rlkrsxfcav.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Massive job cuts at the Environment Agency | The Independent ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/climate-change/news/massive-job-cuts-at-the-environment-agency-8909182.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/07/19/10/river-empty.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUNKv0z7gk1HwizGouiSOq0ZmXJUsD5bcVRkxKnU0q9aHNNef",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Massive job cuts at the Environment Agency | The Independent ...",
+        "link": "https://www.independent.co.uk/climate-change/news/massive-job-cuts-at-the-environment-agency-8909182.html",
+        "source": "The Independent",
+        "source_icon": "https://serpapi.com/searches/6a8ef8b31a29febf706b1feb/images/9S_0b3WMVKfqZUN_-6LsX1ueCNVA3RszqPfdOCdY0Z4.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUNKv0z7gk1HwizGouiSOq0ZmXJUsD5bcVRkxKnU0q9aHNNef",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/07/19/10/river-empty.jpg",
+        "image_width": 1536,
+        "image_height": 2048
+      },
+      "webpage": null,
+      "texte_contexte": "Massive job cuts at the Environment Agency reported by The Independent.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Independent",
+          "Environment Agency"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Massive job cuts at the Environment Agency"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7014507885059943
+    },
+    {
+      "titre": "Sally nicholson hi-res stock photography and images - Alamy",
+      "source": "Alamy",
+      "lien": "https://www.alamy.com/stock-photo/sally-nicholson.html?pseudoid=1632A6E6-EA04-4F31-9093-70A09224AA49",
+      "image_url": "https://c8.alamy.com/comp/G69055/summer-weather-july-18th-G69055.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS137E3mWSHqmSlaiKupJlSeX3pG7ipkmZx_FeijFsaRlJ9OWO9",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Sally nicholson hi-res stock photography and images - Alamy",
+        "link": "https://www.alamy.com/stock-photo/sally-nicholson.html?pseudoid=1632A6E6-EA04-4F31-9093-70A09224AA49",
+        "source": "Alamy",
+        "source_icon": "https://serpapi.com/searches/6a8ef8b31a29febf706b1feb/images/z1h8u9Tk8NZ-eyLcyDzNYP47gXegH7jqkTA_2zX1Z04.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS137E3mWSHqmSlaiKupJlSeX3pG7ipkmZx_FeijFsaRlJ9OWO9",
+        "thumbnail_width": 192,
+        "thumbnail_height": 262,
+        "image": "https://c8.alamy.com/comp/G69055/summer-weather-july-18th-G69055.jpg",
+        "image_width": 956,
+        "image_height": 1300
+      },
+      "webpage": null,
+      "texte_contexte": "Sally nicholson hi-res stock photography and images from Alamy.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sally Nicholson"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Alamy"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7364941538376807
+    },
+    {
+      "titre": "Stranded fish rescued after river levels drop | UK | News ...",
+      "source": "Daily Express",
+      "lien": "https://www.express.co.uk/news/uk/415937/Stranded-fish-rescued-after-river-levels-drop",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/stranded-fish-teme-heatwa-415937.jpg?r=1686998680160",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0dXlp8aSyUietRlODJ40reNWCiszd5Zg-5XZronaH_Gs6Atuj",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Stranded fish rescued after river levels drop | UK | News ...",
+        "link": "https://www.express.co.uk/news/uk/415937/Stranded-fish-rescued-after-river-levels-drop",
+        "source": "Daily Express",
+        "source_icon": "https://serpapi.com/searches/6a8ef8b31a29febf706b1feb/images/6cHJ80dX12PL3u_ixhfh7UgfW21mCSQeD2gSnPk3_oI.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0dXlp8aSyUietRlODJ40reNWCiszd5Zg-5XZronaH_Gs6Atuj",
+        "thumbnail_width": 173,
+        "thumbnail_height": 292,
+        "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/stranded-fish-teme-heatwa-415937.jpg?r=1686998680160",
+        "image_width": 350,
+        "image_height": 590
+      },
+      "webpage": null,
+      "texte_contexte": "Stranded fish rescued after river levels drop reported by Daily Express in UK News.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "Daily Express"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Stranded fish rescued after river levels drop"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7348947619832993
+    },
+    {
+      "titre": "Environment Agency added a new photo. - Environment Agency",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/environmentagency/photos/10155929369013026/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155929369013026",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9UUIPOBmZVArXdlODz-mduaqymN7-Lin1pB2yJqa10uMh0Yt0",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Environment Agency added a new photo. - Environment Agency",
+        "link": "https://www.facebook.com/environmentagency/photos/10155929369013026/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9UUIPOBmZVArXdlODz-mduaqymN7-Lin1pB2yJqa10uMh0Yt0",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155929369013026",
+        "image_width": 640,
+        "image_height": 480
+      },
+      "webpage": null,
+      "texte_contexte": "Environment Agency added a new photo on Facebook.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Environment Agency",
+          "Facebook"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7658665237823362
+    },
+    {
+      "titre": "5 things to know about 'livers of the river' found in a West ...",
+      "source": "MLive.com",
+      "lien": "https://www.mlive.com/news/grand-rapids/2025/08/5-things-to-know-about-livers-of-the-river-found-in-a-west-michigan-polluted-creek.html",
+      "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5GNGKQLOGRHILIVCYNHUVUFIG4.JPG",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr0AXxBVYAIlL8KK5cMTIX3Z97IqL6zWH4lcDzMn39LYscpi7l",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "5 things to know about 'livers of the river' found in a West ...",
+        "link": "https://www.mlive.com/news/grand-rapids/2025/08/5-things-to-know-about-livers-of-the-river-found-in-a-west-michigan-polluted-creek.html",
+        "source": "MLive.com",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEUAM0T____u7u4iVWaIqqrdiCKqu8xEd4hERDMiRETuiCLMdyJVd4i7zMxmVTPddyKqdyIzRDPMzN1miJnu7v__zIjdu4j_iCKIZjMRRFV3maqqu7vd7u7d3e7d3d0iRFWZiGbuu5mId1X_iBF3ZjNVVTOZZiJ3VTOqZiIzREQRRES7dyIad6JtAAAAd0lEQVQYlZ3P2xaCIBSE4dkIhYAInrKjnUt9__cTyrW6rNV_N9_dAN9bF8Vmy3am3FdZEiGhT9kMlTmEURKxGRbgREuwv6GrubHHEz_Lpm4ipBcgvyqIm7jbF6wCSPEIpNwbfJrLVj0hbB9h0Lp13msJp8cfrmICwmgF_ebb-jIAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr0AXxBVYAIlL8KK5cMTIX3Z97IqL6zWH4lcDzMn39LYscpi7l",
+        "thumbnail_width": 197,
+        "thumbnail_height": 255,
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5GNGKQLOGRHILIVCYNHUVUFIG4.JPG",
+        "image_width": 2337,
+        "image_height": 3024
+      },
+      "webpage": null,
+      "texte_contexte": "5 things to know about 'livers of the river' found in a West Michigan polluted creek, reported by MLive.com.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "West Michigan"
+        ],
+        "ORGANIZATION": [
+          "MLive.com"
+        ],
+        "DATE": [
+          "2025/08"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "livers of the river"
+        ]
+      },
+      "score_e5": 0.7108002307292456
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Herat",
+      "Afghanistan"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Sally Nicholson",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Michigan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Environment Agency",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alamy",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Daily Express",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MLive.com",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025/08",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Massive job cuts at the Environment Agency",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Stranded fish rescued after river levels drop",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "livers of the river",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:04:17.216572"
+  }
+}

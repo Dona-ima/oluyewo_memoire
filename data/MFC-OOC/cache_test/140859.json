@@ -1,0 +1,512 @@
+{
+  "id_rumeur": "1460973",
+  "id_image": "140859",
+  "caption": "Buildings in Gaza City have been destroyed by Israeli air strikes",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122830/140859.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Mass killing discovered in Aleppo - The Washington Post",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/world/middle_east/mass-killing-discovered-in-aleppo/2013/01/29/d22add00-6a22-11e2-95b3-272d604a10a3_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=1440",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6_Oq6i8GjhHGFnaGICuQ0PCoQijQxmhPYkWmhPGlbuO__maTI",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Mass killing discovered in Aleppo - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/world/middle_east/mass-killing-discovered-in-aleppo/2013/01/29/d22add00-6a22-11e2-95b3-272d604a10a3_story.html",
+        "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=1440",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6_Oq6i8GjhHGFnaGICuQ0PCoQijQxmhPYkWmhPGlbuO__maTI"
+      },
+      "webpage": {
+        "text": "Mass killing discovered in Aleppo\n\nDemocracy Dies in Darkness\n\nJanuary 29, 2013More than 13 years ago\n\n\nBEIRUT — The bodies of least 65 people shot in a mass killing were found in Aleppo on Tuesday, according to opposition activists.\n\nA video posted online Tuesday showed many of the victims lying on the muddy banks of the Quweiq River in the Bustan al-Qasr neighborhood of southwestern Aleppo with their hands bound. Most appeared to have been shot in the head, and some of the victims appeared to be teenagers.\n\n----------------------------------------",
+        "metadata": {
+          "title": "Mass killing discovered in Aleppo - The Washington Post",
+          "description": "At least 65 bodies were found in the Syrian city amid heavy fighting between military and rebel forces.",
+          "og:site_name": "The Washington Post",
+          "og_site_name": "The Washington Post",
+          "og:type": "article",
+          "og_type": "article",
+          "og:url": "https://www.washingtonpost.com/world/middle_east/mass-killing-discovered-in-aleppo/2013/01/29/d22add00-6a22-11e2-95b3-272d604a10a3_story.html",
+          "og_url": "https://www.washingtonpost.com/world/middle_east/mass-killing-discovered-in-aleppo/2013/01/29/d22add00-6a22-11e2-95b3-272d604a10a3_story.html",
+          "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=1440",
+          "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=1440",
+          "og:title": "Mass killing discovered in Aleppo",
+          "og_title": "Mass killing discovered in Aleppo",
+          "og:description": "At least 65 bodies were found in the Syrian city amid heavy fighting between military and rebel forces.",
+          "og_description": "At least 65 bodies were found in the Syrian city amid heavy fighting between military and rebel forces.",
+          "twitter:title": "Mass killing discovered in Aleppo",
+          "twitter:description": "At least 65 bodies were found in the Syrian city amid heavy fighting between military and rebel forces.",
+          "article:published_time": "2013-01-29T15:25:50.000Z",
+          "article_published_time": "2013-01-29T15:25:50.000Z",
+          "article:modified_time": "2023-05-18T22:15:40.984Z",
+          "article_modified_time": "2023-05-18T22:15:40.984Z",
+          "article:section": "Middle East",
+          "article_section": "Middle East",
+          "article:content_tier": "metered",
+          "article_content_tier": "metered",
+          "og_author": "Babak Dehghanpisheh"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.washingtonpost.com/world/middle_east/mass-killing-discovered-in-aleppo/2013/01/29/d22add00-6a22-11e2-95b3-272d604a10a3_story.html",
+          "headline": "Mass killing discovered in Aleppo",
+          "alternativeHeadline": "Mass killing discovered in Aleppo",
+          "dateModified": "2023-05-18T22:15:40.984Z",
+          "datePublished": "2013-01-29T15:25:50.000Z",
+          "description": "At least 65 bodies were found in the Syrian city amid heavy fighting between military and rebel forces.",
+          "author": {
+            "@type": "Person",
+            "name": "Babak Dehghanpisheh"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Washington Post",
+            "productID": "washingtonpost.com:basic",
+            "description": "Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+            "sku": "https://subscribe.washingtonpost.com",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+            "brand": {
+              "@type": "brand",
+              "name": "The Washington Post"
+            },
+            "offers": {
+              "@type": "offer",
+              "url": "https://subscribe.washingtonpost.com/acquisition?promo=o26"
+            }
+          },
+          "publisher": {
+            "@id": "washingtonpost.com",
+            "@type": "NewsMediaOrganization",
+            "name": "The Washington Post"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "cssSelector": ".meteredContent",
+            "isAccessibleForFree": false
+          },
+          "keywords": "syria war, syria civil war, syria executions, syria mass killing, syria aleppo, aleppo massacre, syria fighting, news from syria, syria un, obama syria, syria aid",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=1600&h=900",
+              "height": 900,
+              "width": 1600
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=1800&h=1800",
+              "height": 1800,
+              "width": 1800
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A6A6ZLTKKEI6FL2TPMVSU5IQVA&w=800&h=600",
+              "height": 800,
+              "width": 600
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Plus de 65 corps de personnes tuées par balles ont été découverts à Alep le mardi 29 janvier 2013, selon des militants de l'opposition. Une vidéo publiée en ligne montre de nombreuses victimes gisant sur les berges boueuses de la rivière Quweiq dans le quartier de Bustan al-Qasr, dans le sud-ouest d'Alep, les mains liées et pour la plupart abattues d'une balle dans la tête.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Aleppo",
+          "Quweiq River",
+          "Bustan al-Qasr"
+        ],
+        "ORGANIZATION": [
+          "The Washington Post"
+        ],
+        "DATE": [
+          "January 29, 2013",
+          "Tuesday"
+        ],
+        "EVENT": [
+          "Mass killing"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7150498035053201
+    },
+    {
+      "titre": "Did you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects have",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/YourFinancialDevelopment/posts/did-you-read-our-post-about-how-to-prepare-for-the-effects-of-the-war-in-the-mid/867365186305078/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4085682948369041",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQFIv13HOV5awFMJQJTbpfoKrqECxCfnXFbgimS1zbvwypFXa",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Did you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects have",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/YourFinancialDevelopment/posts/did-you-read-our-post-about-how-to-prepare-for-the-effects-of-the-war-in-the-mid/867365186305078/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4085682948369041",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQFIv13HOV5awFMJQJTbpfoKrqECxCfnXFbgimS1zbvwypFXa"
+      },
+      "webpage": {
+        "text": "Did you read our...\n\nFinancial Development and Protection's Post\n\n\n----------------------------------------\n\n\nFinancial Development and Protection\n\nMarch 3  ·\nDid you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects have already started.\nDid you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects have already started.\n\nComment",
+        "metadata": {
+          "title": "Did you read our... - Financial Development and Protection",
+          "og:type": "video.other",
+          "og:title": "Financial Development and Protection",
+          "og:description": "Did you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects have already started.",
+          "og:url": "https://www.facebook.com/YourFinancialDevelopment/posts/did-you-read-our-post-about-how-to-prepare-for-the-effects-of-the-war-in-the-mid/867365186305078/",
+          "og:locale": "en_US",
+          "description": "Did you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects...",
+          "twitter:title": "Financial Development and Protection",
+          "twitter:description": "Did you read our post about how to prepare for the effects of the war in the Middle East? Please check it out. We posted it on 01st March. The effects have already started.",
+          "application-title": "Facebook"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication sur Facebook par Financial Development and Protection le 3 mars concernant la préparation aux effets de la guerre au Moyen-Orient, dont la publication initiale date du 1er mars.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Middle East"
+        ],
+        "ORGANIZATION": [
+          "Financial Development and Protection",
+          "Facebook"
+        ],
+        "DATE": [
+          "01st March",
+          "March 3",
+          "01st"
+        ],
+        "EVENT": [
+          "war in the Middle East"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7333164357568507
+    },
+    {
+      "titre": "Isrealis would look you straight in the eye with these pictures and still say they're Under Attack   : r/2mediterranean4u",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/2mediterranean4u/comments/1vn1z0c/isrealis_would_look_you_straight_in_the_eye_with/",
+      "image_url": "https://i.redd.it/isrealis-would-look-you-straight-in-the-eye-with-these-v0-6tzudfh5y2jh1.jpg?width=479&format=pjpg&auto=webp&s=98b788a8ed8ce63ef4f8d6165d5d324a551508e1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNwMYVIr3llOxsGGmIOb4F8h3AUla-uyaVHHMsW2EfCoP6RAS",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Isrealis would look you straight in the eye with these pictures and still say they're Under Attack   : r/2mediterranean4u",
+        "source": "Reddit",
+        "link": "https://www.reddit.com/r/2mediterranean4u/comments/1vn1z0c/isrealis_would_look_you_straight_in_the_eye_with/",
+        "imageUrl": "https://i.redd.it/isrealis-would-look-you-straight-in-the-eye-with-these-v0-6tzudfh5y2jh1.jpg?width=479&format=pjpg&auto=webp&s=98b788a8ed8ce63ef4f8d6165d5d324a551508e1",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNwMYVIr3llOxsGGmIOb4F8h3AUla-uyaVHHMsW2EfCoP6RAS"
+      },
+      "webpage": {
+        "text": "The request was auto-throttled due to low success rate. Please decrease your request rate to 10/min.",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Discussion sur la plateforme Reddit (r/2mediterranean4u) évoquant des images en lien avec des Israéliens.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "r/2mediterranean4u"
+        ]
+      },
+      "score_e5": 0.7644479949703791
+    },
+    {
+      "titre": "interactive encyclopedia of the palestine question – palquest | the abu leila family home",
+      "source": "Interactive Encyclopedia of the Palestine Question",
+      "lien": "https://www.palquest.org/en/media/35759/abu-leila-family-home",
+      "image_url": "https://www.palquest.org/sites/default/files/media/Number_60_main_image28724_6FFuOI6tBl.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLc-xXI12YLzL9DnL3uw8pPA_5WKrihy0M0FUIE0SbKL4edWI8",
+      "rang_lens": 4,
+      "brut": {
+        "title": "interactive encyclopedia of the palestine question – palquest | the abu leila family home",
+        "source": "Interactive Encyclopedia of the Palestine Question",
+        "link": "https://www.palquest.org/en/media/35759/abu-leila-family-home",
+        "imageUrl": "https://www.palquest.org/sites/default/files/media/Number_60_main_image28724_6FFuOI6tBl.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLc-xXI12YLzL9DnL3uw8pPA_5WKrihy0M0FUIE0SbKL4edWI8"
+      },
+      "webpage": {
+        "text": "interactive encyclopedia of the palestine question – palquest\n\nSkip to main content\n * About\n * Search\n * العربية\n\nSections\n * Overall Chronology\n * Thematic Chronologies\n * Highlights\n * Biographies\n * Places\n * Documents\n\nAbout\nToggle navigation\n\n * About\n * Search\n * العربية\n\nBack\nDocument\n\n\nThe Abu Leila Family Home\n\n\n * Facebook\n * Twitter\n   \n   \n * Email\n * Whatsapp\n\n\nNumber 60 main_image28724_6FFuOI6tBl.jpg\n\n\ndocument\n\nPhotograph\n\n\nThe Abu Leila Family Home\n\nDate\n11 July 2014\n\nLocation\nGaza City\n\nAuthor(s)\nBasel Yazouri\n\nSource\nActiveStills\n\nLittle is left of the Abu Leila family home in the Sheikh Radwan neighborhood of Gaza City after an early morning Israeli air strike. According to the Gaza Health Ministry, Israeli attacks killed more than 120 Palestinians, including 27 children, and injured more than 800; hundreds of houses and buildings have been destroyed since the start of the military operation.\n\nPDF Viewer\n×",
+        "metadata": {
+          "title": "interactive encyclopedia of the palestine question – palquest | the abu leila family home",
+          "og:title": "The Abu Leila Family Home - 11 July 2014 (Photograph)",
+          "og:site_name": "Interactive Encyclopedia of the Palestine Question – palquest",
+          "og:image": "https://www.palquest.org/sites/default/files/media/Number_60_main_image28724_6FFuOI6tBl.jpg",
+          "twitter:image": "https://www.palquest.org/sites/default/files/media/Number_60_main_image28724_6FFuOI6tBl.jpg",
+          "og:image:url": "https://www.palquest.org/sites/default/files/media/Number_60_main_image28724_6FFuOI6tBl.jpg",
+          "og:description": "Historical Media - 11 July 2014 - Basel Yazouri - ActiveStills - Gaza City - Little is left of the Abu Leila family home in the Sheikh Radwan neighborhood of Gaza City after an early morning Israeli air strike. According to...",
+          "description": "Historical Media - 11 July 2014 - Basel Yazouri - ActiveStills - Gaza City - Little is left of the Abu Leila family home in the Sheikh Radwan neighborhood of Gaza City after an early morning Israeli air strike. According to...",
+          "twitter:card": "summary_large_image",
+          "twitter:description": "Historical Media - 11 July 2014 - Basel Yazouri - ActiveStills - Gaza City - Little is left of the Abu Leila family home in the Sheikh Radwan neighborhood of Gaza City after an early morning Israeli air strike. According to...",
+          "twitter:title": "The Abu Leila Family Home - 11 July 2014 (Photograph)",
+          "twitter:site": "@palmuseum",
+          "twitter:creator": "@palmuseum"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Photographie du domicile de la famille Abu Leila situé dans le quartier de Sheikh Radwan à Gaza City, suite à une frappe aérienne israélienne matinale le 11 juillet 2014. Selon le ministère de la Santé de Gaza, les attaques israéliennes ont tué plus de 120 Palestiniens, dont 27 enfants, et en ont blessé plus de 800, provoquant la destruction de centaines de maisons et bâtiments.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abu Leila",
+          "Basel Yazouri"
+        ],
+        "LOCATION": [
+          "Gaza City",
+          "Sheikh Radwan"
+        ],
+        "ORGANIZATION": [
+          "Gaza Health Ministry",
+          "ActiveStills"
+        ],
+        "DATE": [
+          "11 July 2014"
+        ],
+        "EVENT": [
+          "Israeli air strike"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.819006325288909
+    },
+    {
+      "titre": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/world/gaza/rubble-gazas-surviving-radio-station-rcna260026",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-02/260221-Zaman-FM-rs-3dca4e.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSpUq3EAqUgaLJQofgvYeTZJJeCAxvUzbxiWqf3YTKeahc21CQ",
+      "rang_lens": 5,
+      "brut": {
+        "title": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+        "source": "NBC News",
+        "link": "https://www.nbcnews.com/world/gaza/rubble-gazas-surviving-radio-station-rcna260026",
+        "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-02/260221-Zaman-FM-rs-3dca4e.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSpUq3EAqUgaLJQofgvYeTZJJeCAxvUzbxiWqf3YTKeahc21CQ"
+      },
+      "webpage": {
+        "text": "From the rubble, the show must go on for one of Gaza's surviving radio stations\n\n“Good morning to our families and to everyone listening to us on 90.60 FM. Good morning to you all, and welcome to a new day.”\n\nDr. Rami al-Ashrafi opens his radio show the way countless presenters do around the world, but Zaman FM operates like few others, broadcasting from a building half reduced to rubble in the Tel al-Hawa neighborhood of Gaza City.\n\nThe station stays on air for three to four hours a day, depending on electricity, as presenters warn residents about unexploded ordnance hidden in the streets, but also talk about daily life, Ramadan and the price of food.\n\n“A tray of eggs was 25 shekels yesterday, today it has jumped to 90 shekels,” al-Ashrafi tells his listeners on his morning show. “Where is the Ministry of Economy? And where are those in charge of the country?”\n\nZaman FM was one of the most listened-to independent stations in Gaza, trusted by people because it was not affiliated with any political party, but the station fell silentwhen war broke out two years ago, as Israel struck Gaza in response to the Oct. 7 terror attacks.\n\nAl-Ashrafi decided to return to the airwaves six weeks ago, as the ceasefire in Gaza continues to largely hold, despite continued Israeli strikes in the war-torn enclave.\n\nHundreds of people have been killed by Israel since the ceasefire began in October, according to Palestinian health officials, as Hamas and Israel have traded accusations of ceasefire violations.\n\nBut local radio stations are transmitting again as part of gradual efforts to revive the media landscape in Gaza, which has suffered the widespread destruction of infrastructure and civilian institutions from Israeli attacks.\n\nWith many Palestinians living without reliable communication tools or technology, and as the humanitarian crisis persists, radio is one of the most effective ways of getting key messages out to the public.\n\nAl-Ashrafi has had to improvise. The antenna is mounted on a piece of broken concrete, and the signal reaches less than a mile. It should be on the roof, but the roof has been destroyed. A team of 12 used to work on Zaman FM, including presenters, sound engineers and producers, but now just five part-time volunteers help run the station.\n\nDespite its bare-bones approach, listeners have embraced its return to air.\n\nZayed Khalil, a Zaman FM listener, said the station had brought back “beautiful memories.”\n\n“It felt like a piece of our old life had come back, a reminder of the better days we once had,” he told NBC News. “From a young age, we would gather around it and listen for hours. We spent time listening to it because we didn’t have a TV, satellite or anything else.”\n\nKhalil said that even younger generations who were more accustomed to digital platforms have also found themselves turning back to radio.\n\n“We wish them all the best and continued success,” he added.\n\nFor a third year in a row, many Palestinians living in Gaza are currently observing Ramadan from tents amid the rubble of their former homes, with reconstruction among the monumental challenges that lie ahead for the peace process, as well as securing the demilitarization of Hamas.\n\nInside the radio station, with cracks in the walls, al-Ashrafi wishes his listeners a “blessed Ramadan.”\n\n“Sometimes we fast through hunger, sometimes through memories, sometimes through the pain of losing loved ones,” he said. “We are here, broadcasting from Gaza.”",
+        "metadata": {
+          "title": "Live",
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "Freddie Clayton",
+          "description": "Dr. Rami al-Ashrafi opens his radio show the way countless presenters do around the world, but Zaman FM operates like few others.",
+          "og:url": "https://www.nbcnews.com/world/gaza/rubble-gazas-surviving-radio-station-rcna260026",
+          "og:title": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+          "og:description": "“It felt like a piece of our old life had come back, a reminder of the better days we once had,” one listener told NBC News.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260221-Zaman-FM-2-rs-763b92.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260221-Zaman-FM-2-rs-763b92.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+          "branch:deeplink:description": "“It felt like a piece of our old life had come back, a reminder of the better days we once had,” one listener told NBC News.",
+          "twitter:title": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+          "twitter:description": "“It felt like a piece of our old life had come back, a reminder of the better days we once had,” one listener told NBC News.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2026-02-21T15:17:48.908Z",
+          "article:modified_time": "2026-02-23T18:40:02.535Z",
+          "branch:deeplink:authorThumbnail1": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2026_05/3717929/250127_1x1_nbc_headshots_freddie_clayton_5339.jpg",
+          "branch:deeplink:authorName1": "Freddie Clayton"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+          "url": "https://www.nbcnews.com/world/gaza/rubble-gazas-surviving-radio-station-rcna260026",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2026-02/260221-Zaman-FM-2-rs-763b92.jpg",
+          "alternativeHeadline": "From the rubble, the show must go on for one of Gaza's surviving radio stations",
+          "articleBody": "“Good morning to our families and to everyone listening to us on 90.60 FM. Good morning to you all, and welcome to a new day.” Dr. Rami al-Ashrafi opens his radio show the way countless presenters do around the world, but Zaman FM operates like few others, broadcasting from a building half reduced to rubble in the Tel al-Hawa neighborhood of Gaza City. The station stays on air for three to four hours a day, depending on electricity, as presenters warn residents about unexploded ordnance hidden in the streets, but also talk about daily life, Ramadan and the price of food. “A tray of eggs was 25 shekels yesterday, today it has jumped to 90 shekels,” al-Ashrafi tells his listeners on his morning show. “Where is the Ministry of Economy? And where are those in charge of the country?” Zaman FM was one of the most listened-to independent stations in Gaza, trusted by people because it was not affiliated with any political party, but the station fell silent when war broke out two years ago, as Israel struck Gaza in response to the Oct. 7 terror attacks. Al-Ashrafi decided to return to the airwaves six weeks ago, as the ceasefire in Gaza continues to largely hold, despite continued Israeli strikes in the war-torn enclave. Hundreds of people have been killed by Israel since the ceasefire began in October, according to Palestinian health officials, as Hamas and Israel have traded accusations of ceasefire violations. But local radio stations are transmitting again as part of gradual efforts to revive the media landscape in Gaza, which has suffered the widespread destruction of infrastructure and civilian institutions from Israeli attacks. With many Palestinians living without reliable communication tools or technology, and as the humanitarian crisis persists, radio is one of the most effective ways of getting key messages out to the public. Al-Ashrafi has had to improvise. The antenna is mounted on a piece of broken concrete, and the signal reaches less than a mile. It should be on the roof, but the roof has been destroyed. A team of 12 used to work on Zaman FM, including presenters, sound engineers and producers, but now just five part-time volunteers help run the station. Despite its bare-bones approach, listeners have embraced its return to air. Zayed Khalil, a Zaman FM listener, said the station had brought back “beautiful memories.” “It felt like a piece of our old life had come back, a reminder of the better days we once had,” he told NBC News. “From a young age, we would gather around it and listen for hours. We spent time listening to it because we didn’t have a TV, satellite or anything else.” Khalil said that even younger generations who were more accustomed to digital platforms have also found themselves turning back to radio. “We wish them all the best and continued success,” he added. For a third year in a row, many Palestinians living in Gaza are currently observing Ramadan from tents amid the rubble of their former homes, with reconstruction among the monumental challenges that lie ahead for the peace process, as well as securing the demilitarization of Hamas. Inside the radio station, with cracks in the walls, al-Ashrafi wishes his listeners a “blessed Ramadan.” “Sometimes we fast through hunger, sometimes through memories, sometimes through the pain of losing loved ones,” he said. “We are here, broadcasting from Gaza.”",
+          "dateModified": "2026-02-21T15:17:48.908Z",
+          "datePublished": "2026-02-21T15:17:48.908Z",
+          "articleSection": "world",
+          "articleId": "rcna260026",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "rcna260026"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-02/260221-Zaman-FM-2-rs-763b92.jpg",
+            "caption": "Dr. Rami Al-Ashrafi, Director of Zaman station, right, addresses listeners",
+            "height": 1667,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Freddie Clayton",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2026_05/3717929/250127_1x1_nbc_headshots_freddie_clayton_5339.jpg",
+              "jobTitle": null,
+              "description": "Freddie Clayton is a freelance journalist based in London. "
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "Dr. Rami al-Ashrafi opens his radio show the way countless presenters do around the world, but Zaman FM operates like few others.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/world/gaza/rubble-gazas-surviving-radio-station-rcna260026"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La station de radio indépendante Zaman FM diffuse ses programmes depuis un bâtiment partiellement réduit à l'état de décombres dans le quartier de Tel al-Hawa à Gaza City. Le Dr. Rami al-Ashrafi anime l'émission matinale, informant les auditeurs sur les munitions non explosées, la vie quotidienne, le ramadan et le prix des denrées alimentaires. La station avait cessé d'émettre lorsque la guerre a éclaté suite aux attaques du 7 octobre, mais a repris ses diffusions six semaines avant le moment présent, alors qu'un cessez-le-feu est en grande partie maintenu malgré des frappes israéliennes continues.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rami al-Ashrafi",
+          "Zayed Khalil"
+        ],
+        "LOCATION": [
+          "Gaza",
+          "Tel al-Hawa",
+          "Gaza City"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Zaman FM",
+          "Ministry of Economy",
+          "Hamas"
+        ],
+        "DATE": [
+          "Oct. 7",
+          "October",
+          "two years ago",
+          "six weeks ago"
+        ],
+        "EVENT": [
+          "Oct. 7 terror attacks",
+          "ceasefire in Gaza",
+          "war"
+        ],
+        "OTHER": [
+          "90.60 FM"
+        ]
+      },
+      "score_e5": 0.7579385535529076
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Gaza City",
+      "Israel"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Israeli air strikes"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Gaza City"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.819006325288909,
+  "S_ent": 0.5,
+  "S_OOC": 0.6595031626444545,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "OTHER"
+  ]
+}

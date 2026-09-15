@@ -1,0 +1,952 @@
+{
+  "id_rumeur": 1630409,
+  "id_image": 1630409,
+  "caption": "The bodies were discovered on badly damaged boats at Fukui port in western Japan",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748697/oluyewo_benchmark/xdnxiofswbqhrxme100x.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Decaying bodies' found in wooden boats off Japan coast - BBC ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-asia-34944131",
+      "image_url": "http://c.files.bbci.co.uk/11A8B/production/_86913327_030321422-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyyH3MJZ3hbeNPCMO7Ke-l8v2cr93LvSIWwSiI8GKnUzgbbFIx",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Decaying bodies' found in wooden boats off Japan coast - BBC ...",
+        "link": "https://www.bbc.com/news/world-asia-34944131",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyyH3MJZ3hbeNPCMO7Ke-l8v2cr93LvSIWwSiI8GKnUzgbbFIx",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/11A8B/production/_86913327_030321422-1.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "'Decaying bodies' found in wooden boats off Japan coast\n\nJapanese officials are investigating after up to 11 boats were found drifting off the country's coastline - some with decaying bodies on board.\n\nAround 20 corpses were found on wooden boats between October and November, a coastguard spokesman said.\n\nMany of the boats have been towed to Japanese ports, but the bodies are yet to be identified.\n\nKorean writing is reported to have been found on the vessels, leading some to suggest they came from North Korea.\n\nCoastguard personnel spotted a boat with three sets of remains inside on Tuesday and pulled it ashore at Fukui port, Tokyo Broadcasting System reported.\n\nThe bodies were badly decomposed and partially skeletonised, it added.\n\nThis is not the first incident - in 2012, the decomposed bodies of five males were discovered off Japan's west coast.\n\nExperts suspect the vessels are North Korean fishing boats lost due to a lack of modern equipment, according to local media.",
+        "metadata": {
+          "description": "Japanese officials say they are investigating decomposed bodies found on board boats off the country's coastline.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Japanese officials say they are investigating decomposed bodies found on board boats off the country's coastline.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11A8B/production/_86913327_030321422-1.jpg",
+          "og:image:alt": "Coast guard officials investigating a wooden boat at the Fukui port in Sakai city in Fukui prefecture, western Japan",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "'Decaying bodies' found in wooden boats off Japan coast",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-asia-34944131",
+          "article:section": "Asia",
+          "twitter:description": "Japanese officials say they are investigating decomposed bodies found on board boats off the country's coastline.",
+          "twitter:title": "'Decaying bodies' found in wooden boats off Japan coast"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-asia-34944131",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-11-27T15:31:27.000Z",
+          "dateModified": "2015-11-27T15:31:27.000Z",
+          "description": "Japanese officials say they are investigating decomposed bodies found on board boats off the country's coastline.",
+          "headline": "'Decaying bodies' found in wooden boats off Japan coast",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11A8B/production/_86913327_030321422-1.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11A8B/production/_86913327_030321422-1.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-asia-34944131",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des fonctionnaires japonais enquêtent après la découverte d'environ 11 bateaux en bois dérivant au large des côtes du pays, certains contenant des corps en décomposition. Entre octobre et novembre, environ 20 cadavres ont été trouvés sur ces embarcations. Des inscriptions en coréen ont été repérées, suggérant une provenance de Corée du Nord. Un bateau avec trois dépouilles a notamment été remouillé au port de Fukui par les garde-côtes. En 2012, un incident similaire avait eu lieu avec la découverte de cinq corps de mâles au large de la côte ouest du Japon. Les experts soupçonnent qu'il s'agit de bateaux de pêche nord-coréens perdus en raison d'un manque d'équipement moderne.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Japan",
+          "North Korea",
+          "Fukui port",
+          "Tokyo"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Tokyo Broadcasting System"
+        ],
+        "DATE": [
+          "October",
+          "November",
+          "Tuesday",
+          "2012"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Korean writing"
+        ]
+      },
+      "score_e5": 0.8186928859633015
+    },
+    {
+      "titre": "Mysterious Fishing Boats Carrying Dead Bodies Wash Ashore in ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/International/mysterious-fishing-boats-carrying-dead-bodies-wash-ashore/story?id=35509063",
+      "image_url": "https://s.abcnews.com/images/International/gty_boat_lb_151201_16x9_1600.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsjg3cx0vclFFxu75zaRf2KPBuJM1sXB1rSai-ujsdqa84d3Rh",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Mysterious Fishing Boats Carrying Dead Bodies Wash Ashore in ...",
+        "link": "https://abcnews.com/International/mysterious-fishing-boats-carrying-dead-bodies-wash-ashore/story?id=35509063",
+        "source": "ABC News",
+        "source_icon": "https://serpapi.com/searches/6a8efefb23df7878e2730d96/images/QQez5Zm24IYcsEoqNAGmvAWfLkeUS0TI1pGD_Xv_Qo0.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsjg3cx0vclFFxu75zaRf2KPBuJM1sXB1rSai-ujsdqa84d3Rh",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://s.abcnews.com/images/International/gty_boat_lb_151201_16x9_1600.jpg",
+        "image_width": 900,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Mysterious Fishing Boats Carrying Dead Bodies Wash Ashore in Japan\n\nEvidence suggests the boats may hail from North Korea.\n\n\n&#151; -- Ghostly wooden fishing boats containing decomposing dead bodies, skulls and other human remains have been mysteriously washing ashore on Japan's northwestern coast over the past two months, according to the country's coast guard.\n\nAt least 11 wrecked boats carrying corpses have showed up since October, Japan Coast Guard official Yuka Amao told the Associated Press. Amao said the latest boat found in Fukui prefecture on Nov. 22 contained six skulls, various bones and human remains and a nearly intact decomposing body.\n\nJapanese authorities said they are investigating the boats and remains, but the bodies are in such terrible shape from weeks-long decay at sea that it's impossible to determine their cause of death. The small wooden vessels, about 33- to 40-feet long, are also in poor condition, authorities said.\n\nEvidence, including nets and signs written in Korean and one boat with a sign saying, \"Korean People's Army,\" suggests the boats may hail from North Korea.\n\nTheories about the skeletons and decomposing bodies inside the mysterious boats range from North Korean fisherman lost at sea to people attempting to escape the North Korean regime perhaps devastated in a storm.\n\n\nPopular Reads\n\n\nSquid fishing equipment found in the boats suggest that the bodies could be of fisherman from food-short North Korea who have been increasingly entering Japanese waters to hunt squid, according to the AP, which added the fishermen apprehended by the Japan Coast Guard are usually ordered away since the two countries lack a fishing agreement.\n\nThough recent arrivals have drawn global attention, dozens of wrecked boats drift toward Japan every year, according to Japan Coast Guard spokesman Yoshiaki Hiroto.\n\nThis year, 34 mysterious boats have been discovered, Hiroto told the AP, adding that the coast guard found 65 last year and 80 in 2013.\n\nThe Associated Press contributed to this report.\n\n\nSponsored Content by Taboola",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "Ghostly wooden fishing boats contain dead bodies, skulls and other human remains have been mysteriously washing ashore Japan's northwestern coast, according to officials.",
+          "keywords": "mysterious ships japan, mysterious boats japan, mysterious ships skeletons japan, ghost ships japan, corpse-filled ships, ships with dead bodies japan, north korea, fishermen, sailors ",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "Mysterious Fishing Boats Carrying Dead Bodies Wash Ashore in Japan",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/International/mysterious-fishing-boats-carrying-dead-bodies-wash-ashore/story?id=35509063",
+          "og:title": "Mysterious Fishing Boats Carrying Dead Bodies Wash Ashore in Japan",
+          "og:description": "Ghostly wooden fishing boats contain dead bodies, skulls and other human remains have been mysteriously washing ashore Japan's northwestern coast, according to officials.",
+          "og:image": "https://s.abcnews.com/images/International/gty_boat_lb_151201_16x9_992.jpg?w=1600",
+          "og:type": "article",
+          "lastPublishedDate": "2015-12-02T14:39:10Z",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "55845270277",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@ABC",
+          "twitter:creator": "ABC News",
+          "twitter:title": "Mysterious Fishing Boats Carrying Dead Bodies Wash Ashore in Japan",
+          "twitter:description": "Ghostly wooden fishing boats contain dead bodies, skulls and other human remains have been mysteriously washing ashore Japan's northwestern coast, according to officials.",
+          "twitter:url": "https://abcnews.com/International/mysterious-fishing-boats-carrying-dead-bodies-wash-ashore/story?id=35509063",
+          "twitter:image": "https://s.abcnews.com/images/International/gty_boat_lb_151201_16x9_992.jpg?w=1600",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "al:iphone:url": "abcnewsiphone://link/prism-story,35509063",
+          "al:iphone:app_store_id": "300255638",
+          "al:iphone:app_name": "ABC News - Breaking US & World News",
+          "al:ipad:url": "abcnewsipad://link/prism-story,35509063",
+          "al:ipad:app_store_id": "380520716",
+          "al:ipad:app_name": "ABC News for ipad",
+          "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.com/International/mysterious-fishing-boats-carrying-dead-bodies-wash-ashore/story?id=35509063",
+          "al:android:app_name": "ABC News Breaking Latest News",
+          "al:android:package": "com.abc.abcnews",
+          "al:web:url": "https://abcnews.com/International/mysterious-fishing-boats-carrying-dead-bodies-wash-ashore/story?id=35509063"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des bateaux de pêche en bois contenant des corps en décomposition, des crânes et des restes humains s'échouent mystérieusement sur la côte nord-ouest du Japon depuis deux mois, selon les garde-côtes. Au moins 11 bateaux naufragés transportant des cadavres sont apparus depuis octobre. Le dernier bateau trouvé dans la préfecture de Fukui le 22 novembre contenait six crânes, divers os et un corps en décomposition presque intact. D'après les preuves (filets, inscriptions en coréen et une mention « Korean People's Army »), les bateaux pourraient provenir de Corée du Nord, qu'il s'agisse de pêcheurs perdus en mer ou de personnes tentant d'échapper au régime nord-coréen. Cette année, 34 bateaux mystérieux ont été découverts, contre 65 l'année précédente et 80 en 2013.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Yuka Amao",
+          "Yoshiaki Hiroto"
+        ],
+        "LOCATION": [
+          "Japan",
+          "North Korea",
+          "Fukui"
+        ],
+        "ORGANIZATION": [
+          "ABC News",
+          "Associated Press",
+          "Japan Coast Guard",
+          "Korean People's Army",
+          "Taboola"
+        ],
+        "DATE": [
+          "past two months",
+          "October",
+          "Nov. 22",
+          "this year",
+          "last year",
+          "2013"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Squid fishing equipment"
+        ]
+      },
+      "score_e5": 0.8053483843616234
+    },
+    {
+      "titre": "Ghost ships' found in Japan: What we know | CNN",
+      "source": "CNN",
+      "lien": "https://www.cnn.com/2015/12/02/asia/north-korea-ghost-ships-japan",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/151130164845-japan-north-korea-boat-mystery.jpg?q=h_438,w_780,x_0,y_0,c_crop/h_619,w_1100,c_lpad,b_rgb:061015",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9yQZLprs-U114Q7e1__MZ9uMMWFv5knBY6oV94QNbGAV6gi0n",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Ghost ships' found in Japan: What we know | CNN",
+        "link": "https://www.cnn.com/2015/12/02/asia/north-korea-ghost-ships-japan",
+        "source": "CNN",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZEJDoud0LszMFZu1_hnVbh2hKVO-0VBsFztbL-r2rTQnosv5JLger75UuitB5MQOpgBCNyMItS2XYSiRETtjuKqFAzRvm7SUEVBEQjt6wqw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9yQZLprs-U114Q7e1__MZ9uMMWFv5knBY6oV94QNbGAV6gi0n",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/151130164845-japan-north-korea-boat-mystery.jpg?q=h_438,w_780,x_0,y_0,c_crop/h_619,w_1100,c_lpad,b_rgb:061015",
+        "image_width": 619,
+        "image_height": 1100
+      },
+      "webpage": {
+        "text": "‘Ghost ships’ found in Japan: What we know\n\nStory highlights\n\nJapanese authorities say boats with bodies have been washing up for years\n\nClues suggest they're North Korea fisherman, though it's not certain\n\nTests are being carried out on decomposed bodies found aboard so-called “ghost ships” that have entered Japanese waters in the past five weeks.\n\nThe key questions facing authorities: Who are they? And where did they come from?\n\nEvidence found on the boats and their grim cargo suggest they came from North Korea. But are they attempted defectors or fishermen who’ve strayed too far from land?\n\nHere’s what we know so far.\n\nThis isn’t the first time boats carrying bodies have been found off Japan, but it’s the first time they’ve generated so much interest.\n\nThe Japanese Coast Guard says that it’s been happening for years, though it only has data for the last five. In 2011, 57 were found. In 2012, it was 47, and in 2013, 80 washed up or were found floating at sea.\n\nIn 2014, 65 were found and the count so far this year is 34. That’s a total of 283 boats in five years – however the Coast Guard hasn’t disclosed how many bodies were on board.\n\nWhat’s unusual about the current batch of boats is that so many have been found in such a short period of time – 12 within five weeks.\n\n“We think they possibly met with an accident due to the weather, but we can’t confirm as the condition of dead bodies were bad,” a Coast Guard spokesman told CNN.\n\nIt’s unclear. The bodies found on the second of the most recent boats to arrive appeared to been one to two weeks post-death.\n\nSome of the 10 bodies found on three boats on November 20 could have been there for up to three months, the Coast Guard said.\n\nClues on the boats clearly point to North Korea. On one boat, Korean Hangul lettering is said to spell out “Korean People’s Army.” And tattered scrap of cloth found on one of the boats appears to show the North Korean flag, Japan’s biggest broadcaster NHK reported.\n\n“There’s no doubt that these boats are North Korean,” said John Nilsson-Wright, head of the Asia program at the Chatham House policy institute. Wright pointed to the lettering and the “primitive” nature of the boats.\n\nHowever, the Japanese Coast Guard told CNN Wednesday that while it was clear the boats came from the Korean Peninsula, it wasn’t possible to be more specific.\n\n“We can only say they were possibly from the Korean Peninsula since there were Korean Hangul written on the hulls, but we couldn’t identify the nationality of the boats,” the spokesman said.\n\n\nThe flow of currents through the Sea of Japan – also known as the East Sea – suggests it’s possible for unmanned boats from Korea to be carried close to the Japanese coast.\n\nThe Tsushima Current flows past the Korean Peninsula, along the west coast of Japan, leading to the Tsugaru Current, which flows between Japan’s north island and Honshu, the main island – past prefectures where boats have been found.\n\nThe Japanese Coast Guard said it was not possible to confirm if all the bodies belonged to men, due to the level of decomposition. Autopsies are being carried out to determine their gender and age.\n\nHowever, many analysts say the victims are likely to be North Korean fishermen. Fishing nets were found aboard some boats.\n\nIn recent months the country’s leader Kim Jong Un has been pushing his subjects to increase their catch.\n\n\nOn November 25, North Korean state media KCNA carried a story about Kim’s visit to Fishery Station No.15 under KPA Unit 549.\n\n“It is spectacular to see the pickling tanks and freezing storehouses full of fishes,” the report quoted Kim as saying. He “repeatedly” expressed “great pleasure over the fact that the station caught thousands of tons of fishes in a few days.”\n\nIt added: “He called on the station to set a high goal for remarkably increasing the yearly output of fish in a short span of time on the basis of this year’s achievement.”\n\nNorth Korea has yet to comment on the ships, which are being investigated by Japanese police.\n\nAs it’s not a new phenomenon, it appears likely that more ships will arrive.\n\nOctober to February is the key fishing season for squid, sandfish and king crab off the east coast of the Korean Peninsula, according to Kim Do-hoon, a professor of fisheries science at Bukyong National University in Busan in South Korea.\n\n“Kim Jong Un has been promoting the fisheries, which could explain why there are more fishing boats going out,” he said. “But North Korean boats perform really poorly, with bad engines, risking lives to go far to catch more. Sometimes they drift, and fishermen starve to death,” said Kim, according to Reuters.",
+        "metadata": {
+          "title": "‘Ghost ships’ found in Japan: What we know | CNN",
+          "description": "Tests are being carried out on decomposed bodies found aboard so-called “ghost ships” that have entered Japanese waters in the past five weeks.",
+          "twitter:description": "Tests are being carried out on decomposed bodies found aboard so-called “ghost ships” that have entered Japanese waters in the past five weeks.",
+          "og:description": "Tests are being carried out on decomposed bodies found aboard so-called “ghost ships” that have entered Japanese waters in the past five weeks.",
+          "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/151201105619-01-japan-nk-boat-1201.jpg?q=x_4,y_0,h_2228,w_3959,c_crop/w_800",
+          "og:url": "https://www.cnn.com/2015/12/02/asia/north-korea-ghost-ships-japan",
+          "article:published_time": "2015-12-02T09:27:17Z",
+          "article:modified_time": "2015-12-02T17:00:23Z",
+          "keywords": "asia, business and industry sectors, commercial fish industry, east asia, food and beverage industry, food production industry, japan, kim jong un, marine transportation, marine vessels, north korea, political figures - intl, transportation and warehousing",
+          "article:tag": "asia, business and industry sectors, commercial fish industry, east asia, food and beverage industry, food production industry, japan, kim jong un, marine transportation, marine vessels, north korea, political figures - intl, transportation and warehousing",
+          "author": "Hilary Whiteman,Mairi Mackay"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des autorités japonaises enquêtent sur des corps décomposés trouvés à bord de « navires fantômes » entrés dans les eaux japonaises au cours des cinq dernières semaines. Des indices suggèrent une provenance de Corée du Nord (comme des lettres en Hangul coréen épelant « Korean People's Army » et un drapeau nord-coréen), bien qu'il ne soit pas certain s'il s'agit de défecteurs ou de pêcheurs égarés. Les garde-côtes japonais indiquent que de tels faits se produisent depuis des années : 57 en 2011, 47 en 2012, 80 en 2013, 65 en 2014 et 34 pour l'année en cours avant cette série. 12 bateaux ont été trouvés en cinq semaines. Le courant de Tsushima et le courant Tsugaru transportent potentiellement des bateaux sans équipage depuis la péninsule coréenne vers la côte japonaise.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Nilsson-Wright"
+        ],
+        "LOCATION": [
+          "Japan",
+          "North Korea",
+          "Korean Peninsula",
+          "Sea of Japan",
+          "East Sea",
+          "Honshu"
+        ],
+        "ORGANIZATION": [
+          "CNN",
+          "Japanese Coast Guard",
+          "Korean People's Army",
+          "NHK",
+          "Chatham House"
+        ],
+        "DATE": [
+          "past five weeks",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "this year",
+          "November 20",
+          "Wednesday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Korean Hangul",
+          "Tsushima Current",
+          "Tsugaru Current"
+        ]
+      },
+      "score_e5": 0.7841475424292893
+    },
+    {
+      "titre": "North Korea-Linked Boats Carrying Corpses Turn Up Off Japan",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/news/world/north-korea-linked-boats-carrying-corpses-turn-japan-n471106",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_49/1320271/151130-wooden-boat-jpo-335a.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8LKdIQdFW5sY4UvETFIJnrAQrfEU-0ycoTZPDkZFrg2SiZ62",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "North Korea-Linked Boats Carrying Corpses Turn Up Off Japan",
+        "link": "https://www.nbcnews.com/news/world/north-korea-linked-boats-carrying-corpses-turn-japan-n471106",
+        "source": "NBC News",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyWp3RniHyHhmsHqTc5zb-2kjWkrLCZsS4XIQDq4LyYjZZFgl28s2SLJv0sjnlurLyd_DkqQ68o0jFa67Yi2vGiBvh9RuoNzUth5Y_SALQ4ivHWHM",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8LKdIQdFW5sY4UvETFIJnrAQrfEU-0ycoTZPDkZFrg2SiZ62",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_49/1320271/151130-wooden-boat-jpo-335a.jpg",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "North Korea-Linked Boats Carrying Corpses Turn Up Off Japan\n\nTOKYO — A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said.\n\nEleven vessels were discovered in the past two months, the most recent being towed ashore six days ago, a coast guard spokesman told NBC News on Monday.\n\nItems found on board have fueled speculation in the Japanese press that the boats may have come from North Korea. None of the vessels have carried GPS equipment, but instead many contained fishing nets, hooks and pieces of clothing featuring the Korean hangul alphabet, the spokesman said.\n\nAll the vessels been found off a large stretch of the country's western shoreline, covering five prefectures from Hokkaido in the north to Fukui in the southwest. They were discovered in the Sea of Japan, which separates the country from Russia and the Koreas.\n\nThe boat towed ashore in Fukui on Tuesday contained seven bodies, according to the spokesman.\n\nMore evidence of the boats' origins came last year, when the coast guard rescued four men in a similar wooden vessel who claimed to be North Korean fishermen, the spokesman added.\n\nIt is not the first time such vessels have been discovered; 80 boats were reported in 2013, 65 in 2014, and 34 so far this year, according to the coast guard. Some of these boats also contained corpses.",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "Arata Yamamoto",
+          "description": "A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said.",
+          "og:url": "https://www.nbcnews.com/news/world/north-korea-linked-boats-carrying-corpses-turn-japan-n471106",
+          "og:title": "North Korea-Linked Boats Carrying Corpses Keep Turning Up Off Japan",
+          "og:description": "A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_49/1320271/151130-wooden-boat-jpo-335a.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_49/1320271/151130-wooden-boat-jpo-335a.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "North Korea-Linked Boats Carrying Corpses Keep Turning Up Off Japan",
+          "branch:deeplink:description": "A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said.",
+          "twitter:title": "North Korea-Linked Boats Carrying Corpses Keep Turning Up Off Japan",
+          "twitter:description": "A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2015-11-30T12:41:57.000Z",
+          "article:modified_time": "2015-11-30T12:41:58.000Z",
+          "branch:deeplink:authorName1": "Arata Yamamoto"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "North Korea-Linked Boats Carrying Corpses Turn Up Off Japan",
+          "url": "https://www.nbcnews.com/news/world/north-korea-linked-boats-carrying-corpses-turn-japan-n471106",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2015_49/1320271/151130-wooden-boat-jpo-335a.jpg",
+          "alternativeHeadline": "North Korea-Linked Boats Carrying Corpses Turn Up Off Japan",
+          "articleBody": "TOKYO — A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said. Eleven vessels were discovered in the past two months, the most recent being towed ashore six days ago, a coast guard spokesman told NBC News on Monday. Items found on board have fueled speculation in the Japanese press that the boats may have come from North Korea. None of the vessels have carried GPS equipment, but instead many contained fishing nets, hooks and pieces of clothing featuring the Korean hangul alphabet, the spokesman said.  All the vessels been found off a large stretch of the country's western shoreline, covering five prefectures from Hokkaido in the north to Fukui in the southwest. They were discovered in the Sea of Japan, which separates the country from Russia and the Koreas. The boat towed ashore in Fukui on Tuesday contained seven bodies, according to the spokesman. More evidence of the boats' origins came last year, when the coast guard rescued four men in a similar wooden vessel who claimed to be North Korean fishermen, the spokesman added. It is not the first time such vessels have been discovered; 80 boats were reported in 2013, 65 in 2014, and 34 so far this year, according to the coast guard. Some of these boats also contained corpses.",
+          "dateModified": "2015-11-30T12:41:57.000Z",
+          "datePublished": "2015-11-30T10:32:53.000Z",
+          "articleSection": "news",
+          "articleId": "ncna471106",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna471106"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_49/1320271/151130-wooden-boat-jpo-335a.jpg",
+            "caption": "Japanese coast guard officials inspect a wooden boat after it was found drifting off country's coast on Tuesday.",
+            "height": 1666,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Arata Yamamoto",
+              "image": null,
+              "jobTitle": null,
+              "description": "Arata Yamamoto has been an NBC News producer in Tokyo since 1993."
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "A total of 20 decomposing corpses have been found in wooden fishing boats off Japan's coast, authorities said.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/news/world/north-korea-linked-boats-carrying-corpses-turn-japan-n471106"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un total de 20 cadavres en décomposition a été découvert dans des bateaux de pêche en bois au large de la côte japonaise. Onze navires ont été découverts au cours des deux derniers mois, dont le plus récent a été remouillé à terre. Aucun navire ne disposait d'équipement GPS, mais plusieurs contenaient des filets de pêche, des hameçons et des vêtements portant l'alphabet hangul coréen. Les embarcations ont été trouvées le long de la ligne côtière occidentale, couvrant cinq préfectures de Hokkaido à Fukui, dans la mer du loup/du Japon. L'année précédente, quatre hommes prétendant être des pêcheurs nord-coréens avaient été secourus dans un navire similaire. Des rapports font état de 80 bateaux en 2013, 65 en 2014 et 34 pour l'année en cours.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Japan",
+          "Tokyo",
+          "North Korea",
+          "Hokkaido",
+          "Fukui",
+          "Sea of Japan",
+          "Russia",
+          "Koreas"
+        ],
+        "ORGANIZATION": [
+          "NBC News"
+        ],
+        "DATE": [
+          "Monday",
+          "two months",
+          "Tuesday",
+          "last year",
+          "2013",
+          "2014",
+          "this year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "GPS",
+          "Korean hangul alphabet"
+        ]
+      },
+      "score_e5": 0.8086238519298696
+    },
+    {
+      "titre": "Ghostly ships filled with dead bodies arrive on Japan's ...",
+      "source": "WGN",
+      "lien": "https://wgntv.com/news/ghostly-ships-filled-with-dead-bodies-arrive-on-japans-shores/",
+      "image_url": "https://wgntv.com/wp-content/uploads/sites/5/2015/12/151130164845-japan-north-korea-boat-mystery-exlarge-tease.jpg?w=780",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV__F6BiyoN7fijMMzzmsCjtul56IxIITwWttExzuH7lYtGhBI",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Ghostly ships filled with dead bodies arrive on Japan's ...",
+        "link": "https://wgntv.com/news/ghostly-ships-filled-with-dead-bodies-arrive-on-japans-shores/",
+        "source": "WGN",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQvpgY1dkVqbJOgCKCz0iEbBjF79ikgw9oY_XgGB-GjbnLJK1qwjTJJa3SKbqVlanc4qZS-u7Fb0viT1jItIz3waY-vbu1mKYqrCOyKySs",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV__F6BiyoN7fijMMzzmsCjtul56IxIITwWttExzuH7lYtGhBI",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://wgntv.com/wp-content/uploads/sites/5/2015/12/151130164845-japan-north-korea-boat-mystery-exlarge-tease.jpg?w=780",
+        "image_width": 438,
+        "image_height": 780
+      },
+      "webpage": {
+        "text": "Ghostly ships filled with dead bodies arrive on Japan’s shores\n\nPosted: Dec 1, 2015 / 08:35 AM CST\n\nUpdated: Dec 1, 2015 / 08:35 AM CST\n\n[van id=”world/2015/11/30/japan-ghost-ship-north-korea.cnn”]\n\nThe Coast Guard in Japan is investigating several boats found with badly decomposing bodies.\n\nAt least eight wooden boats and 20 bodies have been found along the coast over the past two months. All of the bodies were badly decomposed and “partially skeletonized” — two were found without heads — and one boat contained six skulls, the coast guard said.\n\nOne boat had writings that could mean it’s from North Korea.\n\nSome experts believe the boats were used by people trying to defect from Communist North Korea to China.\n\n\nSuggest a Correction",
+        "metadata": {
+          "title": "Ghostly ships filled with dead bodies arrive on Japan’s shores | WGN-TV",
+          "sailthru.title": "Ghostly ships filled with dead bodies arrive on Japan’s shores",
+          "sailthru.description": "[van id=”world/2015/11/30/japan-ghost-ship-north-korea.cnn”] The Coast Guard in Japan is investigating several boats found with badly decomposing bodies. At least eight wooden boats and 20 bodies have been found along the coast over the past two months. All of the bodies were badly decomposed and “partially skeletonized” — two were found without heads — and one boat contained […]",
+          "og:title": "Ghostly ships filled with dead bodies arrive on Japan’s shores",
+          "og:url": "https://wgntv.com/news/ghostly-ships-filled-with-dead-bodies-arrive-on-japans-shores/",
+          "og:description": "[van id=”world/2015/11/30/japan-ghost-ship-north-korea.cnn”] The Coast Guard in Japan is investigating several boats found with badly decomposing bodies. At least eight wooden boats and…",
+          "article:published_time": "2015-12-01T14:35:14+00:00",
+          "article:modified_time": "2015-12-01T14:35:14+00:00",
+          "og:site_name": "WGN-TV",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "7938522410",
+          "og:image": "https://wgntv.com/wp-content/uploads/sites/5/2015/12/151130164845-japan-north-korea-boat-mystery-exlarge-tease.jpg?w=1280",
+          "og:image:secure_url": "https://wgntv.com/wp-content/uploads/sites/5/2015/12/151130164845-japan-north-korea-boat-mystery-exlarge-tease.jpg?w=1280",
+          "twitter:description": "[van id=”world/2015/11/30/japan-ghost-ship-north-korea.cnn”] The Coast Guard in Japan is investigating several boats found with badly decomposing bodies. At least eight wooden boats and…",
+          "twitter:title": "Ghostly ships filled with dead bodies arrive on Japan’s shores",
+          "twitter:text:title": "Ghostly ships filled with dead bodies arrive on Japan’s shores"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "La garde côtière du Japon enquête sur plusieurs bateaux trouvés le long de la côte au cours des deux derniers mois, contenant au total au moins huit bateaux en bois et 20 corps gravement décomposés et partiellement squelettisés, incluant deux corps sans tête et un bateau abritant six crânes. Un bateau présentait des écrits pouvant signifier qu'il provient de Corée du Nord. Certains experts estiment que ces bateaux étaient utilisés par des personnes tentant de fuir la Corée du Nord communiste vers la Chine.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Japan",
+          "North Korea",
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Coast Guard in Japan",
+          "WGN"
+        ],
+        "DATE": [
+          "Dec. 1, 2015",
+          "past two months"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.785857859219619
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Fukui port",
+      "Japan"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "boats"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Yuka Amao",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Yoshiaki Hiroto",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Nilsson-Wright",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Korea",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fukui port",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tokyo",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fukui",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Korean Peninsula",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sea of Japan",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Sea",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Honshu",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hokkaido",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Koreas",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tokyo Broadcasting System",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Japan Coast Guard",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Korean People's Army",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taboola",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNN",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NHK",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Chatham House",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Coast Guard in Japan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WGN",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past two months",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Nov. 22",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "this year",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past five weeks",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 20",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "two months",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Dec. 1, 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Korean writing",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Squid fishing equipment",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Korean Hangul",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tsushima Current",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tsugaru Current",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "GPS",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T11:38:46.863745"
+  }
+}

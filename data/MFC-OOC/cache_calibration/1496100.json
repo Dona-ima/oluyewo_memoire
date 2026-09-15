@@ -1,0 +1,942 @@
+{
+  "id_rumeur": 1496100,
+  "id_image": 1496100,
+  "caption": "A US honour guard greeted the Mexican leader",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747527/oluyewo_benchmark/dyddtrsvrdi3ksd2cccg.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "15 Photos & High Res Pictures - Getty Images",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/editorial-images/news/event/japanese-pm-shinzo-abe-lays-a-wreath-at-tomb-of-the-unknown-soldier/1000003541",
+      "image_url": "https://media.gettyimages.com/id/634557266/photo/arlington-va-japan-prime-minister-shinzo-abe-walks-past-a-military-honor-guard-before-laying-a.jpg?s=612x612&w=gi&k=20&c=XBrxJtzZdPrM2Rb9Pf6kuqZB2rbTnM3OZ4uNSm1AyOM=",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAs_WTq3ljfXrmTswJUAPd1c9w2oq9Wy5Bchqqav86s6YVg4IE",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "15 Photos & High Res Pictures - Getty Images",
+        "link": "https://www.gettyimages.com/editorial-images/news/event/japanese-pm-shinzo-abe-lays-a-wreath-at-tomb-of-the-unknown-soldier/1000003541",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUMDQ3___9JSkrCw8NnaGjh4eGFhobw8PB2d3eztLSkpKRYWVnS0tIrLCwbHByUlZU6OzvME_n1AAAA6ElEQVQ4ja1T2ZLEIAg0KCpK4vz_186Ac0TwbbcfUiTdxdUkhP_EVQkxtv4KE2Fz9DjewMSvZzT8iccKK2D9ynHqOMFj5ZPmhk9ULtsByedTwyxhsgKpwO9uRDCsAH-ChwjckLcSVcJsBbNJUfQiIVhBiHN4muOi48PFtyXh6QUBym-JO16nR46x1R2tPLr13VA29iyYvdHIOXXYZWqL1dx8H3m9htKtAMgoTB0pUXI_AWqbN1MXXq34Zh3eT3Xi-3b5i6DFwc1NzRmoJoBeNR2bIfhY4f3K9_-iuIPSTWSKiMg0_Dn9BU_mMgWkaUklKgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAs_WTq3ljfXrmTswJUAPd1c9w2oq9Wy5Bchqqav86s6YVg4IE",
+        "thumbnail_width": 197,
+        "thumbnail_height": 256,
+        "image": "https://media.gettyimages.com/id/634557266/photo/arlington-va-japan-prime-minister-shinzo-abe-walks-past-a-military-honor-guard-before-laying-a.jpg?s=612x612&w=gi&k=20&c=XBrxJtzZdPrM2Rb9Pf6kuqZB2rbTnM3OZ4uNSm1AyOM=",
+        "image_width": 471,
+        "image_height": 612
+      },
+      "webpage": {
+        "text": "Getty Images\n\nMichael Fitzsimmons\n\n627453756\n\nUser validation",
+        "metadata": {
+          "title": "Getty Images",
+          "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online."
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Michael Fitzsimmons 627453756 User validation sur Getty Images.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Fitzsimmons"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.737768523651182
+    },
+    {
+      "titre": "Editorial: A fitting tribute to Vietnam veterans, and one ...",
+      "source": "Troy Record",
+      "lien": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/",
+      "image_url": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=640",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAN6lIUcLDG7-5f9VXD_eYbTunD3XN6L3GU0gMaXpPcLyIRYPr",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Editorial: A fitting tribute to Vietnam veterans, and one ...",
+        "link": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/",
+        "source": "Troy Record",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACSUlEQVQ4jY2TTU8TURSGn5npTGeG6VhKy5RWCKYSSMToxq0xISG6de3KnfFv-RN0oYnEBBMlYQEuDB9aKoOmlNKPodDpzHSui0H5CIu-u3PuyXPfe865khBCer9RjwEWyjYzeYNRJUmSnBJCxL2zEC_qsX14yLzjsPzAGQkghIjly4lyJgfAfrM_sotUFEV4UY-TfgBGD4tx1nePCVY-YSgyA6-DWsgz9fT5zYDriYKlAqAYJnFawy6WaH54S217B71cQlgW2blFlOlZNE0jFQQBABlDw05ZAPTOQnq1A0yvjp-1GVt6hqEo-G6V8KhJY_MNcmEC58WrxMGS-E3U7TKYvMN-rwSA4eTQS3kAgq0NTgDVHices8k-WSadnwRABghWPxLt76B9_4LpNWgKnf5hi36tmvTAHkebmEJSdQA6Xz8zaDYSgO_7F2P5c4Dz7R2PFRfDyaFkDISmIizrf03a1BB6Ct-t0m63kyekK3cRlkWkusRhSHpzheFJH5HLIVQD_1cVueMhdBOp6GAWZxh4HezabgIIvTai7zMMQwCiMESaniWtyASaTpydQBRuY5zHg2aduNWif9pDcl1X_LMX_9wi2tpAqAZxq4WcyyE0lbhzjORHyXgzBtH5Rfrc4tU9kCsLpIDArSL0iyPFtBniMWw0UTIG-v1HRN0up7fKVx1cVhRFhGurSXOPDlBMGylfJPaOCXe2ky289xBpb2_vRsB1hWur4NYSp7nkz6iVeSQhhFSr1eJRIAD9egv1xzpSEFJ5-Vr-C6CiATTAbA49AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAN6lIUcLDG7-5f9VXD_eYbTunD3XN6L3GU0gMaXpPcLyIRYPr",
+        "thumbnail_width": 182,
+        "thumbnail_height": 276,
+        "image": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=640",
+        "image_width": 264,
+        "image_height": 400
+      },
+      "webpage": {
+        "text": "Editorial: A fitting tribute to Vietnam veterans, and one missing from the Civil War – Troy Record\n\nA front-page piece Sunday in the York (Pa.) Daily Record told the tale of Hellam Township’s Mike Wherley and his connection to the Tomb of the Unknowns in Arlington National Cemetery. After his service in Vietnam, Mr. Wherley and an Army buddy visited Washington and were disturbed to learn the tomb did not include an unknown casualty of that war. He launched a crusade to have a Vietnam soldier interred at the monument. He lobbied Congress and the military – even scoring a meeting with Caspar Weinberger when the then defense secretary visited York College to speak. The effort was successful. On Memorial Day 1984, President Ronald Reagan dedicated the memorial. It was a remarkable and laudable effort on Mr. Wherley’s part – making certain that those who perished in Vietnam but whose remains could not be identified were properly honored. Flash forward several decades, and there’s an interesting postscript to this story. Military officials in 1998 identified the Vietnam soldier who was placed in the Tomb of the Unknowns: Air Force 1st Lt. Michael Joseph Blassie. As he prepared for a speech on the 30th anniversary of the entombment of the unknown, Mr. Wherley did some research on Mr. Blassie. It turned out he flew air support missions in the area of Vietnam where Mr. Wherley’s unit served. He was likely a guardian angel for many of Mr. Wherley’s fellow soldiers. It’s a moving story, and thanks to Mr. Wherley for sharing it. In another story about memorials: This memorial doesn’t actually exist – yet. It is a memorial to an unknown black militia man who died defending Wrightsville, Pa., against Confederates during a Civil War siege aiming to take control of the Susquehanna River bridge. He was the only fatality of that conflict, and yet there is no public marker or memorial to his ultimate sacrifice. Last year, as preparations were under way to celebrate the 150th anniversary of the Gettysburg battle, a group gathered, many in full re-enactment regalia, to dedicate a new grave marker for an unknown Rebel soldier who died on the banks of the Susquehanna. Since then, the question has been raised repeatedly: If our community can stir itself to memorialize the grave of an enemy of the union, why has it not enacted any monument to an unknown man who died helping to preserve that union? Some have discussed such a venture, but this effort remains to be accomplished. Who will step forward to make sure this man gets the memorial he deserves?\n\n\n * Siobhan Connally’s Ittybits & Pieces: A Saturday morning at the Hudson Mile\n   \n   \n\n\n * Don Rittner: From Troy to royalty: Lily, Duchess of Marlborough\n   \n   \n\n\n * Elwood Watson: Ex-Trump supporter learns loyalty is a one-way street\n   \n   \n\n\n * Danny Tyree: Does 9/11 mean enough to you?\n   \n   \n\n * 2014\n * February\n * 28",
+        "metadata": {
+          "title": "Editorial: A fitting tribute to Vietnam veterans, and one missing from the Civil War &#8211; Troy Record",
+          "mrf:authors": "Daily Record",
+          "mrf:canonical": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/",
+          "og:type": "article",
+          "og:title": "Editorial: A fitting tribute to Vietnam veterans, and one missing from the Civil War",
+          "og:url": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/",
+          "og:description": "A front-page piece Sunday in the York (Pa.) Daily Record told the tale of Hellam Township’s Mike Wherley and his connection to the Tomb of the Unknowns in Arlington National Cemetery. After his service in Vietnam, Mr. Wherley and an…",
+          "article:published_time": "2014-02-28T10:44:19+00:00",
+          "article:modified_time": "2021-07-21T08:47:40+00:00",
+          "og:site_name": "Troy Record",
+          "og:image": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1200&h=785",
+          "og:image:width": "1200",
+          "og:image:height": "785",
+          "og:locale": "en_US",
+          "twitter:text:title": "Editorial: A fitting tribute to Vietnam veterans, and one missing from the Civil War"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Editorial: A fitting tribute to Vietnam veterans, and one missing from the Civil War",
+          "url": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/"
+          },
+          "thumbnailUrl": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.troyrecord.com/wp-content/uploads/migration/2014/02/2c1982715a2eaaee34d2944cfff1ab5d.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "Opinion",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Daily Record",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.troyrecord.com/author/daily-record/"
+            }
+          ],
+          "creator": [
+            "Daily Record"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Troy Record",
+            "logo": "https://www.troyrecord.com/wp-content/uploads/2021/07/troy-1.jpg?w=600"
+          },
+          "keywords": [
+            "opinion"
+          ],
+          "dateCreated": "2014-02-28T10:44:19Z",
+          "datePublished": "2014-02-28T10:44:19Z",
+          "dateModified": "2021-07-21T08:47:40Z",
+          "isBasedOn": "https://www.troyrecord.com/2014/02/28/editorial-a-fitting-tribute-to-vietnam-veterans-and-one-missing-from-the-civil-war/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un article du Troy Record aborde le sujet du Mémorial de Vietnam à Arlington National Cemetery, évoquant Mike Wherley, le président Ronald Reagan, le secrétaire à la Défense Caspar Weinberger, et l'identification ultérieure du soldat inconnu Michael Joseph Blassie. Il mentionne également un mémorial non réalisé pour un milicien noir inconnu décédé en défendant Wrightsville contre les Confédérés lors d'un siège de la guerre de Sécession visant à s'emparer du pont de la rivière Susquehanna, ainsi qu'une commémoration du 150e anniversaire de la bataille de Gettysburg.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mike Wherley",
+          "Caspar Weinberger",
+          "Ronald Reagan",
+          "Michael Joseph Blassie",
+          "Siobhan Connally",
+          "Lily, Duchess of Marlborough",
+          "Don Rittner",
+          "Elwood Watson",
+          "Danny Tyree"
+        ],
+        "LOCATION": [
+          "Hellam Township",
+          "Arlington National Cemetery",
+          "Washington",
+          "York College",
+          "Vietnam",
+          "Wrightsville",
+          "Susquehanna River"
+        ],
+        "ORGANIZATION": [
+          "Troy Record",
+          "Congress",
+          "Air Force"
+        ],
+        "DATE": [
+          "2014",
+          "Memorial Day 1984",
+          "1998",
+          "Last year",
+          "February 28",
+          "Saturday morning"
+        ],
+        "EVENT": [
+          "Civil War",
+          "Gettysburg battle",
+          "9/11"
+        ],
+        "OTHER": [
+          "Confederates"
+        ]
+      },
+      "score_e5": 0.7293930107310197
+    },
+    {
+      "titre": "MILITARY COLOR | U.S. Department of War",
+      "source": "Department of War",
+      "lien": "https://www.war.gov/Multimedia/Photos/igphoto/2001992841/",
+      "image_url": "https://media.defense.gov/2008/Sep/25/2001992841/1088/820/0/710456-X-RPD66-945.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSplV1z9PfGcv_CDWu41cOs1bOCOegGyzBT-LjUeNd2B4Vc5teh",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "MILITARY COLOR | U.S. Department of War",
+        "link": "https://www.war.gov/Multimedia/Photos/igphoto/2001992841/",
+        "source": "Department of War",
+        "source_icon": "https://serpapi.com/searches/6a8edcc8fbbebbbbef4c33f0/images/CYfc9Hw6T3vwYGah3DjYmx5Rdz50p65_oATrBIvDFcQ.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSplV1z9PfGcv_CDWu41cOs1bOCOegGyzBT-LjUeNd2B4Vc5teh",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.defense.gov/2008/Sep/25/2001992841/1088/820/0/710456-X-RPD66-945.jpg",
+        "image_width": 725,
+        "image_height": 1088
+      },
+      "webpage": {
+        "text": "MILITARY COLOR\n\nSkip to main content (Press Enter).\nAn official website of the United States Government \nHere's how you know\n\nOfficial websites use .gov\n\nA .gov website belongs to an official government organization in the United States.\n\nSecure .gov websites use HTTPS\n\nA lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n\nU.S. Department of War\n{{buttonLabel}}\n{{videos.all[0].title}}\n\nLive Now\n{{item.title}}\nUpcoming\n{{item.formattedStartDate}} {{item.title}}\n{{item.formattedStartDate}}\n{{item.title}}\n\n\nSearch Search\n\n\nPhotos\n\nSnapshots of what’s happening in the Defense Department.\n\n\nMILITARY COLOR\n\nA joint color guard carries the flags from all 50 states during a military parade to honor retiring U.S. Sens. John Warner and Duncan Hunter on Whipple Field, Fort Myer, Va., Sept. 24, 2008.\n\n----------------------------------------\n\nSHARE:\n\n * Download: Full Size (0.09 MB)\n * Credit: VIRIN: 710456-X-RPD66-945.jpg\n\nPhoto Gallery\n\n\nDepartment of War\n\n\nHelpful Links\n\n\nResources\n\n\nPopular\n\nThe Department of War provides the military forces needed to deter war and ensure our nation's security.\n\nEnter Your Search Terms\n\n\nSubscribe\nHosted by WEB.mil",
+        "metadata": {
+          "title": "MILITARY COLOR | U.S. Department of War",
+          "description": "A joint color guard carries the flags from all 50 states during a military parade to honor retiring U.S. Sens. John Warner and Duncan Hunter on Whipple Field, Fort Myer, Va., Sept. 24, 2008. ",
+          "keywords": "Department of War, DOW, Secretary, Deputy Secretary, Joint Chief, United States, Military, Government, Pentagon, Secretary of War, Deputy Secretary of War"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "logo": "https://www.war.gov/Portals/1/Images/DOD-Icon-Header.png?ver=5sAfFl2--9znca0j3SrX_g%3d%3d",
+          "name": "U.S. Department of War",
+          "url": "https://www.war.gov/",
+          "sameAs": []
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une garde de couleur conjointe transporte les drapeaux des 50 états lors d'une parade militaire pour honorer les sénateurs américains retraités John Warner et Duncan Hunter sur Whipple Field à Fort Myer en Virginie, le 24 septembre 2008, d'après le Département de la Guerre des États-Unis.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Warner",
+          "Duncan Hunter"
+        ],
+        "LOCATION": [
+          "United States",
+          "Whipple Field",
+          "Fort Myer",
+          "Va."
+        ],
+        "ORGANIZATION": [
+          "U.S. Department of War",
+          "Defense Department"
+        ],
+        "DATE": [
+          "Sept. 24, 2008"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.776056059425999
+    },
+    {
+      "titre": "Contextualizing The History And Symbolism Of The Confederate ...",
+      "source": "LAist",
+      "lien": "https://laist.com/shows/airtalk/contextualizing-the-history-and-symbolism-of-the-confederate-flag",
+      "image_url": "https://scpr.brightspotcdn.com/dims4/default/27857c8/2147483647/strip/true/crop/1024x684+0+0/resize/672x449!/quality/90/?url=https://a.scpr.org/226862_518f3c5790aaccbc8a4f83c7383f915e_original.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Ju1PEYhXOZ9CN2FtdQ8LbjRQ7Zs-3ziVMTOPKTGSq9uBeqpc",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Contextualizing The History And Symbolism Of The Confederate ...",
+        "link": "https://laist.com/shows/airtalk/contextualizing-the-history-and-symbolism-of-the-confederate-flag",
+        "source": "LAist",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRftZIM0HwiMBk8wesaX6H1sTUaxdnBM5xosgl9JA22Wu_AOsi5pV4IE56jFmnEMVhUR3152JJI8gXzR31fAjZfNcOgEt6lyoHuzlNOlko",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Ju1PEYhXOZ9CN2FtdQ8LbjRQ7Zs-3ziVMTOPKTGSq9uBeqpc",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://scpr.brightspotcdn.com/dims4/default/27857c8/2147483647/strip/true/crop/1024x684+0+0/resize/672x449!/quality/90/?url=https://a.scpr.org/226862_518f3c5790aaccbc8a4f83c7383f915e_original.jpg",
+        "image_width": 449,
+        "image_height": 672
+      },
+      "webpage": {
+        "text": "Contextualizing The History And Symbolism Of The Confederate Flag\n\nNASCAR announced it will ban it from being on display at racing events. Mississippi's governor finalized the legislature’s decision to remove the symbol from the state flag. Commanders of the Confederate army founded the Confederate flag as a battle flag, but the symbol has long been used to convey resistance to civil rights. \n\nAccording to experts, the symbolism of the flag has long been debated and its path through history has not been straightforward. Throughout different eras in time, the flag has been glorified in various ways. Some people argue the flag symbolizes southern pride and heritage. But for many black Americans, it’s a symbol of hatred and white supremacy. These same arguments rage on as protesters across the country topple confederate memorials and statues. Today on AirTalk, we dive into the deep-rooted symbolism of the Confederate flag, how it has changed over time and what it means today. Do you have questions? Join the conversation by calling 866-893-5722.\n\n\nGuests:\n\nMatthew Delmont, professor of history at Dartmouth College in New Hampshire, he’s the author of several books and is currently working on another titled “Half American: The Epic Story of African Americans Fighting World War II at Home and Abroad” (under contract with Viking Books, publication anticipated in 2022); he tweets\n\nDaniel Pierce, professor of history at the University of North Carolina Asheville where he focuses on southern and Appalachian history, he’s the author of “Real NASCAR: White Lightning, Red Clay And Big Bill France” (University of North Carolina Press, 2013)",
+        "metadata": {
+          "title": "Contextualizing The History And Symbolism Of The Confederate Flag | LAist",
+          "og:title": "Contextualizing The History And Symbolism Of The Confederate Flag ",
+          "og:url": "https://laist.com/shows/airtalk/contextualizing-the-history-and-symbolism-of-the-confederate-flag",
+          "og:image": "https://scpr.brightspotcdn.com/dims4/default/222a58a/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F226862_518f3c5790aaccbc8a4f83c7383f915e_original.jpg",
+          "og:image:url": "https://scpr.brightspotcdn.com/dims4/default/222a58a/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F226862_518f3c5790aaccbc8a4f83c7383f915e_original.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "TOPSHOT - Members of the Mississippi Highway Safety Patrol Honor Guard retire the state flag outside the Mississippi State Capitol building in Jackson, Mississippi on July 1, 2020. - Mississippi's flag, the last US state banner to feature a Confederate emblem, was permanently retired Wednesday when it was lowered from the state's capitol and removed from the grounds. The move comes one day after Governor Tate Reeves signed a bill ordering the rebel-themed flag's removal, which comes in the wake of coast-to-coast protests over the police killing of African American George Floyd in May. (Photo by Rory Doyle / AFP) (Photo by RORY DOYLE/AFP via Getty Images)",
+          "og:description": "NASCAR announced it will ban it from being on display at racing events. Mississippi's governor finalized the legislature’s decision to remove the symbol from the state flag.",
+          "og:site_name": "LAist",
+          "twitter:description": "NASCAR announced it will ban it from being on display at racing events. Mississippi's governor finalized the legislature’s decision to remove the symbol…",
+          "twitter:title": "Contextualizing The History And Symbolism Of The Confederate Flag ",
+          "description": "NASCAR announced it will ban it from being on display at racing events. Mississippi's governor finalized the legislature’s decision to remove the symbol from the state flag."
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Clip",
+          "dateModified": "2020-07-02T20:17:11Z",
+          "datePublished": "2020-07-02T15:04:31Z",
+          "description": "NASCAR announced it will ban it from being on display at racing events. Mississippi's governor finalized the legislature’s decision to remove the symbol from the state flag.",
+          "image": {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "url": "https://a.scpr.org/226862_518f3c5790aaccbc8a4f83c7383f915e_original.jpg"
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://laist.com/shows/airtalk/contextualizing-the-history-and-symbolism-of-the-confederate-flag"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un article de LAist discute de l'histoire et du symbolisme du drapeau confédéré, mentionnant l'interdiction de son affichage par NASCAR et sa suppression du drapeau de l'état par le gouverneur du Mississippi. Sont également mentionnés les professeurs Matthew Delmont du Dartmouth College et Daniel Pierce de l'Université de la Caroline du Nord à Asheville.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Matthew Delmont",
+          "Daniel Pierce",
+          "Big Bill France"
+        ],
+        "LOCATION": [
+          "Mississippi",
+          "New Hampshire",
+          "Asheville"
+        ],
+        "ORGANIZATION": [
+          "NASCAR",
+          "Dartmouth College",
+          "Viking Books",
+          "University of North Carolina Asheville",
+          "University of North Carolina Press"
+        ],
+        "DATE": [
+          "2022",
+          "2013"
+        ],
+        "EVENT": [
+          "World War II"
+        ],
+        "OTHER": [
+          "Confederate army"
+        ]
+      },
+      "score_e5": 0.7065073379865475
+    },
+    {
+      "titre": "November 25, 1963 • Final day of State Funeral of JFK • The ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/JFK/comments/1p6dv9n/november_25_1963_final_day_of_state_funeral_of/",
+      "image_url": "https://preview.redd.it/november-25-1963-final-day-of-state-funeral-of-jfk-the-v0-xfrsn4xp323e1.jpg?width=600&format=pjpg&auto=webp&s=021fd4a97793586ee77c828d009083452ec9c74e",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPY_sEsOACCTv5nOwGk-gqKnfAwEiY6pJbsWOqnwMwt6-N53N",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "November 25, 1963 • Final day of State Funeral of JFK • The ...",
+        "link": "https://www.reddit.com/r/JFK/comments/1p6dv9n/november_25_1963_final_day_of_state_funeral_of/",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRFeJS-IhfJCysoVmCqJ1d-1lzbIHTsbcy4DrBsZJpxQ31zznhym7THnNEKCEnngpvdl4aupEFtEblIPBEMJY7_biy055d40m6TYfVg7CpFOrWOXw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPY_sEsOACCTv5nOwGk-gqKnfAwEiY6pJbsWOqnwMwt6-N53N",
+        "thumbnail_width": 176,
+        "thumbnail_height": 286,
+        "image": "https://preview.redd.it/november-25-1963-final-day-of-state-funeral-of-jfk-the-v0-xfrsn4xp323e1.jpg?width=600&format=pjpg&auto=webp&s=021fd4a97793586ee77c828d009083452ec9c74e",
+        "image_width": 370,
+        "image_height": 600
+      },
+      "webpage": {
+        "text": "November 25, 1963 • Final day of State Funeral of JFK • The White House • Saint Matthew’s Cathedral • Arlington National Cemetery\n\n\n\nRockBalBoaaa • r/JFK • 11/25/2025, 2:29:56 PM\n\n↑144 • 20 comments\n\n\n\n---\n* ChrissyBrown1127 • 11/25/2025, 5:27:11 PM • ↑9\n\n  Tragic that John Jr had to attend his father’s funeral on his 3rd birthday.\n  \n  It would be tragic either way for a young child to attend their father’s funeral, but the fact it was also John Jr’s birthday just added another layer.\n\n  \n\n  * Summerlea623 • 11/25/2025, 8:09:52 PM • ↑4\n\n    It was my brother's 3rd birthday as well. He was born within hours of JFK Jr.\n    \n    I don't remember if my brother had a birthday party that day...I doubt it. My mom had loved JFK and was crying all weekend.\n\n    \n\n* amboomernotkaren • 11/25/2025, 5:51:49 PM • ↑9\n\n  Jackie is smiling in one photo. It’s nice to know that someone said something to her that made her smile. I was at that funeral as a kid. We lived near the cemetery. We did not go downtown though, but I often went in the cathedral years later when my office was next door. We used to go to Ft Myer to give Black Jack, the riderless horse, carrots, apples and sugar lumps. He was always well behaved.\n\n  \n\n  * LeighAG70 • 11/26/2025, 4:40:22 PM • ↑3\n\n    Lovely about the horse I too stood outside Saint Matthews Cathedral that day\n\n    \n\n    * amboomernotkaren • 11/26/2025, 4:43:52 PM • ↑2\n\n      :) I was just 4 years old. It is one of my first memories.\n\n      \n\n* NatsFan8447 • 11/25/2025, 4:25:03 PM • ↑7\n\n  I was 16 then and remember with great sadness the assassination of President Kennedy. Our country has never been the same. As an aside, I wonder why the funeral on Monday November 25 was scheduled so quickly. Only three days after Friday November 22. Must have been a logistical nightmare, particularly with all the foreign dignitaries arriving for the funeral.\n\n  \n\n  * Summerlea623 • 11/26/2025, 2:39:24 AM • ↑3\n\n    I've often wondered the same. The president was murdered on Friday and buried on Monday.😮\n    \n    Why the rush? Was it because the WH wanted it over by the Thanksgiving holiday that Thursday?🤔\n\n    \n\n* EMHemingway1899 • 11/25/2025, 9:38:49 PM • ↑7\n\n  I’ve been to Mass there a few times when I’m in the District\n  \n  Going to the church where President Kennedy’s funeral Mass was held is really special to me\n\n  \n\n  * Turbulent-Patient219 • 11/26/2025, 3:59:01 AM • ↑3\n\n    One of the best presidents imo. Catholics love JFK. I remember while I was in Catholic school we all had to do a project on JFK for The Knights of Columbus. Several of us including me received certificates from them for how well written our projects were. It is truly a tragedy that he got killed the way he did. \n\n    \n\n  * Summerlea623 • 11/26/2025, 2:41:00 AM • ↑1\n\n    Isn't there some sort of plaque on the floor of the Cathedral to mark the spot where his casket was during the Requiem Mass?\n\n    \n\n    * EMHemingway1899 • 11/26/2025, 2:57:10 AM • ↑2\n\n      I don’t recall\n      \n      There certainly should be\n\n      \n\n      * Summerlea623 • 11/26/2025, 3:03:51 AM • ↑3\n\n        Kerry Kennedy, who is one of RFK Sr's daughters, married Andrew Cuomo there in 1990.\n        \n        Out of consideration for Aunt Jackie and other family members who would be in attendance, Kerry arranged to have the plaque covered with something.\n\n        \n\n        * EMHemingway1899 • 11/26/2025, 3:54:08 AM • ↑2\n\n          Very interesting\n\n          \n\n  * LeighAG70 • 11/26/2025, 4:40:49 PM • ↑2\n\n    I fully understand\n\n    \n\n* Summerlea623 • 11/25/2025, 8:00:55 PM • ↑5\n\n  I was about 4 years old and I have vague memories of that day...muffled drums, the \"candy cane box\" as I referred to the casket draped with the American flag.\n  \n  It was also my younger brother's 3rd birthday, same as John Jr.\n  \n  It is mind boggling to see all those world leaders who are considered almost legendary now...Emperor Selassie of Ethiopia, De Gaulle of France, Baudouin of Belgium, Fredericka of Greece.\n  \n  Caroline Kennedy grasping the hand of her Secret Service agent for reassurance, with the limousine window down is so heartbreaking.\n  \n  To this day, I can't hear the Navy Hymn(\"Eternal Father\") without thinking of the JFK State Funeral.\n\n  \n\n  * CougarWriter74 • 11/25/2025, 9:06:43 PM • ↑6\n\n    I know he's not in any of the photos that I could tell, but Prince Philip was there as well, representing the UK and the British royal family. Queen Elizabeth was pregnant with Prince Edward at the time. Not sure if the PM at the time Alec Douglas-Home attended.\n\n    \n\n    * Summerlea623 • 11/26/2025, 2:35:11 AM • ↑4\n\n      Yes. Philip Duke of Edinburgh was at the State Funeral\n      \n      He was later spotted on the floor of the White House nursery, playing with John Jr.\n      \n      Princess Beatrix of the Netherlands attended and so did (then) Crown Prince Harald of Norway.\n      \n      I think both former PM Harold MacMillan and Alec Douglas-Home were there, alongside David Ormsby Gore, Lord Harlech.\n      \n      All three were close friends of JFK, particularly Ormsby Gore. After the death of his wife Sissie, he dated Jacqueline Kennedy and had hoped to marry her.\n      \n      But he ended up with a broken heart when she married Onassis.\n\n      \n\n      * CougarWriter74 • 11/26/2025, 3:09:45 AM • ↑3\n\n        I always enjoyed that sweet story of Philip sitting down on the floor and playing with John Kennedy Jr. Philip may have been a hard ass and not always pleasant, but he had enough heart and humanity in him to take time out with a young boy who had just lost his father in the most horrific way. It helped that Andrew was about the same age at that time.\n\n        \n\n        * Summerlea623 • 11/26/2025, 3:12:11 AM • ↑3\n\n          That's exactly what he is supposed to have said...that John Jr reminded him of his son Andrew, who was 3 1/2 at the time.\n\n          \n\n* LeighAG70 • 11/26/2025, 4:39:37 PM • ↑1\n\n  These were the very saddest of days and forever more\n\n  \n\n",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Discussion sur Reddit concernant le 25 novembre 1963, dernier jour des funérailles d'État du président John F. Kennedy à la cathédrale Saint-Matthew et au cimetière national d'Arlington. Sont évoqués John F. Kennedy Jr., Jackie Kennedy, le cheval Black Jack, et le mariage de Kerry Kennedy avec Andrew Cuomo en 1990.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John F. Kennedy",
+          "John Jr",
+          "Jackie",
+          "Black Jack",
+          "Andrew Cuomo",
+          "Kerry Kennedy",
+          "RFK Sr"
+        ],
+        "LOCATION": [
+          "The White House",
+          "Saint Matthew’s Cathedral",
+          "Arlington National Cemetery",
+          "Ft Myer"
+        ],
+        "ORGANIZATION": [
+          "Knights of Columbus"
+        ],
+        "DATE": [
+          "November 25, 1963",
+          "11/25/2025",
+          "Friday November 22",
+          "Thanksgiving",
+          "1990"
+        ],
+        "EVENT": [
+          "State Funeral of JFK"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.722407076360851
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "United States",
+      "Mexico"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Fitzsimmons",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mike Wherley",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Caspar Weinberger",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ronald Reagan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Joseph Blassie",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Siobhan Connally",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lily, Duchess of Marlborough",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Don Rittner",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Elwood Watson",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Danny Tyree",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hellam Township",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Arlington National Cemetery",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "York College",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vietnam",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wrightsville",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Susquehanna River",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Troy Record",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Congress",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Air Force",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Memorial Day 1984",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1998",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Last year",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 28",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday morning",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Civil War",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Gettysburg battle",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "9/11",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Confederates",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Warner",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Duncan Hunter",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Whipple Field",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fort Myer",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Va.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Department of War",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Defense Department",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sept. 24, 2008",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matthew Delmont",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Daniel Pierce",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Big Bill France",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mississippi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Hampshire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Asheville",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NASCAR",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Dartmouth College",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Viking Books",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of North Carolina Asheville",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of North Carolina Press",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2022",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "World War II",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Confederate army",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John F. Kennedy",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Jr",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jackie",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Black Jack",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Andrew Cuomo",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kerry Kennedy",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "RFK Sr",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "The White House",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Saint Matthew’s Cathedral",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ft Myer",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Knights of Columbus",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 25, 1963",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "11/25/2025",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday November 22",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thanksgiving",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1990",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "State Funeral of JFK",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:20:34.502609"
+  }
+}

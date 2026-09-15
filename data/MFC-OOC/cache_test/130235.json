@@ -1,0 +1,465 @@
+{
+  "id_rumeur": "194570",
+  "id_image": "130235",
+  "caption": "The entrance to the Anna Prayer Counseling and Retreat Center in Frederick County Maryland On July 26 a man staying there allegedly stabbed to death a missionary from Korea",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122808/130235.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Pedestrian killed in crash on Wiehle Avenue in Reston identified - The Washington Post",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/news/dr-gridlock/wp/2015/10/21/pedestrian-struck-on-wiehle-avenue-in-reston-southbound-lanes-closed/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=1440",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJvRbVoyaAxOwmKX2CSljkAl9LK4tyb-NmnEWbiGJ0zD74uLyw",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Pedestrian killed in crash on Wiehle Avenue in Reston identified - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/news/dr-gridlock/wp/2015/10/21/pedestrian-struck-on-wiehle-avenue-in-reston-southbound-lanes-closed/",
+        "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=1440",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJvRbVoyaAxOwmKX2CSljkAl9LK4tyb-NmnEWbiGJ0zD74uLyw"
+      },
+      "webpage": {
+        "text": "Pedestrian killed in crash on Wiehle Avenue in Reston identified\n\nUpdated at 4:17 p.m.\n\nA woman walking to the Wiehle-Reston East Metro station was fatally hit by a car on Wednesday morning.\n\nFairfax County police said that Silvia Raquel Corella Erazo, 72, of Reston, was trying to cross Wiehle Avenue to get to the station when she was hit by a 2005 Honda Accord, at around 6:25 a.m.\n\nThe 30-year-old driver was also headed toward the Metro station, police said. He was not drunk or speeding, police said, and he stayed at the scene of the crash.\n\nThe road has no crosswalk at the spot where the collision happened.",
+        "metadata": {
+          "title": "Pedestrian killed in crash on Wiehle Avenue in Reston identified - The Washington Post",
+          "description": "The 72-year-old woman was walking to a Silver Line station.",
+          "og:site_name": "The Washington Post",
+          "og_site_name": "The Washington Post",
+          "og:type": "article",
+          "og_type": "article",
+          "og:url": "https://www.washingtonpost.com/news/dr-gridlock/wp/2015/10/21/pedestrian-struck-on-wiehle-avenue-in-reston-southbound-lanes-closed/",
+          "og_url": "https://www.washingtonpost.com/news/dr-gridlock/wp/2015/10/21/pedestrian-struck-on-wiehle-avenue-in-reston-southbound-lanes-closed/",
+          "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=1440",
+          "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=1440",
+          "og:title": "Pedestrian killed in crash on Wiehle Avenue in Reston identified",
+          "og_title": "Pedestrian killed in crash on Wiehle Avenue in Reston identified",
+          "og:description": "The 72-year-old woman was walking to a Silver Line station.",
+          "og_description": "The 72-year-old woman was walking to a Silver Line station.",
+          "twitter:title": "Pedestrian killed in crash on Wiehle Avenue in Reston identified",
+          "twitter:description": "The 72-year-old woman was walking to a Silver Line station.",
+          "article:published_time": "2015-10-21T20:34:42.000Z",
+          "article_published_time": "2015-10-21T20:34:42.000Z",
+          "article:modified_time": "2021-11-30T20:58:15.994Z",
+          "article_modified_time": "2021-11-30T20:58:15.994Z",
+          "article:section": "Gridlock",
+          "article_section": "Gridlock",
+          "article:content_tier": "metered",
+          "article_content_tier": "metered",
+          "og_author": "Julie Zauzmer, Dana Hedgpeth"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.washingtonpost.com/news/dr-gridlock/wp/2015/10/21/pedestrian-struck-on-wiehle-avenue-in-reston-southbound-lanes-closed/",
+          "headline": "Pedestrian killed in crash on Wiehle Avenue in Reston identified",
+          "alternativeHeadline": "Pedestrian killed in crash on Wiehle Avenue in Reston identified",
+          "dateModified": "2021-11-30T20:58:15.994Z",
+          "datePublished": "2015-10-21T20:34:42.000Z",
+          "description": "The 72-year-old woman was walking to a Silver Line station.",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Julie Zauzmer"
+            },
+            {
+              "@type": "Person",
+              "name": "Dana Hedgpeth",
+              "url": "https://www.washingtonpost.com/people/dana-hedgpeth/"
+            }
+          ],
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Washington Post",
+            "productID": "washingtonpost.com:basic",
+            "description": "Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+            "sku": "https://subscribe.washingtonpost.com",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+            "brand": {
+              "@type": "brand",
+              "name": "The Washington Post"
+            },
+            "offers": {
+              "@type": "offer",
+              "url": "https://subscribe.washingtonpost.com/acquisition?promo=o26"
+            }
+          },
+          "publisher": {
+            "@id": "washingtonpost.com",
+            "@type": "NewsMediaOrganization",
+            "name": "The Washington Post"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "cssSelector": ".meteredContent",
+            "isAccessibleForFree": false
+          },
+          "keywords": "weihle avenue, reston",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=1600&h=900",
+              "height": 900,
+              "width": 1600
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=1800&h=1800",
+              "height": 1800,
+              "width": 1800
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/dr-gridlock/files/2015/10/wiehleave.jpeg&w=800&h=600",
+              "height": 800,
+              "width": 600
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une femme de 72 ans, Silvia Raquel Corella Erazo, originaire de Reston, a été mortellement heurtée par une Honda Accord de 2005 alors qu'elle traversait l'avenue Wiehle pour se rendre à la station de métro Wiehle-Reston East. L'accident s'est produit un mercredi matin vers 6h25 sur une route ne comportant pas de passage piéton à cet endroit.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Silvia Raquel Corella Erazo"
+        ],
+        "LOCATION": [
+          "Reston",
+          "Wiehle Avenue",
+          "Wiehle-Reston East Metro station"
+        ],
+        "ORGANIZATION": [
+          "The Washington Post",
+          "Fairfax County police",
+          "Honda"
+        ],
+        "DATE": [
+          "Wednesday morning",
+          "2015",
+          "2005"
+        ],
+        "EVENT": [
+          "pedestrian killed in crash"
+        ],
+        "OTHER": [
+          "Honda Accord",
+          "car",
+          "Metro station"
+        ]
+      },
+      "score_e5": 0.748781824923103
+    },
+    {
+      "titre": "Mount Pleasant Road reopens after early morning water main break | WCBD News 2",
+      "source": "WCBD News 2",
+      "lien": "https://www.counton2.com/news/local-news/charleston-county-news/mount-pleasant-road-closed-following-a-water-main-break/",
+      "image_url": "https://www.counton2.com/wp-content/uploads/sites/7/2019/11/thumbnail_20191125_075738.jpg?strip=1&w=640",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwvK57y5Y7i6MmZZt4fMFvyzgzhSu0Ia53LSNLIarURoaoL3X",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Mount Pleasant Road reopens after early morning water main break | WCBD News 2",
+        "source": "WCBD News 2",
+        "link": "https://www.counton2.com/news/local-news/charleston-county-news/mount-pleasant-road-closed-following-a-water-main-break/",
+        "imageUrl": "https://www.counton2.com/wp-content/uploads/sites/7/2019/11/thumbnail_20191125_075738.jpg?strip=1&w=640",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwvK57y5Y7i6MmZZt4fMFvyzgzhSu0Ia53LSNLIarURoaoL3X"
+      },
+      "webpage": {
+        "text": "Mount Pleasant Road reopens after early morning water main break\n\nby: Private: Temple Ricke\n\nPosted: Nov 25, 2019 / 08:31 AM EST\n\nUpdated: Nov 25, 2019 / 01:52 PM EST\n\nMount Pleasant, S.C. (WCBD) – Waterworks crews repaired a water main break that caused traffic back-ups early Monday in Mount Pleasant.\n\nReports show the incident was on Rivertowne Country Club Drive by the Indigo Chase neighborhood. Rivertowne Country Club Drive was closed in both directions between Palmetto Isle Drive and Parkers Landing Road.\n\nCrews were on scene and traffic was diverted for some time.\n\nAdd as preferred source on Google",
+        "metadata": {
+          "title": "Mount Pleasant Road reopens after early morning water main break | WCBD News 2",
+          "sailthru.title": "Mount Pleasant Road reopens after early morning water main break",
+          "sailthru.author": "Private: Temple Ricke",
+          "sailthru.description": "Mount Pleasant, S.C. (WCBD) – Waterworks crews repaired a water main break that caused traffic back-ups early Monday in Mount Pleasant. Reports show the incident was on Rivertowne Country Club Drive by the Indigo Chase neighborhood. Rivertowne Country Club Drive was closed in both directions between Palmetto Isle Drive and Parkers Landing Road. Crews were […]",
+          "og:type": "article",
+          "og:title": "Mount Pleasant Road reopens after early morning water main break",
+          "og:url": "https://www.counton2.com/news/local-news/charleston-county-news/mount-pleasant-road-closed-following-a-water-main-break/",
+          "og:description": "Mount Pleasant, S.C. (WCBD) – Waterworks crews repaired a water main break that caused traffic back-ups early Monday in Mount Pleasant. Reports show the incident was on Rivertowne Country Clu…",
+          "article:published_time": "2019-11-25T13:31:25+00:00",
+          "article:modified_time": "2019-11-25T18:52:01+00:00",
+          "og:site_name": "WCBD News 2",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:locale": "en_US",
+          "og:image": "https://www.counton2.com/wp-content/uploads/sites/7/2019/11/thumbnail_20191125_075738.jpg?w=1280",
+          "og:image:secure_url": "https://www.counton2.com/wp-content/uploads/sites/7/2019/11/thumbnail_20191125_075738.jpg?w=1280",
+          "twitter:description": "Mount Pleasant, S.C. (WCBD) – Waterworks crews repaired a water main break that caused traffic back-ups early Monday in Mount Pleasant. Reports show the incident was on Rivertowne Country Clu…",
+          "twitter:title": "Mount Pleasant Road reopens after early morning water main break",
+          "twitter:text:title": "Mount Pleasant Road reopens after early morning water main break"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les équipes de services des eaux ont réparé une rupture de canalisation principale qui a provoqué des retards de circulation tôt un lundi à Mount Pleasant, près de Rivertowne Country Club Drive et du quartier d'Indigo Chase. Rivertowne Country Club Drive a été fermée dans les deux sens entre Palmetto Isle Drive et Parkers Landing Road, et la circulation a été déviée.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Temple Ricke"
+        ],
+        "LOCATION": [
+          "Mount Pleasant",
+          "Mount Pleasant Road",
+          "Rivertowne Country Club Drive",
+          "Indigo Chase",
+          "Palmetto Isle Drive",
+          "Parkers Landing Road"
+        ],
+        "ORGANIZATION": [
+          "WCBD News 2",
+          "WCBD"
+        ],
+        "DATE": [
+          "Nov 25, 2019",
+          "Monday"
+        ],
+        "EVENT": [
+          "water main break"
+        ],
+        "OTHER": [
+          "water main"
+        ]
+      },
+      "score_e5": 0.7417869119247875
+    },
+    {
+      "titre": "Guilford County officials investigate what led up to a child dying while sledding - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=9wa4_Z3H5RA",
+      "image_url": "https://i.ytimg.com/vi/9wa4_Z3H5RA/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN60cFODDuMRXaZBGw92UWc5n2upiqJMAEI5-r8E8j5vNU0yEb",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Guilford County officials investigate what led up to a child dying while sledding - YouTube",
+        "source": "YouTube",
+        "link": "https://www.youtube.com/watch?v=9wa4_Z3H5RA",
+        "imageUrl": "https://i.ytimg.com/vi/9wa4_Z3H5RA/maxresdefault.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN60cFODDuMRXaZBGw92UWc5n2upiqJMAEI5-r8E8j5vNU0yEb"
+      },
+      "webpage": {
+        "text": "Guilford County officials investigate what led up to a child dying while sledding\n\nWXII 12 News\n\nGuilford County officials investigate what led up to a child dying while sleddingSubscribe to WXII on YouTube now for more: http://bit.ly/1mVq5umGet more Win...",
+        "metadata": {
+          "title": "Guilford County officials investigate what led up to a child dying while sledding",
+          "description": "Guilford County officials investigate what led up to a child dying while sleddingSubscribe to WXII on YouTube now for more: http://bit.ly/1mVq5umGet more Win...",
+          "keywords": "Winston-Salem",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=9wa4_Z3H5RA",
+          "og:title": "Guilford County officials investigate what led up to a child dying while sledding",
+          "og:image": "https://i.ytimg.com/vi/9wa4_Z3H5RA/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Guilford County officials investigate what led up to a child dying while sleddingSubscribe to WXII on YouTube now for more: http://bit.ly/1mVq5umGet more Win...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=9wa4_Z3H5RA&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=9wa4_Z3H5RA&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=9wa4_Z3H5RA&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/9wa4_Z3H5RA",
+          "og:video:secure_url": "https://www.youtube.com/embed/9wa4_Z3H5RA",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "Winston-Salem",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Guilford County officials investigate what led up to a child dying while sledding",
+          "twitter:description": "Guilford County officials investigate what led up to a child dying while sleddingSubscribe to WXII on YouTube now for more: http://bit.ly/1mVq5umGet more Win..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les responsables du comté de Guilford enquêtent sur les circonstances entourant le décès d'un enfant lors d'une séance de luge.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Guilford County"
+        ],
+        "ORGANIZATION": [
+          "WXII 12 News",
+          "WXII",
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "child dying while sledding"
+        ],
+        "OTHER": [
+          "sled"
+        ]
+      },
+      "score_e5": 0.7671388088725442
+    },
+    {
+      "titre": "Level - Hey everyone! Just letting y'all know there is some pothole filling going on in the main entrance of the shopping center, so, for your convenience, use this entrance on Satellite",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/levelupgamesatl/photos/hey-everyone-just-letting-yall-know-there-is-some-pothole-filling-going-on-in-th/623440369790207/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=623440369790207",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ97j3nY4zfpMOdDfP9M_Sto72ZrzrrfPHEcNrElSmlT3RQaAO",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Level - Hey everyone! Just letting y'all know there is some pothole filling going on in the main entrance of the shopping center, so, for your convenience, use this entrance on Satellite",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/levelupgamesatl/photos/hey-everyone-just-letting-yall-know-there-is-some-pothole-filling-going-on-in-th/623440369790207/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=623440369790207",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ97j3nY4zfpMOdDfP9M_Sto72ZrzrrfPHEcNrElSmlT3RQaAO"
+      },
+      "webpage": {
+        "text": "Facebook\n\nExplore the things you love.\n\nLog into Facebook\nEmail or mobile number\n\nPassword\n\nForgot password?\n\nCreate new account\n\n\n----------------------------------------\n\n----------------------------------------\n\nEnglish (US)\nEspañol\nFrançais (France)\n中文(简体)\nالعربية\nPortuguês (Brasil)\nItaliano\nMore languages…\n\nLog In\nMessenger\nFacebook Lite\nVideo\nMeta Pay\nMeta Store\nMeta Quest\nRay-Ban Meta\nMeta AI\nMuse\nInstagram\nThreads\nPrivacy Policy\nPrivacy Center\nAbout\nCreate ad\nCreate Page\nDevelopers\nCareers\nCookies\nAd choices\nTerms\nHelp\nContact Uploading & Non-Users",
+        "metadata": {
+          "title": "Facebook"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des travaux de rebouchage de nids-de-poule sont en cours à l'entrée principale du centre commercial, et il est conseillé d'utiliser l'entrée située sur Satellite pour plus de commodité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Satellite"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Level Up Games",
+          "Meta",
+          "Instagram",
+          "Threads"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "pothole"
+        ]
+      },
+      "score_e5": 0.7712209381970098
+    },
+    {
+      "titre": "Man shot by police during SWAT situation in southeast Charlotte ID'd",
+      "source": "WBTV",
+      "lien": "https://www.wbtv.com/story/32270089/man-shot-by-police-during-swat-situation-in-southeast-charlotte-idd/",
+      "image_url": "http://wbtv.images.worldnow.com/images/10822343_G.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2SwDwVXglyDLOun-wOodE1fcQZt4pa1n9OvYVyQEm-SvJmA_U",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Man shot by police during SWAT situation in southeast Charlotte ID'd",
+        "source": "WBTV",
+        "link": "https://www.wbtv.com/story/32270089/man-shot-by-police-during-swat-situation-in-southeast-charlotte-idd/",
+        "imageUrl": "http://wbtv.images.worldnow.com/images/10822343_G.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2SwDwVXglyDLOun-wOodE1fcQZt4pa1n9OvYVyQEm-SvJmA_U"
+      },
+      "webpage": {
+        "text": "Man shot by police during SWAT situation in southeast Charlotte ID'd\n\nCHARLOTTE, NC (WBTV) - An armed robbery suspect was shot by police after he reportedly got into a standoff with SWAT Tuesday morning.\n\nAccording to police, members of the Violent Criminal Apprehension Team were attempting to serve an arrest warrant on a suspect who was wanted for several armed robberies from businesses.\n\nAround 7:51 a.m., detectives made contact with people inside an apartment at the McAlpine Terrace Apartments in southeast Charlotte. Officers said the man who they were attempting to arrest, later identified as 40-year-old Tyran Keenan Hudson, then pulled out a firearm.\n\n\"A SWAT officer perceived an imminent lethal threat and fired his weapon,\" police said in a statement Tuesday morning. \"The suspect then retreated back inside the apartment.\"\n\nThat SWAT member was identified Tuesday evening as Detective Joseph Monteleone. He was placed on administrative leave, which is standard procedure for any officer-involved shooting.\n\nAdditional members of the SWAT Team and negotiators were called to the scene and set up a perimeter around the apartment.\n\nAfter a standoff with Hudson, the SWAT Team made entry in to the apartment and found him injured inside. Medic responded to the apartment and began treating Hudson, who was then transported to Carolinas Medical Center for treatment.\n\nNo officers or other people were injured in the incident, according to police.\n\n\"As is standard procedure with any officer involved shooting, the Internal Affairs Bureau will conduct a separate but parallel investigation to determine whether CMPD policies and procedures were adhered to during the course of the incident,\" police said in the statement. \"Per department protocol, the officer will be placed on Administrative Leave which is standard procedure.\"\n\nHudson, officers said, will be charged in connection to at least nine armed robberies once he is released from the hospital.\n\nAnyone with information about this incident is asked to call 704-432-TIPS and speak directly to a Homicide Unit Detective.  Detective Koll is the lead detective assigned to the case.\n\nThe public can also call Crime Stoppers at 704-334-1600 or visit the Crime Stoppers mobile app website at http://charlottecrimestoppers.com/.\n\nCopyright 2016 WBTV. All rights reserved.",
+        "metadata": {
+          "title": "Man shot by police during SWAT situation in southeast Charlotte ID&#x27;d",
+          "og:url": "https://www.wbtv.com/story/32270089/man-shot-by-police-during-swat-situation-in-southeast-charlotte-idd",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:site_name": "https://www.wbtv.com",
+          "og:title": "Man shot by police during SWAT situation in southeast Charlotte ID'd",
+          "twitter:title": "Man shot by police during SWAT situation in southeast Charlotte ID'd",
+          "og:description": "An armed robbery suspect has been shot by police after he reportedly got into a standoff with SWAT Tuesday morning.",
+          "twitter:description": "An armed robbery suspect has been shot by police after he reportedly got into a standoff with SWAT Tuesday morning.",
+          "fb:admins": "644426401",
+          "fb:app_id": "114813225290544",
+          "fb:pages": "116380896454",
+          "article:publisher": "https://www.facebook.com/WBTVNews3/",
+          "article:sections_paths": "/news",
+          "authors": "WBTV Web Staff",
+          "article:published_time": "2016-06-21T17:26:59Z",
+          "article:modified_time": "2016-06-22T04:38:48Z",
+          "article:distributor_name": "gray",
+          "article:distributor_category": "staff",
+          "article:has_video": "false",
+          "description": "An armed robbery suspect has been shot by police after he reportedly got into a standoff with SWAT Tuesday morning.",
+          "og:image": "https://gray-wbtv-prod.gtv-cdn.com/resizer/v2/I7OPP2F6V5BSVGTBSNSARQB74U.jpg?auth=6261d6871ce42c242ff3dac70535837768091810418185bd1263d5bc94db2d5b&width=1200&height=600&smart=true"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un suspect recherché pour plusieurs braquages armés, identifié comme Tyran Keenan Hudson, âgé de 40 ans, a été blessé par la police lors d'un affrontement avec le SWAT aux appartements McAlpine Terrace dans le sud-est de Charlotte. Des membres de la Violent Criminal Apprehension Team ont tenté de lui signifier un mandat d'arrêt, ce qui a conduit à un échange où un détective du SWAT a fait feu. Hudson a été transporté au Carolinas Medical Center pour y être traité et fera l'objet de chefs d'inculpation liés à au moins neuf braquages armés.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tyran Keenan Hudson",
+          "Joseph Monteleone",
+          "Koll"
+        ],
+        "LOCATION": [
+          "Charlotte",
+          "McAlpine Terrace Apartments"
+        ],
+        "ORGANIZATION": [
+          "WBTV",
+          "SWAT",
+          "Violent Criminal Apprehension Team",
+          "CMPD",
+          "Internal Affairs Bureau",
+          "Homicide Unit",
+          "Crime Stoppers",
+          "Carolinas Medical Center"
+        ],
+        "DATE": [
+          "Tuesday morning",
+          "Tuesday evening",
+          "2016"
+        ],
+        "EVENT": [
+          "SWAT situation",
+          "armed robberies"
+        ],
+        "OTHER": [
+          "firearm",
+          "arrest warrant"
+        ]
+      },
+      "score_e5": 0.7615893380229333
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Frederick County Maryland",
+      "Maryland",
+      "Frederick County",
+      "Korea"
+    ],
+    "ORGANIZATION": [
+      "Anna Prayer Counseling and Retreat Center"
+    ],
+    "DATE": [
+      "July 26"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7712209381970098,
+  "S_ent": 0.0,
+  "S_OOC": 0.3856104690985049,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE"
+  ]
+}

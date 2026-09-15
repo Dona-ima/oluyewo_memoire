@@ -1,0 +1,725 @@
+{
+  "id_rumeur": 1579975,
+  "id_image": 1579975,
+  "caption": "The robots will compete at Pomona California which is a short drive from Los Angeles",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747472/oluyewo_benchmark/vmtk98wgqaxtygggjphl.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "This Humanoid Robot Can Drive Cars, Open Doors, Rescue Puny ...",
+      "source": "Fast Company",
+      "lien": "https://www.fastcompany.com/3054305/this-humanoid-robot-can-drive-cars-open-doors-rescue-puny-humans",
+      "image_url": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit/fc/3054305-poster-p-1-this-humanoid-robot-can-drive-cars-open-doors-rescue-puny-humans.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI7hIbzuB7QK8XHzDHgNuCVjiY6qTEVkUe7VxK1YcuRg19Ofi",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "This Humanoid Robot Can Drive Cars, Open Doors, Rescue Puny ...",
+        "link": "https://www.fastcompany.com/3054305/this-humanoid-robot-can-drive-cars-open-doors-rescue-puny-humans",
+        "source": "Fast Company",
+        "source_icon": "https://serpapi.com/searches/6a8edc91258828ab46d50242/images/LJ-KVbTydLI3l5KEfVMXpV3wzWkylDXDt7GAh30u_wI.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYI7hIbzuB7QK8XHzDHgNuCVjiY6qTEVkUe7VxK1YcuRg19Ofi",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit/fc/3054305-poster-p-1-this-humanoid-robot-can-drive-cars-open-doors-rescue-puny-humans.jpg",
+        "image_width": 1080,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Le résultat mentionne le robot humanoïde Walk-Man capable de conduire des voitures, d'ouvrir des portes et de secourir des humains.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Fast Company"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Walk-Man"
+        ]
+      },
+      "score_e5": 0.7630573578007868
+    },
+    {
+      "titre": "Made in our image? Robots that decompose are on the way ...",
+      "source": "bioplastics MAGAZINE",
+      "lien": "https://www.bioplasticsmagazine.com/en/news/meldungen/2016-01-26-Decomposing-robots.php",
+      "image_url": "https://www.bioplasticsmagazine.com/bioplasticsmagazine-wAssets/img/news/walkman1-b18c21b976.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW51wlpY2SGE2WrIelLZ-jlbXDTEyZFSXACBLDmW2I8m0zdVGW",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Made in our image? Robots that decompose are on the way ...",
+        "link": "https://www.bioplasticsmagazine.com/en/news/meldungen/2016-01-26-Decomposing-robots.php",
+        "source": "bioplastics MAGAZINE",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcuN__AABEIABAAEAMBEQACEQEDEQH_xAAXAAADAQAAAAAAAAAAAAAAAAAFBgcD_8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDEgQRACFBUWETIjFxBQYj_8QAFwEBAQEBAAAAAAAAAAAAAAAABAMGAv_EACgRAAECAwcDBQAAAAAAAAAAAAECEQADURIhIjFBYYEEBTITcXKh0f_aAAwDAQACEQMRAD8ApDzUiC2tqXRSvpg5kRBPG53xk5vSucJHiC2uQfbescNABP2GiVS0dQkrKatxLbaQBIKJtn61xU9p6gTZks5oBJowp76RD10FKVVjBXzbWTjdPGoDAZmXCRaESq1vNubcXzwczU-QTiZnfZnarcbPfFLcLzVGw222EK_RAb7tO0pNwNLxGFzO5zpi1FQwm3d8gRedbNotzwYSkgBs7vr9aP_Z.jpeg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW51wlpY2SGE2WrIelLZ-jlbXDTEyZFSXACBLDmW2I8m0zdVGW",
+        "thumbnail_width": 178,
+        "thumbnail_height": 283,
+        "image": "https://www.bioplasticsmagazine.com/bioplasticsmagazine-wAssets/img/news/walkman1-b18c21b976.jpg",
+        "image_width": 440,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Made in our image? Robots that decompose are on the way\n\nHere’s a robot story reported by Reuters a few days ago that puts a whole new perspective on the idea of designing for the end of ‘life’.\n\nNo longer will robots end their serviceable life on a scrap heap: a team of researchers from the Italian Institute of Technology (ITT) Smart Materials platform are now developing bioplastic materials that could allow robots to decompose like a human body once their time has come. \n\n'These biodegradable materials, natural materials, they are very flexible so they can be used for robotic skins,' explained Dr Athanassiou, who leads the Smart Materials Group at the IIT in Genoa.\n\n\n'But they can be also very hard so they can be used for internal parts of a robot. \n'And also, in this flexible skin - robotic skin let's say - we can incorporate sensors so they have this tactile sensing that the robots need, but with biodegradable materials.'\n\nThe bioplastic developed by the team is derived from industrial food waste. In this way, the researchers are seeking to contribute to the valorization of the huge amounts of waste generated by the food processing industry. The bioplastics are being touted by the group as non-toxic and eco-friendly, as they use less energy and water resources to manufacture.\n\nAnother member of the team is Nikos Tsagarakis, lead researcher on the Walk-Man project, a humanoid robot designed to operate human tools and interact with its environment in the same way a person would. He pointed out the trouble with building robots from conventional metals and plastics, telling Reuters: 'The main issue is it's actually difficult to see how you can achieve the properties that you want to have; say matching more the properties of the human body. So going to alternative materials would be this advantage - it will help us to make lighter robots, more efficient and, finally, also recyclable.' \n\nThe scientists are using nanotechnology to generate materials with new properties, explained Athanassiou. The team is not only combining materials to make new ‘smart’ composites, the researchers are also using nanomaterials to change the properties of other materials.\n\n\n“Other existing materials like paper or cotton or different foams; from synthetic foams like polyurethane or forms of cotton,” she said. “So like this, in all these existing materials we are giving new properties that these materials don't have so we can open up their application range.”\n\nThe first step will be robots with an outer ‘skin’ made from the new biodegradable plastic, said Athanassiou\n\n\"I believe that the starting point would be to make part of the robot, like the outer part of the robot for example, with this biodegradable material. But, in a few year's time, I find it very feasible that all the robot can be biodegradable,\" she said. “All the parts of the robot.”(KL)\n\nhttp://www.reuters.com/article/us-italy-smartmaterials-eco-robots-idUSKCN0UX25V\nhttp://www.iit.it/en/video/DirectTransformationofEdibleVegetableWasteintoBioplastics.html",
+        "metadata": {
+          "title": "Made in our image? Robots that decompose are on the way - bioplastics MAGAZINE",
+          "og:title": "Made in our image? Robots that decompose are on the way - bioplastics MAGAZINE",
+          "Description": "Here’s a robot story reported by Reuters a few days ago that puts a whole new perspective on the idea of designing for the end of ‘life’. ",
+          "og:description": "Here’s a robot story reported by Reuters a few days ago that puts a whole new perspective on the idea of designing for the end of ‘life’. ",
+          "Keywords": "vegetable waste, ITT, robots, eco-friendl, bioplastics",
+          "og:type": "article",
+          "article:published_time": "2016-01-26T16:10:41+01:00",
+          "og:published_time": "2016-01-26T16:10:41+01:00",
+          "og:image": "https://www.bioplasticsmagazine.com/bioplasticsmagazine-wAssets/img/news/walkman1-b18c21b976.jpg",
+          "og:url": "https://www.bioplasticsmagazine.com/en/news/meldungen/2016-01-26-Decomposing-robots.php"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des chercheurs de la plateforme Smart Materials de l'Institut italien de technologie (IIT) à Gênes développent des matériaux bioplastiques dérivés de déchets alimentaires industriels pour la robotique. Ces matériaux non toxiques et écologiques pourraient permettre de fabriquer des peaux robotiques flexibles avec des capteurs tactiles intégrés ainsi que des pièces internes, permettant à terme aux robots de se décomposer. Le chercheur Nikos Tsagarakis mentionne le projet Walk-Man, un robot humanoïde conçu pour utiliser des outils humains et interagir avec son environnement.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Athanassiou",
+          "Nikos Tsagarakis"
+        ],
+        "LOCATION": [
+          "Genoa",
+          "Italy"
+        ],
+        "ORGANIZATION": [
+          "Italian Institute of Technology",
+          "ITT",
+          "Smart Materials Group",
+          "Reuters",
+          "bioplastics MAGAZINE"
+        ],
+        "DATE": [
+          "2016-01-26",
+          "a few days ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Walk-Man",
+          "Smart Materials"
+        ]
+      },
+      "score_e5": 0.724057986665753
+    },
+    {
+      "titre": "Robot WALK-MAN ready for DARPA Robotics Challenge ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=QkIor_ifze8",
+      "image_url": "https://i.ytimg.com/vi/QkIor_ifze8/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzHNncotH1HxxxY5N8TKx1_b0Kdov-ajf15XN1KISex6sNpqD",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Robot WALK-MAN ready for DARPA Robotics Challenge ...",
+        "link": "https://www.youtube.com/watch?v=QkIor_ifze8",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzHNncotH1HxxxY5N8TKx1_b0Kdov-ajf15XN1KISex6sNpqD",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/QkIor_ifze8/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Robot WALK-MAN ready for DARPA Robotics Challenge\n\nPetarKormushev\n\nOur robot WALK-MAN is getting ready for the DARPA Robotics Challenge 2015The robot was designed and built by the Italian Institute of Technology (IIT) and Un...",
+        "metadata": {
+          "title": "Robot WALK-MAN ready for DARPA Robotics Challenge",
+          "description": "Our robot WALK-MAN is getting ready for the DARPA Robotics Challenge 2015The robot was designed and built by the Italian Institute of Technology (IIT) and Un...",
+          "keywords": "Robot, WALK-MAN, WALKMAN, DARPA, DRC, Robotics, Challenge, Humanoid",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=QkIor_ifze8",
+          "og:title": "Robot WALK-MAN ready for DARPA Robotics Challenge",
+          "og:image": "https://i.ytimg.com/vi/QkIor_ifze8/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Our robot WALK-MAN is getting ready for the DARPA Robotics Challenge 2015The robot was designed and built by the Italian Institute of Technology (IIT) and Un...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=QkIor_ifze8&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=QkIor_ifze8&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=QkIor_ifze8&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/QkIor_ifze8",
+          "og:video:secure_url": "https://www.youtube.com/embed/QkIor_ifze8",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "Humanoid",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Robot WALK-MAN ready for DARPA Robotics Challenge",
+          "twitter:description": "Our robot WALK-MAN is getting ready for the DARPA Robotics Challenge 2015The robot was designed and built by the Italian Institute of Technology (IIT) and Un..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le robot humanoïde WALK-MAN, conçu et construit par l'Institut italien de technologie (IIT), se prépare pour le DARPA Robotics Challenge 2015.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "PetarKormushev"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Italian Institute of Technology",
+          "IIT",
+          "YouTube"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [
+          "DARPA Robotics Challenge"
+        ],
+        "OTHER": [
+          "WALK-MAN"
+        ]
+      },
+      "score_e5": 0.7602702569658621
+    },
+    {
+      "titre": "Walk-Man humanoid robot could be future of dangerous work",
+      "source": "SMH",
+      "lien": "https://www.smh.com.au/technology/walkman-humanoid-robot-could-be-future-of-dangerous-work-20151130-glb21s.html",
+      "image_url": "https://static.ffx.io/images/$zoom_1,$multiply_0.9312,$ratio_1.777778,$width_799,$x_30,$y_0/t_crop_custom/q_86,f_auto/f1a4deb91b71fc7510ab22a4ce58fa3c9cf69e59",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsahATQ_hJawQ_JonFn62pBX0Bv99TVKz-zdAZJV_uo3OXqPAW",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Walk-Man humanoid robot could be future of dangerous work",
+        "link": "https://www.smh.com.au/technology/walkman-humanoid-robot-could-be-future-of-dangerous-work-20151130-glb21s.html",
+        "source": "SMH",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQztx7JxHxwnI4zipuPQTAYU4EmQESmXAhNh8dKifomGfbkCO4wA5vVAnjp18G0M8bCRjz0maVsDb6VOy98FVLxQB_wSw6T6OQ3m49C22Sf89_fhw",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsahATQ_hJawQ_JonFn62pBX0Bv99TVKz-zdAZJV_uo3OXqPAW",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://static.ffx.io/images/$zoom_1,$multiply_0.9312,$ratio_1.777778,$width_799,$x_30,$y_0/t_crop_custom/q_86,f_auto/f1a4deb91b71fc7510ab22a4ce58fa3c9cf69e59",
+        "image_width": 419,
+        "image_height": 744
+      },
+      "webpage": {
+        "text": "Walk-Man humanoid robot could be future of dangerous work\n\nThis was published 10 years ago\n\nMatthew Stock\n\nUpdated November 30, 2015 — 8:27am,first published 8:00am\n\nIn a world designed to accommodate the shape of the human body, anthropomorphic robots could have advantages over wheeled and animal-shaped robots that could help them integrate into society more easily.\n\nScientists from the Istituto Italiano di Tecnologia (Italian Institute of Technology) and University of Pisa in Italy have developed a humanoid robot that can operate human tools and interact with its environment in the same way a person would. They hope their Walk-Man robot will prove a more effective design for search and rescue scenarios where it's too dangerous for humans to venture.\n\nLead researcher Nikos Tsagarakis believes the world won't need to be adapted to accommodate Walk-Man, meaning it could eventually operate in damaged buildings; turning a heavy valve or lifting collapsed masonry, for example.\n\n\"There's one factor that everyone agrees, that actually our world, our environment it was designed for our body basically. So, we have tools that are designed to be grasped by humanoid, human hands. You have also areas or access paths that are actually appropriate for our body forms. So it means that if you build a robot that has a very similar form, you need to adapt less the environment in order to have this robot operational within such a space,\" Tsagarakis said.\n\nTo effectively navigate through tricky environments, Walk-Man uses all its limbs to demonstrate whole-body motion dynamics. Using its hands, arms, legs and feet, Walk-Man can maintain a more stable and balanced motion by reaching out to support itself while overcoming obstacles.\n\nTsagarakis says their aim is to make the Walk-Man robot demonstrate human type locomotion, balance and manipulation capabilities.\n\n\"We believe that — as humans also do — that legs are not only enough. You have to use also the arms, you have to be able to grasp the environment and actually assist your locomotion by creating additional contacts with the environmental balance,\" he said.\n\n\"This will make a big difference in humanoids where currently the technology is limited to the solutions that provide the balance basically only using the lower body. Upper body is also important; especially if you want to pass through cluttered spaces and structural grounds and so on.\"\n\nWalk-Man stands more than six feet tall (1.85 metres), with an arm span of two metres and a weight of 118 kilograms. Its head module is equipped with a stereo vision system and a rotating 3D laser scanner to help it make sense of its environment.\n\nThe researchers are working towards algorithms that will allow more rapid manipulation skills, combined with reflexive behaviours that will allow the robot to cope with uneven terrain and rapid start and stop gait transitions.\n\nEventually they want the robot to have sufficient perception and cognitive ability to permit it to operate autonomously. However, the plan is for a human operator to remotely take control of it when more advanced problem solving is needed.\n\n\"The idea with this robot is that will always be some pilots at the back, that will be remotely placed and actually guide the robot in any case that a decision needs to be made. The robot will transfer data, like perception data, back to the operator, and the operator will take the actions and decide what is the next movement for the robot,\" said Tsagarakis.\n\nTheir aim is not necessarily to make the robot faster because that increases the likelihood of accidents, he said.\n\n\"When the robot is going slow it is actually easier than when trying to be more aggressive and go fast. In structural environments like those after physical disasters, you have also the possibility that these robots would collide accidentally with the environment. And the faster you move, the harder will be the impact forces. Which means again that you may have issues that you could face with actual hardware robustness,\" said Tsagarakis, adding that they are focused on making Walk-Man even more dextrous and improving its robust balanced locomotion.\n\nThe first prototype of the Walk-Man robot took part in the DARPA Robotics Challenge finals in June, where teams from around the world showcased robots capable of assisting humans in responding to natural and man-made disasters.\n\nReuters\n\n\nFrom our partners",
+        "metadata": {
+          "description": "In a world designed to accommodate the shape of the human body, anthropomorphic robots could have advantages over wheeled and animal-shaped robots that could help them integrate into society more easily.",
+          "title": "Walk-Man humanoid robot could be future of dangerous work",
+          "article:section": "walkman-humanoid-robot-could-be-future-of-dangerous-work-20151130-glb21s.html",
+          "article:published_time": "2015-11-29T21:00:29.000+00:00",
+          "article:modified_time": "2015-11-29T21:27:34.686+00:00",
+          "og:description": "In a world designed to accommodate the shape of the human body, anthropomorphic robots could have advantages over wheeled and animal-shaped robots that could help them integrate into society more easily.",
+          "og:image": "https://static.ffx.io/images/$zoom_1%2C$multiply_1.0013%2C$ratio_1.777778%2C$width_799%2C$x_30%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202015%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/f1a4deb91b71fc7510ab22a4ce58fa3c9cf69e59",
+          "og:image:alt": "The Sydney Morning Herald logo",
+          "og:image:width": "800",
+          "og:image:height": "450",
+          "og:image:secure_url": "https://static.ffx.io/images/$zoom_1%2C$multiply_1.0013%2C$ratio_1.777778%2C$width_799%2C$x_30%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202015%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/f1a4deb91b71fc7510ab22a4ce58fa3c9cf69e59",
+          "og:locale": "en_AU",
+          "og:site_name": "The Sydney Morning Herald",
+          "og:title": "Walk-Man humanoid robot could be future of dangerous work",
+          "og:url": "https://www.smh.com.au/technology/walkman-humanoid-robot-could-be-future-of-dangerous-work-20151130-glb21s.html",
+          "twitter:description": "In a world designed to accommodate the shape of the human body, anthropomorphic robots could have advantages over wheeled and animal-shaped robots that could help them integrate into society more easily.",
+          "twitter:title": "Walk-Man humanoid robot could be future of dangerous work",
+          "author": "Matthew Stock"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "dateModified": "2015-11-29T21:27:34.686Z",
+          "datePublished": "2015-11-29T21:00:29Z",
+          "description": "In a world designed to accommodate the shape of the human body, anthropomorphic robots could have advantages over wheeled and animal-shaped robots that could help them integrate into society more easily.",
+          "headline": "Walk-Man humanoid robot could be future of dangerous work",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Matthew Stock"
+            }
+          ],
+          "mainEntityOfPage": {
+            "@id": "https://www.smh.com.au/technology/walkman-humanoid-robot-could-be-future-of-dangerous-work-20151130-glb21s.html",
+            "@type": "WebPage"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "height": "1322.6666666666665",
+            "url": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.9312%2C$ratio_1.777778%2C$width_799%2C$x_30%2C$y_0/t_crop_custom/q_86%2Cf_auto/f1a4deb91b71fc7510ab22a4ce58fa3c9cf69e59",
+            "width": "744"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "isAccessibleForFree": false,
+              "cssSelector": ".paywall"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "The Sydney Morning Herald",
+            "logo": {
+              "@type": "ImageObject",
+              "height": "628",
+              "url": "https://www.smh.com.au/metro-assets/assets/static/smh.png",
+              "width": "1200"
+            },
+            "url": "https://www.smh.com.au"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Sydney Morning Herald",
+            "productID": "smh.com.au:webonly"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des scientifiques de l'Istituto Italiano di Tecnologia (Institut italien de technologie) et de l'Université de Pise en Italie ont développé le robot humanoïde Walk-Man pour des scénarios de recherche et de sauvetage dans des environnements dangereux. Mesurant plus de 1,85 mètre pour 118 kilogrammes, il utilise tous ses membres (mains, bras, jambes, pieds) pour se déplacer, garder l'équilibre et manipuler des objets. Sa tête est équipée d'un système de vision stéréoscopique et d'un scanner laser 3D rotatif.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Matthew Stock",
+          "Nikos Tsagarakis"
+        ],
+        "LOCATION": [
+          "Italy"
+        ],
+        "ORGANIZATION": [
+          "Istituto Italiano di Tecnologia",
+          "Italian Institute of Technology",
+          "University of Pisa",
+          "SMH"
+        ],
+        "DATE": [
+          "November 30, 2015",
+          "10 years ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Walk-Man"
+        ]
+      },
+      "score_e5": 0.7187626332004279
+    },
+    {
+      "titre": "Try, Robot: Darpa contest sends new humanoids into 'nuclear ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2015/jun/06/robot-darpa-contest-humanoids-nuclear-reactor",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/6/1433600811123/6b4d8571-96c2-4f6c-955d-7066de378ab4-2060x1236.jpeg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TfSmAnACgTnTlHKWinJyQ6-SfCTJ8_HppevWDwaYkMD-0030",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Try, Robot: Darpa contest sends new humanoids into 'nuclear ...",
+        "link": "https://www.theguardian.com/technology/2015/jun/06/robot-darpa-contest-humanoids-nuclear-reactor",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TfSmAnACgTnTlHKWinJyQ6-SfCTJ8_HppevWDwaYkMD-0030",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/6/1433600811123/6b4d8571-96c2-4f6c-955d-7066de378ab4-2060x1236.jpeg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 279,
+        "image_height": 465
+      },
+      "webpage": {
+        "text": "Try, Robot: Darpa contest sends new humanoids into 'nuclear reactor' | Robots\n\nRobots are terrible drivers.\n\nThe one that had just navigated a smooth stretch of road a few hundred feet long had taken 15 minutes to do so, and it didn’t really fit behind the wheel of the little red chrome four-wheeler, a sort of all-terrain golf cart called a Polaris Ranger. Instead, the robot had wedged itself across two seats and had to be winched out of the car with a chain hanging from a pulley system at the top of a big rolling frame. It had also had a hard time with the turns.\n\n“Come on!” yelled an Italian woman sitting in her team’s section of the stadium. “Go, Walk-Man!”\n\nA team of concerned-looking European engineers in mod blue hard hats were chatting and staring worriedly at Walk-Man, a hulking metal thing with bright LED lights on either side of its head, as it stood at the threshold of a fake nuclear reactor. A moment earlier, there had been raucous cheering throughout the Fairplex, formerly the Los Angeles County Fairgrounds, in Pomona, California, for Walk-Man had done the nearly impossible: he had opened a door.\n\nNow, Walk-Man looked tentative, as though having second thoughts about whether or not to step over the threshold.\n\nOn Friday and Saturday, the Darpa Robotics Challenge – the “Robolympics”, unofficially, according to a couple of engineers laughing next to the Trac Labs garage, where a Boston Dynamics Atlas humanoid dangled from a scaffold – completes its final competition, with 25 teams of engineers and scientists giving orders to huge machines trundling across a landscape designed to simulate the impassible environment that greeted aid workers after the Fukushima Daiichi reactor in Japan melted down multiple times in 2011.\n\nEngineers tried to help, but no robots could navigate the hazardous terrain and disaster ensued, rendering a huge area around the plant uninhabitable after toxic steam exploded into the skies. The radioactive leftovers are still emitting a million watts of heat.\n\nIf a Darpa contestant is able to navigate the terrain successfully, and in a short amount of time (each team has an hour to run the course) it will become the richest robot in town: first prize is $2m, second prize is $1m, and third gets $500,000.\n\nThe public event is a cross between the Consumer Electronics Show and an episode of Mythbusters. Inside the Fairplex, the stands were filled on Friday with people cheering for their favorite androids. Outside was a big expo with kids running around playing with (or staring terrified at) all kinds of robots: some dancing, some playing music, some swimming in a giant tank where they can be piloted with a video game controller. One company, Ekso, makes robotic trousers that make it easier to carry a backpack.\n\nThe purpose of the main event, however, is deadly serious.\n\n“The idea, inspired by Fukushima, is to come up with a simulation of a disaster that is like [that],” said Dr Gill Pratt, the avuncular, eloquent director of the Tactical Technology Office (TTO) program at Darpa that oversees the project.\n\nDarpa is the Defense Advanced Research Projects Agency, the arm of the US Defense Department that is responsible in large part for the creation of the computer network, Arpanet, that became the internet.\n\n“The teams will not have any human help for the robots themselves, and the key element, again, is between the human controllers and the robot is a very degraded communication link,” Pratt explained.\n\nFrom the stands in front of Walk-Man, communication appeared to degrade earlier than scheduled. The robot on the track next to Walk-Man, HRP-2, stood at the same phase in its trial, in front of its own door. Something went wrong, however, and it collapsed. Simultaneously, Walk-Man’s legs folded and the blue lights on either side of its head went out. It looked exactly like Walk-Man had fainted.\n\nThis was a Wi-Fi problem, explained Darwin Caldwell, a Northern Irish engineer working on Walk-Man out of its home base, the Italian Institute of Technology (IIT). HRP-2’s kill switch had somehow killed Walk-Man too.\n\nCaldwell, who lives in Manchester and commutes to Genoa, where the IIT and Walk-Man live, was annoyed about the snafu, though not with his competitors – despite the competition, engineers tend to lend each other tools and advice, and to blame bureaucracy for any mistakes.\n\nCaldwell’s project, which cost some $400,000 in parts alone, is primarily funded by the European Union. The Walk-Man project has been going on for four years, with goals similar to Darpa’s stated intentions of developing disaster-relief androids – though the robot itself is one of the youngest in the competition, having been around for only four months.\n\n“Particularly when you need to improvise, the environment you’re going into is a human environment, and a humanoid robot is designed to take on a human environment and we can adapt to it like humans,” Caldwell said.\n\n“If you’ve got a quadruped robot, or a robot with wheels, it’s not really designed for that environment, so it might be able to adapt. But we know humans can go in there. We know humans can do that. That’s one thing we’re certain of.”",
+        "metadata": {
+          "title": "Try, Robot: Darpa contest sends new humanoids into 'nuclear reactor' | Robots | The Guardian",
+          "description": "At an event that combines the feel of a trade fair with a Mythbusters episode, robots compete in navigating simulation of Japan’s Fukushima Daiichi plant",
+          "og:url": "http://www.theguardian.com/technology/2015/jun/06/robot-darpa-contest-humanoids-nuclear-reactor",
+          "article:author": "https://www.theguardian.com/profile/sam-thielman",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/6/1433600811123/6b4d8571-96c2-4f6c-955d-7066de378ab4-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=cc0a8079eb9a156f8936f35db81ba88b",
+          "al:ios:url": "gnmguardian://technology/2015/jun/06/robot-darpa-contest-humanoids-nuclear-reactor?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Try, Robot: Darpa contest sends new humanoids into 'nuclear reactor'",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-07-14T21:03:39.000Z",
+          "og:image:height": "720",
+          "og:description": "At an event that combines the feel of a trade fair with a Mythbusters episode, robots compete in navigating simulation of Japan’s Fukushima Daiichi plant",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2015-06-06T15:02:24.000Z",
+          "article:tag": "Robots,Technology,US military,US news,California,World news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le robot Walk-Man de l'équipe européenne participe au DARPA Robotics Challenge au Fairplex de Pomona en Californie, un concours inspiré par la catastrophe de Fukushima Daiichi en Japan en 2011. Le robot a réussi à ouvrir une porte lors de l'événement.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Gill Pratt"
+        ],
+        "LOCATION": [
+          "Pomona",
+          "California",
+          "Los Angeles",
+          "Japan"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Polaris",
+          "Trac Labs",
+          "Boston Dynamics",
+          "Ekso"
+        ],
+        "DATE": [
+          "Friday",
+          "Saturday",
+          "2011"
+        ],
+        "EVENT": [
+          "DARPA Robotics Challenge",
+          "Fukushima Daiichi reactor"
+        ],
+        "OTHER": [
+          "Walk-Man",
+          "Polaris Ranger",
+          "Atlas",
+          "Consumer Electronics Show",
+          "Mythbusters"
+        ]
+      },
+      "score_e5": 0.7975468782760453
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Pomona",
+      "California",
+      "Los Angeles"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "robots"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Fast Company",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Walk-Man",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Athanassiou",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nikos Tsagarakis",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Genoa",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Italian Institute of Technology",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ITT",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Smart Materials Group",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "bioplastics MAGAZINE",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-01-26",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "a few days ago",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Smart Materials",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Petar Kormushev",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IIT",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "DARPA Robotics Challenge",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matthew Stock",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Istituto Italiano di Tecnologia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of Pisa",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SMH",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 30, 2015",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10 years ago",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gill Pratt",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pomona",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Los Angeles",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Polaris",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Trac Labs",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boston Dynamics",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ekso",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Fukushima Daiichi reactor",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Polaris Ranger",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Atlas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Consumer Electronics Show",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Mythbusters",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:10:26.791801"
+  }
+}

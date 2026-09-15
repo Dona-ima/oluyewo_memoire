@@ -1,0 +1,965 @@
+{
+  "id_rumeur": 626280,
+  "id_image": 920486,
+  "caption": "An Iraqi boy tries to flee to a safe area with help from Iraqi security forces in Ramadi on Thursday",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748702/oluyewo_benchmark/ytq7xrgsaffigjjwpmcz.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Kurds accused of \"ethnic cleansing\" by Syria rebels in ISIS ...",
+      "source": "CBS News",
+      "lien": "https://www.cbsnews.com/news/kurds-accused-ethnic-cleansing-syria-rebels-isis/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2015/06/15/60320591-dedf-41d4-8ec9-6fa2cb0bbfe8/thumbnail/1200x630/58bfed24125b01bb8afbabc08b288d2b/syria477224938.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVv4qAgkv5yoZeDxa2gieuwUXa0B2BpXbE82PkXiTG-sXgOki-A7A87utraRELUa-D",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Kurds accused of \"ethnic cleansing\" by Syria rebels in ISIS ...",
+        "link": "https://www.cbsnews.com/news/kurds-accused-ethnic-cleansing-syria-rebels-isis/",
+        "source": "CBS News",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUhISH___8AAABra2sYGBgVFRUeHh7o6OjFxcXg4OD6-vqzs7NcXFwMDAyVlZVOTk7u7u7Ly8v09PSJiYnT09NZWVm6urpsbGykpKStra1hYWFAQECZmZkPDw9HR0dSUlKEhISDyBMYAAABDklEQVQ4ja1T7XKDIBDkFsGIoMRoYq02ef-nDERU1EzsdHp_gNud-1wY-09LECx5Cws0eaaIVJZriD0OntJsKccGljjRyk6QazyljaVDzNjjjhFlmeKfC16WvDhPWeb6uX9XF-BSW1sX7lTec5t6gXWvFmhUiK6BL3fYECLRL59olvzdgM47x4khJ_oeJNRCICNNSZSPIZBRZ5jp4xZa5-CUBQJd3QV1TPAQrjQRjJsJqphQOUiKI8JAv00xFlnEhH5V5KtNFrepIM3P3GbiZ9JA3BeCFtDLoMZR98A9xFAN0EajZuLm3fYRluWXVq2Wdbju94KxsegOJXcoWraRvd3J3vcC_fHjsMOv91d7AuR8DC_NqwRFAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVv4qAgkv5yoZeDxa2gieuwUXa0B2BpXbE82PkXiTG-sXgOki-A7A87utraRELUa-D",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2015/06/15/60320591-dedf-41d4-8ec9-6fa2cb0bbfe8/thumbnail/1200x630/58bfed24125b01bb8afbabc08b288d2b/syria477224938.jpg",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Article de CBS News intitulé 'Kurds accused of \"ethnic cleansing\" by Syria rebels in ISIS'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Syria"
+        ],
+        "ORGANIZATION": [
+          "CBS News",
+          "ISIS"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Kurds",
+          "rebels"
+        ]
+      },
+      "score_e5": 0.7356231833498751
+    },
+    {
+      "titre": "Global cost of conflict reaches $14.3tn, says report | Conflict ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/global-development/2015/jun/16/global-cost-conflict-reaches-14tn-says-report",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/16/1434470589460/47e69a87-3b93-4db9-bc21-b69c9936bf10-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&s=3ac51b46174fd1b3e872c270d713057c",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYAuUZ9paoxjHXximOvGjzhChhu_XBTPmRHYpjfZon9Jrk344nHgrjqpXcYX0V9y6",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Global cost of conflict reaches $14.3tn, says report | Conflict ...",
+        "link": "https://www.theguardian.com/global-development/2015/jun/16/global-cost-conflict-reaches-14tn-says-report",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8eff0ab7942f15469edd6c/images/PlF9u6ViecrR4fug3x_3CTw9-Lf70A4x1KrPjTIhRaE.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYAuUZ9paoxjHXximOvGjzhChhu_XBTPmRHYpjfZon9Jrk344nHgrjqpXcYX0V9y6",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/16/1434470589460/47e69a87-3b93-4db9-bc21-b69c9936bf10-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&s=3ac51b46174fd1b3e872c270d713057c",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Global cost of conflict reaches $14.3tn, says report | Conflict and arms\n\nThe world’s steady shift away from peace and into conflict inflicted a $14.3tn (£9.21tn) cost on the global economy last year, as nations ramped up military spending and more people were driven from their jobs, according to the latest Global Peace Index (GPI).\n\nFighting in Syria, Iraq and Afghanistan had wreaked havoc on economies and helped push the level of peace in the world to its lowest since 2008, the index showed. Providing services for refugees and internally displaced people was one of the biggest costs of last year’s violence.\n\nIn 2014, the world spent 13.4% of its gross domestic product (GDP) on costs associated with violence, equivalent to the total economic output of Brazil, Canada, France, Germany, Spain and the UK, according to the GPI. More than $3tn was poured into military spending.\n\nSyria kept its spot as the world’s least peaceful country. Libya, which has seen deepening sectarian conflict since the fall of Muammar Gaddafi in 2011, slipped more than any other country in the rankings over the past year, followed by Ukraine, Niger, Djibouti and South Sudan.\n\nThe index, published annually since 2008, ranks 162 countries on 23 indicators with the aim of painting a portrait of each country’s level of security, conflict engagement and militarisation. This year’s index showed that 81 countries have become more peaceful in the past year, while 78 registered deepening violence.\n\n“We use the absence of violence or fear of violence as the definition of peace,” said Steve Killelea, the founder and executive chairman of the Institute for Economics and Peace (IEP) thinktank, which produces the GPI. Internal and external measures of peacefulness are assessed by an expert panel against themes of militarisation, ongoing conflict and societal and safety measures.\n\nThe 2015 index shows “an inequality in peace” – with the world’s most peaceful countries showing the most improvements in peacefulness, while the least peaceful countries descending into further violence, said Killelea.\n\nThe biggest deteriorations in peace resulted from a rise in the number of refugees and in more deaths from internal conflicts. The number of deaths has increased from 50,000 in 2008 to 180,000 last year, Killelea said.\n\nBut there were encouraging improvements in political stability, he said. Guinea-Bissau, praised in March by the EU for restoring its constitution and holding elections, showed the biggest improvement in this year’s index. Ivory Coast, Egypt, Tajikistan and Benin were among the most reformed countries.\n\nHowever, prolonged conflict continues to pose grave economic problems. The conflict in Syria, where a civil war has been raging for four years, was estimated to have absorbed 42% of the country’s GDP. Afghanistan spent 31% of its GDP on containing violence, while Iraq spent 30%.\n\nIceland came top of the 2015 index, followed by Denmark, Austria, New Zealand, Switzerland, Finland, Canada, Japan, Australia and the Czech Republic. The UK ranked 39th, eight spots better than last year. The US came in at 94th place, one spot above Saudi Arabia. Europe was the most peaceful region.\n\nSyria, Iraq, Afghanistan, South Sudan and Central African Republic were the bottom five countries in the index.\n\nThe Middle East and north Africa bore the highest cost of violence.\n\nBut Killelea cautioned that “one has to be realistic when looking at trying to measure a complex phenomena such as peace and doing it across the globe”, admitting that gaps in data do exist.\n\nThe 2015 GPI showed fewer conflicts between states and more within states. Last year, external conflicts were responsible for 74% fewer deaths than in 2008, the GPI showed.\n\nKillelea warned that the rise in violence carried out by terrorist groups is likely to worsen in the coming years. Terrorist networks have expanded their scope of operations and carried out 61% more killings last year than in 2008.\n\nHe said Nigeria, which suffers the second-most terrorists attacks of any country, would bear the brunt of more terrorist violence. “We’re going to see a massive increase in the deaths resulting from Boko Haram,” he said, referring to Nigeria’s Islamist insurgency.",
+        "metadata": {
+          "title": "Global cost of conflict reaches $14.3tn, says report | Conflict and arms | The Guardian",
+          "description": "Global Peace Index shows wars wreaking havoc on economies as world spends more than 13% of GDP on costs related to violence",
+          "og:url": "http://www.theguardian.com/global-development/2015/jun/16/global-cost-conflict-reaches-14tn-says-report",
+          "article:author": "https://www.theguardian.com/profile/mark-anderson",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/16/1434470589460/47e69a87-3b93-4db9-bc21-b69c9936bf10-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=0232caab330457cf4445a1987043a926",
+          "al:ios:url": "gnmguardian://global-development/2015/jun/16/global-cost-conflict-reaches-14tn-says-report?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Global cost of conflict reaches $14.3tn, says report",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2022-10-19T16:16:59.000Z",
+          "og:image:height": "720",
+          "og:description": "Global Peace Index shows wars wreaking havoc on economies as world spends more than 13% of GDP on costs related to violence",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Global development",
+          "article:published_time": "2015-06-17T04:01:08.000Z",
+          "article:tag": "Conflict and arms,Global development,World news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Rapport du Global Peace Index (GPI) publié par le thinktank Institute for Economics and Peace (IEP) indiquant que le coût mondial des conflits a atteint 14,3 billions de dollars l'année dernière, avec des combats en Syrie, en Irak et en Afghanistan. La Libye a connu une baisse importante de son classement après la chute de Mouammar Kadhafi en 2011, suivie par l'Ukraine, le Niger, Djibouti et le Sud-Soudan. L'Islande est arrivée en tête de l'indice 2015, suivie par le Danemark, l'Autriche, la Nouvelle-Zélande, la Suisse, la Finlande, le Canada et le Japon.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Muammar Gaddafi",
+          "Steve Killelea"
+        ],
+        "LOCATION": [
+          "Syria",
+          "Iraq",
+          "Afghanistan",
+          "Brazil",
+          "Canada",
+          "France",
+          "Germany",
+          "Spain",
+          "UK",
+          "Libya",
+          "Ukraine",
+          "Niger",
+          "Djibouti",
+          "South Sudan",
+          "Guinea-Bissau",
+          "Ivory Coast",
+          "Egypt",
+          "Tajikistan",
+          "Benin",
+          "Iceland",
+          "Denmark",
+          "Austria",
+          "New Zealand",
+          "Switzerland",
+          "Finland",
+          "Japan"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Institute for Economics and Peace"
+        ],
+        "DATE": [
+          "2015",
+          "last year",
+          "2008",
+          "2014",
+          "2011",
+          "March"
+        ],
+        "EVENT": [
+          "Global Peace Index"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6877736616740798
+    },
+    {
+      "titre": "Nigel Farage says people fleeing war-torn Syria aren't ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/news/uk/politics/nigel-farage-says-people-fleeing-wartorn-syria-aren-t-necessarily-refugees-10480545.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/08/30/21/Syrain-Refugees-Getty.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Iuw8nYvB1Au4IOCog9F3_8loHYa3znkH99vUJ9Uh7xZQJ25uQTGu3uNnreCSk5_b",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Nigel Farage says people fleeing war-torn Syria aren't ...",
+        "link": "https://www.independent.co.uk/news/uk/politics/nigel-farage-says-people-fleeing-wartorn-syria-aren-t-necessarily-refugees-10480545.html",
+        "source": "The Independent",
+        "source_icon": "https://serpapi.com/searches/6a8eff0ab7942f15469edd6c/images/r-MGj9Bte5MJts0N2dj54mwzphiNj_MC-pKTKU43Fz8.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Iuw8nYvB1Au4IOCog9F3_8loHYa3znkH99vUJ9Uh7xZQJ25uQTGu3uNnreCSk5_b",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/08/30/21/Syrain-Refugees-Getty.jpg",
+        "image_width": 1536,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Nigel Farage says people fleeing war-torn Syria aren’t necessarily refugees | The Independent\n\nPeople fleeing war-torn Syria for the safety of Europe are not necessarily refugees, Ukip’s leader has suggested, claiming that the EU is potentially opening its door to \"millions and millions\" of refugees.\n\nNigel Farage said the UK had “lost sight” of what a refugee was and that the definition used should be narrowed to reduce numbers.\n\n“Genuine refugees have tended to be groups of people, ethnic groups or religious groups who were directly under persecution and were fleeing in fear of their lives,” he told BBC Radio 4’s Today programme on Tuesday.\n\n“The problem we’ve got now if you look at the definition of the EU’s common asylum policy if includes anyone fleeing from a war torn country and it even includes people fleeing extreme poverty.”\n\n\nMr Farage said the definition of who was a refugee was dependent on how many people European countries wanted to arrive.\n\n“The problem we’ve got is we’ve opened the door to an exodus of biblical proportions meaning millions and millions of refugees. We’ve lost sight of what it is to be a refugee. How many millions does Europe want to take? That is the question.”\n\nThe eurosceptic politician said the UK should step up intrusive checks on cars and lorries to make it more difficult to cross borders.\n\nHe said he had not changed his mind on previous statements that the UK should ultimately accept some asylum seekers from Syria, but that this was unlikely to be possible in the short-term.\n\nGermany is set to take 800,000 refugees as part of a drive to help people fleeing conflict in Syria, Eritrea, and other areas.\n\nBy comparison, David Cameron this summer said Britain would take just “a few hundred”.\n\nOf the roughly 4 million people who have fled Syria due to the conflict around 98.3 per cent are stuck in neighbouring Lebanon, Jordan, Iraq, Egypt and Turkey.\n\nThe UK has refused to sign up to a UN scheme which calls for Western governments to accept at least 100,000 each. The UK has however delivered around £800m aid on the ground to Syria.",
+        "metadata": {
+          "fb:app_id": "235586169789578",
+          "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+          "description": "He says the definition should be narrower",
+          "og:updated_time": "2015-09-01T09:39:35.000Z",
+          "article:published_time": "2015-09-01T09:39:35.000Z",
+          "article:modified_time": "2015-09-01T09:39:35.000Z",
+          "date": "2015-09-01T09:39:35.000Z",
+          "og:site_name": "The Independent",
+          "article:section": "News",
+          "article:subsection": "UK",
+          "article:category": "News",
+          "article:author_name": "Jon Stone",
+          "article:content_type": "story",
+          "article:word_count": "397",
+          "article:image_count": "2",
+          "article:embed_count": "1",
+          "article:video_count": "0",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "1",
+          "og:title": "Nigel Farage says people fleeing war-torn Syria aren’t necessarily",
+          "twitter:title": "Nigel Farage says people fleeing war-torn Syria aren’t necessarily",
+          "og:url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-says-people-fleeing-wartorn-syria-aren-t-necessarily-refugees-10480545.html",
+          "og:type": "article",
+          "og:description": "He says the definition should be narrower",
+          "twitter:description": "He says the definition should be narrower",
+          "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/08/30/21/Syrain-Refugees-Getty.jpg?width=1200&height=800&crop=1200:800",
+          "og:image:secure_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/08/30/21/Syrain-Refugees-Getty.jpg?width=1200&height=800&crop=1200:800",
+          "og:locale": "en_GB"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.independent.co.uk/img/logo.png",
+            "width": 504,
+            "height": 60
+          },
+          "sameAs": [
+            "https://twitter.com/Independent",
+            "https://www.facebook.com/TheIndependentOnline",
+            "https://www.youtube.com/theindependent"
+          ],
+          "@id": "independent.co.uk"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Déclarations de Nigel Farage selon lesquelles les personnes fuyant la Syrie déchirée par la guerre ne sont pas nécessairement des réfugiés au sens de la politique d'asile commune de l'UE. L'Allemagne prévoit d'accueillir 800 000 réfugiés, tandis que David Cameron a déclaré que la Grande-Bretagne n'en accueillerait que quelques centaines. Environ 4 millions de personnes ont fui la Syrie, la majorité se trouvant dans les pays voisins comme le Liban, la Jordanie, l'Irak, l'Égypte et la Turquie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nigel Farage",
+          "David Cameron"
+        ],
+        "LOCATION": [
+          "Syria",
+          "Europe",
+          "UK",
+          "Germany",
+          "Eritrea",
+          "Lebanon",
+          "Jordan",
+          "Iraq",
+          "Egypt",
+          "Turkey"
+        ],
+        "ORGANIZATION": [
+          "The Independent",
+          "Ukip",
+          "EU",
+          "BBC",
+          "UN"
+        ],
+        "DATE": [
+          "Tuesday",
+          "summer"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7028706266019175
+    },
+    {
+      "titre": "These countries are home to the highest proportion of ...",
+      "source": "SBS",
+      "lien": "https://www.sbs.com.au/news/dateline/article/these-countries-are-home-to-the-highest-proportion-of-refugees-in-the-world/de7v615ja",
+      "image_url": "https://assets.sbs.com.au/dims4/default/cdd214a/2147483647/strip/true/crop/5616x3159+0+296/resize/1280x720!/quality/90/?url=https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/drupal/news/public/gettyimages-477224938.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgX2VoRs9WRxXb0_lE-hVkbYBaHDzKNa5DzFmTMRk06sCUme7K_LB-U8lCdmuPKFoR",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "These countries are home to the highest proportion of ...",
+        "link": "https://www.sbs.com.au/news/dateline/article/these-countries-are-home-to-the-highest-proportion-of-refugees-in-the-world/de7v615ja",
+        "source": "SBS",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSXpDzNZ0C5CyzVUTZmFzs7JwRGYOhuDwFiyP2k87qQvw2ZtJnb0QEKshSIyInrs-srC2mSdNecKXd3KpOu70W3K-0avU3BZeUTrRZNV5tQFg2WYw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgX2VoRs9WRxXb0_lE-hVkbYBaHDzKNa5DzFmTMRk06sCUme7K_LB-U8lCdmuPKFoR",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://assets.sbs.com.au/dims4/default/cdd214a/2147483647/strip/true/crop/5616x3159+0+296/resize/1280x720!/quality/90/?url=https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/drupal/news/public/gettyimages-477224938.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "These countries are home to the highest proportion of refugees in the world\n\nPreview above: Dateline meets the refugees swapped in a deal between Australia and the United States. Watch the full episode here.\n\nBy the end of 2017, persecution, conflict and violence had forced 68.5 million people from their homes. \n\nThat figure – from the UNHCR’s 2018 Global Trends Report – includes 25.4 million refugees (over half of whom are under the age of 18), 3.1 million asylum-seekers and 40 million internally displaced people.\n\nThe number of people displaced by conflict and persecution is the highest on record with one in every 110 people worldwide either a refugee, an asylum-seeker or internally displaced.\n\n\nGood neighbours\n\n\nNews that makes sense\n\n\nYour trusted source for staying up-to-date with the world around you. Get free daily news updates and analysis, straight to your inbox.\n\nThe vast majority of refugees are living in middle- and low-income countries. While Turkey has the world’s largest refugee population, Lebanon and Jordan are hosting the highest number relative to population size.\n\nIn Lebanon there are 164 refugees per 1,000 inhabitants, which equates to one in six people. However, this figure excludes Palestinian refugees under the mandate of UNRWA, many of whom have lived in Lebanon since the 1950s. When this group is included, refugees make up a quarter of Lebanon’s population.\n\nMore from Statista.\n\nOne in every 14 people in Jordan is a refugee under the responsibility of the UNHCR. That increases to one in every three with the inclusion of Palestinian refugees under UNRWA.\n\nFor the fourth straight year, Turkey hosted more refugees – 3.5 million at the end of 2017 – than any other nation. Most of these people were fleeing the conflict in neighbouring Syria.\n\nIn terms of total numbers in 2017, Pakistan and Uganda were next, hosting 1.4 million refugees each.\n\nSince the start of the Syrian conflict in 2011, 6.31 million people have been forced to flee the country. That’s almost one-third of the world’s total refugee population.\n\nAt the end of 2017, two-thirds – 68 per cent – of all refugees were from just five countries: Syria, Afghanistan, South Sudan, Myanmar and Somalia.\n\nMore from Statista.\n\nUN estimates put the number of newly displaced people in that year at 16.2 million, which equates to around 44,400 people fleeing each day. \n\nThat total includes 11.8 million people who left home but remained within their own country. Internally displaced people made up more than 80 per cent of the nearly 5 million who returned to their homes or countries in 2017. Despite this, the global rate of forced migration remains at a record high and continues to outpace the returnee rate.\n\nFilippo Grandi, UN High Commissioner for Refugees, has called for a coordinated global effort to tackle the problem. “We are at a watershed, where success in managing forced displacement globally requires a new and far more comprehensive approach so that countries and communities aren’t left dealing with this alone,” he said.",
+        "metadata": {
+          "title": "These countries are home to the highest proportion of refugees in the world | SBS News",
+          "description": "In 2017, Australia had 48,482 refugees living in the country according to United Nations High Commissioner for Refugees at a rate of under two people per 1,000. But how does this compare to other countries?",
+          "apple-mobile-web-app-title": "SBS News",
+          "og:title": "These countries are home to the highest proportion of refugees in the world",
+          "og:description": "In 2017, Australia had 48,482 refugees living in the country according to United Nations High Commissioner for Refugees at a rate of under two people per 1,000. But how does this compare to other countries?",
+          "og:url": "https://www.sbs.com.au/news/dateline/article/these-countries-are-home-to-the-highest-proportion-of-refugees-in-the-world/de7v615ja",
+          "og:site_name": "SBS News",
+          "og:locale": "en_AU",
+          "og:image": "https://assets.sbs.com.au/dims4/default/cdd214a/2147483647/strip/true/crop/5616x3159+0+296/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fgettyimages-477224938.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:image:alt": "In 2017, Australia had 48,482 refugees living in the country according to United Nations High Commissioner for Refugees at a rate of under two people per 1,000. But how does this compare to other countries?",
+          "og:type": "article",
+          "article:author": "https://www.facebook.com/SBSAustralia/",
+          "twitter:title": "These countries are home to the highest proportion of refugees in the world",
+          "twitter:description": "In 2017, Australia had 48,482 refugees living in the country according to United Nations High Commissioner for Refugees at a rate of under two people per 1,000. But how does this compare to other countries?",
+          "al:ios:url": "sbsnews://news/dateline/article/these-countries-are-home-to-the-highest-proportion-of-refugees-in-the-world/de7v615ja",
+          "al:ios:app_store_id": "432849691",
+          "al:ios:app_name": "SBS News",
+          "al:android:url": "sbsnews://news/dateline/article/these-countries-are-home-to-the-highest-proportion-of-refugees-in-the-world/de7v615ja",
+          "al:android:app_name": "SBS News",
+          "al:android:package": "com.sbs.worldnewsaustralia"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.sbs.com.au/news",
+              "name": "SBS News",
+              "url": "https://www.sbs.com.au/news",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.sbs.com.au/_next/static/media/schema-logo.c388594d.png",
+                "width": "144",
+                "height": "144"
+              },
+              "sameAs": [
+                "https://www.facebook.com/sbsnews",
+                "https://twitter.com/sbsnews",
+                "https://www.instagram.com/sbsnews_au",
+                "https://www.youtube.com/user/WorldNewsAustralia",
+                "https://www.tiktok.com/@sbsnews_au",
+                "https://www.sbs.com.au/news/feeds",
+                "https://www.linkedin.com/showcase/sbs-news"
+              ],
+              "parentOrganization": {
+                "@id": "https://www.sbs.com.au",
+                "@type": "Organization",
+                "name": "Special Broadcasting Service (SBS)",
+                "url": "https://www.sbs.com.au"
+              },
+              "foundingDate": "1975",
+              "publishingPrinciples": "https://www.sbs.com.au/aboutus/sbs-code-of-practice/",
+              "diversityPolicy": "https://www.sbs.com.au/aboutus/how-we-operate/diversity-inclusion/",
+              "masthead": "https://www.sbs.com.au/news"
+            },
+            {
+              "imageAlt": "",
+              "@type": "Article",
+              "author": [
+                {
+                  "name": "Johnny Wood",
+                  "@type": "Person"
+                }
+              ],
+              "articleSection": "",
+              "dateCreated": "2019-04-09T06:07:11.000Z",
+              "datePublished": "2019-04-09T06:07:11.000Z",
+              "description": "In 2017, Australia had 48,482 refugees living in the country according to United Nations High Commissioner for Refugees at a rate of under two people per 1,000. But how does this compare to other countries?",
+              "dateModified": "2019-04-09T06:07:12.000Z",
+              "headline": "These countries are home to the highest proportion of refugees in the world",
+              "image": "https://assets.sbs.com.au/dims4/default/cdd214a/2147483647/strip/true/crop/5616x3159+0+296/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fgettyimages-477224938.jpg",
+              "thumbnailUrl": "https://assets.sbs.com.au/dims4/default/cdd214a/2147483647/strip/true/crop/5616x3159+0+296/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fgettyimages-477224938.jpg",
+              "articleBody": "By the end of 2017, persecution, conflict and violence had forced 68.5 million people from their homes.&amp;#xA0; That figure &amp;#x2013; from the&amp;#xA0; UNHCR’s 2018 Global Trends Report &amp;#xA0;&amp;#x2013; includes 25.4 million refugees (over half of whom are under the age of 18), 3.1 million asylum-seekers and 40 million internally displaced people. The number of people displaced by conflict and persecution is the highest&amp;#xA0;on record with one in every 110 people worldwide either a refugee, an asylum-seeker or internally displaced. The vast majority of refugees are living in middle- and low-income countries. While Turkey has the world&amp;#x2019;s largest refugee population, Lebanon and Jordan are hosting the highest number relative to population size. In Lebanon there are 164 refugees per 1,000 inhabitants, which equates to one in six people. However, this figure excludes Palestinian refugees under the mandate of&amp;#xA0; UNRWA , many of whom have lived in Lebanon since the 1950s. When this group is included, refugees make up a quarter of Lebanon&amp;#x2019;s population. One in every 14 people in Jordan is a refugee under the responsibility of the UNHCR. That increases to one in every three with the inclusion of Palestinian refugees under UNRWA. For the fourth straight year, Turkey hosted more refugees &amp;#x2013; 3.5 million at the end of 2017 &amp;#x2013; than any other nation. Most of these people were fleeing the conflict in neighbouring Syria. In terms of total numbers in 2017, Pakistan and Uganda were next, hosting 1.4 million refugees each. Since the start of the Syrian conflict in 2011, 6.31 million people have been forced to flee the country. That&amp;#x2019;s almost one-third of the world&amp;#x2019;s total refugee population. At the end of 2017, two-thirds &amp;#x2013;&amp;#xA0; 68 per cent &amp;#xA0;&amp;#x2013; of all refugees were from just five countries: Syria, Afghanistan, South Sudan, Myanmar and Somalia. UN estimates put the number of newly displaced people in that year at 16.2 million, which equates to around 44,400 people fleeing each day.&amp;#xA0; That total includes 11.8 million people who left home but remained within their own country. Internally displaced people made up more than 80 per cent of the nearly 5 million who returned to their homes or countries in 2017. Despite this, the global rate of forced migration remains at a record high and continues to outpace the returnee rate. Filippo Grandi, UN High Commissioner for Refugees, has called for a coordinated global effort to tackle the problem. &amp;#x201C;We are at a watershed, where success in managing forced displacement globally requires a new and far more comprehensive approach so that countries and communities aren&amp;#x2019;t left dealing with this alone,&amp;#x201D; he said.",
+              "publisher": {
+                "@id": "https://www.sbs.com.au/news"
+              },
+              "url": "https://www.sbs.com.au/news/dateline/article/2019/04/09/these-countries-are-home-highest-proportion-refugees-world"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Rapport mondial sur les tendances 2018 du HCR indiquant que 68,5 millions de personnes ont été déplacées de chez elles en raison de la persécution, des conflits et de la violence d'ici la fin de 2017. La Turquie abrite la plus grande population de réfugiés au monde, tandis que le Liban et la Jordanie accueillent le plus grand nombre par rapport à leur population. D'autres pays comme le Pakistan et l'Ouganda ont également accueilli 1,4 million de réfugiés chacun. Les deux tiers des réfugiés provenaient de cinq pays : la Syrie, l'Afghanistan, le Sud-Soudan, le Myanmar et la Somalie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Filippo Grandi"
+        ],
+        "LOCATION": [
+          "Australia",
+          "United States",
+          "Turkey",
+          "Lebanon",
+          "Jordan",
+          "Pakistan",
+          "Uganda",
+          "Syria",
+          "Afghanistan",
+          "South Sudan",
+          "Myanmar",
+          "Somalia"
+        ],
+        "ORGANIZATION": [
+          "SBS",
+          "UNHCR",
+          "UNRWA"
+        ],
+        "DATE": [
+          "2017",
+          "2018",
+          "1950s",
+          "2011"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6767511451934577
+    },
+    {
+      "titre": "A psychologist explains the limits of human compassion | Vox",
+      "source": "Vox",
+      "lien": "https://www.vox.com/explainers/2017/7/19/15925506/psychic-numbing-paul-slovic-apathy",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8870227/GettyImages_477224938.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ2JhNXwEcIGx5LtLZ1896gfNhIl91REkIBwPrI_5279z2ThU3txqzvXF9WxalFo8A",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "A psychologist explains the limits of human compassion | Vox",
+        "link": "https://www.vox.com/explainers/2017/7/19/15925506/psychic-numbing-paul-slovic-apathy",
+        "source": "Vox",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQddU9WWAipc3HwbzFmoFgMtAe2lGpvd789LQFbJNpJavK0YgFhf2C-nsnbBE-MRe1S5OQbwBNb-3EqB8yK1SBrIoiPd3fP1FnOCTFm_RIACQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ2JhNXwEcIGx5LtLZ1896gfNhIl91REkIBwPrI_5279z2ThU3txqzvXF9WxalFo8A",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8870227/GettyImages_477224938.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "image_width": 3744,
+        "image_height": 5616
+      },
+      "webpage": null,
+      "texte_contexte": "Article de Vox intitulé 'A psychologist explains the limits of human compassion'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Paul Slovic"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Vox"
+        ],
+        "DATE": [
+          "2017"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7300231998405516
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Ramadi",
+      "Iraq"
+    ],
+    "ORGANIZATION": [
+      "Iraqi security forces"
+    ],
+    "DATE": [
+      "Thursday"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Muammar Gaddafi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steve Killelea",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nigel Farage",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Cameron",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Filippo Grandi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Paul Slovic",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "UK",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Libya",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ukraine",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Niger",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Djibouti",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South Sudan",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Guinea-Bissau",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ivory Coast",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Egypt",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tajikistan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Benin",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iceland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Denmark",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Austria",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Zealand",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Switzerland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Finland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Eritrea",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lebanon",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jordan",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Turkey",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pakistan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uganda",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Myanmar",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Somalia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CBS News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIS",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Institute for Economics and Peace",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ukip",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "EU",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SBS",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UNHCR",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UNRWA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Vox",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "summer",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1950s",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Global Peace Index",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Kurds",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "rebels",
+      "rangs": [
+        1
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T11:44:54.456901"
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "id_rumeur": 123480,
+  "id_image": 175303,
+  "caption": "A video grab photo from the Japan Meteorological Agency shows four eruptions of Mount Shindake on Kuchinoerabu Island in Kagoshima Prefecture southwestern Japan on May 29 2015",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748314/oluyewo_benchmark/n9urobxfexeoy0lgbslv.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "More than 60 Killed in Plane Crash in Russia",
+      "source": "KROC News",
+      "lien": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/",
+      "image_url": "https://townsquare.media/site/669/files/2016/03/crash.jpg?w=780&q=75",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg6XLuBMk9Dztxf3qrYRm4CHHanjH0m5GyoyU-BAyzgXitVCa9",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "More than 60 Killed in Plane Crash in Russia",
+        "link": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/",
+        "source": "KROC News",
+        "source_icon": "https://serpapi.com/searches/6a8efa04919dfae355e20d71/images/p3tmhG6XCCq54Rw25VBxBk4I7jU6oN94IwgoCmvBVj8.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg6XLuBMk9Dztxf3qrYRm4CHHanjH0m5GyoyU-BAyzgXitVCa9",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://townsquare.media/site/669/files/2016/03/crash.jpg?w=780&q=75",
+        "image_width": 519,
+        "image_height": 780
+      },
+      "webpage": {
+        "text": "More than 60 Killed in Plane Crash in Russia\n\nMOSCOW (AP) — Officials say both flight recorders have now been recovered at the crash site in southern Russia where a Dubai airliner went down while trying to land in strong wind, killing all 62 people aboard.\n\nRussia's Emergencies Ministry said the Boeing 737-800 operated by budget airline FlyDubai was carrying 55 passengers, most of them Russians, and seven crew members of various nationalities.\n\nWhile there's no official cause yet, the governor of the Rostov region says that one likely factor was a strong wind gusting to near hurricane level.\n\nVasily Golubev is quoted by Russian news agencies as saying the plane crashed and burned about 800 feet short of a runway.\n\nA ministry statement identified the plane as a Boeing 737-800 belonging to budget carrier FlyDubai, which has a good safety record. Russian officials say all 55 passengers, mostly Russians, and seven crew aboard were killed. Four children were among the dead.\n\nBoeing says it's ready to assist if requested.",
+        "metadata": {
+          "title": "More than 60 Killed in Plane Crash in Russia",
+          "description": "Officials say both flight recorders have now been recovered at the crash site in southern Russia where a Dubai airliner went down while trying to land in strong wind, killing all 62 people aboard.",
+          "keywords": "dubai, plane crash, russia, airplane, boeing,airplane,plane crash,russia,national news",
+          "fb:app_id": "743758366320124",
+          "og:title": "More than 60 Killed in Plane Crash in Russia",
+          "og:description": "Officials say both flight recorders have now been recovered at the crash site in southern Russia where a Dubai airliner went down while trying to land in strong wind, killing all 62 people aboard.",
+          "og:url": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/",
+          "og:site_name": "News Talk 1340 KROC-AM",
+          "og:type": "article",
+          "og:image": "https://townsquare.media/site/669/files/2016/03/crash.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89&format=natural",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "sailthru.description": "Officials say both flight recorders have now been recovered at the crash site in southern Russia where a Dubai airliner went down while trying to land in strong wind, killing all 62 people aboard.",
+          "sailthru.title": "More than 60 Killed in Plane Crash in Russia",
+          "sailthru.author": "aprochester",
+          "fb:admins": "582411024",
+          "fb:pages": "580760081995941",
+          "ad:primis:id": "113972"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "@id": "https://krocnews.com/#organization",
+              "name": "KROC-AM",
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://krocnews.com/#sitelogo",
+                "url": "https://townsquare.media/site/669/files/2013/11/kroc-am-logo.png"
+              },
+              "sameAs": [
+                "https://krocnews.com/"
+              ],
+              "verificationFactCheckingPolicy": "https://krocnews.com/editorial-standards/#fact-checking-policy",
+              "telephone": "507-286-1010",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 4th St. SW",
+                "addressLocality": "Rochester",
+                "addressRegion": "MN",
+                "postalCode": "55902",
+                "addressCountry": "US"
+              }
+            },
+            {
+              "@context": "http://schema.org/",
+              "@type": "Website",
+              "@id": "https://krocnews.com/#website",
+              "publisher": {
+                "@id": "https://krocnews.com/#organization"
+              },
+              "name": "KROC-AM",
+              "url": "https://krocnews.com/",
+              "sameAs": [
+                "https://twitter.com/KROCNews",
+                "https://youtube.com/user/1340KROC",
+                "https://youtube.com/channel/UC7nfHqhI81tvI62xGm5C0Og",
+                "https://www.instagram.com/krocamrochester",
+                "https://www.facebook.com/KROCNews"
+              ]
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "article",
+              "headline": "More than 60 Killed in Plane Crash in Russia",
+              "publisher": {
+                "@id": "https://krocnews.com/#organization"
+              },
+              "url": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/",
+                "potentialAction": [
+                  {
+                    "@type": "ReadAction",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/"
+                    }
+                  }
+                ]
+              },
+              "description": "Officials say both flight recorders have now been recovered at the crash site in southern Russia where a Dubai airliner went down while trying to land in strong wind, killing all 62 people aboard.",
+              "@id": "https://krocnews.com/more-than-60-killed-in-plane-crash-in-russia/#article",
+              "image": "//townsquare.media/site/669/files/2016/03/crash.jpg",
+              "author": {
+                "@type": "Person",
+                "name": "Associated Press",
+                "sameAs": "https://krocnews.com/author/aprochester"
+              },
+              "keywords": [
+                "dubai",
+                "plane crash",
+                "russia",
+                "airplane",
+                "boeing",
+                "airplane",
+                "plane crash",
+                "russia",
+                "national news"
+              ],
+              "datePublished": "2016-03-19T12:25:50.000Z",
+              "dateCreated": "2016-03-19T12:25:50.000Z",
+              "dateModified": "2016-03-19T12:25:50.000Z",
+              "isPartOf": {
+                "@id": "https://krocnews.com/#website"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Plus de 60 personnes ont été tuées dans un accident d'avion en Russie. Les deux enregistreurs de vol ont été retrouvés sur le site du crash dans le sud de la Russie, où un avion de ligne de FlyDubai s'est écrasé en essayant d'atterrir par vent fort, tuant les 62 personnes à bord. Le Boeing 737-800 transportait 55 passagers, principalement des Russes, et 7 membres d'équipage de diverses nationalités. Le gouverneur de la région de Rostov, Vasily Golubev, indique qu'un vent fort soufflant presque en tempête est un facteur probable. L'avion s'est écrasé et a brûlé à environ 800 pieds avant la piste. Quatre enfants figurent parmi les victimes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Vasily Golubev"
+        ],
+        "LOCATION": [
+          "Russia",
+          "Moscow",
+          "Rostov"
+        ],
+        "ORGANIZATION": [
+          "AP",
+          "Emergencies Ministry",
+          "FlyDubai",
+          "Boeing"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Plane Crash in Russia"
+        ],
+        "OTHER": [
+          "Boeing 737-800"
+        ]
+      },
+      "score_e5": 0.692270923027286
+    },
+    {
+      "titre": "44 International Tension Increases Over Access To Mh17 Crash ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/photos/international-tension-increases-over-access-to-mh17-crash-site",
+      "image_url": "https://media.gettyimages.com/id/452481396/photo/international-tension-increases-over-access-to-mh17-crash-site.jpg?s=594x594&w=gi&k=20&c=61aW3EyNbnj0w5ThdnocfBdyvtwyPHYCk009uLMLAOU=",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfCA44w5c68cQlYYtRs0Pmv5giKxMbBuFHonXeDZnXkeDHxdCD",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "44 International Tension Increases Over Access To Mh17 Crash ...",
+        "link": "https://www.gettyimages.com/photos/international-tension-increases-over-access-to-mh17-crash-site",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUMDQ3___9JSkrCw8NnaGjh4eGFhobw8PB2d3eztLSkpKRYWVnS0tIrLCwbHByUlZU6OzvME_n1AAAA6ElEQVQ4ja1T2ZLEIAg0KCpK4vz_186Ac0TwbbcfUiTdxdUkhP_EVQkxtv4KE2Fz9DjewMSvZzT8iccKK2D9ynHqOMFj5ZPmhk9ULtsByedTwyxhsgKpwO9uRDCsAH-ChwjckLcSVcJsBbNJUfQiIVhBiHN4muOi48PFtyXh6QUBym-JO16nR46x1R2tPLr13VA29iyYvdHIOXXYZWqL1dx8H3m9htKtAMgoTB0pUXI_AWqbN1MXXq34Zh3eT3Xi-3b5i6DFwc1NzRmoJoBeNR2bIfhY4f3K9_-iuIPSTWSKiMg0_Dn9BU_mMgWkaUklKgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfCA44w5c68cQlYYtRs0Pmv5giKxMbBuFHonXeDZnXkeDHxdCD",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.gettyimages.com/id/452481396/photo/international-tension-increases-over-access-to-mh17-crash-site.jpg?s=594x594&w=gi&k=20&c=61aW3EyNbnj0w5ThdnocfBdyvtwyPHYCk009uLMLAOU=",
+        "image_width": 396,
+        "image_height": 594
+      },
+      "webpage": {
+        "text": "45 International Tension Increases Over Access To Mh17 Crash Site Photos and High-Res Pictures\n\n* Creative Images & Video\n\n * Images\n\n * Creative\n\n * Video\n\n * Creative\n\n * Editorial\n\nNew\n\nSave up to 90% per download with our new image subscriptionGet ongoing access to premium imagery for less with our new single-seat Editorial image subscription.\n\nExplore plan",
+        "metadata": {
+          "title": "45 International Tension Increases Over Access To Mh17 Crash Site Photos and High-Res Pictures - Getty Images",
+          "description": "Explore Authentic International Tension Increases Over Access To Mh17 Crash Site Stock Photos & Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+          "og:description": "Explore Authentic International Tension Increases Over Access To Mh17 Crash Site Stock Photos & Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+          "og:title": "45 International Tension Increases Over Access To Mh17 Crash Site Photos and High-Res Pictures - Getty Images",
+          "og:image": "https://media.gettyimages.com/id/452481396/photo/international-tension-increases-over-access-to-mh17-crash-site.jpg?s=1024x1024&w=gi&k=20&c=VaSM28RHkxRL-ywJoqCpZVOO8baMJlNAVBBllwuC6Fw=",
+          "twitter:title": "45 International Tension Increases Over Access To Mh17 Crash Site Photos and High-Res Pictures - Getty Images"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Photos et images haute résolution concernant l'augmentation de la tension internationale sur l'accès au site du crash du vol MH17.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Mh17 Crash"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7717418090751009
+    },
+    {
+      "titre": "Flight 370 Beacon Had Expired Battery",
+      "source": "KROC News",
+      "lien": "https://krocnews.com/flight-370-beacon-had-expired-battery/",
+      "image_url": "https://townsquare.media/site/669/files/2016/03/crash.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8OnDEYj_GMlvLs7YASu4xvnL7_WuGp5kogrd1tM7EPPO809cM",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Flight 370 Beacon Had Expired Battery",
+        "link": "https://krocnews.com/flight-370-beacon-had-expired-battery/",
+        "source": "KROC News",
+        "source_icon": "https://serpapi.com/searches/6a8efa04919dfae355e20d71/images/s0haAlooKaCvRGPt_UDopIJqkii6kazD1OuxUrc14p8.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8OnDEYj_GMlvLs7YASu4xvnL7_WuGp5kogrd1tM7EPPO809cM",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://townsquare.media/site/669/files/2016/03/crash.jpg",
+        "image_width": 1666,
+        "image_height": 2500
+      },
+      "webpage": {
+        "text": "Flight 370 Beacon Had Expired Battery\n\nKUALA LUMPUR, Malaysia (AP) — The first comprehensive report into the disappearance of Malaysia Airlines Flight 370 revealed Sunday that the battery of the locator beacon for the plane's data recorder had expired more than a year before the jet vanished on March 8, 2014.\n\nThe report came as Australian Prime Minister Tony Abbott said the hunt for the plane would not end even if the scouring of the current search area off Australia's west coast comes up empty.\n\nApart from the anomaly of the expired battery, the detailed report devoted pages after pages describing the complete normality of the flight, which disappeared while heading from Kuala Lumpur to Beijing, setting off aviation's biggest mystery.\n\nFamilies of the 239 people who were on board the plane marked the anniversary of the Boeing 777's disappearance, vowing to never give up on the desperate search for wreckage and answers to what happened to their loved ones.\n\nDespite an exhaustive search for the plane, no trace of it has been found. In late January, Malaysia's government formally declared the incident an accident and said all those on board were presumed dead.\n\nThe significance of the expired battery in the beacon of the plane's flight data recorder was not immediately apparent, except indicating that searchers would have had lesser chance of locating the aircraft in the Indian Ocean, where it is believed to have crashed, even if they were in its vicinity. However, the report said the battery in the locator beacon of the cockpit voice recorder was working.\n\n\"The sole objective of the investigation is the prevention of future accidents or incidents, and not for the purpose to apportion blame or liability,\" the report said.\n\nEven though the beacon's battery had expired, the instrument itself was functioning properly and would have in theory captured all the flight information.\n\nThe two instruments — commonly known as \"black boxes\" — are critical in any crash because they record cockpit conversations and flight data through the end of a flight.\n\nThe 584-page report by a 19-member independent investigation group went into minute details about the crew's lives, including their medical and financial records and training. It also detailed the aircraft's service record, as well as the weather, communications systems and other aspects of the flight. Nothing unusual was revealed, except for the previously undisclosed fact of the battery's expiration date.\n\nThe report said that according to maintenance records, the battery on the beacon attached to the flight data recorder expired in December 2012, but because of a computer data error, it went unnoticed by maintenance crews. \"There is some extra margin in the design to account for battery life variability and ensure that the unit will meet the minimum requirement,\" it said.\n\n\"However, once beyond the expiry date, the (battery's) effectiveness decreases so it may operate, for a reduced time period until it finally discharges,\" the report said. While it is possible the battery will operate past the expiration date, \"it is not guaranteed that it will work or that it would meet the 30-day minimum requirement,\" it said.\n\nThe report gave insight into the physical and mental well-being of the flight's pilot, Capt. Zaharie Ahmad Shah, saying he had no known history of apathy, anxiety or irritability. \"There were no significant changes in his lifestyle, interpersonal conflict or family stresses,\" it said.",
+        "metadata": {
+          "title": "Flight 370 Beacon Had Expired Battery",
+          "description": "KUALA LUMPUR, Malaysia (AP) — The first comprehensive report into the disappearance of Malaysia Airlines Flight 370 revealed Sunday that the battery of",
+          "keywords": "airplane,national news",
+          "fb:app_id": "743758366320124",
+          "og:title": "Flight 370 Beacon Had Expired Battery",
+          "og:description": "KUALA LUMPUR, Malaysia (AP) — The first comprehensive report into the disappearance of Malaysia Airlines Flight 370 revealed Sunday that the battery of",
+          "og:url": "https://krocnews.com/flight-370-beacon-had-expired-battery/",
+          "og:site_name": "News Talk 1340 KROC-AM",
+          "og:type": "article",
+          "og:image": "https://townsquare.media/site/669/files/2015/03/113.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89&format=natural",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "sailthru.description": "KUALA LUMPUR, Malaysia (AP) — The first comprehensive report into the disappearance of Malaysia Airlines Flight 370 revealed Sunday that the battery of",
+          "sailthru.title": "Flight 370 Beacon Had Expired Battery",
+          "sailthru.author": "aprochester",
+          "fb:admins": "582411024",
+          "fb:pages": "580760081995941",
+          "ad:primis:id": "113972"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "@id": "https://krocnews.com/#organization",
+              "name": "KROC-AM",
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://krocnews.com/#sitelogo",
+                "url": "https://townsquare.media/site/669/files/2013/11/kroc-am-logo.png"
+              },
+              "sameAs": [
+                "https://krocnews.com/"
+              ],
+              "verificationFactCheckingPolicy": "https://krocnews.com/editorial-standards/#fact-checking-policy",
+              "telephone": "507-286-1010",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 4th St. SW",
+                "addressLocality": "Rochester",
+                "addressRegion": "MN",
+                "postalCode": "55902",
+                "addressCountry": "US"
+              }
+            },
+            {
+              "@context": "http://schema.org/",
+              "@type": "Website",
+              "@id": "https://krocnews.com/#website",
+              "publisher": {
+                "@id": "https://krocnews.com/#organization"
+              },
+              "name": "KROC-AM",
+              "url": "https://krocnews.com/",
+              "sameAs": [
+                "https://twitter.com/KROCNews",
+                "https://youtube.com/user/1340KROC",
+                "https://youtube.com/channel/UC7nfHqhI81tvI62xGm5C0Og",
+                "https://www.instagram.com/krocamrochester",
+                "https://www.facebook.com/KROCNews"
+              ]
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "article",
+              "headline": "Flight 370 Beacon Had Expired Battery",
+              "publisher": {
+                "@id": "https://krocnews.com/#organization"
+              },
+              "url": "https://krocnews.com/flight-370-beacon-had-expired-battery/",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://krocnews.com/flight-370-beacon-had-expired-battery/",
+                "potentialAction": [
+                  {
+                    "@type": "ReadAction",
+                    "target": {
+                      "@type": "EntryPoint",
+                      "urlTemplate": "https://krocnews.com/flight-370-beacon-had-expired-battery/"
+                    }
+                  }
+                ]
+              },
+              "description": "KUALA LUMPUR, Malaysia (AP) — The first comprehensive report into the disappearance of Malaysia Airlines Flight 370 revealed Sunday that the battery of",
+              "@id": "https://krocnews.com/flight-370-beacon-had-expired-battery/#article",
+              "image": "//townsquare.media/site/669/files/2015/03/113.jpg",
+              "author": {
+                "@type": "Person",
+                "name": "Associated Press",
+                "sameAs": "https://krocnews.com/author/aprochester"
+              },
+              "keywords": [
+                "airplane",
+                "national news"
+              ],
+              "datePublished": "2015-03-08T14:33:54.000Z",
+              "dateCreated": "2015-03-08T14:33:54.000Z",
+              "dateModified": "2015-03-08T14:33:54.000Z",
+              "isPartOf": {
+                "@id": "https://krocnews.com/#website"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le premier rapport complet sur la disparition du vol 370 de Malaysia Airlines révèle que la batterie de la balise de localisation de l'enregistreur de données de l'avion avait expiré plus d'un an avant la disparition de l'appareil le 8 mars 2014. Le Premier ministre australien Tony Abbott a déclaré que les recherches ne s'arrêteraient pas même si la zone de recherche actuelle au large de la côte ouest de l'Australie ne donne rien. L'avion se dirigeait de Kuala Lumpur vers Beijing. Un groupe d'enquête indépendant de 19 membres a rédigé un rapport de 584 pages.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tony Abbott"
+        ],
+        "LOCATION": [
+          "Kuala Lumpur",
+          "Malaysia",
+          "Australia",
+          "Beijing",
+          "Indian Ocean"
+        ],
+        "ORGANIZATION": [
+          "AP",
+          "Malaysia Airlines"
+        ],
+        "DATE": [
+          "March 8, 2014",
+          "December 2012"
+        ],
+        "EVENT": [
+          "Flight 370 disappearance"
+        ],
+        "OTHER": [
+          "Boeing 777"
+        ]
+      },
+      "score_e5": 0.7021813766991286
+    },
+    {
+      "titre": "Ночью в Донецке шли бои в районе аэропорта, есть жертвы ...",
+      "source": "Корреспондент",
+      "lien": "https://korrespondent.net/ukraine/politics/3397105-nochui-v-donetske-shly-boy-v-raione-aeroporta-est-zhertvy",
+      "image_url": "https://kor.ill.in.ua/m/1200x0/1474248.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8q0lVsj9T2A9-T66NI8Jv2ONn8Q-ruWxCV0pnpxswph_HhEqs",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Ночью в Донецке шли бои в районе аэропорта, есть жертвы ...",
+        "link": "https://korrespondent.net/ukraine/politics/3397105-nochui-v-donetske-shly-boy-v-raione-aeroporta-est-zhertvy",
+        "source": "Корреспондент",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQTF5rj6hZ6rCWMWU5KoIpQmt5JW90kBcHWmvlBw63mm-68wX_abJymPxS90-Nsd6coCnNQYwUhheJeewb3zzvbloMsJ4zS2xpKUEaemWCTkk5UlTFBeg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8q0lVsj9T2A9-T66NI8Jv2ONn8Q-ruWxCV0pnpxswph_HhEqs",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://kor.ill.in.ua/m/1200x0/1474248.jpg",
+        "image_width": 799,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Ночью в Донецке шли бои в районе аэропорта, есть жертвы\n\n* РУС\n * УКР\n\n * ВИДЕО\n * ФОТО\n * ПОПУЛЯРНЫЕ\n * СПЕЦПРОЕКТЫ\n\nUSD\n * * USD 44.4468\n   * EUR 51.5944\n * Все курсы валют\n\n44.4468\nАвторизация\nПоиск\nUA\n\n * ВСЕ РАЗДЕЛЫ\n * Главная\n * Украина\n   * Все новости раздела\n   * События\n   * Политика\n * Город\n * Мир\n * Бизнес\n * Спорт\n * Lifestyle\n * Шоу-биз\n * Наука\n * БЛОГИ ЧИТАТЕЛЕЙ\n\n\n \n\nПОИСК ПО САЙТУ\n\n * Украина\n\n * События\n * Политика\n\n * Город\n\n * Бизнес\n\n * Новости компаний\n * Экономика\n * Финансы\n * Интернет и IT\n * Авто\n * Недвижимость\n * СМИ и реклама\n * Карьера\n * Налоги\n * Пресс-релизы\n * Денежные переводы\n\n * Хорошие новости\n\n * Календарь событий\n\n * Мир\n\n * Россия\n\n * Наука\n\n * Наука\n * Космос\n * Медицина\n\n * Спорт\n\n * Футбол\n * Бокс\n * Баскетбол\n * Теннис\n * Формула-1\n * Хоккей\n * Шахматы\n\n * Странности\n\n * Мир о нас\n\n * Шоу-биз\n\n * Кино\n * Музыка\n * Культура\n\n * Lifestyle&Fashion\n\n * Fashion\n * Food&Drinks\n * Моторы\n * Гаджеты\n * Путешествия\n * Интерьеры\n * Афиша\n * Тест-драйв\n * Игры\n * Киберспорт\n * Спецпроекты\n\n * ДОСЬЕ\n * ФОТО\n * ВИДЕО\n * ОПРОСЫ\n * ЦИТАТА ДНЯ\n * ПОПУЛЯРНЫЕ\n * Выборы 2014\n * СПЕЦПРОЕКТЫ\n\nСПЕЦТЕМА: Война в Иране\nВСЕ ТЕМЫ\n * Вступление Украины в ЕС\n\n\nНочью в Донецке шли бои в районе аэропорта, есть жертвы\n\nКорреспондент.net,  25 июля 2014, 10:01\n189\n26357\nФото: Getty Images\nОбстановка в Донецке остается напряженной\n\n\nСмертельное ранение получил один человек, две девушки - тяжелые осколочные ранения.\n\nНочью в Донецке шли активные боевые действия в периметре аэропорта, сообщает пресс-служба горсовета.\n\nПо информации ведомства, во время артобстрела смертельные осколочные ранения получил один человек, находившийся по адресу: ул. Чехословацкая, 73. В том же районе получили тяжелые осколочные ранения две молодые девушки.\n\nТакже снарядами повреждена квартира дома по улице Градостроителей, 98, возник пожар, который был локализован силами МЧС. Пострадали личные вещи жителей, жертв нет. Ударной волной выбиты окна близлежащих домов.\n\n\"Обстрелу подвергся и Кировский район. Снаряд попал в производственный корпус, расположенный по адресу: ул. Слепнева, 82б, в результате чего произошло возгорание. Пожар потушен, пострадавших нет. Кроме этого, жители многих домов микрорайона Семашко сообщают о выбитых и поврежденных окнах в своих квартирах\", - говорится в сообщении.\n\nЧитайте также: Корреспондент: Свой чужой город. Один день из жизни Донецка\n\nПо состоянию на 9.00 боевых действий нет. Коммунальные предприятия работают в штатном режиме, общественный транспорт вышел на линии.\n\nПродолжаются работы по восстановлению электроснабжения. В Петровском районе запитаны 12 подстанций из 44 повреждены, в Куйбышевском районе остаются без электроснабжения 24 трансформаторные подстанции.\n\nРанее сообщалось, что в Донецке в ночь на 24 июля жители Киевского, Кировского, Ленинского и Петровского районов слышали звуки взрывов тяжелой артиллерии. Из-за ночных боевых действий в Петровском районе были обесточены 44 трансформаторных подстанции, без электроснабжения остались жилые дома Петровского района, поселки Бирюзова и Грабари.\n\nЧитайте Korrespondent.net в Google News\nСПЕЦТЕМА: Обострение на Донбассе\nТЕГИ: Беспорядки на юго-востоке Украине,  бои в Донецке\n2 0 11 0\nЕсли вы заметили ошибку, выделите необходимый текст и нажмите Ctrl+Enter, чтобы сообщить об этом редакции.\n\n\nЧИТАЙТЕ ТАКЖЕ\n\n\nВластьГенерал СБУ предложил новую модель государства109\n\n\nСюжетВторжение России в Украину. Онлайн189101317\n\n\nВ сети появилась карта попаданий снарядов в дома Донецка1871354\n\n\nЗеленский созывает ВР на заседание по \"минималке\"1276\n\n\nПолковник Асавелюк озвучил свою версию стрельбы на Институтской1637115\n\n\nВ Венгрии озвучили ожидания от Зеленского59728\n\n\nЧитать комментарии\n\n\nПолная версия сайта\n * Facebook\n * Twitter\n * RSS-ленты\n * E-mail рассылка\n\n * Контакты\n * Реклама на сайте\n * Использование материалов korrespondent.net\n * Правила пользования сайтом\n\n * Договор пользования сайтом\n * Политика в сфере конфиденциальности и персональных данных\n * Пользовательское соглашение\n * Редакция\n\n\n * © 2000-2026, Korrespondent.net\n * Субъект в сфере онлайн-медиа Название онлайн-медиа - «КореспонденТ.net» Адрес: 02091, місто Київ, ХАРКІВСЬКЕ ШОСЕ, будинок 172-Б, офіс 208/1 E-mail: [email protected] Телефон: 044-205-43-00 Идентификатор медиа - R40-06068\n * Использование любых материалов, размещённых на сайте, разрешается при условии ссылки на Корреспондент.net.\n * При копировании материалов со страницы «Новости Украины и мира», для интернет-изданий – обязательна прямая открытая для поисковых систем гиперссылка. Ссылка должна быть размещена в независимости от полного либо частичного использования материалов. Гиперссылка (для интернет- изданий) – должна быть размещена в подзаголовке или в первом абзаце материала.\n * Новости с пометками \"Мнение\", \"Экспертиза\", \"Заявление\", \"Регионы\", \"Деньги\", \"Власть\", \"Выборы\", \"Тест-драйв\", \"Спецпроекты\", \"Промо\" публикуются на правах рекламы.\n * Раздел Спецпроекты создается совместно с коммерческими партнерами.\n * Любое копирование, публикация, републикация и другое распространение информации, которое содержит ссылку на \"Интерфакс-Украина\", EPA / UPG, строго воспрещается.\n * Владелец веб-страницы в разделе Я- Корреспондент является автор публикации.\n * Любое копирование, перепечатка и воспроизведение фотографий и/или аудиовизуальных материалов, принадлежащих правообладателю Getty Images, строго запрещено.\n * Материалы сайта korrespondent.net предназначены для лиц старше 21 года (21+). Участие в азартных играх может вызвать игровую зависимость. Соблюдайте правила (принципы) ответственной игры. При обнаружении первых признаков зависимости немедленно обратитесь к специалисту. Помните, что участие в азартных играх не может являться источником доходов или альтернативой работе. Информационный ресурс korrespondent.net не проводит игры на реальные и/или виртуальные деньги, сайт не принимает ни в какой форме оплату ставок и других платежей, которые связаны/могут быть связаны с азартными играми, букмекерами или тотализаторами. Какие-либо материалы на информационном ресурсе korrespondent.net публикуются исключительно в информационных целях.\n\n\nВам уже виповнився 21 рік?\n\nНі Так\n\nПовернутися на попередню сторінку\n\n\nX\n\n\nОшибка",
+        "metadata": {
+          "title": "Ночью в Донецке шли бои в районе аэропорта, есть жертвы - Korrespondent.net",
+          "keywords": "Смертельное,осколочные,ранение,получил,человек, Беспорядки на юго-востоке Украине, бои в Донецке",
+          "news_keywords": "Смертельное,осколочные,ранение,получил,человек, Беспорядки на юго-востоке Украине, бои в Донецке",
+          "description": "Смертельное ранение получил один человек, две девушки - тяжелые осколочные ранения.",
+          "Author": "Korrespondent.net",
+          "fb:admins": "100000387894888",
+          "fb:app_id": "214726048943138",
+          "og:title": "Ночью в Донецке шли бои в районе аэропорта, есть жертвы ",
+          "og:type": "article",
+          "og:description": "Смертельное ранение получил один человек, две девушки - тяжелые осколочные ранения.",
+          "og:image": "https://kor.ill.in.ua/m/1260x900/1474248.jpg",
+          "og:url": "https://korrespondent.net/ukraine/politics/3397105-nochui-v-donetske-shly-boy-v-raione-aeroporta-est-zhertvy"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://korrespondent.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Украина",
+              "item": "https://korrespondent.net/ukraine/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Политика",
+              "item": "https://korrespondent.net/ukraine/politics/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des combats ont eu lieu la nuit dans la région de l'aéroport à Donetsk, faisant des victimes. Un homme a reçu des blessures mortelles par éclats d'obus lors d'un bombardement d'artillerie rue Chevtchenko, et deux jeunes filles ont été grièvement blessées. Des obus ont endommagé un appartement rue Gradostроителей, provoquant un incendie maîtrisé par le ministère des Situations d'urgence. Le district de Kirovsky a également subi des tirs, touchant un bâtiment de production rue Slepnev. En raison des combats, des postes de transformation ont été endommagés et des zones ont été privées d'électricité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Donetsk",
+          "Ukraine",
+          "Russia",
+          "Iran"
+        ],
+        "ORGANIZATION": [
+          "Getty Images",
+          "Корреспондент.net",
+          "МЧС"
+        ],
+        "DATE": [
+          "25 июля 2014",
+          "24 июля"
+        ],
+        "EVENT": [
+          "Война в Иране"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6946285431708702
+    },
+    {
+      "titre": "Businesses near a large fire in Cannock have been urged to ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/BBCBlackCountry/videos/cannock-fire/962737171820238/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=962737171820238&get_thumbnail=1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsY6g3RQNPuxO-0lVpOig5Ffdb5PHj9rXLgvHGEvM_NP5icqOe",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Businesses near a large fire in Cannock have been urged to ...",
+        "link": "https://www.facebook.com/BBCBlackCountry/videos/cannock-fire/962737171820238/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsY6g3RQNPuxO-0lVpOig5Ffdb5PHj9rXLgvHGEvM_NP5icqOe",
+        "thumbnail_width": 299,
+        "thumbnail_height": 168,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=962737171820238&get_thumbnail=1",
+        "image_width": 1080,
+        "image_height": 608
+      },
+      "webpage": {
+        "text": "Businesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze.\n\nTen fire engines were sent to the Orbital Retail Park. \n\nLive updates - ➡️  https://bbc.in/44vxEnj | BBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\n\nBusinesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze. Ten fire engines were sent to the Orbital Retail Park. Live updates - ➡️ https://bbc.in/44vxEnj\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\n\n🇬🇧 A large union jack has been placed on the Jigger the Miner statue in Brownhills, in Walsall. He now stands among a sea of St George's flags that cover the roundabout and surrounding railing. #WestMidlands#Walsall#Brownhills#UnionJack#Flags\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\nBBC Wolverhampton & Black Country\n\n\nBBC Politics Midlands on the crisis engulfing Midlands car giant JLR. Watch on BBC iPlayer from Sunday. #bbcmidlands",
+        "metadata": {
+          "title": "Businesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze. Ten fire engines were sent to the Orbital Retail Park.  Live updates - ➡️ https://bbc.in/44vxEnj | BBC Wolverhampton &amp; Black Country | Facebook",
+          "og:type": "video.other",
+          "og:title": "Businesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze.\n\nTen fire engines were sent to the Orbital Retail Park. \n\nLive updates - ➡️  https://bbc.in/44vxEnj | BBC Wolverhampton & Black Country | Facebook",
+          "og:description": "Businesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze.\n\nTen fire engines were sent to the Orbital Retail Park. \n\nLive updates - ➡️...",
+          "og:url": "https://www.facebook.com/reel/962737171820238/",
+          "og:image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/638276990_893100430171646_8686294778879812128_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c26028&_nc_ohc=ujH9jQpT9vYQ7kNvwGDxiJB&_nc_oc=Adoo90CEsoJ2AVQc3-NWYXUo1_FWKGMkOWW59uqhyJsDFTi-GXee1tklwOAOzPTOsAFHk35G_nkD19VUgRlNXqCT&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=LEfdq1QSWhq1_xBDulvm8w&_nc_ss=7020f&oh=00_AQL232T-4RAC10g2NNwhZBNyHRDCIesbOMF6eXA2oxIZdA&oe=6AA38BD5",
+          "og:locale": "en_US",
+          "og:video": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=962737171820238",
+          "og:video:url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=962737171820238",
+          "og:video:secure_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=962737171820238",
+          "og:video:width": "607",
+          "og:video:height": "1080",
+          "og:video:type": "video/mp4",
+          "description": "Businesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze.\n\nTen fire engines were sent to the...",
+          "twitter:title": "Businesses near a large fire in Cannock have been urged to evacuate...",
+          "twitter:description": "Businesses near a large fire in Cannock have been urged to evacuate as dozens of firefighters tackle the blaze.\n\nTen fire engines were sent to the Orbital Retail Park. \n\nLive updates - ➡️..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des entreprises proches d'un important incendie à Cannock ont été invitées à évacuer alors que des dizaines de pompiers luttent contre les flammes. Dix camions de pompiers ont été envoyés à l'Orbital Retail Park. Par ailleurs, un grand drapeau union jack a été placé sur la statue de Jigger the Miner à Brownhills, à Walsall, au milieu d'une mer de drapeaux de Saint-Georges.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jigger the Miner"
+        ],
+        "LOCATION": [
+          "Cannock",
+          "Orbital Retail Park",
+          "Brownhills",
+          "Walsall",
+          "West Midlands"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "BBC",
+          "JLR"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Union Jack",
+          "St George's flags"
+        ]
+      },
+      "score_e5": 0.7502796513356036
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Japan",
+      "Mount Shindake",
+      "Kuchinoerabu Island",
+      "Kagoshima Prefecture"
+    ],
+    "ORGANIZATION": [
+      "Japan Meteorological Agency"
+    ],
+    "DATE": [
+      "May 29 2015"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Vasily Golubev",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tony Abbott",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jigger the Miner",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Moscow",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rostov",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kuala Lumpur",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Malaysia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beijing",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Indian Ocean",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Donetsk",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ukraine",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iran",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cannock",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orbital Retail Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brownhills",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Walsall",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Midlands",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Emergencies Ministry",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FlyDubai",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boeing",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Malaysia Airlines",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Корреспондент.net",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "МЧС",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "JLR",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 8, 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "25 июля 2014",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "24 июля",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Plane Crash in Russia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Mh17 Crash",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Flight 370 disappearance",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Война в Иране",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Boeing 737-800",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Boeing 777",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Union Jack",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "St George's flags",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T20:44:24.878701"
+  }
+}

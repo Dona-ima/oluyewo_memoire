@@ -1,0 +1,1118 @@
+{
+  "id_rumeur": 1502640,
+  "id_image": 1089305,
+  "caption": "More than 11000 personnel make up the UN s mission in Mali from several nations",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747162/oluyewo_benchmark/fkzsogz347ukdxkesd66.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Gold-Mining In Peru Is Much Worse Than Anyone Thought ...",
+      "source": "National Geographic",
+      "lien": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought",
+      "image_url": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwSm0v2LxSdpQ3Sq1OkRQlYQvKiykJu1oH6keYhH4xl8H0f-V7",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Gold-Mining In Peru Is Much Worse Than Anyone Thought ...",
+        "link": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought",
+        "source": "National Geographic",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAd0lEQVRYhe3XwQmAMAwF0B9xoIIL6EhO4ki6QKEbxasK6sdacvn_WNL2QS6JuTtOyTYCWNEmEwbfjgddo4_ohAN6omYGUD6-nwAstYBy7RudbK8l4S0QQAABBBBAAAEEEEAAAZi9IDHz_e3dHwCPm01twlsQDtgBIz8OkoRk7WkAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwSm0v2LxSdpQ3Sq1OkRQlYQvKiykJu1oH6keYhH4xl8H0f-V7",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine.jpg",
+        "image_width": 1720,
+        "image_height": 3072
+      },
+      "webpage": {
+        "text": "Gold-Mining In Peru Is Much Worse Than Anyone Thought\n\nI flew over the Peruvian Amazon two years ago, in a small propeller plane. An aerial perspective gives you a true sense of the rainforest’s scale, as treetops stretch from one horizon to another like an infinite and unbroken array of broccoli florets.\n\nBut from the air, the damage to the jungle also becomes more obvious. We flew over charred hectares of burnt trees, huge piles of felled logs and, most memorably of all, vast (and mostly illegal) gold mines.\n\nBefore the flight, I might have pictured a gold mine as a surreptitious doorway carved into a mountainside. The largest of the ones I saw, known as Guacamayo, was more like a pustulent wound—a gash of festering yellows and whites amid the lush greens of the jungle. It even seeped into the nearby river and jaundiced its water. It was a nauseating sight, and one utterly disconnected from the glistening metal that gets fashioned into jewellery and ornaments.\n\nThe Madre de Dios region of southern Peru is rich with both life and gold, and the latter threatens the former. A recent gold rush, prompted by skyrocketing prices and enabled by a new highway, have brought tens of thousands of hopeful miners to the region. Back in 2009, scientists showed that the three big mines—Huepetuhe, Guacamayo and Delta-1—had already claimed 15,500 hectares of forest, and were growing at a rate of 1,900 more every year.\n\nBut Greg Asner from the Carnegie Institution for Science—the same scientist who flew me over the Amazon—has found that the situation is even worse. The big mines like Guacamayo are an obvious problem, but thousands of smaller ones have sprung up in the last few years. They’re extremely hard to find or control, and Asner found that they collectively account for more than half the gold-mining in the region.\n\n“The Ministry of Evnironment estimates that there are 50,000 to 70,000 of these miners in the region,” says Asner. “They’re working on groups of three to ten, so that’s a lot of mining.” Everyone was focusing on the big, gaping wounds, and ignoring the subtler infections creeping through the Amazon’s skin.\n\nThe small mines look like deep pits in forest clearings, up to 10 metres deep with debris and mud at the bottom. The miners cut down a small stand of trees, dig away the top layers of soil and blast away at what remains with high-pressured water. They transfer the resulting slurry into an oil drum and add mercury. “Someone stands in the drum and starts jumping up and down. It’s like squishing grapes,” says Asner.\n\nThe mercury binds to any gold in the mud, which the miners filter out with a pan. The nuggets are dried and heated, releasing even more mercury into the air as a vapour. It’s no surprise that the miners often suffer from mercury poisoning, as do people who live in nearby towns or settlements, or downstream of polluted rivers. And yet, they get gold. “Five days ago, I ran into an old Peruvian student on the river, and he told me that in some places, there’s half a kilo of gold per hectare, deep down below the forest floor,” he says.\n\nThe miners are getting craftier. They’re setting their mines back further and further from the edges of roads and rivers, and clearing away only small patches of trees. “As you go up and down the river, you don’t see anything,” says Asner, “and the methods that are used to map mines from satellite imagery are insensitive to small clearings.”\n\nSo, Asner turned to CLASlite—a piece of software he built to detect the signs of logging on satellite images. He trained the system to identify the signatures of small gold mines, and applied it to images that had been collected since 1999.\n\n\nThe images showed that gold mines in Madre de Dios have quintupled in coverage since 1999, from 10,000 hectares to more than 50,000 now. The three big mines are a problem, but the smaller ones have multiplied so quickly that they now account for 51 percent of mining in the area.\n\nThe mines are also expanding faster than anyone had thought—from a rate of 2,166 hectares per year before the gold price boom of 2008, to a current rate of 6,145 hectares per year. Those estimates are around 40 percent higher than any previous ones for the region, and they mean that gold mining is now the biggest cause of deforestation in the region, beating out logging or farming. (And that’s ignoring the fact that mining increases the odds of ranching, farming, bushmeat hunting, and environmental damage in nearby areas.)\n\nWorse still, the mines are encroaching into new habitats. The big mines like Guacamayo are most found in swampy regions near the main rivers, but the smaller operations are heading deeper into the forest, and higher up the foothills of the Andes. These regions host very different communities of plants and animals, which are now being threatened. The mines are also spreading further up-river, which threatens to pollute more of the waterways with mercury.\n\nTo verify the satellite results, Asner’s team started checking out some of the supposed mines on the ground. “It’s extremely stressful going into these places,” he says. When he visited Guacamayo, he did so at a quiet time of day, and wearing a hoodie. The smaller mines are even more treacherous. “There are reports of people shooting or machete-ing each other, which I cannot confirm. But it’s definitely not comfortable, and the miners are very quick to threaten.”\n\nSince the field surveys were so dangerous and time-consuming, the team also took to the skies. That is, after all, where Asner does most of his research. His small plane—the Carnegie Airborne Observatory—is fitted with a trio of sensors that can map the shape of a forest’s trees down to their individual branches, measure the chemical composition of their leaves and trunks and soil, and even identify species from these chemical signatures. (I profiled him, and wrote about his work, for Wired UK last year.)\n\nThe surveys confirmed that the satellite images are capturing between 84 and 94 percent of the mines in the area, and just 7 to 18 percent of the ones they identified are false positives. For the most part, the technique is accurate and reliable.\n\n“Asner’s study helps further raise awareness about continued illegal gold mining in this area,” says Jennifer Swenson from Duke University, who ran an earlier mapping study of the three big mines. “[We now need] to focus on how to develop policies or strategies to at least decrease the mining rate, as well as miner education and policies to reduce the use of mercury and subsequent contamination.”\n\n“It gives us a clear idea about the scale of the challenge,” says Ernesto Ráez Luna, a scientist from Peru’s Ministry of the Environment (MINAM) and a co-author on the new study. “We knew that illegal mining was taking place, but not how fast it was moving into the forest. We now know the velocity.”\n\nDoing something about it is another problem, but Luna says that MINAM is pursuing several avenues. For a start, they want to prosecute the bosses who control the large proportion of the illegal mining operations, and push for harder jail sentences. “What used to be small-scale mining has been infiltrated by crime,” he says. “We don’t want to go after the labourers, who include a large number of sincerely poor people. We want to focus on the few at the top of the pyramid.”\n\nThey also want to formalise the small-scale mines, and help people who want to work lawfully to create proposals for environmental management. And they want to help those who are trapped in their current situations. “We also need to do social restoration, as well as ecological restoration,” says Luna. “The illegal mining has brought with it a number of other crimes, including slave-labour and sexual exploitation of minors.”\n\nAsner adds that three other moves might help. First, rein in mining permits; these are current the responsibility of regional governments and they are given out freely, perhaps even aggressively. Second, limit the amount of fuel that’s delivered to the Puerto Maldonado, the region’s capital. Currently, Madre de Dios actually consumes more fuel than the Lima, Peru’s capital city, because gold-mining is so big. Finally, stem the import of mercury, much of which comes in via the black market.\n\nReference: Asner, Llactayo, Tupayachi & Luna. 2013. Elevated rates of gold mining in the Amazon revealed through high-resolution monitoring. http://dx.doi.org/10.1073/pnas.1318271110\n\n\nIf you want to read more about gold-mining in Peru, do read these two excellent pieces:",
+        "metadata": {
+          "og:locale": "en_US",
+          "title": "Gold-Mining In Peru Is Much Worse Than Anyone Thought | National Geographic",
+          "description": "I flew over the Peruvian Amazon two years ago, in a small propeller plane. An aerial perspective gives you a true sense of the rainforest’s scale, as treetops stretch from one horizon to another like an infinite and unbroken array of broccoli florets. But from the air, the damage to the jungle also becomes more […]",
+          "og:site_name": "Science",
+          "og:title": "Gold-Mining In Peru Is Much Worse Than Anyone Thought",
+          "og:description": "I flew over the Peruvian Amazon two years ago, in a small propeller plane. An aerial perspective gives you a true sense of the rainforest’s scale, as treetops stretch from one horizon to another like an infinite and unbroken array of broccoli florets. But from the air, the damage to the jungle also becomes more […]",
+          "og:url": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought",
+          "og:image": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine_16x9.jpg?w=1200",
+          "og:image:width": "1200",
+          "og:image:height": "674.698795180723",
+          "og:type": "article",
+          "twitter:title": "Gold-Mining In Peru Is Much Worse Than Anyone Thought",
+          "twitter:description": "I flew over the Peruvian Amazon two years ago, in a small propeller plane. An aerial perspective gives you a true sense of the rainforest’s scale, as treetops stretch from one horizon to another like an infinite and unbroken array of broccoli florets. But from the air, the damage to the jungle also becomes more […]"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#organization",
+              "name": "National Geographic",
+              "url": "https://www.nationalgeographic.com/",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/National_Geographic",
+                "https://www.facebook.com/natgeo",
+                "https://x.com/NatGeo",
+                "https://www.instagram.com/natgeo/",
+                "https://www.linkedin.com/company/national-geographic/"
+              ],
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#logo",
+                "url": "https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",
+                "contentUrl": "https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",
+                "width": 600,
+                "height": 60
+              }
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.nationalgeographic.com/#website",
+              "url": "https://www.nationalgeographic.com/",
+              "name": "National Geographic",
+              "publisher": {
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#organization"
+              },
+              "inLanguage": "en"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#webpage",
+              "url": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought",
+              "name": "Gold-Mining In Peru Is Much Worse Than Anyone Thought",
+              "isPartOf": {
+                "@id": "https://www.nationalgeographic.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#breadcrumb"
+              },
+              "datePublished": "2013-10-28T15:00:45.000Z",
+              "inLanguage": "en",
+              "primaryImageOfPage": {
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#primaryimage"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.nationalgeographic.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Science",
+                  "item": "https://www.nationalgeographic.com/science/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Gold-Mining In Peru Is Much Worse Than Anyone Thought",
+                  "item": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#primaryimage",
+              "url": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine.jpg",
+              "contentUrl": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine.jpg",
+              "caption": ""
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#person-0",
+              "name": "Ed Yong"
+            },
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#article",
+              "isPartOf": {
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#webpage"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#webpage"
+              },
+              "headline": "Gold-Mining In Peru Is Much Worse Than Anyone Thought",
+              "publisher": {
+                "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#organization"
+              },
+              "datePublished": "2013-10-28T15:00:45.000Z",
+              "inLanguage": "en",
+              "alternativeHeadline": "",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine.jpg",
+                "contentUrl": "https://i.natgeofe.com/n/29cf4029-21a8-4e6f-bc6a-229db275662e/Gold_mine.jpg"
+              },
+              "author": [
+                {
+                  "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#person-0"
+                }
+              ],
+              "wordCount": 1777,
+              "timeRequired": "PT10M",
+              "articleSection": "Science",
+              "isAccessibleForFree": true,
+              "keywords": [
+                "asner",
+                "gold",
+                "madre de dios",
+                "mining",
+                "peru",
+                "environment",
+                "metals",
+                "rain forests",
+                "senses"
+              ],
+              "hasPart": [
+                {
+                  "@id": "https://www.nationalgeographic.com/science/article/gold-mining-in-peru-is-much-worse-than-anyone-thought#primaryimage"
+                }
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Survol de la région de l'Amazonie péruvienne en avion, montrant les dégâts environnementaux causés par des mines d'or illégales (notamment Guacamayo, Huepetuhe et Delta-1). La déforestation, l'utilisation de mercure et la pollution des rivières dans la région de Madre de Dios menacent la biodiversité et la santé des populations locales.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Greg Asner"
+        ],
+        "LOCATION": [
+          "Peru",
+          "Peruvian Amazon",
+          "Guacamayo",
+          "Madre de Dios",
+          "Huepetuhe",
+          "Delta-1"
+        ],
+        "ORGANIZATION": [
+          "National Geographic",
+          "Carnegie Institution for Science",
+          "Ministry of Environment"
+        ],
+        "DATE": [
+          "two years ago",
+          "2009",
+          "five days ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "gold mines",
+          "mercury"
+        ]
+      },
+      "score_e5": 0.7188513628067197
+    },
+    {
+      "titre": "Extent of Peruvian Amazon lost to illegal goldmines mapped ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/environment/2013/oct/29/peruvian-amazon-illegal-goldmines-mapped",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2013/10/29/1383045347568/Gold-mining-The-Carnegie--008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&s=2b8174f8a77fd7e5a213f35abee042f3",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGqDZFjiqVKt-4_V4EKutt-ER4orZL7eUEZi7IVZUXhJKI80Pb",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Extent of Peruvian Amazon lost to illegal goldmines mapped ...",
+        "link": "https://www.theguardian.com/environment/2013/oct/29/peruvian-amazon-illegal-goldmines-mapped",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8edb5b55ba6521a200ac6d/images/dwh-KyR4JNIh4RlEwEr7WUv2ZBB_keFfJo91z2J0TBM.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGqDZFjiqVKt-4_V4EKutt-ER4orZL7eUEZi7IVZUXhJKI80Pb",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2013/10/29/1383045347568/Gold-mining-The-Carnegie--008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&s=2b8174f8a77fd7e5a213f35abee042f3",
+        "image_width": 242,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Extent of Peruvian Amazon lost to illegal goldmines mapped for first time | Mining\n\nThe area affected by illegal gold mining in Peru's south-eastern Amazon region increased by 400% from 1999 to 2012, according to researchers using state-of-the-art mapping technology.\n\nUsing airborne mapping and high-satellite monitoring, researchers led by the Carnegie Institution for Science also showed that the rate of forest loss in Madre de Dios has tripled since the 2008 global economic crisis, when the international price of gold began to rise to new highs.\n\nUntil this study, thousands of small, clandestine mines that have boomed since the economic crisis went unmonitored, according to the research team, which was led by Carnegie's Greg Asner and worked with Peru's environment ministry.\n\nCrucial technological differences, such as the use of the Carnegie Landsat Analysis System-lite (CLASlite), meant the team was able to map both large and small mining operations.\n\n\"The gold miners are working in thousands of small groups, so it takes our high resolution techniques to map their activities,\" said Asner, who developed the Carnegie Airborne Observatory (CAO), technology that uses algorithms to detect changes to the forest in areas as small as 10 square metres (about 100 square feet), allowing scientists to find small-scale disturbances that cannot be detected by traditional satellite methods.\n\nThe team collated the satellite results with on-ground field surveys and CAO data. The CAO uses light detection and ranging, a technology that sweeps laser light across the vegetation canopy to produce a 3D image. It can determine the location of single standing trees at a 1.1 metre (3.5 feet) resolution. The field and CAO data confirmed up to 94% of the CLASlite mine detections.\n\n\"Our results reveal far more rainforest damage than previously reported by the government, NGOs, or other researchers,\" Asner said.\n\n\"In all, we found that the rate of forest loss from gold mining accelerated from 5,350 acres (2,166 hectares) per year before 2008 to 15,180 acres (6,145 hectares) each year after the 2008 global financial crisis that rocketed gold prices.\"\n\n\"The gold rush in Madre de Dios, Peru, exceeds the combined effects of all other causes of forest loss in the region, including from logging, ranching and agriculture. This is really important because we're talking about a global biodiversity hotspot. The region's incredible flora and fauna is being lost to gold fever.\"\n\nIn addition to wreaking direct havoc on tropical forests, gold mining releases sediment into rivers, with severe effects on aquatic life. Another recent study showed that gold mining has contributed to widespread mercury pollution, affecting the entire food chain but particularly impacting on indigenous populations.\n\nErnesto Raez Luna, an advisor with the Peruvian environment ministry and co-author of the report, said: \"Obtaining good information on illegal gold mining, to guide sound policy and enforcement decisions, has been particularly difficult so far. Finally, we have very detailed and accurate data that we can turn into government action.\n\n\"We are using this study to warn Peruvians on the terrible impact of illegal mining in one of the most important enclaves of biodiversity in the world, a place that we have vowed, as a nation, to protect for all humanity. Nobody should buy one gram of this jungle gold. The mining must be stopped.\"\n\nAs of 2012, small illicit mines accounted for more than half of all mining operations in the region. Large mines are heavy polluters but are taking on a subordinate role to thousands of small mines in degrading the tropical forest throughout the region.\n\nThe research is published in the online early edition of the Proceedings of the National Academy of Sciences.",
+        "metadata": {
+          "title": "Extent of Peruvian Amazon lost to illegal goldmines mapped for first time | Mining | The Guardian",
+          "description": "Researchers have recorded a 400% increase in the area of Madre de Dios taken over by small mines from 1999 to 2012",
+          "og:url": "http://www.theguardian.com/environment/2013/oct/29/peruvian-amazon-illegal-goldmines-mapped",
+          "article:author": "https://www.theguardian.com/profile/dan-collyns",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2013/10/29/1383045347568/Gold-mining-The-Carnegie--008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=541da625fa558b8156342c74db746e29",
+          "al:ios:url": "gnmguardian://environment/2013/oct/29/peruvian-amazon-illegal-goldmines-mapped?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Extent of Peruvian Amazon lost to illegal goldmines mapped for first time",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2018-02-14T18:16:51.000Z",
+          "og:image:height": "720",
+          "og:description": "Researchers have recorded a 400% increase in the area of Madre de Dios taken over by small mines from 1999 to 2012",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Environment",
+          "article:published_time": "2013-10-29T11:30:09.000Z",
+          "article:tag": "Mining,Trees and forests,Amazon rainforest,Deforestation,Pollution,Environment,Peru,Americas,World news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Cartographie de l'étendue de l'Amazonie péruvienne perdue à cause des mines d'or illégales entre 1999 et 2012, utilisant des technologies de cartographie aérienne et de surveillance satellitaire par des chercheurs de la Carnegie Institution for Science en collaboration avec le ministère de l'Environnement péruvien.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Greg Asner",
+          "Ernesto Raez Luna"
+        ],
+        "LOCATION": [
+          "Peru",
+          "Amazon",
+          "Madre de Dios"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Carnegie Institution for Science",
+          "Carnegie Landsat Analysis System-lite",
+          "Carnegie Airborne Observatory"
+        ],
+        "DATE": [
+          "1999",
+          "2012",
+          "2008"
+        ],
+        "EVENT": [
+          "2008 global economic crisis"
+        ],
+        "OTHER": [
+          "gold mining",
+          "CLASlite"
+        ]
+      },
+      "score_e5": 0.6987337785248198
+    },
+    {
+      "titre": "Video of Amazon gold mining devastation goes viral in Peru",
+      "source": "Mongabay",
+      "lien": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/",
+      "image_url": "https://mongabay-images.s3.amazonaws.com/13/0926screencap.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tWHHFXVe50lcyCCyd07wqMOW11m71s71anfU82F8N3X8FGuw",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Video of Amazon gold mining devastation goes viral in Peru",
+        "link": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/",
+        "source": "Mongabay",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVmmQB1oxn___6iwWWLsj7A1ZdtngzT4bXc6Mb5-_SXulPv9OSErTLI26WuyXh9qCfo8Nm5bbe2AAAAxklEQVQ4jeWRbRZCIQhEU8APFH37X21g9jJzB_FL9J5hGB-PP6qA2J1betexroCjVEr8EFKuCN8aLvqMd3P5FvYp4H17nzl_4BVIc0ZY1e5qqWSeAuk6ANTIyxSAdAIAcxmrcXQnQFhHm80goCfe30NE9Zl0OdQ8yMMOuNh1fbUZSN8OQLcdydMQOAHVgKo2TUCBtgNs49WcjB8xqa3AAItzaP8CQUYGvbziljv2WUglJ9A7MYGqXY5tRRAQ2YButxV4tv9TT_0pBXrIft-4AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tWHHFXVe50lcyCCyd07wqMOW11m71s71anfU82F8N3X8FGuw",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://mongabay-images.s3.amazonaws.com/13/0926screencap.jpg",
+        "image_width": 400,
+        "image_height": 600
+      },
+      "webpage": {
+        "text": "Video of Amazon gold mining devastation goes viral in Peru\n\nVideo of illegal gold mining operations that have turned a portion of the Amazon rainforest into a moonscape went viral on Youtube after a popular radio and TV journalist in Peru highlighted the story.\n\nLast week Peruvian journalist and politician Güido Lombardi directed his audience to video shot from a wingcam aboard the Carnegie Airborne Observatory (CAO), an airplane used by researchers to conduct advanced monitoring and analysis of Peru’s forests. The video quickly received more than 60,000 views on Youtube.\n\nThe attention generated by the broadcast is significant because the issue of gold mining in the Peruvian Amazon isn’t well known, despite its widening impact.\n\nGüido Lombardi voiceover detailing the damage caused by gold mining in Madre de Dios in southeastern Peru (Spanish).\n\nAccording to Greg Asner, the Carnegie Department of Global Ecology scientist who led the development of the CAO, more than 50,000 hectares have been affected by gold mining in just the southern part of the department of Madre do Dios. A soon-to-be-published paper, co-authored with members of Asner’s team as well as Peruvian researchers, will show that the rate of expansion has nearly tripled in recent years, climbing from 2,166 hectares per year prior to 2008 to 6,145 thereafter.\n\nWhile the numbers may seem abstract, seen from above, the extent and totality of the devastation is astonishing. Vast areas of wildlife-rich rainforests have been annihilated, while normally clear-flowing streams have been converted to muddy cesspools. Streams draining mining areas run blood-red and carry toxins and heavy metals like mercury to downstream towns and villages. Virtually all this mining is illegal.\n\n\nScreen capture from the video of the CAO flying over illegal gold mines in Peru\n\nGiven the growing damage — including social problems like violent conflict, crime, poor labor conditions, human trafficking and prostitution — getting a handle on the activity is a priority for Peru’s Ministry of Environment. The agency, better known as MINAM, has partnered with Asner’s team to track mining in near real-time.\n\n“CAO’s sensors provide detailed information on patterns of degradation that are specific to gold mining; practically in real time,” Ernesto Raez, a senior official at MINAM, told mongabay.com. “We are very interested in the ability of the technology onboard CAO to detect illegal gold mining in the eastern foothills of the Andes (where it is much less visible and easier to hide) and to detect chemical traces of gold mining in the waters, particularly the presence of heavy metals.”\n\nRaez says that illegal gold mining is also afflicting high elevation areas in the Titicaca Lake basin.\n\n“The dimension of illegal mining in the Titicaca basin, particularly at the sources of the Ramis river, is even more shocking than in the jungle (if possible), with massive destruction of precious highland wetlands with heavy machines. These are giant operations. Arsenic has been found in the Titicaca Lake.”\n\nErnesto Raez describing the impact of gold mining (Spanish).\n\nThe Peruvian government doesn’t yet have an estimate for the total extent of gold mines across the country, but Raez estimates that informal mining may involve 150,000 people across the country, suggesting it is well entrenched and therefore potentially very difficult to address.\n\nAsner says whatever the utimate number, it is clear that gold mining is much more pervasive than previously estimated.\n\n“These numbers are much higher than previous reports, and we have fully validated them by combining CLASlite [Asner’s satellite-based deforestation and forest degradation tracking system that is currently being used extensively by MINAM], CAO and clandestine fields surveys,” Asner told mongabay.com. “Working on this problem with Ernesto and the rest of MINAM is a top priority for the CAO team.”\n\nScientists discover high mercury levels in Amazon residents, gold-mining to blame\n\n\n(05/28/2013) The Madre de Dios region in Peru is recognized for its lush Amazon rainforests, meandering rivers and rich wildlife. But the region is also known for its artisanal gold mining, which employs the use of a harmful neurotoxin. Mercury is burned to extract the pure gold from metal and ore producing dangerous air-borne vapors that ultimately settle in nearby rivers. ‘Mercury in all forms is a potent neurotoxin affecting the brain, central nervous system and major organs,’Luis Fernandez, an ecologist and research associate at the Carnegie Institution’s Department of Global Ecology, told mongabay.com. ‘At extremely high exposure levels, mercury has been documented to cause paralysis, insanity, coma and death.’\n\nMining boom in the Amazon\n\n(12/08/2012) The world’s largest rainforest is in the midst of a mining boom fueled by high mineral prices, reveals a new assessment of the Amazon’s resources.\n\nGold mining in the Peruvian Amazon: a view from the ground\n\n\n(03/15/2012) On the back of a partially functioning motorcycle I fly down miles of winding footpath at high-speed through the dense Amazon rainforest, the driver never able to see more than several feet ahead. Myriads of bizarre creatures lie camouflaged amongst the dense vines and lush foliage; flocks of parrots fly overhead in rainbows of color; a moss-covered three-toed sloth dangles from an overhanging branch; a troop of red howler monkeys rumble continuously in the background; leafcutter ants form miles of crawling highways across the forest floor. Even the hot, wet air feels alive.\n\nHigh gold price triggers rainforest devastation in Peru\n\n\n(10/11/2011) As the price of gold inches upward on international markets, a dead zone is spreading across the southern Peruvian rain forest. Tourists flying to Manu or Tambopata, the crown jewels of the country’s Amazonian parks, get a jarring view of a muddy, cratered moonscape … and then another … and another in what the country boasts is its capital of biodiversity. While alluvial gold mining in the Amazon is probably older than the Incas, miners using motorized suction equipment, huge floating dredges and backhoes are plowing through the landscape on an unprecedented scale, leaving treeless scars visible from outer space. Sources close to the Peruvian Environment Ministry say the government is considering declaring an environmental emergency in the region, but emergency measures passed two years ago were not enough to contain the destruction, and some observers doubt that a new decree would have any more impact.\n\nPicture of the day: the high price of gold for the Amazon rainforest\n\n(08/11/2011) The surging price of gold is impacting some of the world’s most important ecosystems: tropical forests.\n\nDemand for gold pushing deforestation in Peruvian Amazon\n\n\n(04/19/2011) Deforestation is on the rise in Peru’s Madre de Dios region from illegal, small-scale, and dangerous gold mining. In some areas forest loss has increased up to six times. But the loss of forest is only the beginning; the unregulated mining is likely leaching mercury into the air, soil, and water, contaminating the region and imperiling its people. Using satellite imagery from NASA, researchers were able to follow rising deforestation due to artisanal gold mining in Peru. According the study, published in PLoS ONE, Two large mining sites saw the loss of 7,000 hectares of forest (15,200 acres)—an area larger than Bermuda—between 2003 and 2009.\n\nBreakthrough technology enables 3D mapping of rainforests, tree by tree\n\n\n(10/24/2011) High above the Amazon rainforest in Peru, a team of scientists and technicians is conducting an ambitious experiment: a biological survey of a never-before-explored tract of remote and inaccessible cloud forest. They are doing so using an advanced system that enables them to map the three-dimensional physical structure of the forest as well as its chemical and optical properties. The scientists hope to determine not only what species may lie below but also how the ecosystem is responding to last year’s drought—the worst ever recorded in the Amazon—as well as help Peru develop a better mechanism for monitoring deforestation and degradation.\n\nCredits\n\n\nTopics",
+        "metadata": {
+          "title": "Video of Amazon gold mining devastation goes viral in Peru",
+          "description": "Video of illegal gold mining operations that have turned a portion of the Amazon rainforest into a moonscape went viral on Youtube after a popular radio and TV journalist in Peru highlighted the story. Last week Peruvian journalist and politician Güido Lombardi directed his audience to video shot from a wingcam aboard the Carnegie Airborne […]",
+          "fb:pages": "24436227877",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Video of Amazon gold mining devastation goes viral in Peru",
+          "og:description": "Video of illegal gold mining operations that have turned a portion of the Amazon rainforest into a moonscape went viral on Youtube after a popular radio and TV journalist in Peru highlighted the story. Last week Peruvian journalist and politician Güido Lombardi directed his audience to video shot from a wingcam aboard the Carnegie Airborne […]",
+          "og:url": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/",
+          "og:site_name": "Mongabay Environmental News",
+          "article:publisher": "https://www.facebook.com/mongabay/",
+          "article:published_time": "2013-09-26T18:26:00+00:00",
+          "og:image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/09121801/mongabay_environmental_news_www-1200x800.png",
+          "og:image:width": "1200",
+          "og:image:height": "800",
+          "og:image:type": "image/png",
+          "author": "Rhett Butler",
+          "keywords": "Mongabay, Mongabay Environmental News, Environmental News, Conservation News",
+          "article:modified_time": "2013-09-26T18:26:00+00:00",
+          "article:section": "Environmental news",
+          "article:tag": "Mongabay, Mongabay Environmental News, Environmental News, Conservation News",
+          "fb:admins": "139042016164873",
+          "fb:app_id": "1559969950974398",
+          "twitter:title": "Video of Amazon gold mining devastation goes viral in Peru",
+          "twitter:description": "Video of illegal gold mining operations that have turned a portion of the Amazon rainforest into a moonscape went viral on Youtube after a popular radio and TV journalist in Peru highlighted the story. Last week Peruvian journalist and politician Güido Lombardi directed his audience to video shot from a wingcam aboard the Carnegie Airborne […]",
+          "latitude": "-13",
+          "longitude": "-13"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#article",
+              "isPartOf": {
+                "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/"
+              },
+              "author": {
+                "name": "Rhett Butler",
+                "@id": "https://news.mongabay.com/#/schema/person/2758fd2b5ec492815c01e7aa44515697"
+              },
+              "headline": "Video of Amazon gold mining devastation goes viral in Peru",
+              "datePublished": "2013-09-26T18:26:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/"
+              },
+              "wordCount": 1290,
+              "commentCount": 0,
+              "publisher": {
+                "@id": "https://news.mongabay.com/#organization"
+              },
+              "image": {
+                "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#primaryimage"
+              },
+              "thumbnailUrl": "https://s3.amazonaws.com/mongabay-images/13/0528.IMG_1408.150.jpg",
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/",
+              "url": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/",
+              "name": "Video of Amazon gold mining devastation goes viral in Peru",
+              "isPartOf": {
+                "@id": "https://news.mongabay.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#primaryimage"
+              },
+              "image": {
+                "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#primaryimage"
+              },
+              "thumbnailUrl": "https://s3.amazonaws.com/mongabay-images/13/0528.IMG_1408.150.jpg",
+              "datePublished": "2013-09-26T18:26:00+00:00",
+              "breadcrumb": {
+                "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#primaryimage",
+              "url": "https://s3.amazonaws.com/mongabay-images/13/0528.IMG_1408.150.jpg",
+              "contentUrl": "https://s3.amazonaws.com/mongabay-images/13/0528.IMG_1408.150.jpg"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://news.mongabay.com/2013/09/video-of-amazon-gold-mining-devastation-goes-viral-in-peru/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://news.mongabay.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Video of Amazon gold mining devastation goes viral in Peru"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://news.mongabay.com/#website",
+              "url": "https://news.mongabay.com/",
+              "name": "Conservation news",
+              "description": "Environmental science and conservation news",
+              "publisher": {
+                "@id": "https://news.mongabay.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://news.mongabay.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://news.mongabay.com/#organization",
+              "name": "Mongabay",
+              "url": "https://news.mongabay.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://news.mongabay.com/#/schema/logo/image/",
+                "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/09122953/mongabay_logo_geco.jpg",
+                "contentUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/09122953/mongabay_logo_geco.jpg",
+                "width": 342,
+                "height": 342,
+                "caption": "Mongabay"
+              },
+              "image": {
+                "@id": "https://news.mongabay.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/mongabay/",
+                "https://x.com/mongabay",
+                "https://www.instagram.com/mongabay/",
+                "https://www.linkedin.com/company/1617875",
+                "https://www.youtube.com/channel/UCnrubbmyCz8krGnpsbhJRYg"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://news.mongabay.com/#/schema/person/2758fd2b5ec492815c01e7aa44515697",
+              "name": "Rhett Butler",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://secure.gravatar.com/avatar/c84cfb59f43f7f1e65d13361c6c88ed02b9f7a0838eec54ac74cfebf2959464b?s=96&d=identicon&r=g",
+                "url": "https://secure.gravatar.com/avatar/c84cfb59f43f7f1e65d13361c6c88ed02b9f7a0838eec54ac74cfebf2959464b?s=96&d=identicon&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/c84cfb59f43f7f1e65d13361c6c88ed02b9f7a0838eec54ac74cfebf2959464b?s=96&d=identicon&r=g",
+                "caption": "Rhett Butler"
+              },
+              "description": "Rhett Butler is the founder and CEO of Mongabay. He also servers as managing editor.",
+              "sameAs": [
+                "https://x.com/rhett_butler"
+              ],
+              "url": "https://news.mongabay.com/author/rhett-butler/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Diffusion d'une vidéo virale sur YouTube montrant la dévastation de la forêt amazonienne et des rivières par des opérations minières d'or illégales au Pérou, filmée à partir du Carnegie Airborne Observatory (CAO) et relayée par le journaliste et homme politique Güido Lombardi.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Güido Lombardi",
+          "Greg Asner",
+          "Ernesto Raez"
+        ],
+        "LOCATION": [
+          "Peru",
+          "Amazon",
+          "Madre de Dios",
+          "Andes",
+          "Titicaca Lake",
+          "Ramis river"
+        ],
+        "ORGANIZATION": [
+          "Mongabay",
+          "Carnegie Airborne Observatory",
+          "Ministry of Environment",
+          "MINAM"
+        ],
+        "DATE": [
+          "Last week",
+          "2008"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "gold mining",
+          "mercury"
+        ]
+      },
+      "score_e5": 0.6940623585524194
+    },
+    {
+      "titre": "Illegal gold is destroying the Amazon | The Verge",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/2013/10/28/5023638/peru-illegal-gold-mines-destroy-amazon-rainforest-study-carnegie-institution",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14500557/carnegie.1419980025.jpg?quality=90&strip=all&crop=8,0,84,100",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4zTNOwWjrKXoogFPskbEdLQJxyoOsIehue49AnUTRwNof4kIq",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Illegal gold is destroying the Amazon | The Verge",
+        "link": "https://www.theverge.com/2013/10/28/5023638/peru-illegal-gold-mines-destroy-amazon-rainforest-study-carnegie-institution",
+        "source": "The Verge",
+        "source_icon": "https://serpapi.com/searches/6a8edb5b55ba6521a200ac6d/images/lBwXpwbGHCV6tDb2ufI4yVBEv6k3jXmYwnpXctYxN_k.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4zTNOwWjrKXoogFPskbEdLQJxyoOsIehue49AnUTRwNof4kIq",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14500557/carnegie.1419980025.jpg?quality=90&strip=all&crop=8,0,84,100",
+        "image_width": 616,
+        "image_height": 924
+      },
+      "webpage": {
+        "text": "Illegal gold is destroying the Amazon\n\nThe Carnegie Airborne Observatory flies over the Madre de Dios region of Peru, where vast deforested and polluted areas result from gold mining. (Image credit: Carnegie Airborne Observatory)\n\nGold has long been synonymous with wealth and prosperity, but the shiny precious metal has taken on a far darker shade in Peru. Years of informal and illegal mining have wreaked havoc on the country’s tropical rainforests, and according to a new study from the Carnegie Institution of Science and Peru’s Ministry of the Environment, the situation is more dire than previously believed.\n\nThe research, published today in the Proceedings of the National Academy of Sciences, puts the scale of Peru’s artisanal mining industry in harsh new light. Combining satellite imagery with survey data, lead author Greg Asner and his team of scientists found that land used for illegal gold mines increased by 400 percent between 1999 and 2012, and that deforestation rates have tripled since the 2008 global financial crisis, when gold prices skyrocketed.\n\nGold mining has accelerated across the western Amazon in recent years, touching countries like Bolivia, Colombia, and Ecuador; but the industry’s epicenter is in the Peruvian state of Madre de Dios, a region known for its lush rain forests and biodiversity. Around 50,000 small-scale miners are currently operating in the region, according to federal estimates, and most do so without permits or government oversight. Instead, they work under the control of a small group of so-called “gold lords,” who obtained land rights, or concessions, from regional administrators.\n\n\"traditional satellite methods were blind to at least half of the mines.\"\n\nPeru’s gold lords are known to run their mines with an iron fist, reaping benefits off the backs of forced labor, violence, and child workers. They’ve also translated their riches into political influence, and have so far thwarted all attempts at federal oversight. As a result, there’s very little hard data on the environmental impacts, or even the extent of Peru’s mining industry. And based on Carnegie’s findings, the few studies that have been conducted so far grossly underestimated its scale.\n\n“Past studies were only able to detect mines of a certain large size,” Asner tells The Verge. “The new technique we use is so resolute that it more than doubles the rate of gold mining compared to past reports that used traditional satellite methods, which were blind to at least half of the mines.”\n\n\nThis CLASlite map shows the areas along the Madre de Dios river damaged by small, clandestine gold miners between 1999 and 2012. (Image credit: CLASlite Team)\n\nThe key, Asner says, was Carnegie’s advanced imaging technology. Working in collaboration with the Peruvian Ministry of Environment, Asner and his team surveyed Madre de Dios with the Carnegie Airborne Observatory, an airplane with an onboard laboratory. The plane was also equipped with lidar imaging technology (short for “Laser Imaging, Detection, and Ranging”), which scans areas with lasers to create detailed topographical maps in 3D. (Asner likens it to an MRI scan for land.)\n\nAdvanced satellites provide \"exquisitely detailed information\"\n\nLidar allowed the researchers to map the region in high detail, exposing the thousands of small mines that other studies had missed. It was also combined with data gathered by an imaging spectrometer to provide what Asner calls “exquisitely detailed information” on both deforestation levels and the chemical impacts of Peru’s mining.\n\n“For example, if mining is putting suspended sediment into waters, we can see that sediment and understand its composition,” he explains.\n\nOnce the plane surveyed a small area, Asner and his team programmed a satellite system known as CLASlite to apply the same methods to the entire region. They then compared these findings to previously collected satellite data, and the results were startling. Prior to the 2008 crisis, gold miners were tearing down rainforest at a rate of 5,350 acres per year. After the crisis, that number jumped to 15,180 acres.\n\nMiners typically extract gold by digging deep craters in cleared areas, often delving as far as 10 meters below the surface. They then blast the crater with pressurized water to carve away the soil, before draining the area across mats designed to sift out tiny gold flakes.\n\nAn area of rainforest cleared for gold mining in the Madre de Dios region of Peru. (Image credit: Greg Asner, Carnegie Institution for Science)\n\nThis process poses obvious threats to Peru’s rainforest, and the sediment it releases into rivers can have devastating effects on water life. But perhaps most deadly is the final step, which involves dousing the flakes with mercury — a neurotoxin — and then burning them. This results in heavy gold nuggets, but it also holds disastrous consequences for the local ecosystem and food chain.\n\nAccording to an earlier report from the Carnegie Amazon Mercury Project, Peru’s informal miners combine to release 30 tons of mercury into the country’s rivers and lakes every year. Children in Madre de Dios were found to have mercury levels that were, on average, five times higher than the limit considered safe by the World Health Organization; some locals’ mercury levels were as high as 34 times that limit.\n\n\"I haven't seen anything this bad.\"\n\nThe industry poses serious social risks, as well. A September report from international rights group Verité found widespread cases of abuse at Peru’s informal gold mines, including child labor and sexual exploitation. Verité estimates that tens of thousands of children work in the mines, turning the region into a bastion of forced labor.\n\n“Verité has done research on forced labor in places like Bangladesh, Guatemala, Bolivia, Liberia and the US,” Quinn Kepes, the report’s lead researcher, said in a statement. “I haven’t seen anything this bad.”\n\nEfforts to crack down on illegal mining have faced stiff resistance from gold lords, who are known to control regional governments through bribery and corruption. The federal government recently established tougher penalties for offenders and has begun destroying thousands of mines located near protected areas, but attempts to legitimize the industry have so far fallen short.\n\n\"Nobody should buy one gram of this jungle gold.\"\n\nComplicating matters further is the fact that Peru’s illegal gold market is nearly impossible to trace. Experts say most gold is laundered through legitimate businesses, and although some reports have identified Switzerland as a major destination, officials are still working to untangle the supply chain.\n\nPeru’s Environment Ministry hopes today’s report will push officials to take more urgent action, now that they have solid (and alarming) data to underpin their efforts.\n\n“Finally, we have very detailed and accurate data that we can turn into government action,” Ernesto Raez Luna, a senior advisor in the Peruvian Ministry of Environment and co-author of the Carnegie study, said in a statement released Monday. “Nobody should buy one gram of this jungle gold. The mining must be stopped.”\n\nFollow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n * Amar Toor",
+        "metadata": {
+          "title": "The Verge",
+          "fb:app_id": "549923288395304",
+          "og:site_name": "The Verge",
+          "apple-mobile-web-app-title": "Verge",
+          "description": "New research reveals the breadth and devastation of clandestine mining in Peru",
+          "og:title": "Illegal gold is destroying the Amazon",
+          "og:description": "New research reveals the breadth and devastation of clandestine mining in Peru",
+          "og:url": "https://www.theverge.com/2013/10/28/5023638/peru-illegal-gold-mines-destroy-amazon-rainforest-study-carnegie-institution",
+          "og:type": "article",
+          "article:published_time": "2013-10-28T19:00:02+00:00",
+          "article:modified_time": "2013-10-28T19:00:02+00:00",
+          "og:image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14500557/carnegie.1419980025.jpg?quality=90&strip=all&crop=0,3.2535527299925,100,93.492894540015",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1100",
+          "og:image:height": "575",
+          "author": "Amar Toor",
+          "twitter:title": "Illegal gold is destroying the Amazon",
+          "twitter:description": "New research reveals the breadth and devastation of clandestine mining in Peru",
+          "parsely-title": "Illegal gold is destroying the Amazon",
+          "parsely-author": "Amar Toor",
+          "cse-authors": "Amar Toor"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Illegal gold is destroying the Amazon",
+          "description": "New research reveals the breadth and devastation of clandestine mining in Peru",
+          "datePublished": "2013-10-28T19:00:02+00:00",
+          "dateModified": "2013-10-28T19:00:02+00:00",
+          "url": "https://www.theverge.com/2013/10/28/5023638/peru-illegal-gold-mines-destroy-amazon-rainforest-study-carnegie-institution",
+          "mainEntityOfPage": "https://www.theverge.com/2013/10/28/5023638/peru-illegal-gold-mines-destroy-amazon-rainforest-study-carnegie-institution",
+          "publisher": {
+            "@type": "Organization",
+            "name": "The Verge",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+              "width": "1200",
+              "height": "628"
+            }
+          },
+          "articleSection": "Policy",
+          "keywords": [
+            "Policy",
+            "Report",
+            "Science"
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Amar Toor",
+              "url": "https://www.theverge.com/authors/amar-toor"
+            }
+          ],
+          "isAccessibleForFree": false,
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14500557/carnegie.1419980025.jpg?quality=90&strip=all&crop=0,3.2535527299925,100,93.492894540015",
+              "height": "575",
+              "width": "1100"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14500557/carnegie.1419980025.jpg?quality=90&strip=all&crop=8,0,84,100",
+              "height": "616",
+              "width": "924"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14500557/carnegie.1419980025.jpg?quality=90&strip=all&crop=22,0,56,100",
+              "height": "616",
+              "width": "615"
+            }
+          ],
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xpath": [
+              "/html/head/title",
+              "/html/head/meta[@name='description']/@content"
+            ]
+          },
+          "articleBody": "The Carnegie Airborne Observatory flies over the Madre de Dios region of Peru, where vast deforested and polluted areas result from gold mining. (Image credit: Carnegie Airborne Observatory)\nGold has long been synonymous with wealth and prosperity, but the shiny precious metal has taken on a far darker shade in Peru. Years of informal and illegal mining have wreaked havoc on the country’s tropical rainforests, and according to a new study from the Carnegie Institution of Science and Peru’s Ministry of the Environment, the situation is more dire than previously believed.\nThe research, published today in the Proceedings of the National Academy of Sciences, puts the scale of Peru’s artisanal mining industry in harsh new light. Combining satellite imagery with survey data, lead author Greg Asner and his team of scientists found that land used for illegal gold mines increased by 400 percent between 1999 and 2012, and that deforestation rates have tripled since the 2008 global financial crisis, when gold prices skyrocketed.\nGold mining has accelerated across the western Amazon in recent years, touching countries like Bolivia, Colombia, and Ecuador; but the industry&rsquo;s epicenter is in the Peruvian state of Madre de Dios, a region known for its lush rain forests and biodiversity. Around 50,000 small-scale miners are currently operating in the region, according to federal estimates, and most do so without permits or government oversight. Instead, they work under the control of a small group of so-called “gold lords,” who obtained land rights, or concessions, from regional administrators.\nPeru’s gold lords are known to run their mines with an iron fist, reaping benefits off the backs of forced labor, violence, and child workers. They&rsquo;ve also translated their riches into political influence, and have so far thwarted all attempts at federal oversight. As a result, there’s very little hard data on the environmental impacts, or even the extent of Peru’s mining industry. And based on Carnegie’s findings, the few studies that have been conducted so far grossly underestimated its scale.\n“Past studies were only able to detect mines of a certain large size,” Asner tells The Verge. “The new technique we use is so resolute that it more than doubles the rate of gold mining compared to past reports that used traditional satellite methods, which were blind to at least half of the mines.”\nThe key, Asner says, was Carnegie’s advanced imaging technology. Working in collaboration with the Peruvian Ministry of Environment, Asner and his team surveyed Madre de Dios with the Carnegie Airborne Observatory, an airplane with an onboard laboratory. The plane was also equipped with lidar imaging technology (short for “Laser Imaging, Detection, and Ranging”), which scans areas with lasers to create detailed topographical maps in 3D. (Asner likens it to an MRI scan for land.)\nLidar allowed the researchers to map the region in high detail, exposing the thousands of small mines that other studies had missed. It was also combined with data gathered by an imaging spectrometer to provide what Asner calls “exquisitely detailed information” on both deforestation levels and the chemical impacts of Peru’s mining.\n“For example, if mining is putting suspended sediment into waters, we can see that sediment and understand its composition,” he explains.\nOnce the plane surveyed a small area, Asner and his team programmed a satellite system known as CLASlite to apply the same methods to the entire region. They then compared these findings to previously collected satellite data, and the results were startling. Prior to the 2008 crisis, gold miners were tearing down rainforest at a rate of 5,350 acres per year. After the crisis, that number jumped to 15,180 acres.\nMiners typically extract gold by digging deep craters in cleared areas, often delving as far as 10 meters below the surface. They then blast the crater with pressurized water to carve away the soil, before draining the area across mats designed to sift out tiny gold flakes.\nAn area of rainforest cleared for gold mining in the Madre de Dios region of Peru. (Image credit: Greg Asner, Carnegie Institution for Science)\nThis process poses obvious threats to Peru’s rainforest, and the sediment it releases into rivers can have devastating effects on water life. But perhaps most deadly is the final step, which involves dousing the flakes with mercury &mdash; a neurotoxin &mdash; and then burning them. This results in heavy gold nuggets, but it also holds disastrous consequences for the local ecosystem and food chain.\nAccording to an earlier report from the Carnegie Amazon Mercury Project, Peru’s informal miners combine to release 30 tons of mercury into the country&rsquo;s rivers and lakes every year. Children in Madre de Dios were found to have mercury levels that were, on average, five times higher than the limit considered safe by the World Health Organization; some locals’ mercury levels were as high as 34 times that limit.\nThe industry poses serious social risks, as well. A September report from international rights group Verit&eacute; found widespread cases of abuse at Peru&rsquo;s informal gold mines, including child labor and sexual exploitation. Verit&eacute; estimates that tens of thousands of children work in the mines, turning the region into a bastion of forced labor.\n“Verit&eacute; has done research on forced labor in places like Bangladesh, Guatemala, Bolivia, Liberia and the US,” Quinn Kepes, the report’s lead researcher, said in a statement. “I haven’t seen anything this bad.”\nEfforts to crack down on illegal mining have faced stiff resistance from gold lords, who are known to control regional governments through bribery and corruption. The federal government recently established tougher penalties for offenders and has begun destroying thousands of mines located near protected areas, but attempts to legitimize the industry have so far fallen short.\nComplicating matters further is the fact that Peru’s illegal gold market is nearly impossible to trace. Experts say most gold is laundered through legitimate businesses, and although some reports have identified Switzerland as a major destination, officials are still working to untangle the supply chain.\nPeru’s Environment Ministry hopes today’s report will push officials to take more urgent action, now that they have solid (and alarming) data to underpin their efforts.\n“Finally, we have very detailed and accurate data that we can turn into government action,” Ernesto Raez Luna, a senior advisor in the Peruvian Ministry of Environment and co-author of the Carnegie study, said in a statement released Monday. “Nobody should buy one gram of this jungle gold. The mining must be stopped.”",
+          "about": [
+            {
+              "@type": "Thing",
+              "name": "Policy",
+              "url": "https://www.theverge.com/policy"
+            },
+            {
+              "@type": "Thing",
+              "name": "Report",
+              "url": "https://www.theverge.com/report"
+            },
+            {
+              "@type": "Thing",
+              "name": "Science",
+              "url": "https://www.theverge.com/science"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Étude publiée dans les Proceedings of the National Academy of Sciences par la Carnegie Institution of Science et le ministère péruvien de l'Environnement, montrant que les mines d'or illégales ont détruit de vastes zones de forêts tropicales dans la région de Madre de Dios au Pérou.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Greg Asner"
+        ],
+        "LOCATION": [
+          "Peru",
+          "Amazon",
+          "Bolivia",
+          "Colombia",
+          "Ecuador",
+          "Madre de Dios"
+        ],
+        "ORGANIZATION": [
+          "The Verge",
+          "Carnegie Institution of Science",
+          "Ministry of the Environment",
+          "Carnegie Airborne Observatory",
+          "CLASlite Team"
+        ],
+        "DATE": [
+          "1999",
+          "2012",
+          "2008"
+        ],
+        "EVENT": [
+          "2008 global financial crisis"
+        ],
+        "OTHER": [
+          "gold"
+        ]
+      },
+      "score_e5": 0.7052197303959332
+    },
+    {
+      "titre": "Gold Mining Destroying Peruvian Amazon - Business Insider",
+      "source": "Business Insider",
+      "lien": "https://www.businessinsider.com/gold-mining-destroying-peruvian-amazon-2013-10",
+      "image_url": "https://i.insider.com/52729dfaeab8eaa2577d3d09?width=800&format=jpeg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNN9rzI9zzawFMYh5dsu9eskcBvHorVqBTf1ZNUwtjTrM-t0Z_",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Gold Mining Destroying Peruvian Amazon - Business Insider",
+        "link": "https://www.businessinsider.com/gold-mining-destroying-peruvian-amazon-2013-10",
+        "source": "Business Insider",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEUAJf____8AGv8AIv8AA_-9wf8AD_-ytf9xd_9MWP-UmP_m6P-ip_8rPv_y9P98hv8PI8ujAAAAiUlEQVQ4jeWSyQ7DIAxEHS-AWZr__9vgwKFFdbi3c7EtP6ExGoD_EpnehnWNQ8w4J1r2x9BLNECQ3sXwFeg6Az8DB7pAzdFKcgHge-UDZ8rmk589lOZ7GIcm_4qaqxV1gcZsJqILaNPSi-w-Km-AsjlTkG5APgCgNKTIBKjWLYmYecD54JqHn9cF4xoEc0Ed_D8AAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNN9rzI9zzawFMYh5dsu9eskcBvHorVqBTf1ZNUwtjTrM-t0Z_",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://i.insider.com/52729dfaeab8eaa2577d3d09?width=800&format=jpeg&auto=webp",
+        "image_width": 419,
+        "image_height": 743
+      },
+      "webpage": {
+        "text": "Gold Mining Destroying Peruvian Amazon\n\nYears of illegal gold mining in Peru have taken a serious toll on the Amazon rainforest.\n\nNo one knew the full extent of the damage until a research team from the Carnegie Institution of Science and Peru's Ministry of the Environment used satellite imagery to map the damage.\n\nTheir findings are published in Proceedings of the National Academy of Sciences.\n\nGreg Asner and his team of researchers found that gold mines in Peru increased by 400% from 1999 to 2012. Tons of forest area has to be cleared in order for miners to dig into the Earth and extract gold, and this is a serious problem because the Amazon forest produces about 20% of the planet's oxygen, according to the World Wildlife Fund. It also sucks up carbon dioxide and other greenhouse gasses, returning them to the Earth.\n\nPeru's rain forests sit on top of a wealth of natural treasures, from oil and coal to gold. To get to these riches, miners destroy the forest and mountains that sit atop them. This could be devastating for the Earth, since these forests play such an important part in our ecosystem.\n\nJustin Catanoso, a journalist who just returned from touring the Peruvian rain forests with ecologist Miles Silman, thinks that saving these forests is an integral part of slowing the potentially devastating effects of climate change. One way we can do that, he said, is if richer countries work together on an international level to pay countries like Peru to leave these pristine and important forests untouched and stop the for-profit destruction of these forests.\n\nHis fear isn't unfounded, according to the new paper. These miners are already destroying acres and acres of these precious rain forests. An article in The Verge described the process gold miners use: They create craters by digging a few meters and blasting the holes with pressurized water to clear away the soil, completely destroying the forest area.\n\nAsner and his team used a plane outfitted with Laser Imaging, Detection, and Ranging technology to survey the area. This kind of imaging actually uses lasers to scan areas and creates 3-D diagrams of the land. This kind of satellite imaging is much more sensitive than older kinds, and revealed many more mines than scientists were able to detect in the past.\n\nYou can see how much the mining industry has grown along the Madre De Dios river in the southern part of Peru in the image below:\n\nCajamarca, Peru has also seen a steep increase in mining over the years:\n\nWhen the price of gold skyrocketed in 2008, miners began clearing forest area much faster. The rate of forest destruction jumped from about 5,400 acres per year to 15,000 acres per year. Thousands of small mines have sprung up in the area, away from main roads so most are undetected from the land, but visible from the air.\n\nMiners have so far been able to resist most government attempts to regulate the industry. Until 2008, Peru's mining regulation decisions were all made by the Ministry of Energy and Mines — a clear \"conflict of interest,\" the researchers said in the paper. Around 50,000 small-scale miners in Peru are mining without permits or any government regulation, according to The Verge.\n\nIn addition to forest destruction, the mining in Peru also releases pollutants into the nearby Madre De Dios river. Mercury is used to extract gold from the Earth, and excess Mercury from the mines has polluted the area and made its way into the food chain.\n\nGet the latest Gold price here.\n\n\nRead next\n\n\nKelly was a science reporter at Tech Insider, covering space and physics. She graduated from the CUNY Graduate School of Journalism with an M.A. in science and health reporting. She received at B.S. degree in biology and a B.A. degree in communication from Berry College. Kelly has previously written for Live Science, Space.com, and Psychology Today. \n\n * Amazon\n * Gold\n * Climate Change\n * More",
+        "metadata": {
+          "title": "How Gold Is Destroying Peru's Rainforests",
+          "news_keywords": "Science, Finance, Amazon, Gold, Climate Change",
+          "description": "Illegal gold mining in Peru has increased 400% in the past decade, causing severe destruction of the Amazon and having a devastating effect on climate change.",
+          "author": "Kelly Dickerson",
+          "article:publisher": "businessinsider",
+          "og:title": "How Gold Is Destroying Peru's Rainforests",
+          "og:description": "Illegal gold mining in Peru has increased 400% in the past decade, causing severe destruction of the Amazon and having a devastating effect on climate change.",
+          "og:type": "article",
+          "og:url": "https://www.businessinsider.com/gold-mining-destroying-peruvian-amazon-2013-10",
+          "og:image": "https://i.insider.com/5272acea6bb3f766135893c5?width=1200&format=jpeg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "600",
+          "og:site_name": "Business Insider",
+          "fb:pages": "20446254070",
+          "mrf:sections": "Science",
+          "mrf:tags": "Page Type:story",
+          "apple-mobile-web-app-title": "Business Insider"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Utilisation d'imagerie satellitaire par une équipe de recherche de la Carnegie Institution of Science et du ministère de l'Environnement du Pérou pour cartographier les dégâts causés par l'exploitation minière illégale de l'or dans la forêt amazonienne péruvienne, notamment le long de la rivière Madre de Dios et à Cajamarca.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Greg Asner",
+          "Justin Catanoso",
+          "Miles Silman"
+        ],
+        "LOCATION": [
+          "Peru",
+          "Amazon",
+          "Madre de Dios",
+          "Cajamarca"
+        ],
+        "ORGANIZATION": [
+          "Business Insider",
+          "Carnegie Institution of Science",
+          "Ministry of the Environment",
+          "World Wildlife Fund"
+        ],
+        "DATE": [
+          "1999",
+          "2012",
+          "2008"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "gold"
+        ]
+      },
+      "score_e5": 0.717820143835375
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Mali"
+    ],
+    "ORGANIZATION": [
+      "UN"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "11000 personnel"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Greg Asner",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ernesto Raez Luna",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Güido Lombardi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Justin Catanoso",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Miles Silman",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Peru",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Peruvian Amazon",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Guacamayo",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Madre de Dios",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Huepetuhe",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Delta-1",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Andes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Titicaca Lake",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ramis river",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bolivia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Colombia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ecuador",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cajamarca",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Geographic",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Carnegie Institution for Science",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ministry of Environment",
+      "rangs": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Carnegie Landsat Analysis System-lite",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Carnegie Airborne Observatory",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mongabay",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Verge",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CLASlite Team",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Business Insider",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Wildlife Fund",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "two years ago",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2009",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "five days ago",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1999",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Last week",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "2008 global economic crisis",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "gold mines",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "mercury",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "CLASlite",
+      "rangs": [
+        2
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T01:45:05.186841"
+  }
+}

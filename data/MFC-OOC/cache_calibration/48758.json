@@ -1,0 +1,971 @@
+{
+  "id_rumeur": 48758,
+  "id_image": 1522229,
+  "caption": "NASA s Mars Science Laboratory rover Curiosity appears as a bluish dot near the lower right corner of this enhancedcolor view from the High Resolution Imaging Science Experiment",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756927/oluyewo_benchmark/l8xp6nnqxphyqx7aq7b7.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "File:Avezzano, Italy ESA346876.jpg - Wikimedia Commons",
+      "source": "Wikimedia Commons",
+      "lien": "https://commons.wikimedia.org/wiki/File:Avezzano,_Italy_ESA346876.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Avezzano,_Italy_ESA346876.jpg/1280px-Avezzano,_Italy_ESA346876.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBfWNylS9962ZCWMqFJlPI-NqwfbEvDWpkGKI0tqrlzA6evKKO",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "File:Avezzano, Italy ESA346876.jpg - Wikimedia Commons",
+        "link": "https://commons.wikimedia.org/wiki/File:Avezzano,_Italy_ESA346876.jpg",
+        "source": "Wikimedia Commons",
+        "source_icon": "https://serpapi.com/searches/6a8f0181f05275e3039b45a1/images/AcVko-senZV9LNNIvxTDZf3AZ2zaXb-Pva_W_FMGY1s.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBfWNylS9962ZCWMqFJlPI-NqwfbEvDWpkGKI0tqrlzA6evKKO",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Avezzano,_Italy_ESA346876.jpg/1280px-Avezzano,_Italy_ESA346876.jpg",
+        "image_width": 836,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "File:Avezzano, Italy ESA346876.jpg\n\nDescription\n\nEnglish: This Sentinel-2A false colour image shows agricultural structures in the Abruzzo region of central Italy.\n\nThe varying shades of red and other colours across the entire image indicate how sensitive the satellite’s multispectral camera is to differences in vegetation cover and chlorophyll content. This is used to provide key information on plant health. For this image, the brighter reds indicate more photosynthetically active vegetation, as seen in many of the fields and along the Roveto Valley Abruzzi mountain range in the lower left. In the very centre of the image a cloud and its shadow are clearly visible over the plain. On the central left side we can make out an industrial area, whereas the city of Avezzano is just further north. The entire area in the centre is where the Fucino Lake used to be. The Romans founded settlements on its banks as the lake provided fertile soil and a large quantity of fish. However, the lake was believed to harbour malaria, and, not having a natural outflow, it repeatedly flooded the surrounding arable land. In 1862 Prince Alessandro Torlonia commissioned a Swiss engineer to drain what was once Italy’s third largest lake. A 6.3 km-long and 21 m-wide canal was dredged. By 1875 the lake was completely drained, and the resulting plain is one of Italy’s most fertile regions today.  A canal is clearly visible running horizontally across the centre of the image. In the lower-right section of the plain is a cluster of dots surrounded by fields: the Fucino Space Centre, one of the largest civil space centres in the world, a node for missions operations.   The dots are the 100 antennas sited on an extension of 370 000 sq m. Fucino also hosts one of the control centres that will manage the 30 satellites and the operational activities of Galileo, the European satellite navigation system.\n\nThis image, captured on 8 July by Sentinel-2A, is featured on the Earth from Space video programme.",
+        "metadata": {
+          "title": "File:Avezzano, Italy ESA346876.jpg - Wikimedia Commons",
+          "og:image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Avezzano%2C_Italy_ESA346876.jpg/1280px-Avezzano%2C_Italy_ESA346876.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "784",
+          "og:title": "File:Avezzano, Italy ESA346876.jpg - Wikimedia Commons",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Avezzano%2C_Italy_ESA346876.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "license": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "acquireLicensePage": "//commons.wikimedia.org/wiki/File:Avezzano,_Italy_ESA346876.jpg",
+          "name": "Avezzano, Italy ESA346876",
+          "uploadDate": "2017-05-12 09:20:30",
+          "width": "2032 px",
+          "height": "1327 px",
+          "contentSize": 2727314,
+          "encodingFormat": "image/jpeg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Image en fausses couleurs capturée par le satellite Sentinel-2A le 8 juillet montrant des structures agricoles dans la région des Abruzzes en Italie centrale, incluant la vallée du Roveto, la chaîne de montagnes des Abruzzes, l'emplacement de l'ancien lac Fucino, la ville d'Avezzano et le Centre spatial du Fucino.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alessandro Torlonia"
+        ],
+        "LOCATION": [
+          "Avezzano",
+          "Abruzzo",
+          "Italy",
+          "Roveto Valley",
+          "Abruzzi",
+          "Fucino Lake",
+          "Fucino Space Centre"
+        ],
+        "ORGANIZATION": [
+          "Wikimedia Commons",
+          "ESA",
+          "Romans"
+        ],
+        "DATE": [
+          "8 July",
+          "1862",
+          "1875"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Sentinel-2A",
+          "Galileo"
+        ]
+      },
+      "score_e5": 0.7588379747970816
+    },
+    {
+      "titre": "EU satellite gears up for data flood - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/science-environment-33655004",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/92DC/production/_84469573_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVS5jwgdClube6COh5M8y34rF2RrtdJMRuXNvKKHANKGVwIOai",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "EU satellite gears up for data flood - BBC News",
+        "link": "https://www.bbc.com/news/science-environment-33655004",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVS5jwgdClube6COh5M8y34rF2RrtdJMRuXNvKKHANKGVwIOai",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/92DC/production/_84469573_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "EU satellite gears up for data flood\n\nGiven that today, non-specialist use of Earth imagery overwhelmingly relies on Landsat data, it is more than probable that Sentinel products will be in big demand.\n\nThe European Commission will be using Sentinel pictures in its Copernicus programme to run variety of services, reaching across agriculture and forestry, urban planning and disaster mitigation.\n\nAgriculture, though, is certain to be a big user. The satellite's camera sensor has been designed to detect very specific wavelengths of light that detail the health of plants.\n\nIn normal operation, Sentinel-2a will be producing 1.7 terabytes of processed data per day. And this will double when the sister satellite, Sentinel-2b, is launched next year.\n\n\"The data volume is incredible,\" Dr Hoersch told BBC News.\n\n\"Of course, we all knew it would be like this, but when you sit there with your computer and try to download it, it's massive - gigabytes of data. I had to go out at the weekend and buy a hard disk to store all these products for my presentations.\"\n\nEsa will launch Sentinel-3a at the end of 2015. This satellite is dedicated to observing the oceans.",
+        "metadata": {
+          "description": "Europe's Sentinel-2a satellite, which will \"carpet map\" the Earth's land surface day-in, day-out, is on course to go into full operation in early or mid-October.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Europe's Sentinel-2a satellite, which will \"carpet map\" the Earth's land surface day-in, day-out, is on course to go into full operation in early or mid-October.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4A62/production/_84524091_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+          "og:image:alt": "Avezzano Italy",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "EU satellite gears up for data flood",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/science-environment-33655004",
+          "article:section": "Science & Environment",
+          "twitter:description": "Europe's Sentinel-2a satellite, which will \"carpet map\" the Earth's land surface day-in, day-out, is on course to go into full operation in early or mid-October.",
+          "twitter:title": "EU satellite gears up for data flood"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/science-environment-33655004",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-07-28T08:35:11.000Z",
+          "dateModified": "2015-07-28T08:35:11.000Z",
+          "description": "Europe's Sentinel-2a satellite, which will \"carpet map\" the Earth's land surface day-in, day-out, is on course to go into full operation in early or mid-October.",
+          "headline": "EU satellite gears up for data flood",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4A62/production/_84524091_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4A62/production/_84524091_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/science-environment-33655004",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Jonathan Amos"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de BBC News sur le satellite Sentinel-2A de l'Union Européenne produisant de grands volumes de données pour le programme Copernicus, utilisé dans des domaines comme l'agriculture, la sylviculture, l'urbanisme et la gestion des catastrophes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hoersch"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "BBC News",
+          "European Commission",
+          "Esa"
+        ],
+        "DATE": [
+          "end of 2015",
+          "next year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Landsat",
+          "Sentinel",
+          "Sentinel-2A",
+          "Sentinel-2b",
+          "Sentinel-3a",
+          "Copernicus"
+        ]
+      },
+      "score_e5": 0.7192797168728732
+    },
+    {
+      "titre": "Sentinel satellite launched to picture Planet Earth - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/science-environment-39183353",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/14811/production/_94958938_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGBPgWb0DztT5hFxYmaDMA7qZOeiRNaMJTiuMRzrCHn61dxJ0",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Sentinel satellite launched to picture Planet Earth - BBC News",
+        "link": "https://www.bbc.com/news/science-environment-39183353",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGBPgWb0DztT5hFxYmaDMA7qZOeiRNaMJTiuMRzrCHn61dxJ0",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/14811/production/_94958938_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Sentinel satellite launched to picture Planet Earth\n\nSentinels 2A and 2B are, in many senses, the centrepiece of this effort because their free and open picture resource will almost certainly find the widest use.\n\n\"To say they are the 'heartbeat' is a good way to describe them because they take the images that are most easily understandable,\" Josef Aschbacher, the director of Earth observation at the European Space Agency (Esa), told BBC News.\n\nThe lift-off aboard a Vega rocket occurred on cue at 22:49 local time, external, Monday (01:49 GMT, 02:49 CET, Tuesday).\n\nEjection of the satellite happened about an hour later, close to 775km above the Earth.\n\nControllers in Darmstadt, Germany, were waiting to pick up a signal and begin early operations.\n\n\"We will slowly acquire the reference orbit (786km altitude) over the next two weeks,\" explained Bianca Hoersch, Esa's mission manager for the Sentinel-2 spacecraft.\n\n\"Then we have the commissioning phase; that takes us to early June. At that point we should be producing lots of data, and after a short ramp-up, around the October timeframe, we should be in full constellation readiness.\"\n\nThe colour cameras on the Sentinel-2 pair are designed to see features as small as 10m across.\n\nSensitive to 13 bands of light, the instruments will observe a range of properties in the things they see, allowing for example the distinction to be made between different types of crops and for an assessment to be made about their health.\n\nTogether, they will be producing something like four terabytes of data daily. It is a prodigious volume that will lean on the assistance of a laser relay link.\n\nFor a 10-minute spell on each orbit, the spacecraft will each fire their images not down to Earth but higher into the sky, to a geostationary satellite that will then bounce them to the ground.\n\nThousands of users have registered to have access to the pictures. Downloading them from the various distributed servers has been made easier by chopping the \"scenes\" up into more manageable chunks.\n\n\"With Sentinel-1A, we had at the beginning huge products that were 8GB to 9GB per file, which were really hard to access and download,\" said Dr Hoersch.\n\n\"In September, we switched to single tiles, a product of 100km by 100km, and I think that has led to an explosion in data access. We've had 2.7 million products downloaded in the last two months.\"\n\nSentinels are designed to fly in pairs to shorten the revisit time to any one point on Earth.\n\nSentinel 1 is a radar platform and has had its duo fully operational in orbit since last year. Sentinel 2 is the next to complete its pairing; Sentinel 3, which carries predominantly ocean sensors, should have an orbiting pair aloft come next year.\n\nSentinels 4 and 5, which study the atmosphere, and Sentinel 6, to measure ocean height, have no presence in orbit yet.\n\nBut even though the programme is still to complete its initial roll-out, the EU and Esa have already begun to discuss how to extend it.\n\nIn this future-scoping, Sentinel 7 is envisaged to be a constellation of satellites that monitors carbon dioxide; Sentinel 8 could be a thermal infrared sensor, useful for understanding phenomena such as drought; and Sentinel 9 might be a polar mission, either to study the extent and thickness of ice surfaces or to provide better weather imaging and communications at high latitudes.\n\n\"But I should stress that all these candidate missions are a work in progress and will have to be consolidated through an extensive consultation process, both on the user side and on the technical side,\" said Dr Aschbacher.\n\n\"And we also have to put together a whole scheme, not just on content but but also in terms of cost and funding.\"",
+        "metadata": {
+          "description": "A key spacecraft in Europe's new multi-billion-euro Earth observation programme blasts into orbit.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A key spacecraft in Europe's new multi-billion-euro Earth observation programme blasts into orbit.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7BB2/production/_94966613_sentinel-2bcopyrightairbusdsgmbh.jpg",
+          "og:image:alt": "Sentinel-2B",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Sentinel satellite launched to picture Planet Earth",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/science-environment-39183353",
+          "article:section": "Science & Environment",
+          "twitter:description": "A key spacecraft in Europe's new multi-billion-euro Earth observation programme blasts into orbit.",
+          "twitter:title": "Sentinel satellite launched to picture Planet Earth"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/science-environment-39183353",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2017-03-07T02:58:28.000Z",
+          "dateModified": "2017-03-07T02:58:28.000Z",
+          "description": "A key spacecraft in Europe's new multi-billion-euro Earth observation programme blasts into orbit.",
+          "headline": "Sentinel satellite launched to picture Planet Earth",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7BB2/production/_94966613_sentinel-2bcopyrightairbusdsgmbh.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7BB2/production/_94966613_sentinel-2bcopyrightairbusdsgmbh.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/science-environment-39183353",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Jonathan Amos"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de BBC News relatant le lancement des satellites Sentinel-2A et 2B à bord d'une fusée Vega le lundi à 22:49 heure locale, piloté par l'Agence spatiale européenne (ESA) depuis Darmstadt en Allemagne, pour capturer des images de la Terre.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Josef Aschbacher",
+          "Bianca Hoersch",
+          "Hoersch"
+        ],
+        "LOCATION": [
+          "Planet Earth",
+          "Darmstadt",
+          "Germany",
+          "Earth",
+          "Europe",
+          "Africa"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "European Space Agency",
+          "Esa",
+          "EU"
+        ],
+        "DATE": [
+          "Monday",
+          "early June",
+          "October",
+          "September",
+          "last year",
+          "next year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Sentinel-2A",
+          "Sentinel-2B",
+          "Vega",
+          "Sentinel-1",
+          "Sentinel-1A",
+          "Sentinel-2",
+          "Sentinel-3",
+          "Sentinel-4",
+          "Sentinel-5",
+          "Sentinel-6"
+        ]
+      },
+      "score_e5": 0.7241180757247742
+    },
+    {
+      "titre": "ESA - Avezzano, Italy",
+      "source": "European Space Agency",
+      "lien": "https://www.esa.int/ESA_Multimedia/Images/2015/09/Avezzano_Italy",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/09/avezzano_italy/15593666-2-eng-GB/Avezzano_Italy.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKgy4dH5lVEx9Pd8n28Sxg9Y_qDtu2c08l95qpoI0PcgOLffmH",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "ESA - Avezzano, Italy",
+        "link": "https://www.esa.int/ESA_Multimedia/Images/2015/09/Avezzano_Italy",
+        "source": "European Space Agency",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRG1up59zi5hUL77l5dOYss8WMoE7q_LRFWUPxiI-Du4i2Xezn0F9ORaTNFo_Sif9uhJfZEJMXZ6P5BwSwpV3rz6WX576nRaNa-f--EMmMtBg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKgy4dH5lVEx9Pd8n28Sxg9Y_qDtu2c08l95qpoI0PcgOLffmH",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/09/avezzano_italy/15593666-2-eng-GB/Avezzano_Italy.jpg",
+        "image_width": 1254,
+        "image_height": 1920
+      },
+      "webpage": {
+        "text": "ESA\n\nThis Sentinel-2A false colour image shows agricultural structures in the Abruzzo region of central Italy.\n\nThe varying shades of red and other colours across the entire image indicate how sensitive the satellite’s multispectral camera is to differences in vegetation cover and chlorophyll content. This is used to provide key information on plant health.\n\nFor this image, the brighter reds indicate more photosynthetically active vegetation, as seen in many of the fields and along the Roveto Valley Abruzzi mountain range in the lower left.\n\nIn the very centre of the image a cloud and its shadow are clearly visible over the plain.\n\nOn the central left side we can make out an industrial area, whereas the town of Avezzano is just further north.\n\nThe entire area in the centre is where the Fucino Lake used to be. The Romans founded settlements on its banks as the lake provided fertile soil and a large quantity of fish. However, the lake was believed to harbour malaria, and, not having a natural outflow, it repeatedly flooded the surrounding arable land.\n\nIn 1862 Prince Alessandro Torlonia commissioned a Swiss engineer to drain what was once Italy’s third largest lake. A 6.3 km-long and 21 m-wide canal was dredged. By 1875 the lake was completely drained, and the resulting plain is one of Italy’s most fertile regions today. \n\nA canal is clearly visible running horizontally across the centre of the image.\n\nIn the lower-right section of the plain is a cluster of dots surrounded by fields: the Fucino Space Centre, one of the largest civil space centres in the world, a node for missions operations.  \n\nThe dots are the 100 antennas sited on an extension of 370 000 sq m. Fucino also hosts one of the control centres that will manage the 30 satellites and the operational activities of Galileo, the European satellite navigation system.\n\nThis image, captured on 8 July by Sentinel-2A, is featured on the Earth from Space video programme.",
+        "metadata": {
+          "title": "ESA - Avezzano, Italy",
+          "og:title": "Avezzano, Italy",
+          "description": "Avezzano, Italy",
+          "og:description": "Avezzano, Italy",
+          "og:image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/09/avezzano_italy/15593666-2-eng-GB/Avezzano_Italy_pillars.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Image en fausses couleurs et description de l'ESA montrant des structures agricoles dans la région des Abruzzes en Italie centrale par le satellite Sentinel-2A, mettant en évidence la zone de l'ancien lac Fucino, Avezzano et le Centre spatial du Fucino.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alessandro Torlonia"
+        ],
+        "LOCATION": [
+          "Abruzzo",
+          "Italy",
+          "Roveto Valley",
+          "Abruzzi",
+          "Avezzano",
+          "Fucino Lake",
+          "Fucino Space Centre"
+        ],
+        "ORGANIZATION": [
+          "ESA",
+          "Romans"
+        ],
+        "DATE": [
+          "1862",
+          "1875",
+          "8 July"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Sentinel-2A",
+          "Galileo"
+        ]
+      },
+      "score_e5": 0.7673470696202016
+    },
+    {
+      "titre": "Sentinel satellite pictures a 'clear skies' Africa - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/science-environment-36313251",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4A62/production/_84524091_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZLy52PNSHBkXtNmiif5I5Yqs4GxBKxvkGtfCptvtvve7FlB8",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Sentinel satellite pictures a 'clear skies' Africa - BBC News",
+        "link": "https://www.bbc.com/news/science-environment-36313251",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZLy52PNSHBkXtNmiif5I5Yqs4GxBKxvkGtfCptvtvve7FlB8",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4A62/production/_84524091_sentinel-2avezzanoitalyagriculturefalseclour8july2015.jpg",
+        "image_width": 360,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Sentinel satellite pictures a 'clear skies' Africa\n\nByJonathan Amos\n\nBBC Science Correspondent\n\nAfrica undressed: the continent pictured with no clouds in the sky.\n\nThis is not a natural state, of course; there is always a weather system bubbling up somewhere.\n\nBut if you have access to a lot of images acquired over the course of several months, it becomes possible to construct a mosaic.\n\nThis one was produced from observations made by the EU's new Sentinel-2a satellite, external, which is now routinely mapping Planet Earth.\n\nIt is a powerful capability. Sensitive across 13 spectral bands (colours) and able to see details as small as 10m across - the spacecraft's camera \"carpet maps\" the land surface beneath it. Every strip is 290km wide.\n\nAnd if you think about how fast the satellite is moving in orbit - that is a large swathe of real estate to scoop up at once.\n\nIt means, for example, that for an elongated country like Norway, it is possible to capture almost its entire territory in just one pass. Some 290,000km2 in just four minutes. Half of Spain can be done in two minutes.\n\nThe Sentinel's free and open data is being used for all manner of applications - from urban planning and crop monitoring to climate studies and biodiversity assessments.\n\n\nCloud is the enemy, though. Although the Sentinel's colour camera can remove light clouds like cirrus, a thick deck is impenetrable. And for tropical regions, this is a significant issue.\n\n\"We have many orbit segments going from Norway down to the Sahara with only marginal clouds. But when it comes to the tropics, such acquisitions get rare,\" explained Dr Bianca Hoersch, the European Space Agency's (Esa) mission manager on Sentinel-2a.\n\n\"For this Africa composite, the Climate Change Initiative team, external took for the tropical part any useful orbit segment, going down to single cloud-free pixel selection, from any data acquired between August 2015 and April 2016.\"\n\nThe full image contains 32 terabytes of data.\n\n\nOnly the African Great Lakes, including Victoria and Tanganyika, have been left in a cloudy state. That said, there are Sentinel-2 scientists who are just as keen to get clear views of inland and coastal water bodies, to track sediment flows, algal blooms, pollution incidents, and the like.\n\nThe interest in the data was evident at last week's Esa Living Planet Symposium, external. Many of the sessions dedicated to the satellite's work were standing room only.\n\nThe spacecraft is not quite working to full capacity. It is still in the ramp-up phase following its launch last June.\n\nIt has just gone to mapping every part of the Earth's land surface (cloud or no cloud) at least once every 20 days, and hopes to get that down to every 10 days by the end of the year (Europe and Africa are already mapped at this rate). A new X-band radio ground station is being made available to downlink the additional data volume. Some of it will also be sped to Earth via a laser link.\n\n\nIn a year's time, Sentinel-2a will be joined in orbit by a sister platform, Sentinel-2b. This second platform will permit a re-visit time of just five days - making it much easier to achieve those cloud-free segments.\n\nLooking even further to the future, the EU is determined the imaging capability should be available deep into this century and has asked Esa already to procure an additional pair of satellites, Sentinels 2c and 2d.\n\n\"Those two spacecraft will potentially be available to launch in 2020 and 2021,\" said Sentinel-2 project manager François Spoto.\n\n\"The concept is not to have four spacecraft in orbit, but it will create enough spacecraft assets to replenish the constellation if and when required.\"\n\n\nSentinel-2: The business of making maps\n\n\n * Agriculture: Gathering crop statistics and yield assessments\n\n * Urban: Planning city-wide infrastructure improvements\n\n * Forests: Checking de- or re-forested areas for treaty purposes\n\n * Biodiversity: Understanding the habitats where wildlife exist\n\n * Health: Tracking conditions associated with disease spread\n\n * Water: Evaluating water body extents for flood assessments\n\n * Disaster: Making damage maps following major earthquakes\n\n * Cryosphere: Mapping snow fields and glacier melting\n\n\nMore on this story\n\n\nRelated internet links\n\nThe BBC is not responsible for the content of external sites.",
+        "metadata": {
+          "description": "The EU's new Sentinel-2a satellite builds a cloud-free view of Africa as it moves towards full capacity mapping.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The EU's new Sentinel-2a satellite builds a cloud-free view of Africa as it moves towards full capacity mapping.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6569/production/_89716952_africaindex.jpg",
+          "og:image:alt": "Africa mosaic",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Sentinel satellite pictures a 'clear skies' Africa",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/science-environment-36313251",
+          "article:section": "Science & Environment",
+          "twitter:description": "The EU's new Sentinel-2a satellite builds a cloud-free view of Africa as it moves towards full capacity mapping.",
+          "twitter:title": "Sentinel satellite pictures a 'clear skies' Africa"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/science-environment-36313251",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-05-18T11:03:02.000Z",
+          "dateModified": "2016-05-18T11:03:02.000Z",
+          "description": "The EU's new Sentinel-2a satellite builds a cloud-free view of Africa as it moves towards full capacity mapping.",
+          "headline": "Sentinel satellite pictures a 'clear skies' Africa",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6569/production/_89716952_africaindex.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6569/production/_89716952_africaindex.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/science-environment-36313251",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Jonathan Amos"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de BBC News par Jonathan Amos décrivant une mosaïque d'images de l'Afrique sans nuages construite à partir des observations du satellite Sentinel-2a de l'Union européenne entre août 2015 et avril 2016.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jonathan Amos",
+          "Bianca Hoersch"
+        ],
+        "LOCATION": [
+          "Africa",
+          "Norway",
+          "Spain",
+          "Sahara",
+          "African Great Lakes",
+          "Victoria",
+          "Tanganyika",
+          "Earth",
+          "Europe"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Climate Change Initiative team",
+          "Esa"
+        ],
+        "DATE": [
+          "August 2015",
+          "April 2016",
+          "last June",
+          "the end of the year"
+        ],
+        "EVENT": [
+          "Esa Living Planet Symposium"
+        ],
+        "OTHER": [
+          "Sentinel-2a",
+          "X-band"
+        ]
+      },
+      "score_e5": 0.748287585482318
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "NASA"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Mars Science Laboratory",
+      "Curiosity",
+      "High Resolution Imaging Science Experiment"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Alessandro Torlonia",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hoersch",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Josef Aschbacher",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bianca Hoersch",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jonathan Amos",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Avezzano",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Abruzzo",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Roveto Valley",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Abruzzi",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fucino Lake",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fucino Space Centre",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Planet Earth",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Darmstadt",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Earth",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Africa",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Norway",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sahara",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "African Great Lakes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Victoria",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tanganyika",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikimedia Commons",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Space Agency",
+      "rangs": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Romans",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Commission",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "EU",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Climate Change Initiative team",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8 July",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1862",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1875",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "end of 2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next year",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early June",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 2016",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last June",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "the end of the year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Esa Living Planet Symposium",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-2A",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Galileo",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Landsat",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-2B",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-3A",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Copernicus",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Vega",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-1",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-1A",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-2",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-3",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-4",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-5",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sentinel-6",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "X-band",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T18:00:23.237309"
+  }
+}

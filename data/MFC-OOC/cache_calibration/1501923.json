@@ -1,0 +1,689 @@
+{
+  "id_rumeur": 1501923,
+  "id_image": 1501923,
+  "caption": "Most but not all Singaporeans stayed indoors as their Environment Agency raised the pollution index to its highest level in a year",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748182/oluyewo_benchmark/oxwaqihe9r32weqozzjm.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Why Asian cities have the edge on revamping transportation",
+      "source": "Axios",
+      "lien": "https://www.axios.com/2019/12/05/asian-cities-revamping-transportation",
+      "image_url": "https://images.axios.com/LnXnIWpKoPKbCf2Tf4Bmjuz2geA=/2019/12/05/1575506625359.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNzYnHsCFKYDwvoOLdqdqv2UmNIYPyaGu4cjn2Luwxs76xeJt6",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Why Asian cities have the edge on revamping transportation",
+        "link": "https://www.axios.com/2019/12/05/asian-cities-revamping-transportation",
+        "source": "Axios",
+        "source_icon": "https://serpapi.com/searches/6a8ef8e5c29c3d990fac482a/images/YvvjXBS_ewa39qDlfXjm-SfJqhsftE2C0i636gf63-Y.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNzYnHsCFKYDwvoOLdqdqv2UmNIYPyaGu4cjn2Luwxs76xeJt6",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://images.axios.com/LnXnIWpKoPKbCf2Tf4Bmjuz2geA=/2019/12/05/1575506625359.jpg",
+        "image_width": 4988,
+        "image_height": 7483
+      },
+      "webpage": null,
+      "texte_contexte": "Axios article intitulé 'Why Asian cities have the edge on revamping transportation'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Asia"
+        ],
+        "ORGANIZATION": [
+          "Axios"
+        ],
+        "DATE": [
+          "2019-12-05"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "transportation"
+        ]
+      },
+      "score_e5": 0.7379480430142935
+    },
+    {
+      "titre": "Haze chokes Indonesia, Malaysia and Singapore - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-asia-34242311",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/93B5/production/_85531873_d5c2573c-c551-4a92-81d6-159c0a294f3f.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_EkI8CHLVZKUVi32TH__Bc9ZkFjh_KkHQdQD4WAzoxnfqDr0",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Haze chokes Indonesia, Malaysia and Singapore - BBC News",
+        "link": "https://www.bbc.com/news/world-asia-34242311",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_EkI8CHLVZKUVi32TH__Bc9ZkFjh_KkHQdQD4WAzoxnfqDr0",
+        "thumbnail_width": 176,
+        "thumbnail_height": 286,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/93B5/production/_85531873_d5c2573c-c551-4a92-81d6-159c0a294f3f.jpg",
+        "image_width": 600,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Haze chokes Indonesia, Malaysia and Singapore\n\nSmoke from huge forest fires in Indonesian has created a cloud of smog over the country, which has spread over neighbouring Malaysia and Singapore.\n\nThe fires, which happen every year, are caused by slash-and-burn clearances on the islands of Sumatra and Borneo.\n\nPaper and palm oil companies have been widely blamed for the practice.\n\nIndonesia, which has repeatedly promised to stop the illegal fires, has sent hundreds of military personnel to try to put them out.\n\nIt has declared a state of emergency in Riau province, where the haze has been building for several weeks and pollution levels are hazardous to health.\n\nIn Malaysia, schools have been closed in the capital, Kuala Lumpur, and several other areas, while Singaporeans are being advised to avoid strenuous activity outdoors.",
+        "metadata": {
+          "description": "Smoke caused by huge Indonesian forest fires are spreading across the country and leaving dense haze over neighbouring Malaysia and Singapore.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Smoke caused by huge Indonesian forest fires are spreading across the country and leaving dense haze over neighbouring Malaysia and Singapore.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44BA/production/_85549571_hi029044235.jpg",
+          "og:image:alt": "Girls take a selfie on bridge in Pekanbaru, Indonesia (14 Sept 2015)",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Haze chokes Indonesia, Malaysia and Singapore",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-asia-34242311",
+          "article:section": "Asia",
+          "twitter:description": "Smoke caused by huge Indonesian forest fires are spreading across the country and leaving dense haze over neighbouring Malaysia and Singapore.",
+          "twitter:title": "Haze chokes Indonesia, Malaysia and Singapore"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-asia-34242311",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-09-14T13:37:48.000Z",
+          "dateModified": "2015-09-15T02:38:53.000Z",
+          "description": "Smoke caused by huge Indonesian forest fires are spreading across the country and leaving dense haze over neighbouring Malaysia and Singapore.",
+          "headline": "Haze chokes Indonesia, Malaysia and Singapore",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44BA/production/_85549571_hi029044235.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44BA/production/_85549571_hi029044235.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-asia-34242311",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Smoke from huge forest fires in Indonesia has created a cloud of smog over the country, spreading to Malaysia and Singapore. The annual fires are caused by slash-and-burn clearances on Sumatra and Borneo, with paper and palm oil companies blamed. Indonesia has declared a state of emergency in Riau province, sent military personnel, and promised to stop illegal fires. In Malaysia, schools have been closed in Kuala Lumpur and other areas, while Singaporeans are advised to avoid strenuous outdoor activity.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Indonesia",
+          "Malaysia",
+          "Singapore",
+          "Sumatra",
+          "Borneo",
+          "Riau province",
+          "Kuala Lumpur"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC News"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "forest fires",
+          "smog",
+          "haze"
+        ]
+      },
+      "score_e5": 0.7835331356598076
+    },
+    {
+      "titre": "Singapore Cuts Growth Forecast, Eases Policy Settings as ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/singapore-central-bank-eases-policy-for-second-time-amid-u-s-tariffs-2efe3e0f",
+      "image_url": "https://images.wsj.net/im-58148553?width=1280&size=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6W5Q8PRp3fZJDFH3e7WxcplRO1Ia_Cob-dgoRLRYTNigXIJc7",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Singapore Cuts Growth Forecast, Eases Policy Settings as ...",
+        "link": "https://www.wsj.com/articles/singapore-central-bank-eases-policy-for-second-time-amid-u-s-tariffs-2efe3e0f",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6W5Q8PRp3fZJDFH3e7WxcplRO1Ia_Cob-dgoRLRYTNigXIJc7",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://images.wsj.net/im-58148553?width=1280&size=1",
+        "image_width": 1280,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "WSJ article intitulé 'Singapore Cuts Growth Forecast, Eases Policy Settings as'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Singapore"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7506691692032542
+    },
+    {
+      "titre": "With Las Vegas Sands Stock Flat This Year, Will Q1 Results ...",
+      "source": "Forbes",
+      "lien": "https://www.forbes.com/sites/greatspeculations/2024/04/12/with-the-stock-flat-this-year-will-q1-results-drive-las-vegas-sands-stock-higher/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/6618b19886dcfb40f9a3da8e/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRarWwix8OaumarFo_ub79yIS7ZzJr2e8UD9oBIIyVvj-dRG5X7",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "With Las Vegas Sands Stock Flat This Year, Will Q1 Results ...",
+        "link": "https://www.forbes.com/sites/greatspeculations/2024/04/12/with-the-stock-flat-this-year-will-q1-results-drive-las-vegas-sands-stock-higher/",
+        "source": "Forbes",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcStsFTtOA-Gr2Cf1TGnVGGF1nqm10KGRhJS83fDnH-ZzYd8xji1iIzt-qzdIYjwIsySiHufTYXd2stTOLcrolb1witi-Zl1RkryuwGqDVGnyiorvQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRarWwix8OaumarFo_ub79yIS7ZzJr2e8UD9oBIIyVvj-dRG5X7",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6618b19886dcfb40f9a3da8e/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+        "image_width": 600,
+        "image_height": 900
+      },
+      "webpage": null,
+      "texte_contexte": "Forbes article intitulé 'With Las Vegas Sands Stock Flat This Year, Will Q1 Results'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Forbes",
+          "Las Vegas Sands"
+        ],
+        "DATE": [
+          "2024-04-12",
+          "Q1"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "stock"
+        ]
+      },
+      "score_e5": 0.7388095907155906
+    },
+    {
+      "titre": "Wind change helps keep haze away | The Straits Times",
+      "source": "The Straits Times",
+      "lien": "https://www.straitstimes.com/singapore/environment/wind-change-helps-keep-haze-away",
+      "image_url": "https://static1.straitstimes.com.sg/s3fs-public/articles/2015/09/12/ST_20150912_HAZE12_1679713.jpg?VersionId=CDzl3hcapW.cJtqAdh6bFChk1bdgd8Nz",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1P-tQ-zWeF1ZDLwj7qvwej1BTQkxfAGbRVe-xbp6rqrwpuMFm",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Wind change helps keep haze away | The Straits Times",
+        "link": "https://www.straitstimes.com/singapore/environment/wind-change-helps-keep-haze-away",
+        "source": "The Straits Times",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTrUkQ6sK9dB6XSJk-3yqZglgOyLYDDhymbgELKbsmJeGduqcRi66KshVpdjwNDj-AYxQ2KcDWw_lmqUwgkksRWT3bYBSXkTCJHdSmP0ex9xgry7LT0T1e6MA",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1P-tQ-zWeF1ZDLwj7qvwej1BTQkxfAGbRVe-xbp6rqrwpuMFm",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://static1.straitstimes.com.sg/s3fs-public/articles/2015/09/12/ST_20150912_HAZE12_1679713.jpg?VersionId=CDzl3hcapW.cJtqAdh6bFChk1bdgd8Nz",
+        "image_width": 1024,
+        "image_height": 1536
+      },
+      "webpage": {
+        "text": "Wind change helps keep haze away\n\nA change in wind direction has given Singapore some respite from the haze, which threatened to turn very unhealthy early yesterday.\n\nGusts from the south and south-west had been blowing smoke from burning forests in Sumatra in Indonesia to Singapore, but the winds now come from the south-east, the National Environment Agency said yesterday.\n\nThese winds are expected to persist today, it said.\n\nIt forecast the 24-hour Pollutant Standards Index (PSI), an air quality measure, to be in the mid to low end of the unhealthy range (101-200). This may even move into the high end of the moderate range (51-100) if winds stay favourable.\n\nAt 5am yesterday, the 24-hour PSI hit between 158 and 182 - its highest level since the new PSI was launched in April last year, and the closest it has come to reaching the very unhealthy range (201-300).\n\nAir quality improved throughout the day. At 8pm, the 24-hour PSI was between 124 and 143.\n\nThe number of hot spots in Sumatra also fell from 328 on Thursday to 304 yesterday. On Thursday, Indonesia sent more than 1,000 soldiers there to help put out fires.\n\nOn the same day, Defence Minister Ng Eng Hen called his counterpart to offer Singapore's aircraft and personnel to seed clouds and aid in firefighting.\n\nIndonesia has accepted this, he said yesterday at the HDB Hub polling centre. He said: \"Thankfully, the winds shifted this morning and the haze has come down. But we have to find some way of bringing down the problem, and I'm glad the Indonesian authorities are looking at it.\"\n\nDespite the unhealthy air quality, many Singaporeans were out and about at East Coast Park, the Botanic Gardens and Bedok Reservoir.\n\nCustomer service officer Heddy Fan, 28, said: \"There isn't any burning smell today, so it should be safe to come to the Botanic Gardens.\"\n\nBut as a precaution, some opted to wear face masks to the polls. Housewife Vivian Ng, 48, said: \"It doesn't look as hazy as before, but I decided to wear one just in case.\"\n\nAccounts manager Deon Gan, 47, did so as her throat has been itchy and uncomfortable from the haze.\n\nThe Singapore Cancer Society said yesterday that it is considering cancelling its Race Against Cancer tomorrow. It will decide by 6pm today whether to proceed with the charity run if the PSI exceeds 100.\n\nCapitaLand will close the external features of its properties, such as outdoor playgrounds, if the PSI crosses 150.\n\nBusiness at East Coast Lagoon Food Centre has slowed slightly since the haze returned this week, some stallholders said.\n\nDrink stall owner Annie Seet, 56, said the centre, usually packed, has been quiet in the last two days. In the 2013 haze episode, when the 24-hour PSI hit a high of 246, she closed her stall for five days as the haze irritated her eyes and throat.\n\n\"I hope it will not be as bad this time,\" she said.",
+        "metadata": {
+          "title": "Wind change helps keep haze away | The Straits Times",
+          "description": "A change in wind direction has given Singapore some respite from the haze, which threatened to turn very unhealthy early yesterday.   Read more at straitstimes.com.",
+          "og:type": "article",
+          "og:url": "https://www.straitstimes.com/singapore/environment/wind-change-helps-keep-haze-away",
+          "og:title": "Wind change helps keep haze away",
+          "og:description": "A change in wind direction has given Singapore some respite from the haze, which threatened to turn very unhealthy early yesterday.   Read more at straitstimes.com. Read more at straitstimes.com.",
+          "og:locale": "en_SG",
+          "twitter:title": "Wind change helps keep haze away",
+          "og:site_name": "The Straits Times",
+          "fb:admins": "100007469197550",
+          "fb:app_id": "263116810509534",
+          "al:ios:url": "https://www.straitstimes.com/singapore/environment/wind-change-helps-keep-haze-away",
+          "al:ios:app_store_id": "547465441",
+          "al:ios:app_name": "Straits Times",
+          "al:android:url": "https://www.straitstimes.com/singapore/environment/wind-change-helps-keep-haze-away",
+          "al:web:url": "https://www.straitstimes.com/singapore/environment/wind-change-helps-keep-haze-away",
+          "og:image": "https://static1.straitstimes.com.sg/s3fs-public/articles/2015/09/12/ST_20150912_HAZE12_1679713.jpg?VersionId=CDzl3hcapW.cJtqAdh6bFChk1bdgd8Nz",
+          "article:section": "Singapore",
+          "article:description": "A change in wind direction has given Singapore some respite from the haze, which threatened to turn very unhealthy early yesterday.   Read more at straitstimes.com.",
+          "article:published_time": "2015-09-11T21:00:00.000Z",
+          "article:modified_time": "2016-01-20T18:35:43.000Z"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsMediaOrganization",
+          "name": "The Straits Times",
+          "url": "https://www.straitstimes.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.straitstimes.com/publisher-logo.png",
+            "width": 600,
+            "height": 60
+          },
+          "description": "The Straits Times - Get breaking news, exclusive stories, in-depth analyses and award-winning multimedia content about Singapore, Asia and the world.",
+          "sameAs": [
+            "https://x.com/straits_times",
+            "https://www.tiktok.com/@straitstimes",
+            "https://instagram.com/straits_times",
+            "https://www.facebook.com/TheStraitsTimes",
+            "https://www.youtube.com/user/StraitsTimesOnline",
+            "https://t.me/TheStraitsTimes",
+            "https://sg.linkedin.com/company/the-straits-times"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+65-6388-3838",
+              "contactType": "Customer Service",
+              "availableLanguage": "English",
+              "areaServed": {
+                "@type": "Country",
+                "name": "Singapore"
+              }
+            }
+          ],
+          "memberOf": {
+            "@type": "ProgramMembership",
+            "hostingOrganization": {
+              "@type": "Organization",
+              "name": "SPH Media",
+              "url": "https://www.sph.com.sg/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.sph.com.sg/uploads/2024/03/SPH-Media-Logo-New.webp",
+                "width": 171,
+                "height": 57
+              }
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A wind change from south-southwest to south-east has helped keep haze away from Singapore, blowing smoke from burning forests in Sumatra, Indonesia. The National Environment Agency forecast the 24-hour Pollutant Standards Index (PSI) to be in the mid to low end of the unhealthy range or high end of the moderate range. Indonesia sent more than 1,000 soldiers to Sumatra, and Defence Minister Ng Eng Hen offered Singapore's aircraft and personnel for firefighting and cloud seeding, which Indonesia accepted. Despite unhealthy air quality, citizens visited East Coast Park, the Botanic Gardens, and Bedok Reservoir, with some wearing face masks. The Singapore Cancer Society considered cancelling the Race Against Cancer, and CapitaLand planned to close external features of its properties if the PSI crossed 150. Business slowed slightly at East Coast Lagoon Food Centre.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ng Eng Hen",
+          "Heddy Fan",
+          "Vivian Ng",
+          "Deon Gan",
+          "Annie Seet"
+        ],
+        "LOCATION": [
+          "Singapore",
+          "Sumatra",
+          "Indonesia",
+          "East Coast Park",
+          "Botanic Gardens",
+          "Bedok Reservoir",
+          "East Coast Lagoon Food Centre"
+        ],
+        "ORGANIZATION": [
+          "The Straits Times",
+          "National Environment Agency",
+          "Singapore Cancer Society",
+          "CapitaLand"
+        ],
+        "DATE": [
+          "Thursday",
+          "April last year",
+          "tomorrow",
+          "2013"
+        ],
+        "EVENT": [
+          "Race Against Cancer"
+        ],
+        "OTHER": [
+          "Pollutant Standards Index",
+          "PSI"
+        ]
+      },
+      "score_e5": 0.8030863021828983
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Singaporeans"
+    ],
+    "LOCATION": [
+      "Singapore"
+    ],
+    "ORGANIZATION": [
+      "Environment Agency"
+    ],
+    "DATE": [
+      "a year"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "pollution index"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Asia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Axios",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2019-12-05",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "transportation",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Indonesia",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Malaysia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Singapore",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sumatra",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Borneo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Riau province",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kuala Lumpur",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "forest fires",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "smog",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "haze",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Las Vegas Sands",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024-04-12",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Q1",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "stock",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ng Eng Hen",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Heddy Fan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vivian Ng",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Deon Gan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Annie Seet",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Coast Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Botanic Gardens",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bedok Reservoir",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Coast Lagoon Food Centre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Straits Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Environment Agency",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Singapore Cancer Society",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CapitaLand",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April last year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "tomorrow",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Race Against Cancer",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Pollutant Standards Index",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "PSI",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T18:15:43.360147"
+  }
+}

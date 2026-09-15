@@ -1,0 +1,1058 @@
+{
+  "id_rumeur": 102715,
+  "id_image": 1611700,
+  "caption": "A Free Syrian Army soldier stands on a tank in front of a damaged mosque in the town of Azaz on the outskirts of Aleppo in 2012",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756743/oluyewo_benchmark/amzb5uxu2ymmbiwdr9lg.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Yemen conflict: Exiled President Hadi returns to Aden - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-middle-east-34843156",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/DCE8/production/_86625565_86625562.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJcs9cxpPUmv9MzAcbomeRolIbw5J5mvQFy3v30AZHL1nyHaw-",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Yemen conflict: Exiled President Hadi returns to Aden - BBC News",
+        "link": "https://www.bbc.com/news/world-middle-east-34843156",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJcs9cxpPUmv9MzAcbomeRolIbw5J5mvQFy3v30AZHL1nyHaw-",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/DCE8/production/_86625565_86625562.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Yemen conflict: Exiled President Hadi returns to Aden\n\nOfficials say the president will be staying at the Maashiq presidential palace in the central Crater district of Aden.\n\nHis arrival comes as forces loyal to him are reported to have made advances in the south-west, surrounding the city of Taiz.\n\nAbout 45 fighters from both sides were killed on Monday, medical sources quoted by the Reuters news agency said.\n\nResidents said coalition warplanes bombed Houthi targets in the city several times on Tuesday.\n\nThe president's last attempt to return to his country was in September after six months of exile in Saudi Arabia. He was forced to return to Riyadh after Aden came under rebel attack.\n\nHe first fled Aden in late March as Shia Houthi rebels advanced on the city.\n\nUN-brokered peace talks on the Yemen crisis are planned for later this month.",
+        "metadata": {
+          "description": "Yemen's exiled President Abdrabbuh Mansour Hadi returns to Aden to supervise a new offensive against the rebel-held area of Taiz, officials say.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Yemen's exiled President Abdrabbuh Mansour Hadi returns to Aden to supervise a new offensive against the rebel-held area of Taiz, officials say.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/A746/production/_86722824_86722823.jpg",
+          "og:image:alt": "Yemen President Abdrabbuh Mansour Hadi in Riyadh, Saudi Arabia (10 November 2015)",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Yemen conflict: Exiled President Hadi returns to Aden",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-middle-east-34843156",
+          "article:section": "Middle East",
+          "twitter:description": "Yemen's exiled President Abdrabbuh Mansour Hadi returns to Aden to supervise a new offensive against the rebel-held area of Taiz, officials say.",
+          "twitter:title": "Yemen conflict: Exiled President Hadi returns to Aden"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-middle-east-34843156",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-11-17T11:12:24.000Z",
+          "dateModified": "2015-11-17T11:12:24.000Z",
+          "description": "Yemen's exiled President Abdrabbuh Mansour Hadi returns to Aden to supervise a new offensive against the rebel-held area of Taiz, officials say.",
+          "headline": "Yemen conflict: Exiled President Hadi returns to Aden",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/A746/production/_86722824_86722823.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/A746/production/_86722824_86722823.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-middle-east-34843156",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le président exilé du Yémen, Hadi, est retourné à Aden pour séjourner au palais présidentiel de Maashiq, dans le district central de Crater. Son arrivée coïncide avec des avancées de ses forces dans le sud-ouest autour de la ville de Taiz. Des affrontements ont causé la mort de combattants et des avions de la coalition ont bombardé des cibles houthis. Hadi avait tenté de rentrer en septembre après six mois d'exil en Arabie saoudite suite à l'avancée des rebelles houthis chiites fin mars. Des pourparlers de paix parrainés par l'ONU sont prévus plus tard dans le mois.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hadi"
+        ],
+        "LOCATION": [
+          "Aden",
+          "Maashiq",
+          "Crater",
+          "Taiz",
+          "Saudi Arabia",
+          "Yemen"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "BBC",
+          "Reuters",
+          "Houthis",
+          "UN"
+        ],
+        "DATE": [
+          "Monday",
+          "Tuesday",
+          "September",
+          "late March",
+          "later this month",
+          "34843156"
+        ],
+        "EVENT": [
+          "Yemen conflict"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6945102205604198
+    },
+    {
+      "titre": "Yemen conflict: US contractor detained in Sanaa dies - BBC ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-middle-east-34786606",
+      "image_url": "http://c.files.bbci.co.uk/8EC8/production/_86625563_86625562.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEakBmCuXagLL2YPpyAYXSfdKFxyR0xkR9d36hTEBSvoYyPBhU",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Yemen conflict: US contractor detained in Sanaa dies - BBC ...",
+        "link": "https://www.bbc.com/news/world-middle-east-34786606",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEakBmCuXagLL2YPpyAYXSfdKFxyR0xkR9d36hTEBSvoYyPBhU",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/8EC8/production/_86625563_86625562.jpg",
+        "image_width": 1152,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Yemen conflict: US contractor detained in Sanaa dies\n\nMr Hamen was believed to have been held by the Houthis, he added.\n\nUN spokesman Stephane Dujarric told the AFP news agency: \"We have been informed by the state department of the death of one of the contractors.\"\n\n\"Obviously we send our deep condolences to his family, to his wife, to his children,\" he added.\n\n\"The other contractor, as far as I understand, remains in custody, but I have nothing to share with you as to discussions that may be going on,\" Mr Dujarric said.\n\nMr Toner said he could not confirm that another individual was being held.\n\nUnnamed UN officials said earlier this month that Mr Hamen was detained along with another American, but the UN did not confirm their nationalities at the time.\n\nThe UN is trying to broker a ceasefire in Yemen, but has made limited progress.\n\nAll major combatants have agreed to implement UN Security Council resolution 2216, which calls on the Houthis and allied army units loyal to former President Ali Abdullah Saleh to withdraw from cities and hand over weapons they have captured.",
+        "metadata": {
+          "description": "An American contractor for the UN who was detained at the airport in Yemen's capital Sanaa last month has died, the US state department says.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "An American contractor for the UN who was detained at the airport in Yemen's capital Sanaa last month has died, the US state department says.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8EC8/production/_86625563_86625562.jpg",
+          "og:image:alt": "A Yemeni man walks past a building damaged by a Saudi-led coalition air strike in Sanaa (28 October 2015)",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Yemen conflict: US contractor detained in Sanaa dies",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-middle-east-34786606",
+          "article:section": "Middle East",
+          "twitter:description": "An American contractor for the UN who was detained at the airport in Yemen's capital Sanaa last month has died, the US state department says.",
+          "twitter:title": "Yemen conflict: US contractor detained in Sanaa dies"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-middle-east-34786606",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-11-11T11:39:58.000Z",
+          "dateModified": "2015-11-11T11:39:58.000Z",
+          "description": "An American contractor for the UN who was detained at the airport in Yemen's capital Sanaa last month has died, the US state department says.",
+          "headline": "Yemen conflict: US contractor detained in Sanaa dies",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8EC8/production/_86625563_86625562.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8EC8/production/_86625563_86625562.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-middle-east-34786606",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un contracteur américain nommé M. Hamen, détenu à Sanaa par les Houthis, est décédé. Un autre contracteur reste en captivité. L'ONU tente de négocier un cessez-le-feu et les belligérants ont accepté de mettre en œuvre la résolution 2216 du Conseil de sécurité de l'ONU, qui demande le retrait des Houthis et des unités militaires loyales à l'ancien président Ali Abdullah Saleh des villes et la reddition des armes capturées.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hamen",
+          "Stephane Dujarric",
+          "Toner",
+          "Ali Abdullah Saleh"
+        ],
+        "LOCATION": [
+          "Sanaa",
+          "Yemen"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Houthis",
+          "UN",
+          "state department",
+          "AFP",
+          "UN Security Council"
+        ],
+        "DATE": [
+          "earlier this month"
+        ],
+        "EVENT": [
+          "Yemen conflict"
+        ],
+        "OTHER": [
+          "resolution 2216"
+        ]
+      },
+      "score_e5": 0.7181115161242331
+    },
+    {
+      "titre": "Saudi Arabia and the United Arab Emirates Are Starving ...",
+      "source": "Foreign Policy",
+      "lien": "https://foreignpolicy.com/2018/11/08/saudi-arabia-and-the-united-arab-emirates-are-starving-yemenis-to-death-mbs-khashoggi-famine-yemen-blockade-houthis/",
+      "image_url": "https://foreignpolicy.com/wp-content/uploads/2018/11/yemen2.jpg?resize=1200,1200",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSttNiPwOcGKB4w5dVkeuQ4buIwvMUhKAxJVhy8JJRs2H8TAd3f",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Saudi Arabia and the United Arab Emirates Are Starving ...",
+        "link": "https://foreignpolicy.com/2018/11/08/saudi-arabia-and-the-united-arab-emirates-are-starving-yemenis-to-death-mbs-khashoggi-famine-yemen-blockade-houthis/",
+        "source": "Foreign Policy",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcS5OwFPc0wLWN2r5N1W2XGTFYsf41kWBe2sV_2sC7M44XJMy9mEKfiM9ZGjAPrinNeCYMiIKw8MBtDW4vGLjOLnG4ITmNeqQ43_ftCsW8x2CZzhe4V9ig",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSttNiPwOcGKB4w5dVkeuQ4buIwvMUhKAxJVhy8JJRs2H8TAd3f",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://foreignpolicy.com/wp-content/uploads/2018/11/yemen2.jpg?resize=1200,1200",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Saudi Arabia and the United Arab Emirates Are Starving Yemenis to Death – Foreign Policy\n\nThe world was rightly outraged by the murder of Jamal Khashoggi, but the bombs of Mohammed bin Salman and his Emirati allies are killing dozens each day in Yemen.\n\n * Human Rights\n * Middle East and North Africa\n\nNovember 8, 2018, 5:42 AM\n\nJamal Khashoggi was but the latest victim of a reckless arrogance that has become the hallmark of Saudi Arabia’s foreign policy. Yemenis were saddened, but not surprised, at the extent of the brutality exhibited in Khashoggi’s killing, because our country has been living through this same Saudi brutality for almost four years.\n\nAs human rights advocates working in Yemen, we are intimately familiar with the violence, the killing of innocents, and the shredding of international norms that have been the hallmarks of Saudi Arabia’s military intervention in our country. For nearly four years, Saudi Arabia has led a coalition, along with the United Arab Emirates, that has cynically and viciously bombarded Yemen’s cities, blockaded Yemen’s ports, and prevented humanitarian aid from reaching millions in need.\n\nJamal Khashoggi was but the latest victim of a reckless arrogance that has become the hallmark of Saudi Arabia’s foreign policy. Yemenis were saddened, but not surprised, at the extent of the brutality exhibited in Khashoggi’s killing, because our country has been living through this same Saudi brutality for almost four years.\n\nAs human rights advocates working in Yemen, we are intimately familiar with the violence, the killing of innocents, and the shredding of international norms that have been the hallmarks of Saudi Arabia’s military intervention in our country. For nearly four years, Saudi Arabia has led a coalition, along with the United Arab Emirates, that has cynically and viciously bombarded Yemen’s cities, blockaded Yemen’s ports, and prevented humanitarian aid from reaching millions in need.\n\nAccording to the Yemen Data Project, Saudi and Emirati aircraft have conducted over 18,500 air raids on Yemen since the war began—an average of over 14 attacks every day for over 1,300 days. They have bombed schools, hospitals, homes, markets, factories, roads, farms, and even historical sites. Tens of thousands of civilians, including thousands of children, have been killed or maimed by Saudi airstrikes.\n\nBut the Saudis and Emiratis couldn’t continue their bombing campaign in Yemen without U.S. military support. American planes refuel Saudi aircraft en route to their targets, and Saudi and Emirati pilots drop bombs made in the United States and the United Kingdom onto Yemeni homes and schools Nevertheless, U.S. attention to the war in Yemen has been largely confined to brief spats of outrage over particularly dramatic attacks, like the August school bus bombing that killed dozens of children.\n\nSaudi crimes in Yemen are not limited to regular and intentional bombing of civilians in violation of international humanitarian law. By escalating the war and destroying essential civilian infrastructure, Saudi Arabia is also responsible for the tens of thousands of Yemeni civilians who have died from preventable disease and starvation brought on by the war. The United Nations concluded that blockades have had “devastating effects on the civilian population” in Yemen, as Saudi and Emirati airstrikes have targeted Yemen’s food production and distribution, including the agricultural sector and the fishing industry.\n\nMeanwhile, the collapse of Yemen’s currency due to the war has prevented millions of civilians from purchasing the food that exists in markets. Food prices have skyrocketed, but civil servants haven’t received regular salaries in two years. Yemenis are being starved to death on purpose, with starvation of civilians used by Saudi Arabia as a weapon of war.\n\nThree-quarters of Yemen’s population—over 22 million men, women, and children—are currently dependent on international aid and protection. The U.N. warned in September that Yemen soon will reach a “tipping point,” beyond which it will be impossible to avoid massive civilian deaths. Over 8 million people are currently on the verge of starvation, a figure likely to rise to 14 million—half of the country—by the end of 2018 if the fighting does not subside, import obstructions are not removed, and the currency is not stabilized.\n\nTo be clear, there is no party in this war is without blood on its hands; our organization, Mwatana, has documented violations against civilians by all parties to the conflict in Yemen, not only Saudi Arabia. The Houthis have killed and injured hundreds of civilians through their use of landmines and indiscriminate shelling, while militias backed by the United Arab Emirates, Yemeni government-backed militias, and Houthi militias have arbitrarily detained, forcibly disappeared, and tortured civilians. But the de facto immunity that the international community has given Saudi Arabia through its silence prevents real justice for violations by all sides.\n\nThe people of the Middle East have long and bitter experience with international double standards when it comes to human rights, as purported champions of universal rights in the West regularly ignore grave violations by their allies in the region, from the former shah of Iran to Saddam Hussein to Saudi Arabia’s current crown prince, Mohammed bin Salman.\n\nThis double standard was on display during the crown prince’s recent tour of world capitals and Silicon Valley, where he was generally praised as a “reformer,” and media figures recited his vision for Saudi Arabia in the year 2030 without asking what will be left of Yemen by the year 2020 if the war continues.\n\nSimilarly, this double standard is on display when Western policymakers downplay Saudi and Emirati violations of Yemenis’ human rights by claiming that a close partnership with Riyadh is needed to prevent perceived Iranian threats to the international community, without asking whether that same community is also endangered by Saudi Arabia’s daily violations of basic international norms. And yes, there is a double standard in the wall-to-wall coverage of Khashoggi’s horrific murder, when the daily murder of Yemenis by Saudi Arabia and other parties to the conflict in Yemen hardly merits mention.\n\nThose in the United States and elsewhere who are incensed by Khashoggi’s murder must summon similar moral clarity and condemn Saudi Arabia’s daily killing of innocents in Yemen. If Saudi violations are to be genuinely curtailed, Khashoggi’s killing must mark the beginning, not the end, of accountability for Saudi crimes. Khashoggi’s death has been reduced to a single data point, rather than being seen as the result of subverting universal values in favor of geopolitics or business interests.\n\nReversing course—ending U.S. military support for the Saudi-Emirati intervention in Yemen and supporting U.N.-led peace efforts and the reopening of Yemen’s air and sea ports—can still save millions of lives.\n\nIf U.S. lawmakers had spoken up and taken action on Yemen years ago, when Saudi Arabia’s rampant violations were already well known, thousands of Yemeni civilians who since then have been killed by airstrikes or starvation would still be alive today—and perhaps Jamal Khashoggi would be, too.\n\n * Human Rights\n * Middle East and North Africa\n\nRadhya Almutawakel is a co-founder and leader of Mwatana Organization for Human Rights, which recently received the Roger Baldwin Medal of Liberty, a biennial prize awarded by U.S.-based Human Rights First. X: @RAlmutawakel\n\nAbdulrasheed Alfaqih is a co-founder and leader of Mwatana Organization for Human Rights, which recently received the Roger Baldwin Medal of Liberty, a biennial prize awarded by U.S.-based Human Rights First. X: @ralfaqih\n\n * The Houthis Are Risking Everything for Iran\n   \n   Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out ground war.\n\n\n * Is the U.S.-Iran War Expanding?\n   \n   Violence is escalating, but it also follows familiar trends.\n\n\n * Trump’s Epic Fury Can’t Resolve His Iran Quagmire\n   \n   The clock is ticking for global oil markets, and Iran has the time.\n\n\nOTHER SUBSCRIPTION OPTIONS\n\n\nStories Readers Liked\n\n\n * As the Tide Turns Against Putin, Beware the Drowning Man\n   \n   By Peter Frankopan\n   \n   \n\n\n * Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated\n   \n   By Alexandra de Hoop Scheffer\n   \n   \n\n\n * The Western Myth of Russian Greatness\n   \n   By Christian Caryl\n   \n   \n\n\n * America, the Once Global Nation\n   \n   By Odd Arne Westad\n\n\nBack to School\n\n\nSo You Want to Work in International Affairs\n\nA veteran practitioner’s 12 tips to land that first job.\n\n\n *",
+        "metadata": {
+          "title": "Saudi Arabia and the United Arab Emirates Are Starving Yemenis to Death &#8211; Foreign Policy",
+          "og:title": "Saudi Arabia and the United Arab Emirates Are Starving Yemenis to Death",
+          "og:image": "https://foreignpolicy.com/wp-content/uploads/2018/11/yemen2.jpg",
+          "og:url": "https://foreignpolicy.com/2018/11/08/saudi-arabia-and-the-united-arab-emirates-are-starving-yemenis-to-death-mbs-khashoggi-famine-yemen-blockade-houthis/",
+          "og:description": "The world was rightly outraged by the murder of Jamal Khashoggi, but the bombs of Mohammed bin Salman and his Emirati allies are killing dozens…",
+          "og:site_name": "Foreign Policy",
+          "fb:app_id": "373958131177192",
+          "og:updated_time": "1541655740",
+          "twitter:title": "Saudi Arabia and the United Arab Emirates Are Starving Yemenis to Death",
+          "twitter:description": "The world was rightly outraged by the murder of Jamal Khashoggi, but MBS and his Emirati allies are killing dozens each day in Yemen.",
+          "twitter:domain": "foreignpolicy.com",
+          "article:author": "Radhya Almutawakel, Abdulrasheed Alfaqih",
+          "author": "Radhya Almutawakel, Abdulrasheed Alfaqih",
+          "og:type": "article",
+          "apple-mobile-web-app-title": "Foreign Policy"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Saudi Arabia and the United Arab Emirates Are Starving Yemenis to Death",
+          "url": "http://foreignpolicy.com/2018/11/08/saudi-arabia-and-the-united-arab-emirates-are-starving-yemenis-to-death-mbs-khashoggi-famine-yemen-blockade-houthis/",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http://foreignpolicy.com/2018/11/08/saudi-arabia-and-the-united-arab-emirates-are-starving-yemenis-to-death-mbs-khashoggi-famine-yemen-blockade-houthis/"
+          },
+          "thumbnailUrl": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": ""
+          },
+          "articleSection": "Argument",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Radhya Almutawakel"
+            },
+            {
+              "@type": "Person",
+              "name": "Abdulrasheed Alfaqih"
+            }
+          ],
+          "creator": [
+            "Radhya Almutawakel",
+            "Abdulrasheed Alfaqih"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Foreign Policy",
+            "logo": ""
+          },
+          "keywords": [
+            "foreign aid",
+            "human rights",
+            "middle east and north africa",
+            "saudi arabia",
+            "united arab emirates",
+            "war",
+            "yemen"
+          ],
+          "dateCreated": "2018-11-08T10:42:20Z",
+          "datePublished": "2018-11-08T10:42:20Z",
+          "dateModified": "2018-11-08T10:42:20Z"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Arabie saoudite et les Émirats arabes unis mènent une coalition militaire au Yémen depuis près de quatre ans, bombardant des villes, bloquant des ports et empêchant l'acheminement de l'aide humanitaire. Des milliers de civils ont été tués lors de frappes aériennes, soutenues par des ravitaillements et des armements en provenance des États-Unis et du Royaume-Uni. L'article mentionne également le meurtre de Jamal Khashoggi et l'intervention menée par Mohammed ben Salmane.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jamal Khashoggi",
+          "Mohammed bin Salman"
+        ],
+        "LOCATION": [
+          "Saudi Arabia",
+          "United Arab Emirates",
+          "Yemen",
+          "Middle East and North Africa",
+          "United States",
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "Foreign Policy",
+          "Human Rights",
+          "Yemen Data Project"
+        ],
+        "DATE": [
+          "November 8, 2018",
+          "5:42 AM",
+          "four years",
+          "over 1,300 days",
+          "August"
+        ],
+        "EVENT": [
+          "school bus bombing"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6933306582208778
+    },
+    {
+      "titre": "Senate Republican Helped Advance Bill to End U.S. Support ...",
+      "source": "The Intercept",
+      "lien": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/",
+      "image_url": "https://theintercept.com/wp-content/uploads/2018/11/AP_18157522619320-1543511213-e1543511257524.jpg?w=440&h=440&crop=1",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlN7B9HFBlfhiPCXPkSqhlPeF9K924VpQ1FVCIWQNtNcOe5eIq",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Senate Republican Helped Advance Bill to End U.S. Support ...",
+        "link": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/",
+        "source": "The Intercept",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTXOLOpdb3YBQ2TfAHbwLYapLDlSzrwR2IZKM_-ssd38301PvfnxylAJ98Gv1DnJ7OOLH8RVpRKPhLKrCMMRNWOd1a4QNLk01mf3JpTOMHRapzO7EIS",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlN7B9HFBlfhiPCXPkSqhlPeF9K924VpQ1FVCIWQNtNcOe5eIq",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://theintercept.com/wp-content/uploads/2018/11/AP_18157522619320-1543511213-e1543511257524.jpg?w=440&h=440&crop=1",
+        "image_width": 440,
+        "image_height": 440
+      },
+      "webpage": {
+        "text": "Senate Republican Helped Advance Bill to End U.S. Support for Yemen War as a Way of Debating \"Our Ability to Have a Relationship With Saudi Arabia\"\n\nIn a firm rebuke of President Donald Trump’s Saudi Arabia policy, the Republican-controlled Senate voted 63-37 on Wednesday to advance a piece of legislation that would direct the president to withdraw U.S. forces from assisting the Saudi-led intervention in Yemen.\n\nThe resolution — originally introduced by Sens. Bernie Sanders, I-Vt.; Mike Lee, R-Utah; and Chris Murphy, D-Conn. — invokes the 1973 War Powers Act, and instructs the president to remove U.S. forces from “hostilities” in the fight against the Houthis, an Iranian-backed rebel group in northern Yemen.\n\nWednesday’s vote did not pass the resolution; rather, it discharged the resolution from committee, bypassing an important procedural hurdle and guaranteeing that it will get a vote on the Senate floor, likely sometime next week.\n\nThe vote is a sign of increasing frustration with Trump’s unwillingness to hold Saudi Arabia accountable for the murder of Washington Post contributor Jamal Khashoggi, a critic of Saudi Crown Prince Mohammed bin Salman, who was assassinated by Saudi agents while visiting the Saudi consulate in Istanbul in October.\n\nWhen the Senate voted on the same resolution back in March, it failed 55-44, with 10 Democrats voting against it. Wednesday’s procedural vote got the support of every Senate Democrat and 14 Republicans, including Sen. Bob Corker, R-Tenn., the powerful chair of the Senate Foreign Relations Committee.\n\nPostponing the final vote leaves open the possibility that the resolution could be amended or watered down before it receives a final vote. And several Republicans, including Corker, emphasized that they would not necessarily vote for the bill the next time around.\n\n“I just want to make clear that what I’m voting for today is not voting for the substance that is before us,” Corker said Wednesday on the Senate floor. “I reserve the right to do so. But I’m voting on our ability to have a debate, as it relates to our ability to have a relationship with Saudi Arabia.”\n\nThe Trump administration launched a furious last-minute lobbying campaign aimed at stopping the resolution, including a briefing in the Senate on Wednesday morning with Defense Secretary James Mattis and Secretary of State Mike Pompeo. Pompeo also published an op-ed in the Wall Street Journal, which said, in part, that “[t]he Trump administration’s effort to rebuild the U.S.-Saudi Arabia partnership isn’t popular in the salons of Washington,” but that “[t]he kingdom is a powerful force for stability in the Middle East.”\n\nBut if the administration’s lobbying was designed to mute criticism of the U.S.-Saudi relationship, it had the opposite effect, as senators from both parties expressed frustration that CIA Director Gina Haspel was not part of the administration’s briefing team. Haspel’s absence was noteworthy, because her agency produced an intelligence assessment expressing high confidence that the Saudi crown prince ordered the assassination.\n\n“We were told during this briefing that it was the direction of the White House that she not attend,” Sen. Dick Durbin, D-Ill., told reporters. “I cannot recall a briefing on such a sensitive nature where we have been denied access to the intelligence agencies of the United States.\n\nEven though Wednesday’s vote was only procedural, Sanders touted it as an important step toward ending the U.S. role in the war.\n\n“For the first time, the U.S. Senate voted to advance a resolution withdrawing U.S. Armed Forces from an unauthorized and unconstitutional war,” Sanders said in a statement after the vote. “The bottom line is the United States should not be supporting a catastrophic war led by a despotic regime with a dangerous and irresponsible military policy.”",
+        "metadata": {
+          "title": "Senate Republican Helped Advance Bill to End U.S. Support for Yemen War as a Way of Debating &quot;Our Ability to Have a Relationship With Saudi Arabia&quot;",
+          "description": "The 63-37 vote is a sign of frustration with Trump’s unwillingness to hold Saudi Arabia accountable for the murder of Saudi dissident Jamal Khashoggi.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Despite Vote to Advance Yemen Resolution, Senate Republican Support for Ending U.S. Involvement in the War Is Uncertain",
+          "og:description": "The 63-37 vote is a sign of frustration with Trump’s unwillingness to hold Saudi Arabia accountable for the murder of Saudi dissident Jamal Khashoggi.",
+          "og:url": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/",
+          "og:site_name": "The Intercept",
+          "article:published_time": "2018-11-29T16:59:31+00:00",
+          "article:modified_time": "2018-11-29T17:19:21+00:00",
+          "author": "Alex Emmons",
+          "og:image": "https://theintercept.com/wp-content/uploads/2018/11/AP_18157522619320-1543511213-e1543511257524.jpg?fit=5745%2C2879&w=1200&h=800",
+          "og:image:width": "1200",
+          "og:image:height": "800"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/",
+              "url": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/",
+              "name": "Senate Republican Helped Advance Bill to End U.S. Support for Yemen War as a Way of Debating \"Our Ability to Have a Relationship With Saudi Arabia\"",
+              "isPartOf": {
+                "@id": "https://theintercept.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/#primaryimage"
+              },
+              "image": {
+                "@id": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/#primaryimage"
+              },
+              "thumbnailUrl": "https://theintercept.com/wp-content/uploads/2018/11/AP_18157522619320-1543511213-e1543511257524.jpg?fit=5745%2C2879",
+              "datePublished": "2018-11-29T16:59:31+00:00",
+              "dateModified": "2018-11-29T17:19:21+00:00",
+              "author": {
+                "@id": "https://theintercept.com/#/schema/person/7bdd2293568480c7b768879f5a798020"
+              },
+              "description": "The 63-37 vote is a sign of frustration with Trump’s unwillingness to hold Saudi Arabia accountable for the murder of Saudi dissident Jamal Khashoggi.",
+              "breadcrumb": {
+                "@id": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/#primaryimage",
+              "url": "https://theintercept.com/wp-content/uploads/2018/11/AP_18157522619320-1543511213-e1543511257524.jpg?fit=5745%2C2879",
+              "contentUrl": "https://theintercept.com/wp-content/uploads/2018/11/AP_18157522619320-1543511213-e1543511257524.jpg?fit=5745%2C2879",
+              "width": 5745,
+              "height": 2879,
+              "caption": "Yemeni men inspect the rubble of a destroyed house after it was hit by Saudi-led airstrikes in Sanaa, Yemen, on June 6, 2018."
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://theintercept.com/2018/11/29/yemen-war-saudi-arabia-us-congress/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://theintercept.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Despite Vote to Advance Yemen Resolution, Senate Republican Support for Ending U.S. Involvement in the War Is Uncertain"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://theintercept.com/#website",
+              "url": "https://theintercept.com/",
+              "name": "The Intercept",
+              "description": "",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://theintercept.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Sénat américain a voté pour faire avancer une législation invoquant la loi de 1973 sur les pouvoirs de guerre afin de retirer les forces américaines de l'intervention dirigée par l'Arabie saoudite au Yémen contre les Houthis. Cette décision fait suite à la frustration suscitée par l'absence de réaction de l'administration Trump après l'assassinat de Jamal Khashoggi, critique du prince héritier saoudien Mohammed ben Salmane. Des responsables de l'administration, dont James Mattis et Mike Pompeo, ont mené des efforts de lobbying contre cette résolution.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Donald Trump",
+          "Bernie Sanders",
+          "Mike Lee",
+          "Chris Murphy",
+          "Jamal Khashoggi",
+          "Mohammed bin Salman",
+          "Bob Corker",
+          "James Mattis",
+          "Mike Pompeo",
+          "Gina Haspel"
+        ],
+        "LOCATION": [
+          "Saudi Arabia",
+          "Yemen",
+          "Istanbul",
+          "Washington"
+        ],
+        "ORGANIZATION": [
+          "The Intercept",
+          "Houthis",
+          "Washington Post",
+          "Senate Foreign Relations Committee",
+          "Wall Street Journal",
+          "CIA"
+        ],
+        "DATE": [
+          "Wednesday",
+          "1973",
+          "October",
+          "March"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "War Powers Act"
+        ]
+      },
+      "score_e5": 0.6949133199098912
+    },
+    {
+      "titre": "Saudi Arabia says Yemen Shiite Houthi rebels killed in cross ...",
+      "source": "CBS News",
+      "lien": "https://www.cbsnews.com/news/saudi-arabia-yemen-shiite-houthi-rebels-killed-cross-border-attack/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2015/05/01/28ef3bd5-6429-40c0-94a2-7f8b72e8de32/thumbnail/1200x630/d08f5e77cd7f636ad3846ebc8dfaa4fe/yemensaudiairstrike.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm8FaMdi14auiJ6UVW5iamQlj_M-JupGxJXew1OcOKoPiNy7SR",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Saudi Arabia says Yemen Shiite Houthi rebels killed in cross ...",
+        "link": "https://www.cbsnews.com/news/saudi-arabia-yemen-shiite-houthi-rebels-killed-cross-border-attack/",
+        "source": "CBS News",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTqjfjXNa47u0GVeSLUcxH9UbW1HJczozD_rvED2vdlLRRQYCl8U6O_Q_SdDfFr_0r5opBqvFzDbQZNG_zePYZkrzgTGR5MsKQNTM6XqZvzMXMRV1U",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm8FaMdi14auiJ6UVW5iamQlj_M-JupGxJXew1OcOKoPiNy7SR",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2015/05/01/28ef3bd5-6429-40c0-94a2-7f8b72e8de32/thumbnail/1200x630/d08f5e77cd7f636ad3846ebc8dfaa4fe/yemensaudiairstrike.jpg",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Saudi Arabia",
+          "Yemen"
+        ],
+        "ORGANIZATION": [
+          "CBS News",
+          "Shiite Houthi"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": null
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Azaz",
+      "Aleppo"
+    ],
+    "ORGANIZATION": [
+      "Free Syrian Army"
+    ],
+    "DATE": [
+      "2012"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Hadi",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Aden",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Maashiq",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Crater",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Taiz",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Saudi Arabia",
+      "rangs": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Yemen",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Houthis",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "late March",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "later this month",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "34843156",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Yemen conflict",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hamen",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Stephane Dujarric",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Toner",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ali Abdullah Saleh",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sanaa",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "state department",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN Security Council",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "earlier this month",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "resolution 2216",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jamal Khashoggi",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mohammed bin Salman",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Arab Emirates",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle East and North Africa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Foreign Policy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Human Rights",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yemen Data Project",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 8, 2018",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "5:42 AM",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "four years",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "over 1,300 days",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "school bus bombing",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bernie Sanders",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mike Lee",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Murphy",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bob Corker",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "James Mattis",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mike Pompeo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gina Haspel",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Istanbul",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Intercept",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Washington Post",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Senate Foreign Relations Committee",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wall Street Journal",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CIA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1973",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "War Powers Act",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CBS News",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shiite Houthi",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T16:58:27.939005"
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "id_rumeur": 772523,
+  "id_image": 1019567,
+  "caption": "A Syrian Kurdish woman and her daughter after crossing into Turkey from the Syrian border town of Kobani",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748124/oluyewo_benchmark/xrakukhhrmn8dvuohkmf.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Battle lines drawn over migrant crossings - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-35292325",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05D8/production/_87669410_030764241-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjsE2D23YQqR_j0myjvoUFFo39xZBEIj41ZlTySAuLD5k7WVBy",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Battle lines drawn over migrant crossings - BBC News",
+        "link": "https://www.bbc.com/news/world-35292325",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjsE2D23YQqR_j0myjvoUFFo39xZBEIj41ZlTySAuLD5k7WVBy",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05D8/production/_87669410_030764241-1.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": null,
+      "texte_contexte": "Battle lines drawn over migrant crossings",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "BBC News",
+          "BBC"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "migrant crossings"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7962313391459152
+    },
+    {
+      "titre": "Guardian and Observer refugee appeal raises record £2.5m ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/society/charity-appeal-2015-blog/2016/jan/13/guardian-and-observer-refugee-appeal-raises-record-2-5-million",
+      "image_url": "https://i.guim.co.uk/img/media/adfab8c1d88899b1f15e0aa29aafe21fd5ce7e10/0_121_5072_3045/master/5072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&s=5aa745779681f82fc7b8d00ed4cb9fd9",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR98Rkru_jHI6MYYUqfZmGLeptH4lX4yhPPrcUDN7MAkBo61Ad-",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Guardian and Observer refugee appeal raises record £2.5m ...",
+        "link": "https://www.theguardian.com/society/charity-appeal-2015-blog/2016/jan/13/guardian-and-observer-refugee-appeal-raises-record-2-5-million",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef855fdfbab3a4eaf0af9/images/ATSPmBmNQ9xophq9cY14xt8jwOcCUJFlbP3Sxt2g8hI.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR98Rkru_jHI6MYYUqfZmGLeptH4lX4yhPPrcUDN7MAkBo61Ad-",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i.guim.co.uk/img/media/adfab8c1d88899b1f15e0aa29aafe21fd5ce7e10/0_121_5072_3045/master/5072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&s=5aa745779681f82fc7b8d00ed4cb9fd9",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Guardian and Observer refugee appeal raises record £2.5m",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Guardian",
+          "Observer"
+        ],
+        "DATE": [
+          "2015",
+          "2016",
+          "13/01/2016"
+        ],
+        "EVENT": [
+          "refugee appeal"
+        ],
+        "OTHER": [
+          "£2.5m"
+        ]
+      },
+      "score_e5": 0.7590305690235414
+    },
+    {
+      "titre": "Does the UK give more aid than other countries? - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/education-35226478",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/17E05/production/_87479779_030764241.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSdZgWtDWpmDXpeTogBYrDL1XCS9M9GkfjK-ZolD-X9pkSXOB",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Does the UK give more aid than other countries? - BBC News",
+        "link": "https://www.bbc.com/news/education-35226478",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSdZgWtDWpmDXpeTogBYrDL1XCS9M9GkfjK-ZolD-X9pkSXOB",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/17E05/production/_87479779_030764241.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": null,
+      "texte_contexte": "Does the UK give more aid than other countries?",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "BBC"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7378484245972167
+    },
+    {
+      "titre": "Migrant crisis: The first steps | CNN",
+      "source": "CNN",
+      "lien": "https://www.cnn.com/2016/01/29/world/gallery/santi-palacios-migrants-lesbos",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/160127095431-08-01-santi-palacios-cnn-b.jpg?q=w_2000,h_1125,x_0,y_0,c_fill/h_447",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBLlBo43MEP1YoHvCTbUR5UCv13L4MU231Ul194d6kpt9Fy8W",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Migrant crisis: The first steps | CNN",
+        "link": "https://www.cnn.com/2016/01/29/world/gallery/santi-palacios-migrants-lesbos",
+        "source": "CNN",
+        "source_icon": "https://serpapi.com/searches/6a8ef855fdfbab3a4eaf0af9/images/6AbVLmVT-AgS6jNoMY83tloGj4hotpR9T0keFiRC1yU.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBLlBo43MEP1YoHvCTbUR5UCv13L4MU231Ul194d6kpt9Fy8W",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/160127095431-08-01-santi-palacios-cnn-b.jpg?q=w_2000,h_1125,x_0,y_0,c_fill/h_447",
+        "image_width": 447,
+        "image_height": 795
+      },
+      "webpage": null,
+      "texte_contexte": "Migrant crisis: The first steps",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Santi Palacios"
+        ],
+        "LOCATION": [
+          "Lesbos"
+        ],
+        "ORGANIZATION": [
+          "CNN"
+        ],
+        "DATE": [
+          "29/01/2016"
+        ],
+        "EVENT": [
+          "Migrant crisis"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8063616007019971
+    },
+    {
+      "titre": "The New York Times International Edition in Print for ...",
+      "source": "The New York Times",
+      "lien": "https://www.nytimes.com/issue/todaysinyt/2020/02/19/todays-new-york-times-international-edition",
+      "image_url": "https://static01.nyt.com/images/2020/02/18/world/00turkey-dispatch4/00turkey-dispatch4-smallSquare252-v2.jpg?auto=webp",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQpOpPRVRDbOROTABf_xHGWJArQh2lFlEghjN2e0V8YnZCGCwa",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "The New York Times International Edition in Print for ...",
+        "link": "https://www.nytimes.com/issue/todaysinyt/2020/02/19/todays-new-york-times-international-edition",
+        "source": "The New York Times",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwSEhISEhISEhIYGBgSEhITExMSEhISEhIUFBQSEhISEhITExMSEhIUFBQbGxsSEhISEhK8R-FnAAAAEXRSTlMAqdTxDrYqyJkai15L4jsFd3oeBHkAAAD8SURBVDiNxZNJcsQgDEUZJMDMuv9lI6DdbURnmYoWlOG_QsPHSv1PQNbuPEy-GJ1egqck9GZohsXeeFuoXLvu6RPWW17zBlQ6YgcSUUE09qObPUUmw-WBi-9UosjLBF5ibKol7UvBKrt0QXWr-aN3BfWQxxyQjHKRaFx1fQE4ea-jgl-AwHVDewG5H7rjBlHBAqqlKIE4lQXMoQUBIJ_F-wamjXSzsKJvQHXko3YAvsGzi92LodjaHoDTssuRg4HoFoA7kKdBUS-LLgAt3IL1oPwaISRDVvThbptR62n5Maq-vycrdS7j8ZzuXCJLeOsBvujzloCIQf4Sfx0_-9wR8otzrKEAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQpOpPRVRDbOROTABf_xHGWJArQh2lFlEghjN2e0V8YnZCGCwa",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://static01.nyt.com/images/2020/02/18/world/00turkey-dispatch4/00turkey-dispatch4-smallSquare252-v2.jpg?auto=webp",
+        "image_width": 252,
+        "image_height": 252
+      },
+      "webpage": null,
+      "texte_contexte": "The New York Times International Edition in Print",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The New York Times"
+        ],
+        "DATE": [
+          "19/02/2020"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "International Edition"
+        ]
+      },
+      "score_e5": 0.7786526692890692
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Turkey",
+      "Kobani",
+      "Syria"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Santi Palacios",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lesbos",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Observer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNN",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The New York Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "13/01/2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "29/01/2016",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "19/02/2020",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "migrant crossings",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "refugee appeal",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Migrant crisis",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "£2.5m",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "International Edition",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:50:38.244574"
+  }
+}

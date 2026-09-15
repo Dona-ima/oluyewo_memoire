@@ -1,0 +1,841 @@
+{
+  "id_rumeur": 327107,
+  "id_image": 1676498,
+  "caption": "Burned cars are shown at the scene after two explosions struck near the Iranian embassy killing many in Beirut on Nov 19 2013",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748455/oluyewo_benchmark/czedfcdepfdqsailhsgt.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Burning of Temple in Londonderry takes place - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-northern-ireland-32002102",
+      "image_url": "http://news.bbcimg.co.uk/media/images/81823000/jpg/_81823109_firetemple.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnKRnu61gTSDPEA4MY_9EwqNYGjM_-yGVc61ChN4BZHk-sNSA1",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Burning of Temple in Londonderry takes place - BBC News",
+        "link": "https://www.bbc.com/news/uk-northern-ireland-32002102",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnKRnu61gTSDPEA4MY_9EwqNYGjM_-yGVc61ChN4BZHk-sNSA1",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/81823000/jpg/_81823109_firetemple.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Burning of Temple in Londonderry takes place\n\nIn Northern Ireland, bonfires are traditionally lit by loyalists in July to commemorate the victory of the Protestant King William III over the Catholic monarch James II at the Battle of the Boyne in 1690.\n\nIn August, republicans set bonfires to mark the anniversary of internment, when the government interned hundreds of people without trial at the height of the Troubles.\n\nMr Best was asked if it was a \"double standard\" that the temple bonfire was being celebrated while more traditional bonfires were often viewed as hostile.\n\n\"If you start off with an intention to scare or frighten or ridicule, then that's what your art is going to look like and that's what it's going to do. If you start with the intention of healing or trying to make some kind of forgiveness or understanding, that's what your work is going to do,\" he told the programme.\n\n\"I didn't come to Ireland to change the bonfires, I just came to offer an alternative that could be built by both communities, and not have the issue of ridicule or scorn in it, and I think we did that.\n\n\"I think last night was evidence that the cross-community came together and celebrated and reflected on their losses together.\"",
+        "metadata": {
+          "description": "More than 15,000 people in Londonderry attend the burning of a 70-foot carved tower called Temple on Saturday evening.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "More than 15,000 people in Londonderry attend the burning of a 70-foot carved tower called Temple on Saturday evening.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/81823000/jpg/_81823109_firetemple.jpg",
+          "og:image:alt": "The Temple in the Waterside area of the city has been set alight",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Burning of Temple in Londonderry takes place",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-northern-ireland-32002102",
+          "article:section": "Northern Ireland",
+          "twitter:description": "More than 15,000 people in Londonderry attend the burning of a 70-foot carved tower called Temple on Saturday evening.",
+          "twitter:title": "Burning of Temple in Londonderry takes place"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-northern-ireland-32002102",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-03-21T19:32:32.000Z",
+          "dateModified": "2015-03-22T11:33:15.000Z",
+          "description": "More than 15,000 people in Londonderry attend the burning of a 70-foot carved tower called Temple on Saturday evening.",
+          "headline": "Burning of Temple in Londonderry takes place",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/81823000/jpg/_81823109_firetemple.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/81823000/jpg/_81823109_firetemple.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-northern-ireland-32002102",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Burning of Temple in Londonderry takes place. In Northern Ireland, bonfires are traditionally lit by loyalists in July to commemorate the victory of the Protestant King William III over the Catholic monarch James II at the Battle of the Boyne in 1690, and in August by republicans to mark the anniversary of internment during the Troubles. Mr Best created a temple bonfire as an alternative intended to bring cross-community groups together to reflect on their losses.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "King William III",
+          "James II",
+          "Mr Best"
+        ],
+        "LOCATION": [
+          "Londonderry",
+          "Northern Ireland",
+          "Ireland"
+        ],
+        "ORGANIZATION": [
+          "BBC"
+        ],
+        "DATE": [
+          "July",
+          "August",
+          "1690"
+        ],
+        "EVENT": [
+          "Battle of the Boyne",
+          "the Troubles"
+        ],
+        "OTHER": [
+          "temple bonfire"
+        ]
+      },
+      "score_e5": 0.7131207831434382
+    },
+    {
+      "titre": "Burning Man artist burns latest installation in Derry ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/uk-news/video/2015/mar/22/burning-man-artist-burns-latest-instillation-derry-video",
+      "image_url": "http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2015/3/22/1427043148404/crop_KP_130764_640x480.jpeg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM1lVSm_25RxZD8Ory0Kty1KGDgSRn1oajxabuzDlheimDOkz_",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Burning Man artist burns latest installation in Derry ...",
+        "link": "https://www.theguardian.com/uk-news/video/2015/mar/22/burning-man-artist-burns-latest-instillation-derry-video",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efb302f47f8b94984656a/images/aPUzMWJUa6s-72DSo4I5N-OHGUgzUQB7uM9AQA8yiFo.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM1lVSm_25RxZD8Ory0Kty1KGDgSRn1oajxabuzDlheimDOkz_",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2015/3/22/1427043148404/crop_KP_130764_640x480.jpeg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Burning Man artist burns latest installation in Derry - video | Derry\n\nBurning Man artist burns latest installation in Derry - video\n\nThis article is more than 11 years old\n\nA 70-foot carved wooden tower, called Temple, is set alight in Derry, Northern Ireland, on Saturday. The project was the work of US artist David Best, and his aim was to offer an alternative perspective on bonfires. More than 60,000 people visited the structure in the week before it was set alight, leaving hundreds of personal messages of love and loss inside the temple\n\nExplore more on these topics\n\n * Derry\n * Northern Ireland\n * Art\n * Burning Man festival",
+        "metadata": {
+          "title": "Burning Man artist burns latest installation in Derry - video | Derry | The Guardian",
+          "description": "<p>A 70-foot carved wooden tower, called Temple, is set alight in Derry, Northern Ireland, on Saturday</p>",
+          "og:url": "http://www.theguardian.com/uk-news/video/2015/mar/22/burning-man-artist-burns-latest-instillation-derry-video",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2015/3/22/1427043144605/crop_KP_130762_1200x720.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=756673528ea240222366cae9abcdaef6",
+          "al:ios:url": "gnmguardian://uk-news/video/2015/mar/22/burning-man-artist-burns-latest-instillation-derry-video?contenttype=Article&source=applinks",
+          "og:title": "Burning Man artist burns latest installation in Derry - video",
+          "fb:app_id": "180444840287",
+          "og:video:url": "https://www.theguardian.com/uk-news/video/2015/mar/22/burning-man-artist-burns-latest-instillation-derry-video",
+          "article:modified_time": "2022-10-19T14:29:16.000Z",
+          "og:video:secure_url": "https://www.theguardian.com/uk-news/video/2015/mar/22/burning-man-artist-burns-latest-instillation-derry-video",
+          "og:image:height": "720",
+          "og:description": "A 70-foot carved wooden tower, called Temple, is set alight in Derry, Northern Ireland, on Saturday",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "UK news",
+          "article:published_time": "2015-03-22T17:01:00.000Z",
+          "article:tag": "Derry,Northern Ireland,Art,Art and design,Burning Man festival,UK news,Culture",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A 70-foot carved wooden tower called Temple is set alight in Derry, Northern Ireland, on Saturday. The project is the work of US artist David Best, aiming to offer an alternative perspective on bonfires. More than 60,000 people visited the structure in the week before it was set alight, leaving personal messages of love and loss inside.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Best"
+        ],
+        "LOCATION": [
+          "Derry",
+          "Northern Ireland",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "Saturday"
+        ],
+        "EVENT": [
+          "Burning Man festival"
+        ],
+        "OTHER": [
+          "Temple"
+        ]
+      },
+      "score_e5": 0.7473879338169961
+    },
+    {
+      "titre": "Tempelbrand in Noord-Ierland als vredesproject",
+      "source": "NOS",
+      "lien": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject",
+      "image_url": "https://images.cdn.nos.nl/1/F/1/U/T/3/VgEupcKBKNDpHx8TSimXrgFhsgNj8Uh6m5988om/3x2x4080x2295-1024x576.webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwFcLir9-kkqgHsdw05VptoCKAxgYLhrjqiyUg0wFeJhPHO1xy",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Tempelbrand in Noord-Ierland als vredesproject",
+        "link": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject",
+        "source": "NOS",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACkUlEQVRYhbWXP2vbUBTFf0946uCpUBLoEH-EQgaDhw4dMgSM0jEhFIJsQnHAi9eQ1UshpoNtDCUka4UpFA8eOhg8GDL0AzhDoV46aQ68Drr-W0tXsusDWsR99xzd9969R-b4soqG9tdmBmNeAy7wBsgDL4GshATAH2AIPAI-1v7yTsrPWm4TJ0CID4GPQppT1YYYi5jPWDuKE-JEkvutA4ypAz3gNAU5EnsK9DCm3vZbB6kEtP1WHrgDqszLvAmykuNOcuoC2n7rHXAPFLYgXkUBuJfc0QJEZZN05U6KHNBcrcRMgOxTfUfkiyKWzoQDctqhQvqyB_KkQQGoCCcZAIx5C1wkTDAGusAAmMi7PUlcJFkFLzDmO9A3k1cvMhjzhfDaxCEAOkDDc0tP6wKktBXCj9FuzwPWfnCk0ay9IivkN1hbiyIH8NzSE9bWgBv0rcljzKFDsg7XwdrbJK3VOyk_Y-0tYbXikAPyDmF_j8MYaCQhXxIBDVkbB9cB9pWgblzZI0WEa7pK2L6DXv5BWvIUa3ORw0gQML9qm2CCchg1ATuHJiBL2GQ2xR5KP3DQT-o2U1FbGzjAbyWoGGcooiBrikrYTwfwlaAcC8MjEfl8uGk3zHcIvZu2DRcYc5VEhPjIK_ThFgBDB2tHIiIOWeBa83cLPvIafRh9w9qROb6sTp1QL8Ei-D_jOADee26pH5bU2hHGdAgNpIacxFWZN5m0xrWDtT9A-sDC8EjbdrMbkA9YGG6zRiTDo4Z-ILfBGFjyFEud0HNLQ6C8IxFjoCwcM_zTij231AfO2G4KrmIAnEnuJaydBaLyHPhEete7iEBynK9-eawAETH1d0eSJM22jIEH4EjzkbF_x1Ps8vf8Lzhk8IJBjI2ZAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwFcLir9-kkqgHsdw05VptoCKAxgYLhrjqiyUg0wFeJhPHO1xy",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://images.cdn.nos.nl/1/F/1/U/T/3/VgEupcKBKNDpHx8TSimXrgFhsgNj8Uh6m5988om/3x2x4080x2295-1024x576.webp",
+        "image_width": 576,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Tempelbrand in Noord-Ierland als vredesproject\n\nNOS Nieuwszondag 22 maart 2015, 09:07\n\nIn de Noord-Ierse stad Londenderry hebben meer dan 15.000 mensen toegekeken bij een enorm vreugdevuur. Een houten tempel van meer dan twintig meter hoog die op de top van een heuvel was neergezet, ging in vlammen op. De tempel was gemaakt door kunstenaar David Best, die voor het Burning Man-festival(opent in nieuw venster) in de Verenigde Staten ook vaak enorme houten installaties maakt, die later in brand worden gestoken.\n\nHet verbranden van de tempel was een symbolisch gebaar(opent in nieuw venster) voor het \"vieren van vrede in Noord-Ierland\". De afgelopen dagen konden mensen briefjes met boodschappen in de tempel achterlaten. Dat was een groot succes, er kwamen meer dan 5000 mensen per dag.\n\nHet in brand steken van de tempel verwijst naar de vreugdevuren waarmee protestanten hun jaarlijkse Oranjemarsen opluisteren. Die marsen leiden vaak tot ongeregeldheden. Londenderry (door katholieken Derry genoemd) heeft een speciale plaats in 'the Troubles', het conflict tussen Noord-Ierse katholieken en protestanten.\n\nOp 30 januari 1972, Bloody Sunday, werden in Londenderry veertien ongewapende demonstranten doodgeschoten door Britse soldaten. Dat wordt wel gezien als het begin van de burgeroorlog.",
+        "metadata": {
+          "description": "Het kunstproject in de stad van Bloody Sunday was bedoeld om aandacht te vragen voor vrede in Noord-Ierland.  ",
+          "title": "Tempelbrand in Noord-Ierland als vredesproject",
+          "keywords": "David Best, The Troubles",
+          "og:type": "article",
+          "og:url": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject",
+          "og:title": "Tempelbrand in Noord-Ierland als vredesproject",
+          "og:description": "Het kunstproject in de stad van Bloody Sunday was bedoeld om aandacht te vragen voor vrede in Noord-Ierland.  ",
+          "og:image": "https://images.cdn.nos.nl/4/6/6/d/M/F/6xzzYM8DG46wtDjMQkRtXhybAk8B5JyJXtgXXP3/3x2x4080x2295-1024x576.webp",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Tempelbrand in Noord-Ierland als vredesproject",
+          "twitter:description": "Het kunstproject in de stad van Bloody Sunday was bedoeld om aandacht te vragen voor vrede in Noord-Ierland.  ",
+          "twitter:image": "https://images.cdn.nos.nl/4/6/6/d/M/F/6xzzYM8DG46wtDjMQkRtXhybAk8B5JyJXtgXXP3/3x2x4080x2295-1024x576.webp",
+          "og:article:published_time": "2015-03-22T09:07:23+0100",
+          "og:article:modified_time": "2015-03-22T09:07:23+0100",
+          "og:article:tag": "David Best, The Troubles",
+          "apple-mobile-web-app-title": "NOS.nl"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject#webpage",
+              "url": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject",
+              "name": "Tempelbrand in Noord-Ierland als vredesproject",
+              "description": "Het kunstproject in de stad van Bloody Sunday was bedoeld om aandacht te vragen voor vrede in Noord-Ierland.  ",
+              "isAccessibleForFree": true,
+              "inLanguage": [
+                {
+                  "@type": "Language",
+                  "name": "Dutch"
+                }
+              ],
+              "dateCreated": "2015-03-22T09:07:23+0100",
+              "datePublished": "2015-03-22T09:07:23+0100",
+              "dateModified": "2015-03-22T09:07:23+0100",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://images.cdn.nos.nl/4/6/6/d/M/F/6xzzYM8DG46wtDjMQkRtXhybAk8B5JyJXtgXXP3/3x2x4080x2295-1024x576.webp"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "NOS Nieuws",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://static.nos.nl/img/nos/nos-social.jpg"
+                }
+              },
+              "mainEntity": {
+                "@id": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject#article"
+              }
+            },
+            {
+              "@type": "NewsArticle",
+              "@id": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject#article",
+              "url": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject",
+              "mainEntityOfPage": {
+                "@id": "https://nos.nl/artikel/2026216-tempelbrand-in-noord-ierland-als-vredesproject#webpage"
+              },
+              "identifier": 2026216,
+              "headline": "Tempelbrand in Noord-Ierland als vredesproject",
+              "description": "Het kunstproject in de stad van Bloody Sunday was bedoeld om aandacht te vragen voor vrede in Noord-Ierland.  ",
+              "publisher": {
+                "@type": "Organization",
+                "name": "NOS Nieuws",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://static.nos.nl/img/nos/nos-social.jpg"
+                }
+              },
+              "sdPublisher": {
+                "@type": "Organization",
+                "name": "NOS",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://static.nos.nl/img/nos/nos-social.jpg"
+                }
+              },
+              "isAccessibleForFree": true,
+              "dateCreated": "2015-03-22T09:07:23+0100",
+              "datePublished": "2015-03-22T09:07:23+0100",
+              "dateModified": "2015-03-22T09:07:23+0100",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://images.cdn.nos.nl/4/6/6/d/M/F/6xzzYM8DG46wtDjMQkRtXhybAk8B5JyJXtgXXP3/3x2x4080x2295-1024x576.webp"
+              },
+              "name": "Tempelbrand in Noord-Ierland als vredesproject",
+              "author": {
+                "@type": "Organization",
+                "name": "NOS Nieuws"
+              },
+              "keywords": [
+                "David Best",
+                "The Troubles"
+              ],
+              "articleBody": " In de Noord-Ierse stad Londenderry hebben meer dan 15.000 mensen toegekeken bij een enorm vreugdevuur.  Een houten tempel van meer dan twintig meter hoog die op de top van een heuvel was neergezet, ging in vlammen op. De tempel was gemaakt door kunstenaar David Best, die voor het Burning Man-festival in de Verenigde Staten ook vaak enorme houten installaties maakt, die later in brand worden gestoken.  Het verbranden van de tempel was een symbolisch gebaar voor het \"vieren van vrede in Noord-Ierland\". De afgelopen dagen konden mensen briefjes met boodschappen in de tempel achterlaten. Dat was een groot succes, er kwamen meer dan 5000 mensen per dag.  Het in brand steken van de tempel verwijst naar de vreugdevuren waarmee protestanten hun jaarlijkse Oranjemarsen opluisteren. Die marsen leiden vaak tot ongeregeldheden. Londenderry (door katholieken Derry genoemd) heeft een speciale plaats in 'the Troubles', het conflict tussen Noord-Ierse katholieken en protestanten.  Op 30 januari 1972, Bloody Sunday, werden in Londenderry veertien ongewapende demonstranten doodgeschoten door Britse soldaten. Dat wordt wel gezien als het begin van de burgeroorlog.  ",
+              "articleSection": [
+                "Buitenland"
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "In Londonderry, more than 15,000 people watched a wooden temple over twenty meters high set on fire as a symbolic gesture for celebrating peace in Northern Ireland. The temple was created by artist David Best, known for wooden installations for the Burning Man festival in the United States. People left messages in the temple over the preceding days. The burning references Protestant bonfires during Orange marches. Londonderry, also called Derry by Catholics, is marked by the Troubles and Bloody Sunday on January 30, 1972.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Best"
+        ],
+        "LOCATION": [
+          "Londonderry",
+          "Derry",
+          "Noord-Ierland",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "NOS"
+        ],
+        "DATE": [
+          "zondag 22 maart 2015",
+          "30 januari 1972"
+        ],
+        "EVENT": [
+          "Burning Man-festival",
+          "Oranjemarsen",
+          "the Troubles",
+          "Bloody Sunday"
+        ],
+        "OTHER": [
+          "houten tempel"
+        ]
+      },
+      "score_e5": 0.7325720875402675
+    },
+    {
+      "titre": "Burning Man - Temple on Fire",
+      "source": "Loupiote Photography",
+      "lien": "https://www.loupiote.com/photos/burning-man-temple-on-fire-18314551.shtml",
+      "image_url": "https://www.loupiote.com/photos_lw/burning-man-temple-on-fire-18314551.webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0-DICvfCzS_2OmFh7Y8eTmUxUF3eXMuIrzikGU-DYQsWAAJ05",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Burning Man - Temple on Fire",
+        "link": "https://www.loupiote.com/photos/burning-man-temple-on-fire-18314551.shtml",
+        "source": "Loupiote Photography",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcR4mrz-eRuOWv6jNjlnWCFTTJRsnXfbqyRPDboHqhj7VkDj8Ap9nUYChWbU776jMoR6M1IkwBW8tZbUcV4ODJOWTml22NteGukZ03dfse-iMSDYELB7",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0-DICvfCzS_2OmFh7Y8eTmUxUF3eXMuIrzikGU-DYQsWAAJ05",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.loupiote.com/photos_lw/burning-man-temple-on-fire-18314551.webp",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Burning Man\n\nPhoto taken on September 5, 2004\n\nBlack Rock City, Pershing county, Nevada, USA\n\nGPS coordinates: 40.754650,-119.236500 - Download KML file for Google Earth (and other mapping apps)\n\n▼ Display maps with photo location",
+        "metadata": {
+          "title": "Burning Man - Temple on Fire"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Burning Man photo taken on September 5, 2004 in Black Rock City, Pershing county, Nevada, United States.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Black Rock City",
+          "Pershing county",
+          "Nevada",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Loupiote Photography",
+          "Google Earth"
+        ],
+        "DATE": [
+          "September 5, 2004"
+        ],
+        "EVENT": [
+          "Burning Man"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7366294664331747
+    },
+    {
+      "titre": "'We use fire for healing': a bonfire in Derry without all the ...",
+      "source": "The Irish Times",
+      "lien": "https://www.irishtimes.com/culture/we-use-fire-for-healing-a-bonfire-in-derry-without-all-the-acrimony-1.1998047",
+      "image_url": "https://www.irishtimes.com/resizer/v2/OQGUCQY2GBLHAIEGMKOSYHDJ6A.jpg?auth=e6300d31c3b4444da583971f69199a24defde441dfe46eca17d88b6bfa1acfaf&smart=true&width=1600&height=1600",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHYk1aieSdiG2fFtzA4eyeqNQEV9RKQwEBXtC7uuIrYYZAkHni",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "'We use fire for healing': a bonfire in Derry without all the ...",
+        "link": "https://www.irishtimes.com/culture/we-use-fire-for-healing-a-bonfire-in-derry-without-all-the-acrimony-1.1998047",
+        "source": "The Irish Times",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT1rsBrRr7dq3XGR8dTpqz59-6Xjz9yYhZyQQkvGN7-A8WofqbjMR50gNy36ySKYPItZOJVzcfkh8xDdgGCWBcS6AD5OYZfk2GxO1ZVuEneLGLaDNLEfWY",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHYk1aieSdiG2fFtzA4eyeqNQEV9RKQwEBXtC7uuIrYYZAkHni",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://www.irishtimes.com/resizer/v2/OQGUCQY2GBLHAIEGMKOSYHDJ6A.jpg?auth=e6300d31c3b4444da583971f69199a24defde441dfe46eca17d88b6bfa1acfaf&smart=true&width=1600&height=1600",
+        "image_width": 1600,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "‘We use fire for healing’: a bonfire in Derry without all the acrimony – The Irish Times\n\nDavid Best is a 69-year-old Californian artist who is planning to turn Northern Ireland's fascination with bonfires on its head by building a massive plywood temple that will rival any 11th Night construction. And then he plans to burn it to the ground in a life- affirming conflagration.\n\nThe London-based company Artichoke, which staged the Lumiere festival of fire and light in Derry last year, is bringing Best over to Derry in March to build his temple, which will be some 70ft tall and 40ft-50ft wide.\n\nBest regularly creates monumental, wooden, oriental-type structures to mark the end of the annual Burning Man festival in the Nevada desert in the US. He has built eight of the 15 temples that have been created at the event since 2000, including this year’s Temple of Grace.\n\nAfter about two weeks of construction, each of those is torched in front of 40,000 people. And Best is planning a similarly spectacular project for Derry in March. There is an elemental force to his art. “My work comes from an old place,” he says.\n\nBest ‘gets’ Ireland\n\nBest has been a frequent visitor to Ireland since spending his honeymoon here 30 years ago. “You either get Ireland or you don’t; I get Ireland,” he says. He is married to Maggie Roth, and the couple have an organic farm and house in Tipperary. His father-in-law, William M Roth, was a Californian businessman and philanthropist who was also an expert on Jack B Yeats and WB Yeats, and was also a regular visitor to Ireland with his wife, Joan.\n\nBest knows about the annual loyalist bonfires throughout Northern Ireland on the night before the Twelfth of July celebrations – although he has never witnessed one – and about how, to a lesser extent, nationalists have their own love of fire.\n\n“I don’t want to get into a fistfight with anyone, but it seems to me that in Northern Ireland they are using fires to ridicule one another,” he says. “We use fire for healing, to erase some very dark bad things and to represent forgiveness.\n\n“The idea I have for Derry-Londonderry is that, both a Protestant whose family member was killed by a Catholic and a Catholic whose family member was killed by a Protestant, together would light the Temple.”\n\nThe burning question\n\nBut why the burning temples? “The reason is a very simple one. About 10 years ago a man came up to me after we had burned one of the temples in the desert and said, ‘My son [took his own life] and you have set him free.’ I made a lot of art in my life but I never made something that healed a family’s soul.\n\n“What philosophy was holding him back, I don’t know. He seemed to feel in some sort of limbo or whatever. The burning temple seemed to give him the closure to go back to his wife and daughter and say, ‘Your son, your brother is okay now.’ What a privilege to be able to help a family get on with their life; it’s very hard to make art that does that.”\n\nArtichoke has raised more than £30,000 (€38,000) towards the cost of the project. Helen Marriage of Artichoke, with her co-director Nicky Webb, brought Derry's year as UK City of Culture to a close last November with the Lumiere light and fire installations, which were seen by more than 180,000 visitors.\n\nMarriage is keen to point out that this project is not trying to outdo the Orange Order bonfires.\n\n“It would be hubristic to think we could compete with a tradition that has been going on for years. It really is just a different interpretation and something that might be meaningful for people.\n\n“Our desire is to involve a cross-community workforce in making something beautiful that means something to everybody, not to one side or the other.”\n\nThe temple will be built by a team from Derry, with Best and some of his international craftspeople. Those involved will have an opportunity to learn new skills during the two weeks it should take to erect the temple. The temple will be open for a week in March, during which time the public will be invited to cover its interior with messages and contributions.\n\nBest has an initial design for the temple, which will be similar to the Balinese-style structures he created in Nevada. He will be in Derry on November 21st for the Foyle Film Festival to talk about the project and the Burning Man festival.\n\n“In Nevada, 40,000 people watch the burning temples in absolute silence: not a word is spoken. I am hoping we can create that same reverence in Derry-Londonderry; that’s my goal.\n\n“The temple will take two weeks to build, 15 minutes to burn. But the more valuable the offering the greater the blessing; you don’t compromise on it.”",
+        "metadata": {
+          "title": "‘We use fire for healing’: a bonfire in Derry without all the acrimony – The Irish Times",
+          "description": "David Best builds temples in Nevada then burns them down, and he’s coming to Derry with an incendiary project",
+          "twitter:description": "David Best builds temples in Nevada then burns them down, and he’s coming to Derry with an incendiary project",
+          "og:description": "David Best builds temples in Nevada then burns them down, and he’s coming to Derry with an incendiary project",
+          "keywords": "david-best,helen-marriage",
+          "og:title": "‘We use fire for healing’: a bonfire in Derry without all the acrimony",
+          "twitter:title": "‘We use fire for healing’: a bonfire in Derry without all the acrimony",
+          "og:image": "https://www.irishtimes.com/resizer/v2/OQGUCQY2GBLHAIEGMKOSYHDJ6A.jpg?smart=true&auth=e6300d31c3b4444da583971f69199a24defde441dfe46eca17d88b6bfa1acfaf&width=1200&height=630",
+          "og:image:alt": "The Temple of Juno is set ablaze at the 2012 Burning Man festival. Photograph: Philip Volkers",
+          "og:type": "article",
+          "og:site_name": "The Irish Times",
+          "og:url": "https://www.irishtimes.com/culture/we-use-fire-for-healing-a-bonfire-in-derry-without-all-the-acrimony-1.1998047"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "David Best, a 69-year-old artist from California, built a massive plywood temple in Derry, Northern Ireland, measuring some 70ft tall and 40ft-50ft wide, which he planned to burn down. The London-based company Artichoke brought Best to Derry. Best is known for creating monumental wooden structures at the end of the annual Burning Man festival in the Nevada desert. He is married to Maggie Roth, and his father-in-law was William M Roth.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Best",
+          "Maggie Roth",
+          "William M Roth",
+          "Jack B Yeats",
+          "WB Yeats",
+          "Joan"
+        ],
+        "LOCATION": [
+          "Northern Ireland",
+          "Derry",
+          "Londonderry",
+          "Nevada",
+          "United States",
+          "Ireland",
+          "Tipperary",
+          "California"
+        ],
+        "ORGANIZATION": [
+          "The Irish Times",
+          "Artichoke"
+        ],
+        "DATE": [
+          "March",
+          "2000"
+        ],
+        "EVENT": [
+          "Lumiere festival",
+          "Burning Man festival",
+          "Twelfth of July"
+        ],
+        "OTHER": [
+          "Temple of Grace"
+        ]
+      },
+      "score_e5": 0.7261824944125745
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Beirut",
+      "Iranian embassy"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "Nov 19 2013"
+    ],
+    "EVENT": [
+      "two explosions"
+    ],
+    "OTHER": [
+      "cars"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "King William III",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "James II",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Best",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Londonderry",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Northern Ireland",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ireland",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1690",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Battle of the Boyne",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "the Troubles",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "temple bonfire",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Derry",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Burning Man festival",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Temple",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Northern Ireland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NOS",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "zondag 22 maart 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30 januari 1972",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Oranjemarsen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Bloody Sunday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "houten tempel",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Black Rock City",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pershing county",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nevada",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Loupiote Photography",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google Earth",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 5, 2004",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Maggie Roth",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "William M Roth",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jack B Yeats",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "WB Yeats",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tipperary",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Irish Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Artichoke",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2000",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Lumiere festival",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Twelfth of July",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Temple of Grace",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T23:08:59.430074"
+  }
+}

@@ -1,0 +1,772 @@
+{
+  "id_rumeur": "635569",
+  "id_image": "635569",
+  "caption": "One Central Park Sydney Australia both overall and AsiaAustralia winner",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122922/635569.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Defined Design: One Central Park - gb&d",
+      "source": "gb&d magazine",
+      "lien": "https://gbdmagazine.com/defined-design-one-central-park/",
+      "image_url": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsyI___e7kbGxzxYRk8mR_Ib7pJ6vntu7A2ZYhLYrj3_la08yb",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Defined Design: One Central Park - gb&d",
+        "source": "gb&d magazine",
+        "link": "https://gbdmagazine.com/defined-design-one-central-park/",
+        "imageUrl": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsyI___e7kbGxzxYRk8mR_Ib7pJ6vntu7A2ZYhLYrj3_la08yb"
+      },
+      "webpage": {
+        "text": "Defined Design: One Central Park\n\nBy January 20, 2015\n\n\nSydney’s One Central Park, designed by Ateliers Jean Nouvel and PTW Architects is certainly one of this year’s most visually arresting buildings, but it’s equally stunning in function. Recently, it was honored as Best Tall Building Worldwide of 2014 by the Council for Tall Buildings and Urban Habitat, which recognizes “projects that have made extraordinary contributions to the advancement of tall buildings and the urban environment, and that achieve sustainability at the highest and broadest level.” We chose three words that define One Central Park’s groundbreaking design.\n\nReticulate \\ri-ˈti-kyə-lət (adj)\nResembling a net or network; especially; having veins, fibers, or lines crossing. The immediately eye-catching swaths of green wall that intersect and sprawl across the building’s exterior, courtesy of botanist Patrick Blanc, form a series of reticulate gardens made up of 250 Australian plant species.\n\nHeliostat \\ˈhē-lē-ə-ˌstat\\ (noun)\nAn instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction. Yes, that’s a giant mirror cantilevering over the central gardens of One Central Park, feeding them direct sunlight with mechanical segments that reflect at different angles.\n\nMusical \\ˈmyü-zi-kəl\\ (adj)\nHaving the pleasing harmonious qualities of music. The vertical stretches of green wall on One Central Park’s glass façade are arranged at seemingly random intervals. Zoom out, though, and they reveal a pleasant harmony and meter, not unlike the jumps of musical notation—a deliberate evocation by the designers.\n\n\nLounge areas high above Sydney offer relaxation amidst lush planting and climbing vines. The two towers comprise 240 individual homes and 383 apartments on top of a five-story shopping center.",
+        "metadata": {
+          "title": "Defined Design: One Central Park - gb&amp;d",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Defined Design: One Central Park - gb&d",
+          "og:description": "Sydney’s One Central Park, designed by Ateliers Jean Nouvel and PTW Architects is certainly one of this year’s most visually arresting buildings, but it’s equally stunning in function. Recently, it was honored as Best Tall Building Worldwide of 2014 by the Council for Tall Buildings and Urban Habitat, which recognizes “projects that have made extraordinary […]",
+          "og:url": "https://gbdmagazine.com/defined-design-one-central-park/",
+          "og:site_name": "gb&d magazine",
+          "article:publisher": "https://www.facebook.com/gbdmagazine/",
+          "article:published_time": "2015-01-20T22:58:57+00:00",
+          "article:modified_time": "2015-09-14T15:20:35+00:00",
+          "og:image": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+          "og:image:width": "1920",
+          "og:image:height": "1751",
+          "og:image:type": "image/jpeg",
+          "author": "Steven Arroyo"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://gbdmagazine.com/defined-design-one-central-park/#article",
+              "isPartOf": {
+                "@id": "https://gbdmagazine.com/defined-design-one-central-park/"
+              },
+              "author": [
+                {
+                  "@id": "https://gbdmagazine.com/#/schema/person/77cc55313952f6b0f60e941b5be094c4"
+                }
+              ],
+              "headline": "Defined Design: One Central Park",
+              "datePublished": "2015-01-20T22:58:57+00:00",
+              "dateModified": "2015-09-14T15:20:35+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://gbdmagazine.com/defined-design-one-central-park/"
+              },
+              "wordCount": 295,
+              "publisher": {
+                "@id": "https://gbdmagazine.com/#organization"
+              },
+              "image": {
+                "@id": "https://gbdmagazine.com/defined-design-one-central-park/#primaryimage"
+              },
+              "thumbnailUrl": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://gbdmagazine.com/defined-design-one-central-park/",
+              "url": "https://gbdmagazine.com/defined-design-one-central-park/",
+              "name": "Defined Design: One Central Park - gb&d",
+              "isPartOf": {
+                "@id": "https://gbdmagazine.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://gbdmagazine.com/defined-design-one-central-park/#primaryimage"
+              },
+              "image": {
+                "@id": "https://gbdmagazine.com/defined-design-one-central-park/#primaryimage"
+              },
+              "thumbnailUrl": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+              "datePublished": "2015-01-20T22:58:57+00:00",
+              "dateModified": "2015-09-14T15:20:35+00:00",
+              "breadcrumb": {
+                "@id": "https://gbdmagazine.com/defined-design-one-central-park/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://gbdmagazine.com/defined-design-one-central-park/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://gbdmagazine.com/defined-design-one-central-park/#primaryimage",
+              "url": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+              "contentUrl": "https://gbdmagazine.com/wp-content/uploads/2015/01/AJN_PTW_Sydney_OCP_MurrayFredericks_Ext_Overall.jpg",
+              "width": 1920,
+              "height": 1751
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://gbdmagazine.com/defined-design-one-central-park/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://gbdmagazine.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Defined Design: One Central Park"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://gbdmagazine.com/#website",
+              "url": "https://gbdmagazine.com/",
+              "name": "gb&amp;d magazine",
+              "description": "The industry leading magazine on green building for sustainability professionals",
+              "publisher": {
+                "@id": "https://gbdmagazine.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://gbdmagazine.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://gbdmagazine.com/#organization",
+              "name": "Green Building and Design",
+              "url": "https://gbdmagazine.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://gbdmagazine.com/#/schema/logo/image/",
+                "url": "https://gbdmagazine.com/wp-content/uploads/2016/09/gbd-logo-dark-blue-sm-1.jpg",
+                "contentUrl": "https://gbdmagazine.com/wp-content/uploads/2016/09/gbd-logo-dark-blue-sm-1.jpg",
+                "width": 724,
+                "height": 309,
+                "caption": "Green Building and Design"
+              },
+              "image": {
+                "@id": "https://gbdmagazine.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/gbdmagazine/",
+                "https://x.com/gbd_mag",
+                "https://www.instagram.com/gbdmagazine/",
+                "https://www.linkedin.com/company/green-building-&amp;amp;-design/"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://gbdmagazine.com/#/schema/person/77cc55313952f6b0f60e941b5be094c4",
+              "name": "Steven Arroyo",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://gbdmagazine.com/wp-content/uploads/2020/08/1-13-150x150.png64e5030097810723e488cf1cd01f0693",
+                "url": "https://gbdmagazine.com/wp-content/uploads/2020/08/1-13-150x150.png",
+                "contentUrl": "https://gbdmagazine.com/wp-content/uploads/2020/08/1-13-150x150.png",
+                "caption": "Steven Arroyo"
+              },
+              "url": "https://gbdmagazine.com/author/steven-arroyo/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "One Central Park, situé à Sydney, est un bâtiment conçu par Ateliers Jean Nouvel et PTW Architects. Il a été honoré comme le meilleur grand bâtiment mondial de 2014 par le Council for Tall Buildings and Urban Habitat. Le design comprend des murs végétaux verticaux créés par le botaniste Patrick Blanc avec 250 espèces de plantes australiennes, un héliostat (un grand miroir en porte-à-faux alimentant les jardins en lumière directe du soleil), et des espaces de détente en hauteur. Les deux tours comprennent 240 maisons individuelles et 383 appartements au-dessus d'un centre commercial de cinq étages.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jean Nouvel",
+          "Patrick Blanc"
+        ],
+        "LOCATION": [
+          "Sydney",
+          "One Central Park"
+        ],
+        "ORGANIZATION": [
+          "Ateliers Jean Nouvel",
+          "PTW Architects",
+          "Council for Tall Buildings and Urban Habitat"
+        ],
+        "DATE": [
+          "January 20, 2015",
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Best Tall Building Worldwide of 2014"
+        ]
+      },
+      "score_e5": 0.8360515804728466
+    },
+    {
+      "titre": "The concept of the grid in architecture has been widely used, ranging from a proportional system… | by Nancy_Tan_2910443 | Medium",
+      "source": "Medium",
+      "lien": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+      "image_url": "https://miro.medium.com/1*4GVVLHB3nP10oohCsH8LPA.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkl8LPcfhbO6c98P6HyNyhv0r_lKRzrFR4HRJyVdmHYhkt56Tw",
+      "rang_lens": 2,
+      "brut": {
+        "title": "The concept of the grid in architecture has been widely used, ranging from a proportional system… | by Nancy_Tan_2910443 | Medium",
+        "source": "Medium",
+        "link": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+        "imageUrl": "https://miro.medium.com/1*4GVVLHB3nP10oohCsH8LPA.jpeg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkl8LPcfhbO6c98P6HyNyhv0r_lKRzrFR4HRJyVdmHYhkt56Tw"
+      },
+      "webpage": {
+        "text": "Medium\n\nThe concept of the grid in architecture has been widely used, ranging from a proportional system, to a mere modular screen, to the rectangular network of streets in urban planning.\n\n\nThese two pictures are central park, which is a modern building used grid in Sydney. I looked up to it to take the picture to show its height. And I took a part of this building to stress the appearance of grid.\n\nGrid is one common factory in abstraction photography, combinate horizontal line with vertical line in a organized frame. Andreas Gursky often shots from an elevated perspective and produced on an epic scale of the picture of grid.\n\n\nThese are two of his photography, which name are Paris Montparnasse and May Day V. These products show the high density of windows of the building, which as the same as grid to stress the abstraction like my product.\n\nCompared mine with his, we can see that both buildings use a number of glass windows to show the frame of grid. Because of this, the high density of windows of the building does not have a mess performance. It is more commercial which means its appearance is simple (only use one pattern ), therefore, a large sum of modern city have been used this frame to design their buildings and urban planning to show modernisation.",
+        "metadata": {
+          "al:ios:app_name": "Medium",
+          "al:ios:app_store_id": "828256236",
+          "al:android:package": "com.medium.reader",
+          "al:android:app_name": "Medium",
+          "fb:app_id": "542599432471018",
+          "og:site_name": "Medium",
+          "og:type": "article",
+          "article:published_time": "2016-03-29T05:34:08.350Z",
+          "title": "The concept of the grid in architecture has been widely used, ranging from a proportional system… | by Nancy_Tan_2910443 | Medium",
+          "og:title": "The concept of the grid in architecture has been widely used, ranging from a proportional system…",
+          "al:android:url": "medium://p/6893b3eb4bec",
+          "al:ios:url": "medium://p/6893b3eb4bec",
+          "description": "The concept of the grid in architecture has been widely used, ranging from a proportional system, to a mere modular screen, to the rectangular network of streets in urban planning. These two pictures …",
+          "og:description": "These two pictures are central park, which is a modern building used grid in Sydney. I looked up to it to take the picture to show its…",
+          "og:url": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+          "al:web:url": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+          "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*4GVVLHB3nP10oohCsH8LPA.jpeg",
+          "article:author": "https://medium.com/@nancytan_970127",
+          "author": "Nancy_Tan_2910443",
+          "twitter:title": "The concept of the grid in architecture has been widely used, ranging from a proportional system…",
+          "twitter:description": "These two pictures are central park, which is a modern building used grid in Sydney. I looked up to it to take the picture to show its…"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+          "@type": "SocialMediaPosting",
+          "image": [
+            "https://miro.medium.com/1*4GVVLHB3nP10oohCsH8LPA.jpeg"
+          ],
+          "url": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+          "dateCreated": "2016-03-28T21:53:08Z",
+          "datePublished": "2016-03-28T21:53:08Z",
+          "dateModified": "2016-03-29T05:34:08Z",
+          "headline": "The concept of the grid in architecture has been widely used, ranging from a proportional system…",
+          "name": "The concept of the grid in architecture has been widely used, ranging from a proportional system…",
+          "description": "The concept of the grid in architecture has been widely used, ranging from a proportional system, to a mere modular screen, to the rectangular network of streets in urban planning. These two pictures …",
+          "identifier": "6893b3eb4bec",
+          "author": {
+            "@context": "https://schema.org",
+            "@id": "https://medium.com/@nancytan_970127",
+            "@type": "Person",
+            "identifier": "nancytan_970127",
+            "name": "Nancy_Tan_2910443",
+            "url": "https://medium.com/@nancytan_970127"
+          },
+          "creator": {
+            "@context": "https://schema.org",
+            "@id": "https://medium.com/@nancytan_970127",
+            "@type": "Person",
+            "identifier": "nancytan_970127",
+            "name": "Nancy_Tan_2910443",
+            "url": "https://medium.com/@nancytan_970127"
+          },
+          "publisher": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://medium.com",
+            "name": "Medium",
+            "url": "https://medium.com",
+            "logo": {
+              "@type": "ImageObject",
+              "width": 500,
+              "height": 110,
+              "url": "https://miro.medium.com/v2/resize:fit:500/7%2AV1_7XP4snlmqrc_0Njontw.png"
+            }
+          },
+          "mainEntityOfPage": "https://medium.com/@nancytan_970127/the-concept-of-the-grid-in-architecture-has-been-widely-used-ranging-from-a-proportional-system-6893b3eb4bec",
+          "isAccessibleForFree": true
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Le concept de la grille en architecture est largement utilisé, allant d'un système proportionnel à un écran modulaire ou un réseau rectangulaire de rues. Les photographies de Central Park à Sydney montrent un bâtiment moderne utilisant la grille pour accentuer la hauteur et l'apparence des fenêtres en verre. Andreas Gursky utilise également une perspective surélevée pour photographier la grille avec une haute densité de fenêtres dans ses œuvres Paris Montparnasse et May Day V.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nancy_Tan_2910443",
+          "Andreas Gursky"
+        ],
+        "LOCATION": [
+          "Sydney",
+          "Central Park",
+          "Paris"
+        ],
+        "ORGANIZATION": [
+          "Medium"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "May Day V"
+        ],
+        "OTHER": [
+          "Paris Montparnasse"
+        ]
+      },
+      "score_e5": 0.755198280722576
+    },
+    {
+      "titre": "Vacation Homes in Chippendale, Sydney: House Rentals & More | Vrbo",
+      "source": "Vrbo",
+      "lien": "https://www.vrbo.com/vacation-rentals/australia/chippendale-nsw",
+      "image_url": "https://images.trvl-media.com/place/181083/b10381ee-b477-4a81-abd5-29efd43586e3.jpg?impolicy=resizecrop&rw=360&ra=fit&ch=224",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8Qr2uakLsvhL6DN6iVZgFWYverWrIaHxqpBXd2AxYerlp8wK_",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Vacation Homes in Chippendale, Sydney: House Rentals & More | Vrbo",
+        "source": "Vrbo",
+        "link": "https://www.vrbo.com/vacation-rentals/australia/chippendale-nsw",
+        "imageUrl": "https://images.trvl-media.com/place/181083/b10381ee-b477-4a81-abd5-29efd43586e3.jpg?impolicy=resizecrop&rw=360&ra=fit&ch=224",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8Qr2uakLsvhL6DN6iVZgFWYverWrIaHxqpBXd2AxYerlp8wK_"
+      },
+      "webpage": {
+        "text": "Vacation Homes in Chippendale, Sydney: House Rentals & More\n\nFind out more about Chippendale\n\n\nWhy visit Chippendale\n\n * Cultural Exploration: Discover captivating galleries and artistic streets that reflect Chippendale's vibrant culture.\n * Family-Friendly Activities: Enjoy a variety of entertainment options suitable for families, making it a perfect getaway.\n * Proximity to Sydney CBD: Experience the bustling atmosphere of Sydney's Central Business District just a short distance away.\n * Diverse Dining Scene: Savor a range of cuisines at local restaurants, showcasing the area's culinary diversity.\n * Varied Accommodation: Choose from cozy apartments to charming cottages, catering to all budgets and preferences.\n\n\nPopular types of accommodation around Chippendale\n\nPlanning a getaway to Chippendale? You're in for a treat. Explore a variety of vacation rentals, including cozy apartments, charming houses, and delightful cottages. Whether you're searching for hotels in Chippendale, apartment hotels, or serviced apartments, you'll find the perfect accommodation to suit your needs. Experience transparency, savings, and peace of mind as you choose from the best Chippendale vacation rentals available.\n\n * Apartments: The top choice for vacation rentals in Chippendale, offering modern amenities and convenient locations for exploring the area.\n * Houses: A popular option for families or groups, providing a spacious and home-like atmosphere for your stay.\n * Cottages: These quaint hideaways offer a charming and cozy retreat for a peaceful getaway.\n * Caravan Parks: Ideal for budget-conscious travelers, offering a unique outdoor experience with communal facilities.\n * Villas: Luxurious accommodations that provide a stylish and comfortable environment for a relaxing vacation.**\n\n\nTop attractions in and around Chippendale\n\nChippendale, Sydney, is perfect for culture enthusiasts and families seeking entertainment. Visitors can explore urban parks, vibrant streets, and captivating galleries that highlight the area's artistic vibe. Nearby, the Sydney CBD and top attractions provide additional opportunities for outdoor experiences and cultural immersion, making it an ideal destination for travelers looking to enjoy a blend of urban life and nature.\n\n * Central Park: A vibrant neighborhood within Chippendale, Central Park offers an urban atmosphere with chic cafes, boutique shops, and lush green spaces. It's perfect for leisurely strolls and experiencing the local city vibe.\n * Circular Quay: Located 2 miles away, Circular Quay is a bustling harbor known for its stunning views, waterfront dining, and easy access to ferry services. Enjoy the beach vibes while taking in the breathtaking scenery.\n * Sydney Opera House: Also 2 miles away, this iconic landmark is a cultural jewel of Australia. With its unique architecture and rich artistic offerings, the Sydney Opera House embodies the spirit of creativity and culture.\n\n\nThings to do recommended for couples\n\nSeeking a romantic getaway in Chippendale? Indulge in luxury at the Cruising Yacht Club of Australia, just 2 miles away, or enjoy a serene day at The Lakes Golf Club, located 3 miles from your base. Both offer a perfect blend of elegance and relaxation for couples.\n\n\nThings to do recommended for families\n\nFamilies visiting Chippendale can enjoy a fun day at the nearby Sydney Fish Market, where kids can learn about marine life, or explore the interactive exhibits at the Powerhouse Museum, featuring hands-on activities and fascinating displays that will engage visitors of all ages.\n\n\nThings to do recommended for groups\n\nExplore the vibrant street art scene in Chippendale, take a guided food tour to savor local flavors, or enjoy a group picnic at the beautiful Central Park. You can also visit the nearby Carriageworks for contemporary art and cultural events.\n\n*Distances are measured in a straight line; actual driving distances may vary depending on the route.\n\n\nWhat do I need to keep in mind when booking a vacation around Chippendale\n\nWhen traveling with a group, family, pets, or planning for extended stays, be sure to prioritize your filters accordingly. Here are some helpful booking tips for using Vrbo.\n\n * Traveling to Chippendale with a group: Think about how many bedrooms you'll require, along with features like a full kitchen or outdoor area for group gatherings. Thankfully, you can easily apply filters for these options and many more on Vrbo.\n * Traveling to Chippendale with young kids: Traveling with young kids can be a bit tricky. It's important to prioritize their comfort and safety, along with suitable amenities like a private swimming pool. Additionally, keeping in mind your closeness to family-friendly attractions can enhance your travel experience.\n * Taking your pets with you to Chippendale: For many families, a vacation wouldn't feel complete without their furry companions. If you relate to this, explore Vrbo listings that welcome pets. Most pet-friendly accommodations offer feeding bowls and beds, ensuring that every member of your family feels comfortable and at home.\n * Planning for a long term stay visiting Chippendale: If you're in search of vacation rentals that offer special rates for stays of a month or more, you've come to the perfect spot. By using the appropriate filters, you can effortlessly discover and save on monthly rental options. Don't forget to include features like a parking space, a well-equipped kitchen, or a private pool in your search criteria as well.\n\n\nWhere to stay near Chippendale\n\nChippendale, a vibrant suburb of Sydney, offers a unique blend of culture and family-friendly activities. Explore the artistic streets adorned with galleries and enjoy the local dining scene featuring diverse cuisines. Nearby, the Sydney CBD presents a bustling atmosphere filled with shopping, entertainment, and business opportunities. Whether you're seeking luxury accommodations or a budget-friendly stay, Chippendale's welcoming vibe and proximity to iconic attractions make it an ideal destination for every traveler.\n\n * Sydney: As a bustling metropolis, Sydney is the vibrant heart of Australia, where Chippendale is conveniently located. Visitors flock to Sydney for its rich cultural offerings, entertainment venues, and romantic settings. The city boasts iconic attractions like the Sydney Opera House and the Sydney Harbour Bridge. Take in stunning views from Bondi Beach or enjoy a day at Taronga Zoo. The theater scene is alive with performances ranging from world-class musicals to local productions, making it a hotspot for arts enthusiasts.\n * Sydney Central Business District: Just a mile from Chippendale, the Sydney Central Business District (CBD) is the city's commercial hub, teeming with life and activity. This area is a blend of modern architecture and historical landmarks, making it perfect for exploration. Here, you’ll find world-class theaters, music venues, and the iconic Darling Harbour, which offers a picturesque marina and vibrant nightlife. Don't miss the chance to stroll through the Royal Botanic Garden or visit the Art Gallery of New South Wales for a dose of culture.\n * Darling Harbour: Located a mile away from Chippendale, Darling Harbour is a lively waterfront precinct known for its scenic views and attractions. This vibrant area is popular for cultural experiences, entertainment options, and romantic outings. Enjoy a day at the Australian National Maritime Museum or catch a live performance at the Sydney Lyric Theatre. The waterfront promenade is lined with restaurants and cafés, making it an ideal spot for enjoying a meal with a view. Be sure to take a ferry ride for a unique perspective of the city skyline.\n\n\nBest time to go to Chippendale\n\nIf you're planning a trip to Chippendale, it's a good idea to check both the weather and property rates. The warmest month is January. Peak season runs in March to April and July, while off-peak times, like October to December tend to have fewer bookings and better deals.\n\n\nBooking with Vrbo is simple\n\nAre you interested in saving on your upcoming trip? Being flexible with your travel dates can make a difference, as prices often fluctuate. Additionally, consider booking a longer stay to take advantage of substantial savings. To discover a Vrbo property that aligns with your budget, utilize our filters to sort by price, location, and type of vacation rental. We're here to help you find the perfect getaway.\n\n\nVrbo Trips: Effortless planning\n\nVrbo’s Trip Board offers a user-friendly area to plan new trips, continue from where you last stopped, or review and arrange your travel plans. You can easily access the properties you've saved or booked, organized into categories like Potential, Upcoming, or Current Trips. To begin using Trip Boards, simply visit: https://www.vrbo.com/trips.\n\n**Based on Vrbo properties bookings.\n\n\nFrequently asked questions\n\n\nWhat is the most popular type of vacation rental in Chippendale?\n\nIn Chippendale, apartments are the most popular type of vacation rental, with about 29 available throughout the area. These apartments are typically located in vibrant neighborhoods close to local cafes, art galleries, and parks, providing easy access to the lively culture of the city. Most units come with modern amenities such as fully equipped kitchens, comfortable living spaces, and often include features like balconies or access to communal gardens for relaxation.\n\nAdditionally, there are several vacation houses available, which cater to families or larger groups seeking more space. These homes usually offer multiple bedrooms, private outdoor areas, and full kitchens, making them ideal for extended stays.\n\nAre there any beach house rentals in Chippendale?\n\nIn Chippendale, there are several beach house rentals available, offering a great experience close to the vibrant cultural scene of Sydney. These properties typically feature spacious layouts, multiple bedrooms, and fully equipped kitchens, allowing guests to enjoy a comfortable stay while exploring the local attractions. Many rentals also include outdoor areas for relaxation, such as private balconies or gardens, great for enjoying the pleasant weather.\n\nHow much does it cost to rent a vacation home in Chippendale?\n\nPrices for vacation rentals in Chippendale vary based on factors like travel dates, length of stay, accommodation type, and location. Simply enter your trip details to explore a wide range of options—whether you're traveling solo, as a couple, with family, or in a group. Vrbo offers something for every taste and budget, from affordable rentals in Chippendale to more spacious homes. To get the best value, book early and take advantage of Vrbo's free rewards program.\n\nAre there any discounts for Chippendale vacation house rentals?\n\nYou can find great discounts on house rentals in Chippendale on Vrbo, including special rates on new listings and savings for weekly or monthly stays with top amenities such as a pool or parking. There are several discounts for Last minute bookings, and Early bird bookings too. The best part is, there's no need for a discount code—just enter your travel dates and apply the discount filters to view the top rates.\n\nWhat are popular rental amenities in Chippendale?\n\nIn Chippendale, popular vacation rental amenities include fully equipped kitchens, which allow travelers to prepare their own meals, and balconies that provide a space to relax outdoors and enjoy the views of the vibrant neighborhood. Many rentals also feature coffee and tea makers for a convenient way to start the day. Onsite parking is available for those traveling with vehicles, and many units include desks, making them suitable for business travelers or anyone needing a dedicated workspace.\n\nCan I find family house rentals in Chippendale?\n\nIn Chippendale, New South Wales, there are several family-friendly house rentals available, making it a great option for families visiting the area. This vibrant neighborhood is known for its proximity to attractions like the Sydney CBD, where families can explore parks, museums, and the famous Sydney Fish Market.\n\nProperties often feature spacious living areas, fully equipped kitchens for preparing family meals, and outdoor spaces where children can play. Additionally, many homes provide conveniences such as Wi-Fi and laundry facilities, ensuring a comfortable stay for visitors.\n\nCan I rent a vacation home with a pool or hot tub in Chippendale?\n\nIn Chippendale, New South Wales, there are several vacation homes available for rent that feature both pools and hot tubs. This vibrant neighborhood is known for its artistic vibe and proximity to the city center, making it a convenient choice for travelers. Many of these rentals come equipped with amenities such as private swimming pools, relaxing hot tubs, outdoor entertaining areas, and fully equipped kitchens, great for both relaxation and social gatherings. Find your rental in Chippendale with a pool or a hot tub.\n\nAre there any Chippendale vacation rentals with parking?\n\nVrbo offers a wide selection of vacation rentals in Chippendale with parking available—perfect for families or travelers who value the convenience of having a car during their stay. To easily find these properties, simply enter your travel details on Vrbo and use the \"Parking available\" filter under the amenities section. This makes it quick and easy to browse listings that suit your needs, whether you're planning a short city break or a longer stay.\n\nCan I book pet-friendly vacation rentals in Chippendale?\n\nIn Chippendale, travelers can find several pet-friendly vacation rentals that cater to those looking to enjoy a stay with their furry companions. The neighborhood is known for its vibrant setting, with a mix of modern apartments and charming heritage buildings. Many of these rentals come equipped with amenities such as fully equipped kitchens, comfortable living spaces, and often include access to outdoor areas where pets can roam.\n\nThe area is conveniently located near parks, such as the nearby Prince Alfred Park, which offers ample green space for walking and playing with pets. Additionally, Chippendale's proximity to cafes and shops that welcome pets enhances the experience for visitors traveling with animals.\n\nCan I find long-stay vacation rentals in Chippendale?\n\nA long-stay vacation rental in Chippendale is the best way to experience local living. Plus, you can make the most of long-stay discounts. For month-long stays, save an average of 19%, and for week-long bookings you can save an average of 10%.* Long-stay discounts are applied automatically when you enter your vacation dates into the search tool, or you can use the \"Weekly stay\" and \"Monthly stay\" filters in your search.\n\n*Based on analysis of Vrbo booking and occupancy data for 2024 stays.\n\nWhen is the best time to visit Chippendale for a vacation rental?\n\nApril is the most popular time to visit Chippendale, New South Wales, as it marks the tail end of the peak season that runs from February to April. This vibrant suburb offers a fantastic blend of urban charm and artistic flair, making it an ideal destination for travelers looking to immerse themselves in culture and creativity. During this time, the weather is typically mild, with temperatures ranging from the mid-50s to low 70s Fahrenheit, great for outdoor activities, leisurely strolls, and exploring local galleries and cafes.\n\nAs the summer heat begins to fade, April presents a comfortable climate for sightseeing and enjoying the local parks. You can take advantage of the pleasant weather to visit nearby attractions, such as the stunning Sydney Harbour and the bustling markets that showcase local artisans. The atmosphere is lively yet manageable, allowing for a more relaxed experience.\n\nFor those looking to save on accommodation costs, December is a great option to consider. While it marks the low season, visitors can enjoy the festive spirit of the holiday season in Chippendale, with fewer crowds and a more intimate atmosphere. This time of year offers unique local experiences, including holiday markets and seasonal events.\n\nUltimately, whether you choose to visit during the vibrant peak season in April or opt for the quieter charm of December, Chippendale has something delightful in store for every traveler.\n\nAre there any remote work vacation rentals in Chippendale?\n\nIn Chippendale, New South Wales, there are several remote work-friendly vacation rentals available—about 24 options to choose from. This vibrant suburb offers a blend of urban living and artistic flair, making it an appealing place for those looking to work remotely while enjoying the local culture. Many of the rentals come equipped with essential amenities for remote work, including high-speed internet, dedicated desk spaces, and comfortable desk chairs. Additionally, properties often feature free Wi-Fi to ensure connectivity throughout your stay.\n\nChippendale is known for its proximity to various points of interest, such as the bustling Central Park and numerous cafes and restaurants, providing convenient spots for breaks or casual meetings. The area also has parks and green spaces, allowing for a refreshing outdoor escape when you need a change of scenery. To help narrow your search, insert your dates and apply the \"WiFi\" filter on Vrbo.\n\nHow early should I book a Chippendale vacation rental?\n\nBook your Chippendale vacation rental at least two months before you travel for the best selection of properties.* Plus, you'll typically find that the earlier you book your vacation rental, the better the price.\n\n*Based on analysis of Vrbo booking and occupancy data for 2024 stays.\n\nWhat are the top attractions in Chippendale, New South Wales, Australia?\n\nIn Chippendale, visitors can explore a blend of art, culture, and dining experiences. The area is home to the vibrant Central Park, which features a variety of shops, restaurants, and green spaces. The park also hosts events and art installations that showcase local talent. Nearby, the White Rabbit Gallery is a must-visit for contemporary Chinese art enthusiasts, offering rotating exhibitions in a unique setting.\n\nAdditionally, Chippendale's proximity to the University of Technology Sydney makes it a lively area filled with youthful energy and innovative cafes. The historic district is also a short distance from the bustling Broadway Shopping Centre, where visitors can find a diverse range of retail options.\n\nFor those interested in the arts, the local streets often feature impressive street art, reflecting the neighborhood's creative spirit.\n\nCan I change or cancel my Chippendale home rental booking on Vrbo?\n\nTo find Chippendale vacation rentals with free cancellation, just use Vrbo's handy \"Free cancellation\" search filter. We get that plans can change, so it's easy to filter properties that give you flexibility. If you need to make changes to an existing booking, drop your host a message. Go to \"My Trips\" in your account, click \"Change or Cancel\" and then \"Message Host\". Vrbo rentals give you the privacy of having the entire place to yourself, and for extra flexibility, some travelers can choose to pay over time with Affirm. Whether you're adjusting your plans or looking for flexible payment options, Vrbo makes it easy to book with confidence.\n\nWhy should I join Vrbo as a host?\n\nJoining Vrbo as a host opens the door to a global community of travelers seeking unique stays, giving you the opportunity to earn income from your property on your terms. With user-friendly tools, dedicated support, and exposure on major travel sites, Vrbo makes it easy to list, manage, and succeed. Whether it's a cozy cabin or a beach condo, you can turn your space into a standout destination, become a host and let Vrbo handle the heavy lifting to help you thrive.\n\nEarn a Premier Host badge by providing quick, reliable communication and consistently delivering outstanding guest exper",
+        "metadata": {
+          "title": "Vacation Homes in Chippendale, Sydney: House Rentals &amp; More | Vrbo",
+          "description": "Explore an array of Chippendale vacation rentals, all bookable online. Choose from our large selection of properties, ideal house rentals for families, groups and couples. Rent a whole home in Chippendale for your next weekend or vacation.",
+          "og:title": "Vacation Homes in Chippendale, Sydney: House Rentals & More | Vrbo",
+          "og:description": "Explore an array of Chippendale vacation rentals, all bookable online. Choose from our large selection of properties, ideal house rentals for families, groups and couples. Rent a whole home in Chippendale for your next weekend or vacation.",
+          "og:locale": "en_US",
+          "og:site_name": "vrbo.com",
+          "og:url": "https://www.vrbo.com/vacation-rentals/australia/chippendale-nsw",
+          "og:image": "https://images.trvl-media.com/place/181083/b10381ee-b477-4a81-abd5-29efd43586e3.jpg?impolicy=resizecrop&rw=360&ra=fit&ch=224",
+          "og:image:type": "image/jpeg",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "name": "Home",
+              "position": 1,
+              "item": "https://www.vrbo.com/"
+            },
+            {
+              "@type": "ListItem",
+              "name": "Vacation Rentals",
+              "position": 2,
+              "item": "https://www.vrbo.com/vacation-rentals"
+            },
+            {
+              "@type": "ListItem",
+              "name": "Australia",
+              "position": 3,
+              "item": "https://www.vrbo.com/vacation-rentals/south-pacific/australia"
+            },
+            {
+              "@type": "ListItem",
+              "name": "New South Wales",
+              "position": 4,
+              "item": "https://www.vrbo.com/vacation-rentals/south-pacific/australia/new-south-wales"
+            },
+            {
+              "@type": "ListItem",
+              "name": "Council Of The City Of Sydney",
+              "position": 5,
+              "item": "https://www.vrbo.com/vacation-rentals/australia/new-south-wales/council-of-the-city-of-sydney"
+            },
+            {
+              "@type": "ListItem",
+              "name": "Sydney",
+              "position": 6,
+              "item": "https://www.vrbo.com/vacation-rentals/australia/nsw/sydney"
+            },
+            {
+              "@type": "ListItem",
+              "name": "Chippendale",
+              "position": 7
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Chippendale à Sydney propose diverses locations de vacances, maisons, appartements et cottages, à proximité du quartier central des affaires de Sydney (Sydney CBD). Les attractions principales incluent Central Park (un quartier urbain avec des cafés et des espaces verts), Circular Quay (un port animé à 2 miles), et l'Opéra de Sydney (Sydney Opera House, également à 2 miles).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Chippendale",
+          "Sydney",
+          "Sydney CBD",
+          "Central Park",
+          "Circular Quay",
+          "Sydney Opera House",
+          "Australia"
+        ],
+        "ORGANIZATION": [
+          "Vrbo"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7684504605397431
+    },
+    {
+      "titre": "Why Invert Invested $25 Million in CarbonCure Carbon Credits - CarbonCure Technologies Inc.",
+      "source": "CarbonCure Technologies",
+      "lien": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/",
+      "image_url": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvfFwtvtMrMgYp3LrSe4E_3F4SUg2mj11e3T4AHQM0TsHVT5dw",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Why Invert Invested $25 Million in CarbonCure Carbon Credits - CarbonCure Technologies Inc.",
+        "source": "CarbonCure Technologies",
+        "link": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/",
+        "imageUrl": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvfFwtvtMrMgYp3LrSe4E_3F4SUg2mj11e3T4AHQM0TsHVT5dw"
+      },
+      "webpage": {
+        "text": "Why Invert Invested $25 Million in CarbonCure Carbon Credits\n\nTwenty-five million U.S. dollars is a big investment in carbon credits. In fact, it’s the world’s largest investment to date to store CO₂ through carbon mineralization. So why has Invert, a specialized emissions reduction and offsetting company, made such a significant purchase, providing such a strong vote of confidence in CarbonCure’s carbon removal and reduction credits?\n\nCarbonCure’s Eric Yee caught up with Invert's Co-CEO, Andre Fernandez, to better understand what prompted this milestone investment and what others looking to offset their emissions can learn from it.   \n\n----------------------------------------\n\nInvert's mission is to scale solutions to climate change. We want to do this by being at the center of carbon offset transactions. There's really three parts of the business. One is to work with corporations to reduce and offset their emissions. The second is to fund companies and project developers to get their projects off the ground such as CarbonCure. The third is to be able to influence consumer behavior — we want to work with individuals to reduce and offset their emissions in a meaningful way as well.\n\nAt the heart, we're mission-driven. We're much less about transacting on carbon credits; we are most interested in investing in real solutions to climate change.\n\n\nQ. What do your carbon credit investments look like?\n\nFor us, it's really about putting together a portfolio that includes everything from highly durable carbon removal offsets to the reduction and avoidance space. We are heavily focused on the removal side of things and we believe in long-term or durable removals, but at the same time, we recognize the value that reductions and avoidance offsets and projects bring. There is a large amount of emissions that we need to first reduce and, and of course, avoid, to get to net zero.\n\n\nQ. When you’re looking to add to your portfolio, what are you looking for in the projects?\n\nAt the highest level, it has to address some problem when it comes to climate change, and because we’re for-profit, there has to be an interesting return so that investors are happy with the investment decision.\n\nThere’s things like additionality on the reduction and avoidance side; permanence on the removal side. We believe highly in the social impact these projects have, so we care tremendously about being able to tell the story of the work carbon credit developers are doing with local communities.\n\nOf course we need to think about it from a risk perspective as well. What is the level of risk that each project — whether it's an individual project or project type or offset class — presents? How do we mitigate that risk? That goes from the risk of reversals, or the risk of natural disasters and catastrophic loss. But then also risk of actually scaling the project or getting it off the ground, to geopolitical risk and, more specifically, regulatory risk.\n\nSo when we look at projects, we look at all these factors or risks, and essentially try to mitigate risks by either making sure the return profile is appropriate based on the level of risk, or we search for other projects that are less risky. That’s part of the portfolio approach.\n\n\nQ. When companies are looking at buying credits and asking you to help them, what are some of the things you recommend?\n\nThe first step in any engagement is understanding their emissions profile and educating them on the actions they need to take, first and foremost, to reduce their emissions. Second is to educate them about the carbon market. Through that process we can then recommend what we believe to be the offsets that best meet their corporate strategy. Generally, their corporate strategy revolves around credibility — making sure the claims they make today can stand up to the test of time.\n\n\nQ. How did Invert learn about CarbonCure and our carbon credits?\n\nWe're a Canadian company, and when you do a little bit of research, the first highly credible Canadian company that comes up is CarbonCure. CarbonCure has obviously been in the space for many years. When you're looking for a product that is as credible as CarbonCure is, it's easy to stumble on as another Canadian company. Then, as soon as you start to do real technical due diligence, it's clear to see that CarbonCure is a leader when it comes to durable, highly credible offsets. Over the last few years, as we've done this work, it became obvious that CarbonCure would be a company that we would like to invest in, work with and partner with.\n\n\nQ. How would you describe CarbonCure’s carbon credits in terms of their difference from other credits available in the marketplace?\n\nDurability and scale are two primary differentiators that set CarbonCure apart.\n\nOne of the challenges in the removal space today is companies don't really have scale. CarbonCure has a highly scalable solution. When we look at the biggest problems to solve, concrete is one of them. CarbonCure has a solution that can scale to address one of the biggest problems. When it comes to climate change, scale is something that's critical.\n\nGoing back to the durability, there's more value that can be attributed to storing greenhouse gasses for longer periods. CarbonCure has one of the most durable solutions we've seen. Even when you look at biochar, it’s hundreds of years, which is still very durable. But CarbonCure is thousands of years. So, on the scale of ton-year value, CarbonCure's is on the extreme end of value when it comes to ton-year storage.\n\nThat said, I don't want any other company in the space to feel like they're doing the wrong thing by working on some other area of climate change. We are focused on long-term removals and believe they play a huge part in getting to net zero. We also believe that reduction and avoidance projects or offsets are required, and we will invest in ones we believe are high quality for that type of offset or offset class.\n\n\nQ. How would you describe CarbonCure to a client looking to purchase carbon credits?\n\nI would describe CarbonCure as a highly credible, technical, long-term removal player in the space. I would mention the fact that you actually provide a solution that is scalable. It's across five continents with 550 installations, so there's a real presence there that people can get behind. They know that when they're buying a CarbonCure credit, that credit doesn't go away in two years or in five years; there's no risk of reversal. It’s a highly credible offset, low level of risk, and the technology solution is highly scalable. \n\n\nQ. What made you decide to do such a huge, long-term investment with CarbonCure? \n\nFirst, CarbonCure is at a stage where the risk of the investment is actually fairly low. You’ve got the high-credibility, highly durable offset. The risk of this offset, no longer being an offset or no longer being viable in the offset market, is very low.\n\nSecond, as we saw in the latest IPCC report, long-term removals are unavoidable at this point and essential to getting to net zero. A long-term investment in a company like CarbonCure that is focused on long-term removals just seems like the right business decision, both financially and because, at the end of the day, it's the right thing to do.\n\n\nQ. What is the perception of the long-term opportunity for carbon mineralization via concrete? \n\nThe perception is that it's a huge opportunity — there's huge potential with concrete being responsible for 7% of global emissions today. Having a scalable solution to address some of that 7% is a massive opportunity. When we think about greening the concrete sector, CarbonCure has the technology to get there. Mineralization will play a huge part in getting to net zero.\n\n\nQ. When it came to engaging with us and purchasing from CarbonCure, can you describe that experience?\n\nI can honestly say the experience has been great. Culturally, we've been very aligned, so working with the CarbonCure team was exceptionally easy to do and, at times, actually quite fun. At the end of the day, we had a common goal and a common mission. And when people can align on what that ultimate objective is, great things can happen.\n\nTo learn more about Invert's experience purchasing CarbonCure's carbon credits, download their climate success story.\n\n----------------------------------------\n\nShare",
+        "metadata": {
+          "title": "Why Invert Invested $25 Million in CarbonCure Carbon Credits - CarbonCure Technologies Inc.",
+          "description": "We caught up with Invert Co-CEO Andre Fernandez to better understand what prompted the historic investment and what others can learn from it.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Why Invert Invested $25 Million in CarbonCure Carbon Credits - CarbonCure Technologies Inc.",
+          "og:description": "We caught up with Invert Co-CEO Andre Fernandez to better understand what prompted the historic investment and what others can learn from it.",
+          "og:url": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/",
+          "og:site_name": "CarbonCure Technologies Inc.",
+          "article:published_time": "2022-06-02T14:00:00+00:00",
+          "article:modified_time": "2025-04-22T16:01:19+00:00",
+          "og:image": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+          "og:image:width": "2560",
+          "og:image:height": "1703",
+          "og:image:type": "image/jpeg",
+          "author": "Jill Truscott"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#article",
+              "isPartOf": {
+                "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/"
+              },
+              "author": {
+                "name": "Jill Truscott",
+                "@id": "https://www.carboncure.com/#/schema/person/71ba09ff1871b1912fc273f169b0d79b"
+              },
+              "headline": "Why Invert Invested $25 Million in CarbonCure Carbon Credits",
+              "datePublished": "2022-06-02T14:00:00+00:00",
+              "dateModified": "2025-04-22T16:01:19+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/"
+              },
+              "wordCount": 1447,
+              "commentCount": 0,
+              "image": {
+                "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+              "keywords": [
+                "carbon removal"
+              ],
+              "articleSection": [
+                "Climate Corner",
+                "Concrete Corner"
+              ],
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/",
+              "url": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/",
+              "name": "Why Invert Invested $25 Million in CarbonCure Carbon Credits - CarbonCure Technologies Inc.",
+              "isPartOf": {
+                "@id": "https://www.carboncure.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+              "datePublished": "2022-06-02T14:00:00+00:00",
+              "dateModified": "2025-04-22T16:01:19+00:00",
+              "author": {
+                "@id": "https://www.carboncure.com/#/schema/person/71ba09ff1871b1912fc273f169b0d79b"
+              },
+              "description": "We caught up with Invert Co-CEO Andre Fernandez to better understand what prompted the historic investment and what others can learn from it.",
+              "breadcrumb": {
+                "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#primaryimage",
+              "url": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+              "contentUrl": "https://www.carboncure.com/wp-content/uploads/2022/05/iStock-1189012146-1-scaled.jpg",
+              "width": 2560,
+              "height": 1703,
+              "caption": "Green Building One Central Park In Sydney"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.carboncure.com/blog/concrete-corner/why-invert-invested-25-million-in-carboncure-carbon-credits/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.carboncure.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Concrete Corner",
+                  "item": "https://www.carboncure.com/concrete-corner/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Why Invert Invested $25 Million in CarbonCure Carbon Credits"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.carboncure.com/#website",
+              "url": "https://www.carboncure.com/",
+              "name": "CarbonCure Technologies Inc.",
+              "description": "Concrete That Matters",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.carboncure.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.carboncure.com/#/schema/person/71ba09ff1871b1912fc273f169b0d79b",
+              "name": "Jill Truscott",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://secure.gravatar.com/avatar/c3c22aeb4d0b19ef28a5e2ae4317d77e96b1691882c534bb34c462fef7f259d8?s=96&d=identicon&r=g",
+                "url": "https://secure.gravatar.com/avatar/c3c22aeb4d0b19ef28a5e2ae4317d77e96b1691882c534bb34c462fef7f259d8?s=96&d=identicon&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/c3c22aeb4d0b19ef28a5e2ae4317d77e96b1691882c534bb34c462fef7f259d8?s=96&d=identicon&r=g",
+                "caption": "Jill Truscott"
+              },
+              "url": "https://www.carboncure.com/blog/author/jtruscott/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Invert a investi 25 millions de dollars américains dans des crédits carbone de CarbonCure pour stocker le CO₂ par minéralisation du carbone. Invert est une entreprise spécialisée dans la réduction et la compensation des émissions, co-dirigée par Andre Fernandez. CarbonCure est représenté par Eric Yee.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Eric Yee",
+          "Andre Fernandez"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "CarbonCure",
+          "CarbonCure Technologies Inc.",
+          "Invert"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "CarbonCure Carbon Credits"
+        ]
+      },
+      "score_e5": 0.7022557792176216
+    },
+    {
+      "titre": "Greenwashing the property market: why 'green star' ratings don't guarantee more sustainable buildings | The Independent | The Independent",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/news/greenwashing-the-property-market-why-green-star-ratings-don-t-guarantee-more-sustainable-buildings-a8232336.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/28/11/457634753.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI7_4hGQ3cMLQ_VB1lnYROcxJVDA96fW8Mb1a3g0XcZ8LjQZXo",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Greenwashing the property market: why 'green star' ratings don't guarantee more sustainable buildings | The Independent | The Independent",
+        "source": "The Independent",
+        "link": "https://www.independent.co.uk/news/greenwashing-the-property-market-why-green-star-ratings-don-t-guarantee-more-sustainable-buildings-a8232336.html",
+        "imageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/28/11/457634753.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI7_4hGQ3cMLQ_VB1lnYROcxJVDA96fW8Mb1a3g0XcZ8LjQZXo"
+      },
+      "webpage": {
+        "text": "Greenwashing the property market: why ‘green star’ ratings don’t guarantee more sustainable buildings | The Independent\n\nNothing uses more resources or produces more waste than the buildings we live and work in. Our built environment is responsible for half of all global energy use and half of all greenhouse gas emissions. Buildings consume one-sixth of all freshwater, one-quarter of world wood harvests and four-tenths of all other raw materials. The construction and later demolition of buildings produces 40 per cent of all waste.\n\nThe sustainability of our buildings is coming under scrutiny, and “green” rating tools are the key method for measuring this. In Australia, Deakin University’s School of Architecture and Built Environment recently reviewed these certification schemes. Focus group discussions were held in Sydney and Melbourne with representatives in the field of sustainability – including government, green consultancies and rating tool providers.\n\nTwo main concerns emerged from our review. Sustainability ratings tools are not audited.\n\nMost ratings tools are predictive, while those few that take measurements use paid third parties. Government plays no active part.\n\nAlso, the sustainability parameters measured only loosely intersect with the building occupants’ sustainability concerns. Considerations such as access to transport and amenities are not included.\n\nThat’s the backdrop to the sustainability targets now being adopted across Australia. Australia has the highest rate of population growth of any developed country. The population now is 24.8 million. It is expected to reach between 31 to to 42 million people by 2056.\n\n\nMore buildings will be needed for these people to live and work in. And authorities will have to find ways to ensure these buildings are more sustainable if the targets now being adopted are to be achieved.\n\nOver 80 per cent of local governments have zero-emissions targets. Sydney and Canberra have committed to zero-carbon emissions by 2050. Melbourne has pledged to be carbon-neutral by 2020.\n\nSo how do green ratings work?\n\nEach green-rating tool works by identifying a range of sustainability parameters – such as water and energy use, waste production. The list of things to be measured runs into the dozens. Tools differ on the parameters measured, method of measurement, weightings given and the thresholds that determine a given sustainability rating.\n\nThere are more than 600 such rating tools worldwide. Each competes in the marketplace by looking to reconcile the credibility of its ratings with the disinclination of developers to submit to an assessment that will rate them poorly.\n\nSo, it is easy enough to find landmark developments labelled with green accreditations. It is harder to quantify what these actually mean.\n\nLocal governments, historically, have been keen to assure building quality through permits. Planning permits ensure a development conforms with city schemes. Building permits assess structural load-bearing capacity, health and fire safety.\n\nAll this is done off the plan. Site inspections take place to verify that the building is built to plan. But once a certificate of occupancy is issued, the Government steps aside.\n\nThe sustainability agenda promoted by Canberra has been grafted onto this regime. Energy efficiency was introduced into the residential building code in 2005, and then into the commercial building code in 2006. At first, this was limited to new buildings, but then broadened to include refurbishment of existing structures.\n\nAgain, sustainability credentials are assessed off the plan and certification issued once the building is up and running. Thereafter, government walks away.\n\nWe know of only one longitudinal energy performance study carried out on domestic residences in Australia. It is an as-yet-unpublished project conducted by a retiree from the the Commonwealth Scientific and Industrial Research Organisation, working with Indigenous communities in Far North Queensland.\n\nThe findings corroborate a recent study by Gertrud Hatvani-Kovacs and colleagues from the University of South Australia. This study found that so-called “energy-inefficient” houses, following traditional design, managed under certain conditions to outperform 6- and 8-star buildings.\n\nEnergy usage is but the tip of the iceberg. Genuine sustainability is about delivering our children into a future in which they have all that we have today.\n\nHomeowners, on average, turn their property around every eight years. They are less concerned with energy efficiency than with real estate prices. And these prices depend on the appeal of the property, which involves access to transport, schools, parks and amenities, and freedom from crime.\n\nCommercial property-owners, too, are concerned about infrastructure, and they care about creating work environments that retain valued employees.\n\nThese are all core sustainability issues, yet do not come up in the rating systems we use.\n\nIf government is serious about creating sustainable cities, it needs to let go of its limited, narrow criteria and embrace these larger concerns of “liveability”. It must embody these broader criteria in the rating systems it uses to endorse developments. And it needs an auditing and enforcement regime in place to make it happen.\n\nIgor Martek and M Reza Hosseini are lecturers in construction at Deakin University. This article was first published in The Conversation (theconversation.com)",
+        "metadata": {
+          "fb:app_id": "235586169789578",
+          "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+          "description": "Buildings are central to creating more sustainable cities, and green ratings are often used to assess how well a building measures up against this goal. But the current system has serious flaws",
+          "og:updated_time": "2018-03-02T00:00:01.000Z",
+          "article:published_time": "2018-03-02T00:00:01.000Z",
+          "article:modified_time": "2018-03-02T00:00:01.000Z",
+          "date": "2018-03-02T00:00:01.000Z",
+          "og:site_name": "The Independent",
+          "article:section": "News",
+          "article:category": "News",
+          "article:author_name": "Igor Martek, M. Reza Hosseini",
+          "article:content_type": "story",
+          "article:word_count": "869",
+          "article:image_count": "2",
+          "article:embed_count": "1",
+          "article:video_count": "0",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "1",
+          "og:title": "Why ‘green star’ ratings don’t guarantee more sustainable buildings",
+          "twitter:title": "Why ‘green star’ ratings don’t guarantee more sustainable buildings",
+          "og:url": "https://www.independent.co.uk/news/greenwashing-the-property-market-why-green-star-ratings-don-t-guarantee-more-sustainable-buildings-a8232336.html",
+          "og:type": "article",
+          "og:description": "Buildings are central to creating more sustainable cities, and green ratings are often used to assess how well a building measures up against this goal. But the current system has serious flaws",
+          "twitter:description": "Buildings are central to creating more sustainable cities, and green ratings are often used to assess how well a building measures up against this goal. But the current system has serious flaws",
+          "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/28/11/457634753.jpg?width=1200&height=800&crop=1200:800",
+          "og:image:secure_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/28/11/457634753.jpg?width=1200&height=800&crop=1200:800",
+          "og:locale": "en_GB"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.independent.co.uk/img/logo.png",
+            "width": 504,
+            "height": 60
+          },
+          "sameAs": [
+            "https://twitter.com/Independent",
+            "https://www.facebook.com/TheIndependentOnline",
+            "https://www.youtube.com/theindependent"
+          ],
+          "@id": "independent.co.uk"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'environnement bâti est responsable d'une grande partie de la consommation mondiale d'énergie et d'émissions de gaz à effet de serre. L'école d'architecture et de l'environnement bâti de l'université Deakin a examiné les schémas de certification des bâtiments écologiques par le biais de groupes de discussion à Sydney et Melbourne. La population australienne est de 24,8 millions et devrait atteindre 31 à 42 millions d'ici 2056. Sydney et Canberra se sont engagées à atteindre zéro émission de carbone d'ici 2050, et Melbourne s'est engagée à être neutre en carbone d'ici 2020.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Australia",
+          "Sydney",
+          "Melbourne",
+          "Canberra"
+        ],
+        "ORGANIZATION": [
+          "The Independent",
+          "Deakin University"
+        ],
+        "DATE": [
+          "2056",
+          "2050",
+          "2020"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "School of Architecture and Built Environment"
+        ]
+      },
+      "score_e5": 0.7353671136449489
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sydney",
+      "Australia",
+      "Asia"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "One Central Park"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sydney",
+      "Central Park",
+      "Australia"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.8360515804728466,
+  "S_ent": 0.5,
+  "S_OOC": 0.6680257902364233,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "OTHER"
+  ]
+}

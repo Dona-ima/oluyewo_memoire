@@ -1,0 +1,344 @@
+{
+  "id_rumeur": 194570,
+  "id_image": 194570,
+  "caption": "The entrance to the Anna Prayer Counseling and Retreat Center in Frederick County Maryland On July 26 a man staying there allegedly stabbed to death a missionary from Korea",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748144/oluyewo_benchmark/fef604jasukdeusfqgjx.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Va. man charged in stabbing death of missionary at retreat ...",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/local/crime/falls-church-man-charged-in-murder-of-man-at-church-in-frederick-md/2015/07/27/09d97f5e-3460-11e5-94ce-834ad8f5c50e_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVFVDRRUZMI6LDTGA62GAPWJFI&w=800&h=600",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQX7M14ND8ojR345uce1gYOpnhUnoTklrkEwpXNT4_hU4GyQmd",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Va. man charged in stabbing death of missionary at retreat ...",
+        "link": "https://www.washingtonpost.com/local/crime/falls-church-man-charged-in-murder-of-man-at-church-in-frederick-md/2015/07/27/09d97f5e-3460-11e5-94ce-834ad8f5c50e_story.html",
+        "source": "The Washington Post",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEURERH___8AAACNjY0FBQVAQEC1tbUNDQ35-fnHx8dsbGyTk5MSEhIODg7u7u7BwcGioqLOzs4lJSWFhYV9fX2rq6vX19fj4-M7OztgYGBWVlYwMDB2dnYoKCienp5mZmbd3d1ISEgZ2xNmAAABB0lEQVQ4jdXSy1KEMBAF0NxLIEGe4S2Myvz_T9pRAY01Wbkxi65U-lSnIa3UP1ommi3JNCr47EwVy69IqMrrIMRsMLMi_dYHLVHL9nQcgJGtE-RaKm4YuLKZePZFi6YAHHMv7xa49S182QPUqDsHTJyBbnkBXke5F6m-QE4pk7EXQAJ5wrcTlPoCiQeiioRPJ9AL8A1wQgCY1T_APIQV1uAKBkCFPfwC_iucB40HWnvQh0CS0tvYWykwAoltbsB2AN2JyEoJO-l_J6QS6oXnA2rucgfnncZsVooXmc0_Hu5Yxr-dBKPM_atJPpoQYz7Bg7QfFwFtEQHGII3OaNWljE95pWPZv1_vtoMLSOS9SqIAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQX7M14ND8ojR345uce1gYOpnhUnoTklrkEwpXNT4_hU4GyQmd",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVFVDRRUZMI6LDTGA62GAPWJFI&w=800&h=600",
+        "image_width": 600,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Un homme de Virginie est inculpé pour le meurtre par stabulation d'un missionnaire lors d'une retraite à Frederick, au Maryland, selon un article du Washington Post.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Virginia",
+          "Frederick",
+          "Maryland"
+        ],
+        "ORGANIZATION": [
+          "The Washington Post"
+        ],
+        "DATE": [
+          "2015-07-27"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8454115355856356
+    },
+    {
+      "titre": "Rush Campground, Buffalo National River - Recreation.gov",
+      "source": "Recreation.gov",
+      "lien": "https://www.recreation.gov/camping/poi/258696",
+      "image_url": "https://cdn.recreation.gov/public/2020/01/02/14/34/258696_54611c79-9d36-4a07-b128-35f5bf1d8487_700.webp",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsiAjL7eRe12SAEpBE75Ym6Pas2WMeKvVAsW3FD6Z5x8lIhNmH",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Rush Campground, Buffalo National River - Recreation.gov",
+        "link": "https://www.recreation.gov/camping/poi/258696",
+        "source": "Recreation.gov",
+        "source_icon": "https://serpapi.com/searches/6a8ef8854c437fe5d456f473/images/O6y2WZnO96Ep8KxYSfxsJrNryr6hX1wsAeAYLBu-y-w.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsiAjL7eRe12SAEpBE75Ym6Pas2WMeKvVAsW3FD6Z5x8lIhNmH",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://cdn.recreation.gov/public/2020/01/02/14/34/258696_54611c79-9d36-4a07-b128-35f5bf1d8487_700.webp",
+        "image_width": 525,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "Rush Campground, situé le long de la Buffalo National River, référencé sur Recreation.gov.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Buffalo National River",
+          "Rush Campground"
+        ],
+        "ORGANIZATION": [
+          "Recreation.gov"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7259881480780753
+    },
+    {
+      "titre": "Blue River (Missouri River tributary) - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Blue_River_(Missouri_River_tributary)",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Byrams-ford-blue.jpg/1280px-Byrams-ford-blue.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHVg56wzV5roeRlfZDVuYyHAcblWqefwlJcrBKq4iHtb3RkQuQ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Blue River (Missouri River tributary) - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Blue_River_(Missouri_River_tributary)",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHVg56wzV5roeRlfZDVuYyHAcblWqefwlJcrBKq4iHtb3RkQuQ",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Byrams-ford-blue.jpg/1280px-Byrams-ford-blue.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "image_width": 960,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "Blue River est un affluent de la rivière Missouri, tel que décrit sur Wikipédia.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Blue River",
+          "Missouri River"
+        ],
+        "ORGANIZATION": [
+          "Wikipedia"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7334768043829611
+    },
+    {
+      "titre": "Best walking trails in Saddle River County Park | AllTrails",
+      "source": "AllTrails",
+      "lien": "https://www.alltrails.com/parks/us/new-jersey/saddle-river-county-park/walking",
+      "image_url": "https://www.alltrails.com/mugen/image/location-app-router?url=https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMTM1NzA5Mjk0L2M2N2RlZjY0OTI1NjIzYTc2MDc2YTg2ZjQzNTJiMmZjLmpwZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsInJlc2l6ZSI6eyJ3aWR0aCI6IjEwODAiLCJoZWlnaHQiOiI3MDAiLCJmaXQiOiJjb3ZlciJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==&w=3840&q=90",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqLj4l1uZ51qPCWWLQPScPzYZHI0u9Ap4BXTsiVv6-SwCbAfx9",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Best walking trails in Saddle River County Park | AllTrails",
+        "link": "https://www.alltrails.com/parks/us/new-jersey/saddle-river-county-park/walking",
+        "source": "AllTrails",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTOHfutXP5yFg-5zMDRhpBGZisSdaQCAh20nbOnj2QBOPLBB5aItXuKBe7V9BkQygeDVPXdCtqSo4l38NlJjDCB6DrlW1XlvgERg3Z5uGTsFqLb_YrGnA",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqLj4l1uZ51qPCWWLQPScPzYZHI0u9Ap4BXTsiVv6-SwCbAfx9",
+        "thumbnail_width": 181,
+        "thumbnail_height": 279,
+        "image": "https://www.alltrails.com/mugen/image/location-app-router?url=https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMTM1NzA5Mjk0L2M2N2RlZjY0OTI1NjIzYTc2MDc2YTg2ZjQzNTJiMmZjLmpwZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsInJlc2l6ZSI6eyJ3aWR0aCI6IjEwODAiLCJoZWlnaHQiOiI3MDAiLCJmaXQiOiJjb3ZlciJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==&w=3840&q=90",
+        "image_width": 700,
+        "image_height": 1080
+      },
+      "webpage": null,
+      "texte_contexte": "Meilleurs sentiers de promenade à Saddle River County Park, répertoriés sur AllTrails.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Saddle River County Park",
+          "New Jersey",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "AllTrails"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7345408815977932
+    },
+    {
+      "titre": "Storm damage forces Laurel Hill State Park to close campground",
+      "source": "WJAC",
+      "lien": "https://wjactv.com/news/local/storm-damage-forces-laurel-hill-state-park-to-close-campground",
+      "image_url": "https://wjactv.com/resources/media2/16x9/full/800/center/80/9c66032c-de00-4136-a521-7b9fe49f2eea-large16x9_thumb_57571.png",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT686XmwyKp5f2Rj4ho0_fFwmnZTFT7ljL4-lU97-j1AhTcdaHp",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Storm damage forces Laurel Hill State Park to close campground",
+        "link": "https://wjactv.com/news/local/storm-damage-forces-laurel-hill-state-park-to-close-campground",
+        "source": "WJAC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ7rdw_vLEZp9KaZtmmyeFTW-jQJGcUDTSSxDP54g3QuopXNcOMs0XZqkteeWrEZkQPOxz4T7x4LCAuUiUhIXjVIs8zRnVUqJJDMpahXEul",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT686XmwyKp5f2Rj4ho0_fFwmnZTFT7ljL4-lU97-j1AhTcdaHp",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://wjactv.com/resources/media2/16x9/full/800/center/80/9c66032c-de00-4136-a521-7b9fe49f2eea-large16x9_thumb_57571.png",
+        "image_width": 450,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Des dégâts causés par une tempête forcent Laurel Hill State Park à fermer son terrain de camping, selon WJAC.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Laurel Hill State Park"
+        ],
+        "ORGANIZATION": [
+          "WJAC"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7490629795798288
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Anna Prayer Counseling and Retreat Center",
+      "Frederick County",
+      "Maryland",
+      "Korea"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "July 26"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "missionary"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Virginia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Frederick",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Maryland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Washington Post",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015-07-27",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Buffalo National River",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rush Campground",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Recreation.gov",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Blue River",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Missouri River",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Saddle River County Park",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Jersey",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AllTrails",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Laurel Hill State Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WJAC",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:58:48.621861"
+  }
+}

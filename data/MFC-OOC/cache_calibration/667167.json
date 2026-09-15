@@ -1,0 +1,304 @@
+{
+  "id_rumeur": 667167,
+  "id_image": 345922,
+  "caption": "The Syrian army shell the village of Morek in Hama province Syria",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748133/oluyewo_benchmark/ll5njfvfucevhclpczx1.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Mammatus clouds spotted in Oklahoma",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/MeteorologistDaveNussbaum/posts/wow-check-out-these-amazing-mammatus-clouds-in-oklahoma-last-weekend-i-think-the/556418609202407/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2361451617488783",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlZXZgq28eDHAR-kSegPfSX8nlh0reV5CBl3wuCvsYBq1-b6hY",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Mammatus clouds spotted in Oklahoma",
+        "link": "https://www.facebook.com/MeteorologistDaveNussbaum/posts/wow-check-out-these-amazing-mammatus-clouds-in-oklahoma-last-weekend-i-think-the/556418609202407/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlZXZgq28eDHAR-kSegPfSX8nlh0reV5CBl3wuCvsYBq1-b6hY",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2361451617488783",
+        "image_width": 2048,
+        "image_height": 1536
+      },
+      "webpage": null,
+      "texte_contexte": "Mammatus clouds spotted in Oklahoma last weekend.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dave Nussbaum"
+        ],
+        "LOCATION": [
+          "Oklahoma"
+        ],
+        "ORGANIZATION": [
+          "Facebook"
+        ],
+        "DATE": [
+          "last weekend"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Mammatus clouds"
+        ]
+      },
+      "score_e5": 0.7278344406957223
+    },
+    {
+      "titre": "What are up with these clouds? : r/Tucson",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/Tucson/comments/1s7cqjz/what_are_up_with_these_clouds/",
+      "image_url": "https://preview.redd.it/what-are-up-with-these-clouds-v0-sfkcg7ht13sg1.jpg?width=640&crop=smart&auto=webp&s=caf3b75e1505bc3a27e32efe1d42fe102832c1dc",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjFSCGHs5-DPOGFqJwT50H1f83reEOPEBHIxXQdv2o8wpe5rS0",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "What are up with these clouds? : r/Tucson",
+        "link": "https://www.reddit.com/r/Tucson/comments/1s7cqjz/what_are_up_with_these_clouds/",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRFeJS-IhfJCysoVmCqJ1d-1lzbIHTsbcy4DrBsZJpxQ31zznhym7THnNEKCEnngpvdl4aupEFtEblIPBEMJY7_biy055d40m6TYfVg7CpFOrWOXw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjFSCGHs5-DPOGFqJwT50H1f83reEOPEBHIxXQdv2o8wpe5rS0",
+        "thumbnail_width": 243,
+        "thumbnail_height": 207,
+        "image": "https://preview.redd.it/what-are-up-with-these-clouds-v0-sfkcg7ht13sg1.jpg?width=640&crop=smart&auto=webp&s=caf3b75e1505bc3a27e32efe1d42fe102832c1dc",
+        "image_width": 750,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Discussion about clouds in Tucson.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Tucson"
+        ],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "clouds"
+        ]
+      },
+      "score_e5": 0.7200857323162284
+    },
+    {
+      "titre": "File:Mammatus-storm-clouds San-Antonio.jpg - Wikimedia Commons",
+      "source": "Wikimedia Commons",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mammatus-storm-clouds_San-Antonio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mammatus-storm-clouds_San-Antonio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrs7XdWtugDk_PHvixtik3z8w2tibZ-om1xacnwmVlyN3lysmJ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "File:Mammatus-storm-clouds San-Antonio.jpg - Wikimedia Commons",
+        "link": "https://commons.wikimedia.org/wiki/File:Mammatus-storm-clouds_San-Antonio.jpg",
+        "source": "Wikimedia Commons",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTKL4eFSPEnxVpZuK-uuPg1T7Fq0Mf9Q9EKykyFOXYTGf7RFB9yOJeojFa1u8ZIaifU0AK2_RSm9HKPereiDfVYhQzOQo3XEHUDiejM0E5WbEMQHPnGOstvQWU",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrs7XdWtugDk_PHvixtik3z8w2tibZ-om1xacnwmVlyN3lysmJ",
+        "thumbnail_width": 184,
+        "thumbnail_height": 275,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mammatus-storm-clouds_San-Antonio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "image_width": 2592,
+        "image_height": 3872
+      },
+      "webpage": null,
+      "texte_contexte": "File of Mammatus storm clouds in San Antonio.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "San Antonio"
+        ],
+        "ORGANIZATION": [
+          "Wikimedia Commons"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Mammatus-storm-clouds"
+        ]
+      },
+      "score_e5": 0.7252008035643509
+    },
+    {
+      "titre": "Types of clouds and the weather they bring | Popular Science",
+      "source": "Popular Science",
+      "lien": "https://www.popsci.com/environment/types-of-clouds/",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2023/05/30/types-of-clouds-mammatus.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2d0oh0_A8ZG52zeqS7BlOlPO2j-a03vgeVz7xoffbziyg8MUs",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Types of clouds and the weather they bring | Popular Science",
+        "link": "https://www.popsci.com/environment/types-of-clouds/",
+        "source": "Popular Science",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQRm44rTc29eZEGLrhaKXvwyGf0F_BMMmL90m0Lx1bqDrlxWIGlEOEq5oQ7ixJoxJI3oukQXe_oY4R2otKzF8_ArHGvGwB2t4nGGzIdH2MnUAzLCQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2d0oh0_A8ZG52zeqS7BlOlPO2j-a03vgeVz7xoffbziyg8MUs",
+        "thumbnail_width": 172,
+        "thumbnail_height": 292,
+        "image": "https://www.popsci.com/wp-content/uploads/2023/05/30/types-of-clouds-mammatus.jpg",
+        "image_width": 1180,
+        "image_height": 2000
+      },
+      "webpage": null,
+      "texte_contexte": "Information about types of clouds and the weather they bring.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Popular Science"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "clouds"
+        ]
+      },
+      "score_e5": 0.7375644431354018
+    },
+    {
+      "titre": "These Bulbous Clouds Form Interface Between Stock Photo ...",
+      "source": "Shutterstock",
+      "lien": "https://www.shutterstock.com/image-photo/these-bulbous-clouds-form-interface-between-52153627",
+      "image_url": "https://www.shutterstock.com/image-photo/these-bulbous-clouds-form-interface-260nw-52153627.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUeXfINP8klvg0djOyB9zRTKpOT2oY5Haa2YoPjMY97fPisXR5",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "These Bulbous Clouds Form Interface Between Stock Photo ...",
+        "link": "https://www.shutterstock.com/image-photo/these-bulbous-clouds-form-interface-between-52153627",
+        "source": "Shutterstock",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQwdI3sb1idjasgpEajuGBarrfMhFwWbJceP1HmKLp9LB8NKtpVfuUo17r2zkDPmlw6QrBqa5Pauk8AHMTKtOxo2mv157Swt5427ca_0tkvot_JzOuLv-zNkQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUeXfINP8klvg0djOyB9zRTKpOT2oY5Haa2YoPjMY97fPisXR5",
+        "thumbnail_width": 202,
+        "thumbnail_height": 250,
+        "image": "https://www.shutterstock.com/image-photo/these-bulbous-clouds-form-interface-260nw-52153627.jpg",
+        "image_width": 280,
+        "image_height": 347
+      },
+      "webpage": null,
+      "texte_contexte": "Bulbous clouds form interface.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Shutterstock"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Bulbous Clouds"
+        ]
+      },
+      "score_e5": null
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Morek",
+      "Hama",
+      "Syria"
+    ],
+    "ORGANIZATION": [
+      "Syrian army"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Dave Nussbaum",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oklahoma",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last weekend",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Mammatus clouds",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tucson",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Antonio",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikimedia Commons",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Popular Science",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shutterstock",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:54:21.586933"
+  }
+}

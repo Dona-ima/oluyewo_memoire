@@ -1,0 +1,774 @@
+{
+  "id_rumeur": 1638091,
+  "id_image": 1638091,
+  "caption": "South West Water tweeted a picture of the repairs to the water main on Tavistock Road",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747081/oluyewo_benchmark/kh7kias7fxewi6st1pkt.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Plymouth burst water main causes traffic chaos - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-devon-34994619",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/E921/production/_87018695_sww.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ98PXCofXVLDVZbBjACvdp7mjTr-k9RIGUqJ3zEchQkN__baJJ",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Plymouth burst water main causes traffic chaos - BBC News",
+        "link": "https://www.bbc.com/news/uk-england-devon-34994619",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ98PXCofXVLDVZbBjACvdp7mjTr-k9RIGUqJ3zEchQkN__baJJ",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/E921/production/_87018695_sww.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Plymouth burst water main causes traffic chaos\n\nPublished\n\n3 December 2015\n\n\nA burst main has disrupted water supplies to 4,000 buildings and caused gridlock across Plymouth.\n\nQueues of traffic up to four miles long formed and five cars collided on the A38 after the water deluge on the Tavistock Road. Five schools have also been closed.\n\nSouth West Water said the fault had been isolated and customers should start to notice supplies returning.\n\nThe company arranged alternative supplies for other affected areas.\n\nMore on this story and other news from Devon and Cornwall\n\n\nSouth West Water said it hoped to repair the pipe and restore supplies by early evening.\n\nMore than 4,000 properties in the Crownhill, Whitleigh and Efford areas in Plymouth have been affected.\n\n\nPlymouth City Council said Compton Primary School, St Edwards Community Primary School and Widey Court Primary School had been closed until further notice after their supplies were cut off. Courtlands Special School and St Boniface Catholic School were closed early.\n\nDrivers took to social media to describe their \"nightmare journeys\" and \"commuter angst\".\n\n\nStonehouse Policing Team tweeted: \"How can a burst water main cripple the traffic infrastructure! Been stuck in traffic for an hour & only travelled 400m in that time!\".\n\nPlymouth Community Homes tweeted, external: \"Our head office has been affected by the burst water main. Please don't visit us here unless your problem is urgent.\"\n\nInformation on progress to restore supplies will be updated on the South West Water, external, the spokesman added.\n\n\nRelated internet links\n\n * Compton Primary School\n\n * St Edwards Community Primary School\n\n * Widey Court Primary School\n\nThe BBC is not responsible for the content of external sites.",
+        "metadata": {
+          "description": "A burst main disrupts water supplies in 4,000 buildings and causes traffic chaos in Plymouth.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A burst main disrupts water supplies in 4,000 buildings and causes traffic chaos in Plymouth.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/CE19/production/_87016725_crownhill1.jpg",
+          "og:image:alt": "Crownhill burst water mains",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Plymouth burst water main causes traffic chaos",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-devon-34994619",
+          "article:section": "Devon",
+          "twitter:description": "A burst main disrupts water supplies in 4,000 buildings and causes traffic chaos in Plymouth.",
+          "twitter:title": "Plymouth burst water main causes traffic chaos"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-devon-34994619",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-12-03T11:42:49.000Z",
+          "dateModified": "2015-12-03T16:17:55.000Z",
+          "description": "A burst main disrupts water supplies in 4,000 buildings and causes traffic chaos in Plymouth.",
+          "headline": "Plymouth burst water main causes traffic chaos",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/CE19/production/_87016725_crownhill1.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/CE19/production/_87016725_crownhill1.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-devon-34994619",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une rupture de canalisation principale à Plymouth a perturbé l'approvisionnement en eau de 4 000 bâtiments et provoqué des embouteillages monstres, des files d'attente de quatre miles et une collision de cinq voitures sur l'A38 après un déluge d'eau sur Tavistock Road. Cinq écoles ont également été fermées. South West Water a indiqué que la panne avait été isolée et que les approvisionnements commençaient à revenir, avec des réparations prévues pour le début de la soirée. Les zones touchées incluent Crownhill, Whitleigh et Efford. Le Plymouth City Council a fermé Compton Primary School, St Edwards Community Primary School et Widey Court Primary School, tandis que Courtlands Special School et St Boniface Catholic School ont fermé plus tôt. Des automobilistes, la police de Stonehouse et Plymouth Community Homes ont témoigné de perturbations sur les réseaux sociaux.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Plymouth",
+          "A38",
+          "Tavistock Road",
+          "Devon",
+          "Cornwall",
+          "Crownhill",
+          "Whitleigh",
+          "Efford"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "South West Water",
+          "Plymouth City Council",
+          "Compton Primary School",
+          "St Edwards Community Primary School",
+          "Widey Court Primary School",
+          "Courtlands Special School",
+          "St Boniface Catholic School",
+          "Stonehouse Policing Team",
+          "Plymouth Community Homes"
+        ],
+        "DATE": [
+          "3 December 2015",
+          "early evening"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "burst water main"
+        ]
+      },
+      "score_e5": 0.7986435567679346
+    },
+    {
+      "titre": "Clive Turner (@ClivePCH) / Posts / X",
+      "source": "Twitter",
+      "lien": "https://x.com/clivepch",
+      "image_url": "https://pbs.twimg.com/media/CVTQHLfWoAEaOzi.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE43lws4qdfCg4MeJ0N_S1tT9wU5jslrZoy49HdfWjjR__VaPJ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Clive Turner (@ClivePCH) / Posts / X",
+        "link": "https://x.com/clivepch",
+        "source": "Twitter",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAD____f398QEBAgICDv7-9wcHBAQECAgIC_v7_Pz8-vr6-QkJAwMDBQUFCfn59gYGBA_ZVxAAAA2ElEQVQ4jc1SSRLDIAzD7GuS_7-2yKQNENJrqwMMFiBbthB_gkSMrY_F_qik8d4bo69QJt9fd2SFOCh8An7k8aAIseMaw1KaslBSKig1kUL1NMFRxsIiWko98xBxWCx4s-CFihCJRquIqwsUJFZMvFKdYcFYmgvsEKAdHgQ4exOw3EucRfKXL2BoehSpBRo29EkkkbXN0LUIdzA1Q7clj3fvrt1FNoq8O9rhapj5Wv7ZoUzHWfDAXx1uUxHGjioJA07wVLCrQ4HdKdPufexD04jW_4Dl2PwELxkCBNiT_pD8AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE43lws4qdfCg4MeJ0N_S1tT9wU5jslrZoy49HdfWjjR__VaPJ",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://pbs.twimg.com/media/CVTQHLfWoAEaOzi.jpg",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Page de profil de Clive Turner sur X (Twitter).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Clive Turner"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "X",
+          "Twitter"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7900864939710746
+    },
+    {
+      "titre": "Burst watermain floods homes | wokingnewsandmail.co.uk",
+      "source": "Woking News and Mail",
+      "lien": "https://www.wokingnewsandmail.co.uk/news/burst-watermain-floods-homes-576406",
+      "image_url": "https://www.wokingnewsandmail.co.uk/tindle-static/image/2022/11/26/09/2017-02-p2-Littlewick-Road-mains-repair-A-1024x768.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDBHIJYW6FaKpGUbMf0fSamb9zZZQOnNCJ8tKPZ9LW-jWiLhmh",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Burst watermain floods homes | wokingnewsandmail.co.uk",
+        "link": "https://www.wokingnewsandmail.co.uk/news/burst-watermain-floods-homes-576406",
+        "source": "Woking News and Mail",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAolBMVEX____98QAAp-1VyPQFru_tAo3rAIQYtPAArO788PjsAIfzX7cApO0Bqu4AqO7-9l9izPUvvPLo8vv0ecLuG5f0a7xMxPPT7frwLqARsfB_1vfb8_381-3wPKam4_n38frqAH-z5_r5nNJu0vbs___3i8qT4fr1___4o9X6weP9-fz94fQwvPD___LC6_n__uX-9Wj7-q_99lv7-aD___n79EtTXBrOAAAArElEQVQYlUXO2RaCIBAG4IEgkMQyza00y9KyTG15_1drXI5yMYf_mxkOABsmhJD2Fhzu8h0ALKimzPPBCBRfrnoIoz3AIVZ8BDMBMByOeYZjkHI-AQ1PcHbVPGFJnV2Ma4CkhgkmqcgL4xbzdAApmaYiKcp7PAFj2hQ-lI9hhUltyWf3m6p_VFNtZy-81k2D1TMxFdhs34SsEaIcU_3BRAYA-LY_Mp4eqil28AcZrwxuRTSqrQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDBHIJYW6FaKpGUbMf0fSamb9zZZQOnNCJ8tKPZ9LW-jWiLhmh",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.wokingnewsandmail.co.uk/tindle-static/image/2022/11/26/09/2017-02-p2-Littlewick-Road-mains-repair-A-1024x768.jpg",
+        "image_width": 768,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Burst watermain floods homes\n\nLITTLEWICK Road had to be closed in the early hours of Monday after yet another water supply pipe ruptured, adding to the traffic chaos around Woking caused by extensive roadworks in the town centre.\n\nThe gushing leak from a watermain trunk, believed to be up to 60 years old, caused the highway to collapse and the road had to be shut to traffic between Horsell Birch and Lockfield Drive.\n\nWater flooded into around 12 homes in Littlewick Road, ruining floors and furniture, after a trunk main ruptured just after 4am.\n\nAs if drivers in the area haven’t been struggling enough to find alternative routes , a sinkhole in Old Woking Road, near the junction of White Rose Lane, opened up again this week, just days after it had been repaired – causing the road to be shut at least until this weekend.\n\nA Littlewick Road resident told the News & Mail: “I realised something was wrong just after 4am and rushed downstairs to see water lapping against my front doorstep.\n\nGet your latest local news for free in your email inbox\n\n“I immediately isolated the electricity and called the emergency services, as I could see the road outside was flooded.”\n\nThe daughter of another resident said: “My father called me about 4.30am and was deeply upset. He told me that there was water flooding into his house and that the fire service was coming. The flooring at the front of the house is ruined.”\n\nAffinity Water said on Monday that the 15in cast iron main probably burst because of pressure from vehicles passing above it. He added that the damaged section was being replaced with a pipe made of modern composite materials.\n\nContractors had repaired the trunk and water was flowing through it again by lunchtime on Tuesday. Littlewick Road was expected to be open to traffic yesterday (Wednesday).\n\nAn Affinity spokesman said that people whose homes had been flooded would be compensated for the damage. “Our incident support manager has visited the site and we have arranged for a contractor that specialises in repairing flood damage to attend,” she added.\n\nProblems with ageing watermains have caused problems on the busy A320 between Woking and Chertsey, where repairs to ruptured pipes have led to at least seven road closures in the last five years.\n\nIn Old Woking Road, highways engineers are trying to discover what is causing the recurring sinkhole, on a route used by many to avoid the chaos in Woking town centre.\n\nA spokesman told the News & Mail: “The last time the hole opened up it was decided a collapsed sewer was the cause. Our engineers are now trying to find out if something is else under the road.”\n\nOld Woking Road will be shut at least until the weekend but the engineers say repairs might have to continue until Monday.\n\nMeanwhile, phase two of the traffic management layout in Victoria Way began on Monday and is expected to last six weeks.\n\nVictoria Way has been reopened to southbound traffic but closed to vehicles travelling north, which have been diverted via Goldsworth Road, Church Street West and Forge End.\n\nGoldsworth Road is closed eastbound between Morrison’s roundabout and the junction with Church Street West, which itself is one way towards Forge End.\n\nFurther works needed for the redevelopment of the town centre will start on Saturday (10 February) and are due to last for a week.",
+        "metadata": {
+          "og:locale": "en",
+          "description": "LITTLEWICK Road had to be closed in the early hours of Monday after yet another water supply pipe ruptured, adding to the traffic chaos around Woking caused by extensive roadworks in the town centre.",
+          "og:title": "Burst watermain floods homes",
+          "og:description": "LITTLEWICK Road had to be closed in the early hours of Monday after yet another water supply pipe ruptured, adding to the traffic chaos around Woking caused by extensive roadworks in the town centre.",
+          "og:url": "https://www.wokingnewsandmail.co.uk/news/burst-watermain-floods-homes-576406",
+          "og:type": "article",
+          "article:published_time": "2017-02-10T14:13:41.000Z",
+          "article:modified_time": "2017-02-10T15:06:53.000Z",
+          "article:author": "https://www.wokingnewsandmail.co.uk/author/editorial-team",
+          "article:section": "News",
+          "article:tag": "Headlines",
+          "og:image": "https://www.wokingnewsandmail.co.uk/tindle-static/image/2022/11/26/09/2017-02-p2-Littlewick-Road-mains-repair-A-1024x768.jpg?width=1024&crop=16:9,smart&quality=75",
+          "og:site_name": "Woking News and Mail"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "url": "https://www.wokingnewsandmail.co.uk/news/burst-watermain-floods-homes-576406",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.wokingnewsandmail.co.uk/news/burst-watermain-floods-homes-576406"
+          },
+          "headline": "Burst watermain floods homes",
+          "image": [
+            "https://www.wokingnewsandmail.co.uk/tindle-static/image/2022/11/26/09/2017-02-p2-Littlewick-Road-mains-repair-A-1024x768.jpg?width=1024&crop=16:9,smart&quality=75",
+            "https://www.wokingnewsandmail.co.uk/tindle-static/image/2022/11/26/09/2017-02-p2-Littlewick-Road-mains-repair-A-1024x768.jpg?width=1024&crop=4:3,smart&quality=75",
+            "https://www.wokingnewsandmail.co.uk/tindle-static/image/2022/11/26/09/2017-02-p2-Littlewick-Road-mains-repair-A-1024x768.jpg?width=1024&crop=1:1,smart&quality=75"
+          ],
+          "articleSection": "News",
+          "keywords": "Headlines",
+          "datePublished": "2017-02-10T14:13:41.000Z",
+          "dateCreated": "2017-02-10T14:13:41.000Z",
+          "dateModified": "2017-02-10T15:06:53.000Z",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Editorial Team",
+              "url": "https://www.wokingnewsandmail.co.uk/author/editorial-team"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Woking News and Mail",
+            "url": "https://www.wokingnewsandmail.co.uk",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wokingnewsandmail.co.uk/images/logos/Bude.jpg"
+            }
+          },
+          "description": "LITTLEWICK Road had to be closed in the early hours of Monday after yet another water supply pipe ruptured, adding to the traffic chaos around Woking caused by extensive roadworks in the town centre.",
+          "articleBody": "LITTLEWICK Road had to be closed in the early hours of Monday after yet another water supply pipe ruptured, adding to the traffic chaos around Woking caused by extensive roadworks in the town centre."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une rupture de canalisation principale d'eau a inondé environ 12 maisons à Littlewick Road, Woking, après avoir rompu juste après 4h du matin un lundi, provoquant la fermeture de la route entre Horsell Birch et Lockfield Drive et endommageant des sols et des meubles. Une canalisation en fonte de 15 pouces aurait cédé à cause de la pression des véhicules. Affinity Water a indiqué qu'une section endommagée était remplacée par des matériaux composites et que des indemnisations seraient versées. Parallèlement, un gouffre est réapparu sur Old Woking Road près de White Rose Lane, fermant la route, tandis que des problèmes de canalisations ont affecté l'A320 entre Woking et Chertsey, et que la phase 2 de la gestion du trafic a débuté à Victoria Way.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Woking",
+          "Littlewick Road",
+          "Horsell Birch",
+          "Lockfield Drive",
+          "Old Woking Road",
+          "White Rose Lane",
+          "A320",
+          "Chertsey",
+          "Victoria Way",
+          "Goldsw"
+        ],
+        "ORGANIZATION": [
+          "Woking News and Mail",
+          "Affinity Water"
+        ],
+        "DATE": [
+          "Monday",
+          "early hours of Monday",
+          "just after 4am",
+          "lunchtime on Tuesday",
+          "yesterday",
+          "Wednesday",
+          "the last five years"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "burst watermain",
+          "sinkhole"
+        ]
+      },
+      "score_e5": 0.8001918300972176
+    },
+    {
+      "titre": "BREAKING: Stockport areas face 'no water' in 'emergency ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/MyStockportNews/posts/breaking-stockport-areas-face-no-water-in-emergency-incident/1578145624311784/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2201947870110622",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGl3RdYvQ9TSc5QqZCpFfMpOkq-vvbxZVozjD0EcAHDWAN7bN5",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "BREAKING: Stockport areas face 'no water' in 'emergency ...",
+        "link": "https://www.facebook.com/MyStockportNews/posts/breaking-stockport-areas-face-no-water-in-emergency-incident/1578145624311784/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGl3RdYvQ9TSc5QqZCpFfMpOkq-vvbxZVozjD0EcAHDWAN7bN5",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2201947870110622",
+        "image_width": 2048,
+        "image_height": 1536
+      },
+      "webpage": {
+        "text": "BREAKING:... - My Stockport - Manchester Evening News\n\nMy Stockport - Manchester Evening News\n\n30 Jun ·\n\n\nBREAKING: Stockport areas face 'no water' in 'emergency' incident\n\n83\n\n60\n\n17",
+        "metadata": {
+          "title": "BREAKING:... - My Stockport - Manchester Evening News | Facebook",
+          "og:type": "video.other",
+          "og:title": "My Stockport - Manchester Evening News",
+          "og:description": "BREAKING: Stockport areas face 'no water' in 'emergency' incident",
+          "og:url": "https://www.facebook.com/MyStockportNews/posts/breaking-stockport-areas-face-no-water-in-emergency-incident/1578145624311784/",
+          "og:locale": "en_US",
+          "description": "BREAKING: Stockport areas face 'no water' in 'emergency' incident",
+          "twitter:title": "My Stockport - Manchester Evening News",
+          "twitter:description": "BREAKING: Stockport areas face 'no water' in 'emergency' incident"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication sur Facebook par My Stockport - Manchester Evening News concernant une alerte urgente indiquant que des zones de Stockport font face à une coupure d'eau.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Stockport"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "My Stockport",
+          "Manchester Evening News"
+        ],
+        "DATE": [
+          "30 Jun"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.797544678150434
+    },
+    {
+      "titre": "California Crossroads... - California Crossroads Bulletin",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/Californiacrossroadsbulletin/photos/122139328268212522/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122139328268212522",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI69A6nYku5XfWlzWvz4r8mJuJzqxeCv2CUN7cbeYs2L-MQ25",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "California Crossroads... - California Crossroads Bulletin",
+        "link": "https://www.facebook.com/Californiacrossroadsbulletin/photos/122139328268212522/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI69A6nYku5XfWlzWvz4r8mJuJzqxeCv2CUN7cbeYs2L-MQ25",
+        "thumbnail_width": 172,
+        "thumbnail_height": 292,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122139328268212522",
+        "image_width": 615,
+        "image_height": 1041
+      },
+      "webpage": {
+        "text": "California Crossroads...\n\nFacebook\n\nBuka aplikasi\nLogin\n68 of 105\n\n\nUnggahan seluler\nCalifornia Crossroads Bulletin\n19 Apr 2024 ·\n\n1\n\n\nMemuat...\n\nCoba lagi\nBatal\nMemuat...\n\n\nMemuat...",
+        "metadata": {
+          "title": "California Crossroads... - California Crossroads Bulletin",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "app-id=284882215",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "app-id=284882215",
+          "og:type": "article",
+          "og:title": "California Crossroads... - California Crossroads Bulletin",
+          "og:description": "California Crossroads Bulletin menambahkan foto baru.",
+          "og:url": "https://www.facebook.com/photo.php?fbid=122139328268212522&set=a.122099698604212522&id=61556375670238",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122139328268212522",
+          "og:locale": "en_US",
+          "description": "California Crossroads Bulletin menambahkan foto baru.",
+          "twitter:title": "California Crossroads... - California Crossroads Bulletin",
+          "twitter:description": "California Crossroads Bulletin menambahkan foto baru."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication sur la page Facebook de California Crossroads Bulletin.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "California"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "California Crossroads Bulletin"
+        ],
+        "DATE": [
+          "19 Apr 2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7882077893919709
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Tavistock Road"
+    ],
+    "ORGANIZATION": [
+      "South West Water"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Clive Turner",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Plymouth",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "A38",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tavistock Road",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Devon",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cornwall",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Crownhill",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Whitleigh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Efford",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Woking",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Littlewick Road",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Horsell Birch",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lockfield Drive",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Old Woking Road",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "White Rose Lane",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "A320",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chertsey",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Victoria Way",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Goldsw",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Stockport",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South West Water",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Plymouth City Council",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Compton Primary School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "St Edwards Community Primary School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Widey Court Primary School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Courtlands Special School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "St Boniface Catholic School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Stonehouse Policing Team",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Plymouth Community Homes",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "X",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Twitter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Woking News and Mail",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Affinity Water",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "My Stockport",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Manchester Evening News",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "California Crossroads Bulletin",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "3 December 2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early evening",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early hours of Monday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "just after 4am",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "lunchtime on Tuesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "yesterday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "the last five years",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30 Jun",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "19 Apr 2024",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "burst water main",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "sinkhole",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T01:12:42.084552"
+  }
+}

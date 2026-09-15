@@ -1,0 +1,596 @@
+{
+  "id_rumeur": 1465043,
+  "id_image": 1465043,
+  "caption": "Brazil hosted the 2014 World Cup",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748646/oluyewo_benchmark/iw82dqwuz9o2yewy6tbm.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "World Cup day six: Five things we learned - NZ Herald",
+      "source": "NZ Herald",
+      "lien": "https://www.nzherald.co.nz/sport/football/football-world-cup/world-cup-day-six-five-things-we-learned/72F27YEHNUDCXAEGLMEKESLGGY/",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=576&height=613&quality=70&smart=true",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNn7cmPGtP7zJayE6h_LELWLU9RtHda_bOSgCJZdzkcQ0_6yqv",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "World Cup day six: Five things we learned - NZ Herald",
+        "link": "https://www.nzherald.co.nz/sport/football/football-world-cup/world-cup-day-six-five-things-we-learned/72F27YEHNUDCXAEGLMEKESLGGY/",
+        "source": "NZ Herald",
+        "source_icon": "https://serpapi.com/searches/6a8efebc25882870580d55c0/images/6CjS3IPBpLMXio23mYpMvpW5mdy5nMv3m7TrnDfI7EA.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNn7cmPGtP7zJayE6h_LELWLU9RtHda_bOSgCJZdzkcQ0_6yqv",
+        "thumbnail_width": 232,
+        "thumbnail_height": 218,
+        "image": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=576&height=613&quality=70&smart=true",
+        "image_width": 613,
+        "image_height": 576
+      },
+      "webpage": {
+        "text": "World Cup day six: Five things we learned\n\nOpinion by\n\nMichael Burgess in Brazil\n\nHerald on Sunday·\n\n18 Jun, 2014 01:08 AM3 mins to read\n\nBrazil's Neymar tries to lift the crowd during the group A World Cup soccer match between Brazil and Mexico at the Arena Castelao in Fortaleza, Brazil. Photo / AP\n\nMichael Burgess on the five things we learned following the latest action from the World Cup in Brazil.\n\nDon't mess with 'big Phil'\nWith his polo shirt and tracksuit pants, Brazilian coach Luiz Felipe Scolari looks like your friendly neighbour, who you might have a beer or a BBQ with. But",
+        "metadata": {
+          "title": "World Cup day six: Five things we learned - NZ Herald",
+          "description": "Michael Burgess on the five things we learned following the latest action from the World Cup in Brazil. Don't mess with 'big Phil' With his polo shirt and...",
+          "keywords": "world,cup,day,six,five,things,we,learned,michael,burgess,following,latest,action,from,brazil",
+          "fb:app_id": "34497296301",
+          "fb:pages": "34497296301,315272855536,258352383931,105027142875212,229844183693622,168610521552",
+          "og:title": "World Cup day six: 5 things we learned",
+          "og:url": "https://www.nzherald.co.nz/sport/football/football-world-cup/world-cup-day-six-five-things-we-learned/72F27YEHNUDCXAEGLMEKESLGGY/",
+          "og:description": "Michael Burgess on the five things we learned following the latest action from the World Cup in Brazil.",
+          "og:type": "article",
+          "og:site_name": "NZ Herald",
+          "og:locale": "en_NZ",
+          "og:image:alt": "Brazil's Neymar tries to lift the crowd during the group A World Cup soccer match between Brazil and Mexico at the Arena Castelao in Fortaleza, Brazil. Photo / AP",
+          "article:publisher": "https://www.facebook.com/nzherald.co.nz",
+          "article:tag": "Mobile Sport, Front Page - Top Stories, Opinion",
+          "article:section": "Football World Cup, Sport, Football",
+          "twitter:title": "World Cup day six: 5 things we learned",
+          "twitter:description": "Michael Burgess on the five things we learned following the latest action from the World Cup in Brazil.",
+          "og:image": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=1200&height=675&quality=70&smart=true"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nzherald.co.nz/sport/football/football-world-cup/world-cup-day-six-five-things-we-learned/72F27YEHNUDCXAEGLMEKESLGGY/"
+          },
+          "headline": "World Cup day six: Five things we learned",
+          "datePublished": "2014-06-18T01:08:36Z",
+          "dateModified": "2024-05-07T03:31:34.216Z",
+          "description": "Michael Burgess on the five things we learned following the latest action from the World Cup in Brazil.",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "The New Zealand Herald",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "/pf/resources/logos/default-black.svg?d=1062",
+              "width": 286,
+              "height": 32
+            }
+          },
+          "author": [
+            {
+              "@type": "Person",
+              "name": "By Michael Burgess in Brazil"
+            }
+          ],
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "nzherald.co.nz",
+            "productID": "nzherald.co.nz:NZHfourweekly",
+            "description": "Get the latest breaking news, analysis and opinion from NZ and around the world, including politics, business, sport, entertainment, travel and more.",
+            "sku": "https://www.nzherald.co.nz/my-account/subscription/offers/",
+            "brand": {
+              "@type": "brand",
+              "name": "The New Zealand Herald"
+            }
+          },
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://www.nzherald.co.nz/resizer/A1PSYyHxVguQFH-xCsgZwguUZlw=/arc-anglerfish-syd-prod-nzme/public/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=576&height=613&quality=70&smart=true"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=768&height=432&quality=70&smart=true"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=992&height=558&quality=70&smart=true"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://www.nzherald.co.nz/resizer/v2/5AUPTWNVLNTIDCWTN5R3U4NXPU.jpg?auth=570c00305dc0308157321e19439188f5e83457fb6d1ac3e63e9d97c46041a29c&width=1440&height=810&quality=70&smart=true"
+            }
+          ],
+          "isAccessibleForFree": "true"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Michael Burgess reports on the World Cup in Brazil, specifically covering the group A soccer match between Brazil and Mexico at the Arena Castelao in Fortaleza, where Brazil's Neymar tries to lift the crowd. Brazilian coach Luiz Felipe Scolari is also mentioned.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Burgess",
+          "Neymar",
+          "Luiz Felipe Scolari"
+        ],
+        "LOCATION": [
+          "Brazil",
+          "Fortaleza"
+        ],
+        "ORGANIZATION": [
+          "NZ Herald",
+          "AP"
+        ],
+        "DATE": [
+          "18 Jun, 2014"
+        ],
+        "EVENT": [
+          "World Cup",
+          "World Cup soccer match between Brazil and Mexico"
+        ],
+        "OTHER": [
+          "Arena Castelao"
+        ]
+      },
+      "score_e5": 0.8144878445758741
+    },
+    {
+      "titre": "Neymar Jr scores for Brazil in 2013 FIFA Confederations Cup",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/aston.villa.club/posts/2052171662059708/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1532358868277112&get_thumbnail=1",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd9jjwQ40PJputO8GyiSTs4sElaSvSik9kbtaC6QGWfLnnNKZO",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Neymar Jr scores for Brazil in 2013 FIFA Confederations Cup",
+        "link": "https://www.facebook.com/groups/aston.villa.club/posts/2052171662059708/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd9jjwQ40PJputO8GyiSTs4sElaSvSik9kbtaC6QGWfLnnNKZO",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1532358868277112&get_thumbnail=1",
+        "image_width": 612,
+        "image_height": 612
+      },
+      "webpage": {
+        "text": "Aston Villa Football Club - 🤪 | 13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in ...\n\n13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in Brazil. ⚽🏆🇧🇷 #neymarjr",
+        "metadata": {
+          "title": "Aston Villa Football Club - 🤪 | 13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in ... | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTYxNTkwMDA5Nzc1NDMzOlZLOjIwNTIxNzE2NjIwNTk3MDg=",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTYxNTkwMDA5Nzc1NDMzOlZLOjIwNTIxNzE2NjIwNTk3MDg=",
+          "og:type": "video.other",
+          "og:title": "Aston Villa Football Club - 🤪 | 13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in ... | Facebook",
+          "og:description": "13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in Brazil. ⚽🏆🇧🇷\n#neymarjr",
+          "og:url": "https://www.facebook.com/groups/aston.villa.club/posts/2052171662059708/",
+          "og:image:alt": "Aston Villa Football Club - 🤪 | 13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in ... | Facebook",
+          "og:image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/720524211_1532358891610443_5593330761821866692_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c26028&_nc_ohc=dN5DCoVedCsQ7kNvwEodLTv&_nc_oc=AdrMeOLWXyJIdxblUiZZ-BbRmx1lZMzovHJyGiq2b_ptW4OOwzpPsfU5hf7_cACmg6VaFmqZHdRRxZuuyIxk7tjs&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=y7IsxQ8EK3kqiPggGA1klA&_nc_ss=70100&oh=00_AQJ1XxhwBzdrTOVcHOoBiNKm01rHvIW-YuKkHKqj6vwJ9A&oe=6AA3DE46",
+          "og:locale": "en_US",
+          "description": "13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in...",
+          "twitter:title": "Aston Villa Football Club - 🤪 | 13 years ago today, Neymar Jr scored...",
+          "twitter:description": "13 years ago today, Neymar Jr scored for Brazil beat Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in Brazil. ⚽🏆🇧🇷\n#neymarjr"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Neymar Jr scored for Brazil against Japan in the opening match of the FIFA Confederations Cup 2013 at the Mané Garrincha Stadium in Brazil.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Neymar Jr"
+        ],
+        "LOCATION": [
+          "Brazil",
+          "Japan"
+        ],
+        "ORGANIZATION": [
+          "Aston Villa Football Club",
+          "Facebook"
+        ],
+        "DATE": [
+          "2013",
+          "13 years ago today"
+        ],
+        "EVENT": [
+          "FIFA Confederations Cup 2013"
+        ],
+        "OTHER": [
+          "Mané Garrincha Stadium"
+        ]
+      },
+      "score_e5": 0.7694897871016503
+    },
+    {
+      "titre": "GALLERY: Stars and Strikes. Top scorers in the 2014 Fifa ...",
+      "source": "Spin.ph",
+      "lien": "https://www.spin.ph/football/fifa/photo-gallery-top-scorers-in-the-2014-fifa-world-cup-brazil-miroslav-klose-james-rodriguez-lionel-messi",
+      "image_url": "https://contents.spin.ph/image/Fifa_Neymar1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLlYHNWYVuPrdF6PaS13gj1qLy8g-t5jQEkXKhAbkr24F5Vu4",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "GALLERY: Stars and Strikes. Top scorers in the 2014 Fifa ...",
+        "link": "https://www.spin.ph/football/fifa/photo-gallery-top-scorers-in-the-2014-fifa-world-cup-brazil-miroslav-klose-james-rodriguez-lionel-messi",
+        "source": "Spin.ph",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQrxhqSnDHWBV336dbpTbXqCpZhhz1LK5xpU6ccj14bgjRi_cwsFEGas9lCHNvcN_JQYll4tvWitXmx7RcFLmK-IEImrXjDcb2t9TzLSaWp8A",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLlYHNWYVuPrdF6PaS13gj1qLy8g-t5jQEkXKhAbkr24F5Vu4",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://contents.spin.ph/image/Fifa_Neymar1.jpg",
+        "image_width": 421,
+        "image_height": 635
+      },
+      "webpage": {
+        "text": "GALLERY: Stars and Strikes. Top scorers in the 2014 Fifa World Cup\n\n1 of 11\n\n\nADVERTISEMENT - CONTINUE READING BELOW ↓\n\nGet more of the latest sports news & updates on SPIN.ph\n\nNOTICE ON UNAUTHORIZED AND UNLAWFUL USE, PUBLICATION, AND/OR DISSEMINATION OF SPIN.PH CONTENT: Please be notified that any unauthorized and unlawful use, publication, and/or dissemination of Spin.ph’s content and/or materials is a direct violation of its legal and exclusive rights to the same, and shall be subject to appropriate legal action/s.",
+        "metadata": {
+          "title": "GALLERY: Stars and Strikes. Top scorers in the 2014 Fifa World Cup",
+          "description": "The top scorers in the 2014 Fifa World Cup in Brazil",
+          "keywords": "2014 fifa world cup,top goals picture gallery,top scorers photo gallery,miroslav klose,james rodriguez,lionel messi,andre schurrle,thomas muller,enner valencia,sherdan shaqiri,robin van persie,arjen robben,karim benzema",
+          "fb:app_id": "255307031257465",
+          "fb:pages": "221332367969808",
+          "og:url": "https://www.spin.ph/football/fifa/photo-gallery-top-scorers-in-the-2014-fifa-world-cup-brazil-miroslav-klose-james-rodriguez-lionel-messi",
+          "og:title": "GALLERY: Stars and Strikes. Top scorers in the 2014 Fifa World Cup",
+          "og:description": "The top scorers in the 2014 Fifa World Cup in Brazil",
+          "og:type": "article",
+          "og:site_name": "Spin.ph",
+          "og:image": "http://contents.spin.ph/image/FIFA_Andre-SCHUERRLE.jpg",
+          "og:image:secure_url": "https://contents.spin.ph/image/FIFA_Andre-SCHUERRLE.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "628",
+          "twitter:title": "GALLERY: Stars and Strikes. Top scorers in the 2014 Fifa World Cup",
+          "twitter:description": "The top scorers in the 2014 Fifa World Cup in Brazil",
+          "published_time": "00:00, 14.07.14"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Top scorers in the 2014 Fifa World Cup in Brazil gallery featuring players such as Miroslav Klose, James Rodriguez, and Lionel Messi, published by Spin.ph.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Miroslav Klose",
+          "James Rodriguez",
+          "Lionel Messi"
+        ],
+        "LOCATION": [
+          "Brazil"
+        ],
+        "ORGANIZATION": [
+          "Spin.ph"
+        ],
+        "DATE": [
+          "2014"
+        ],
+        "EVENT": [
+          "2014 Fifa World Cup"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8065058955985512
+    },
+    {
+      "titre": "Legit.ng - Legit.ng added a new photo.",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/legitngnews/photos/3717653991664804/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3717653991664804",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr3sUGiWrQfvoCjL3hfCP9OO9lgS10KPUOQeELsmSY1IggKVwi",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Legit.ng - Legit.ng added a new photo.",
+        "link": "https://www.facebook.com/legitngnews/photos/3717653991664804/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr3sUGiWrQfvoCjL3hfCP9OO9lgS10KPUOQeELsmSY1IggKVwi",
+        "thumbnail_width": 192,
+        "thumbnail_height": 263,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3717653991664804",
+        "image_width": 747,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Legit.ng\n\nFacebook\n\nOpen app\n\n4 of 4\n\n\nPhotos\n\nLegit.ng \n\nOct 14, 2020 ·\n\n3",
+        "metadata": {
+          "title": "Legit.ng - Legit.ng added a new photo.",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "app-id=284882215",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "app-id=284882215",
+          "og:type": "article",
+          "og:title": "Legit.ng - Legit.ng added a new photo.",
+          "og:description": "Legit.ng added a new photo.",
+          "og:url": "https://www.facebook.com/photo.php?fbid=3717653991664804&set=a.550923463920734&id=100070092566221",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3717653991664804",
+          "og:locale": "en_US",
+          "description": "Legit.ng added a new photo.",
+          "twitter:title": "Legit.ng - Legit.ng added a new photo.",
+          "twitter:description": "Legit.ng added a new photo."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Legit.ng added a new photo on Facebook.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Legit.ng",
+          "Facebook"
+        ],
+        "DATE": [
+          "Oct 14, 2020"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6593368331366602
+    },
+    {
+      "titre": "Brazil wear yellow shirts with green trim, blue shorts, and ...",
+      "source": "x.com",
+      "lien": "https://x.com/ptmcd92/status/1007247306553479168",
+      "image_url": "https://pbs.twimg.com/media/Dfp2FM1X0AABVt2.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1YgSyY11uAIZK7B9ituxVKBTAI-P2kB2jvCV4-h3THq6KjDgN",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Brazil wear yellow shirts with green trim, blue shorts, and ...",
+        "link": "https://x.com/ptmcd92/status/1007247306553479168",
+        "source": "x.com",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSofvqtbDtdUTZsANJSe_PTSgsuDSmzMNykD5ePbsMk3EyTY0EoF56jNp_rHuufm9BtNpZYsFhp9M6u-DLxqcg2x-FRa41-OCrNmA",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1YgSyY11uAIZK7B9ituxVKBTAI-P2kB2jvCV4-h3THq6KjDgN",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://pbs.twimg.com/media/Dfp2FM1X0AABVt2.jpg",
+        "image_width": 420,
+        "image_height": 630
+      },
+      "webpage": null,
+      "texte_contexte": "Brazil wear yellow shirts with green trim, blue shorts.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brazil"
+        ],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "yellow shirts",
+          "blue shorts"
+        ]
+      },
+      "score_e5": 0.7398066633910876
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Brazil"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "2014"
+    ],
+    "EVENT": [
+      "World Cup"
+    ],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Burgess",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Neymar",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Luiz Felipe Scolari",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Miroslav Klose",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "James Rodriguez",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lionel Messi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fortaleza",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NZ Herald",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Aston Villa Football Club",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Spin.ph",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Legit.ng",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "18 Jun, 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "13 years ago today",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Oct 14, 2020",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "World Cup",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "World Cup soccer match between Brazil and Mexico",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "FIFA Confederations Cup 2013",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Arena Castelao",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Mané Garrincha Stadium",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "yellow shirts",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "blue shorts",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:42:38.379648"
+  }
+}

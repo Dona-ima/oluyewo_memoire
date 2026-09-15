@@ -1,0 +1,786 @@
+{
+  "id_rumeur": 447794,
+  "id_image": 88675,
+  "caption": "A recordbreaking version of the Romanian flag in Bucharest",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756796/oluyewo_benchmark/fqf79rix03djw90emhby.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Around the world, landmark lights reflect unity with France ...",
+      "source": "Orange County Register",
+      "lien": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/",
+      "image_url": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1200&resize=1200,900",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosCQq75OTDlviPgh0CYRKqfwpbnThDhCjJHGMjeA3LNBp7K4a",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Around the world, landmark lights reflect unity with France ...",
+        "link": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/",
+        "source": "Orange County Register",
+        "source_icon": "https://serpapi.com/searches/6a8f00fde3e1761c9d6be09c/images/ZuFly95f3O-oKCBNaTXoNsdVMAFaE3cnvUyLCJhmyXU.jpeg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosCQq75OTDlviPgh0CYRKqfwpbnThDhCjJHGMjeA3LNBp7K4a",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1200&resize=1200,900",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Around the world, landmark lights reflect unity with France – Orange County Register\n\nThe National Gallery is lit up in the colors of the French flag in solidarity with France after the deadly attacks in Paris, in London, Saturday, Nov. 14, 2015. French President Francois Hollande said more than 120 people died Friday night in shootings at Paris cafes, suicide bombings near France's national stadium and a hostage-taking slaughter inside a concert hall.\n\n1 of 24\n\nThe National Gallery is lit up in the colors of the French flag in solidarity with France after the deadly attacks in Paris, in London, Saturday, Nov. 14, 2015. French President Francois Hollande said more than 120 people died Friday night in shootings at Paris cafes, suicide bombings near France's national stadium and a hostage-taking slaughter inside a concert hall.\n\nExpand\n\nLandmarks around the world reflect the colors of the French flag in an expression of unity.",
+        "metadata": {
+          "title": "Around the world, landmark lights reflect unity with France &#8211; Orange County Register",
+          "mrf:authors": "Orange County Register",
+          "mrf:canonical": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/",
+          "fb:pages": "6883399629",
+          "og:type": "article",
+          "og:title": "Around the world, landmark lights reflect unity with France",
+          "og:url": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/",
+          "og:description": "Landmarks around the world reflect the colors of the French flag in an expression of unity.",
+          "article:published_time": "2015-11-14T11:00:00+00:00",
+          "article:modified_time": "2015-11-14T11:00:00+00:00",
+          "og:site_name": "Orange County Register",
+          "og:image": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1200&h=785",
+          "og:image:width": "1200",
+          "og:image:height": "785",
+          "og:locale": "en_US",
+          "twitter:text:title": "Around the world, landmark lights reflect unity with France"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Around the world, landmark lights reflect unity with France",
+          "url": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/"
+          },
+          "thumbnailUrl": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.ocregister.com/wp-content/uploads/migration/nxt/nxtmgb-macedoniafranceparisattacksxbg115.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "News",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Orange County Register",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.ocregister.com/author/orange-county-register/"
+            }
+          ],
+          "creator": [
+            "Orange County Register"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Orange County Register",
+            "logo": "https://www.ocregister.com/wp-content/uploads/2017/04/ocr_icon11.jpg?w=600"
+          },
+          "keywords": [
+            "news"
+          ],
+          "dateCreated": "2015-11-14T11:00:00Z",
+          "datePublished": "2015-11-14T11:00:00Z",
+          "dateModified": "2015-11-14T11:00:00Z",
+          "isBasedOn": "https://www.ocregister.com/2015/11/14/around-the-world-landmark-lights-reflect-unity-with-france/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "The National Gallery in London is lit up in the colors of the French flag in solidarity with France following deadly attacks in Paris on Friday night, November 14, 2015. Landmarks around the world reflect the colors of the French flag to express unity. French President Francois Hollande reported that more than 120 people died in shootings at Paris cafes, suicide bombings near France's national stadium, and a hostage-taking slaughter inside a concert hall.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Francois Hollande"
+        ],
+        "LOCATION": [
+          "London",
+          "France",
+          "Paris"
+        ],
+        "ORGANIZATION": [
+          "Orange County Register",
+          "The National Gallery"
+        ],
+        "DATE": [
+          "Nov. 14, 2015",
+          "Friday night"
+        ],
+        "EVENT": [
+          "attacks in Paris"
+        ],
+        "OTHER": [
+          "French flag"
+        ]
+      },
+      "score_e5": 0.7709681437839706
+    },
+    {
+      "titre": "Skopje, North Macedonia 🇲🇰",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/BestDestinationsToTravel/posts/1130483617540823/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10222070770110851",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxRMlWREmRIoFiPMgGXHovgUs__pgeylbIhhMj5ugW5-HXCyk4",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Skopje, North Macedonia 🇲🇰",
+        "link": "https://www.facebook.com/groups/BestDestinationsToTravel/posts/1130483617540823/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxRMlWREmRIoFiPMgGXHovgUs__pgeylbIhhMj5ugW5-HXCyk4",
+        "thumbnail_width": 151,
+        "thumbnail_height": 335,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10222070770110851",
+        "image_width": 923,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Best Destinations To Travel | Skopje, North Macedonia 🇲🇰\n\nBest Destinations To Travel\n\nПетревски Илија · Jul 31, 2022\n\n·\n\n\nSkopje, North Macedonia 🇲🇰\n\n\n185\n\n\n9",
+        "metadata": {
+          "title": "Best Destinations To Travel | Skopje, North Macedonia 🇲🇰 | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTE2MTAwMDI4NjM6Vks6MTEzMDQ4MzYxNzU0MDgyMw==",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTE2MTAwMDI4NjM6Vks6MTEzMDQ4MzYxNzU0MDgyMw==",
+          "og:type": "video.other",
+          "og:title": "Best Destinations To Travel | Skopje, North Macedonia 🇲🇰 | Facebook",
+          "og:description": "Skopje, North Macedonia 🇲🇰",
+          "og:url": "https://www.facebook.com/groups/BestDestinationsToTravel/posts/1130483617540823/",
+          "og:image:alt": "Best Destinations To Travel | Skopje, North Macedonia 🇲🇰 | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10222070770110851",
+          "og:locale": "en_US",
+          "description": "Skopje, North Macedonia 🇲🇰",
+          "twitter:title": "Best Destinations To Travel | Skopje, North Macedonia 🇲🇰 | Facebook",
+          "twitter:description": "Skopje, North Macedonia 🇲🇰"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Skopje, North Macedonia.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Петревски Илија"
+        ],
+        "LOCATION": [
+          "Skopje",
+          "North Macedonia"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Best Destinations To Travel"
+        ],
+        "DATE": [
+          "Jul 31, 2022"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "View From Downtown Skopje The Macedonian Capital Stock Photo ...",
+      "source": "iStock",
+      "lien": "https://www.istockphoto.com/photo/view-from-downtown-skopje-the-macedonian-capital-gm901798298-248782301",
+      "image_url": "https://media.istockphoto.com/id/901798298/photo/view-from-downtown-skopje-the-macedonian-capital.jpg?s=612x612&w=0&k=20&c=QIGsMb7uJne3n7MKiSBbOKhLPDVEKLkc2B4KnsKT3hc=",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPSN3fhOANvUpkmPPGzou0Gdf0rD1tDCNDGhrd15blZzT7lgnW",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "View From Downtown Skopje The Macedonian Capital Stock Photo ...",
+        "link": "https://www.istockphoto.com/photo/view-from-downtown-skopje-the-macedonian-capital-gm901798298-248782301",
+        "source": "iStock",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUMDQ3___8rKyujpKRnaGjh4eHCw8Pw8PBJSkobHBxYWVmFhoaVlZU6OzvS0tJ2d3eztLQ1KUR1AAAA50lEQVQ4ja2SWxbDIAhEBcF3ku5_tUXNQ1LTn3a-VO6BETDmT8I4XtStalkBSj_G7EDkXzQCXN9yPW0eDvGFhP4gpwyjggZWY0jFy5khthK0l_KFQrIMPDjFFfwmXlsc-1NB9Y9Gpwq8vjSjWbCzSGER9hKX90G2BqRmb4LFR2DbP-joAbgaxTQHDPGJhClgMJ8ITYGaxd1ncQMkje1eH4HDbXwGTCuTvgBW2TyA6JLKEG5AlNXMPRFNPaytQTbJvoAebAcCaHm8AQZZxU8_47AuhJexLU7UHEVydSn8x8BHRfzcmF_0Bi1OBTP5wmrAAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPSN3fhOANvUpkmPPGzou0Gdf0rD1tDCNDGhrd15blZzT7lgnW",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.istockphoto.com/id/901798298/photo/view-from-downtown-skopje-the-macedonian-capital.jpg?s=612x612&w=0&k=20&c=QIGsMb7uJne3n7MKiSBbOKhLPDVEKLkc2B4KnsKT3hc=",
+        "image_width": 408,
+        "image_height": 612
+      },
+      "webpage": {
+        "text": "iStock\n\n526568216, danilovi\n\n\n©2026 iStockphoto LP. The iStock design is a trademark of iStockphoto LP.",
+        "metadata": {
+          "title": "iStock",
+          "description": "iStock. Explore the official iStock website for millions of exclusive, royalty-free, stock files. Find the perfect stock for your project, fast. Search now."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "View from downtown Skopje, the Macedonian capital.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "danilovi"
+        ],
+        "LOCATION": [
+          "Skopje"
+        ],
+        "ORGANIZATION": [
+          "iStock",
+          "iStockphoto LP"
+        ],
+        "DATE": [
+          "2026"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.759048399911996
+    },
+    {
+      "titre": "Dimitar Vlahov Walk and Bridge of Civilizationsm Skopje",
+      "source": "Pinterest",
+      "lien": "https://www.pinterest.com/pin/archeological-museum-of-macedonia-skopje--354517801912982622/",
+      "image_url": "https://i.pinimg.com/736x/4a/9e/9a/4a9e9aedbe23db780d4da07de642ec98.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbuOHVWDkH4tFGnkGxdLmqFoXRO3q1lwPgF-w85h-7EPI8Hami",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Dimitar Vlahov Walk and Bridge of Civilizationsm Skopje",
+        "link": "https://www.pinterest.com/pin/archeological-museum-of-macedonia-skopje--354517801912982622/",
+        "source": "Pinterest",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVHcEzmACPmACLmACPmASPmASPmBCXlACLnDyzmACL-8PPmACLmABv____mACP____mABzlAAHmABD72N3vdoL5zNLqL0bpFDTyiJT95OjrOVLpIDz2rrj1nKfsS1zuXW7_-Pr4v8Xvb3zf0ogQAAAADnRSTlMA0ZvC9uoiD0yL_BejH6YQQd8AAAGZSURBVDiNZVNZooMgDKTu2wMDdddae_9DvixKaZsfMRmSSTIo5S0rojjVOomjIlO_lpcYvCxtviF5qb-szMN4ffuOa30LEEVyeVu065wU_v4ZtwDDPC8AVkBJfdaX_O3w6gybG3sbVhF-dnHG2zSDMOX2JX5_YqByXefoYDZBUIqG8_fkHh-D1sO-EmK3Z4qM5zNMxhwLcAst7IieejqnmSqkAN7BDrEB_h0pHR8LFdEHkODLto9jEjdUyIdZRCpmB6ckmOHMsOGJobFKeATGdJiAybVXyZlJKH0BgL3ifgO0kim8AeBJ9wJIT1Kdbnf0ruDbkH0ISbuZ526RqrlLF7iVCYRkJIN0WENjb8yx1TRsK20WskrYVqDCL0ucKYFwLM5RYxULB62aptn5QeKolVfjIPt2_BGyuiG9XGp74Hy3UxDj6czeguHeHfSHm9y6yH0RzCU5bBUTt3bph1OTXtgiWloVTSGQdf0he3ia6uGDOpS9VME5HhDEb7UKLC8HBIQJPp8eibupVp8g_QmT_eHzRzLp5_P_Bz-7MqZ6c7zJAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbuOHVWDkH4tFGnkGxdLmqFoXRO3q1lwPgF-w85h-7EPI8Hami",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.pinimg.com/736x/4a/9e/9a/4a9e9aedbe23db780d4da07de642ec98.jpg",
+        "image_width": 552,
+        "image_height": 736
+      },
+      "webpage": {
+        "text": "Archeological Museum of Macedonia, Skopje | Skopje city, Skopje aesthetic, Macedonia capital",
+        "metadata": {
+          "title": "Archeological Museum of Macedonia, Skopje | Skopje city, Skopje aesthetic, Macedonia capital",
+          "fb:app_id": "274266067164",
+          "og:site_name": "Pinterest",
+          "og:image": "https://i.pinimg.com/736x/4a/9e/9a/4a9e9aedbe23db780d4da07de642ec98.jpg",
+          "og:image:height": "552",
+          "og:image:width": "736",
+          "og:type": "pinterestapp:pin",
+          "og:updated_time": "2018-06-07T11:37:52.000Z",
+          "og:url": "https://www.pinterest.com/pin/how-to-spend-a-3day-weekend-in-skopje-macedonia--455637687316066403/",
+          "twitter:image:src": "https://i.pinimg.com/736x/4a/9e/9a/4a9e9aedbe23db780d4da07de642ec98.jpg",
+          "pinterestapp:repins": "0",
+          "twitter:title": "Archeological Museum of Macedonia, Skopje | Skopje city, Skopje aesthetic, Macedonia capital",
+          "og:title": "Archeological Museum of Macedonia, Skopje | Skopje city, Skopje aesthetic, Macedonia capital",
+          "description": "Discover the rich history of Macedonia at the Archeological Museum in Skopje, showcasing ancient artifacts and cultural heritage. North macedonia, Macedonia skopje, The balkans",
+          "og:description": "Discover the rich history of Macedonia at the Archeological Museum in Skopje, showcasing ancient artifacts and cultural heritage. North macedonia, Macedonia skopje, The balkans",
+          "twitter:description": "Discover the rich history of Macedonia at the Archeological Museum in Skopje, showcasing ancient artifacts and cultural heritage. North macedonia, Macedonia skopje, The balkans",
+          "og:see_also": "https://www.flickr.com/photos/twiga_swala/33303083534",
+          "pinterestapp:source": "https://www.flickr.com/photos/twiga_swala/33303083534",
+          "robots": "max-image-preview:large",
+          "pinterestapp:pinboard": "https://www.pinterest.com/husniyedogrul/macedonia/",
+          "pinterestapp:pinner": "https://www.pinterest.com/husniyedogrul/"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Archeological Museum of Macedonia in Skopje, showing the Dimitar Vlahov Walk and Bridge of Civilizations.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Skopje",
+          "Macedonia"
+        ],
+        "ORGANIZATION": [
+          "Pinterest"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Archeological Museum of Macedonia",
+          "Dimitar Vlahov Walk",
+          "Bridge of Civilizations"
+        ]
+      },
+      "score_e5": 0.7574883462109467
+    },
+    {
+      "titre": "Skopje, Macedonia: Kitsch capital of the Balkans – The Times ...",
+      "source": "The Times Herald",
+      "lien": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/",
+      "image_url": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1600&resize=1600,900",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKC4tsJyXjT3UYGA-KRmM-bjHgTKoOb8_GkMgFMHEeyflJAEc7",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Skopje, Macedonia: Kitsch capital of the Balkans – The Times ...",
+        "link": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/",
+        "source": "The Times Herald",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAzFBMVEX____e3t7KysrR0dH49_fb29vr6-vU1NSxsbHIyMj1-Prf7fWDuNdPmcQ8kMBIl8RkqM6x0ubS5O_q8veZwdi2ydS_2ehDjbROiao3hq8eeKcAcKkAaKIVeK18q8LZ4OSWusurvsdmoL2BprmYtMK00d7M1Ndsrssql8U-krT37uqAxN5zq8Asn8o-mrskirikw9IHXJc1bpaYp7IAVpxTg6LTy8ZcgZqLorJpi6Kyr63HwLtxnLmkqKtJhrB-kJwbZJgBY6VFcZCbm5tK4gHjAAAA00lEQVQYlX2MbVeCQBCFZ5ad2V0zepPUgIQCMnoDJFRQSfv__6ml0-eeD_fMfe45A_A_o988G5-7F5fjq-ubiTf02-lsfucHQeCHMxz2e2cR0XIePzwmKK1Is9FTJpfPnObSApLzl9dcvr1zyn9i8RHn7E6pQGaWwFiUGsmvRKKQiAHVpFwRhZVJhFIKAZuo_mxUuDaJcbwYgUwclBtv25pNl-32CMp0u_p4WBkRFYdeEzhat9uv-hi6ftW3WoHQ1uz79enUf7daO_aHsDRN1w2HwR-aRBU6F6_EAQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKC4tsJyXjT3UYGA-KRmM-bjHgTKoOb8_GkMgFMHEeyflJAEc7",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1600&resize=1600,900",
+        "image_width": 900,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Skopje, Macedonia: Kitsch capital of the Balkans – The Times Herald\n\nSKOPJE, Macedonia (AP) – Winston Churchill is flashing his trademark victory sign from the rooftop of Macedonia’s shining white new foreign ministry building.\n\nAlexander the Great is pointing his mighty sword from the top of a mega water fountain that airs classical music on the hour, as sprinkling water dances to the sound of its tunes.\n\nAlexander’s father, Philip II, is standing firmly on a tall marble pedestal, his fist lifted toward the sky, surrounded by drab communist-style apartment blocks and garbage littering the streets of Macedonia’s capital.\n\nAll those grandiose buildings, monuments, fountains and bridges – some completed, others under construction – are dotting the city center as part of a government project called Skopje 2014, officially intended to rebuild a city that lost many of its landmarks in a 1963 earthquake.\n\nOne of Europe’s biggest urban endeavors has been criticized by many Macedonians who describe it as kitsch aimed at distracting the general public from the small Balkan country’s problems – such as a devastated economy and unemployment that hovers around 30 percent.\n\nThe project which started in 2008 generated controversy for the construction costs of some 20 new buildings and as many as 40 monuments – estimated to range between (euro) 80 million ($104 million) to (euro) 500 million ($650 million) depending on the government or unofficial figures.\n\nIt has also split local residents, some saying the money could have been spent more wisely on the construction of new apartment buildings, factories or roads, and others claiming the project is a matter of national pride.\n\n‘They shouldn’t have built so many monuments in such a short period of time,’ said Dimitrije Markozanski, a painter. ‘It should have been done more gradually. I am a painter by profession, and we like this, but it does feel a bit cluttered. But you can’t join the European Union with a small town mentality. This city should be a metropolis.’\n\nThe tension over the venture reached its height in March 2009 when a group of Skopje’s architecture university students tried to protest peacefully against the project, and were beaten by nationalist party activists in the presence of the police and media.\n\nThe centerpiece of the construction bonanza is the 28-meter (92-foot) tall bronze equestrian colossus called ‘Warrior on a Horse’ – a monument that bears an uncanny resemblance to Alexander the Great, the ancient hero of Greece.\n\nOfficials were careful not to name it outright after Alexander the Great because Macedonia and Greece have been locked in a 21-year dispute over the right to claim the region’s ancient heritage. Greece says its northern neighbor is falsely laying claim to its name, history and ancient heritage and has blocked Macedonia’s accession to the European Union and NATO.\n\nMacedonians, however, claim they have the same right as Greeks to call themselves descendants of Alexander, arguing that Macedonia in ancient times was one geographical territory, and its heroes now belong to everyone living in the separate states.\n\nOne of the main symbols of the project is Porta Macedonia, a triumphal arch situated near the main Macedonia square. The 21-meter-tall (70 foot) arch is meant to commemorate the long struggle for Macedonian independence – the country became independent of Yugoslavia in 1991 – and 32 reliefs carved on the outside depict events from centuries of earlier history and struggles.\n\nAmong the many monumental buildings under construction on the banks of the Vardar river dividing the city are a new archaeology museum, a dome-shaped cylindrical financial police headquarters and communications ministry – all in different neo-classical and baroque styles. The new ornate foreign ministry building has dozens of statues of late foreign dignitaries standing on its roof edge, including Churchill and American presidents George Washington and Abraham Lincoln.\n\nTwo pedestrian bridges over the river, a dozen meters (yards) between each other, are being completed. One is the Art Bridge that includes 29 bronze sculptures of known Macedonian painters, writers, composers and musicians.\n\nBesides Alexander the Great, his father, Philip II, and his mother, Olimpias of Epirus, monuments of other notable historical figures linked to Macedonian history are newly present in the city of some 470,000 people, including Mother Teresa, the late Nobel Prize winner for her Catholic charity work who was born in Skopje.\n\n‘People are a bit surprised and it takes time to get used to this,’ said Ljupco Licovski, a retired doctor, as he walked over the Macedonia square. ‘The economic situation is not very good, so this does stick out in people’s minds.’",
+        "metadata": {
+          "title": "Skopje, Macedonia: Kitsch capital of the Balkans &#8211; The Times Herald",
+          "mrf:authors": "Times Herald",
+          "mrf:canonical": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/",
+          "og:type": "article",
+          "og:title": "Skopje, Macedonia: Kitsch capital of the Balkans",
+          "og:url": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/",
+          "og:description": "SKOPJE, Macedonia (AP) – Winston Churchill is flashing his trademark victory sign from the rooftop of Macedonia’s shining white new foreign ministry building.\r\nAlexander the Great is pointing his mighty sword from the top of a…",
+          "article:published_time": "2012-10-31T06:14:53+00:00",
+          "article:modified_time": "2021-09-24T12:10:11+00:00",
+          "og:site_name": "The Times Herald",
+          "og:image": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1200&h=785",
+          "og:image:width": "1200",
+          "og:image:height": "785",
+          "og:locale": "en_US",
+          "twitter:text:title": "Skopje, Macedonia: Kitsch capital of the Balkans"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Skopje, Macedonia: Kitsch capital of the Balkans",
+          "url": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/"
+          },
+          "thumbnailUrl": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.timesherald.com/wp-content/uploads/migration/2012/10/85711e761d875994036c6f738a6b20fc.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "News",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Times Herald",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.timesherald.com/author/times-herald/"
+            }
+          ],
+          "creator": [
+            "Times Herald"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "The Times Herald",
+            "logo": "https://www.timesherald.com/wp-content/uploads/2021/09/timesheraldfall.jpeg?w=600"
+          },
+          "keywords": [
+            "news"
+          ],
+          "dateCreated": "2012-10-31T06:14:53Z",
+          "datePublished": "2012-10-31T06:14:53Z",
+          "dateModified": "2021-09-24T12:10:11Z",
+          "isBasedOn": "https://www.timesherald.com/2012/10/31/skopje-macedonia-kitsch-capital-of-the-balkans/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Skopje, Macedonia features various monuments and buildings constructed as part of the Skopje 2014 government project, intended to rebuild the city after a 1963 earthquake. Landmarks include a monument of Winston Churchill on the foreign ministry building, a mega water fountain with a statue resembling Alexander the Great ('Warrior on a Horse'), and a monument of Philip II. The project has generated controversy and criticism regarding its costs, design, and political tensions involving Greece regarding ancient heritage and European Union and NATO accession.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Winston Churchill",
+          "Alexander the Great",
+          "Philip II",
+          "Dimitrije Markozanski"
+        ],
+        "LOCATION": [
+          "Skopje",
+          "Macedonia",
+          "Balkans",
+          "Greece",
+          "European Union",
+          "NATO"
+        ],
+        "ORGANIZATION": [
+          "The Times Herald",
+          "AP"
+        ],
+        "DATE": [
+          "1963",
+          "2012",
+          "2008",
+          "March 2009"
+        ],
+        "EVENT": [
+          "1963 earthquake"
+        ],
+        "OTHER": [
+          "Skopje 2014",
+          "Warrior on a Horse"
+        ]
+      },
+      "score_e5": 0.742973717352254
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Bucharest",
+      "Romania"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Romanian flag"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Francois Hollande",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Петревски Илија",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "danilovi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Winston Churchill",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alexander the Great",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Philip II",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dimitrije Markozanski",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Skopje",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Macedonia",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Balkans",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greece",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "European Union",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "NATO",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Orange County Register",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The National Gallery",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Best Destinations To Travel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "iStock",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "iStockphoto LP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pinterest",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Times Herald",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Nov. 14, 2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday night",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jul 31, 2022",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1963",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 2009",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "attacks in Paris",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "1963 earthquake",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "French flag",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Archeological Museum of Macedonia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Dimitar Vlahov Walk",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Bridge of Civilizations",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Skopje 2014",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Warrior on a Horse",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:12:56.226155"
+  }
+}

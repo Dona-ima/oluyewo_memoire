@@ -1,0 +1,449 @@
+{
+  "id_rumeur": "788160",
+  "id_image": "164715",
+  "caption": "The federal regulator has stipulated that the salmon may only be raised in landbased secure hatcheries in Panama and Canada which it will monitor",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122900/164715.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "17 mesmerizing photos of abstract aerial views of our world - The Washington Post",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/news/in-sight/wp/2015/09/01/17-mesmerizing-photos-of-abstract-aerial-views-of-our-world/",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=800&h=600",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzaehBfLlGMBBYv27agbHHABW958zulb-N84jaSxkaM1kWaPzq",
+      "rang_lens": 1,
+      "brut": {
+        "title": "17 mesmerizing photos of abstract aerial views of our world - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/news/in-sight/wp/2015/09/01/17-mesmerizing-photos-of-abstract-aerial-views-of-our-world/",
+        "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=800&h=600",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzaehBfLlGMBBYv27agbHHABW958zulb-N84jaSxkaM1kWaPzq"
+      },
+      "webpage": {
+        "text": "17 mesmerizing photos of abstract aerial views of our world\n\nInspired by the view that astronauts experience when looking straight down on the Earth from space, Daily Overview has been featuring overviews of our world with the mission of showing  the impact that the human imprint has had on the planet on a much larger scale. Below, In Sight highlighted 17 places whose industrial sites and fields  could be viewed as abstract mosaics or watercolor paintings.",
+        "metadata": {
+          "title": "17 mesmerizing photos of abstract aerial views of our world - The Washington Post",
+          "description": "17 places on earth where the landscapes mimic abstract mosaics or watercolor paintings",
+          "og:site_name": "The Washington Post",
+          "og_site_name": "The Washington Post",
+          "og:type": "article",
+          "og_type": "article",
+          "og:url": "https://www.washingtonpost.com/news/in-sight/wp/2015/09/01/17-mesmerizing-photos-of-abstract-aerial-views-of-our-world/",
+          "og_url": "https://www.washingtonpost.com/news/in-sight/wp/2015/09/01/17-mesmerizing-photos-of-abstract-aerial-views-of-our-world/",
+          "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=1440",
+          "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=1440",
+          "og:title": "17 mesmerizing photos of abstract aerial views of our world",
+          "og_title": "17 mesmerizing photos of abstract aerial views of our world",
+          "og:description": "17 places on earth where the landscapes mimic abstract mosaics or watercolor paintings",
+          "og_description": "17 places on earth where the landscapes mimic abstract mosaics or watercolor paintings",
+          "twitter:title": "17 mesmerizing photos of abstract aerial views of our world",
+          "twitter:description": "17 places on earth where the landscapes mimic abstract mosaics or watercolor paintings",
+          "article:published_time": "2015-09-01T04:00:50.000Z",
+          "article_published_time": "2015-09-01T04:00:50.000Z",
+          "article:modified_time": "2021-10-27T05:18:46.506Z",
+          "article_modified_time": "2021-10-27T05:18:46.506Z",
+          "article:section": "In Sight",
+          "article_section": "In Sight",
+          "article:content_tier": "metered",
+          "article_content_tier": "metered",
+          "og_author": "Nicole Crowder"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.washingtonpost.com/news/in-sight/wp/2015/09/01/17-mesmerizing-photos-of-abstract-aerial-views-of-our-world/",
+          "headline": "17 mesmerizing photos of abstract aerial views of our world",
+          "alternativeHeadline": "17 mesmerizing photos of abstract aerial views of our world",
+          "dateModified": "2021-10-27T05:18:46.506Z",
+          "datePublished": "2015-09-01T04:00:50.000Z",
+          "description": "17 places on earth where the landscapes mimic abstract mosaics or watercolor paintings",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole Crowder",
+            "url": "https://www.washingtonpost.com/people/nicole-crowder/"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Washington Post",
+            "productID": "washingtonpost.com:basic",
+            "description": "Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+            "sku": "https://subscribe.washingtonpost.com",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+            "brand": {
+              "@type": "brand",
+              "name": "The Washington Post"
+            },
+            "offers": {
+              "@type": "offer",
+              "url": "https://subscribe.washingtonpost.com/acquisition?promo=o26"
+            }
+          },
+          "publisher": {
+            "@id": "washingtonpost.com",
+            "@type": "NewsMediaOrganization",
+            "name": "The Washington Post"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "cssSelector": ".meteredContent",
+            "isAccessibleForFree": false
+          },
+          "keywords": "abstract landscapes, aerials, landscapes, daily overview, china, water, fields, mines, saudi arabia, australia",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=1600&h=900",
+              "height": 900,
+              "width": 1600
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=1800&h=1800",
+              "height": 1800,
+              "width": 1800
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/in-sight/wp-content/uploads/sites/35/2015/08/crop_evaporationponds.jpg&w=800&h=600",
+              "height": 800,
+              "width": 600
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "17 mesmerizing photos of abstract aerial views of our world, inspired by the view astronauts experience when looking straight down on Earth from space. Daily Overview features overviews of the world to show the human imprint on the planet on a large scale. In Sight highlighted 17 places with industrial sites and fields appearing as abstract mosaics or watercolor paintings.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Earth"
+        ],
+        "ORGANIZATION": [
+          "The Washington Post",
+          "Daily Overview",
+          "In Sight"
+        ],
+        "DATE": [
+          "2015-09-01"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "17 mesmerizing photos of abstract aerial views of our world"
+        ]
+      },
+      "score_e5": 0.7014671785272137
+    },
+    {
+      "titre": "Intrepid Potash - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Intrepid_Potash",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Potash_evaporation_ponds_near_Moab,_Utah.jpg/500px-Potash_evaporation_ponds_near_Moab,_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5Tv8O44IgzRCTCgV1IfQsH4hpSjv4YproAnfuC0K718lOf6bv",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Intrepid Potash - Wikipedia",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Intrepid_Potash",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Potash_evaporation_ponds_near_Moab,_Utah.jpg/500px-Potash_evaporation_ponds_near_Moab,_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5Tv8O44IgzRCTCgV1IfQsH4hpSjv4YproAnfuC0K718lOf6bv"
+      },
+      "webpage": {
+        "text": "Intrepid Potash\n\nFertilizer manufacturing company based in Denver, Colorado, United States\n\n\nType           Public company\nTraded as      NYSE: IPI\n               Russell 2000 Component\nFounded        2000; 26 years ago (2000)\nHeadquarters   Denver, Colorado\nKey people     Kevin S. Crutchfield, CEO\nWebsite        intrepidpotash.com\n\nIntrepid Potash, Inc. (NYSE: IPI), based in Denver, Colorado, is a fertilizer manufacturer. The company is the largest producer of potassium chloride, also known as muriate of potash, in the United States.[1] It owns three mines, all in the Western U.S., near the cities of Carlsbad, New Mexico, Moab, Utah, and Wendover, Utah.[2]\n\n\nMines\n\n\nCarlsbad\n\nThere are three sites approximately 30 miles (48 km) East of Carlsbad, New Mexico. The East facility produces sylvite and langbeinite potash, and is capable of fully processing its ore to the storage or shipment stage. The West facility (currently shut down) produced mainly traditional potash, which is shipped by truck to be processed at the North facility for final storage or shipping.\n\n\nMoab\n\nThe Moab or Kane Creek potash mine (38°31′25″N 109°39′15″W﻿ / ﻿38.52361°N 109.65417°W﻿ / 38.52361; -109.65417) is located along the right (northwest) bank of the Colorado River, about 20 miles (30 km) west of Moab, Utah,[3] at the south end of State Route 279 and the Union Pacific Railroad. The location is known as Potash on U.S. Geological Survey (USGS) topographic maps, and is east of Dead Horse Point State Park and Canyonlands National Park.[4] According to USGS reports, the Paradox Basin contains up to 2.0 billion tons (1.8 billion metric tonnes) of potash, with the primary mine being the one at Kane Creek.[5]\n\nThe plant was built by the Texas Gulf Sulphur Company in the early 1960s,[6] opening in 1963 as a conventional underground mine.[7] Later that year, an explosion trapped 25 miners,[8] of whom only seven were able to survive, by building a barricade to trap fresh air.[9][10] In 1970, operations were changed to a system that combines solution mining and solar evaporation. River water is pumped into the mine and dissolves the potash, after which the brine solution is pumped to evaporation ponds.[3] Intrepid bought the mine in 2000[11] from the Potash Corporation of Saskatchewan,[12] which had bought Texas Gulf in 1995.[13]\n\n\nWendover\n\nThe Wendover potash mine is located about 120 miles west of Salt Lake City, Utah, and has been actively used for potash production since 1917. Potash production from naturally occurring brines at the Wendover facility dates back to World War I. During the period from 1920 to 1936, a number of unsuccessful attempts were made to commercially produce potash. By 1939, a successful commercial potash operation was achieved and is still in production.[14]\n\n\nLobbying\n\nIn 2015, a law firm associated with former U.S. Senator Norm Coleman started lobbying the U.S. State Department on behalf of Intrepid Potash to increase sanctions against Belarus.[15] In 2021, the United States sanctioned Belarusian potash firms, raising potash prices worldwide.[15][16][17]\n\n\nReferences\n\n 1.  ↑ \"Intrepid Potash Q1 profit surges on strong potash pricing, demand; issues FY08 production outlook\". RTT News. 2008-06-02. Retrieved 2024-08-20.\n 2.  ↑ \"Intrepid Potash: Mine Site Locations\". Retrieved 2024-08-20.\n 3.  1 2 Intrepid Potash: Moab, Utah, accessed June 2008\n 4.  ↑ Google Maps street maps and USGS topographic maps, accessed June 2008 via ACME Mapper\n 5.  ↑ \"Utah Uranium Corp. Proposes Name Change Reflecting New Opportunities\". CNN Marketwire. 2008-06-25. (press release from Utah Uranium Corporation)\n 6.  ↑ \"Texas Gulf Sulphur Plans Big Utah Potash Project\". New York Times. 1960-09-27. p. 49. Retrieved 2024-08-20.\n 7.  ↑ \"Potash Mine to Open in Utah\". Los Angeles Times. 1963-04-28. p. H7.\n 8.  ↑ \"Mine Blast Traps 25 at 2,700 Feet\". New York Times. 1963-08-28. p. 1.\n 9.  ↑ \"Start of a Legend?\". Time Magazine. 1963-09-06. Retrieved 2024-08-20.\n 10. ↑ Stiles, Jim (2018-06-04). \"The Disaster at Cane Creek: An Excerpt…by Kymberly Mele\". Canyon Country Zephyr. Retrieved 2024-08-20.\n 11. ↑ Montoya, Jason P. (2003-12-02). \"Mine gets top safety award\". Carlsbad Current-Argus. Archived from the original on 2008-08-28.\n 12. ↑ \"State of the State\". Salt Lake Tribune. 2000-03-01. p. D3.\n 13. ↑ Hudgins, Merle R. (1996-02-01). \"Texasgulf\". Handbook of Texas Online. Retrieved 2024-08-20.\n 14. ↑ \"Intrepid Potash Wendover, Utah\". Retrieved 2024-08-20.\n 15. 1 2 Stein, Jeff; Cocco, Federica; Whoriskey, Peter (October 24, 2024). \"A New Washington Influence Industry is Making Millions From Sanctions\". The Washington Post. Retrieved November 2, 2024.\n 16. ↑ https://sanctionssearch.ofac.treas.gov/Details.aspx?id=32746\n 17. ↑ \"Treasury Holds the Belarusian Regime to Account on Anniversary of Fraudulent Election\". United States Department of the Treasury. August 9, 2021. Retrieved November 2, 2024.\n\n\nExternal links\n\nMedia related to Intrepid Potash at Wikimedia Commons",
+        "metadata": {
+          "title": "Intrepid Potash - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Potash_evaporation_ponds_near_Moab%2C_Utah.jpg/1280px-Potash_evaporation_ponds_near_Moab%2C_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "772",
+          "og:title": "Intrepid Potash - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Intrepid Potash",
+          "url": "https://en.wikipedia.org/wiki/Intrepid_Potash",
+          "sameAs": "http://www.wikidata.org/entity/Q6058618",
+          "mainEntity": "http://www.wikidata.org/entity/Q6058618",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2008-06-28T07:47:33Z",
+          "dateModified": "2026-06-23T18:48:15Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Potash_evaporation_ponds_near_Moab%2C_Utah.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "fertilizer manufacturing company based in Denver, Colorado, United States"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Intrepid Potash, Inc. is a fertilizer manufacturing company based in Denver, Colorado, United States, and is the largest producer of potassium chloride (muriate of potash) in the United States. It owns three mines in the Western U.S. near Carlsbad, New Mexico, Moab, Utah, and Wendover, Utah. The Moab or Kane Creek potash mine is located along the Colorado River, west of Moab, Utah, near Dead Horse Point State Park and Canyonlands National Park. The plant was built by the Texas Gulf Sulphur Company in the early 1960s and opened in 1963. In 2000, Intrepid bought the mine from the Potash Corporation of Saskatchewan. The Wendover potash mine is located about 120 miles west of Salt Lake City, Utah, and has been used for potash production since World War I.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kevin S. Crutchfield",
+          "Norm Coleman"
+        ],
+        "LOCATION": [
+          "Denver",
+          "Colorado",
+          "United States",
+          "Carlsbad",
+          "New Mexico",
+          "Moab",
+          "Utah",
+          "Wendover",
+          "Kane Creek",
+          "Colorado River",
+          "Dead Horse Point State Park",
+          "Canyonlands National Park",
+          "Paradox Basin",
+          "Salt Lake City",
+          "Belarus"
+        ],
+        "ORGANIZATION": [
+          "Intrepid Potash",
+          "NYSE",
+          "Russell 2000",
+          "U.S. Geological Survey",
+          "Texas Gulf Sulphur Company",
+          "Potash Corporation of Saskatchewan",
+          "U.S. State Department"
+        ],
+        "DATE": [
+          "2000",
+          "1960s",
+          "1963",
+          "1970",
+          "1917",
+          "World War I",
+          "1920",
+          "1936",
+          "1939",
+          "2015",
+          "2021"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "potassium chloride",
+          "muriate of potash",
+          "sylvite",
+          "langbeinite potash"
+        ]
+      },
+      "score_e5": 0.7231875284080506
+    },
+    {
+      "titre": "Where is that? : r/grandcanyon",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/grandcanyon/comments/1swld68/where_is_that/",
+      "image_url": "https://i.redd.it/ue9k4wsg0mxg1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqz77DzN1MG3EuxWst4qZPRpe4uC0wo700Ynm3A3wCqsYTym5",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Where is that? : r/grandcanyon",
+        "source": "Reddit",
+        "link": "https://www.reddit.com/r/grandcanyon/comments/1swld68/where_is_that/",
+        "imageUrl": "https://i.redd.it/ue9k4wsg0mxg1.jpeg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqz77DzN1MG3EuxWst4qZPRpe4uC0wo700Ynm3A3wCqsYTym5"
+      },
+      "webpage": {
+        "text": "Where is that?\n\nI saw this Grand Canyon picture and was wondering if anybody could point out where that is?\n\nFront-Library-5627 • r/grandcanyon • 4/26/2026, 10:17:24 PM\n\n↑21 • 34 comments\n\n\n\n---\n* NielsenSTL • 4/26/2026, 10:31:07 PM • ↑30\n\n  Google Maps and enter Potash Rd in Moab Utah. That’s what you see here…with maybe some color enhancing.\n\n  \n\n  * willneverhavetattoos • 4/26/2026, 10:45:04 PM • ↑12\n\n    Yes, and you can see these potash ponds from Dead Horse Point. Not much color enhancing actually. They do look impressive if the sun is in the right place.\n\n    \n\n    * NielsenSTL • 4/26/2026, 11:12:33 PM • ↑4\n\n      Yeah, the yellow looked a little odd…but maybe not. I know they have brilliant color though from above!\n\n      \n\n      * willneverhavetattoos • 4/27/2026, 1:29:32 AM • ↑4\n\n        I think the yellow ones are the dry pits that are ready to harvest.\n\n        \n\n    * Adventurous-Soil-137 • 4/27/2026, 3:39:49 PM • ↑3\n\n      Fun fact: they used Dead Horse State Park as the Grad Canyon in the 2001 classic film Joe Dirt. \n\n      \n\n      * willneverhavetattoos • 4/27/2026, 6:13:30 PM • ↑2\n\n        Also, the finale of Thelma and Louise was filmed nearby.\n\n        \n\n        * Patimakan • 4/28/2026, 10:31:51 PM • ↑1\n\n          The chemicals killed them😂\n\n          \n\n* Itchy-Background8982 • 4/26/2026, 11:28:50 PM • ↑13\n\n  Not the Grand Canyon. Moab, Utah.\n\n  \n\n  * woodbanger04 • 4/27/2026, 12:16:48 PM • ↑2\n\n    OP probably got it confused with “Canyon Lands” which is closer to there than the Grand Canyon.\n\n    \n\n  * Full-Association-175 • 4/27/2026, 1:09:45 AM • ↑-9\n\n    Lol, it's obviously Lake Powell.\n\n    \n\n    * NielsenSTL • 4/27/2026, 2:06:07 AM • ↑7\n\n      You serious, Clark?\n\n      \n\n* the-mp • 4/27/2026, 12:48:12 AM • ↑11\n\n  It’s right by the other picture you posted\n\n  \n\n* jadewolf42 • 4/27/2026, 2:20:12 AM • ↑7\n\n  Potash evaporation ponds, near Canyonlands / Dead Horse State Park in Moab, Utah. They put blue dye in the water to help with the evaporation process. Yes, it really is that brightly colored. But it ain't natural.\n\n  \n\n* RandomReddit-123 • 4/27/2026, 12:18:08 AM • ↑1\n\n  Nearby is a Uranium waste dump-Superfund site\n\n  \n\n  * jadewolf42 • 4/27/2026, 2:22:27 AM • ↑5\n\n    Don't know why you got downvoted. The UMTRA site is, indeed, right down the road from the potash mine.\n    \n    That site is unrelated to these ponds, though. Good news, they're almost done with the site remediation. The majority of the uranium tailings have been hauled off to the new containment facility at Green River. They're just working on the last of the soil now.\n\n    \n\n    * piedra96 • 4/27/2026, 5:16:13 AM • ↑2\n\n      It is, but it’s not a Superfund site.\n\n      \n\n      * jadewolf42 • 4/27/2026, 2:34:22 PM • ↑1\n\n        Sure, the remediation is being managed directly by the DOE rather than through the Superfund program. But it's similar enough that we know what the poster meant.\n\n        \n\n        * piedra96 • 4/27/2026, 2:45:18 PM • ↑1\n\n          Just explaining why the downvotes might be happening.\n\n          \n\n* Front-Library-5627 • 4/27/2026, 12:34:38 PM • ↑1\n\n  Thanks so much!! Really appreciate it\n\n  \n\n* Few-Construction-410 • 4/27/2026, 2:39:03 PM • ↑1\n\n  Intrepid potash Moab evaporation ponds\n\n  \n\n* Expensive-Fennel-605 • 4/28/2026, 2:18:19 AM • ↑1\n\n  That is in southeast Utah, close to a state park called Dead Horse Point State Park, close to Canyonlands NP. They have a plaque there that explains what those bright blue bodies of water there.\n\n  \n\n* [deleted] • 4/26/2026, 10:26:05 PM • ↑-12\n\n  [deleted]\n\n  \n\n  * bbbbuuuurrrrpppp • 4/27/2026, 6:41:56 PM • ↑1\n\n    Don’t believe everything you believe\n\n    \n\n* Patimakan • 4/27/2026, 2:08:53 AM • ↑-6\n\n  It’s dead horse point I think (Utah) tourist trap .\n\n  \n\n  * ebwly • 4/27/2026, 6:02:04 AM • ↑3\n\n    How is it a tourist trap?\n\n    \n\n    * Patimakan • 4/27/2026, 12:47:25 PM • ↑-1\n\n      $10 for short walk to see chemical pools- pass.    Not everyone wants to waste half day of vacation for a selfie.\n\n      \n\n      * piedra96 • 4/27/2026, 6:43:18 PM • ↑2\n\n        I’m going out on a limb here, but I’m pretty sure Dead Horse State Park doesn’t exist, nor is anyone paying the fee, to get a view of the Intrepid potash facility.\n        \n        You might be the only person on earth that isn’t inspired by views of Canyonlands.\n\n        \n\n        * Patimakan • 4/27/2026, 7:35:18 PM • ↑1\n\n          Not Canyonlands it’s DHPSP. Loved hiking Canyonlands especially Needle section.\n\n          \n\n          * piedra96 • 4/27/2026, 7:57:57 PM • ↑1\n\n            Dead Horse Point overlooks Canyonlands National Park.\n\n            \n\n        * One_Guarantee160 • 4/28/2026, 9:39:08 PM • ↑1\n\n          Dead horse point state park absolutely exists and it does have an entrance fee. It’s not what’s listed in the photo but it 100% exists, I’ve seen it with my own eyes buddy\n\n          \n\n          * piedra96 • 4/28/2026, 9:54:05 PM • ↑1\n\n            Haha, thanks bud. You might want to re-read the thread. I think we’re all aware that it exists. I meant that Utah didn’t institute a state park for the views of the potash ponds; they instituted it for the views of Canyonlands. The views of Canyonlands are world-class, therefore it’s not a tourist trap. You dig? Thanks for the laugh, though.\n\n            \n\n            * One_Guarantee160 • 4/28/2026, 10:14:11 PM • ↑1\n\n              My comment was meant to be satirical….\n\n              \n\n              * piedra96 • 4/28/2026, 10:42:06 PM • ↑1\n\n                Ah I see\n\n                \n\n",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Discussion on Reddit regarding a picture of potash evaporation ponds located near Canyonlands and Dead Horse State Park in Moab, Utah, off Potash Rd. Users discuss that blue dye is added to the water to help with the evaporation process, creating a bright color, and mention that dry pits are ready to harvest. References are made to films such as Joe Dirt and Thelma and Louise, as well as a nearby Uranium waste dump / UMTRA site being remediated by the DOE.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Front-Library-5627",
+          "NielsenSTL",
+          "willneverhavetattoos",
+          "Adventurous-Soil-137",
+          "Patimakan",
+          "Itchy-Background8982",
+          "woodbanger04",
+          "Full-Association-175",
+          "the-mp",
+          "jadewolf42",
+          "RandomReddit-123",
+          "piedra96",
+          "Few-Construction-410",
+          "Expensive-Fennel-605"
+        ],
+        "LOCATION": [
+          "Grand Canyon",
+          "Moab",
+          "Utah",
+          "Canyon Lands",
+          "Lake Powell",
+          "Green River"
+        ],
+        "ORGANIZATION": [
+          "Google Maps",
+          "DOE"
+        ],
+        "DATE": [
+          "4/26/2026",
+          "4/27/2026",
+          "4/28/2026",
+          "2001"
+        ],
+        "EVENT": [
+          "Joe Dirt",
+          "Thelma and Louise"
+        ],
+        "OTHER": [
+          "Potash Rd",
+          "Dead Horse State Park",
+          "Intrepid potash Moab evaporation ponds",
+          "UMTRA site"
+        ]
+      },
+      "score_e5": 0.7334143038936616
+    },
+    {
+      "titre": "Hard edged blue-tan gradient as seen from an airplane in... Utah? I think? : r/whatisit",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/whatisit/comments/1mgua4g/hard_edged_bluetan_gradient_as_seen_from_an/",
+      "image_url": "https://i.redd.it/x9qqoi8x7wgf1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKypNDIaxV3mJ-d_KYzMtwliZ8c-DaqzBgm5aobXkF221laipu",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Hard edged blue-tan gradient as seen from an airplane in... Utah? I think? : r/whatisit",
+        "source": "Reddit",
+        "link": "https://www.reddit.com/r/whatisit/comments/1mgua4g/hard_edged_bluetan_gradient_as_seen_from_an/",
+        "imageUrl": "https://i.redd.it/x9qqoi8x7wgf1.jpeg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKypNDIaxV3mJ-d_KYzMtwliZ8c-DaqzBgm5aobXkF221laipu"
+      },
+      "webpage": null,
+      "texte_contexte": "",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "Flying photographer captures a jewel in the desert | Photography | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2015/oct/08/flying-photographer-captures-a-jewel-in-the-desert-potash",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2015/10/5/1444057018788/aerial-shot-of-potash-eva-009.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBKw4h3jEau2E6mXlHsJUDgZ9K8cjlTffxpiIjZnGJDM5D9n0V",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Flying photographer captures a jewel in the desert | Photography | The Guardian",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2015/oct/08/flying-photographer-captures-a-jewel-in-the-desert-potash",
+        "imageUrl": "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2015/10/5/1444057018788/aerial-shot-of-potash-eva-009.jpg?width=465&dpr=1&s=none&crop=none",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBKw4h3jEau2E6mXlHsJUDgZ9K8cjlTffxpiIjZnGJDM5D9n0V"
+      },
+      "webpage": {
+        "text": "Flying photographer captures a jewel in the desert | Photography\n\n“We were flying above a huge , immense desert,” says photographer, Alexander Heilner. “It was a monochromatic, rusty red colour as far as the eye could see, but in the middle was this jewel of blue and white.”\n\nIt was neither oasis nor mirage. Part of the Intrepid mine, the vivid azure lagoon, so at odds with the surrounding Utah desert, is a potash evaporation pond, vital for fertiliser.\n\nPotash is a potassium-rich substance originally obtained by soaking ashes in pots of water, the process that gave it its name. But today a different method is used to obtain the commodity. Water is pumped underground to dissolve buried potash ore before being pumped into the evaporation ponds. The water is dyed deep blue to absorb heat and evaporate more quickly, leaving behind the potash and salts.\n\nObsessed with “the interaction of natural landscapes and man-made structures”, Heilner goes to great lengths to capture these images. To take this shot his hired plane took sweeping circles around the potash ponds, while he leaned out of a window with his camera.\n\nAerial shots are not just dramatic, they are also informative, Heilner explains, saying he is often asked if his landscapes have an environmental stance. “I’m not interested in dictating what’s good and bad, but I am extremely interested that people be aware of what’s happening and therefore have a knowledgeable basis of decision-making,” he says.\n\nAnd with Heilner’s striking images mirroring the patterns of the agricultural land the potash helps to create, he offers plenty of food for thought.",
+        "metadata": {
+          "title": "Flying photographer captures a jewel in the desert | Photography | The Guardian",
+          "description": "Alexander Heilner’s startling images reveal beauties we do not see",
+          "og:url": "http://www.theguardian.com/technology/2015/oct/08/flying-photographer-captures-a-jewel-in-the-desert-potash",
+          "article:author": "https://www.theguardian.com/profile/sophie-perry",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2015/10/5/1444057018788/aerial-shot-of-potash-eva-009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTUucG5n&enable=upscale&s=7e99abc888e8af5fcc00d70ecda70136",
+          "al:ios:url": "gnmguardian://technology/2015/oct/08/flying-photographer-captures-a-jewel-in-the-desert-potash?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Flying photographer captures a jewel in the desert",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-22T18:03:54.000Z",
+          "og:image:height": "720",
+          "og:description": "Alexander Heilner’s startling images reveal beauties we do not see",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2015-10-08T06:00:08.000Z",
+          "article:tag": "Photography,Technology,Science",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Photographer Alexander Heilner captured an aerial view of a potash evaporation pond at the Intrepid mine in the Utah desert. The lagoon appears as a vivid azure blue and white jewel against a rusty red desert. Water is pumped underground to dissolve buried potash ore, then pumped into evaporation ponds where it is dyed deep blue to absorb heat and evaporate more quickly, leaving behind potash and salts.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alexander Heilner"
+        ],
+        "LOCATION": [
+          "Utah"
+        ],
+        "ORGANIZATION": [
+          "Intrepid"
+        ],
+        "DATE": [
+          "2015-10-08"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "potash evaporation pond"
+        ]
+      },
+      "score_e5": 0.7265425829781686
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Panama",
+      "Canada"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "salmon"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Moab",
+      "Utah"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7334143038936616,
+  "S_ent": 0.0,
+  "S_OOC": 0.3667071519468308,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "OTHER"
+  ]
+}

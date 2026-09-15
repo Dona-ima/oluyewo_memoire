@@ -1,0 +1,877 @@
+{
+  "id_rumeur": 750012,
+  "id_image": 1601086,
+  "caption": "Most staff didn t speak English which at least gave me the opportunity to learn some valuable medical vocabulary in both German and Italian",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757179/oluyewo_benchmark/vkgae5mztkb2xdqwomxb.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Compassionate care: Nurse stories - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/health-20599091",
+      "image_url": "http://news.bbcimg.co.uk/media/images/64567000/jpg/_64567518_nurse2_spl.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlxQcxzf4YUMZj5rBeOYi0as7Iisp38ucoC52jf4xsyuihRO56",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Compassionate care: Nurse stories - BBC News",
+        "link": "https://www.bbc.com/news/health-20599091",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlxQcxzf4YUMZj5rBeOYi0as7Iisp38ucoC52jf4xsyuihRO56",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/64567000/jpg/_64567518_nurse2_spl.jpg",
+        "image_width": 1152,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Compassionate care: Nurse stories\n\nThere are few people on the front line and they have so much workload. It's not surprising people snap - I've been guilty of it myself and I'm not proud of that at all.\n\nThe problem is the patients need the nurses far more than the nurses need additional patients.\n\nWhen I did my training, it was very much focused on primary care - they didn't teach interpersonal skills.\n\nThe other thing is cultural nuances. In London, a significant proportion of nursing staff come from overseas and so there are other factors to consider.\n\nFor example, nurses in the Philippines don't wash patients because the families do that, so when they come here they have to learn that that is part of British tradition.\n\nThere is also the issue of job matching - there are nurses who do not have face-to-face interviews but are chosen on their training performance - and cost cutting when nurses who leave are just not replaced. Of course, that will have an affect on those left behind.\n\nDo I think things will change? It's unlikely.",
+        "metadata": {
+          "description": "As the chief nursing officer for England calls for more compassion, those on the frontline detail their experiences.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "As the chief nursing officer for England calls for more compassion, those on the frontline detail their experiences.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/64567000/jpg/_64567518_nurse2_spl.jpg",
+          "og:image:alt": "nurse at work",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Compassionate care: Nurse stories",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/health-20599091",
+          "article:section": "Health",
+          "twitter:description": "As the chief nursing officer for England calls for more compassion, those on the frontline detail their experiences.",
+          "twitter:title": "Compassionate care: Nurse stories"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/health-20599091",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2012-12-04T16:07:14.000Z",
+          "dateModified": "2012-12-04T17:35:15.000Z",
+          "description": "As the chief nursing officer for England calls for more compassion, those on the frontline detail their experiences.",
+          "headline": "Compassionate care: Nurse stories",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/64567000/jpg/_64567518_nurse2_spl.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/64567000/jpg/_64567518_nurse2_spl.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/health-20599091",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Discussion sur les soins empreints de compassion et les témoignages d'infirmières en première ligne. Le texte aborde la charge de travail, la formation initiale axée sur les soins primaires sans compétences interpersonnelles, les nuances culturelles (comme les infirmières des Philippines où les familles lavent les patients), l'adéquation des postes sans entretiens en personne, et la réduction des coûts liée au non-remplacement des infirmières qui partent.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "London",
+          "Philippines",
+          "British"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC News"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7450737068569238
+    },
+    {
+      "titre": "BBC - Fergus's Medical Files",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/blogs/thereporters/ferguswalsh/2009/09",
+      "image_url": "https://www.bbc.co.uk/staticarchive/ff01176b7e88f76053623c036c12a606203e91f0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUbh6IS2ZUDK2A-Rqd0_3LZAriMGBDtodwLX_4w1Aw14lLOzP",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "BBC - Fergus's Medical Files",
+        "link": "https://www.bbc.co.uk/blogs/thereporters/ferguswalsh/2009/09",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkfkHsgY8lS21mPHFUbDtwW6Et_KFgAwjd1eumnE7PsvEhqdw6Kv69JwDtX9AXmV8-fm6t54pB8PATe-Pzv5BHmyDELvrJFZqQ7nx8_vZwcD6x",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUbh6IS2ZUDK2A-Rqd0_3LZAriMGBDtodwLX_4w1Aw14lLOzP",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://www.bbc.co.uk/staticarchive/ff01176b7e88f76053623c036c12a606203e91f0.jpg",
+        "image_width": 282,
+        "image_height": 226
+      },
+      "webpage": {
+        "text": "Archives for September 2009\n\n\nSwine flu vaccines get first UK trial\n\nResearchers in Oxford have started the first trial of Britain's two swine flu vaccines.\n\nWorking with teams in Bristol, Exeter, Southampton and London, they are aiming to recruit 1,000 youngsters aged six months to 12 years. I went to the Children's Hospital at the John Radcliffe in Oxford to witness what were the first recipients of the UK's H1N1 vaccines.\n\nAlthough both vaccines are likely to get licensed in the next few weeks, none of the trials has taken place in Britain. Pandemrix (made by GSK) was approved by the European Medicines Agency on Friday, while Baxter's H1N1 jab seems likely to get approved this week.\n\nThis is the first time the vaccines have been used in the UK and the first comparative study of the jabs.\n\nProfessor Andrew Pollard from the University of Oxford is heading the research:\n\n> \"We are doing this trial to compare head-to-head the two vaccines which are going to be used in the UK against swine flu to see which one works best in children and which one is best tolerated. We are sort of in a race against time because we know the flu season is already started. We hope to immunise the children over the next 10 days or so. There are very few exclusions - people with immune system problems and egg-allergic children because one of the vaccines is made using egg.\"\n\nThe GSK vaccine is made using the traditional means of growing the virus in embryonated hens' eggs, before the virus is broken and deactivated. The Baxter vaccine is made in cell culture, so is suitable for those who have an egg allergy. Among the expected side-effects are sore arms and fevers. The information given to parents also lists rare side-effects including Guillian-Barré syndrome, which can cause ascending paralysis and even be fatal.\n\nIt's worth quoting here from the trial information:\n\n> \"Other very rare events that have been seen with routine flu vaccines include seizures and temporary bleeding disorders. In the past Guillian-Barré syndrome (a rare disorder of nerves) has been associated with flu vaccines but the relationship remains uncertain, with some studies suggesting a possible link but others not finding it. One large study in the UK found that influenza-like illness itself was associated with an increased risk of the Guillian-Barré syndrome but there was no link with the seasonal influenza vaccines, suggesting that vaccination might actually protect against the disorder by preventing flu.\"\n\nWhat I take that to mean is that, if you have the vaccine, there is a remote, theoretical possibility that you could get GBS (as happened in the USA in 1976 with their swine flu vaccine), but you are more likely to get it as a result of contracting flu. So while it is impossible to rule out the risk of GBS from the vaccine, it is very remote, and this must be balanced against the very real and proven risks of complications from flu.\n\nI spoke to several of the parents and asked them why they had brought their children along. Considering it was the first day of the trial, it was not surprising to find several doctors who had heard about the trial.\n\nDr Jocelyn Hughes is an Oxford paediatrician. She brought four-year-old Susanna and two-year-old Ben to be immunised.\n\n> \"I was keen to offer Susanna and Ben some protection against swine flu having seen some cases in A&E, and having the trial on our doorstep was a good way of doing that.\"\n\nNicolette Wolf brought 17-month-old Reuben to be immunised. She is pregnant and will be one of the first to be offered a swine flu jab. I wondered whether she would take it, because, in researching the Panorama on swine flu, we met several pregnant women who seemed not keen on having the jab. Nicolette feels differently:\n\n> \"I will definitely take it to protect myself and obviously the baby. I know my immunity is low as a pregnant woman. I had a cold recently that really hit me and I was shocked to see how long it took to recover - so all the more reason to have the swine flu jab.\"\n\nGraunya Bean brought four-year-old Liam.\n\n> \"My youngest son Logan got swine flu three months ago and was really ill. He had an extreme high temperature and was refusing fluids. We had three days of being very concerned about him until he got Tamiflu. Liam has just started school and quite a few kids have come down with it there so we were concerned about him getting it, and obviously there's the benefit of them being able to do research to help others.\"\n\nThis clinical trial comes just a month before a UK immunisation campaign begins. More than 11 million people in Britain considered to be most at-risk from flu, such as those with asthma or heart problems, will be offered the vaccine plus more than two million front-line health workers.\n\nIn order to see this content you need to have both Javascript enabled and Flash installed. Visit BBC Webwise for full instructions. If you're reading via RSS, you'll need to visit the blog to access this content.\n\n\nAbove you can see a brief interview with Andrew Pollard and one of the families on the trial.\n\n\nVaccines for swine flu\n\nPlans to vaccinate millions of people in Britain against H1N1 swine flu have taken a step forward today. The European Medicines Agency (EMEA) has approved Pandremrix, manufactured by GlaxoSmithKline (GSK) [36Kb PDF].\n\nA licence won't be granted until it's been approved by the European Commission, but that is expected in the next couple of weeks. GSK is one of two suppliers of pandemic vaccine to the UK, the other being Baxter. But its vaccine did not get approved today. The EMEA said that there had been an issue about the quality of the vaccine, but that they hoped to resolve that next week. The Baxter vaccine is not made using eggs, so it will be useful for those rare people with an anaphylactic reaction to egg.\n\nThe UK has contracts for up to 132 million doses of pandemic vaccine - enough for everyone in Britain to receive two shots. But early data suggests one jab may be sufficient. This is what the EMEA had to say on this:\n\n> \"The Committee is currently recommending a two-dose vaccination schedule, at an interval of three weeks, for adults, including pregnant women, and children from six months of age. The Committee acknowledged that there are preliminary data suggesting that one dose may be sufficient in adults. The Agency is expecting further data from ongoing clinical studies over the coming months and these recommendations may be updated.\"\n\nIt should mean that Britain is on track to begin begin an immunisation campaign next month. Just a reminder of which groups will be vaccinated first. Here's the list, in order of priority:\n\n• individuals aged six months and up to 65 years in the current seasonal flu vaccine clinical at-risk groups\n• all pregnant women, subject to licensing considerations on trimesters\n• household contacts of immunocompromised individuals\n• people aged 65 and over in the current seasonal flu vaccine clinical at-risk groups\n\nSo how many people will that involve? Getting figures for the whole of the UK means contacting four separate health departments, which is why very often, you will see only the figure for England. My understanding is that the total is 11.45 million people for the UK (9m England; 1.3m Scotland; 0.75m Wales; 0.4m Northern Ireland). In addition, more than two million frontline health workers will be immunised in tandem with the above groups.\n\nThe government now has an agreement with GPs to vaccinate the at-risk groups. But this will take a huge amount of organisation, especially since the seasonal flu campaign will continue.\n\nThere are many questions which arise from the planned immunisation campaign, not least how big the uptake will be. NHS staff members have a very poor record of taking the seasonal flu jab, with only 16% uptake.\n\nMany pregnant women may also be loath to have the jab and rather hope for the best that they don't get the virus, and that if they do, get it mildly. Pregnant women are at elevated risk of both catching swine flu and getting complications. In order to carry a child through pregnancy, the body's immune system is naturally suppressed.\n\nThe first person to die from complications of swine flu in June was a 38-year-old woman in Scotland who'd given birth prematurely. She had underlying health conditions. And remember Sharon Pentleton? She got swine flu when six months pregnant and had to be flown to Sweden for specialist treatment. Fortunately, she is now recovered and her baby is due next month.\n\nBoth of those cases are extreme examples. The vast majority of pregnant women who catch swine flu will have a mild infection. But the expert advice is that they should be immunised. What is not clear yet is how early in the pregnancy it will be recommended and whether or whether it will be restricted to women who are in the second and third trimesters (that is, from three months onwards).\n\nThe final recommendation on timing rests with the Joint Committee on Vaccination and Immunisation (a sort of NICE for vaccines). I've been looking at the minutes of their meeting in August [63Kb PDF] and it gives an idea of what they are thinking on this:\n\n> \"The committee supported the use of either vaccine once licensed in pregnant women. The committee noted that many women are advised not to take any kind of drug in their first trimester unless recommended by a medical practitioner. The committee advised that all pregnant women, including those in their first trimester, could receive the vaccine. Both swine flu vaccines are inactivated and there is no evidence that the foetus is at any risk when the mother is immunised with an inactivated vaccine such as the seasonal flu vaccine. Seasonal flu vaccines have been used for a number of years in the US with no evidence of harm. The committee noted that vaccinating pregnant women would not only provide benefit to them but also provide benefit to the infant, when born, through vertical transfer of maternal antibodies.\"\n\nThe JCVI also sees no reason why you can't have your pandemic flu jab at the same time as a seasonal flu vaccine. This is what they had to say on that:\n\n> \"The committee advised that since the swine influenza vaccines are inactivated, they could be co-administered with all other vaccines including seasonal influenza and childhood vaccines. Vaccines should be given at separate sites, preferably in different limbs. If given in the same limb, they should be given at least 2.5 cm apart.\"\n\nSo what will the government do with all those extra vaccines, once the at-risk groups are immunised? My hunch is that they may decide to offer the jab to all children, not just to those who are at risk of complications. But that decision does not need to be taken now, and instead officials will wait to see how the virus behaves in the months ahead.\n\n\nWeekly briefing: Cases rising\n\nThe children are back at school and the weather is turning colder, so it's no surprise that the number of cases of swine flu is rising.\n\nAt his weekly briefing, the chief medical officer for England, Sir Liam Donaldson, said:\n\n> \"We might be seeing the start of an upturn. There are straws in the wind, from the increase in consultations with GPs and a small increase in hospitalisations. It suggests swine flu is coming back.\"\n\nThe estimated number of cases in England rose last week from 3,000 to 5,000. In Scotland, cases also rose sharply to around 6,000. There were small rises in Northern Ireland and Wales.\n\nIn order to see this content you need to have both Javascript enabled and Flash installed. Visit BBC Webwise for full instructions. If you're reading via RSS, you'll need to visit the blog to access this content.\n\n\nSo swine flu is back. It never, of course went away. It's worth remembering that in one week in July, there were more than 100,000 cases. It seems likely that we are at the start of the next upturn. There have been outbreaks in several schools, but it's unlikely that schools will close because the virus is so entrenched in the community.\n\nIt bears repeating that the vast majority of people who get infected will get a mild illness. Very few people die from H1N1 swine flu, although it does cause complications in a minority. On the morning of 16 September, there were 143 people in hospital in England with swine flu, of whom 23 are in critical care.\n\nSo far, 79 people have died after contracting the virus, far lower than the number of those who die from seasonal flu (anything from 4,000-12,000 in a normal year). The difference is that swine flu is targeting younger age groups whereas seasonal flu usually kills the frail elderly. About one in five of the deaths from swine flu has been in previously entirely healthy people.\n\n\nThis is an important graph, because it allows us to put the outbreak in context. If you look at the red line, you can see that we have already had one big peak of swine flu in July, but it never reached epidemic levels. The last epidemic was in 1999-2000. What we all want to know is what will happen to that red line next. At some point this autumn or winter, we should expect the red line to rise much higher than the 1999-2000 peak, so there's a long way to go.\n\n\nThere's now a race on to get the pandemic flu vaccine ready and licensed before the next big peak of infection. This next graph shows, in order of priority, the groups who will receive the pandemic H1N1 vaccine. I think these figures might be England only, and will try to get you a UK-wide total.\n\nYou can see that the first to be immunised will be nearly five million people aged six months to 65 years who are considered at risk from flu. Pregnant women are at increased risk because their immune system is naturally suppressed. What's not clear is at what point in pregnancy the vaccine will be offered. The Department of Health is awaiting guidance from the Joint Committee on Vaccination and Immunisation as to whether the vaccine can be given in the first as well as the second and third trimesters. More on this when I get it.\n\nOne final point: the seasonal flu immunisation campaign will continue as usual. The H1N1 swine flu jab will not protect you from seasonal flu, so it's important that if you need an annual flu jab, you turn up when contacted by your GP.\n\n\nIntensive care: Another expert view\n\nApologies to any of you who feel that, after a relative period of quiet, there's far too much speculation of the \"what if?\" variety here.\n\nBut having met so many interesting people in recent weeks, I thought it right to reflect some of their views here. So this is the final, Panorama-related item.\n\nThe posts this week are not intended - as one or two commentators suggested - to flam up swine flu. They are meant as added extras to the programme - a bit more detail which a blog can give.\n\nOnce again I return to the issue of intensive care. It seems clear that this will be the main pressure-point for the NHS in the next H1N1 swine flu peak. Plans were announced last week to double the number of intensive care beds.\n\nSo how feasible would it be to double the number if intensive care beds?\n\ndiscussed this with Mervyn Singer, Professor of Intensive Care Medicine at University College London. He said:\n\n> \"We can double them, at least in the short-term, but there would be issues about the number and quality of the extra ventilators. Those used in operating theatres are not the same calibre and can't perform as well as an intensive care ventilator, which is much more sophisticated. It would also mean cancelling planned operations and other stresses on the system.\"\n\nProfessor Singer likened it to a response to wartime or a natural disaster - a short-term coping exercise which the NHS did well. But doubling the number of beds could not be continued indefinitely.\n\nWhat sort of winter is he expecting?\n\n> \"We are gearing up to be extremely busy. We normally run at 90% plus bed occupancy during the winter months and clearly if we have all these extra patients there will be major issues.\"\n\nProfessor Singer was one of a number of specialists who was doubtful about the use of ECMO in adult patients.\n\nHe felt that, although the technique of adding oxygen to the blood outside the body worked well in newborns, its benefits were not proven in adults.\n\nHere is a brief section of my interview with Professor Singer.\n\nIn order to see this content you need to have both Javascript enabled and Flash installed. Visit BBC Webwise for full instructions. If you're reading via RSS, you'll need to visit the blog to access this content.\n\n\nExpert view on virus mutation\n\nI hope that last night's Panorama (which you can of course watch again) added to people's understanding of swine flu. I have no doubt that you will let me know what you think.\n\nDr Alan Hay, director of the World Health Organization laboratory at Mill Hill in north London was one of the flu experts interviewed.\n\nHis is one of just four WHO influenza collaborating labs in the world and plays a key role in research.\n\nHe spoke about fears that the H1N1 virus might mutate and about antiviral resistance.\n\nSo far, there have just been isolated cases of Tamifllu resistance against H1N1 swine flu. Dr Hay said:\n\n> \"The major problem in generating resistance is people start a course of Tamiflu and do not follow it rigorously during that period, such that the virus is exposed to a lower concentration of the drug that isn't as fully effective. That's when you get resistance emerging.\"\n\nLike most experts he thinks there is a slim chance of H1N1 swine flu mixing with H5N1 bird flu to produce a more deadly strain of pandemic flu. A remote chance, but a chance nonetheless:\n\n> \"There's a possibility that could happen, particularly in countries where human inflections of bird flu are continuing, for example Egypt. It's really the possibility that from that event might come a virus that might be similarly virulent to the bird flu virus but then has the capacity to establish and spread within the population. And that has been the fear of the last few years that has generated all this concerted action to prepare for a pandemic. And we are only now reaping the rewards of all that preparedness in the face of this pandemic.\"\n\nYou can see more of the interview with Dr Alan Hay done by my colleague Sophie Raworth:\n\nIn order to see this content you need to have both Javascript enabled and Flash installed. Visit BBC Webwise for full instructions. If you're reading via RSS, you'll need to visit the blog to access this content.\n\n\nTreating the most seriously ill\n\nAt every intensive care unit I visited in Sydney, one specialist treatment kept coming up which doctors in Australia are convinced has saved many lives.\n\nECMO, or to give its full title, extracorporeal membrane oxygenation, sounds complex, but does something that's easy to understand.\n\nIt takes over the work of the lungs, adding oxygen to the blood and removing carbon dioxide.\n\n\nPatients are attached to an ECMO machine when they are in severe respiratory failure - their lungs have failed. The blood is pumped outside the body, through the ECMO unit, and then back inside.\n\nIt differs from conventional ventilation which relies on some residual lung function.\n\nECMO has been around for many years, and is used in other areas such as cardiac surgery, to take over the function of the lungs during an operation.\n\nIt's also a proven treatment in neonatal units for newborns. But many doctors here remain sceptical about its use for adults with severe lung problems.\n\nIn Australia, intensive care specialists say they've found the technique of huge benefit in treating some of the sickest patients.\n\nDr Simon Finfer is originally from Britain, now working the Royal North Shore Hospital in Sydney:\n\n> \"I think there are certainly patients who we are have treated with ECMO who are surviving who in our opinion would not have survived without this treatment.\"\n\nDr Finfer says that whereas most intensive care beds are o",
+        "metadata": {
+          "title": "BBC - Fergus's Medical Files",
+          "description": "The BBC's Fergus Walsh looks at medical research and ethics",
+          "keywords": "'BBC News''Fergus Walsh''Health''Ferguss Medical Files''UK''SHAs''PCTs''Nice''NHS'"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Archives de septembre 2009 concernant le premier essai au Royaume-Uni des deux vaccins contre la grippe porcine (H1N1). Des chercheurs d'Oxford, avec des équipes à Bristol, Exeter, Southampton et Londres, visent à recruter 1 000 jeunes de six mois à 12 ans à l'hôpital pour enfants John Radcliffe à Oxford. Le vaccin Pandemrix de GSK a été approuvé par l'Agence européenne des médicaments, et le vaccin de Baxter est en attente d'approbation. Le professeur Andrew Pollard dirige la recherche. Le texte mentionne les effets secondaires potentiels, rares et incertains, tels que le syndrome de Guillain-Barré.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Fergus Walsh",
+          "Andrew Pollard"
+        ],
+        "LOCATION": [
+          "UK",
+          "Oxford",
+          "Bristol",
+          "Exeter",
+          "Southampton",
+          "London",
+          "USA"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Children's Hospital at the John Radcliffe",
+          "GSK",
+          "European Medicines Agency",
+          "Baxter",
+          "University of Oxford"
+        ],
+        "DATE": [
+          "September 2009",
+          "Friday",
+          "1976"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "H1N1",
+          "Pandemrix",
+          "Guillian-Barré syndrome"
+        ]
+      },
+      "score_e5": 0.6817677267319902
+    },
+    {
+      "titre": "BBC Radio 4 - Today, 23/01/2015, Facebook's Mark Zuckerberg ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/programmes/p02hh0f2",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p02hh5h4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6V_dEQcsya7ZcSi4GGPgI3saG78f2SU5MTLwwUNPcHCe4ea3",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "BBC Radio 4 - Today, 23/01/2015, Facebook's Mark Zuckerberg ...",
+        "link": "https://www.bbc.co.uk/programmes/p02hh0f2",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkfkHsgY8lS21mPHFUbDtwW6Et_KFgAwjd1eumnE7PsvEhqdw6Kv69JwDtX9AXmV8-fm6t54pB8PATe-Pzv5BHmyDELvrJFZqQ7nx8_vZwcD6x",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6V_dEQcsya7ZcSi4GGPgI3saG78f2SU5MTLwwUNPcHCe4ea3",
+        "thumbnail_width": 135,
+        "thumbnail_height": 240,
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p02hh5h4.jpg",
+        "image_width": 135,
+        "image_height": 240
+      },
+      "webpage": {
+        "text": "The book that seems to be getting everyone talking this year is 'The End of Power' by Moises Naim, a former Venezuelan government minister.\n\nHis book received an unexpected and stratospheric boost a few weeks ago when the Facebook founder Mark Zuckerberg chose it to launch his online book club.\n\nMoises Naim told Today: \"I had a book out and all of a sudden the book attracted global attention just because Mark Zuckerberg decided to read it and make it the first book of his book club.\"\n\n\"One knows that Facebook is a global enterprise, but it's not the same thing as experiencing it.\"\n\n\"Immediately my world exploded with requests.\"",
+        "metadata": {
+          "title": "BBC Radio 4 - Today, 23/01/2015, Facebook&#039;s Mark Zuckerberg boosts book popularity",
+          "description": "The book that's getting everyone talking this year is 'The End of Power' by Moises Naim.",
+          "og:description": "The book that's getting everyone talking this year is 'The End of Power' by Moises Naim.",
+          "fb:pages": "6025943146,7397061762,7519460786,7833211321,8244244903,8251776107,8585725981,21750735380,80758950658,125309456546,130593816777,154344434967,228735667216,260212261199,260967092113,294662213128,295830058648,304314573046,401538510458,107909022566650,118883634811868,129044383774217,156060587793370,156400551056385,163571453661989,168895963122035,185246968166196,193022337414607,193435954068976,194575130577797,215504865453262,239931389545417,273726292719943,283348121682053,286567251709437,292291897588734,310719525611571,317278538359186,413132078795966,470911516262605,512423982152360,647687225371774,658551547588605,742734325867560,944295152308991,958681370814419,1143803202301544,1159932557403143,1392506827668140,1411916919051820,1477945425811579,1659215157653827,1731770190373618",
+          "og:site_name": "BBC",
+          "og:title": "BBC Radio 4 - Today, 23/01/2015, Facebook's Mark Zuckerberg boosts book popularity",
+          "og:type": "website",
+          "og:url": "https://www.bbc.co.uk/programmes/p02hh0f2",
+          "og:image": "https://ichef.bbci.co.uk/images/ic/1200x675/p02hh0dg.jpg",
+          "twitter:card": "player",
+          "twitter:image": "https://ichef.bbci.co.uk/images/ic/640x360/p02hh0dg.jpg",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "twitter:player": "https://www.bbc.co.uk/programmes/p02hh0f2/player?chromeless",
+          "twitter:player:width": "576",
+          "twitter:player:height": "324"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le livre 'The End of Power' de Moises Naim, ancien ministre du gouvernement vénézuélien, a attiré une attention mondiale après avoir été choisi par le fondateur de Facebook, Mark Zuckerberg, pour lancer son club de lecture en ligne.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Moises Naim",
+          "Mark Zuckerberg"
+        ],
+        "LOCATION": [
+          "Venezuela"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC Radio 4",
+          "Facebook"
+        ],
+        "DATE": [
+          "23/01/2015"
+        ],
+        "EVENT": [
+          "Today"
+        ],
+        "OTHER": [
+          "The End of Power"
+        ]
+      },
+      "score_e5": 0.6739095571580578
+    },
+    {
+      "titre": "BBC Radio 4 - Today, 11/07/2013",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/programmes/b036kt0z",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/480xn/p01jzqf6.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugrv8PTC03pg14JZ1_5BcH28j9ZypYNOxXZlENF6zaSl01am-",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "BBC Radio 4 - Today, 11/07/2013",
+        "link": "https://www.bbc.co.uk/programmes/b036kt0z",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkfkHsgY8lS21mPHFUbDtwW6Et_KFgAwjd1eumnE7PsvEhqdw6Kv69JwDtX9AXmV8-fm6t54pB8PATe-Pzv5BHmyDELvrJFZqQ7nx8_vZwcD6x",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugrv8PTC03pg14JZ1_5BcH28j9ZypYNOxXZlENF6zaSl01am-",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01jzqf6.jpg",
+        "image_width": 270,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Morning news and current affairs with James Naughtie and Evan Davis, including NHS England chief on health service future, Cerys Matthews examines Welsh attitudes to independence.\n\nMorning news and current affairs with James Naughtie and Evan Davis, including:\n\n0810\nThe leaders of the health service in England have issued a stark warning that big decisions need to be made urgently about the organisation of hospitals and GP surgeries, to avoid a financial crisis or problems such as the Mid Staffs scandal. David Nicholson, chief executive of NHS England, explains that NHS England could be a funding gap of £30bn by the end of this decade, if nothing is done.\n\n0819\nThe people of Scotland will vote on Independence next year, but Wales has traditionally seen much lower levels of support for independence than Scotland. Singer and broadcaster Cerys Matthews gives her personal view on whether Wales looks enviously or nervously, at the choice that Scottish voters have.\n\n0832\nAfter the controversy over the Labour candidate selection in Falkirk - Ed Miliband has announced that an open primary - where the public pick the parties candidate - will be used for selecting Labour's London mayoral candidate. Dr Sarah Wollaston, MP for Totnes since 2010, and Alex Massie, freelance journalist writing for the Spectator among others from Washington, discuss the method of using open primaries to choose officials.\n\n0836\nThe government is announcing today it is making a £60m investment in the science which involves assembling artificial genes to create new materials. Drew Endy, assistant professor of bioengineering at Stanford University, explains the importance of synthetic Biology.\n\nShow less",
+        "metadata": {
+          "title": "BBC Radio 4 - Today, 11/07/2013",
+          "description": "NHS England chief on its challenges, Cerys Matthews on Welsh attitudes to independence.",
+          "og:description": "NHS England chief on its challenges, Cerys Matthews on Welsh attitudes to independence.",
+          "fb:pages": "6025943146,7397061762,7519460786,7833211321,8244244903,8251776107,8585725981,21750735380,80758950658,125309456546,130593816777,154344434967,228735667216,260212261199,260967092113,294662213128,295830058648,304314573046,401538510458,107909022566650,118883634811868,129044383774217,156060587793370,156400551056385,163571453661989,168895963122035,185246968166196,193022337414607,193435954068976,194575130577797,215504865453262,239931389545417,273726292719943,283348121682053,286567251709437,292291897588734,310719525611571,317278538359186,413132078795966,470911516262605,512423982152360,647687225371774,658551547588605,742734325867560,944295152308991,958681370814419,1143803202301544,1159932557403143,1392506827668140,1411916919051820,1477945425811579,1659215157653827,1731770190373618",
+          "og:site_name": "BBC",
+          "og:title": "BBC Radio 4 - Today, 11/07/2013",
+          "og:type": "website",
+          "og:url": "https://www.bbc.co.uk/programmes/b036kt0z",
+          "og:image": "https://ichef.bbci.co.uk/images/ic/1200x675/p01jzqf6.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Actualités matinales animées par James Naughtie et Evan Davis, abordant l'avenir du service de santé avec David Nicholson (directeur général de NHS England) qui évoque un déficit de financement potentiel de 30 milliards de livres sterling. Cerys Matthews discute des attitudes galloises vis-à-vis de l'indépendance. Ed Miliband annonce une primaire ouverte pour la sélection du candidat travailliste à la mairie de Londres après la controverse de Falkirk. Dr Sarah Wollaston et Alex Massie discutent des primaires ouvertes. Drew Endy, professeur assistant de bioingénierie à l'Université de Stanford, explique l'importance de la biologie synthétique avec un investissement gouvernemental de 60 millions de livres sterling.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "James Naughtie",
+          "Evan Davis",
+          "David Nicholson",
+          "Cerys Matthews",
+          "Ed Miliband",
+          "Sarah Wollaston",
+          "Alex Massie",
+          "Drew Endy"
+        ],
+        "LOCATION": [
+          "England",
+          "Wales",
+          "Scotland",
+          "Falkirk",
+          "London",
+          "Totnes",
+          "Washington"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC Radio 4",
+          "NHS England",
+          "Labour",
+          "Spectator",
+          "Stanford University"
+        ],
+        "DATE": [
+          "11/07/2013",
+          "2010"
+        ],
+        "EVENT": [
+          "Today"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6766467041546326
+    },
+    {
+      "titre": "Migrant salary rules may cost NHS nurse jobs, union warns ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/health-33201189",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09B4/production/_83748420_nurse2_spl.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCxVb-wjCaF7N1kOiVvmr7gw_cAF7vZq08dEg1O9WCb3tuVFQ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Migrant salary rules may cost NHS nurse jobs, union warns ...",
+        "link": "https://www.bbc.com/news/health-33201189",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCxVb-wjCaF7N1kOiVvmr7gw_cAF7vZq08dEg1O9WCb3tuVFQ",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09B4/production/_83748420_nurse2_spl.jpg",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Migrant salary rules may cost NHS nurse jobs, union warns\n\nPublished\n\n22 June 2015\n\n\nByNick Triggle\n\nHealth correspondent\n\nThousands of foreign nurses working in junior posts in the UK could be forced to return home under new immigration rules, union leaders have warned.\n\nA new pay threshold for migrants means non-European workers will have to leave the UK after six years if they are not earning at least £35,000.\n\nThe Royal College of Nursing said the rules would \"cause chaos\" for the NHS and waste money spent on recruitment.\n\nThe Home Office said the rules would help reduce demand for migrant labour.\n\nAnd Prime Minister David Cameron even got drawn into the issue, saying more homegrown nurses were in the process of being recruited.\n\nThe move is part of the government's effort to control net migration, but the union says that by 2017 more than 3,300 NHS nurses could be affected.\n\n\nAnd by the end of the decade the numbers could be double that - a potential waste of nearly £40m when all the costs of recruitment are taken into account, the RCN says.\n\nThere are more than 400,000 nurses working in the NHS and over 600,000 registered to work.\n\nThe warning comes as the RCN's annual conference gets under way in Bournemouth.\n\n\nMore difficult\n\n\nRCN general secretary Peter Carter said: \"The immigration rules will cause chaos for the NHS and other care services.\n\n\"At a time when demand is increasing, the UK is perversely making it harder to employ staff from overseas.\"\n\nHe told BBC Radio 4's Today programme the move was \"totally illogical\" as there is currently a \"major shortage of nurses\", leading to many NHS trusts spending \"tens of millions\" to recruit from overseas.\n\n\nDr Carter also stressed that most nurses earn \"nowhere near\" £35,000, with most on salaries of between £21,000 and £28,000 a year.\n\nDue to cuts to nurse-training places, trusts are being forced into relying on overseas recruitment as well as temporary staff just to provide safe staffing.\n\nThe long-term solution is to train more nurses in the UK, but in the interim, foreign nurses filled the gap, he added.\n\nSource: Royal College of Nursing and NHS England\n\nHe said of the new rules: \"It can't be morally or ethically right but will also have a huge impact on the ability of the health service to carry on in the way it has.\"\n\nA Home Office spokesman said: \"As the prime minister has made clear, the government wants to reduce the demand for migrant labour.\n\n\"We changed the settlement rules in 2011 to break the link between coming to work in the UK and staying here permanently.\"\n\nHe said employers had had four years to prepare for the changes, adding: \"There are exemptions to this threshold where the UK has a shortage.\"\n\n\nAt the moment nurses are not on that exemption list, but the spokesman said it was possible they could still be added if evidence showed this was needed.\n\nMeanwhile, Mr Cameron said he did not believe the immigration rules would lead to a shortfall of nurses.\n\n\"We have got a massive training programme for nurses at the moment, there are something like 8,000 more nurses in the NHS today than when I became Prime Minister. The training programme will continue,\" he said.\n\n\"But, crucially, we have an organisation called the Migration Advisory Committee and they advise us about which occupations to put on the so-called shortage occupations list, the ones where they fear skills shortages will develop.\n\n\"They haven't put nursing on that shortage occupation list and I think we should listen to their advice above all.\"\n\n\nAnalysis - Hugh Pym, BBC health editor\n\n\nNursing shortages and spiralling agency costs have generated intense pressures on hospital finances. Calls by regulators for higher staff numbers following scandals such as mid- Staffs have resulted in higher demand for nurses at a time of limited supply.\n\nIn effect, the RCN is saying the Government is shooting itself in the foot by pursuing a policy which could squeeze the supply of nurses even further. Making nurses from outside the European Economic Area quit the UK if they don't earn enough could deter their compatriots from seeking work here at a time of rising demand for qualified nurses in most leading economies.\n\nThe other side of the debate is the suggestion that the UK should train more homegrown nurses and not rely so much on migrant staff. The tighter immigration rules do not effect recruitment from inside the EEA so there is still a supply of trained foreign health staff. The Home Office, responsible for immigration policy, and the Department of Health, anxious to ensure there are enough nurses, will no doubt be engaged in some full and frank discussions on this vexed issue.\n\n\nThe Economist Intelligence Unit said any problems might be short-lived since there are now more nurse training posts in place and the Migration Advisory Committee has a system in place to identify skills shortages.\n\nBut Labour's Shadow Health Minister Andrew Gwynne said cuts to nurse training had left NHS hospitals with \"no option but to recruit from overseas or hire expensive agency nurses.\"\n\nAnd British Medical Association Dr Mark Porter, speaking at the doctor's conference which is also taking place this week, also came to the defence of people from abroad who are working in the NHS.\n\n\"What did we hear in the election campaign from politicians of several parties?\n\n\"We were told immigrants are filling up our GP surgeries and our hospitals.\n\n\"Well they are. They're called doctors. And nurses. And porters and cleaners and clinical scientists. And without them, the NHS would be on its knees.\"\n\n\nMore on this story\n\n * Nurse cuts 'put 7-day plan at risk'\n   \n   Published\n   \n   21 June 2015\n   \n   \n\n * 'New deal' if GPs open seven days\n   \n   Published\n   \n   19 June 2015\n   \n   \n\n * Why bother with seven-day GP opening?\n   \n   Published\n   \n   19 June 2015\n\n * GP workload harming care - BMA poll\n   \n   Published\n   \n   9 April 2015\n   \n   \n\n * Have GP services got worse?\n   \n   Published\n   \n   7 April 2015\n   \n   \n\n * Is there really a crisis among GPs?\n   \n   Published\n   \n   4 November 2014\n\n * PM vows seven-day GP access by 2020\n   \n   Published\n   \n   30 September 2014\n   \n   \n\n * The battle over GP opening\n   \n   Published\n   \n   30 September 2014\n\n * Seeing a GP 'getting more difficult'\n   \n   Published\n   \n   3 July 2014\n   \n   \n\n * GP services 'face cuts catastrophe'\n   \n   Published\n   \n   3 October 2013\n   \n   \n\n * GP hours scheme 'to benefit 7m'\n   \n   Published\n   \n   14 April 2014\n   \n   \n\n * Millions wait a week to see a GP\n   \n   Published\n   \n   24 December 2013\n   \n   \n\n * PM promises more flexible GP hours\n   \n   Published\n   \n   1 October 2013\n   \n   \n\n * GP opening: Reinventing the wheel?\n   \n   Published\n   \n   1 October 2013\n\n\nRelated internet links\n\n * Department of Health\n\nThe BBC is not responsible for the content of external sites.",
+        "metadata": {
+          "description": "Thousands of foreign nurses in junior posts could be forced to leave the UK under new migrant salary rules, leading to \"chaos\" in the NHS, unions warn.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Thousands of foreign nurses in junior posts could be forced to leave the UK under new migrant salary rules, leading to \"chaos\" in the NHS, unions warn.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09B4/production/_83748420_nurse2_spl.jpg",
+          "og:image:alt": "nurse at work",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Migrant salary rules may cost NHS nurse jobs, union warns",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/health-33201189",
+          "article:section": "Health",
+          "twitter:description": "Thousands of foreign nurses in junior posts could be forced to leave the UK under new migrant salary rules, leading to \"chaos\" in the NHS, unions warn.",
+          "twitter:title": "Migrant salary rules may cost NHS nurse jobs, union warns"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/health-33201189",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-06-21T23:49:28.000Z",
+          "dateModified": "2015-06-22T12:50:55.000Z",
+          "description": "Thousands of foreign nurses in junior posts could be forced to leave the UK under new migrant salary rules, leading to \"chaos\" in the NHS, unions warn.",
+          "headline": "Migrant salary rules may cost NHS nurse jobs, union warns",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09B4/production/_83748420_nurse2_spl.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09B4/production/_83748420_nurse2_spl.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/health-33201189",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Nick Triggle"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des dirigeants syndicaux préviennent que de nouvelles règles d'immigration sur les salaires des migrants pourraient forcer des milliers d'infirmières étrangères juniors travaillant au Royaume-Uni à repartir chez elles si elles ne gagnent pas au moins 35 000 £ après six ans. Le Royal College of Nursing affirme que cela causera le chaos pour le NHS. Le Premier ministre David Cameron indique que davantage d'infirmières formées localement sont recrutées. Peter Carter, secrétaire général du RCN, s'exprime sur la pénurie majeure d'infirmières et les salaires généralement compris entre 21 000 £ et 28 000 £.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nick Triggle",
+          "David Cameron",
+          "Peter Carter",
+          "Carter"
+        ],
+        "LOCATION": [
+          "UK",
+          "Bournemouth"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Royal College of Nursing",
+          "RCN",
+          "Home Office",
+          "NHS England"
+        ],
+        "DATE": [
+          "22 June 2015",
+          "2017",
+          "2011"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "NHS"
+        ]
+      },
+      "score_e5": 0.6811223545917484
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "English",
+      "German",
+      "Italian"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Philippines",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Fergus Walsh",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Andrew Pollard",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oxford",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bristol",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Exeter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Southampton",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Children's Hospital at the John Radcliffe",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "GSK",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Medicines Agency",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Baxter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of Oxford",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2009",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1976",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "H1N1",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Pandemrix",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Guillian-Barré syndrome",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Moises Naim",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Zuckerberg",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Venezuela",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC Radio 4",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "23/01/2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Today",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The End of Power",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "James Naughtie",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Evan Davis",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Nicholson",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cerys Matthews",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ed Miliband",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sarah Wollaston",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alex Massie",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Drew Endy",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "England",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wales",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Falkirk",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Totnes",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NHS England",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Labour",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Spectator",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Stanford University",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "11/07/2013",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nick Triggle",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Cameron",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Peter Carter",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bournemouth",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Royal College of Nursing",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Home Office",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "22 June 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "NHS",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T21:03:40.484234"
+  }
+}

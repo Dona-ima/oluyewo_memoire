@@ -1,0 +1,846 @@
+{
+  "id_rumeur": 905423,
+  "id_image": 915316,
+  "caption": "Afghan soldiers in Helmand on 21 December",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757294/oluyewo_benchmark/faqyn5v6bqlelckigwjw.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Afghanistan car bomb attack injures 10 British troops ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2013/mar/26/10-troops-injured-afghanistan-bomb",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/3/26/1364295174281/British-troops-in-Afghani-010.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7C5VDjI43mIThPl5CMSoktnkJL3wO-b7hUC4XxxPQz0WqIHG7",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Afghanistan car bomb attack injures 10 British troops ...",
+        "link": "https://www.theguardian.com/world/2013/mar/26/10-troops-injured-afghanistan-bomb",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f02efdd2e16fb025ff9d4/images/DPEeM1lqj9a4M7YMcSmSO1K-Lf0OWAb7Zxv5g7D7aJM.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7C5VDjI43mIThPl5CMSoktnkJL3wO-b7hUC4XxxPQz0WqIHG7",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/3/26/1364295174281/British-troops-in-Afghani-010.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Afghanistan car bomb attack injures 10 British troops | Afghanistan\n\nAt least 10 British troops have been injured in a suspected suicide car bomb attack on a patrol base in Afghanistan's Helmand province. The insurgents followed up the blast with small arms fire on the base in Nad Ali, one of the districts where UK troops have been based during their time in the country.\n\nFive insurgents were killed in the attack on the base on Monday night, which is jointly operated by the Afghan army and troops from Nato's International Security and Assistance Force (Isaf).\n\nThough no Isaf troops died in the attack, it is understood one British soldier was severely wounded and airlifted by helicopter to Camp Bastion, the main UK base in the province. Most of the others were \"walking wounded\". Members of the Afghan national security force were also among the injured.\n\nThe attack is the boldest the insurgents have undertaken during the winter months – no UK soldiers have been killed here since January, making it one of the quietest tours the British have experienced since troops were deployed here in 2006.\n\nIsaf said: \"We can confirm that last night in Nad Ali district, Helmand province, insurgents attacked a combined Afghan and Isaf patrol base with a vehicle-borne improvised explosive device and small arms fire. A number of insurgents were killed. Several Isaf service members were wounded in the attack. There were no Isaf fatalities. The base is secured and fully operational.\"\n\nNad Ali was a Taliban hotbed when the UK first arrived, but has been regarded as one of the success stories in recent years, as British and Afghan forces have taken control of the populated areas, driving the insurgents into the desert hinterland.\n\nIt is of the districts in Helmand that has been \"transitioned\" to Afghan control as Isaf steps back from frontline duties, leaving security almost entirely in the hands of the Afghans.",
+        "metadata": {
+          "title": "Afghanistan car bomb attack injures 10 British troops | Afghanistan | The Guardian",
+          "description": "One of the injured soldiers is airlifted to Camp Bastion after blast and gun battle in which five insurgents are killed",
+          "og:url": "http://www.theguardian.com/world/2013/mar/26/10-troops-injured-afghanistan-bomb",
+          "article:author": "https://www.theguardian.com/profile/nickhopkins",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/3/26/1364295174281/British-troops-in-Afghani-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=d77e66036644e663bafff3139b780967",
+          "al:ios:url": "gnmguardian://world/2013/mar/26/10-troops-injured-afghanistan-bomb?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Afghanistan car bomb attack injures 10 British troops",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-01T13:42:44.000Z",
+          "og:image:height": "720",
+          "og:description": "One of the injured soldiers is airlifted to Camp Bastion after blast and gun battle in which five insurgents are killed",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2013-03-26T10:54:33.000Z",
+          "article:tag": "Afghanistan,World news,Military,UK news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une attaque à la voiture piégée menée par des insurgés a blessé au moins 10 soldats britanniques et des membres des forces de sécurité nationales afghanes dans une base de patrouille à Nad Ali, dans la province de Helmand en Afghanistan. L'attaque a été suivie de tirs d'armes légères. Cinq insurgés ont été tués. Un soldat britannique a été grièvement blessé et évacué vers Camp Bastion.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Afghanistan",
+          "Helmand",
+          "Nad Ali",
+          "Camp Bastion"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Nato",
+          "International Security and Assistance Force",
+          "Isaf",
+          "Afghan army",
+          "Taliban"
+        ],
+        "DATE": [
+          "2013",
+          "March",
+          "26",
+          "Monday night",
+          "January",
+          "2006"
+        ],
+        "EVENT": [
+          "Afghanistan car bomb attack"
+        ],
+        "OTHER": [
+          "suicide car bomb attack"
+        ]
+      },
+      "score_e5": 0.7939811828411566
+    },
+    {
+      "titre": "Alfa company hi-res stock photography and images - Alamy",
+      "source": "Alamy",
+      "lien": "https://www.alamy.com/stock-photo/alfa-company.html?_ga=2.191333418.1200833656.1516406400-2865802.1516406400&pseudoid=79457F45-2FC2-4129-98BB-F7EDD2A4A525",
+      "image_url": "https://c8.alamy.com/zooms/9/3ad0c7dcc95147c4bf27db844c7fd8c7/g4wcha.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrmginzTAUQFZ2ZtnvyN2RKV1Nn3JUqfD_8JxZd3tyoW0ZOpEQ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Alfa company hi-res stock photography and images - Alamy",
+        "link": "https://www.alamy.com/stock-photo/alfa-company.html?_ga=2.191333418.1200833656.1516406400-2865802.1516406400&pseudoid=79457F45-2FC2-4129-98BB-F7EDD2A4A525",
+        "source": "Alamy",
+        "source_icon": "https://serpapi.com/searches/6a8f02efdd2e16fb025ff9d4/images/mp6IibpQbZEMzTCW4DhvhwVQAldWDV40tJLNeksjNNk.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrmginzTAUQFZ2ZtnvyN2RKV1Nn3JUqfD_8JxZd3tyoW0ZOpEQ",
+        "thumbnail_width": 179,
+        "thumbnail_height": 282,
+        "image": "https://c8.alamy.com/zooms/9/3ad0c7dcc95147c4bf27db844c7fd8c7/g4wcha.jpg",
+        "image_width": 406,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Alfa company hi-res stock photography and images\n\n* Editorial\n   * Editorial Homepage\n   * Live News Feed\n   * News\n   * Sports\n   * Entertainment\n   * Archive\n * Creative\n   * Images Homepage\n   * Fresh Picks\n   * Photos\n   * Vectors\n   * Illustrations\n   * 360° Panoramic Images\n   * Contributor Spotlight\n   * Image Categories\n * Videos\n   * Videos Homepage\n   * Video Collections\n\n * Subscriptions\n * Pricing and Licenses\n   * Image Licenses\n   * Video Licenses\n   * Image Packs\n\n * Lightboxes\n * Cart\n * Sign in\n\nHi there!\n\nLightboxes\n\nShare Alamy images with your team and customers\n\n * Create a lightbox ›\n\nAll imagesSmartphone imagesVideos\n\n\nAlfa company Stock Photos and Images\n\nFilter by agency collections\n\nNo agencies were found for this search\n\nSearch builder\n\nBuild your search with words and phrases. Use any combination to refine your search.\n\nDownload Confirmation\n\nPassword Confirmation\n\nPlease enter your password *\n\nForgotten your password?",
+        "metadata": {
+          "title": "Alfa company hi-res stock photography and images - Alamy",
+          "apple-mobile-web-app-title": "Alamy images",
+          "fb:admins": "150454471633963",
+          "author": "Alamy Limited",
+          "description": "Find the perfect alfa company stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+          "twitter:title": "Alfa company hi-res stock photography and images - Alamy",
+          "twitter:description": "Find the perfect alfa company stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+          "og:title": "Alfa company hi-res stock photography and images - Alamy",
+          "og:site_name": "Alamy",
+          "og:type": "website",
+          "og:description": "Find the perfect alfa company stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+          "og:image:alt": "Alfa company Stock Photos and Images",
+          "og:url": "https://www.alamy.com/stock-photo/alfa-company.html?pseudoid=79457F45-2FC2-4129-98BB-F7EDD2A4A525"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de la photothèque Alamy proposant des photographies de stock et des images de editorial, live news feed, sports, entertainment et autres catégories pour Alfa company.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Alamy",
+          "Alfa company"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7328258521076647
+    },
+    {
+      "titre": "US Air Force TACP calls for close air support as US Army ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/MilitaryPorn/comments/5kil79/us_air_force_tacp_calls_for_close_air_support_as/",
+      "image_url": "https://external-preview.redd.it/us-air-force-tacp-calls-for-close-air-support-as-us-army-v0-xvS9dATfdFEWZlX42ReHt6zrtRnNCTL54wiKaXpY9Ys.jpg?width=640&crop=smart&auto=webp&s=099c0ace0ac1522ac28d7fb5394f4b1766c00f15",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTLAyr-k-uBOQfuMbeVlwOc7H9PJsWTq2c6Xele3RgoFxSkvRV",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "US Air Force TACP calls for close air support as US Army ...",
+        "link": "https://www.reddit.com/r/MilitaryPorn/comments/5kil79/us_air_force_tacp_calls_for_close_air_support_as/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTLAyr-k-uBOQfuMbeVlwOc7H9PJsWTq2c6Xele3RgoFxSkvRV",
+        "thumbnail_width": 189,
+        "thumbnail_height": 266,
+        "image": "https://external-preview.redd.it/us-air-force-tacp-calls-for-close-air-support-as-us-army-v0-xvS9dATfdFEWZlX42ReHt6zrtRnNCTL54wiKaXpY9Ys.jpg?width=640&crop=smart&auto=webp&s=099c0ace0ac1522ac28d7fb5394f4b1766c00f15",
+        "image_width": 456,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "US Air Force TACP calls for close air support as US Army soldiers pull security. Wardak Province, Afghanistan, 2011 [4599 x 3277]\n\n\n\nPunani_Punisher • r/MilitaryPorn • 12/27/2016, 7:43:02 AM\n\n↑149 • 16 comments\n\n\n\n---\n* [deleted] • 12/27/2016, 10:36:54 AM • ↑8\n\n  Aren't these Air Force troops like elite attaches to the army patrols?\n\n  \n\n  * tremens • 12/27/2016, 2:27:28 PM • ↑14\n\n    Not sure how you're qualifying \"elite,\" but yeah pretty much. TACP are Air Force enlisted and trained in the control and targeting of aircraft strikes on ground targets. They embed with Army units (even in peacetime; they are stationed with Army) and act as liaisons for infantry and air support. There is some overlap between their roles and Combat Controllers and even Combat Weather. Of the three, Combat Controllers are generally considered the more elite, Special Forces-type roles.\n\n    \n\n    * [deleted] • 12/27/2016, 3:28:07 PM • ↑4\n\n      Very informative comment; I'd only seen pictures of the Combat Controllers in this sub a month back, and must've confused them. That's really cool to know, thanks!\n\n      \n\n    * DrGoldfish • 12/27/2016, 7:35:24 PM • ↑2\n\n      Interesting comment! I did not know one was considered more elit and always just assumed the only difference was that TACP was a team and CCT was a single individual. Is their training very different?\n\n      \n\n      * tremens • 12/27/2016, 7:52:21 PM • ↑9\n\n        Lots of differences. Combat Controllers are assigned as Special Operations and have to be FAA Certified Air Traffic Controllers. The washout rate for CCT is over 90%; only one in ten or less makes it. They mostly obtain the JTAC certification (the certification that TACPs hold) in addition to being Airborne certified and undergoing Army Freefall Parachutist, SERE school, and Dive School (lots of TACPs hold Airborne, though not usually Freefall, and attend SERE school and such too, of course.)\n        \n        Assuming they attend everything before exiting, they basically have to be full fledged Special Operations infantry, radarmen, weathermen, air traffic controllers, ground attack coordinators, HALO jumpers, pararescue, and SEALs all in one.\n        \n        The general purpose of their role is to covertly enter areas behind enemy lines and coordinate eyes-on target for air strike or secure/create combat airfields.\n        \n        Anecdotally, I've been friends with a few over the years and all of them were a) crazy-but-smart people, and mostly adrenaline junkies and b) constantly disappearing for weeks at a time on secret squirrel shit they couldn't ever talk about.\n\n        \n\n        * DrGoldfish • 12/27/2016, 7:54:05 PM • ↑2\n\n          Ah ok, thank you for taking the time to write up such an excellent answer! :)\n\n          \n\n          * tremens • 12/27/2016, 8:15:30 PM • ↑11\n\n            No problem mate. Here's a great video with audio of a CCT coordinating an A-10 strike while under heavy fire if you're interested. Here's an article about Tech Sgt. Ismael Villegas, two time Silver Star recipient and a picture of him in action, a guy I've actually had the pleasure of meeting once.\n\n            \n\n            * DrGoldfish • 12/27/2016, 8:46:52 PM • ↑5\n\n              Oh yes I know that video, think I played a scenario of it in DCS 10 or another flight sim. The intensity of the situation is insane. Very cool picture as well, thanks for including it.\n              \n              Seems like the role these guys play is starting to become more and more important, I've heard talk of creating training programs for them over here in the Swiss military.\n\n              \n\n            * sofa_king_awesome • 12/28/2016, 1:27:28 AM • ↑2\n\n              Thanks for all the info, about to read the article you linked. Just going off the blue link I have one last question. What rank to most CCT guys hold, or does it vary?\n\n              \n\n* xoknight • 12/27/2016, 6:45:45 PM • ↑3\n\n  This is one of the coolest pics ever\n\n  \n\n* Punani_Punisher • 12/27/2016, 7:44:18 AM • ↑2\n\n  > U.S. Army Spc. Jacob Behning, 4th Infantry Regiment, pulls security while Air Force Staff Sgt. Terral Leaks, 15th Air Support Operation Squadron, calls for close-air support during a patrol in Sayed Abad District, Wardak province, Afghanistan, April 4, 2011.\n\n  \n\n* TomcatZ06 • 12/28/2016, 5:52:22 PM • ↑1\n\n  Is it just me or does the USAF guy have a 10th Mountain patch on his shoulder?\n\n  \n\n  * TomNguyen • 12/30/2016, 12:15:19 AM • ↑1\n\n    He got 10th Moutain patch because they got attached to them.\n\n    \n\n    * TomcatZ06 • 12/30/2016, 12:41:31 AM • ↑1\n\n      Is that typical? Is that part of their uniform, or so they have the freedom like other SF to wear whatever patches they want?\n\n      \n\n      * mikeMcFly13 • 12/30/2016, 2:46:52 PM • ↑1\n\n        Most TACP won't even wear unit patches while deployed.\n\n        \n\n      * TomNguyen • 12/30/2016, 6:50:12 PM • ↑1\n\n        Mostly they wear a patches with a dïvision they attached or used to attached to. Or none because SOF\n\n        \n\n",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Des soldats de l'US Air Force TACP appellent à un soutien aérien rapproché pendant que des soldats de l'US Army assurent la sécurité dans la province de Wardak, en Afghanistan, en 2011.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Punani_Punisher",
+          "tremens",
+          "DrGoldfish",
+          "Ismael Villegas"
+        ],
+        "LOCATION": [
+          "Wardak Province",
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "US Air Force",
+          "US Army",
+          "TACP",
+          "Combat Controllers",
+          "CCT",
+          "FAA",
+          "SEALs"
+        ],
+        "DATE": [
+          "2011",
+          "12/27/2016",
+          "month back"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "JTAC",
+          "Silver Star"
+        ]
+      },
+      "score_e5": 0.7903407165224124
+    },
+    {
+      "titre": "More US Troops Possible in Syria, Defense Sec. Ash Carter ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/Politics/defense-sec-ash-carter-us-troops-syria/story?id=35044370",
+      "image_url": "https://s.abcnews.com/images/US/gty_iraq_troops_mt_151108_16x9_992.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7bSzEy-WngpJvXPvjzkkugVk8JcMXIygBZPdTW3S0qqLrvSQ2",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "More US Troops Possible in Syria, Defense Sec. Ash Carter ...",
+        "link": "https://abcnews.com/Politics/defense-sec-ash-carter-us-troops-syria/story?id=35044370",
+        "source": "ABC News",
+        "source_icon": "https://serpapi.com/searches/6a8f02efdd2e16fb025ff9d4/images/aC-zVdWieFiI_tkPwWmtLvoHKDGhXriRomJdqP7Nzqk.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7bSzEy-WngpJvXPvjzkkugVk8JcMXIygBZPdTW3S0qqLrvSQ2",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://s.abcnews.com/images/US/gty_iraq_troops_mt_151108_16x9_992.jpg",
+        "image_width": 558,
+        "image_height": 992
+      },
+      "webpage": {
+        "text": "More US Troops Possible in Syria, Defense Sec. Ash Carter Says\n\nABC News' Bob Woodruff spoke with Defense Secretary Ash Carter.\n\n&#151; -- Just days after the White House announced that President Obama had authorized the deployment of a small contingent of special operations forces to the war-torn country of Syria, Secretary of Defense Ash Carter said more American troops could \"absolutely\" be sent into the country if the United States can find more \"capable\" local forces to partner with in the fight against ISIS.\n\n\"If we find additional groups that are willing to fight ISIL and are capable and motivated, we'll do more. The president has indicated a willingness to do more, I certainly am prepared to recommend he do more, but you need to have capable local forces; that's the key to sustainable victory,\" Carter told ABC News’ Bob Woodruff this week during an interview aboard the USS Theodore Roosevelt in the South China Sea.\n\nThe White House last month announced that approximately 50 special operations forces would deploy to Syria despite the president's statements going back to 2013 that he would not commit American boots on the ground there.\n\n\"What they are doing there is they are enabling local forces, a mixture of Kurds and Syrian Arabs, who want to fight ISIL. So this small, very elite group, is intended to bring to bear all that the United States can bring to bear, in the way of intelligence, air power and so forth, to help these motivated, capable local forces,\" Carter told ABC News. \"And this is an instance of the whole strategy. We have to beat ISIL. We will beat ISIL. ISIL's heart is in Syria and Iraq.\"\n\n\nPopular Reads\n\n\nWhile the main mission of the troops being deployed to Syria is to advise and assist specific rebel groups, circumstances may force American soldiers into combat situations. In Iraq last month – where troops are also in an advisory role -- Master Sergeant Joshua L. Wheeler was killed during a raid.\n\n\nCarter acknowledged the possibility there could be other such incidents.\n\n\"It wasn't [Wheeler's] mission to conduct the assault; it was his mission to support the assault. But when he saw the assault get into trouble, he sprang into action. Now that wasn't part of his mission statement, but it was a reflection of tremendous personal heroism on his part,\" Carter said. \"We're sending them into a dangerous situation and it can develop into a combat situation as it did with Joshua Wheeler.\"\n\n\nSponsored Content by Taboola",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "ABC News' Bob Woodruff spoke with Defense Secretary Ash Carter.",
+          "keywords": "This Week, George Stephanopoulos, Ash Carter, China, Russia, ISIS, President Obama ",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "More US Troops Possible in Syria, Defense Sec. Ash Carter Says",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/Politics/defense-sec-ash-carter-us-troops-syria/story?id=35044370",
+          "og:title": "More US Troops Possible in Syria, Defense Sec. Ash Carter Says",
+          "og:description": "ABC News' Bob Woodruff spoke with Defense Secretary Ash Carter.",
+          "og:image": "https://s.abcnews.com/images/US/gty_iraq_troops_mt_151108_16x9_992.jpg?w=1600",
+          "og:type": "article",
+          "lastPublishedDate": "2015-11-09T12:04:41Z",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "55845270277",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@ABC",
+          "twitter:creator": "ABC News",
+          "twitter:title": "More US Troops Possible in Syria, Defense Sec. Ash Carter Says",
+          "twitter:description": "ABC News' Bob Woodruff spoke with Defense Secretary Ash Carter.",
+          "twitter:url": "https://abcnews.com/Politics/defense-sec-ash-carter-us-troops-syria/story?id=35044370",
+          "twitter:image": "https://s.abcnews.com/images/US/gty_iraq_troops_mt_151108_16x9_992.jpg?w=1600",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "al:iphone:url": "abcnewsiphone://link/prism-story,35044370",
+          "al:iphone:app_store_id": "300255638",
+          "al:iphone:app_name": "ABC News - Breaking US & World News",
+          "al:ipad:url": "abcnewsipad://link/prism-story,35044370",
+          "al:ipad:app_store_id": "380520716",
+          "al:ipad:app_name": "ABC News for ipad",
+          "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.com/Politics/defense-sec-ash-carter-us-troops-syria/story?id=35044370",
+          "al:android:app_name": "ABC News Breaking Latest News",
+          "al:android:package": "com.abc.abcnews",
+          "al:web:url": "https://abcnews.com/Politics/defense-sec-ash-carter-us-troops-syria/story?id=35044370"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le secrétaire à la Défense Ash Carter a déclaré que davantage de troupes américaines pourraient être envoyées en Syrie si les États-Unis trouvent des forces locales capables de s'associer dans la lutte contre l'EI. L'administration a déployé un petit contingent de forces d'opérations spéciales pour aider et conseiller les forces locales. Le maître-sergent Joshua L. Wheeler a été tué lors d'un raid en Irak.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ash Carter",
+          "Bob Woodruff",
+          "Obama",
+          "Joshua L. Wheeler"
+        ],
+        "LOCATION": [
+          "Syria",
+          "United States",
+          "South China Sea",
+          "Iraq"
+        ],
+        "ORGANIZATION": [
+          "ABC News",
+          "White House",
+          "ISIS",
+          "ISIL",
+          "USS Theodore Roosevelt",
+          "Taboola"
+        ],
+        "DATE": [
+          "last month",
+          "2013"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7450108277008952
+    },
+    {
+      "titre": "US troops will stay in Afghanistan to support local forces ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2013/mar/25/us-forces-afghanistan-local-troops-john-allen",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/3/26/1364295174281/British-troops-in-Afghani-010.jpg?width=220&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1NhFdGS4-pfpMZKqON9lTb6ysf1ZRW4QQAfNiM5gG0KGlPvQT",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "US troops will stay in Afghanistan to support local forces ...",
+        "link": "https://www.theguardian.com/world/2013/mar/25/us-forces-afghanistan-local-troops-john-allen",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f02efdd2e16fb025ff9d4/images/oCxAHsz069L75IiMcCgKbqzX0tkn5Fg3p5PNwv1RpTQ.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1NhFdGS4-pfpMZKqON9lTb6ysf1ZRW4QQAfNiM5gG0KGlPvQT",
+        "thumbnail_width": 176,
+        "thumbnail_height": 220,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/3/26/1364295174281/British-troops-in-Afghani-010.jpg?width=220&dpr=1&s=none&crop=5:4",
+        "image_width": 176,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "US troops will stay in Afghanistan to support local forces, Allen insists | Afghanistan\n\nThe US and its allies will retain a presence in Afghanistan big enough to bolster Afghan forces after the withdrawal of international combat troops at the end of 2014, the recently retired commander in Afghanistan, General John Allen, said on Monday.\n\nSpeaking in Washington, Allen said he had never been asked to produce a report on the so-called \"zero option\" – the suggestion that no American troops would remain after the 2014 deadline, floated by one White House adviser in January.\n\nInstead, Allen said that he expected that Obama would approve a force that would be commensurate with ensuring that the Afghan security forces could be properly supported.\n\nObama is currently considering how many troops are to be left behind, mostly in an advisory capacity, after the official withdrawal in 2014.\n\nSpeculation on the size of the force ranges from about 6,000 through to 20,000. Allen offered Obama various options about force size before retiring last month. He ruled out a full pullout, an option the White House deputy national security adviser Ben Rhodes had said in January was on the table.\n\n\"I was never asked to conduct any analysis with respect to the zero option,\" Allen told a meeting at the Brookings Institution in Washington on Monday.\n\nRelations between the US and the Afghanistan president Hamid Karzai have been strained since he accused Washington two weeks ago of colluding with the Taliban, prompting questions in America about why it bothered to keep any troops in the country.\n\nAllen rejected Karzai's accusation outright. \"If the president truly does believe the US is colluding with the Taliban, I am here to tell you [that] I would know – and it ain't so.\"\n\nIn spite of the complexity of the relationship between the Obama administration and Karzai, whose term is due to finish next year, Allen stressed that the US and other countries intended to stick with Afghanistan for the long term.\n\n\"Sometimes this comes as a surprise when I say this: that on January 1 2015, there's still going to be fighting in Afghanistan,\" Allen said.\n\nAfter 2014, the main mission would be to build up the Afghanistan army and police, Allen said. But he did not want to pre-empt Obama on the number of US and international forces needed to achieve that.\n\n\"The numbers I have seen can accomplish those objectives. I believe we will be right on the edge of the resources, but I think we will get the resources that will be necessary to accomplish those missions,\" he said. The aim is to maintain an Afghan force of about 352,000.\n\nThe Afghan army has been widely criticised, with frequent predictions that it will fall apart in the face of the Taliban insurgency without the backing of US and international forces. But Allen said the criticism should not be directed at ordinary Afghan soldiers who were among the first into the line of fire. The problem had been with commanders and officers and there had been a surprising improvement throughout all ranks.\n\nThe Afghan security force, he said, \"turned out to be better than we thought, and they turned out to be better than they thought\".",
+        "metadata": {
+          "title": "US troops will stay in Afghanistan to support local forces, Allen insists | Afghanistan | The Guardian",
+          "description": "<p>Recently retired general says reports of 'zero option' are untrue and expects US and allies to stick in Afghanistan for long haul</p>",
+          "og:url": "http://www.theguardian.com/world/2013/mar/25/us-forces-afghanistan-local-troops-john-allen",
+          "article:author": "https://www.theguardian.com/profile/ewenmacaskill",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/1/8/1357685142882/us-troops-afghanistan-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=21510448705fcc8811a4efe20e0cb547",
+          "al:ios:url": "gnmguardian://world/2013/mar/25/us-forces-afghanistan-local-troops-john-allen?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "US troops will stay in Afghanistan to support local forces, Allen insists",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-07-14T23:28:24.000Z",
+          "og:image:height": "720",
+          "og:description": "Recently retired general says reports of 'zero option' are untrue and expects US and allies to stick in Afghanistan for long haul",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2013-03-25T21:09:08.000Z",
+          "article:tag": "Afghanistan,US foreign policy,US politics,US news,World news,US military,Nato",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le général à la retraite John Allen a déclaré à Washington que les États-Unis et leurs alliés maintiendront une présence en Afghanistan pour soutenir les forces afghanes après le retrait des troupes de combat internationales fin 2014. Il a rejeté les accusations du président afghan Hamid Karzai selon lesquelles Washington collusionnait avec les talibans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Allen",
+          "Obama",
+          "Ben Rhodes",
+          "Hamid Karzai"
+        ],
+        "LOCATION": [
+          "Afghanistan",
+          "Washington",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "White House",
+          "Brookings Institution",
+          "Taliban"
+        ],
+        "DATE": [
+          "2014",
+          "Monday",
+          "January",
+          "two weeks ago",
+          "next year",
+          "January 1 2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7633374728964865
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Helmand"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "21 December"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Afghan soldiers"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Punani_Punisher",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "tremens",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "DrGoldfish",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ismael Villegas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ash Carter",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bob Woodruff",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Obama",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joshua L. Wheeler",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Allen",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ben Rhodes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hamid Karzai",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Helmand",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nad Ali",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Camp Bastion",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wardak Province",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South China Sea",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nato",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "International Security and Assistance Force",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Isaf",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Afghan army",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taliban",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alamy",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alfa company",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US Air Force",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US Army",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "TACP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Combat Controllers",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CCT",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FAA",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SEALs",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "White House",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIS",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIL",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USS Theodore Roosevelt",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taboola",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Brookings Institution",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "26",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday night",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2006",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12/27/2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "month back",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last month",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "two weeks ago",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 1 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Afghanistan car bomb attack",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "suicide car bomb attack",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JTAC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Silver Star",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T22:07:03.654513"
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "id_rumeur": 1642580,
+  "id_image": 238467,
+  "caption": "The event ended with a fireworks display at Sydney Harbour Bridge overseen by Australia s navy warship HMAS Sydney",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748715/oluyewo_benchmark/gghxxayp7m1nwoz5aza5.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Page 2995 – Carson Now",
+      "source": "Carson Now",
+      "lien": "https://www.carsonnow.org/page/2995?page=2&attachment_id=cf3i24",
+      "image_url": "https://i0.wp.com/www.carsonnow.org/wp-content/uploads/2010/09/fireworks.jpg?resize=227,360&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_P2uJhrWeQLlnMBJC1iFUc-LcAkyAW0P0rnIFqZwCv6A61k2",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Page 2995 – Carson Now",
+        "link": "https://www.carsonnow.org/page/2995?page=2&attachment_id=cf3i24",
+        "source": "Carson Now",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQEt49pqsx1KcqroQsHGkTKLFr9Z4AcaDbTuSN8tY7FgiywIhC-QY90E36LBXRfdDz2CGTEGkQgKXH3--cE9yrWvL8CtXZ47nQQu3mzCYTfOqxWwlhdEg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_P2uJhrWeQLlnMBJC1iFUc-LcAkyAW0P0rnIFqZwCv6A61k2",
+        "thumbnail_width": 283,
+        "thumbnail_height": 178,
+        "image": "https://i0.wp.com/www.carsonnow.org/wp-content/uploads/2010/09/fireworks.jpg?resize=227,360&ssl=1",
+        "image_width": 360,
+        "image_height": 227
+      },
+      "webpage": {
+        "text": "Page 2995 – Carson Now\n\nMovie Review: ‘Take Me Home Tonight’ a romantic comedy with lots of loud music\n\nPosted inLifestyle\n\n\nMovie Review: ‘Take Me Home Tonight’ a romantic comedy with lots of loud music\n\nby Carson Now EditorSunday, March 13, 2011 - 8:26pm\n\nPosted inNews\n\n\nSome Unlucky Teachers Hit Twice In Governor’s Budget\n\nby Carson Now EditorSunday, March 13, 2011 - 8:05am\n\nPosted inNews\n\n\nReport Suggests Economic Growth May Soon Be Under Way In Nevada\n\nby Carson Now EditorSunday, March 13, 2011 - 8:03am\n\nPosted inOutdoors\n\n\nNevada Duck Stamps available free for eligible hunters\n\nby Carson Now EditorSunday, March 13, 2011 - 7:43am\n\nPosted inOutdoors\n\n\nResearchers hope to stop Asian Carp in South Dakota\n\nby Carson Now EditorSunday, March 13, 2011 - 7:39am\n\nPosted inOutdoors\n\n\nAbout Pyramid Lake and its People\n\nby Carson Now EditorSaturday, March 12, 2011 - 5:58pm\n\nPosted inOutdoors\n\n\nTribe seeks input on changes to Pyramid Lake regulations\n\nby Carson Now EditorSaturday, March 12, 2011 - 5:56pm\n\nPosted inOutdoors\n\n\nWestern Republicans fight Obama wilderness policy\n\nby Carson Now EditorSaturday, March 12, 2011 - 5:28pm\n\nPosted inOutdoors\n\n\nWildlife Commission sets 2011 big game seasons\n\nby Carson Now EditorSaturday, March 12, 2011 - 5:23pm\n\nPosted inNews\n\n\nRoad report for March 14-20\n\nby Carson Now EditorSaturday, March 12, 2011 - 6:42am\n\nPosted inNews\n\n\nReport: Japan nuclear plant explosion, fear of meltdown\n\nby Carson Now EditorSaturday, March 12, 2011 - 12:39am\n\nPosted inBusiness\n\n\nWebchat: Find the Cloud\n\nby Carson Now EditorSaturday, March 12, 2011 - 12:00am\n\nPosted inNews\n\n\nMore live coverage of tsunami\n\nby Carson Now EditorFriday, March 11, 2011 - 2:24pm\n\nPosted inLifestyle\n\n\nAnother lunchtime distraction\n\nby Carson Now EditorFriday, March 11, 2011 - 12:00pm\n\nPosted inLifestyle\n\n\nThe Athlete and Lower Back Problems\n\nby Carson Now EditorFriday, March 11, 2011 - 11:20amThursday, March 14, 2024 - 10:06am\n\nPosted inNews\n\n\nCarson City trio face felony charges in scrap metal thefts\n\nby Carson Now EditorFriday, March 11, 2011 - 9:58am",
+        "metadata": {
+          "title": "Page 2995 &#8211; Carson Now",
+          "og:locale": "en_US",
+          "og:type": "website",
+          "og:site_name": "Carson Now",
+          "og:image": "https://www.carsonnow.org/wp-content/uploads/2025/09/cn_facebook.png",
+          "og:image:width": "200",
+          "og:image:height": "200",
+          "og:image:type": "image/png",
+          "apple-mobile-web-app-title": "Carson Now",
+          "parsely-title": "Movie Review: ‘Take Me Home Tonight’ a romantic comedy with lots of loud music"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://www.carsonnow.org/#website",
+              "url": "https://www.carsonnow.org/",
+              "name": "Carson Now",
+              "description": "Your One Stop for Carson City News",
+              "publisher": {
+                "@id": "https://www.carsonnow.org/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.carsonnow.org/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.carsonnow.org/#organization",
+              "name": "Carson Now LLC",
+              "alternateName": "Carson Now",
+              "url": "https://www.carsonnow.org/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.carsonnow.org/#/schema/logo/image/",
+                "url": "https://www.carsonnow.org/wp-content/uploads/2024/04/carson-now-logo.png",
+                "contentUrl": "https://www.carsonnow.org/wp-content/uploads/2024/04/carson-now-logo.png",
+                "width": 2012,
+                "height": 380,
+                "caption": "Carson Now LLC"
+              },
+              "image": {
+                "@id": "https://www.carsonnow.org/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://facebook.com/carsonnow",
+                "https://x.com/carsonnow"
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page web de Carson Now datée du 13 mars 2011, contenant divers articles d'actualité, critiques de films ('Take Me Home Tonight'), informations sur l'économie du Nevada, des sujets liés au plein air et à la nature (Pyramid Lake, canards, carpes asiatiques, politique de la nature des républicains de l'Ouest, commission de la faune), ainsi qu'une couverture d'actualités concernant une explosion dans une centrale nucléaire au Japon et des informations sur le tsunami.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Nevada",
+          "South Dakota",
+          "Pyramid Lake",
+          "Japan"
+        ],
+        "ORGANIZATION": [
+          "Carson Now",
+          "Wildlife Commission"
+        ],
+        "DATE": [
+          "March 13, 2011",
+          "Saturday, March 12, 2011",
+          "March 14-20",
+          "Friday, March 11, 2011",
+          "Thursday, March 14, 2024"
+        ],
+        "EVENT": [
+          "Japan nuclear plant explosion",
+          "tsunami"
+        ],
+        "OTHER": [
+          "Take Me Home Tonight",
+          "Nevada Duck Stamps",
+          "Asian Carp"
+        ]
+      },
+      "score_e5": 0.6966771158745241
+    },
+    {
+      "titre": "26 Years of Enjoying Summer Fireworks at the Fuji Five Lakes ...",
+      "source": "Trip.com",
+      "lien": "https://us.trip.com/moments/detail/fujikawaguchiko-60548-147973631/",
+      "image_url": "https://ak-d.tripcdn.com/images/1mi7112000t3qg74iACA5_Q90.jpg?proc=source/trip",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-t20knr5hlyPj3AG3-2oFZ98513nus1VZ0XzJQZeWpQvHU_dJ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "26 Years of Enjoying Summer Fireworks at the Fuji Five Lakes ...",
+        "link": "https://us.trip.com/moments/detail/fujikawaguchiko-60548-147973631/",
+        "source": "Trip.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyPMALyWLs7QnnQxAILE0FMcV_Gp4IJA4i1PNNlO_07BUAtYKAJFA3WpIz-V6wYMjoGYtetbIXBEHIa6j8rPeZZbNifRG6s4n7K8ZEZcB-0A",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-t20knr5hlyPj3AG3-2oFZ98513nus1VZ0XzJQZeWpQvHU_dJ",
+        "thumbnail_width": 245,
+        "thumbnail_height": 206,
+        "image": "https://ak-d.tripcdn.com/images/1mi7112000t3qg74iACA5_Q90.jpg?proc=source/trip",
+        "image_width": 553,
+        "image_height": 464
+      },
+      "webpage": null,
+      "texte_contexte": "Page Trip.com intitulée '26 Years of Enjoying Summer Fireworks at the Fuji Five Lakes'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Fuji Five Lakes"
+        ],
+        "ORGANIZATION": [
+          "Trip.com"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Summer Fireworks at the Fuji Five Lakes"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7401066904998247
+    },
+    {
+      "titre": "Sanuki Takamatsu Matsuri Fireworks Dondon Takamatsu - All ...",
+      "source": "Tripadvisor",
+      "lien": "https://www.tripadvisor.com/Attraction_Review-g298232-d10019502-Reviews-Sanuki_Takamatsu_Matsuri_Fireworks_Dondon_Takamatsu-Takamatsu_Kagawa_Prefecture_.html",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a5/16/b6/caption.jpg?w=1200&h=1200&s=1",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqTt2hYNk1QJpWOkwqRHQCDhxYoOmEJtmTBMflJj2LGcjPSHKw",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Sanuki Takamatsu Matsuri Fireworks Dondon Takamatsu - All ...",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g298232-d10019502-Reviews-Sanuki_Takamatsu_Matsuri_Fireworks_Dondon_Takamatsu-Takamatsu_Kagawa_Prefecture_.html",
+        "source": "Tripadvisor",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQhneIxQDh_hLsP1sCHZH7cYu083tVjny5fX1uqe_aR8D8F9GBGY0Tv8yQ2Lqo_l-0g5CcZ7UFWFu2LCkrrbkUo9WV4VqPERrK79IjAkL1B-hp0EN8EaF-Z",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqTt2hYNk1QJpWOkwqRHQCDhxYoOmEJtmTBMflJj2LGcjPSHKw",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a5/16/b6/caption.jpg?w=1200&h=1200&s=1",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Page Tripadvisor concernant Sanuki Takamatsu Matsuri Fireworks Dondon Takamatsu à Takamatsu, Kagawa Prefecture.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Takamatsu",
+          "Kagawa Prefecture"
+        ],
+        "ORGANIZATION": [
+          "Tripadvisor"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Sanuki Takamatsu Matsuri Fireworks Dondon Takamatsu"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7346133915065285
+    },
+    {
+      "titre": "Discover 220 fireworks and colorful japanese fireworks ideas ...",
+      "source": "Pinterest",
+      "lien": "https://www.pinterest.com/qbcables/fireworks/",
+      "image_url": "https://i.pinimg.com/236x/0d/79/cd/0d79cd1292cfa31a583c554d225a9e08.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJB5gADhHBr5WXl8m8mizwFFQKzvLyV-lXM-PGgxjhcdTw5b10",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Discover 220 fireworks and colorful japanese fireworks ideas ...",
+        "link": "https://www.pinterest.com/qbcables/fireworks/",
+        "source": "Pinterest",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTQdhYKRbbqgCC_hUKbg1LBwalc5hFvDef04aKtEm4ymk1UmePKJrPlt_LjHvB7Aq1dYoIBbiIJ1NlsjKc5XTus20V-QeQkUPl9ea4gZzUE1nhIYNB2UA",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJB5gADhHBr5WXl8m8mizwFFQKzvLyV-lXM-PGgxjhcdTw5b10",
+        "thumbnail_width": 266,
+        "thumbnail_height": 189,
+        "image": "https://i.pinimg.com/236x/0d/79/cd/0d79cd1292cfa31a583c554d225a9e08.jpg",
+        "image_width": 332,
+        "image_height": 236
+      },
+      "webpage": {
+        "text": "Discover 220 fireworks and colorful japanese fireworks ideas | japanese fireworks display, fireworks display, pink fireworks display and more",
+        "metadata": {
+          "title": "Discover 220 fireworks and colorful japanese fireworks ideas | japanese fireworks display, fireworks display, pink fireworks display and more",
+          "fb:app_id": "274266067164",
+          "og:site_name": "Pinterest",
+          "og:image": "https://i.pinimg.com/200x150/12/e5/32/12e5322a47134b3219a7978575dc64ab.jpg",
+          "og:type": "pinterestapp:pinboard",
+          "og:updated_time": "2021-09-05T21:39:22.000Z",
+          "pinterestapp:pinner": "https://www.pinterest.com/qbcables/",
+          "pinterestapp:pins": "228",
+          "twitter:image:src": "https://i.pinimg.com/200x150/12/e5/32/12e5322a47134b3219a7978575dc64ab.jpg",
+          "og:title": "Discover 220 fireworks and colorful japanese fireworks ideas | japanese fireworks display, fireworks display, pink fireworks display and more",
+          "description": "From colorful japanese fireworks to japanese fireworks display, find what you're looking for on Pinterest!",
+          "og:description": "From colorful japanese fireworks to japanese fireworks display, find what you're looking for on Pinterest!",
+          "twitter:description": "From colorful japanese fireworks to japanese fireworks display, find what you're looking for on Pinterest!",
+          "twitter:title": "fireworks",
+          "og:url": "https://www.pinterest.com/qbcables/fireworks/"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page Pinterest proposant des idées de feux d'artifice japonais, notamment des affichages de feux d'artifice japonais, de feux d'artifice et de feux d'artifice roses.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Pinterest"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "japanese fireworks"
+        ]
+      },
+      "score_e5": 0.7320647156698679
+    },
+    {
+      "titre": "qwertymak | Flickr",
+      "source": "Flickr",
+      "lien": "https://www.flickr.com/photos/qwertymak/",
+      "image_url": "https://live.staticflickr.com/2739/4409173769_0ce98fdf34_n.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTH2lpDqof2-dIcW1IZocE73Bb3zZacnnjBiNPZ_lNCfpQbbNkH",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "qwertymak | Flickr",
+        "link": "https://www.flickr.com/photos/qwertymak/",
+        "source": "Flickr",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTfrOu0sWKs3Pcw2QmgK3YJ56j2-ayOW-qRIJSQvaGvhVZy3tuULAELn-9WhCkJkgiSJmW8S2sgnoc74IbwPBg6aBaBJfMsZdN3QKOSPEQO0xq3oQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTH2lpDqof2-dIcW1IZocE73Bb3zZacnnjBiNPZ_lNCfpQbbNkH",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://live.staticflickr.com/2739/4409173769_0ce98fdf34_n.jpg",
+        "image_width": 320,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "qwertymak\n\nFollow\n\n\nGive Pro\n\n20 Followers•17 Following\n\n116 Photos\n\n\nqwertymak\n\nGive Pro\n\n20 Followers•17 Following\n\n116 Photos\n\nFollow\n\nSave Cancel\n\nDrag to set position!\n\n\nThis user has no public photos\n\n\n1 2\n * About\n * Jobs\n * Blog\n * Advertise\n * Developers\n * Cookies\n * Guidelines\n * Privacy\n * Terms\n * Help\n * Report abuse\n * English\n\n *  * \n\n\n * Legal\n * Privacy\n * Terms\n\nConnecting people through photography.\n\n\n * About\n * Jobs\n * Blog\n * Advertise\n * Developers\n * Cookies\n * Guidelines\n * Report abuse\n * Privacy\n * Terms\n * English\n\n * Legal\n * Privacy\n * Terms\n\nConnecting people through photography.\n\n\n *",
+        "metadata": {
+          "og:site_name": "Flickr",
+          "og:updated_time": "2026-09-07T10:57:58.863Z",
+          "al:ios:app_name": "Flickr",
+          "al:ios:app_store_id": "328407587",
+          "twitter:app:name:iphone": "Flickr",
+          "twitter:app:id:iphone": "328407587",
+          "twitter:app:name:ipad": "Flickr",
+          "twitter:app:id:ipad": "328407587",
+          "twitter:app:name:googleplay": "Flickr",
+          "twitter:app:id:googleplay": "com.flickr.android",
+          "twitter:site": "@flickr",
+          "title": "qwertymak",
+          "description": "Explore qwertymak’s 116 photos on Flickr!",
+          "og:title": "qwertymak",
+          "og:description": "Explore qwertymak’s 116 photos on Flickr!",
+          "og:type": "article",
+          "og:url": "https://www.flickr.com/photos/qwertymak/",
+          "article:author": "https://www.flickr.com/photos/qwertymak/",
+          "og:image": "https://live.staticflickr.com/2739/4409173769_0ce98fdf34.jpg",
+          "og:image:width": "500",
+          "og:image:height": "500",
+          "al:ios:url": "flickr://flickr.com/photos/qwertymak/",
+          "twitter:card": "player",
+          "twitter:player": "https://embedr.flickr.com/photostreams/40191575@N05",
+          "twitter:player:width": "640",
+          "twitter:player:height": "480",
+          "twitter:title": "qwertymak",
+          "twitter:image": "https://live.staticflickr.com/2739/4409173769_0ce98fdf34.jpg",
+          "twitter:description": "Explore qwertymak’s 116 photos on Flickr!",
+          "twitter:app:url:iphone": "flickr://flickr.com/photos/qwertymak/",
+          "twitter:app:url:ipad": "flickr://flickr.com/photos/qwertymak/",
+          "twitter:app:url:googleplay": "https://www.flickr.com/photos/qwertymak/"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page Flickr de l'utilisateur qwertymak contenant des informations sur le profil et les liens légaux de la plateforme.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "qwertymak"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Flickr"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7162164611384509
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sydney Harbour Bridge"
+    ],
+    "ORGANIZATION": [
+      "Australia s navy",
+      "HMAS Sydney"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Nevada",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South Dakota",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pyramid Lake",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Carson Now",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wildlife Commission",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 13, 2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday, March 12, 2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 14-20",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday, March 11, 2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday, March 14, 2024",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Japan nuclear plant explosion",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "tsunami",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Take Me Home Tonight",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Nevada Duck Stamps",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Asian Carp",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fuji Five Lakes",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Trip.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Summer Fireworks at the Fuji Five Lakes",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Takamatsu",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kagawa Prefecture",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tripadvisor",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Sanuki Takamatsu Matsuri Fireworks Dondon Takamatsu",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pinterest",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Japanese fireworks",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "qwertymak",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flickr",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T11:58:06.734405"
+  }
+}

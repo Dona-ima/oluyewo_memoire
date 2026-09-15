@@ -1,0 +1,963 @@
+{
+  "id_rumeur": 1506727,
+  "id_image": 1115328,
+  "caption": "The world s first formally regulated Bitcoin investment fund launched in Jersey in August",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756990/oluyewo_benchmark/ltob87qwpwr1pkxeqqdk.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Gold Price Reverses Gains As Rate Outlook Gets Less Clear - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/gold-prices-rise-as-investors-turn-to-fed-11568825587",
+      "image_url": "https://images.wsj.net/im-108290/?width=1280&size=1.33333333",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFpO0Rflaqfh8EydRckffud0czLkPKxCO0zSwquL-gtDxzY4S",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Gold Price Reverses Gains As Rate Outlook Gets Less Clear - WSJ",
+        "link": "https://www.wsj.com/articles/gold-prices-rise-as-investors-turn-to-fed-11568825587",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFpO0Rflaqfh8EydRckffud0czLkPKxCO0zSwquL-gtDxzY4S",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://images.wsj.net/im-108290/?width=1280&size=1.33333333",
+        "image_width": 960,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "Le titre de l'article indique que le prix de l'or inverse ses gains alors que les perspectives des taux d'intérêt deviennent moins claires.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Gold"
+        ]
+      },
+      "score_e5": 0.7342284072192617
+    },
+    {
+      "titre": "Gold price hits two-year low as China's economy slows down ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/2013/apr/15/gold-price-china-economy-slow",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/4/15/1366053557962/Gold-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&s=8bb001448e35ae90b2719a9ab6e5e323",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT7PYpusuhpZKOg7nxqceY-pUe0DG-hjzTFb2LanDYIa6cj1EF",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Gold price hits two-year low as China's economy slows down ...",
+        "link": "https://www.theguardian.com/business/2013/apr/15/gold-price-china-economy-slow",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f01bfeb2bd175c337e7c5/images/Bgno98jmQw3QDnqTAdC2q3t-tej63aEgXK3bYH81HBU.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT7PYpusuhpZKOg7nxqceY-pUe0DG-hjzTFb2LanDYIa6cj1EF",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/4/15/1366053557962/Gold-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&s=8bb001448e35ae90b2719a9ab6e5e323",
+        "image_width": 242,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Gold price hits two-year low as China's economy slows down | Gold\n\nConcerns that strong recoveries in the US and China have come to a dramatic halt sent gold to a two-year low in one of its sharpest falls in recent years.\n\nGold fell 8.5% and silver was down 14.5% as investors digested news from Beijing of a slowdown in growth and a downbeat report from US manufacturers.\n\nBrent crude oil prices fell to their lowest since last summer, ending the day only a few cents above $100 a barrel, down 2.3% on the day.\n\nGold had already fallen to its lowest level in 18 months on Friday amid fears that cash-strapped countries would need to sell off their reserves, as Cyprus is expected to do so, to raise €400m (£340m) – although the amount it raises will drop if the price keeps falling. The economics consultancy Capital Economics, though, said it was sceptical that the situation in the Mediterranean island could be the cause for the sell off in gold\n\nThe slump continued which meant that the gold had now fallen nearly $200 in the last two days to below $1,400 an ounce for the first time since February 2011. The plunge came as finance ministers and central bank officials travelled to the International Monetary Fund's annual meeting in Washington.\n\nConcern may turn to China after a rebound in its economic fortunes late last year appeared to reverse when GDP figures for the first quarter of the year revealed a drop in annualised growth to 7.7% from 7.9% in the previous quarter.\n\nSome analysts blamed much of the weakening picture across the globe on the continuing recession in the eurozone, which triggered a 7% decline in imports last month. Most eurozone countries are in recession and growth is not expected to pick up until the end of the year or possibly 2014.\n\nIn response to the ongoing depression and the possibility that Spain will apply for a bailout, calls for a break-up or fundamental review of the single currency are gathering pace.\n\nIn Germany, the newly formed political party Alternative für Deutschland put pressure on the chancellor, Angela Merkel, to restrict eurozone bailout terms unless wealthy property owners in southern Europe make a larger contribution.\n\nPeter Bofinger, an economic adviser to Merkel, criticised the bailout terms set for Cyprus, which involved a raid on individual and business savings. \"The resourceful rich just move their money to banks in northern Europe and avoid paying,\" Prof Bofinger told Der Spiegel, a German magazine.\n\nHe said property owners in Spain, Greece, Portugal and Cyprus should pay a wealth tax to partly fund their government rescue packages.\n\nRemarks by Mario Draghi, the head of the European Central Bank, that struggling banks should be allowed to fail added to the sense of unease.\n\nHe said: \"The banking sector and the financial market of the euro area has become fragmented. This is harmful as the euro area is a bank-based economy.\n\n\"Around three quarters of firms' financing comes from banks. So if banks in some countries will not lend at reasonable interest rates, the consequences for the euro area economy are severe.\"\n\n\"In providing liquidity to our banking counterparties, we cannot and do not want to subsidise banks that are failing. Our liquidity support is not and should not be equity support. Likewise, in pricing out break-up risk in sovereign debt securities, we cannot and do not want to subsidise governments,\" he said.\n\nCapital Economics said gold has traditionally grown in value during periods of uncertainty. \"None of the fundamental explanations being discussed for the slump in gold prices really holds up. It is still not even certain that Cyprus, whose holdings are tiny, will be selling any gold. If anything, the incoming US data has made it less likely that the Fed will withdraw its monetary stimulus any time soon,\" Capital Economics said. \"Any emphasis placed on the risks to gold posed by a stronger US recovery and rising interest rates certainly looks increasingly misplaced, or at least premature,\" it said.\n\nStockbroker Brewin Dolphin said the more widely held view is that increases in supply of all metals and weakening demand in China and the eurozone especially, accounted for at least some of the decline in gold prices.",
+        "metadata": {
+          "title": "Gold price hits two-year low as China's economy slows down | Gold | The Guardian",
+          "description": "Cyprus expected to sell off gold reserves as price falls further on news of poorer Chinese growth and US manufacturing data",
+          "og:url": "http://www.theguardian.com/business/2013/apr/15/gold-price-china-economy-slow",
+          "article:author": "https://www.theguardian.com/profile/phillipinman",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/4/15/1366053557962/Gold-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=8bd19e3541deee2bfd8a15b00c64bd8f",
+          "al:ios:url": "gnmguardian://business/2013/apr/15/gold-price-china-economy-slow?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Gold price hits two-year low as China's economy slows down",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-01T12:17:10.000Z",
+          "og:image:height": "720",
+          "og:description": "Cyprus expected to sell off gold reserves as price falls further on news of poorer Chinese growth and US manufacturing data",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Business",
+          "article:published_time": "2013-04-15T19:20:14.000Z",
+          "article:tag": "Gold,Commodities,Business,China,Asia Pacific,World news,Global economy,Economics,Eurozone crisis,Financial crisis,Financial sector,Euro,Europe",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le prix de l'or a atteint un plus bas de deux ans, chutant de 8,5 % tandis que l'argent a baissé de 14,5 %, à la suite d'un ralentissement de la croissance économique en Chine et de rapports moroses des fabricants américains. Les prix du Brent ont également chuté. Chypre cherche à lever 400 millions d'euros en vendant ses réserves d'or. Le PIB de la Chine pour le premier trimestre a révélé une baisse de la croissance annualisée à 7,7 %. La récession dans la zone euro pèse sur l'économie mondiale. Le parti politique allemand Alternative für Deutschland a fait pression sur la chancelière Angela Merkel. Peter Bofinger a critiqué les conditions de renflouement de Chypre. Mario Draghi, chef de la Banque centrale européenne, s'est exprimé sur la fragmentation du secteur bancaire.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Angela Merkel",
+          "Peter Bofinger",
+          "Mario Draghi"
+        ],
+        "LOCATION": [
+          "China",
+          "US",
+          "Beijing",
+          "Cyprus",
+          "Mediterranean",
+          "Spain",
+          "Germany",
+          "southern Europe",
+          "northern Europe",
+          "Greece",
+          "Portugal",
+          "euro area"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Capital Economics",
+          "Alternative für Deutschland",
+          "Der Spiegel",
+          "European Central Bank",
+          "International Monetary Fund"
+        ],
+        "DATE": [
+          "2013",
+          "April 15",
+          "last summer",
+          "18 months",
+          "Friday",
+          "two days",
+          "February 2011",
+          "first quarter",
+          "last month",
+          "2014"
+        ],
+        "EVENT": [
+          "International Monetary Fund's annual meeting"
+        ],
+        "OTHER": [
+          "Gold",
+          "silver",
+          "Brent crude oil",
+          "GDP"
+        ]
+      },
+      "score_e5": 0.6981065147530708
+    },
+    {
+      "titre": "Gold fell the most since October, reversing earlier gains ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/bloombergbusiness/posts/gold-fell-the-most-since-october-reversing-earlier-gains-that-took-the-precious-/1313252710660819/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=296649167618542",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK9oDtDMaH1qAaysa_JhT_ovK3X02f9HdppWMQElUoJNmn7QKP",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Gold fell the most since October, reversing earlier gains ...",
+        "link": "https://www.facebook.com/bloombergbusiness/posts/gold-fell-the-most-since-october-reversing-earlier-gains-that-took-the-precious-/1313252710660819/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK9oDtDMaH1qAaysa_JhT_ovK3X02f9HdppWMQElUoJNmn7QKP",
+        "thumbnail_width": 184,
+        "thumbnail_height": 274,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=296649167618542",
+        "image_width": 402,
+        "image_height": 600
+      },
+      "webpage": {
+        "text": "Bloomberg - Gold fell the most since October, reversing...\n\nGold fell the most since October, reversing earlier gains that took the precious metal to a fresh record above $5,500 an ounce, as the US dollar strengthened. Read more at the link in our comments.",
+        "metadata": {
+          "title": "Bloomberg - Gold fell the most since October, reversing... | Facebook",
+          "og:type": "video.other",
+          "og:title": "Bloomberg",
+          "og:description": "Gold fell the most since October, reversing earlier gains that took the precious metal to a fresh record above $5,500 an ounce, as the US dollar strengthened. \n\nRead more at the link in our comments.",
+          "og:url": "https://www.facebook.com/bloombergbusiness/posts/gold-fell-the-most-since-october-reversing-earlier-gains-that-took-the-precious-/1313252710660819/",
+          "og:image:alt": "Bloomberg",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1313252660660824",
+          "og:locale": "en_US",
+          "description": "Gold fell the most since October, reversing earlier gains that took the precious metal to a fresh record above $5,500 an ounce, as the US dollar...",
+          "twitter:title": "Bloomberg",
+          "twitter:description": "Gold fell the most since October, reversing earlier gains that took the precious metal to a fresh record above $5,500 an ounce, as the US dollar strengthened. \n\nRead more at the link in our comments."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'or a connu sa plus forte baisse depuis octobre, inversant ses gains antérieurs qui avaient porté le métal précieux à un nouveau record au-dessus de 5 500 dollars l'once, en raison du renforcement du dollar américain.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "US"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Bloomberg"
+        ],
+        "DATE": [
+          "October"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Gold",
+          "US dollar"
+        ]
+      },
+      "score_e5": 0.7218932068325961
+    },
+    {
+      "titre": "Gold price surges past $5,200 as the US dollar continues to ...",
+      "source": "Yeni Şafak",
+      "lien": "https://en.yenisafak.com/economy/gold-price-surges-past-5200-as-the-us-dollar-continues-to-weaken-3713842",
+      "image_url": "https://img.piri.net/piri/upload/3/2026/1/28/81fd643e-c7ku6ts5psndx0mshtku.webp",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKD04mOX9hf8ZRBel7HNNTQkRLgel7AeZwL1BnzTjUa97y8TlD",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Gold price surges past $5,200 as the US dollar continues to ...",
+        "link": "https://en.yenisafak.com/economy/gold-price-surges-past-5200-as-the-us-dollar-continues-to-weaken-3713842",
+        "source": "Yeni Şafak",
+        "source_icon": "https://serpapi.com/searches/6a8f01bfeb2bd175c337e7c5/images/leWTBcnRJzAuCTnZadK9dHPetqaR28LU1wsSrLNsAGI.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKD04mOX9hf8ZRBel7HNNTQkRLgel7AeZwL1BnzTjUa97y8TlD",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://img.piri.net/piri/upload/3/2026/1/28/81fd643e-c7ku6ts5psndx0mshtku.webp",
+        "image_width": 359,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Gold price surges past $5,200 as the US dollar continues to weaken\n\nGold prices shattered records on Wednesday, soaring past $5,200 per ounce amid a significant decline in the value of the US dollar and persistent global economic uncertainties. The rally in precious metals comes as investors await a key policy decision from the US Federal Reserve, which is expected to maintain current interest rates.\n\nRecord-Breaking Gains for Gold and Silver\n\nSpot gold rose approximately 1.6% to $5,264.20 per ounce, having earlier touched an unprecedented intraday high of $5,271.45. This marks a staggering weekly gain of around 9%. Over the past 12 months, gold has surged roughly 90.5%, with a 17% increase since the start of the year. Silver, often moving in tandem with gold, also advanced sharply, climbing 2.4% to $114.80 per ounce. Silver's performance has been even more dramatic over the past year, posting gains exceeding 277%. Analysts attribute the historic rally to a combination of a weakening US dollar, geopolitical tensions, and interest rate cuts by major central banks outside the United States.\n\nThe Role of a Falling US Dollar and Political Commentary\n\nA primary driver behind the surge is the precipitous drop in the US dollar index, which fell more than 2.7% over the week and hit its lowest level since February 2022. A weaker dollar makes dollar-denominated commodities like gold cheaper for holders of other currencies, boosting demand. President Donald Trump commented on the dollar's decline on Tuesday, stating, \"I think it's great,\" and contrasting it with past criticisms of currency devaluation by China and Japan. Market participants view Trump's remarks as an unconventional endorsement of a weaker currency, which traditionally benefits US exporters but can fuel inflation and drive investment into hard assets like gold as a hedge.\n\nEconomic Context and Fed Policy Outlook\n\nThe rally occurs against a backdrop of growing economic concern. Recent data showed US consumer confidence plummeting to its lowest point in over eleven and a half years in January, driven by worries over a slowing labor market and rising costs. President Trump also announced he would soon name his choice for the next Federal Reserve Chair and anticipated future interest rate cuts under that leadership. For now, the Fed is widely expected to hold rates steady at its ongoing January policy meeting. The combination of a weak dollar, geopolitical fear, and expectations of a more accommodative monetary policy in the future continues to create a powerful bullish environment for gold and other precious metals.",
+        "metadata": {
+          "apple-mobile-web-app-title": "Yeni Şafak English",
+          "title": "Gold price surges past $5,200 as the US dollar continues to weaken",
+          "description": "The price of gold has broken through the $5,200 per ounce barrier, reaching a new record high as the US dollar declines sharply. ",
+          "keywords": "a record high, Gold Ounce, silver, spot gold, US dollar, US President Donald Trump, gold, price, dollar, record, Fed",
+          "og:title": "Gold price surges past $5,200 as the US dollar continues to weaken",
+          "og:description": "The price of gold has broken through the $5,200 per ounce barrier, reaching a new record high as the US dollar declines sharply. ",
+          "author": "Yeni Şafak Gazetecilik A.Ş.",
+          "twitter:title": "Gold price surges past $5,200 as the US dollar continues to weaken",
+          "twitter:description": "The price of gold has broken through the $5,200 per ounce barrier, reaching a new record high as the US dollar declines sharply. ",
+          "articleAuthor": "Yenişafak English AA"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "Thing",
+                "@id": "https://en.yenisafak.com",
+                "name": "News"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "Thing",
+                "@id": "https://en.yenisafak.com/economy",
+                "name": "Economy"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@type": "WebPage",
+                "@id": "https://en.yenisafak.com/economy/gold-price-surges-past-5200-as-the-us-dollar-continues-to-weaken-3713842",
+                "name": "Gold price surges past $5,200 as the US dollar continues to weaken"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les prix de l'or ont battu des records en dépassant 5 200 dollars l'once, portés par une baisse significative de la valeur du dollar américain et des incertitudes économiques mondiales, dans l'attente d'une décision politique de la Réserve fédérale américaine. L'or au comptant a augmenté d'environ 1,6 % pour atteindre 5 264,20 dollars l'once. L'argent a également progressé de 2,4 % pour atteindre 114,80 dollars l'once. Le président Donald Trump a commenté la baisse du dollar.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Donald Trump"
+        ],
+        "LOCATION": [
+          "China",
+          "Japan"
+        ],
+        "ORGANIZATION": [
+          "Yeni Şafak",
+          "US Federal Reserve"
+        ],
+        "DATE": [
+          "Wednesday",
+          "past 12 months",
+          "start of the year",
+          "February 2022",
+          "Tuesday",
+          "January"
+        ],
+        "EVENT": [
+          "January policy meeting"
+        ],
+        "OTHER": [
+          "Gold",
+          "silver",
+          "US dollar",
+          "US dollar index",
+          "Consumer Price Index"
+        ]
+      },
+      "score_e5": 0.6664729350414782
+    },
+    {
+      "titre": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the ...",
+      "source": "International Business Times",
+      "lien": "https://www.ibtimes.com/gold-keeps-rebounding-chinas-buying-spree-helps-fuel-rally-3806390",
+      "image_url": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg?w=1600&h=1600&q=88&f=bf732890569fa862cb614574e9467037",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhsj8aNwPYYKAOqTgVh7GA5nThSJKZK9lG19IoSxcTF0K4DtXF",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the ...",
+        "link": "https://www.ibtimes.com/gold-keeps-rebounding-chinas-buying-spree-helps-fuel-rally-3806390",
+        "source": "International Business Times",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUAAAD___9oaGgYGBgHBweYmJjV1dWxsbE0NDTt7e3w8PCBgYFYWFgrKysKCgq2trb39_dRUVGhoaGIiIioqKiQkJDT09Pb29siIiI5OTlhYWFMTEzMzMzm5uYbGxtaWlpAQECHT32zAAAA1UlEQVQ4je2Sa66DIBhE5-Ph1RYUFUTbat3_KouAuWlSuoKeXzA5geEB_Ii0it02iDs7uNUiRGmc0OAPWjUwUKSRM8Qf_cPQduQ3YCRjnayIJISz0llDk3Oyex5-xYErXWqg9jRxtGGfuglqKNC-C2Hi51gtC8C7oCvq2pJgHLs-yPcoCREz6KJghtHZhqblWwcwk_OSsPncsiTo9aOwRWGB4CPlfLmcQr5qR6Yb7ETkU8n9LJMfS9h0ytXuKe4NWZFW6J-KQ-zq4D6L_AtmpfZz_CPwAiADDE5yRKftAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhsj8aNwPYYKAOqTgVh7GA5nThSJKZK9lG19IoSxcTF0K4DtXF",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg?w=1600&h=1600&q=88&f=bf732890569fa862cb614574e9467037",
+        "image_width": 1600,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the Rally\n\nGold prices have rebounded over the past weeks, reversing a sharp wartime slump as cooling inflation expectations, a more dovish outlook for the Federal Reserve and a surge in Chinese buying breathe new life into the precious metal.\n\nGold rose to $4,465 an ounce on Wednesday, its highest level in more than two months, before declining slightly on Thursday. The rally marks a significant turnaround for an asset that had struggled following the outbreak of the war with Iran despite its traditional reputation as a haven during periods of geopolitical uncertainty.\n\nThe reversal is also sending a potentially encouraging signal about investors' expectations for inflation and interest rates. Gold does not pay interest, which means it often becomes less attractive when investors expect inflation-adjusted, or \"real,\" yields on bonds to rise.\n\nWhen the war with Iran began, markets anticipated that higher energy prices and supply disruptions could fuel inflation, potentially forcing central banks to maintain higher interest rates.\n\nThat combination weighed on gold. Instead of benefiting from geopolitical turmoil, the metal declined, challenging the conventional assumption that investors automatically rush into gold when global risks intensify.\n\nNow, the economic calculus is changing. The turning point came after the Federal Reserve's meeting at the end of July, when policymakers delivered what investors interpreted as a more dovish message than expected. Expectations that the Fed could maintain a less aggressive approach toward interest rates helped push real yield expectations lower and made gold more attractive by comparison.\n\nWednesday's relatively mild Consumer Price Index report added momentum to that trade. U.S. inflation remained relatively contained in July, giving policymakers and consumers a second consecutive month of encouraging price data.\n\nWhile the impact of renewed Middle East fighting and higher energy prices may not yet be fully reflected in the numbers, the report provided investors with additional evidence that underlying inflation pressures have not accelerated dramatically.\n\nFor gold, that matters. Lower inflation expectations and the prospect of a less hawkish Fed reduce some of the pressure that drove prices down earlier in the Iran conflict. But monetary policy may not be the only force behind gold's latest rally.\n\nChina has emerged as a major source of new demand. China reported purchasing nearly 20 metric tons of gold in July, its largest monthly acquisition since October 2023. Such a substantial purchase adds another source of support for a market already benefiting from shifting expectations around U.S. monetary policy.\n\nChina has been building its gold reserves as part of a broader effort to diversify its holdings, making its purchasing activity closely watched by traders. Large central bank purchases can have an outsized effect because they remove significant quantities of gold from the available market while also signaling long-term institutional demand.",
+        "metadata": {
+          "title": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the Rally | IBTimes",
+          "news_keywords": "Gold,gold,rally,prices,inflation,iran,war,china,bonds",
+          "description": "The rally marks a significant turnaround for an asset that had struggled following the outbreak of the war with Iran despite its traditional reputation as a haven.",
+          "og:type": "article",
+          "og:site_name": "International Business Times",
+          "og:url": "https://www.ibtimes.com/gold-keeps-rebounding-chinas-buying-spree-helps-fuel-rally-3806390",
+          "og:title": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the Rally",
+          "og:description": "The rally marks a significant turnaround for an asset that had struggled following the outbreak of the war with Iran despite its traditional reputation as a haven.",
+          "og:image": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg",
+          "og:image:alt": "Gold bars",
+          "og:image:width": "2500",
+          "og:image:height": "1619",
+          "article:publisher": "https://www.facebook.com/IBTimes",
+          "article:section": "Gold",
+          "article:tag": "Bonds",
+          "article:published_time": "2026-08-13T13:18:50-04:00",
+          "article:modified_time": "2026-08-13T13:18:50-04:00",
+          "twitter:title": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the Rally",
+          "twitter:description": "The rally marks a significant turnaround for an asset that had struggled following the outbreak of the war with Iran despite its traditional reputation as a haven."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.ibtimes.com/gold-keeps-rebounding-chinas-buying-spree-helps-fuel-rally-3806390"
+          },
+          "url": "https://www.ibtimes.com/gold-keeps-rebounding-chinas-buying-spree-helps-fuel-rally-3806390",
+          "headline": "Gold Keeps Rebounding As China's Buying Spree Helps Fuel the Rally",
+          "datePublished": "2026-08-13T13:18:50-04:00",
+          "dateModified": "2026-08-13T13:18:50-04:00",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "International Business Times",
+            "url": "https://www.ibtimes.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://g.ibtimes.com/themes/favicons/apple-touch-icon.png",
+              "width": 180,
+              "height": 180
+            },
+            "sameAs": [
+              "https://www.facebook.com/IBTimes",
+              "https://www.linkedin.com/company/ibt-media"
+            ],
+            "legalName": "IBTimes LLC",
+            "brand": "IBTimes",
+            "foundingDate": 2006,
+            "publishingPrinciples": "https://www.ibtimes.com/corporate/about",
+            "correctionsPolicy": "https://www.ibtimes.com/corporate/about",
+            "actionableFeedbackPolicy": "https://www.ibtimes.com/corporate/about",
+            "ethicsPolicy": "https://www.ibtimes.com/corporate/about",
+            "ownershipFundingInfo": "https://www.ibtimes.com/corporate/about",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "347 W 36th St, Floor 5",
+              "addressLocality": "New York",
+              "addressRegion": "NY",
+              "postalCode": "10018",
+              "addressCountry": "US"
+            },
+            "alternateName": "IBTimes"
+          },
+          "description": "The rally marks a significant turnaround for an asset that had struggled following the outbreak of the war with Iran despite its traditional reputation as a haven.",
+          "articleBody": "Gold prices have rebounded over the past weeks, reversing a sharp wartime slump as cooling inflation expectations, a more dovish outlook for the Federal Reserve and a surge in Chinese buying breathe new life into the precious metal.Gold rose to $4,465 an ounce on Wednesday, its highest level in more than two months, before declining slightly on Thursday. The rally marks a significant turnaround for an asset that had struggled following the outbreak of the war with Iran despite its traditional reputation as a haven during periods of geopolitical uncertainty.The reversal is also sending a potentially encouraging signal about investors' expectations for inflation and interest rates. Gold does not pay interest, which means it often becomes less attractive when investors expect inflation-adjusted, or \"real,\" yields on bonds to rise.When the war with Iran began, markets anticipated that higher energy prices and supply disruptions could fuel inflation, potentially forcing central banks to maintain higher interest rates.That combination weighed on gold. Instead of benefiting from geopolitical turmoil, the metal declined, challenging the conventional assumption that investors automatically rush into gold when global risks intensify.Now, the economic calculus is changing. The turning point came after the Federal Reserve's meeting at the end of July, when policymakers delivered what investors interpreted as a more dovish message than expected. Expectations that the Fed could maintain a less aggressive approach toward interest rates helped push real yield expectations lower and made gold more attractive by comparison.Wednesday's relatively mild Consumer Price Index report added momentum to that trade. U.S. inflation remained relatively contained in July, giving policymakers and consumers a second consecutive month of encouraging price data.While the impact of renewed Middle East fighting and higher energy prices may not yet be fully reflected in the numbers, the report provided investors with additional evidence that underlying inflation pressures have not accelerated dramatically.For gold, that matters. Lower inflation expectations and the prospect of a less hawkish Fed reduce some of the pressure that drove prices down earlier in the Iran conflict. But monetary policy may not be the only force behind gold's latest rally.China has emerged as a major source of new demand. China reported purchasing nearly 20 metric tons of gold in July, its largest monthly acquisition since October 2023. Such a substantial purchase adds another source of support for a market already benefiting from shifting expectations around U.S. monetary policy.China has been building its gold reserves as part of a broader effort to diversify its holdings, making its purchasing activity closely watched by traders. Large central bank purchases can have an outsized effect because they remove significant quantities of gold from the available market while also signaling long-term institutional demand.",
+          "thumbnailUrl": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg?w=1600&h=900&q=88&f=6178b37b407a5671a52fbeea960c5945",
+              "width": 1600,
+              "height": 900,
+              "caption": "Bars of gold are piled up during a press conference at the German Federal Bank in Frankfurt am Main, western Germany, on January 16, 2013."
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg?w=1600&h=1200&q=88&f=01509f3d49868f8ed32ff22475c093cb",
+              "width": 1600,
+              "height": 1200,
+              "caption": "Bars of gold are piled up during a press conference at the German Federal Bank in Frankfurt am Main, western Germany, on January 16, 2013."
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://d.ibtimes.com/en/full/4650203/gold-bars.jpg?w=1600&h=1600&q=88&f=bf732890569fa862cb614574e9467037",
+              "width": 1600,
+              "height": 1600,
+              "caption": "Bars of gold are piled up during a press conference at the German Federal Bank in Frankfurt am Main, western Germany, on January 16, 2013."
+            }
+          ],
+          "articleSection": "Gold",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Matias Civita",
+              "url": "https://www.ibtimes.com/reporters/matias-civita",
+              "sameAs": [
+                "https://www.linkedin.com/in/matias-civita-0a2651250"
+              ]
+            }
+          ],
+          "keywords": [
+            "Gold",
+            "Rally",
+            "Prices",
+            "Inflation",
+            "Iran",
+            "War",
+            "China",
+            "Bonds"
+          ],
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xPath": [
+              "/html/head/title",
+              "/html/head/meta[@name='description']/@content"
+            ]
+          },
+          "isAccessibleForFree": "true"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les prix de l'or ont rebondi à 4 465 dollars l'once, inversant une baisse due au conflit avec l'Iran, grâce au ralentissement des prévisions d'inflation, aux perspectives plus accommodantes de la Réserve fédérale et à une augmentation des achats de la part de la Chine. La Chine a acheté près de 20 tonnes métriques d'or en juillet, son acquisition mensuelle la plus importante depuis octobre 2023.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Iran",
+          "China",
+          "Middle East"
+        ],
+        "ORGANIZATION": [
+          "International Business Times",
+          "Federal Reserve"
+        ],
+        "DATE": [
+          "past weeks",
+          "Wednesday",
+          "Thursday",
+          "end of July",
+          "July",
+          "October 2023"
+        ],
+        "EVENT": [
+          "war with Iran"
+        ],
+        "OTHER": [
+          "Gold",
+          "Consumer Price Index"
+        ]
+      },
+      "score_e5": 0.6923299271658798
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Jersey"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "August"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Bitcoin"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Angela Merkel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Peter Bofinger",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mario Draghi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "US",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beijing",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cyprus",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mediterranean",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "southern Europe",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "northern Europe",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greece",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Portugal",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "euro area",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iran",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle East",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Capital Economics",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alternative für Deutschland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Der Spiegel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Central Bank",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "International Monetary Fund",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bloomberg",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yeni Şafak",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US Federal Reserve",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "International Business Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Federal Reserve",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 15",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last summer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "18 months",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "two days",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 2011",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "first quarter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last month",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past 12 months",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "start of the year",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 2022",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past weeks",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "end of July",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2023",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "International Monetary Fund's annual meeting",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "January policy meeting",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "war with Iran",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Gold",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "silver",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Brent crude oil",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "GDP",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "US dollar",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "US dollar index",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Consumer Price Index",
+      "rangs": [
+        4,
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T18:32:21.534499"
+  }
+}

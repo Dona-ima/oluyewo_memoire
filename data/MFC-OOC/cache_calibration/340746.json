@@ -1,0 +1,904 @@
+{
+  "id_rumeur": 340746,
+  "id_image": 340746,
+  "caption": "Hiker near glacier Blanka Lake on the top of mountains",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748085/oluyewo_benchmark/ziohfxm2e3qevjeysbqn.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Washington Travel Guide - Expert Picks for your Vacation ...",
+      "source": "Fodors Travel Guide",
+      "lien": "https://www.fodors.com/world/north-america/usa/washington",
+      "image_url": "https://www.fodors.com/assets/destinations/595/blanca-lake-washington.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvvBHtumBZrFb1bDE1P13sHCHwdC4x98xqO39S4sc1dOaig-NV",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Washington Travel Guide - Expert Picks for your Vacation ...",
+        "link": "https://www.fodors.com/world/north-america/usa/washington",
+        "source": "Fodors Travel Guide",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAD1BMVEXwfTH____3upH73Mj0oGhu3iWlAAAAL0lEQVQ4jWNgGGaAEQkMqAJmJjDArQC7FFUVQNzAglsBIx5z6KWADuEw2BUMXgAA3JQA3EiVOgUAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvvBHtumBZrFb1bDE1P13sHCHwdC4x98xqO39S4sc1dOaig-NV",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.fodors.com/assets/destinations/595/blanca-lake-washington.jpg",
+        "image_width": 1800,
+        "image_height": 2700
+      },
+      "webpage": {
+        "text": "Washington Travel Guide - Expert Picks for your Vacation\n\nWhether you’re looking for hip cities, beautiful hikes, or laid-back beaches, the diversity of Washington state means there's something here for every type of traveler. In Seattle, you can sample farm-to-table treats at Pike Place Market and get a glimpse of the city lights at the top of the Space Needle, while smaller cities like Tacoma and Olympia entertain with quirky museums and small-town charm. Outdoor adventurers can explore national parks like Olympic, North Cascades, and Mount Rainier, as well hike up to Mt. St. Helens and the Cascade Mountains. Beach bums will find their bliss here too, with the San Juan Islands and Long Beach Peninsula offering plenty of swimming, surfing, and whale-watching.",
+        "metadata": {
+          "title": "Washington Travel Guide - Expert Picks for your Vacation | Fodor’s Travel",
+          "description": "Get information on Washington Travel Guide - Expert Picks for your Vacation hotels,\n    restaurants, entertainment, shopping, sightseeing, and activities. Read the Fodor's reviews, or post your own.",
+          "keywords": "usa_washington",
+          "author": "Fodors.com",
+          "fb:admins": "27630567432",
+          "twitter:title": "Washington Travel Guide - Expert Picks for your Vacation",
+          "twitter:description": "Get information on Washington Travel Guide - Expert Picks for your Vacation hotels,\n    restaurants, entertainment, shopping, sightseeing, and activities. Read the Fodor's reviews, or post your own.",
+          "og:type": "website",
+          "og:url": "https://www.fodors.com/world/north-america/usa/washington",
+          "og:title": "Washington Travel Guide - Expert Picks for your Vacation",
+          "og:description": "Get information on Washington Travel Guide - Expert Picks for your Vacation hotels,\n    restaurants, entertainment, shopping, sightseeing, and activities. Read the Fodor's reviews, or post your own.",
+          "og:image": "https://www.fodors.com/assets/destinations/595/blanca-lake-washington.jpg",
+          "og:site_name": "Fodor’s Travel"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Guide de voyage sur l'État de Washington couvrant des destinations telles que Seattle, Tacoma, Olympia, ainsi que des parcs nationaux et sites naturels comme Olympic, North Cascades, Mount Rainier, Mt. St. Helens, les montagnes de la Cascade, les îles San Juan et la péninsule de Long Beach.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Washington",
+          "Seattle",
+          "Tacoma",
+          "Olympia",
+          "Olympic",
+          "North Cascades",
+          "Mount Rainier",
+          "Mt. St. Helens",
+          "Cascade Mountains",
+          "San Juan Islands",
+          "Long Beach Peninsula"
+        ],
+        "ORGANIZATION": [
+          "Fodors Travel Guide"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Space Needle",
+          "Pike Place Market"
+        ]
+      },
+      "score_e5": 0.7221501314804915
+    },
+    {
+      "titre": "Guide to the Stunning Blanca Lake Hike in Washington",
+      "source": "Explore With Alec",
+      "lien": "https://explorewithalec.com/blanca-lake-hike/",
+      "image_url": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8097-1024x598.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSavbfAqzmU6_LsZH4ME38EttksSDROT3glyYvAxCJ9QhhiHfe1",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Guide to the Stunning Blanca Lake Hike in Washington",
+        "link": "https://explorewithalec.com/blanca-lake-hike/",
+        "source": "Explore With Alec",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJR8fLT0tMTU_Oj06Iys_OEU5QzQ5NTUBCgoKDQwNGhAPGjYlHyUtKy01NzcrNy43LTI1LSstLS0yOC03LzctNSstNTUtMTUtLSs4NS03LS0tNS01NS0rLf_AABEIACAAIAMBEQACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAADBAUBBv_EACkQAAIBAwIEBQUAAAAAAAAAAAEDAgAEESFRBRIxQRMiMnHRM1JhkbH_xAAaAQACAwEBAAAAAAAAAAAAAAABBAACBQMG_8QAIxEAAwABAwMFAQAAAAAAAAAAAAECAxESIQQxQRMUIkJRMv_aAAwDAQACEQMRAD8AtQukojljBHFKziquEjUq5lfJjVrfIuYcyWCW47ijeKofyQIyRkWssIyYI61TaX0J90c51oqSHLoJuYc8IlhJPqOOmN_etzZtPPPLu5CFT0SiYRXAkiIMWDvpR2p9yb2uZ4NZd8VUqUvFUYR0ADAZdd6p6GJ-C_u8yXcXvLzittASZOJGeuQaK6fC_APd519iHa3KSD4rGQPYx1H9pxy_BnrIvIaLbecfqtz3AiPmhtZZXP6YBbZOWsGx5B81NGFUhC_4nZ2vlQ5jWfbygD90veaZGIwVQgHmIzIgD80y607ifp68JAW8Sz5VanfoKXvqkuJGsfRN83wKOuXN9bCRt2pS8t33Y7GGI_lCx0OQPeuZ1P_Z.jpeg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSavbfAqzmU6_LsZH4ME38EttksSDROT3glyYvAxCJ9QhhiHfe1",
+        "thumbnail_width": 171,
+        "thumbnail_height": 294,
+        "image": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8097-1024x598.jpg",
+        "image_width": 598,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Guide to the Stunning Blanca Lake Hike in Washington\n\nBlanca Lake is one of the more popular trails within two hours of the Seattle metro area, and I wanted to check it out and see what all the hype was about! It’s a tough hike for sure, but at an eight-mile round trip, the pain and suffering will end at some point, and you’ll be able to soak in some dramatic views of a turquoise lake, melting glaciers, and pretty mountains.\n\nWhile anyone can do this hike, you should be in decent hiking shape to enjoy it. The uphill feels never-ending, and I was huffing and puffing for a solid 90 minutes.\n\nBelow, see my trip stats, trail report, and critical information about hiking Blanca Lake in the Henry M. Jackson Wilderness.\n\nEasy Booking: Expedia.com | Hotels.com | VRBO | Booking.com\nNeed Gear: Find Gear at REI\nFind Awesome Tours: Viator.com or GetYourGuide.com\nFirst time here? Stay in touch by following on IG: @Alecoutside and my newsletter\nIceland on your bucket list? Get my Iceland guide + 144 pinned locations on Google Maps\nPlease stay safe out there and follow Leave No Trace principles to the best of your ability.\n\n\nHiking to Blanca Lake in the Washington Cascades\n\n\nBlanca Lake Trail Stats:\n\n * Distance: 8 miles round trip\n * Elevation Gain: 3,600 (down if you go down to the lake) – 2,800 ascent on the way up though\n * Difficulty: Hard\n * Time on Trail: 3.5 hours of moving time (likely faster than most people) (plan 5-7 hours overall)\n * Popularity: Extremely popular, arrive early for hikes or after 4pm for a sunset jaunt\n\n\nMy Trip Report\n\nReaders of this website know I’m all about chasing sunsets. But to enjoy the stunning lake color, you want sunlight to show off the magical color of Blanca Lake. So, a sunset hike was out of the question.\n\nI left Seattle in the early afternoon and started hiking up Blanca Lake around 2:30 p.m. Minutes after hitting my watch to start tracking, the uphill had begun, and my heart rate was pumping. For the next 90 minutes, the trail was up, up, and up. It honestly felt never-ending, and I felt so slow.\n\nThat was until a lovely lady hiking down said, “You sure have a good pace.” (Little did she know I had just been breaking!) Granted, I actually did have a good pace. I did the four miles in just over two hours.\n\nBut back to the trail. It’s in great shape, and if you want to move quickly, you can. It’s just a bunch of switchbacks up the hillside until you reach the top. Then it levels out for a bit, and I munched on blueberries and caught my breath before beginning the 600-ish-foot descent to Blanca Lake.\n\nThis is surprisingly steep, and the trail is not as well maintained. Big steps and roots force you to think a bit harder.\n\nI hung out on the main viewpoint, soaking in the sights and eating some sacks. If you want, there’s a trail that will bring you down to the water level, but I didn’t really care, so I saved energy and steps.\n\nThe return trip was much the same—but with a lot less panting. I had blueberries on the way back and cruised down the trail. My return time was under 90 minutes, and my legs felt like jelly by the time I hit the parking lot.\n\nOverall, this was a beautiful trail, and having only a couple of other parties on it made it thoroughly more enjoyable than what I imagine weekends are like.\n\n\nPlanning Your Blanca Lake Hike\n\n\nWhere’s the trailhead?\n\nThe Blanca Lake Trailhead is 16 miles and 35 minutes northeast of Index. The drive is somewhat winding and mostly paved, with some rollercoaster-like tendencies. The trailhead is at the end of Forest Service Road 63.\n\nDirections to the trailhead.\n\nHow far from Seattle?\n\nWith good traffic, this is about a two-hour drive from Seattle to the Blanca Lake hike. I think the maps assume you will go slower on the Index Galena Road. When I drove it, there wasn’t another soul on the road.\n\nHow large is the parking lot?\n\nThe parking lot is medium-sized, with probably room for 25-30 cars. I went on a Tuesday night, and there were still seven cars. It supposedly fills up on the weekends.\n\n\nHow’s the road to get to Blanca Lake Trailhead?\n\nThe road to Blanca Lake is paved for all but two miles. I had read about this being a bad road, and honestly, I wouldn’t say that. (I have a 4Runner now, but I was a former Prius owner.) It is bumpy and has potholes as you head up, but you’ll be fine if you take it slow.\n\nAt least one sedan was in the parking lot, and I’m sure plenty drive throughout the summer.\n\nOverall, I would not say you need a high-clearance vehicle and that you should drive whatever you have available.\n\n\nBlueberries are numerous in August and September near the high point\n\nNear the trail’s high point, the blueberries were out in force! A lot of the berries right along the trail had been picked through, but if you reached a meter back, you could find some good ones. This was a lifesaver on the way up and helped me catch my breath.\n\nBut coming down, I basically had to drag myself away from munching on all the tasty blueberries!\n\nBe Bear Aware\n\nWith berries comes the potential for bears. I wouldn’t be too concerned about black bears, but in an area where bears could frequent, it’s good to keep an eye out and not leave food or trash around. If you do see a bear, let it know you’re there and keep your distance.\n\nIf it has cubs, give it even more room, slowly back away, and ensure it doesn’t feel threatened.\n\n\nCan you swim in Blanca Lake?\n\nYeah! It’ll be chilly but you can definitely swim in Blanca Lake. It’s fed by snowmelt and glacier melt, which gives it its unique color. As always, be careful when going into an alpine lake.\n\n\nBackpacking Rules for Blanca Lake\n\nYou can backpack along the Blanca Lake trail but cannot sleep near Blanca Lake. The furthest point you can sleep is near Virgin Lake. Once you begin heading down, you’ll pass a sign that says “Day Use Only.” While it’s important (follow the rules), I also didn’t see any good camping spots.\n\nWhere to camp\n\nA couple of large campsites are at the hike’s high point – before you read Virgin Lake. You’ll drop a couple hundred feet down to the lake (a small pond, really), and there are more camping opportunities surrounding the lake.\n\nI did the Blanca Lake hike the first week of September, and the water in Virgin Lake left much to be desired. Drinking with a filter is fine, but don’t expect it to taste fresh.\n\nWhen you go to Blanca Lake, make sure your entire party brings their filters so you can have cleaner, clearer water for your trip.\n\n\nCan you get back to the glacier on the Blanca Lake hike?\n\nYou can hike back to the glacier, but there’s no official trail. People say there may be a light footpath, but it’s mostly a choose-your-own-adventure. Sticking close to the lake seems to offer your best route and probably your best chance not to get lost.\n\n\nCar Camping in the Area\n\nAs you pass Index and Galena and head out on Index-Galena Road, you’ll pass San Juan Campground and Troublesome Creek Campground. While these aren’t hard to access, they’re also not right off the highway, so these might prove to be a nice gem of a site.\n\nIf you want to hike Blanca Lake and make sure you get a parking spot, camp in one of these. You’ll have a 20-minute drive to start your hike.\n\n\nWrapping up Blanca Lake Hiking Guide\n\nBlanca Lake is a gem and one of the must-do hikes in the Seattle area. For most, it’ll be a full-day trip, allowing you to get out and immerse yourself in nature. But we know this is incredibly popular, and you and a hundred of your closest friends will also be on the trail.\n\nIf you want more peace and quiet, try hiking around sunrise or doing an afternoon hike, using your headlamps for light on the way back. However you tackle your Blanca Lake hike, you’re in for a treat, and epic views are just four miles away!",
+        "metadata": {
+          "title": "Guide to the Stunning Blanca Lake Hike in Washington",
+          "description": "Looking for trail information for the Blanca Lake hike? Check out my trip report and see how to hike this gorgeous trail.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Hiking Guide to Stunning Blanca Lake in Washington",
+          "og:description": "Looking for trail information for the Blanca Lake hike? Check out my trip report and see how to hike this gorgeous trail.",
+          "og:url": "https://explorewithalec.com/blanca-lake-hike/",
+          "og:site_name": "Explore With Alec",
+          "article:publisher": "http://facebook.com/explorewithalec",
+          "article:published_time": "2024-09-16T20:06:03+00:00",
+          "article:modified_time": "2024-10-16T20:13:35+00:00",
+          "og:image": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8091-scaled.jpg",
+          "og:image:width": "2560",
+          "og:image:height": "1708",
+          "og:image:type": "image/jpeg",
+          "author": "Alec Sills-Trausch"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://explorewithalec.com/blanca-lake-hike/#article",
+              "isPartOf": {
+                "@id": "https://explorewithalec.com/blanca-lake-hike/"
+              },
+              "author": "Alec Sills-Trausch",
+              "headline": "Hiking Guide to Stunning Blanca Lake in Washington",
+              "datePublished": "2024-09-16T20:06:03+00:00",
+              "dateModified": "2024-10-16T20:13:35+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://explorewithalec.com/blanca-lake-hike/"
+              },
+              "wordCount": 1454,
+              "publisher": {
+                "@id": "https://explorewithalec.com/#organization"
+              },
+              "image": {
+                "@id": "https://explorewithalec.com/blanca-lake-hike/#primaryimage"
+              },
+              "thumbnailUrl": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8091-scaled.jpg",
+              "articleSection": [
+                "Washington"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://explorewithalec.com/blanca-lake-hike/",
+              "url": "https://explorewithalec.com/blanca-lake-hike/",
+              "name": "Guide to the Stunning Blanca Lake Hike in Washington",
+              "isPartOf": {
+                "@id": "https://explorewithalec.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://explorewithalec.com/blanca-lake-hike/#primaryimage"
+              },
+              "image": {
+                "@id": "https://explorewithalec.com/blanca-lake-hike/#primaryimage"
+              },
+              "thumbnailUrl": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8091-scaled.jpg",
+              "datePublished": "2024-09-16T20:06:03+00:00",
+              "dateModified": "2024-10-16T20:13:35+00:00",
+              "description": "Looking for trail information for the Blanca Lake hike? Check out my trip report and see how to hike this gorgeous trail.",
+              "breadcrumb": {
+                "@id": "https://explorewithalec.com/blanca-lake-hike/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://explorewithalec.com/blanca-lake-hike/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://explorewithalec.com/blanca-lake-hike/#primaryimage",
+              "url": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8091-scaled.jpg",
+              "contentUrl": "https://explorewithalec.com/wp-content/uploads/2024/09/blanca-lake-hike-861A8091-scaled.jpg",
+              "width": 2560,
+              "height": 1708,
+              "caption": "Photo Credit: Alec Sills-Trausch"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://explorewithalec.com/blanca-lake-hike/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://explorewithalec.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Hiking Guide to Stunning Blanca Lake in Washington"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://explorewithalec.com/#website",
+              "url": "https://explorewithalec.com/",
+              "name": "Explore With Alec",
+              "description": "Travel | Hiking | Backpacking | Photography",
+              "publisher": {
+                "@id": "https://explorewithalec.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://explorewithalec.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://explorewithalec.com/#organization",
+              "name": "Explore With Alec",
+              "url": "https://explorewithalec.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://explorewithalec.com/#/schema/logo/image/",
+                "url": "https://explorewithalec.com/wp-content/uploads/2020/08/website-logo-e1596781523140.png",
+                "contentUrl": "https://explorewithalec.com/wp-content/uploads/2020/08/website-logo-e1596781523140.png",
+                "width": 1800,
+                "height": 1200,
+                "caption": "Explore With Alec"
+              },
+              "image": {
+                "@id": "https://explorewithalec.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "http://facebook.com/explorewithalec",
+                "https://x.com/UofAlec",
+                "http://instagram.com/alecoutside"
+              ],
+              "publishingPrinciples": "https://explorewithalec.com/editorial-policy/",
+              "ethicsPolicy": "https://explorewithalec.com/editorial-policy/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Guide sur la randonnée du lac Blanca (Blanca Lake) dans l'État de Washington, situé à environ deux heures de la région métropolitaine de Seattle, au sein de la zone sauvage Henry M. Jackson (Henry M. Jackson Wilderness).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alec"
+        ],
+        "LOCATION": [
+          "Washington",
+          "Seattle",
+          "Blanca Lake",
+          "Henry M. Jackson Wilderness"
+        ],
+        "ORGANIZATION": [
+          "Expedia.com",
+          "Hotels.com",
+          "VRBO",
+          "Booking.com",
+          "REI",
+          "Viator.com",
+          "GetYourGuide.com"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Google Maps",
+          "Iceland"
+        ]
+      },
+      "score_e5": 0.7674148179522917
+    },
+    {
+      "titre": "Things People Say in Seattle vs What They Actually Mean ...",
+      "source": "Thrillist",
+      "lien": "https://www.thrillist.com/lifestyle/seattle/things-people-say-in-seattle-vs-what-they-actually-mean",
+      "image_url": "https://assets3.thrillist.com/v1/image/1708453/381x254/crop;webp=auto;jpeg_quality=60.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAohBd2W713ii10i5Ps2SxVC9V3NkXpLLq4i7AjwjroiSLSR2",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Things People Say in Seattle vs What They Actually Mean ...",
+        "link": "https://www.thrillist.com/lifestyle/seattle/things-people-say-in-seattle-vs-what-they-actually-mean",
+        "source": "Thrillist",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEXqSSv____oMgDpOhHqRCP5z8jqRSbpNgXpQiDpOQ7-9_XpPRfqRyntZEz3w7vqQhzrVz3nIQD98u_zoZT0q6D1tKv72NH73tn3wLfwgG75zMTwiXnvembxkILxlYbudWK_snCxAAAAoElEQVQ4jd2RSRbCIBBE00xhjnEig8b731KEF1eFKzda2_8fXXR33T9GOfYJ-z5E6ttcDJKI8hMKcx3oFeZNgIY6FE6jjhaOYccqnIgWDvhwpncuDgj8mmyhk0yzQCP4uNQO3ECeDVl_gek3Be2bQi05c4F-meOmItj1FrGh7_uiJNpkPjbfBXysvO2t8q3RIddcE1F64AG1hmGstehfzhPbAwTsMse_UQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAohBd2W713ii10i5Ps2SxVC9V3NkXpLLq4i7AjwjroiSLSR2",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://assets3.thrillist.com/v1/image/1708453/381x254/crop;webp=auto;jpeg_quality=60.jpg",
+        "image_width": 254,
+        "image_height": 381
+      },
+      "webpage": {
+        "text": "Things People Say in Seattle vs What They Actually Mean\n\nPeople from Seattle generally aren't afraid to speak their minds. They make famously angsty music, protest in support of causes large and small, cheer louder than any other sports fans in history, and proudly rep their city's achievements. But sadly, sometimes the words they speak don't convey what they actually mean. So we came up with this handy guide to what people from Seattle really mean when they say...\n\n\n\"Hiking? Dude, I'm totally into hiking!\"\n\n\nTranslation: I'm willing to tackle Mount Si with you in an effort to demonstrate the requisite amount of outdoorsiness. Plus I've got, like, a ton of stuff from Patagonia that I should probably eventually use.\n \n\n\n\"I prefer Macklemore's early stuff\"\n\n\nTranslation: I actually don't like Macklemore. But I'm afraid people will look at me funny if I admit it. And \"Irish Celebration\" is a banger.\n \n\n\n\"Living on Capitol Hill is great\"\n\n\nTranslation: I am thiiiiis close to ditching my five roommates and moving to Shoreline.\n\n\n\"I usually go to [insert Seattle independent coffee shop here]\"\n\n\nTranslation: I usually go to Starbucks.\n \n\n\n\"Seattle was WAY better 10 years ago\"\n\n\nTranslation: I've been living in the same place for five years and I'm pissed my landlord keeps raising rent.\n \n\n\n\"Ugh. It rains here all the time.\"\n\n\nTranslation: Californians, please don't move here. There are enough of you already.\n\n\n\"Dude, Portland sucks\"\n\n\nTranslation: I'm thinking of moving to Portland.\n \n\n\n\"It was great meeting you. We should get together sometime!\"\n\n\nTranslation: You're great, but we're not ever going to get together: I've already got friends, and I'm way too polite to intrude on your life with something like an invitation to drinks, or whatever, even if you're new in town and are actually sitting at home by yourself.\n \n\n\n\"The majority of our ingredients are locally sourced\"\n\n\nTranslation: We get our beef from Painted Hills, and our cheese from Beecher's. Oh, and we definitely use Mama Lil's peppers in a couple recipes... just like everyone else.\n\n\n\"You got a place in Ballard? That's such a charming neighborhood.\"\n\n\nTranslation: Do you know how much it will cost to take an Uber back to my place from there? And what if the bridge is up? There is literally no way I am ever coming to see you. Our friendship was nice while it lasted.\n \n\n\n\"I could totally use a wild night out\"\n\n\nTranslation: Let's hit a happy hour so I can be home around 7-ish and finally start the new Daredevil season on Netflix.\n \n\n\n\"I'm so glad we passed I-502\"\n\n\nTranslation: There's no way I would have voted for the damn thing if I knew it meant the guy in the apartment below me would smoke this much weed.\n\n\n\"The rain here isn't bad at all. It's just drizzles sometimes. And the summers are GREAT!\"\n\n\nTranslation: It is necessary to repeat this to yourself, and others, so often that you start to actually believe it. It's the only way to survive the eight months of constant gray we call fall, winter, and most of spring until Seattle's actually amazing summer gets here.\n \n\n\n\"I'll have a Rainier, please\"\n\n\nTranslation: I'm too cool to admit I'm really just drinking a PBR.\n \n\n\n\"I can't believe how bad traffic is\"\n\n\nTranslation: I'm oblivious to the deleterious effect my decision to exit 520 onto I-South and then cross all four lanes in time to get off at Mercer is having on traffic for miles behind me. Miles. Later I will probably take a left off Denny or do one of these other incredibly stupid things.\n \n\n\n\"I never go to the Eastside anymore\"\n\n\nTranslation: I'm too cheap to pay the toll on 520, besides I can just take 90. But, um, like I said, it's not like I ever go over there to eat at Chick-fil-A, or The Hollywood Tavern, or anything else.\n\n\n\"Go Hawks!\"\n\n\nTranslation: I only started following football in 2011 or so, but I LOVE DangeRuss, and the Legion of Boom, and I've got my 12 flag and everything! What? No, I've never heard of Shaun Alexander. Is he on the team?\n \n\n\n\"I went to Seattle Prep\"\n\n\nTranslation: UW was my backup school.\n \n\n\n\"I went to Roosevelt\"\n\n\nTranslation: WSU was my backup school.\n\n\n\"I'll see you at the Block Party this year\"\n\n\nTranslation: I want you to think I'm still cool enough to put up with spending hours finding parking, and shoving through four square blocks of people who are all younger, more inebriated, and less clothed than I am, just to find a decent spot to see The Joy Formidable. And spending $150 on tickets, for the privilege.\n\nSign up here for our daily Seattle email and be the first to get all the food/drink/fun in town.\n\nBradley Foster is a former Thrillist editor who, despite having generations of family from Seattle and living here on and off for over 20 years, was actually *gasp* born in California.",
+        "metadata": {
+          "title": "Things People Say in Seattle vs What They Actually Mean - Thrillist",
+          "keywords": "thrillist editorial, seattle, local, bradley foster, standard, lifestyle, food, dishes, coffee, brands, starbucks, other, frequently discussed tv brands/people, netflix, movie and tv genres, family, history, music, sports, streaming services, health, fitness and exercise, hiking, recipes, occasion, happy hour",
+          "description": "People from Seattle generally aren't afraid to speak their minds -- but sadly, sometimes the words they speak don't convey what they actually mean.",
+          "article:publisher": "https://www.facebook.com/Thrillist",
+          "article:author": "Bradley Foster",
+          "author": "Bradley Foster",
+          "article:published_time": "2016-05-17T04:05:30.000Z",
+          "article:modified_time": "2016-05-17T04:05:30.000Z",
+          "parsely-title": "Things People in Seattle Say, and What They Actually Mean",
+          "parsely-author": "Bradley Foster",
+          "fb:pages": "101800100890",
+          "fb:app_id": "111767172173562",
+          "ia:markup_url": "https://www.thrillist.com/fbihtml/lifestyle/seattle/things-people-say-in-seattle-vs-what-they-actually-mean",
+          "og:site_name": "Thrillist",
+          "og:url": "https://www.thrillist.com/lifestyle/seattle/things-people-say-in-seattle-vs-what-they-actually-mean",
+          "og:type": "article",
+          "og:title": "Things People in Seattle Say, and What They Actually Mean",
+          "og:description": "\"Seattle was WAY better 10 years ago.\"",
+          "og:image": "https://assets3.thrillist.com/v1/image/1708567/1200x600/scale;;webp=auto;jpeg_quality=85.jpg",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@thrillist",
+          "twitter:image": "https://assets3.thrillist.com/v1/image/1708567/1200x600/scale;;webp=auto;jpeg_quality=85.jpg",
+          "twitter:description": "\"Seattle was WAY better 10 years ago.\"",
+          "twitter:title": "Things People in Seattle Say, and What They Actually Mean",
+          "twitter:url": "https://www.thrillist.com/lifestyle/seattle/things-people-say-in-seattle-vs-what-they-actually-mean",
+          "placeholder:1": "ph",
+          "placeholder:2": "ph",
+          "placeholder:3": "ph",
+          "placeholder:4": "ph",
+          "placeholder:5": "ph",
+          "placeholder:6": "ph",
+          "placeholder:7": "ph",
+          "placeholder:8": "ph",
+          "placeholder:9": "ph"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article humoristique sur les expressions des habitants de Seattle et leur signification réelle, mentionnant divers quartiers, lieux et références culturelles de la région.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Macklemore"
+        ],
+        "LOCATION": [
+          "Seattle",
+          "Mount Si",
+          "Capitol Hill",
+          "Shoreline",
+          "Portland",
+          "Ballard"
+        ],
+        "ORGANIZATION": [
+          "Patagonia",
+          "Starbucks",
+          "Painted Hills",
+          "Beecher's",
+          "Mama Lil's",
+          "Netflix"
+        ],
+        "DATE": [
+          "10 years ago",
+          "five years"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "I-502",
+          "Daredevil"
+        ]
+      },
+      "score_e5": 0.6956641716407871
+    },
+    {
+      "titre": "Blanca Lake to Columbia Glacier Hike - Washington State ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=yg3HY1yyfxA",
+      "image_url": "https://i.ytimg.com/vi/yg3HY1yyfxA/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCcdw61fXkZq4_HNXG8N3RHjYVo7fWkptTkCPkHJxbByONGW1m",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Blanca Lake to Columbia Glacier Hike - Washington State ...",
+        "link": "https://www.youtube.com/watch?v=yg3HY1yyfxA",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCcdw61fXkZq4_HNXG8N3RHjYVo7fWkptTkCPkHJxbByONGW1m",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/yg3HY1yyfxA/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Blanca Lake to Columbia Glacier Hike - Washington State\n\nhikeart\n\nBeyond Blanca Lake is a wonderland of waterfalls, ice caves and polished rock faces, sculptured by the Columbia Glacier.It can be reached by following the fa...",
+        "metadata": {
+          "title": "Blanca Lake to Columbia Glacier Hike - Washington State",
+          "description": "Beyond Blanca Lake is a wonderland of waterfalls, ice caves and polished rock faces, sculptured by the Columbia Glacier.It can be reached by following the fa...",
+          "keywords": "blanca lake, blanca, columbia glacier, troublesome creek, twin falls, norht cascades, hike, hiking, backpacking, long, all, day, trip, difficult, moderate, to, from, for, the, hikeart, ddesignplus, dorota heidel, lake, green, blue, turquoise, color, ice caves, rocks, boulders, camp, wta, report",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=yg3HY1yyfxA",
+          "og:title": "Blanca Lake to Columbia Glacier Hike - Washington State",
+          "og:image": "https://i.ytimg.com/vi/yg3HY1yyfxA/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Beyond Blanca Lake is a wonderland of waterfalls, ice caves and polished rock faces, sculptured by the Columbia Glacier.It can be reached by following the fa...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=yg3HY1yyfxA&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=yg3HY1yyfxA&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=yg3HY1yyfxA&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/yg3HY1yyfxA",
+          "og:video:secure_url": "https://www.youtube.com/embed/yg3HY1yyfxA",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "report",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Blanca Lake to Columbia Glacier Hike - Washington State",
+          "twitter:description": "Beyond Blanca Lake is a wonderland of waterfalls, ice caves and polished rock faces, sculptured by the Columbia Glacier.It can be reached by following the fa..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vidéo montrant la randonnée du lac Blanca au glacier Columbia dans l'État de Washington, incluant des cascades, des grottes de glace et des parois rocheuses.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Washington State",
+          "Blanca Lake",
+          "Columbia Glacier"
+        ],
+        "ORGANIZATION": [
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7712526747731798
+    },
+    {
+      "titre": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops",
+      "source": "TravelPirates",
+      "lien": "https://www.travelpirates.com/packages/three-nights-in-seattle-skyline-views-mountain-backdrops",
+      "image_url": "https://image.urlaubspiraten.de/640/image/upload/v1675947776/Impressions and Other Assets/Blanca_Lake_Washington_State._Located_in_the_Henry_M._Jackson_Wilderness_Area_USA_shutterstock_74354530_cvztai.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0V7xI9bKfqg4xqNOOOCAKqpIAizcOxHDBRrZJROIozUFR_L0O",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops",
+        "link": "https://www.travelpirates.com/packages/three-nights-in-seattle-skyline-views-mountain-backdrops",
+        "source": "TravelPirates",
+        "source_icon": "https://serpapi.com/searches/6a8ef7f8792d6897850aa6f6/images/p93j6d_F125L_5hjiyNu5ToNfLKyYSOgz2ylQwtzRe4.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0V7xI9bKfqg4xqNOOOCAKqpIAizcOxHDBRrZJROIozUFR_L0O",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://image.urlaubspiraten.de/640/image/upload/v1675947776/Impressions and Other Assets/Blanca_Lake_Washington_State._Located_in_the_Henry_M._Jackson_Wilderness_Area_USA_shutterstock_74354530_cvztai.jpg",
+        "image_width": 427,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops\n\nWe use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking \"Accept All\" you accept this and consent that we share this information with third parties and that your data may be processed in the USA. For more information, please read our .\n\nYou can adjust your preferences at any time. If you deny, we will use only the essential cookies and unfortunately, you will not receive any personalized content.",
+        "metadata": {
+          "title": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops",
+          "description": "Coffee, Views, and Vibes this Fall Next to Pike Place Where Your “Quick Trip” Becomes a Whole Personality🍵🗻🦦",
+          "og:title": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops",
+          "og:type": "article",
+          "og:url": "https://www.travelpirates.com/packages/three-nights-in-seattle-skyline-views-mountain-backdrops",
+          "og:description": "Coffee, Views, and Vibes this Fall Next to Pike Place Where Your “Quick Trip” Becomes a Whole Personality🍵🗻🦦",
+          "og:site_name": "TravelPirates",
+          "og:locale": "en_US",
+          "og:image": "https://image.urlaubspiraten.de/720/image/upload/v1777815259/Impressions%20and%20Other%20Assets/Green_Tortoise_Hostel_Seattle_Room_Booking_mcui4n.jpg",
+          "og:image:secure_url": "https://image.urlaubspiraten.de/720/image/upload/v1777815259/Impressions%20and%20Other%20Assets/Green_Tortoise_Hostel_Seattle_Room_Booking_mcui4n.jpg",
+          "og:image:width": "789",
+          "og:image:height": "768",
+          "og:image:alt": "Seattle, usa, Washington",
+          "og:article:published_time": "2026-05-03T13:42:05.446Z",
+          "og:article:modified_time": "2026-05-03T13:42:07.293Z",
+          "og:article:section": "Vacations",
+          "og:article:author": "Katrina Kerr",
+          "og:article:tag": "Under 500",
+          "og:article:expiration_time": "2026-11-03T13:57:58.111Z",
+          "twitter:title": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops",
+          "twitter:description": "Coffee, Views, and Vibes this Fall Next to Pike Place Where Your “Quick Trip” Becomes a Whole Personality🍵🗻🦦",
+          "fb:pages": "167758496717730",
+          "fb:admins": "100002347359107",
+          "fb:app_id": "425138760862879"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "3 Nights 🎡 Seattle Skyline Views + Mountain Backdrops",
+          "publisher": {
+            "@type": "Organization",
+            "name": "TravelPirates",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media.holidaypirates.group/icons/v2/logos/travelpirates_purple.svg"
+            }
+          },
+          "datePublished": "2026-05-03T13:42:05.446Z",
+          "dateModified": "2026-05-03T13:42:07.293Z",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.travelpirates.com/packages/three-nights-in-seattle-skyline-views-mountain-backdrops"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Katrina Kerr"
+          },
+          "image": [
+            "https://image.urlaubspiraten.de/1x1/image/upload/v1675947787/Impressions and Other Assets/Seattle_Washington_state_USA_shutterstock_1708526683_gbqyr0.jpg",
+            "https://image.urlaubspiraten.de/4x3/image/upload/v1675947787/Impressions and Other Assets/Seattle_Washington_state_USA_shutterstock_1708526683_gbqyr0.jpg",
+            "https://image.urlaubspiraten.de/16x9/image/upload/v1675947787/Impressions and Other Assets/Seattle_Washington_state_USA_shutterstock_1708526683_gbqyr0.jpg"
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Offre de voyage de 3 nuits proposant des vues sur la ligne d'horizon de Seattle et des arrière-plans montagneux.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Seattle",
+          "USA"
+        ],
+        "ORGANIZATION": [
+          "TravelPirates"
+        ],
+        "DATE": [
+          "3 Nights"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7288294316845982
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Blanka Lake"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Hiker"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Alec",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Macklemore",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Seattle",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tacoma",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Olympia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Olympic",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Cascades",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mount Rainier",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mt. St. Helens",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cascade Mountains",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Juan Islands",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Long Beach Peninsula",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Blanca Lake",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Henry M. Jackson Wilderness",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mount Si",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Capitol Hill",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shoreline",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Portland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ballard",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Columbia Glacier",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Fodors Travel Guide",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Expedia.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hotels.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "VRBO",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Booking.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "REI",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Viator.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "GetYourGuide.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Patagonia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Starbucks",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Painted Hills",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Beecher's",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mama Lil's",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Netflix",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "TravelPirates",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10 years ago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "five years",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "3 Nights",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Space Needle",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Pike Place Market",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Google Maps",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Iceland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "I-502",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Daredevil",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:30:57.399449"
+  }
+}

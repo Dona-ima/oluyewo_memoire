@@ -1,0 +1,1352 @@
+{
+  "id_rumeur": 339054,
+  "id_image": 339054,
+  "caption": "An image of a Boeing 737 MAX in the Copa Airlines livery",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748225/oluyewo_benchmark/ra3bbfhcf9hlr2qbykqh.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Boeing lands blockbuster order for 61 of its 737 jets",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/todayinthesky/2015/04/10/boeing-lands-blockbuster-order-for-61-boeing-737-jets/25591583/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/4089b97179a1416c783229a46f22b449724047ef/c=0-49-960-591/local/-/media/2015/04/10/USATODAY/USATODAY/635642802163373577-copa-737-max.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC--qlsmptiXaQCbLPXe6eS-2Tq83dt4SPOcV_42MN47FWONU3",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Boeing lands blockbuster order for 61 of its 737 jets",
+        "link": "https://www.usatoday.com/story/todayinthesky/2015/04/10/boeing-lands-blockbuster-order-for-61-boeing-737-jets/25591583/",
+        "source": "USA Today",
+        "source_icon": "https://serpapi.com/searches/6a8ef94606ca7f47acb61547/images/oG_mebXMPPr7tkHkIk9FF6dOaI0LmR7347VfH8Ui3Ds.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC--qlsmptiXaQCbLPXe6eS-2Tq83dt4SPOcV_42MN47FWONU3",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.usatoday.com/gcdn/-mm-/4089b97179a1416c783229a46f22b449724047ef/c=0-49-960-591/local/-/media/2015/04/10/USATODAY/USATODAY/635642802163373577-copa-737-max.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp",
+        "image_width": 373,
+        "image_height": 660
+      },
+      "webpage": {
+        "text": "Boeing lands blockbuster order for 61 of its 737 jets\n\nBoeing has landed a blockbuster 61-jet order from Copa Airlines of Panama. The order would be worth $6.6 billion at list prices, though big airlines receive significant discounts on such orders.\n\nThe deal was announced on the sidelines of the Summit of the Americas, a gathering of North and South American leaders that's being hosted this year in Panama's capital city.\n\nCopa CEO Pedro Heilbron and Boeing CEO Jim McNerney signed off on the order for 61 Boeing 737-MAX jets at a Friday ceremony attended by President Barack Obama and Panamanian President Carlos Varela. Trade officials said the deal is the biggest ever between U.S. and Panamanian companies.\n\nCopa has long been a staunch Boeing customer. The carrier's current fleet of 98 aircraft includes 72 Boeing 737 jets of various models, according to the carrier's website. The remaining planes in Copa's fleets are mid-size E190 jets made by Brazilian manufacturer Embraer.\n\nThe Copa order announced Friday with Boeing is for the 737 MAX, a \"next generation\" update to Boeing's best-selling model. The aircraft, scheduled to debut in 2017, includes newer fuel-efficient engines as well as other design updates.\n\nAn analysis by The Seattle Times shows Copa's new 61-jet order comes while it also moved to cancel an existing order for five current model 737s. \"So the net new order is for 56 airplanes,\" the Times writes. The newspaper suggests the actual value of the deal for 56 planes is be about $2.9 billion with \"standard discounts,\" according pricing data the Times attained from aircraft valuation firm Avitas.\n\nCopa has been on a growth spurt in recent years, capitalizing on the strategic position of its Panama City hub to expand both within Latin America and on routes to the United States. The airline bills its Panama City base as the \"Hub of the Americas.\"\n\nCopa has added several new U.S. destinations since early 2012, most recently announcing new service to New Orleans. The airline's other recently added U.S. cities include Boston, Fort Lauderdale, Las Vegas and Tampa.\n\nCopa's new order includes both the 737 MAX 8 and 737 MAX 9 versions of the jet. Copa says it will use the planes both to replace existing older planes in its fleet and to \"support the carrier's plans for strategic growth.\"\n\n\"The Next-Generation 737 is the backbone for our fleet today,\" Copa CEO Pedro Heilbron says in a statement.\n\nHeilbron adds that \"our order for the 737 MAX shows our continued commitment for the future to bring people together across all of the Americas using the most modern and efficient airplanes in the sky as well as our Hub of the Americas, in Panama City.\"",
+        "metadata": {
+          "title": "Boeing lands blockbuster order for 61 of its 737 jets"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Boeing a conclu une commande de 61 jets 737 (notamment des modèles 737-MAX) avec la compagnie aérienne Copa Airlines du Panama, d'une valeur estimée à 6,6 milliards de dollars au prix catalogue. L'accord a été annoncé en marge du Sommet des Amériques à Panama par le PDG de Copa Pedro Heilbron et le PDG de Boeing Jim McNerney, en présence du président américain Barack Obama et du président panaméen Carlos Varela.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Pedro Heilbron",
+          "Jim McNerney",
+          "Barack Obama",
+          "Carlos Varela"
+        ],
+        "LOCATION": [
+          "Panama",
+          "United States",
+          "North America",
+          "South America",
+          "Panama City",
+          "New Orleans",
+          "Boston",
+          "Fort Lauderdale",
+          "Las Vegas",
+          "Tampa",
+          "Latin America"
+        ],
+        "ORGANIZATION": [
+          "Boeing",
+          "Copa Airlines",
+          "USA Today",
+          "Embraer",
+          "The Seattle Times",
+          "Avitas"
+        ],
+        "DATE": [
+          "2015",
+          "04/10/2015",
+          "Friday",
+          "2017",
+          "2012"
+        ],
+        "EVENT": [
+          "Summit of the Americas"
+        ],
+        "OTHER": [
+          "737",
+          "737-MAX",
+          "E190",
+          "737 MAX 8",
+          "737 MAX 9"
+        ]
+      },
+      "score_e5": 0.8194298574086205
+    },
+    {
+      "titre": "Copa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023",
+      "source": "Simple Flying",
+      "lien": "https://simpleflying.com/copa-airlines-14-737-max-aircraft-2023/",
+      "image_url": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2021/02/Copa-Airlines-B737-MAX-2.jpg?w=1200&h=628&fit=crop",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlVjjfheURT-jkh_PwuSqnhknyaQLyA9oK9q9Omr5jmTj2sPEs",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Copa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023",
+        "link": "https://simpleflying.com/copa-airlines-14-737-max-aircraft-2023/",
+        "source": "Simple Flying",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwkdtcmet1BiOQ1hOQgaLwbVpwkddUpfOArf-Mmedsoet0net0nfeMlfOJDuhldAAAADXRSTlMAcETRqSoTVdHqj7ulczephAAAAKVJREFUOI3tU8sOxCAI9FGLqPj_n7sY2xXFZq976ByMg8NAIhgjcNri_WFP84BCRLXykbeSQALu4R0TgI17RYtCv7p2X6skjoVvs60PbWAHc8oCOCJ5nPS9QpHcrjWOJYNr-B-C-gr-VcDfnSRX380Dg5KrgTFjZBuCnNCOMk0hEkWzgEbSidrgWoYMIUAmUh1cfQ5s3tk53suLyv9uPkXEmKa9_AC5PgsUQ6OIwQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlVjjfheURT-jkh_PwuSqnhknyaQLyA9oK9q9Omr5jmTj2sPEs",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2021/02/Copa-Airlines-B737-MAX-2.jpg?w=1200&h=628&fit=crop",
+        "image_width": 628,
+        "image_height": 960
+      },
+      "webpage": {
+        "text": "Copa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023\n\nPublished Feb 11, 2021, 5:00 PM EST\n\nLead Journalist - South America - Daniel comes to Simple Flying with many years of aviation journalism experience, having worked with Mexican publication A21, Roads & Kingdoms, El Economista and more. His degree in journalism allows him to form beautifully crafted and insightful pieces. His specialist knowledge of Latin American airlines and close relationship with the likes of Aeromexico, Avianca, Volaris brings depth to our coverage in the region. Based in Mexico City, Mexico.\n\nThe Panamanian carrier Copa Airlines expects to increase its Boeing 737 MAX fleet from the six it had when it resumed operations with the type to 20 by the end of 2022. The plan is already in motion since the airline has already received four new Boeing 737 MAX 9 in the last few weeks.\n\n\nLatest developments of Copa’s MAX\n\nWell before the pandemic, Copa Airlines signed a deal with Boeing to acquire up to 61 Boeing 737 MAX airplanes. The Panamanian carrier’s plan was to upgauge and replace older planes, like the Embraer E190 and Boeing 737-700 fleets.\n\nAt the time, Pedro Heilbron, Copa’s CEO, said,\n\n“The Next-Generation 737 is the backbone for our fleet today, and our order for the 737 MAX shows our continued commitment for the future to bring people together across all of the Americas using the most modern and efficient airplanes in the sky.”\n\nNevertheless, the grounding of the 737 MAX put a hold on Copa’s plans. Then, the COVID-19 crisis accelerated the retirement of the older fleets. In the last few months, Copa sold its 14 Embraer 190 aircraft and stored the remaining 12 Boeing 737-700 it had.\n\nOn December 30, 2020, Copa Airlines quietly resumed its 737 MAX flights. It operated a flight between Panama City and San José, Costa Rica. Unlike other carriers like WestJet and American Airlines, Copa brought back the MAX fleet without too much noise. Fortunately for the airline, it seems like its traveling public is not very worried about being inside a MAX. Pedro Heilbron said,\n\n\"There have been no negative comments. No passengers are refusing to fly the airplane. It’s been just like any other aircraft in our fleet, with no issues. It is no different than an average flight with a regular 737-800 NG, which is, of course, good news.”\n\n\nStay informed: Sign up for our daily aviation news digest.\n\n\nCopa’s plans for the 737 MAX\n\nSince the Boeing 737 MAX ungrounding in the US, Copa has received four new Boeing 737 MAX 9, said the carrier. One arrived in December, and the other three have come between January and February 2021.\n\nFurthermore, the airline expects to add three more MAX 9 to its fleet during 2021’s first quarter. Copa Airlines explained the plan to add a total of eight planes in 2021 and five more in 2022. Therefore, by the end of 2022, Copa would have a fleet of 20 737 MAX 9.\n\nIn December, the Export-Import Bank of the United States authorized a final commitment for a guaranteed loan of up to US$327.9 million, related to seven 737 MAX 9 aircraft to be delivered to Copa Airlines during 2020 and 2021.\n\nCopa’s MAX planes have a capacity for 166 passengers and include 16 lie-flat seats. The airline would love to use the 737 MAX on business-oriented routes, using these lie-flat seats to attract corporate travel. In the meantime,\n\n“The aircraft will be deployed in our longer market, and that’s already happening, and as we get more, we’ll do more of that. They’re going to be mostly serving those markets,” said Pedro Heilbron.\n\n\nA quick outlook on Copa Airlines’ finances\n\nIn 2020, Copa Airlines reported an operating loss of US$598.6 million due to the COVID-19 crisis. The continued effects of the pandemic forced Copa to operate, on average, at approximately 27% of the capacity it had previously.\n\nMoreover, between April and September, Copa Airlines remained grounded due to travel restrictions in Panama and Latin America. In October, it resumed operations, flying at 15% of its previous capacity; by November, it increased to 28%, 39% in December, and 45% in January.\n\nCopa Airlines ended 2020 with US$1.3 billion of available liquidity. Of this amount, approximately US$1.0 billion was in cash, short-term and long-term investments, and US$305 million in committed and undrawn credit facilities.\n\nThe airline didn’t provide financial guidance for 2021 due to the current uncertainty in the aviation market. Nevertheless, Copa expects a decrease in demand for the first quarter of 2021. Pedro Heilbron said,\n\n“Despite the encouraging results in the fourth quarter, increasing COVID-19 cases and new international travel requirements and restrictions have stalled demand starting in the second half of December.”\n\nHave you ever traveled onboard a Copa Airlines Boeing 737 MAX? How was it? Let us know in the comments.",
+        "metadata": {
+          "title": "Copa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023",
+          "og:title": "Copa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023",
+          "og:type": "article",
+          "og:image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2021/02/Copa-Airlines-B737-MAX-2.jpg?w=1200&h=675&fit=crop",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "og:url": "https://simpleflying.com/copa-airlines-14-737-max-aircraft-2023/",
+          "og:locale": "en_US",
+          "og:site_name": "Simple Flying",
+          "article:published_time": "2021-02-11T22:00:04Z",
+          "article:modified_time": "2021-02-11T22:00:04Z",
+          "article:section": "Airlines",
+          "article:author": "Daniel Martínez Garbuno",
+          "article:publisher": "https://facebook.com/simpleflyingnews",
+          "twitter:title": "Copa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023",
+          "fb:app_id": "373857660022203"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Copa Airlines prévoit d'augmenter sa flotte de Boeing 737 MAX pour atteindre 20 appareils d'ici fin 2022. La compagnie a reçu quatre nouveaux Boeing 737 MAX 9 et a repris ses vols en 737 MAX le 30 décembre 2020 entre Panama City et San José, au Costa Rica, tout en se séparant de ses Embraer 190 et en stockant ses Boeing 737-700.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Daniel",
+          "Daniel Martínez Garbuno",
+          "Pedro Heilbron"
+        ],
+        "LOCATION": [
+          "South America",
+          "Mexico City",
+          "Mexico",
+          "Costa Rica",
+          "Panama City",
+          "San José",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Simple Flying",
+          "A21",
+          "Roads & Kingdoms",
+          "El Economista",
+          "Aeromexico",
+          "Avianca",
+          "Volaris",
+          "Copa Airlines",
+          "Boeing",
+          "Embraer",
+          "WestJet",
+          "American Airlines",
+          "Export-Import Bank of the United States"
+        ],
+        "DATE": [
+          "2023",
+          "Feb 11, 2021",
+          "end of 2022",
+          "last few weeks",
+          "Dec 30, 2020",
+          "December",
+          "January",
+          "February 2021",
+          "2021",
+          "first quarter"
+        ],
+        "EVENT": [
+          "COVID-19 crisis",
+          "pandemic"
+        ],
+        "OTHER": [
+          "737 MAX",
+          "Boeing 737 MAX 9",
+          "Embraer E190",
+          "Boeing 737-700",
+          "737-800 NG"
+        ]
+      },
+      "score_e5": 0.8247676546016041
+    },
+    {
+      "titre": "Why the Boeing 787 is not the aviation miracle we were ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/travel/news-and-advice/boeing-787-dreamliner-airbus-a350-long-thin-routes-737-757-a321-a320-a8486896.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/10/17/copa737.png?width=1200&height=1200&fit=crop",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-DbYkFDWq37hzaHABkPTQCWBLGfkt2O2K7XUdaIFDQsfbCTzu",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Why the Boeing 787 is not the aviation miracle we were ...",
+        "link": "https://www.independent.co.uk/travel/news-and-advice/boeing-787-dreamliner-airbus-a350-long-thin-routes-737-757-a321-a320-a8486896.html",
+        "source": "The Independent",
+        "source_icon": "https://serpapi.com/searches/6a8ef94606ca7f47acb61547/images/zVeBp69zWKRR8Zr7ym_i4o6Iyy-lf0I2OJAR0tOM7S4.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-DbYkFDWq37hzaHABkPTQCWBLGfkt2O2K7XUdaIFDQsfbCTzu",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/10/17/copa737.png?width=1200&height=1200&fit=crop",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Why the Boeing 787 is not the aviation miracle we were promised | The Independent\n\nFrom Heathrow, Emirates and Qatar Airways will take you to their respective hubs of Dubai and Doha, and onwards to a broadly similar range of destinations. From Addis Ababa to Auckland, the fares they charge are largely similar. Assuming you are not planning to stop over, your choice may come down to the type of aircraft you prefer.\n\nAll of Emirates’ six daily flights from Heathrow are operated by the Airbus A380 “SuperJumbo”. But for Qatar Airways you can take your pick of aircraft (relatively) old and new.\n\nTake the first plane out at 8am for the classic Boeing 777 experience. Around an hour later, it’s a 787 “Dreamliner”. Next out: the Airbus A380. And you can even pick between two versions of the Airbus A350: the -900 at 9.30pm, or the -1000 less than half an hour later.\n\nI opted for the 787 outbound and the A350 inbound. And the comparison between the two did not go well for Boeing, at least in the Qatar Airways configuration. The cabin on the Airbus (-1000, if you care) is about one foot wider than the 787. Divided between nine passengers in a 3-3-3 configuration that might seem imperceptible, but I felt it provided useful elbow room.\n\nPerhaps I spent rather too many hours in a 787 earlier in the year (January, Bogota-Heathrow; March, Heathrow-Perth and back). But I have a nagging feeling that the Dreamliner is not quite the aviation miracle that we were promised.\n\nIt is a decade since the 787 was originally due to enter commercial service, and seven years since it actually took to the skies with paying passengers on board.\n\nThe 787, we were told, was the ultimate ultra-long-haul machine – so it’s odd that the longest flights in the world (Doha-Auckland and Dubai-Auckland) are operated by, respectively, a 777 and an A380. When Singapore Airlines brings back its nonstop link to New York and wrests back the endurance record, it will use A350s.\n\nNone of which, presumably, worries Boeing – which has a dream of an order book for the Dreamliner, fast approaching 1,400, and likely only to increase in line with the price of oil.\n\nAs the cost of aviation fuel rises, airlines are more inclined to buy efficient aircraft like the 787 to replace their gas-guzzlers. But I imagine some of them are looking at something slimmer and trimmer.\n\nWith the exception of some very long hops, such as Qantas from Heathrow to Perth and British Airways from Heathrow to Santiago, the routes the 787 is flying are distinctly mid-range: Cardiff-Doha, at 3,374 miles, is typical.\n\nThe latest versions of the Airbus A321 and Boeing 737 have no problem covering that sort of distance with a full payload. They have precious little room for cargo, but offer very attractive economics as people carriers on “long, thin” routes – of which Cardiff-Doha is an excellent example.\n\nIn the latest edition of Anna.Aero, the newsletter with network news and analysis has a fascinating table.\n\nWhat kind of airport top 10 begins with Panama City, followed by Reykjavik and New York Newark? And sees the UK just miss out on a Top 10 place, being pipped by Anchorage, Alaska? Airports in order of the number of scheduled long-haul narrow-bodied services. The compilers define long-haul as 2,800 miles or 4,500km. And Panama City, hub for Copa, is the world capital of deploying 737s on long-haul routes.\n\n\nPanama is a small country in a relatively thinly populated part of Latin America. But thanks to Copa’s strategy, it has implausibly good links: non-stop to Las Vegas, to Montevideo in Uruguay and five times a day to Sao Paulo in Brazil.\n\nReykjavik’s international airport at Keflavik is next, thanks to the efforts of Icelandair and Wow. They have very different fleets: venerable 757s which are effectively free to own though with heavy maintenance and fuel costs; and brand new Airbus A321s, rapidly becoming the long, thin staple.\n\nThere appears to be precious little passenger resistance, even on the longest narrow-bodied route – Stockholm to Newark, almost 4,000 miles, on a United 757.\n\nThe Boeing 787 was supposed to unlock long, thin routes. But in a price-conscious world, its smaller, older siblings may be stealing the limelight.\n\nAnd with easyJet stretching its route network further southeastwards with a new Gatwick-Aqaba link, the Airbus A320 is challenging UK preconceptions of where short-haul ends; Doha is barely 1,000 miles further.",
+        "metadata": {
+          "fb:app_id": "235586169789578",
+          "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+          "description": "Plane Talk: The Boeing 787 was supposed to unlock long, thin routes. But its smaller, older siblings may be stealing the limelight",
+          "og:updated_time": "2018-08-13T09:04:25.000Z",
+          "article:published_time": "2018-08-13T09:04:25.000Z",
+          "article:modified_time": "2018-08-13T09:04:25.000Z",
+          "date": "2018-08-13T09:04:25.000Z",
+          "og:site_name": "The Independent",
+          "article:section": "Travel",
+          "article:subsection": "News & Advice",
+          "article:category": "News",
+          "article:author_name": "Simon Calder",
+          "article:content_type": "story",
+          "article:word_count": "870",
+          "article:image_count": "2",
+          "article:embed_count": "0",
+          "article:video_count": "1",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "4",
+          "og:title": "Slim, trim planes for long, thin routes",
+          "twitter:title": "Slim, trim planes for long, thin routes",
+          "og:url": "https://www.independent.co.uk/travel/news-and-advice/boeing-787-dreamliner-airbus-a350-long-thin-routes-737-757-a321-a320-a8486896.html",
+          "og:type": "article",
+          "og:description": "Plane Talk: The Boeing 787 was supposed to unlock long, thin routes. But its smaller, older siblings may be stealing the limelight",
+          "twitter:description": "Plane Talk: The Boeing 787 was supposed to unlock long, thin routes. But its smaller, older siblings may be stealing the limelight",
+          "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/10/17/copa737.png?width=1200&height=800&crop=1200:800",
+          "og:image:secure_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/10/17/copa737.png?width=1200&height=800&crop=1200:800",
+          "og:locale": "en_GB"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.independent.co.uk/img/logo.png",
+            "width": 504,
+            "height": 60
+          },
+          "sameAs": [
+            "https://twitter.com/Independent",
+            "https://www.facebook.com/TheIndependentOnline",
+            "https://www.youtube.com/theindependent"
+          ],
+          "@id": "independent.co.uk"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Comparaison entre différents types d'avions long-courriers et moyen-courriers tels que le Boeing 787 Dreamliner, l'Airbus A350 et l'Airbus A380 utilisés par des compagnies comme Emirates, Qatar Airways, Singapore Airlines, Qantas et British Airways sur diverses routes à travers le monde.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Heathrow",
+          "Dubai",
+          "Doha",
+          "Addis Ababa",
+          "Auckland",
+          "Bogota",
+          "Perth",
+          "New York",
+          "Cardiff",
+          "Santiago"
+        ],
+        "ORGANIZATION": [
+          "The Independent",
+          "Emirates",
+          "Qatar Airways",
+          "Airbus",
+          "Boeing",
+          "Singapore Airlines",
+          "Qantas",
+          "British Airways",
+          "Anna.Aero"
+        ],
+        "DATE": [
+          "January",
+          "March",
+          "a decade ago",
+          "seven years ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Airbus A380",
+          "Boeing 777",
+          "787 Dreamliner",
+          "Airbus A350",
+          "Airbus A350-900",
+          "Airbus A350-1000",
+          "Airbus A321",
+          "Boeing 737",
+          "757",
+          "A321",
+          "A320"
+        ]
+      },
+      "score_e5": 0.7820682923079294
+    },
+    {
+      "titre": "coronavirus impact | Simple Flying",
+      "source": "Simple Flying",
+      "lien": "https://simpleflying.com/tag/coronavirus-impact/",
+      "image_url": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2021/02/Copa-Airlines-B737-MAX-2.jpg?q=50&fit=crop&w=360&h=240&dpr=1.5",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRErcdDDURfzni40fyeaGzvQsxxIORrumZ_oJUWmahiClvStS",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "coronavirus impact | Simple Flying",
+        "link": "https://simpleflying.com/tag/coronavirus-impact/",
+        "source": "Simple Flying",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwkdtcmet1BiOQ1hOQgaLwbVpwkddUpfOArf-Mmedsoet0net0nfeMlfOJDuhldAAAADXRSTlMAcETRqSoTVdHqj7ulczephAAAAKVJREFUOI3tU8sOxCAI9FGLqPj_n7sY2xXFZq976ByMg8NAIhgjcNri_WFP84BCRLXykbeSQALu4R0TgI17RYtCv7p2X6skjoVvs60PbWAHc8oCOCJ5nPS9QpHcrjWOJYNr-B-C-gr-VcDfnSRX380Dg5KrgTFjZBuCnNCOMk0hEkWzgEbSidrgWoYMIUAmUh1cfQ5s3tk53suLyv9uPkXEmKa9_AC5PgsUQ6OIwQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRErcdDDURfzni40fyeaGzvQsxxIORrumZ_oJUWmahiClvStS",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2021/02/Copa-Airlines-B737-MAX-2.jpg?q=50&fit=crop&w=360&h=240&dpr=1.5",
+        "image_width": 240,
+        "image_height": 360
+      },
+      "webpage": {
+        "text": "coronavirus impact\n\nlatest\n\n\nCopa Airlines Wants 14 More Boeing 737 MAX Aircraft By 2023\n\nCopa Airlines\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAeromexico Reports A $136 Million Loss For Q3\n\nMexico\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nCould Interjet Be Nearing A New Airbus Order?\n\nAirbus\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAerolíneas Argentinas To Operate 65 International Flights In October\n\nAerolíneas Argentinas\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAvianca To Restart International Flights From Colombia On Monday\n\nAvianca\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAirbus Will Do Everything To Avoid Compulsory Layoffs\n\nPosts\n\nBy  Emily Derrick\n\nWhich International Routes Will Copa Airlines Fly In October?\n\nCopa Airlines\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nBrazil's GOL Looks To Slash Expected Cash Burn\n\nBrazil\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nWhich South American Countries Are Open For Tourists?\n\nsouth america\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAvianca Looks To Resume Operations With 14 Domestic Routes\n\nAvianca\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nDelta May Have To Pay $300 Million For A Loan Given To GOL\n\nDelta Air Lines\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAmerican Airlines Will Furlough Over 17,000 Employees In October\n\nAmerican Airlines\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nCould Ultra-Long-Haul Carriers Blossom Following COVID-19?\n\nQantas\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAeromexico May Reduce Its Fleet By 30% - Here’s Why\n\nAeromexico\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nRemind Me: What’s Going On At LATAM\n\nLATAM\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAeromexico Is Looking For $1B USD In Financing\n\nAeromexico\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAzul Delays 82 Aircraft Deliveries For At Least 4 Years\n\nAirbus\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nColombia Is Set To Open Up Domestic Flights On 1 September\n\nAvianca\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nAmerican Airlines Plans \"Modern\" Meal Service Post-Crisis\n\nAmerican Airlines\n\nPosts\n\nBy  Chris Loh\n\nGOL Expects To Raise Over $550 Million In Liquidity\n\nBrazil\n\nPosts\n\nBy  Daniel Martínez Garbuno\n\nSee More",
+        "metadata": {
+          "title": "coronavirus impact | Simple Flying",
+          "description": "The latest and exclusive coronavirus impact coverage from Simple Flying.",
+          "og:title": "coronavirus impact | Simple Flying",
+          "og:type": "website",
+          "og:image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/social/sf-og-img.png?w=1200&h=675&fit=crop",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "og:locale": "en_US",
+          "og:description": "The latest and exclusive coronavirus impact coverage from Simple Flying.",
+          "og:site_name": "Simple Flying",
+          "twitter:title": "coronavirus impact | Simple Flying",
+          "twitter:description": "The latest and exclusive coronavirus impact coverage from Simple Flying.",
+          "fb:app_id": "373857660022203"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Liste d'articles du site Simple Flying portant sur l'impact de la crise du coronavirus sur l'aviation et les compagnies aériennes en Amérique latine et aux États-Unis, mentionnant des ajustements de flotte, des demandes de financement et des suspensions ou reprises de vols.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Daniel Martínez Garbuno",
+          "Emily Derrick",
+          "Chris Loh"
+        ],
+        "LOCATION": [
+          "South America",
+          "Mexico",
+          "Argentina",
+          "Colombia",
+          "Brazil",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Simple Flying",
+          "Copa Airlines",
+          "Aeromexico",
+          "Interjet",
+          "Airbus",
+          "Aerolíneas Argentinas",
+          "Avianca",
+          "GOL",
+          "Delta Air Lines",
+          "American Airlines",
+          "Qantas",
+          "LATAM",
+          "Azul"
+        ],
+        "DATE": [
+          "October",
+          "Monday",
+          "Q3",
+          "1 September",
+          "at least 4 Years"
+        ],
+        "EVENT": [
+          "coronavirus impact",
+          "COVID-19"
+        ],
+        "OTHER": [
+          "Boeing 737 MAX"
+        ]
+      },
+      "score_e5": 0.7522704871429599
+    },
+    {
+      "titre": "Copa Cites Flexibility In Boeing MAX Order Book | Aviation Week",
+      "source": "Aviation Week",
+      "lien": "https://aviationweek.com/air-transport/airlines-lessors/copa-cites-flexibility-boeing-max-order-book",
+      "image_url": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2022-02/copa_airlines_737_max_source_boeing.jpg?itok=3OUNenki",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlXHAcTbyRRETauv1oPP_42_xwG1OpgTll2BFhct1SKjPIncU4",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Copa Cites Flexibility In Boeing MAX Order Book | Aviation Week",
+        "link": "https://aviationweek.com/air-transport/airlines-lessors/copa-cites-flexibility-boeing-max-order-book",
+        "source": "Aviation Week",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MKI0MpWpUuAAAADnRSTlMAJaYz5m6MXArBGEzVPsirWyoAAACgSURBVDiNhZNREoAgCAVVUtOM-x83TKeRAtrf7WN5Y84Z5LIb9iiIoNozIJEUCwlvmmhr2nAiBOyx4cMhRONCeEcHZGw862WJalrEuIQB-Ic6LyzKAs7NG1UPw-sTjxxtYkK4kBG1iVli1j1IE38SDX8nesNHPrGYKD-iif8J6Imn-YE5MZGtiTttfUQC3pq4E_RHNLAvpBX1RzT4_kaTC5EzCkrnhjoNAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlXHAcTbyRRETauv1oPP_42_xwG1OpgTll2BFhct1SKjPIncU4",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2022-02/copa_airlines_737_max_source_boeing.jpg?itok=3OUNenki",
+        "image_width": 640,
+        "image_height": 960
+      },
+      "webpage": {
+        "text": "Copa Cites Flexibility In Boeing MAX Order Book\n\nPanama’s Copa Holdings has the ability to switch to different types within its Boeing 737 MAX order book and has no plans to take deliveries of the 737-10 in the near future. The company has 15 of the 737-10s on order, according to the Aviation Week Fleet Discovery database. It also has 12 737-8s...\n\nLori Ranson\n\nLori covers North American and Latin airlines for Aviation Week and is also a Senior Analyst for CAPA - Centre for Aviation.\n\n\nSubscription Required\n\nCopa Cites Flexibility In Boeing MAX Order Book is published in Aviation Daily, an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership.\n\nAlready a member of AWIN or subscribe to Aviation Daily through your company? Login with your existing email and password\n\nNot a member?  Learn how to access the market intelligence and data you need to stay abreast of what's happening in the air transport community.",
+        "metadata": {
+          "title": "Copa Cites Flexibility In Boeing MAX Order Book | Aviation Week",
+          "description": "Panama’s Copa Holdings has the ability to switch to different types within its Boeing 737 MAX order book and has no plans to take deliveries of the 737-10 in the near future.",
+          "twitter:title": "Copa Cites Flexibility In Boeing MAX Order Book | Aviation Week",
+          "twitter:description": "Panama’s Copa Holdings has the ability to switch to different types within its Boeing 737 MAX order book and has no plans to take deliveries of the 737-10 in the near future."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Copa Holdings (Panama) dispose d'une flexibilité dans son carnet de commandes de Boeing 737 MAX, incluant des options pour basculer entre différents types d'appareils et des commandes pour 15 exemplaires du 737-10 et 12 exemplaires du 737-8 selon la base de données Aviation Week Fleet Discovery.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Lori Ranson"
+        ],
+        "LOCATION": [
+          "Panama",
+          "North America"
+        ],
+        "ORGANIZATION": [
+          "Aviation Week",
+          "Copa Holdings",
+          "Boeing",
+          "CAPA - Centre for Aviation",
+          "Aviation Week Intelligence Network",
+          "AWIN"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Boeing 737 MAX",
+          "737-10",
+          "737-8"
+        ]
+      },
+      "score_e5": 0.8309446562357563
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Boeing",
+      "Copa Airlines"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Boeing 737 MAX"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Pedro Heilbron",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jim McNerney",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Carlos Varela",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Daniel Martínez Garbuno",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Daniel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Emily Derrick",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Loh",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lori Ranson",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Panama",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North America",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South America",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Panama City",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Orleans",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Boston",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fort Lauderdale",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Las Vegas",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tampa",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Latin America",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mexico City",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mexico",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Costa Rica",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San José",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Heathrow",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dubai",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Doha",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Addis Ababa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Auckland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bogota",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Perth",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cardiff",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Santiago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Argentina",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Colombia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boeing",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Copa Airlines",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA Today",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Embraer",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Seattle Times",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Avitas",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Simple Flying",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "A21",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Roads & Kingdoms",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "El Economista",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Aeromexico",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Avianca",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Volaris",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WestJet",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "American Airlines",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Export-Import Bank of the United States",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Emirates",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Qatar Airways",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Airbus",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Singapore Airlines",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Qantas",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Airways",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Anna.Aero",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Interjet",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Aerolíneas Argentinas",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "GOL",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Delta Air Lines",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LATAM",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Azul",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Aviation Week",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Copa Holdings",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CAPA - Centre for Aviation",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Aviation Week Intelligence Network",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AWIN",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "04/10/2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2023",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Feb 11, 2021",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "end of 2022",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last few weeks",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Dec 30, 2020",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 2021",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "first quarter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "a decade ago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "seven years ago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Q3",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1 September",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "at least 4 Years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Summit of the Americas",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "COVID-19 crisis",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "pandemic",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "coronavirus impact",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "COVID-19",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737-MAX",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "E190",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737 MAX 8",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737 MAX 9",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737 MAX",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Boeing 737 MAX 9",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Embraer E190",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Boeing 737-700",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737-800 NG",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Airbus A380",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Boeing 777",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "787 Dreamliner",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Airbus A350",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Airbus A350-900",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Airbus A350-1000",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Airbus A321",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "757",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "A321",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "A320",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737-10",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "737-8",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T19:00:15.667675"
+  }
+}

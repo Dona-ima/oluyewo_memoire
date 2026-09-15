@@ -1,0 +1,759 @@
+{
+  "id_rumeur": 1623761,
+  "id_image": 1053799,
+  "caption": "Many Chinese like the fact Canada is sparsely populated",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748479/oluyewo_benchmark/tsgdwk4v7rvg4tkmjcs0.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Wikileaks' Afghanistan war logs: how our datajournalism ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/news/datablog/2010/jul/27/wikileaks-afghanistan-data-datajournalism",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/maps_and_graphs/2010/7/27/1280228115857/Afghanistan-data-graphic-006.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStYzotUVugQ0T1sOtS9Nb12_LjynTOLRphl54SEBKB8sho8Gxe",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Wikileaks' Afghanistan war logs: how our datajournalism ...",
+        "link": "https://www.theguardian.com/news/datablog/2010/jul/27/wikileaks-afghanistan-data-datajournalism",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efb69a8dce682b170c605/images/dX5NAVg90tLIYUySFbdY32xJfns-ywZr4FR-lPleweA.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStYzotUVugQ0T1sOtS9Nb12_LjynTOLRphl54SEBKB8sho8Gxe",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/maps_and_graphs/2010/7/27/1280228115857/Afghanistan-data-graphic-006.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Wikileaks' Afghanistan war logs: how our datajournalism operation worked | Afghanistan: the war logs\n\nWell, we always wanted stories from data: now we've got it. In spades. With bells on. The Wikileaks' Afghanistan war logs are a fantastic victory for investigative data basedjournalism, not only here at the Guardian but at the New York Times and Der Spiegel too.\n\nIt's also datajournalism in action. What we wanted to do was enable our team of specialist reporters to get great human stories from the information – and we wanted to analyse it to get the big picture, to show how the war really is going.\n\nIt's been a busy month for those of us who work with data at the Guardian; this is how we got here.\n\nIt was central to what we would do quite early on that we would not publish the full database. Wikileaks was already going to do that and we wanted to make sure that we didn't reveal the names of informants or unnecessarily endanger Nato troops. At the same time, we needed to make the data easier to use for our team of investigative reporters: David Leigh, Nick Davies, Declan Walsh, Simon Tisdall, Richard Norton-Taylor. We also wanted to make it simpler to access key information for you, out there in the real world – as clear and open as we could make it.\n\nThe data came to us as a huge excel file – over 92,201 rows of data, some with nothing in at all or were the result of poor formatting. Anything over 60,000 rows or so brings excel down in dramatic fashion – saving takes a painfully long period of time (tip number one – turn automatic saving off in preferences…). It doesn't help reporters trying to trawl through the data for stories and it's too big to run meaningful reports on.\n\nFortunately, after COINS, huge datasets hold no fear for us. Harold Frayman, who with John Houston regularly wrestles data from PDFs and other formats for the Datablog – built a simple internal database. Reporters could now search stories for key words or events. Suddenly the dataset became accessible and generating great stories became easier.\n\nThe data was well structured (you can read more about how that structure worked here) ie, events were categorized, sometimes more reliably than others.\n\nWe also started filtering the data to help us tell one of the key stories of the war: the rise in IED (improvised explosive device) attacks – home-made roadside bombs which are unpredictable and impossible to fight. This dataset was still massive – but easier to manage. There were around 7,500 IED explosions or ambushes (an ambush is where the attack is combined with, for example, small arms fire or rocket grenades) between 2004 and 2009. There were another 8,000 IEDs which were found and cleared. We wanted to see how they changed over time – and how they compared.\n\nThe result is the data below – which shows us:\n\n> • IED attacks over time\n> • Where they happened by region\n> • Casualties data recorded in the database\n\nThe casualties data brought its own challenges – it was often inaccurately compiled and incomplete – we've added Nato-recorded casualties too, to test the veracity of the data and you can see how they vary.\n\nBut this overview data doesn't convey the enormity of the thousands of explosions. One particular period – the three days in the run-up to last year's presidential election saw over 100 IEDs explode. Imagine living with that every time you set off in a truck down the road?\n\nThis is where developer Daithí Ó Crualaoich came in. He helped us map the lats and longs of every event – not only that but produced an editable map (vectored, the designers call that). And then graphic designer Paul Scruton could make that beautiful for the newspaper (you can download it from Scrib'd below).\n\nConveying that information online is a different skill – Alastair Dant (with Igor Clark's help) created two interactives for the site:\n\n> • An interactive guide to all the IEDs, working from a spreadsheet with the geodata on (with design work from Paddy Allen and Mark McCormick)\n> • An interactive 'front page' to our selection of 300 key events.\n\nThose key events were selected by the investigations team as being particularly interesting – Alastair's guide helps you navigate around them, each one clicking through to a page created by Harold (with key developing work by Daithi and Lisa van Gelder) where users can read the full report.\n\nWe wanted to make as much of the raw data available as we could and we've published some large datasets:\n\n> • The full set of significant incidents chosen by Guardian specialists\n> • The IED attacks data\n\nIt's inevitably the case that the work the helps shape a story is less interesting than the story itself. But in the future, as more and more of these datasets are released, these are skills that journalists will have to grapple with. As Roy Greenslade wrote yesterday:\n\n> The emerging form of disclosure through the internet, pioneered so successfully in the past couple of years by Wikileaks, deserves our praise and needs to be defended against the reactionary forces that seek to avoid exposure.\n\nHave we published enough? Inevitably not. Have we started to make sense of an incredibly complex dataset? We hope so.\n\nNow it's your turn. Can you help us make more sense of the raw info?\n\n\nDownload the data\n\n\nDATA: download the summary data\n\n\nCan you do something with this data?\n\nFlickr Please post your visualisations and mash-ups on our Flickr group or email us at datastore@guardian.co.uk\n\n\nWorld government data\n\nSearch the world's government datasets",
+        "metadata": {
+          "title": "Wikileaks' Afghanistan war logs: how our datajournalism operation worked | Afghanistan: the war logs | The Guardian",
+          "description": "<p>The Wikileaks disclosure of thousands of Afghanistan war records was datajournalism in action. This is how we did it</p>",
+          "og:url": "http://www.theguardian.com/news/datablog/2010/jul/27/wikileaks-afghanistan-data-datajournalism",
+          "article:author": "https://www.theguardian.com/profile/simonrogers",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/maps_and_graphs/2010/7/27/1280228115857/Afghanistan-data-graphic-006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTAucG5n&enable=upscale&s=5865deeb6c965993d910f445ab7b4c60",
+          "al:ios:url": "gnmguardian://news/datablog/2010/jul/27/wikileaks-afghanistan-data-datajournalism?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Wikileaks' Afghanistan war logs: how our datajournalism operation worked",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-21T20:57:14.000Z",
+          "og:image:height": "720",
+          "og:description": "The Wikileaks disclosure of thousands of Afghanistan war records was datajournalism in action. This is how we did it",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2010-07-27T11:12:59.000Z",
+          "article:tag": "Afghanistan: the war logs,Afghanistan,Technology,Investigative journalism,Media,New York Times,The Guardian,National newspapers,Freedom of information,Free our data,WikiLeaks,The war logs",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le journal The Guardian a analysé la base de données de Wikileaks concernant les journaux de guerre en Afghanistan (Afghanistan war logs), contenant plus de 92 201 lignes de données. Ce travail de journalisme de données a été mené en collaboration avec le New York Times et Der Spiegel. L'objectif était d'analyser les données pour obtenir une vue d'ensemble du déroulement de la guerre, d'étudier la hausse des attaques d'engins explosifs improvisés (IED) entre 2004 et 2009, et d'examiner les données sur les victimes tout en protégeant les sources et les troupes de l'OTAN.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Leigh",
+          "Nick Davies",
+          "Declan Walsh",
+          "Simon Tisdall",
+          "Richard Norton-Taylor",
+          "Harold Frayman",
+          "John Houston"
+        ],
+        "LOCATION": [
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "Wikileaks",
+          "The Guardian",
+          "New York Times",
+          "Der Spiegel",
+          "Nato",
+          "COINS"
+        ],
+        "DATE": [
+          "27/07/2010",
+          "2004",
+          "2009"
+        ],
+        "EVENT": [
+          "Wikileaks' Afghanistan war logs"
+        ],
+        "OTHER": [
+          "IED"
+        ]
+      },
+      "score_e5": 0.657563729715883
+    },
+    {
+      "titre": "Technology blog + Freedom of information | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/blog+politics/freedomofinformation",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/maps_and_graphs/2010/7/27/1280228115857/Afghanistan-data-graphic-006.jpg?width=465&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHXxir3rKSLsi-wiBRjaf99TyMkAkSOUVd4_UN_5ANfPSvhh4",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Technology blog + Freedom of information | The Guardian",
+        "link": "https://www.theguardian.com/technology/blog+politics/freedomofinformation",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efb69a8dce682b170c605/images/6UFxW_aetK1x4zqWErNnWyeSQXi-x0PEq6Zcs3Wa2f4.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHXxir3rKSLsi-wiBRjaf99TyMkAkSOUVd4_UN_5ANfPSvhh4",
+        "thumbnail_width": 201,
+        "thumbnail_height": 251,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/maps_and_graphs/2010/7/27/1280228115857/Afghanistan-data-graphic-006.jpg?width=465&dpr=1&s=none&crop=5:4",
+        "image_width": 276,
+        "image_height": 345
+      },
+      "webpage": {
+        "text": "Technology blog + Freedom of information\n\nFebruary 2011\n\n\n * Datablog\n   \n   Protection of freedoms bill: what does it mean for free data?\n   \n   The new freedom bill should make getting hold of government data easier, says SA Mathieson\n\n\nOctober 2010\n\n\n * Datablog\n   \n   The NHS and health data: how open is the government being?\n   \n   SA Mathieson NHS data is routinely published - but if you want the really interesting stuff you have to dig a little deeper\n\n\nJuly 2010\n\n\n * Datablog\n   \n   Wikileaks' Afghanistan war logs: how our datajournalism operation worked\n   \n   The Wikileaks disclosure of thousands of Afghanistan war records was datajournalism in action. This is how we did it\n\n\nJune 2010\n\n\n * Technology blog\n   \n   FOI reveals how costs of Crown Prosecution Service website ballooned past budget\n   \n   After details of the UK Supreme Court's expensive website emerged, another FOI request has shown how the CPS site has spent more than expected for the past five years\n\n\nApril 2010\n\n\n * Tech Weekly\n   \n   Tech Weekly: Digital candidates, Heather Brooke and Alan Wake\n   \n   In a packed programme, we hear from freedom of information campaigner Heather Brooke, one of the developers of the new Alan Wake game for Xbox, and the election candidates that are standing for tech policies\n\n\nOctober 2009\n\n\n * Technology blog\n   \n   MySociety's Steinberg confirms advisory role with Tories\n   \n   Tom Steinberg, one of the founders of the mySociety group, has confirmed the Guardian's report that he is to advise the Tories on IT policy",
+        "metadata": {
+          "title": "Technology blog + Freedom of information | The Guardian",
+          "description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Articles du blog technologie du Guardian couvrant la liberté de l'information, la législation sur les données gouvernementales, les données du NHS, les fuites des journaux de guerre en Afghanistan par Wikileaks, les coûts du site web du Crown Prosecution Service, ainsi que des interventions de Heather Brooke, d'un développeur du jeu Alan Wake, et de Tom Steinberg de mySociety.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "SA Mathieson",
+          "Heather Brooke",
+          "Alan Wake",
+          "Tom Steinberg"
+        ],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Datablog",
+          "NHS",
+          "Wikileaks",
+          "Crown Prosecution Service",
+          "Xbox",
+          "mySociety"
+        ],
+        "DATE": [
+          "February 2011",
+          "October 2010",
+          "July 2010",
+          "June 2010",
+          "April 2010",
+          "October 2009"
+        ],
+        "EVENT": [
+          "Wikileaks' Afghanistan war logs"
+        ],
+        "OTHER": [
+          "Protection of freedoms bill"
+        ]
+      },
+      "score_e5": 0.6968288248601258
+    },
+    {
+      "titre": "Maps of the Day: WikiLeaks Highlights Violence in ...",
+      "source": "The Atlantic",
+      "lien": "https://www.theatlantic.com/international/archive/2010/07/maps-of-the-day-wikileaks-highlights-violence-in-pashtunistan/60508/",
+      "image_url": "https://cdn.theatlantic.com/assets/media/img/3rdparty/2010/7/4834475759_9d4311f02b.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST-h7Hlz6eoVs1B_aBa_WM3NyYJdcaql3mIq3ZcxvEAOSLVDva",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Maps of the Day: WikiLeaks Highlights Violence in ...",
+        "link": "https://www.theatlantic.com/international/archive/2010/07/maps-of-the-day-wikileaks-highlights-violence-in-pashtunistan/60508/",
+        "source": "The Atlantic",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEX_____9fXweHv72droEhruYWXsRUn________nAgb4wcL95eXvbHD-7e7qKjDzlJf6zMz1p6nxgIP3tred9hCfAAAACHRSTlPd________K8lsITIAAADXSURBVDiNhdNbkoQwCAVQIyQtMS91_3udS_VMTWsL8qWVIxKvmV7T4tT0mtx1iId1iMt92H0QmgQXZJHsgi7SXRBFogeCMF-GOIOhgBzQk7BsDigZYLZBTaGxpGACSktBi9UEvS8bwGGCOHQfslugJjQHSBYgXWnMvBpg0947WgwDRA3yAOgG0BEWAoj3gLhoIY5Wb0GOFRU0DroF8zulfs7rA7T37sZ5iH-w_oa04kO0O3D8PYYhmL5AzdyyviMMFvyYdAW5zHPR2QgXqHgFZj0f3qfj_wM08CATlILI1gAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST-h7Hlz6eoVs1B_aBa_WM3NyYJdcaql3mIq3ZcxvEAOSLVDva",
+        "thumbnail_width": 169,
+        "thumbnail_height": 298,
+        "image": "https://cdn.theatlantic.com/assets/media/img/3rdparty/2010/7/4834475759_9d4311f02b.jpg",
+        "image_width": 284,
+        "image_height": 500
+      },
+      "webpage": {
+        "text": "Maps of the Day: WikiLeaks Highlights Violence in Pashtunistan\n\nThe Afghan War Diary leaks didn't so much reveal as confirm. Specifically, the documents gave merit to suspicions that the ISI is working with the Taliban, and, thanks to fantastic maps from the Guardian, illustrated that the war is mostly being waged in so-called Pashtunistan.\n\nAnyone who has followed the war in the last eight years knows that the fight is in the tribal areas along the Pakistani border. But the WikiLeaks documents pin-pointed exactly where attacks have occurred over the past few years.\n\nThe first map below was produced by the Guardian and shows IED attacks in the last six years. The second map is from the Heritage Foundation and shows the area populated by ethnic Pashtuns in Afghanistan and Pakistan.\n\nPashtuns account for 35 to 40 percent of the Afghan population but a majority of the violence, as the maps below suggest. However, it may be foolish to consider them a single group: Pashtuns are among the most tribal and fragmented people on Earth, underscoring the challenge of selling the concept of national unity.\n\n\nAbout the Author\n\n\nPatrick Ottenhoff has been writing The Electoral Map blog since 2007. A former staff writer for National Journal Group and project manager at New Media Strategies, he now attends Georgetown's McDonough School of Business.",
+        "metadata": {
+          "title": "The Atlantic",
+          "og:site_name": "The Atlantic",
+          "og:locale": "en_US",
+          "fb:admins": "577048155,17301937",
+          "fb:app_id": "100770816677686",
+          "fb:pages": "29259828486,1468531833474495,1061579677251147,457711054591520,370457103090695,1631141167169115,148681772342453,1510507419185410,128344747344340,128377530562508,236061986423933",
+          "article:platform": "web",
+          "article:category": "international",
+          "description": "The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.",
+          "krux:title": "Maps of the Day: WikiLeaks Highlights Violence in Pashtunistan - The Atlantic",
+          "krux:description": "The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.",
+          "author": "Patrick Ottenhoff",
+          "article:publisher": "https://www.facebook.com/TheAtlantic/",
+          "article:opinion": "false",
+          "article:content_tier": "metered",
+          "article:tag": "international",
+          "article:section": "Global",
+          "article:published_time": "2010-07-27T20:32:40Z",
+          "article:modified_time": "2010-07-27T20:32:13Z",
+          "og:title": "Maps of the Day: WikiLeaks Highlights Violence in Pashtunistan",
+          "og:description": "Illustrating the tribal, marginal nature of the violence in Afghanistan ",
+          "og:url": "https://www.theatlantic.com/international/archive/2010/07/maps-of-the-day-wikileaks-highlights-violence-in-pashtunistan/60508/",
+          "og:type": "article",
+          "twitter:card": "summary_large_image",
+          "apple-mobile-web-app-title": "The Atlantic",
+          "sailthru.title": "Maps of the Day: WikiLeaks Highlights Violence in Pashtunistan"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "The Atlantic",
+          "url": "https://www.theatlantic.com",
+          "inLanguage": "en-US",
+          "issn": "1072-7825",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.theatlantic.com/search/?q={q}",
+            "query-input": "required name=q"
+          }
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Les fuites du journal de guerre afghan de WikiLeaks confirment les soupçons selon lesquels l'ISI collabore avec les talibans et montrent, grâce à des cartes du Guardian, que la guerre se déroule principalement à Pashtunistan. Les documents localisent précisément les attaques d'IED survenues au cours des six dernières années dans les zones tribales de la frontière pakistanaise. L'article est rédigé par Patrick Ottenhoff.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Patrick Ottenhoff"
+        ],
+        "LOCATION": [
+          "Pashtunistan",
+          "Afghanistan",
+          "Pakistan"
+        ],
+        "ORGANIZATION": [
+          "WikiLeaks",
+          "ISI",
+          "Taliban",
+          "The Guardian",
+          "Heritage Foundation",
+          "National Journal Group",
+          "New Media Strategies",
+          "Georgetown's McDonough School of Business"
+        ],
+        "DATE": [
+          "2010",
+          "2007"
+        ],
+        "EVENT": [
+          "Afghan War Diary leaks"
+        ],
+        "OTHER": [
+          "IED"
+        ]
+      },
+      "score_e5": 0.6543122919882258
+    },
+    {
+      "titre": "Full article: The Illusion of Afghanistan's Electoral ...",
+      "source": "Taylor & Francis",
+      "lien": "https://www.tandfonline.com/doi/full/10.1080/09592318.2018.1404771",
+      "image_url": "https://www.tandfonline.com/cms/asset/e0980cc0-4e31-4aaa-a8ae-6ec04dc9bcac/fswi_a_1404771_ilg0001_oc.gif",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgInvDhjfuKDcepS1mRzpHDIYDSt4BeROmu9olvnRem6E3Z5Hl",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Full article: The Illusion of Afghanistan's Electoral ...",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/09592318.2018.1404771",
+        "source": "Taylor & Francis",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX___9wptBvpM9rnss8da45ca02bqoyaqdnm8hhl8Vek8JCebFYj8DB1ejU4e5JfbR_p86MsNNRg7eTt9edvtuzzOLi6_RyoMqCq9Cqxd_O3uzG1-j2-fuBpsx2ncbb5fDrHkbRAAAAbUlEQVQYlV3LzQLCIAwD4Oj8Aymlneimbrz_WwpDPfS7JDkEOwN7A4OBy5cMPeFG19zIdfBx8lVOvkO4S3jQZgoV_Dym9IyNJMlSLwV_MwWo6uu337QomFmp77gqM67NmkuhZas4GDgaOBk4Gx8zeghuREmEHAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgInvDhjfuKDcepS1mRzpHDIYDSt4BeROmu9olvnRem6E3Z5Hl",
+        "thumbnail_width": 197,
+        "thumbnail_height": 256,
+        "image": "https://www.tandfonline.com/cms/asset/e0980cc0-4e31-4aaa-a8ae-6ec04dc9bcac/fswi_a_1404771_ilg0001_oc.gif",
+        "image_width": 1034,
+        "image_height": 1345
+      },
+      "webpage": null,
+      "texte_contexte": "",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "Mapping Incidents in the Leaked War in Afghanistan Reports ...",
+      "source": "The Society Pages",
+      "lien": "https://thesocietypages.org/socimages/2010/07/28/mapping-incidents-in-the-leaked-war-in-afghanistan-reports/",
+      "image_url": "https://thesocietypages.org/socimages/files/2010/07/Afghanistan-data-graphic-007-767x1024.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJD3Ty_9H3KXoDIH2blv1hbOYCr0iWAozNeVM89xnSUqIbFH_j",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Mapping Incidents in the Leaked War in Afghanistan Reports ...",
+        "link": "https://thesocietypages.org/socimages/2010/07/28/mapping-incidents-in-the-leaked-war-in-afghanistan-reports/",
+        "source": "The Society Pages",
+        "source_icon": "https://serpapi.com/searches/6a8efb69a8dce682b170c605/images/Pd6_skvGb8kpxucnV1RKE9nC9guoO8Qo0CxisHprywk.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJD3Ty_9H3KXoDIH2blv1hbOYCr0iWAozNeVM89xnSUqIbFH_j",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://thesocietypages.org/socimages/files/2010/07/Afghanistan-data-graphic-007-767x1024.jpg",
+        "image_width": 1024,
+        "image_height": 767
+      },
+      "webpage": {
+        "text": "Mapping Incidents in the Leaked War in Afghanistan Reports\n\nHenry H. sent in a link to an interactive map at the Guardian based on the recently leaked collection of over 92,000 records about the war in Afghanistan. The map shows the location of incidents in the reports broken down by category: accident, Afghan friendly fire, Coalition friendly fire, civilian casualties, demonstration/unrest, and other:\n\n\nYou can hide any of the categories you want to get a better picture of only some of them, and if you roll over a dot it will give you a brief summary with a link to the full report about it. Here’s the map with everything hidden except civilian casualties and the summary of one incident:\n\n\nYou can also see the locations of all IED attacks that occurred on any day between January 1st, 2004 and January 1st, 2010. The size indicates the number of people killed and the color tells you the category of most of the casualties (civilians, Afghan forces, etc.). Here’s the map from January 6th, 2004 (the light green indicates that an IED was planted but that it was found and defused without any casualties):\n\n\nCompare to the map for August 24, 2009, which shows that the incidence of attempted IED attacks has gone up significantly, though most of them that day were discovered before they harmed anyone:\n\n\nI can think of a possible explanation for the increase in the use of IEDs over time. One could be that their use diffused from other war zones, particularly Iraq, and were increasingly adopted as a technique in Afghanistan; perhaps Afghans opposed to the Coalition weren’t familiar with IEDs in the early years of the invasion and they were therefore relatively infrequent. The other, which doesn’t exclude the first, is that it indicates an increase in resistance to the Coalition forces and their Afghan allies over time.\n\nThe increase in the number of IEDs that are discovered and defused before they go off would seem to show how groups adapt to forms of warfare; presumably the Coalition forces have become more aware of the danger of IEDs and thus look out for them more and are more skilled at clearing them.\n\nI might be totally wrong on both counts, so if you have other thoughts, please share them.\n\nMore data on IED attacks over time, including civilians wounded:\n\n\nIt’s a fascinating resource for information on the war. I think it’s really interesting as an illustration of the rationalization and bureaucratization of warfare by the U.S. military: that is, events are carefully categorized and described, and military leaders have an enormous amount of data them. While individual soldiers may very well experience war as chaotic or disorganized, those overseeing it have a wealth of information that methodically distills that chaos and disorganization into statistics associated with particular events whose location is clearly identified.",
+        "metadata": {
+          "title": "Mapping Incidents in the Leaked War in Afghanistan Reports - Sociological Images",
+          "author": "The Society Pages",
+          "description": "The Society Pages (TSP) is an open-access social science project headquartered in the Department of Sociology at the University of Minnesota"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une carte interactive publiée par The Guardian, basée sur la fuite de plus de 92 000 dossiers concernant la guerre en Afghanistan, cartographie les incidents par catégories : accident, tirs amis afghans, tirs amis de la coalition, pertes civiles, manifestations ou troubles. La carte permet également d'observer l'évolution et l'emplacement des attaques d'IED entre le 1er janvier 2004 et le 1er janvier 2010, illustrant l'augmentation des tentatives d'attaques d'IED et de leur découverte au fil du temps.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Henry H."
+        ],
+        "LOCATION": [
+          "Afghanistan",
+          "Iraq"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "U.S. military"
+        ],
+        "DATE": [
+          "January 1st, 2004",
+          "January 1st, 2010",
+          "January 6th, 2004",
+          "August 24, 2009"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "IED"
+        ]
+      },
+      "score_e5": 0.6677064781162522
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Canada"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Chinese"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "David Leigh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nick Davies",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Declan Walsh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Simon Tisdall",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Richard Norton-Taylor",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Harold Frayman",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Houston",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikileaks",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New York Times",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Der Spiegel",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nato",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "COINS",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "27/07/2010",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2004",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2009",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Wikileaks' Afghanistan war logs",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IED",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "SA Mathieson",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Heather Brooke",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alan Wake",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tom Steinberg",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Datablog",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NHS",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Crown Prosecution Service",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Xbox",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "mySociety",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 2011",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2010",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2010",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2010",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 2010",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2009",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Protection of freedoms bill",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Patrick Ottenhoff",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pashtunistan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pakistan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISI",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taliban",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Heritage Foundation",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Journal Group",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New Media Strategies",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Georgetown's McDonough School of Business",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Afghan War Diary leaks",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Henry H.",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. military",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 1st, 2004",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 1st, 2010",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 6th, 2004",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 24, 2009",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T23:40:09.411633"
+  }
+}

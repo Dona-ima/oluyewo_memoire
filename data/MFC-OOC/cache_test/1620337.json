@@ -1,0 +1,443 @@
+{
+  "id_rumeur": "1620337",
+  "id_image": "1620337",
+  "caption": "Ecuador was cosignatory of the US s first extradition treaty",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122895/1620337.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Ecuador, one of the countries with the cheapest diesel in the region – The Amazon Post",
+      "source": "The Amazon Post",
+      "lien": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/",
+      "image_url": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxr-zwKNoxzz7ui8tRCYVI1srSLFl4KBXfVjp-XlJCj7n9WX9p",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Ecuador, one of the countries with the cheapest diesel in the region – The Amazon Post",
+        "source": "The Amazon Post",
+        "link": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/",
+        "imageUrl": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxr-zwKNoxzz7ui8tRCYVI1srSLFl4KBXfVjp-XlJCj7n9WX9p"
+      },
+      "webpage": {
+        "text": "Ecuador, one of the countries with the cheapest diesel in the region – The Amazon Post\n\nIn Colombia and Peru there is a fuel price band with twice the Ecuadorian value. Locally, carriers say they are working at a loss.\n\nWith the recent rise of diesel to $ 1,6088 , the Basic Salary (SB) of $ 400 is enough to buy 248 gallons. Ecuador is the country in Latin America in which more gallons can be purchased with the minimum wage of an average worker.\n\nSecond on the list is Bolivia, where its SB of $ 309 equates to 152 units of fuel. At the other extreme is the Mexican economy, which, despite maintaining a direct subsidy, has a price of $ 4.10, which only allows to acquire 52 gallons with the current SB.\n\nTo read the full story on La Hora, click here.",
+        "metadata": {
+          "title": "Ecuador, one of the countries with the cheapest diesel in the region &#8211; The Amazon Post",
+          "description": "Ecuador, one of the countries with the cheapest diesel in the region",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Ecuador, one of the countries with the cheapest diesel in the region",
+          "og:description": "In Colombia and Peru there is a fuel price band with twice the Ecuadorian value. Locally, carriers say they are working at a loss. With the recent rise of diesel to $ 1,6088 , the Basic Salary (SB) of $ 400 is enough to buy 248 gallons. Ecuador is the country in Latin America in […]",
+          "og:url": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/",
+          "og:site_name": "The Amazon Post",
+          "article:published_time": "2021-08-17T16:19:00+00:00",
+          "og:image": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+          "og:image:width": "2560",
+          "og:image:height": "1762",
+          "og:image:type": "image/jpeg",
+          "author": "theamazonpost",
+          "twitter:title": "Ecuador, one of the countries with the cheapest diesel in the region",
+          "twitter:description": "In Colombia and Peru there is a fuel price band with twice the Ecuadorian value. Locally, carriers say they are working at a loss. With the recent rise of diesel to $ 1,6088 , the Basic Salary (SB) of $ 400 is enough to buy 248 gallons. Ecuador is the country in Latin America in […]"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#article",
+              "isPartOf": {
+                "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/"
+              },
+              "author": {
+                "name": "theamazonpost",
+                "@id": "https://theamazonpost.com/#/schema/person/25b6e2b4c8999bc8fd16b0c7816dd3e5"
+              },
+              "headline": "Ecuador, one of the countries with the cheapest diesel in the region",
+              "datePublished": "2021-08-17T16:19:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/"
+              },
+              "wordCount": 128,
+              "image": {
+                "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#primaryimage"
+              },
+              "thumbnailUrl": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+              "articleSection": [
+                "Ecuador Political News"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/",
+              "url": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/",
+              "name": "Ecuador, one of the countries with the cheapest diesel in the region &#8211; The Amazon Post",
+              "isPartOf": {
+                "@id": "https://theamazonpost.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#primaryimage"
+              },
+              "image": {
+                "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#primaryimage"
+              },
+              "thumbnailUrl": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+              "datePublished": "2021-08-17T16:19:00+00:00",
+              "author": {
+                "@id": "https://theamazonpost.com/#/schema/person/25b6e2b4c8999bc8fd16b0c7816dd3e5"
+              },
+              "description": "Ecuador, one of the countries with the cheapest diesel in the region",
+              "breadcrumb": {
+                "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#primaryimage",
+              "url": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+              "contentUrl": "https://theamazonpost.com/wp-content/uploads/2021/03/GettyImages-92241289-scaled.jpg",
+              "width": 2560,
+              "height": 1762,
+              "caption": "The Ecuadorian Flag"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://theamazonpost.com/ecuador-one-of-the-countries-with-the-cheapest-diesel-in-the-region/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://theamazonpost.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ecuador, one of the countries with the cheapest diesel in the region"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://theamazonpost.com/#website",
+              "url": "https://theamazonpost.com/",
+              "name": "The Amazon Post",
+              "description": "Chevron&#039;s Views and Opinions on the Ecuador Lawsuit.",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://theamazonpost.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://theamazonpost.com/#/schema/person/25b6e2b4c8999bc8fd16b0c7816dd3e5",
+              "name": "theamazonpost",
+              "sameAs": [
+                "https://theamazonpost.com"
+              ],
+              "url": "https://theamazonpost.com/author/theamazonpost/"
+            }
+          ]
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Ecuador is noted as one of the countries with the cheapest diesel in the region. In Colombia and Peru, fuel prices are twice the Ecuadorian value. With a recent rise of diesel to $1,6088, the Basic Salary of $400 allows the purchase of 248 gallons, making Ecuador the Latin American country where the most gallons can be bought with a minimum wage. Bolivia is second with an SB of $309 equating to 152 units of fuel. The Mexican economy has a price of $4.10, allowing only 52 gallons to be acquired with its current SB, despite a direct subsidy. The story originates from La Hora and was published by The Amazon Post.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Ecuador",
+          "Colombia",
+          "Peru",
+          "Bolivia",
+          "Mexico",
+          "Latin America"
+        ],
+        "ORGANIZATION": [
+          "The Amazon Post",
+          "La Hora"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "diesel",
+          "Basic Salary"
+        ]
+      },
+      "score_e5": 0.7500416103337705
+    },
+    {
+      "titre": "Ecuador declares a state of emergency after nationwide protests",
+      "source": "CNBC",
+      "lien": "https://www.cnbc.com/video/2019/10/04/ecuador-declares-a-state-of-emergency-after-nationwide-protests.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106165423-6ed5-bl-100419-ecuador.jpg?v=1570212972&w=750&h=422&vtcrop=y",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnVKngB5WbyOEbnDJypecp1IeunnOapCCvVRDlr9UIoIbJdf4q",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Ecuador declares a state of emergency after nationwide protests",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/video/2019/10/04/ecuador-declares-a-state-of-emergency-after-nationwide-protests.html",
+        "imageUrl": "https://image.cnbcfm.com/api/v1/image/106165423-6ed5-bl-100419-ecuador.jpg?v=1570212972&w=750&h=422&vtcrop=y",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnVKngB5WbyOEbnDJypecp1IeunnOapCCvVRDlr9UIoIbJdf4q"
+      },
+      "webpage": {
+        "text": "Ecuador declares a state of emergency after nationwide protests\n\nShare\n\nNews Videos\n\n\nEcuador declares a state of emergency after nationwide protests over economic reforms\n\nProtests spilled out onto the streets in Ecuador today after the government instituted an economic plan that included cuts to gas subsidies that had been in place for 40 years.\n\n01:30\n\nFri, Oct 4 20192:22 PM EDT",
+        "metadata": {
+          "og:type": "video",
+          "og:title": "Ecuador declares a state of emergency after nationwide protests over economic reforms",
+          "og:description": "Protests spilled out onto the streets in Ecuador today after the government instituted an economic plan that included cuts to gas subsidies that had been in place for 40 years.",
+          "og:url": "https://www.cnbc.com/video/2019/10/04/ecuador-declares-a-state-of-emergency-after-nationwide-protests.html",
+          "og:site_name": "CNBC",
+          "og:image": "https://image.cnbcfm.com/api/v1/image/106165423-6ed5-bl-100419-ecuador.jpg?v=1570212972&w=1920&h=1080",
+          "twitter:title": "Ecuador declares a state of emergency after nationwide protests over economic reforms",
+          "twitter:description": "Protests spilled out onto the streets in Ecuador today after the government instituted an economic plan that included cuts to gas subsidies that had been in place for 40 years.",
+          "AssetType": "cnbcvideo",
+          "pageNodeId": "106165418",
+          "description": "Protests spilled out onto the streets in Ecuador today after the government instituted an economic plan that included cuts to gas subsidies that had been in place for 40 years.",
+          "article:publisher": "https://www.facebook.com/cnbc",
+          "article:published_time": "2019-10-04T18:22:10+0000",
+          "article:modified_time": "2019-10-04T18:22:10+0000",
+          "news_keywords": "Economy,Protests and demonstrations,Ecuador government,Ecuador,business news",
+          "keywords": "Economy,Protests and demonstrations,Ecuador government,Ecuador,business news",
+          "al:ios:app_name": "CNBC Business News and Finance",
+          "al:ios:app_store_id": "398018310",
+          "parsely-title": "Ecuador declares a state of emergency after nationwide protests over economic reforms"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "contentUrl": "http://pdl.iphone.cnbc.com/VCPS/Y2019/M10D04/7000101903/6ED5-BL-100419-Ecuador_L.mp4",
+          "description": "Protests spilled out onto the streets in Ecuador today after the government instituted an economic plan that included cuts to gas subsidies that had been in place for 40 years.",
+          "duration": "PT1M30S",
+          "name": "Ecuador declares a state of emergency after nationwide protests over economic reforms",
+          "thumbnailUrl": "https://image.cnbcfm.com/api/v1/image/106165423-6ed5-bl-100419-ecuador.jpg?v=1570212972",
+          "uploadDate": "2019-10-04T18:22:10.000Z"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Ecuador declared a state of emergency following nationwide protests over economic reforms. Protests occurred on the streets of Ecuador after the government instituted an economic plan that included cuts to gas subsidies that had been in place for 40 years.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Ecuador"
+        ],
+        "ORGANIZATION": [
+          "CNBC"
+        ],
+        "DATE": [
+          "Fri, Oct 4 2019",
+          "2:22 PM EDT",
+          "01:30"
+        ],
+        "EVENT": [
+          "state of emergency",
+          "nationwide protests"
+        ],
+        "OTHER": [
+          "gas subsidies"
+        ]
+      },
+      "score_e5": 0.7557888636824815
+    },
+    {
+      "titre": "President Correa van Ecuador herkozen | Buitenland | NU.nl",
+      "source": "NU",
+      "lien": "https://www.nu.nl/buitenland/3224930/president-correa-van-ecuador-herkozen.html",
+      "image_url": "https://images.nu.nl/m/m1nx66da3731_std320/312/236/2770/2075/ecuador-vlag-van-ecuador-ecuadoriaanse-vlag.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK-7fbel3zXNof3lkh_nWwYliiUoMd8ppgOay4TqUmwL3q7T4d",
+      "rang_lens": 3,
+      "brut": {
+        "title": "President Correa van Ecuador herkozen | Buitenland | NU.nl",
+        "source": "NU",
+        "link": "https://www.nu.nl/buitenland/3224930/president-correa-van-ecuador-herkozen.html",
+        "imageUrl": "https://images.nu.nl/m/m1nx66da3731_std320/312/236/2770/2075/ecuador-vlag-van-ecuador-ecuadoriaanse-vlag.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK-7fbel3zXNof3lkh_nWwYliiUoMd8ppgOay4TqUmwL3q7T4d"
+      },
+      "webpage": null,
+      "texte_contexte": "President Correa of Ecuador was re-elected, according to NU.nl.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Correa"
+        ],
+        "LOCATION": [
+          "Ecuador"
+        ],
+        "ORGANIZATION": [
+          "NU"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7304474709218164
+    },
+    {
+      "titre": "What is the security like in Ecuador, especially near the Peru border?",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/cuencaexpatsandtravelers/posts/27851473341103419/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10241447202024169",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMWKCjwxzN-l156fVbpHMAM9d0HKeGMzH5bmgoVPRkUC4P9MZg",
+      "rang_lens": 4,
+      "brut": {
+        "title": "What is the security like in Ecuador, especially near the Peru border?",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/groups/cuencaexpatsandtravelers/posts/27851473341103419/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10241447202024169",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMWKCjwxzN-l156fVbpHMAM9d0HKeGMzH5bmgoVPRkUC4P9MZg"
+      },
+      "webpage": {
+        "text": "Ecuador Expats and Travelers | How is  the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El C...\n\nEcuador Expats and Travelers\n\nBart Szulczewski · Jun 12\n\n·\n\n\nHow is the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El Coca -> Boat to Iquitos (Peru) route? No problems... See more\n\n\n1\n\n5",
+        "metadata": {
+          "title": "Ecuador Expats and Travelers | How is the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -&gt; Cuenca -&gt; Baños -&gt; Cotopaxi -&gt; Quito -&gt; El C... | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTE0NDg5MDMxODQ6Vks6Mjc4NTE0NzMzNDExMDM0MTk=",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTE0NDg5MDMxODQ6Vks6Mjc4NTE0NzMzNDExMDM0MTk=",
+          "og:type": "video.other",
+          "og:title": "Ecuador Expats and Travelers | How is  the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El C... | Facebook",
+          "og:description": "How is  the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El Coca -> Boat to Iquitos (Peru) route? No problems...",
+          "og:url": "https://www.facebook.com/groups/cuencaexpatsandtravelers/posts/27851473341103419/",
+          "og:image:alt": "Ecuador Expats and Travelers | How is  the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El C... | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10241447202024169",
+          "og:locale": "en_US",
+          "description": "How is  the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El Coca...",
+          "twitter:title": "Ecuador Expats and Travelers | How is  the security overall in...",
+          "twitter:description": "How is  the security overall in Ecuador especially on the Peru Aguas Verdes/Huaqillas border crossing -> Cuenca -> Baños -> Cotopaxi -> Quito -> El Coca -> Boat to Iquitos (Peru) route? No problems..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Discussion on security overall in Ecuador, specifically regarding a travel route covering the Peru Aguas Verdes/Huaquillas border crossing, Cuenca, Baños, Cotopaxi, Quito, El Coca, and a boat route to Iquitos in Peru, shared in an Ecuador Expats and Travelers Facebook group.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Bart Szulczewski"
+        ],
+        "LOCATION": [
+          "Ecuador",
+          "Peru",
+          "Aguas Verdes",
+          "Huaquillas",
+          "Cuenca",
+          "Baños",
+          "Cotopaxi",
+          "Quito",
+          "El Coca",
+          "Iquitos"
+        ],
+        "ORGANIZATION": [
+          "Facebook"
+        ],
+        "DATE": [
+          "Jun 12"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7788384063423149
+    },
+    {
+      "titre": "XIFAN Premium Ecuador Ecuadorian Flag 3x5 Outdoor, Double Sided Embroidered Image, Heavy Duty 210D Nylon Bandera De Ecuador Flags, Longest Lasting with Sewn Stripes/Brass Grommets : Buy Online at Best Price in",
+      "source": "امازون السعودية",
+      "lien": "https://www.amazon.sa/-/en/XIFAN-Premium-Ecuadorian-Embroidered-Grommets/dp/B0BCFTBV7Q",
+      "image_url": "https://m.media-amazon.com/images/I/81I158RoyJL._UF350,350_QL80_.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQrVt03taKkjw7AMJIbDYjgTU9T24ehDoGKAhpKWPqgNoDwoRa",
+      "rang_lens": 5,
+      "brut": {
+        "title": "XIFAN Premium Ecuador Ecuadorian Flag 3x5 Outdoor, Double Sided Embroidered Image, Heavy Duty 210D Nylon Bandera De Ecuador Flags, Longest Lasting with Sewn Stripes/Brass Grommets : Buy Online at Best Price in",
+        "source": "امازون السعودية",
+        "link": "https://www.amazon.sa/-/en/XIFAN-Premium-Ecuadorian-Embroidered-Grommets/dp/B0BCFTBV7Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/81I158RoyJL._UF350,350_QL80_.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQrVt03taKkjw7AMJIbDYjgTU9T24ehDoGKAhpKWPqgNoDwoRa"
+      },
+      "webpage": {
+        "text": "Amazon.sa\n\nانقر فوق الزر أدناه لمتابعة التسوق\n\nشروط الاستخدام والبيع إشعار الخصوصية\n\n© 1996-2025, Amazon.com, Inc. or its affiliates",
+        "metadata": {
+          "title": "Amazon.sa"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Listing on Amazon.sa for a premium Ecuador Ecuadorian flag, described as 3x5 outdoor, double-sided embroidered image, heavy duty 210D nylon, long lasting with sewn stripes and brass grommets.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Ecuador"
+        ],
+        "ORGANIZATION": [
+          "Amazon.sa",
+          "Amazon.com, Inc."
+        ],
+        "DATE": [
+          "1996-2025"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Ecuadorian Flag"
+        ]
+      },
+      "score_e5": 0.756259808690252
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Ecuador",
+      "United States"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Ecuador",
+      "Peru"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7788384063423149,
+  "S_ent": 0.0,
+  "S_OOC": 0.38941920317115747,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION"
+  ]
+}

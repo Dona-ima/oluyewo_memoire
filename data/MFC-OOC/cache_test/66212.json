@@ -1,0 +1,168 @@
+{
+  "id_rumeur": "66212",
+  "id_image": "66212",
+  "caption": "Saudi Arabia launches air strikes on Houthi fighters in Yemen",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122956/66212.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Skilled Saudi pilots outwit Houthi defenses | Arab News",
+      "source": "Arab News",
+      "lien": "https://www.arabnews.com/node/725731/amp",
+      "image_url": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/2015/03/30/1427328125230270500.jpg?itok=9iDSKhgj",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3_BN7CY4xiRIso315rW8Jj5jjA3eUyfgRpu2OFooimLDTE3qY",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Skilled Saudi pilots outwit Houthi defenses | Arab News",
+        "source": "Arab News",
+        "link": "https://www.arabnews.com/node/725731/amp",
+        "imageUrl": "https://www.arabnews.com/sites/default/files/styles/n_360_212/public/2015/03/30/1427328125230270500.jpg?itok=9iDSKhgj",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3_BN7CY4xiRIso315rW8Jj5jjA3eUyfgRpu2OFooimLDTE3qY"
+      },
+      "webpage": {
+        "text": "Skilled Saudi pilots outwit Houthi defenses\n\nSaudi pilots have been outmaneuvering Houthi defenses by launching attacks without being shot, according to reports on Monday.\nA six-minute video has emerged on social networking sites showing a pilot filming a fellow officer performing skillful evasive actions while carrying out an operation.\nSaudi fighter pilots first developed a reputation in the air during the 1991 Gulf war. Ayed Al-Shamrani, the pilot of an F-15C Eagle plane, brought down two Iraqi war planes in 30 seconds.\nSayed Al-Jabiri, an Egyptian strategic expert, said that Saudi pilots have shown a lot of courage and professionalism since operation Decisive Storm was announced on March 26. He said it was difficult to launch operations in different geographical areas.\nGen. Husam Sweilim, the former director of an Egyptian strategic center, said that this operation required reliable intelligence, and high level cooperation and effort.\nMichael Knights from the Washington Institute for Near East Policy, said Saudi Arabia has acquired a great deal of experience during previous operations against the Houthis, but the latest attacks are among the most complicated military operations. It would become especially difficult if Riyadh opens a front against the Houthis in northern Yemen, he said.\nKnights said Saudi planes carried out successful strikes against several military targets in Sanaa and against important Houthi-controlled areas in Harf Sufyan in Amran governorate. Raids have included the United Arab Emirates, Jordan, Kuwait, Bahrain and Qatari air forces.\nAround 170 fighter planes were involved in these operations, 100 of which were from Saudi Arabia. Most of these planes were F-15s and Tornadoes. The United Arab Emirates had 30, Bahrain 15, Jordan six and Morocco six.\n\n\nRelated\n\n\nLatest Updates\n\n\n   {{#bullets}}\n * {{value}}\n   {{/bullets}}\n\nBy {{authors.0}} · {{publicationDate}}",
+        "metadata": {
+          "title": "Skilled Saudi pilots outwit Houthi defenses | Arab News",
+          "description": "Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.",
+          "fb:app_id": "331299401208963",
+          "og:site_name": "Arab News",
+          "og:type": "article",
+          "og:url": "https://backup.arabnews.com/node/725731/amp",
+          "og:title": "Skilled Saudi pilots outwit Houthi defenses",
+          "twitter:title": "Skilled Saudi pilots outwit Houthi defenses"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des pilotes saoudiens contournent les défenses houthistes en lançant des attaques sans se faire abattre, selon un article d'Arab News. Une vidéo de six minutes montre un pilote filmant un officier effectuant des actions d'évitement lors d'une opération. Des experts et analystes, dont Sayed Al-Jabiri, Husam Sweilim et Michael Knights, commentent la complexité et l'expérience requise pour ces opérations aériennes menées dans le cadre de la coalition impliquant l'Arabie saoudite, les Émirats arabes unis, la Jordanie, le Koweït, le Bahreïn, le Qatar et le Maroc.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ayed Al-Shamrani",
+          "Sayed Al-Jabiri",
+          "Husam Sweilim",
+          "Michael Knights"
+        ],
+        "LOCATION": [
+          "Saudi Arabia",
+          "Yemen",
+          "Sanaa",
+          "Harf Sufyan",
+          "Amran governorate",
+          "United Arab Emirates",
+          "Jordan",
+          "Kuwait",
+          "Bahrain",
+          "Qatar",
+          "Morocco",
+          "Iraq"
+        ],
+        "ORGANIZATION": [
+          "Arab News",
+          "Washington Institute for Near East Policy",
+          "United Arab Emirates air forces",
+          "Jordanian air forces",
+          "Kuwaiti air forces",
+          "Bahraini air forces",
+          "Qatari air forces",
+          "Saudi air forces",
+          "Houthis"
+        ],
+        "DATE": [
+          "Monday",
+          "1991",
+          "March 26"
+        ],
+        "EVENT": [
+          "Gulf war",
+          "operation Decisive Storm"
+        ],
+        "OTHER": [
+          "F-15C Eagle",
+          "F-15",
+          "Tornado"
+        ]
+      },
+      "score_e5": 0.7761864481872919
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Saudi Arabia",
+      "Yemen"
+    ],
+    "ORGANIZATION": [
+      "Houthi"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [
+      "Ayed Al-Shamrani",
+      "Sayed Al-Jabiri",
+      "Husam Sweilim",
+      "Michael Knights"
+    ],
+    "LOCATION": [
+      "Saudi Arabia",
+      "Yemen",
+      "Sanaa",
+      "Harf Sufyan",
+      "Amran governorate",
+      "United Arab Emirates",
+      "Jordan",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Morocco",
+      "Iraq"
+    ],
+    "ORGANIZATION": [
+      "Arab News",
+      "Washington Institute for Near East Policy",
+      "United Arab Emirates air forces",
+      "Jordanian air forces",
+      "Kuwaiti air forces",
+      "Bahraini air forces",
+      "Qatari air forces",
+      "Saudi air forces",
+      "Houthis"
+    ],
+    "DATE": [
+      "Monday",
+      "1991",
+      "March 26"
+    ],
+    "EVENT": [
+      "Gulf war",
+      "operation Decisive Storm"
+    ],
+    "OTHER": [
+      "F-15C Eagle",
+      "F-15",
+      "Tornado"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 1,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7761864481872919,
+  "S_ent": 0.3333333333333333,
+  "S_OOC": 0.5547598907603126,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "PERSON",
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE",
+    "EVENT",
+    "OTHER"
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id_rumeur": 1475117,
+  "id_image": 1475117,
+  "caption": "Scottish universities continue to attract students from Scotland and the rest of the UK",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748158/oluyewo_benchmark/qlkozdef6iyntpnhe7qm.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "List of universities in Scotland - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/List_of_universities_in_Scotland",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/St_Salvators_Chapel_,_St_Andrews.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jy3TxAhGt7CBLKsI3OnA1w-35hDzgXcJVFsqFgHPVyuwvwxz",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "List of universities in Scotland - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_universities_in_Scotland",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jy3TxAhGt7CBLKsI3OnA1w-35hDzgXcJVFsqFgHPVyuwvwxz",
+        "thumbnail_width": 179,
+        "thumbnail_height": 281,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/St_Salvators_Chapel_,_St_Andrews.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "image_width": 655,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "List of universities in Scotland - Wikipedia",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Scotland"
+        ],
+        "ORGANIZATION": [
+          "Wikipedia"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8044494517283993
+    },
+    {
+      "titre": "Manaal Ayub 🇵🇰🇦🇪 | a look around one of the oldest ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DZ5w4B8soIE/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3925383506845401604",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7w3tk58sauGBLNq7wIfHnElHsztz9dFERgF_jhSP_GfJzHvYJ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Manaal Ayub 🇵🇰🇦🇪 | a look around one of the oldest ...",
+        "link": "https://www.instagram.com/p/DZ5w4B8soIE/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef8ad5922f486cbbd6ae3/images/EcYMPEPf0ANRviw6YaEBIAUThiUwFjceGwEPdPPDQVI.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7w3tk58sauGBLNq7wIfHnElHsztz9dFERgF_jhSP_GfJzHvYJ",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3925383506845401604",
+        "image_width": 1440,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Manaal Ayub a look around one of the oldest",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Manaal Ayub"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6901345755612325
+    },
+    {
+      "titre": "A day in Dundee and St Andrews: City grit vs. small town ...",
+      "source": "Northtrotter",
+      "lien": "https://northtrotter.com/2026/01/09/a-day-in-dundee-and-st-andrews-city-grit-vs-small-town-charm/",
+      "image_url": "https://northtrotter.com/wp-content/uploads/2026/01/2-4-2-Large-1024x683.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFHFSTbk6xDkKL8K8vLlpcBqXEz-noU0RiCUTUTx0z298qJm0",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "A day in Dundee and St Andrews: City grit vs. small town ...",
+        "link": "https://northtrotter.com/2026/01/09/a-day-in-dundee-and-st-andrews-city-grit-vs-small-town-charm/",
+        "source": "Northtrotter",
+        "source_icon": "https://serpapi.com/searches/6a8ef8ad5922f486cbbd6ae3/images/fQ73rgvXKoiuVwSi4t7l2HOt2Q2u4b6uTf9dy0yAP8Q.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFHFSTbk6xDkKL8K8vLlpcBqXEz-noU0RiCUTUTx0z298qJm0",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://northtrotter.com/wp-content/uploads/2026/01/2-4-2-Large-1024x683.jpg",
+        "image_width": 683,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "A day in Dundee and St Andrews: City grit vs. small town charm",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Dundee",
+          "St Andrews"
+        ],
+        "ORGANIZATION": [
+          "Northtrotter"
+        ],
+        "DATE": [
+          "2026-01-09"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7294295480727082
+    },
+    {
+      "titre": "St Andrews University - Unigo.com",
+      "source": "Unigo.com",
+      "lien": "https://www.unigo.com/colleges/st-andrews-university",
+      "image_url": "https://www.unigo.com/wp-content/uploads/2020/03/st-andrews-university-199698-xlarge_building.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_FLaxQietwenFMulbxNvyrX8QRO3ghrPKF4llhq2mih-JRDVD",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "St Andrews University - Unigo.com",
+        "link": "https://www.unigo.com/colleges/st-andrews-university",
+        "source": "Unigo.com",
+        "source_icon": "https://serpapi.com/searches/6a8ef8ad5922f486cbbd6ae3/images/5eNkqGBdFJBWC35pkdt8zaIexKZJ6aa_Nc5Fy23eu-E.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_FLaxQietwenFMulbxNvyrX8QRO3ghrPKF4llhq2mih-JRDVD",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.unigo.com/wp-content/uploads/2020/03/st-andrews-university-199698-xlarge_building.jpg",
+        "image_width": 1500,
+        "image_height": 2000
+      },
+      "webpage": null,
+      "texte_contexte": "St Andrews University - Unigo.com",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "St Andrews"
+        ],
+        "ORGANIZATION": [
+          "St Andrews University",
+          "Unigo.com"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7608098425621588
+    },
+    {
+      "titre": "St Andrews: Fife's jewel in the crown | DiscoverBritain.com",
+      "source": "Discover Britain",
+      "lien": "https://www.discoverbritain.com/destinations/scotland/st-andrews-golf/",
+      "image_url": "https://www.discoverbritain.com/_gatsby/file/646b1ed407aab3a8d54baa9111fad690/2339_2GXFE9N-1024x582.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkHYphUrN2p2yCdDqUgbJPtFu2exFQPQLmVE7sZ1qJhTj9AVwF",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "St Andrews: Fife's jewel in the crown | DiscoverBritain.com",
+        "link": "https://www.discoverbritain.com/destinations/scotland/st-andrews-golf/",
+        "source": "Discover Britain",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEXYAQD____YAADXAAD-___35ubldHD__v_68PDfT0zePTrbCQbdLSzsqKj43NzmgYDmfXz69_bzysn0xcXrop7xvbnhSEX24N_ur6zmbGv56unyzcvqkI7jZGTld3bdMzPcGhrqjIzxtrX32NbywL7jW1nps66TYXbvAAABIElEQVQ4jXWT23qCQAyEyUyQVfEA4hmLWuv7P2Ijq9VCyA0X-38zySQkyas4nmCaA8lQcaapCAcAEJyraGpfHwAXIrKdki4ALtPCgHJ1q_wusFaVWBtPApxuI6CF3ya5eyrs_TEAiR7zoTk5ylqBnT9FKyEPicNkMKlweACq7hStxKIFpByICgiPNjMp4KfNo0QLqf1BUNX1KY5a0YnbdMnoovrlSxjQxDjDgIkRz4WNrOceA1bHrbZ56pXO4eBcyKuKsO67sE71jxC99BXYfAAyQ_c5uconsOlaYPfv_d7dCHkqU30j3921w0zOqzegeT-H_MOjWHZzsBhvmmmQEHT5s0HvKMDaBAIa4mwpOtu823-3H9uTLcHbFTDO3VP6BY28CgkgZPCnAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkHYphUrN2p2yCdDqUgbJPtFu2exFQPQLmVE7sZ1qJhTj9AVwF",
+        "thumbnail_width": 169,
+        "thumbnail_height": 298,
+        "image": "https://www.discoverbritain.com/_gatsby/file/646b1ed407aab3a8d54baa9111fad690/2339_2GXFE9N-1024x582.jpg",
+        "image_width": 582,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "St Andrews: Fife's jewel in the crown DiscoverBritain.com",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "St Andrews",
+          "Fife"
+        ],
+        "ORGANIZATION": [
+          "Discover Britain"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7375315032579967
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Scotland",
+      "UK"
+    ],
+    "ORGANIZATION": [
+      "Scottish universities"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dundee",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St Andrews",
+      "rangs": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fife",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Manaal Ayub",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Northtrotter",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "St Andrews University",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Unigo.com",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Discover Britain",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026-01-09",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:03:31.406568"
+  }
+}

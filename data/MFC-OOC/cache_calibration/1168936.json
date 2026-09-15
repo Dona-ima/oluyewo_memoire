@@ -1,0 +1,1362 @@
+{
+  "id_rumeur": 1168936,
+  "id_image": 1168936,
+  "caption": "Apple is preparing to unveil two new versions of its flagship iPad which will be dubbed iPad 3 according to a survey of 6000 Guardian readers",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747679/oluyewo_benchmark/cxpezkhxf8h7xr1ms2l0.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Apple's new 'retina display' iPad: questions and answers ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2012/mar/08/ipad-new-apple-retina-display-questions",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Media/Columnists/Columnists/2012/3/7/1331139782581/iPad-007.jpg?width=220&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOEpZPLkduxZBqMk-pErcfUd3ZgdYHQQ-MCeellu6Q0MTXpGuo",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Apple's new 'retina display' iPad: questions and answers ...",
+        "link": "https://www.theguardian.com/technology/2012/mar/08/ipad-new-apple-retina-display-questions",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8edd602c2bb437b915aaba/images/33GvVR266lzgGGPCNRB4FfY2j6c6_CYokdXEC8kI-V4.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOEpZPLkduxZBqMk-pErcfUd3ZgdYHQQ-MCeellu6Q0MTXpGuo",
+        "thumbnail_width": 176,
+        "thumbnail_height": 220,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Media/Columnists/Columnists/2012/3/7/1331139782581/iPad-007.jpg?width=220&dpr=1&s=none&crop=5:4",
+        "image_width": 176,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "Apple's new 'retina display' iPad: questions and answers | iPad\n\nQ: What is the new iPad called? Is it iPad 3, iPad HD, iPad RD (retina display), or what?\n\nA: Just \"iPad\". It's \"the new iPad\". It doesn't have a generational name. Once something gets to a third generation - as here - Apple doesn't seem to bother with names. Except of course it does with the iPhone.\n\nQ: What's different or new in the physical object?\n\nA: A \"retina display\", LTE/4G networking capability, a battery with much more capacity (the screen and LTE systems are both power-hungry), a new chip (the \"A5X\"), 5 megapixel back camera, Bluetooth 4.0, 1080p video recording and stabilisation.\n\nQ: What's happened to the iPad 2?\n\nA: That carries on - with a price drop, from £399 to £329 (£429 for the 3G model) but only available in the low-end 16GB capacity.\n\nQ: What's new in the software on the iPad?\n\nA: Voice dictation - which is Siri-lite, so the voice-to-text without the action;\nface detection in still pictures;\niPhoto, an iOS version of its desktop app, but where you can now manipulate images directly;\nsome tweaks and improvements to Garageband (\"smart strings\" - you can be the string section - and multiple recording across more than one iPad);\nimprovements to iMovie (costing £2.99) which let you cut film footage directly into \"trailers\" - because, as one of the demonstrators pointed out, these days nobody is going to cut a film of five minutes of shaky camera with Dad on the beach. (Note the image stabilisation too - and expect that in the next iPhone iteration.)\n\nApple also released a software update, iOS 5.1, on Wednesday night, which has various bugfixes and improvements, mainly to the iPhone, though it also lets you delete photos from iCloud's feed - a much-requested feature.\n\nQ: What is the retina display like close up - and what does retina display mean, anyway?\n\nA: Even close up, it's virtually impossible to see individual pixels. The point of the \"retina display\" is that at arm's length you absolutely cannot see them, so that you have an effect that's the same as print: your eye isn't distracted by the subconscious realisation that you're seeing something composed of individual lit pixels. This is going to have significant effects on peoples' ability to read text on iPads.\n\nHere's why: the idea of the super-pixel-dense display is something that Jakob Nielsen of Nielsen/Norman Group has been predicting for absolutely ages; getting screens to a pixel density where it can fool the eye should, in theory, mean that you can read as fast there as on paper. (On standard resolution, including the Kindle, you read only about half as fast as on paper.) (Update: that may be an overestimation: this 2001 paper suggests the difference is that reading on paper is \"significantly - 10%-30% faster than reading on screen.\" There doesn't seem to be a great deal of research more recently into this topic.)\n\nOnce a display starts having the same effective resolution as paper, you should be able to read more quickly. There are problems with the fact that the iPad screen uses transmitted rather than reflected light - that will slow down reading a little - but it should be noticeable.\n\nFor pictures and other display objects, the improved resolution is - from our limited experience - a bit like the change from standard TV to HDTV. You notice the change as a dramatic leap at first, then get used to it. It's on going back that you notice what's missing.\n\nQ: Does anyone else have a retina display?\nA: Asus's newest Transformer tablet may qualify - judging by the specifications that were announced at Mobile World Congress. But it won't actually ship until summer, so it's impossible to know. The new iPad ships on 16 March, which gives it a significant lead.\n\nUpdate: thanks to many in the comments pointing to smartphones with equivalent pixel-per-inch layouts. (Wikipedia page with simple listing.) As is pointed out, many other manufacturers may have equivalent pixel density (around 300ppi) but aren't marketing them as such.\n\nQ: What use is LTE in the UK?\n\nA: At present, none at all, because the phone networks are all wrangling amongst themselves about who has the right to which frequencies. Ofcom's attempts to auction off the spectrum keep running into court challenges, which at least shows that the networks hold 4G (or perhaps its potential revenues) as valuable, but doesn't get us connected any sooner. Orange/T-Mobile is carrying out some tests in Cornwall and London, but to be honest for most people the LTE networking isn't going to be any use soon. Also, there are two different models of LTE connectivity, so there's going to be a risk for people who buy on one network and then think about going to another: particular iPads are set up for particular LTE systems. (This wasn't a problem for Motorola's Xoom, because it only offered LTE through Verizon's network in the US.)\n\nQ: What else is new?\n\nA: Apple has started moving away from Google in its maps. The iPhoto application uses OpenStreetMap maps, according to ISM's Jonathan Bennett, who said in a post that \"we're rather pleased to find they're the latest to switch to OpenStreetMap\". Apple's growing antipathy towards Google - initially over Android, then in its competition for mobile advertising attention, and then for pretty much everything, suggests that the company may be looking for other providers. But given that maps are a prime method for mobile advertising (Google has certainly begun monetising them), Apple is definitely going to be interested in doing its own mapping.\n\nThe Maps app on iOS still uses Google - but some people have wondered how long that will last.\n\nQ: Where does this leave other tablets?\n\nA: Some analysts reckon this will increase Apple's share of the overall tablet market, even though that is growing. \"Apple to seize more than 70% of world tablet PC market in 2012 with new iPad 3\" said the (slightly breathless) email from IMS Research - which pointed out that Apple had 62% of the market in 2011 (white box makers 8% - one infers they're the cheap Chinese Android versions), Samsung 7%, Amazon 7%, Asus 3% and all the rest together taking 13%.\n\nBut with the new product, IMS Research forecasts that approximately 70m iPads will be shipped in 2012, which would represent a 71% year-on-year growth. Gerry Xu, the company's PC market analyst, says: \"There is a large customer base loyal to Apple products that have been waiting for the latest tablet. Many owners of the iPad 1 are also expected to upgrade to the latest release. In addition to this consumer demand, growth is also forecast as a result of sales into enterprise and education\".\n\nThe same opinion came from other analysts at the event; the data says that the tablet market presently breaks down to Apple, Samsung, Amazon and lots of also-rans. Gartner's Carolina Milanesi doesn't expect Windows 8 tablets to get any traction this year, so Apple has an open goal. No Android tablet comes close to the specifications (quad-core, sure, but retina display? No) or ecosystem (apps, yes, but music and films no, at least in Europe so far), and with the European tablet market having been a rout last year - given no Amazon Kindle Fire, and lots of legal issues for Samsung in Germany, one of the biggest markets in Europe - it's hard to see that changing. Add to the mix a cheaper iPad 2 which will hit some manufacturers at just the point where they were hoping to get an edge - price - and you can see that Apple replaying its iPod playbook, when it sliced and diced the competition by staying ahead in its ecosystem, and then through pricing, and then product mix. (In which case you might anticipate a smaller \"iPad mini\" at some point. But don't get your expectations up. Apple will definitely be happy with its iPad 2 and \"new iPad\" lineup all this year.)\n\nQ: What about Apple TV?\n\nA: As Juliette Garside points out, the improvements in Apple TV - 1080p video, a more app-like interface, and even \"apps\" for things like Netflix content - point towards the company readying itself to do more. Also iCloud has been updated so that any movies that you buy or rent from the iTunes Store will be available across any device you use. (You might as well just watch them on a new iPad - the display would be amazing.)\n\nSo the Apple TV that everyone has been buzzing about isn't here - yet. But analysts, again, are itching with the certainty that something is on the way - noting Tim Cook's closing words at the presentation that \"Across the year you're going to see a lot more innovation. We are just getting started.\" (Then again, that's a common signoff from Apple executives, and often just means \"more computers on the way\" or similar.)\n\nQ: What's the take-away thought, then?\n\nA: First: Apple has pulled ahead of rival tablet makers with the retina display. Second, it has cut the pricing legs off those which hoped to sneak under with lower specifications and prices. Third: Apple has begun ever so quietly to cut its ties with Google. Fourth: unless Samsung and others can come up with a tablet with an OLED touchscreen, it's going to be a torrid year for many unless they can get Windows 8 tablets to a competitive price - but given that the Windows licence is going to cost them around $50 each, it's hard to see how that will happen. In fact, the happiest company apart from Apple after Wednesday's announcements is, without a doubt, Amazon: the Kindle Fire and Kindle e-reader remain untouched. Expect them to keep selling well.",
+        "metadata": {
+          "title": "Apple's new 'retina display' iPad: questions and answers | iPad | The Guardian",
+          "description": "<p>From the retina display to the new processor to LTE to Google to the effect on the rest of the tablet market, here are all the answers to the questions about Apple's new product. By <strong>Charles Arthur</strong></p>",
+          "og:url": "http://www.theguardian.com/technology/2012/mar/08/ipad-new-apple-retina-display-questions",
+          "article:author": "https://www.theguardian.com/profile/charlesarthur",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/3/7/1331151894480/iPad3-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTIucG5n&enable=upscale&s=a0a7492187112781a4c372855b47305f",
+          "al:ios:url": "gnmguardian://technology/2012/mar/08/ipad-new-apple-retina-display-questions?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Apple's new 'retina display' iPad: questions and answers",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-21T20:06:02.000Z",
+          "og:image:height": "720",
+          "og:description": "From the retina display to the new processor to LTE to Google to the effect on the rest of the tablet market, here are all the answers to the questions about Apple's new product. By Charles Arthur",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2012-03-08T18:06:00.000Z",
+          "article:tag": "iPad,Apple,Tablet computers,Technology",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Présentation des questions et réponses concernant le nouvel iPad d'Apple doté d'un 'retina display', de la connectivité LTE/4G, d'une puce A5X et de nouvelles fonctionnalités logicielles, ainsi que de la mise à jour iOS 5.1.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jakob Nielsen"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Apple",
+          "The Guardian",
+          "Nielsen/Norman Group"
+        ],
+        "DATE": [
+          "2012",
+          "8 mars 2012",
+          "mercredi",
+          "2001"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPad",
+          "iPhone",
+          "A5X",
+          "Siri",
+          "iPhoto",
+          "Garageband",
+          "iMovie",
+          "iOS 5.1",
+          "iCloud",
+          "Kindle"
+        ]
+      },
+      "score_e5": 0.815580105822973
+    },
+    {
+      "titre": "Apple fined in Australia for misleading iPad advertising ...",
+      "source": "Firstpost",
+      "lien": "https://www.firstpost.com/tech/apple-fined-in-australia-for-misleading-ipad-advertising-351805.html",
+      "image_url": "https://images.firstpost.com/wp-content/uploads/2012/06/iPadNew_AP79.jpg?im=FitAndFill=(596,336)",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR_pR7PYNwXuatDGytGzxz29Iris-Ub5sFAdoVxJpfX7ylvx4Y",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Apple fined in Australia for misleading iPad advertising ...",
+        "link": "https://www.firstpost.com/tech/apple-fined-in-australia-for-misleading-ipad-advertising-351805.html",
+        "source": "Firstpost",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACqUlEQVRYhcXXP4yURRzG8c-8t7CLHO4BkhjJJWCBUmFQlD8mamFB-FdZGLWw0cLGAnoLEworSSQxAWKsjCRqLAihMHTEwhgLLSxAgcAFCQfeISfevmMxc2Fz7LvsHu-GJ5m8O7Pzm_nOzO_N807AWmzHCvWpwLL8PI2_qjo28nM7PsR4Rb8p_IFOrge0cvxjaOf6iq4xYQZv4_sHEa_GV4gV5RiezBO1MZFj1kg7uBEH8Cl-xXyOu4NDD5p8YUVv4t8KgM8MdkQNbMFxzGaQY3n8niryM-IKbg1C20fz-AUHcUTagUlp1yqJF3Rbol73kBAwjU-kI3pBOr6bvToWXb__k1ZQl6ZxGH9mgJ4qFtVjjQBwCSf0WVij6o-aVOKsPkk4agBSblVq8RHUoXGsHLRz3QDL8Io-STdqgKfwhj5nPkqAJt7Fs8ME1QXwBN7D-1g-TOCgb8FmvIO7XW1BSrhJPIeX8LjknLUDPIO3pPe6Wy3JFdcbIvOXAvADPsZcV1uQsn4VNmTAPaMC-BsXJXfrpZ9xDv94REkYcVVywEuPAmBBv-ObYQLq9oI5nDKErY_CjG4M03kUZjSURm7HkXBr9_NPl42xzWIMRaP8rf3dT-dD_vgZ6Q5EwsyBbTtio_EF4aRQfF2WY19O73nx5Y_y3N0AY7n0UlV7X13fv2u80wkHQ4g7Q9AKQSvEsCMUDn2wf9fKxQCtXHqpbQm71YxzTYVtUbgXG4QobG3GueZigDXSjaeXNlnC3bEz1pkn3GdOgamyvNvpBmhhp2pD2YR9hkzaiZsTs0pHY4xTxBKdwLUQwuft22tnMozl2CvdZNZXjBWly-lhfIvrg0JceHVDqz2-7nVFsU8Ug86p2dbUmcmTl-8sAKzCa30m79YMfsR5927KD6X_AQDGnY_3vPcwAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR_pR7PYNwXuatDGytGzxz29Iris-Ub5sFAdoVxJpfX7ylvx4Y",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://images.firstpost.com/wp-content/uploads/2012/06/iPadNew_AP79.jpg?im=FitAndFill=(596,336)",
+        "image_width": 336,
+        "image_height": 596
+      },
+      "webpage": {
+        "text": "Apple fined in Australia for misleading iPad advertising\n\nApple Inc was fined A$2.25 million by an Australian court on Thursday for misleading advertising of its latest iPad.\n\nMelbourne: Apple Inc was fined A$2.25 million by an Australian court on Thursday for misleading advertising of its latest iPad.The Australian Competition and Consumer Commission (ACCC) took legal action against Apple in March, after the computer and gadgets maker rolled out the first wave of new iPad tablets in the Australian market.The competition watchdog accused Apple of misleading customers with the description of its new iPad, which said it was compatible with a 4G mobile data network when it was not.The court determined Apple had implied \"that an iPad with WiFi + 4G could connect directly to the Telstra LTE mobile data network in Australia, which it could not do,\" according to the verdict emailed to Reuters by the regulator.\n\nApple \"engaged in conduct that was liable to mislead the public,\" it said.A spokeswoman for Apple in Sydney could not be reached immediately for comment on Thursday. Apple has already promised to email all buyers of its new iPad in Australia to offer them a refund and agreed to post warnings that its new iPad \"is not compatible with current Australian 4G LTE networks and WiMAX networks.\"Telstra Corp's network operates on a different frequency to the 4G on Apple's new iPad.Apple rolled out the first wave of new iPad tablets on 16 March.Reuters\n\nHandpicked stories, in your inbox\n\nGlobal stories. Indian perspective. Zero noise.\n\nSubscribe Now\n\nNo Spam. Unsubscribe Any Time.",
+        "metadata": {
+          "title": "Apple fined in Australia for misleading iPad advertising",
+          "description": "Apple Inc was fined A$2.25 million by an Australian court on Thursday for misleading advertising of its latest iPad. ",
+          "og:title": "Apple fined in Australia for misleading iPad advertising",
+          "og:description": "Apple Inc was fined A$2.25 million by an Australian court on Thursday for misleading advertising of its latest iPad. ",
+          "og:url": "http://www.firstpost.com/tech/apple-fined-in-australia-for-misleading-ipad-advertising-351805.html",
+          "og:type": "article",
+          "og:image": "https://images.firstpost.com/wp-content/uploads/2012/06/iPadNew_AP79.jpg?im=FitAndFill,width=1200,height=675",
+          "og:image:alt": "Apple fined in Australia for misleading iPad advertising",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "keywords": "Apple Inc., WiMAX, TechBuzz, 4G, The new iPad",
+          "twitter:title": "Apple fined in Australia for misleading iPad advertising",
+          "twitter:description": "Apple Inc was fined A$2.25 million by an Australian court on Thursday for misleading advertising of its latest iPad. ",
+          "fb:pages": "122176787772",
+          "fb:app_id": "561222041954546"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.firstpost.com/",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.firstpost.com/tech/",
+                "name": "Tech"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.firstpost.com/tech/apple-fined-in-australia-for-misleading-ipad-advertising-351805.html",
+                "name": "Apple fined in Australia for misleading iPad advertising"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Apple a été condamné par un tribunal australien à une amende de 2,25 millions de dollars australiens pour publicité mensongère concernant la compatibilité de son dernier iPad avec le réseau de données mobiles 4G LTE de Telstra.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Australie",
+          "Melbourne",
+          "Sydney"
+        ],
+        "ORGANIZATION": [
+          "Apple",
+          "Firstpost",
+          "Australian Competition and Consumer Commission",
+          "ACCC",
+          "Reuters",
+          "Telstra Corp"
+        ],
+        "DATE": [
+          "jeudi",
+          "mars",
+          "16 mars"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPad",
+          "Wi-Fi",
+          "4G",
+          "LTE",
+          "WiMAX"
+        ]
+      },
+      "score_e5": 0.7545415817556678
+    },
+    {
+      "titre": "Apple facing supply shortage of upcoming high-end iPad ...",
+      "source": "Radarr Africa",
+      "lien": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/",
+      "image_url": "https://radarr.africa/wp-content/uploads/2021/04/Apple-facing-supply-shortage-of-upcoming-high-end-iPad-displays-e1618237740311.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAnGfXVSTYg9nuWOjaKV6WkRG_ADqPqP2ZzlNehOAqp6bbZ3wN",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Apple facing supply shortage of upcoming high-end iPad ...",
+        "link": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/",
+        "source": "Radarr Africa",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwWU04WU04WU04WU04WU04WU04WU04WU04WU04WU04WU04WU04WU04WU04WU04WU074YmTMAAAAEHRSTlMAG8qefi-Rva1qRPNV5dYO02eHPQAAAXZJREFUOI19U9m24zAIw9hmMbaj___aIem00ztNLy85HClCLCa64uiz0PcouIL9G6Gaz-kSMKKxqf8vVlwfAmOjdawD8QOfUPfW3A3uWAXW0d7wEVOxzTZ4bh7YHcPWGyH_kqZrcWtodU00wYE3Gw0eWjOywhLNT8G0-Y8AR1tqpiHhmQxIzTIvxpHCUbfqrkuQiRl61rAnoVeLyqqcIiG2HDMJY_PxtIFqW03VmK2GyBqYq9UgtCLXGE804-KspjrhLAKClkczosy698nZWzgJjaVdBPk76j76cRTRsxPbqbDbqfDy-QxlWdrSZLrQ3Ej92CpzOw1mFyVsxAdOvq2yB3vOwaV_EopgRlZYNSnjEyeyc0h7ZAUut4RcAV_1Mert_fng3CQoNv24mVeMwMwmcuMVtwoavWLk0vvnlB4KfaF7gli3eJpUqokn7Z5AvUe6W18K0Hmgq5eAfMPzDZHgvoGnTeTTKb885Dxxcv1FgToNP97yP73tEjhL8RVRAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAnGfXVSTYg9nuWOjaKV6WkRG_ADqPqP2ZzlNehOAqp6bbZ3wN",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://radarr.africa/wp-content/uploads/2021/04/Apple-facing-supply-shortage-of-upcoming-high-end-iPad-displays-e1618237740311.jpg",
+        "image_width": 333,
+        "image_height": 500
+      },
+      "webpage": {
+        "text": "Apple facing supply shortage of upcoming high-end iPad displays\n\nThe firm’s overseas suppliers are dealing with poor manufacturing yields\n\nThe next-generation display destined to be a highlight of Apple Inc.’s upcoming top-tier iPad Pro is facing production issues that could lead to short initial supplies of the new device, according to people familiar with the matter.\n\nThe Cupertino, California-based tech giant plans to showcase a new MiniLED display technology in the 12.9-inch iPad Pro set to be announced as early as the second half of April. But the firm’s overseas suppliers are dealing with poor manufacturing yields, the people who asked not to be named discussing sensitive matters said. At least one of the MiniLED makers has had to recently pause production as a result, one person added.\n\nApple still intends to announce updated iPad Pro tablets in two sizes as early as this month, other people familiar with its product road map said. The MiniLED screen, which will improve contrast ratios and deliver a brighter picture, will be exclusive to the pricier 12.9-inch model. The production hiccup could mean that the larger iPad Pro will ship later and be available in constrained quantities, to begin with, the people said.\n\nBloomberg News reported last month that Apple was gearing up to debut new iPad Pros in April. An Apple spokeswoman declined to comment.\n\nTaiwan-based suppliers Ennostar Inc., General Interface Solution Holding Ltd. and Taiwan Surface Mounting Technology Corp. are among the key providers of MiniLED technology.\n\nThe new iPad Pro models will be Apple’s first major hardware launch of 2021 and will add to a product line that has performed particularly well as people increasingly work and study from home. Beyond the new display, Apple plans to add a much faster processor on par with the custom M1 chip in its latest Macs, a faster USB-C port that’s compatible with a wider range of accessories and monitors and improved cameras.\n\nThe iPad generated $8.4 billion in revenue for Apple during the holiday quarter of 2020, the most since 2014. As students and workers begin gradually returning to schools and offices, Apple will be betting on the upgraded iPad models to maintain interest in its tablet line.\n\nBloomberg",
+        "metadata": {
+          "title": "Apple facing supply shortage of upcoming high-end iPad displays | Radarr Africa",
+          "description": "The firm’s overseas suppliers are dealing with poor manufacturing yields The next-generation display destined to be a highlight of Apple Inc.’s upcoming top-tier iPad Pro is facing production issues that could lead to short initial supplies of the new device, according to people familiar with the matter. The Cupertino, California-based tech giant plans to showcase",
+          "author": "Radarr Africa",
+          "keywords": "apple,apple facing supply shortage of upcoming high-end ipad displaysapple intends to announce updated ipad pro tablets in two sizes,apple was gearing up to debut new ipad pros in april,apple suppliers are dealing with poor manufacturing yields,southern africa,spotlight,technology",
+          "og:locale": "en_US",
+          "og:site_name": "Radarr Africa | Radarr Africa is a Business News site aggregating, producing and distributing content from the corporate world across Africa.",
+          "og:type": "article",
+          "og:title": "Apple facing supply shortage of upcoming high-end iPad displays | Radarr Africa",
+          "og:description": "The firm’s overseas suppliers are dealing with poor manufacturing yields The next-generation display destined to be a highlight of Apple Inc.’s upcoming top-tier iPad Pro is facing production issues that could lead to short initial supplies of the new device, according to people familiar with the matter. The Cupertino, California-based tech giant plans to showcase",
+          "og:url": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/",
+          "og:image": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png",
+          "og:image:secure_url": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png",
+          "article:published_time": "2021-04-12T14:33:16+00:00",
+          "article:modified_time": "2021-04-12T14:33:18+00:00",
+          "article:publisher": "https://facebook.com/radarrafrica/",
+          "twitter:title": "Apple facing supply shortage of upcoming high-end iPad displays | Radarr Africa",
+          "twitter:description": "The firm’s overseas suppliers are dealing with poor manufacturing yields The next-generation display destined to be a highlight of Apple Inc.’s upcoming top-tier iPad Pro is facing production issues that could lead to short initial supplies of the new device, according to people familiar with the matter. The Cupertino, California-based tech giant plans to showcase"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#article",
+              "name": "Apple facing supply shortage of upcoming high-end iPad displays | Radarr Africa",
+              "headline": "Apple facing supply shortage of upcoming high-end iPad displays",
+              "author": {
+                "@id": "https://radarr.africa/author/radarr-africa/#author"
+              },
+              "publisher": {
+                "@id": "https://radarr.africa/#organization"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://radarr.africa/wp-content/uploads/2021/04/Apple-facing-supply-shortage-of-upcoming-high-end-iPad-displays-e1618237740311.jpg",
+                "width": 500,
+                "height": 333,
+                "caption": "Apple facing supply shortage of upcoming high-end iPad displays"
+              },
+              "datePublished": "2021-04-12T14:33:16+00:00",
+              "dateModified": "2021-04-12T14:33:18+00:00",
+              "inLanguage": "en-US",
+              "mainEntityOfPage": {
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#webpage"
+              },
+              "isPartOf": {
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#webpage"
+              },
+              "articleSection": "Southern Africa, Spotlight, Technology"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://radarr.africa#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://radarr.africa",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://radarr.africa/category/spotlight/#listItem",
+                    "name": "Spotlight"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://radarr.africa/category/spotlight/#listItem",
+                  "position": 2,
+                  "name": "Spotlight",
+                  "item": "https://radarr.africa/category/spotlight/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#listItem",
+                    "name": "Apple facing supply shortage of upcoming high-end iPad displays"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://radarr.africa#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#listItem",
+                  "position": 3,
+                  "name": "Apple facing supply shortage of upcoming high-end iPad displays",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://radarr.africa/category/spotlight/#listItem",
+                    "name": "Spotlight"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://radarr.africa/#organization",
+              "name": "Radarr Africa",
+              "description": "Radarr Africa is a Business News site aggregating, producing and distributing content from the corporate world across Africa.",
+              "url": "https://radarr.africa/",
+              "telephone": "+2348064226388",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png",
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#organizationLogo",
+                "width": 300,
+                "height": 112
+              },
+              "image": {
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#organizationLogo"
+              },
+              "sameAs": [
+                "https://facebook.com/radarrafrica/",
+                "https://twitter.com/radarrafrica",
+                "https://www.instagram.com/radarrafrica/",
+                "https://www.pinterest.com/radarrafrica/"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://radarr.africa/author/radarr-africa/#author",
+              "url": "https://radarr.africa/author/radarr-africa/",
+              "name": "Radarr Africa",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#authorImage",
+                "url": "https://secure.gravatar.com/avatar/bef41d2a356f4e7923ded81d526fe9cb7e391e2df48e0b4dea9e4908b0ccc6e9?s=96&d=mm&r=g",
+                "width": 96,
+                "height": 96,
+                "caption": "Radarr Africa"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#webpage",
+              "url": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/",
+              "name": "Apple facing supply shortage of upcoming high-end iPad displays | Radarr Africa",
+              "description": "The firm’s overseas suppliers are dealing with poor manufacturing yields The next-generation display destined to be a highlight of Apple Inc.’s upcoming top-tier iPad Pro is facing production issues that could lead to short initial supplies of the new device, according to people familiar with the matter. The Cupertino, California-based tech giant plans to showcase",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://radarr.africa/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#breadcrumblist"
+              },
+              "author": {
+                "@id": "https://radarr.africa/author/radarr-africa/#author"
+              },
+              "creator": {
+                "@id": "https://radarr.africa/author/radarr-africa/#author"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://radarr.africa/wp-content/uploads/2021/04/Apple-facing-supply-shortage-of-upcoming-high-end-iPad-displays-e1618237740311.jpg",
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#mainImage",
+                "width": 500,
+                "height": 333,
+                "caption": "Apple facing supply shortage of upcoming high-end iPad displays"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://radarr.africa/apple-facing-supply-shortage-of-upcoming-high-end-ipad-displays/#mainImage"
+              },
+              "datePublished": "2021-04-12T14:33:16+00:00",
+              "dateModified": "2021-04-12T14:33:18+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://radarr.africa/#website",
+              "url": "https://radarr.africa/",
+              "name": "Radarr Africa",
+              "description": "Radarr Africa is a Business News site aggregating, producing and distributing content from the corporate world across Africa.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://radarr.africa/#organization"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Apple fait face à des problèmes de production et à une pénurie de composants pour les écrans MiniLED de son prochain iPad Pro de 12,9 pouces haut de gamme, dont l'annonce est prévue pour le mois d'avril.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Cupertino",
+          "Californie",
+          "Taiwan"
+        ],
+        "ORGANIZATION": [
+          "Apple",
+          "Radarr Africa",
+          "Bloomberg News",
+          "Ennostar Inc.",
+          "General Interface Solution Holding Ltd.",
+          "Taiwan Surface Mounting Technology Corp."
+        ],
+        "DATE": [
+          "deuxième moitié d'avril",
+          "avril",
+          "2021",
+          "2020",
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPad Pro",
+          "MiniLED",
+          "M1",
+          "USB-C"
+        ]
+      },
+      "score_e5": 0.7910907263875298
+    },
+    {
+      "titre": "Apple turns 50. How the tech giant started, almost failed ...",
+      "source": "Euronews.com",
+      "lien": "https://www.euronews.com/next/2026/04/01/apples-long-game-how-the-tech-company-started-almost-failed-and-is-shaping-the-future",
+      "image_url": "https://static.euronews.com/articles/stories/08/82/78/26/808x508_cmsv2_4cafff11-f958-5963-a1ca-510e224e9a9e-8827826.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRn8s7gquuTVNWv4uF7bwp3TmLKn7GqjD0DQYiRZ27G6f8KJ7JK",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Apple turns 50. How the tech giant started, almost failed ...",
+        "link": "https://www.euronews.com/next/2026/04/01/apples-long-game-how-the-tech-company-started-almost-failed-and-is-shaping-the-future",
+        "source": "Euronews.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSCbq1GQ2Aigi4OnqP_Yp0PFNagNbUBxi0VzXCgJEWbs2uUkZVeCKtQMsYK4gLFBWwT5uOQDe83hfJHy86HP_jurDlQsiG5u6XlblhvNZpCfM8YnpH_",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRn8s7gquuTVNWv4uF7bwp3TmLKn7GqjD0DQYiRZ27G6f8KJ7JK",
+        "thumbnail_width": 178,
+        "thumbnail_height": 283,
+        "image": "https://static.euronews.com/articles/stories/08/82/78/26/808x508_cmsv2_4cafff11-f958-5963-a1ca-510e224e9a9e-8827826.jpg",
+        "image_width": 508,
+        "image_height": 808
+      },
+      "webpage": {
+        "text": "Apple turns 50. How the tech giant started, almost failed, and is ‘shaping the future’ in long game\n\nFrom a scrappy startup to the iconic tech titan, Apple celebrated its 50th anniversary on April 1.\n\nADVERTISEMENT\n\nApple is one of the few companies to pass the $4 trillion mark in market value. Part of its secret sauce has been in how it has positioned its products.\n\nInstead of inventing tech, such as personal computers or smartphones, the company produced some of the first well-designed versions that were easy to use and worked.\n\nEuronews Next looks at Apple’s history and growth since its launch as well as its influential gadgets and software, and what is next for the company.\n\n\nThe history of Apple\n\nIn 1976, Steve Jobs and Steve Wozniak founded Apple. There was a third founder, Ronald Wayne, but he sold his ownership to Jobs and Wozniak.\n\nThe first product was the Apple I microcomputer, which was built in Jobs’ garage. It did not have a keyboard or monitor.\n\nA year later, in 1977, the Apple II was released, and the company saw its first major success as it led Apple to become the leading computer manufacturer in America and one of the largest IPOs of its time.\n\nBut Apple’s success came crashing down after Jobs spent too much of the company’s time and money on the Apple Lisa. But the pricey desktop computer was unsuccessful after its launch in 1983.\n\nJobs then moved on to the Macintosh computer, which was a challenge to IBM, the market leader at the time. The advert for the Macintosh was unveiled at the 1984 Super Bowl and showed a rebellion against a dystopian world of conformity, supposedly representing the fight for the control of computer technology as a struggle of the few against the many.\n\nHowever, a conflict between Jobs and Apple CEO John Sculley over the Lisa and Macintosh not living up to sales expectations saw Jobs stripped of all duties by the board of directors.\n\nJobs subsequently left and started a new company, NeXT Computers. His co-founder Wozniak also left Apple due to personal reasons.\n\nApple was doing well until the mid-1990s but then it almost went bankrupt after facing competition from Microsoft’s cheaper PCs and product releases that flopped, such as the Newton tablet.\n\nApple then bought Jobs’ new company NeXT and named Jobs as interim CEO after the former CEO was ousted. Jobs then refocused Apple on its computer business and saved it from bankruptcy.\n\n“People rarely think of it now, but when Steve Jobs came back to Apple in 1997 it was in a perilous position - at that point, it had just lost $50 million (€46 million) in a single quarter. Ever since, it has made a number of bets that have pretty much all paid off,” Tim Danton, editor-in-chief of PC Pro and author of The Computers That Made Britain, told Euronews Next.\n\nA year later, in 1998, the iMac was shown off and a few years later, the Mac OS X operating system was released. The same year, in 2001, Apple released its first iPod, establishing the company’s reputation as a tech trendsetter.\n\nApple’s secret is “down to one word: design,” said Danton.\n\n“Apple is never the first at bringing technology to the market, but when it does, it makes sure it looks damn good and that it works flawlessly. Take the iPod. MP3 players had been around for a few years, but Apple created a desirable version that was easy for non-techies to use,” he added.\n\nThe years that followed saw the iPhone release in 2007 and the App Store and iPad in 2010.\n\nIn 2011, Jobs took a leave of absence and named Tim Cook as Apple’s CEO. Jobs died later that year of pancreatic cancer.\n\n\nThe Tim Cook era\n\nSince Cook’s takeover, Apple has adapted and expanded its services to include its media streaming service Apple TV+ and Apple Music and a mixed-reality headset that combines augmented reality (AR) and virtual reality (VR), the Apple Vision Pro.\n\nApple has also entered the artificial intelligence (AI) race with an upgrade to the iOS 18 operating system and four iPhone 16 models that have a special computer chip needed to power the AI features.\n\nWhile companies such as Samsung and Google rushed out their AI technology, Apple took a bit longer, which it can afford to do.\n\n“In part, Apple can take a wait-and-see approach to ensure it offers users a better experience, which is paramount,” said technology analyst Paolo Pescatore.\n\n“Arguably with this in mind, it doesn’t necessarily need to be the first or keep pace. However, it cannot rest on its laurels and needs to consider a strong roadmap that goes beyond incremental upgrades for its vast breadth of portfolio,” he told Euronews Next.\n\nSuch devices Apple could introduce in the future include foldables, connected/smart glasses as well as a smart ring to name but a few, Pescatore said.\n\n“As we move towards a software-driven AI-powered future, everyone will be seeking to dethrone the king of the hill,” he added.\n\n\nCan Apple keep the pace?\n\nCook has been able to successfully navigate the current challenges such as geo-political tensions between the US and China and demand from its Chinese market slowing.\n\nBut Apple has had another issue with European regulators as the Digital Markets Act (DMA) has meant that European users of Apple’s devices can download software from outside the App Store.\n\nApple’s Vision Pro glasses have also been somewhat of a flop, as they are expensive products and are heavy to wear for long periods of time.\n\nBut experts are upbeat about Apple’s long-term future.\n\n“I’m much more confident about Apple’s future than any other tech company because it’s so brilliant at locking people into its ecosystem,” said Danton.\n\n“Although there are plenty of Apple knockers, overall, people love the brand. Even the haters grudgingly respect Apple,” he added.\n\nThat’s partly because its business model isn’t based on things people hate, like advertising and invasion of privacy, Danton explained.\n\n“It means Apple can say that it’s the brand that cares about privacy, which could become even more important in the next decade,” he added.\n\nDespite some tech not paying off, most recently the Vision Pro, which has slower-than-expected sales, Danton said the company “isn’t afraid to play the long game” and “plan years ahead”.\n\n“[Apple] probably has a much better idea of what the future holds than futurists - after all, it will be the one helping to shape the future,” he added.\n\nThis story was originally published on 02/11/2024.",
+        "metadata": {
+          "title": "Apple turns 50. How the tech giant started, almost failed, and is ‘shaping the future’ in long game | Euronews",
+          "description": "Apple celebrates its 50th anniversary on April 1. This is how the company's long game paid off.",
+          "keywords": "AI,Artificial intelligence,Apple,Technology,Tim Cook,Steve Jobs",
+          "article:author": "Pascale Davies",
+          "news_keywords": "AI,Artificial intelligence,Apple,Technology,Tim Cook,Steve Jobs",
+          "og:locale": "en-GB",
+          "og:url": "https://www.euronews.com/next/2026/04/01/apples-long-game-how-the-tech-company-started-almost-failed-and-is-shaping-the-future",
+          "og:site_name": "euronews",
+          "og:type": "article",
+          "og:title": "Apple turns 50: The long game from scrappy startup to tech titan",
+          "og:description": "Apple celebrates its 50th anniversary on April 1. This is how the company's long game paid off.",
+          "og:image": "https://images.euronews.com/articles/stories/08/82/78/26/1200x675_cmsv2_df6d0cf8-c300-5f64-8f72-5c144123a633-8827826.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "Apple turns 50. How the tech giant started, almost failed, and is ‘shaping the future’ in long game",
+          "og:locale:alternate": "el-GR",
+          "twitter:title": "Apple turns 50: The long game from scrappy startup to tech titan",
+          "twitter:description": "Apple celebrates its 50th anniversary on April 1. This is how the company's long game paid off.",
+          "fb:pages": "101402598109"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Historique d'Apple, fondée le 1er avril 1976 par Steve Jobs, Steve Wozniak et Ronald Wayne, depuis ses débuts dans un garage avec l'Apple I jusqu'à sa croissance, ses quasi-faillites, et ses produits emblématiques comme l'Apple II, le Macintosh, l'iMac et l'iPod.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Steve Jobs",
+          "Steve Wozniak",
+          "Ronald Wayne",
+          "John Sculley",
+          "Tim Danton"
+        ],
+        "LOCATION": [
+          "America",
+          "Britain"
+        ],
+        "ORGANIZATION": [
+          "Apple",
+          "Euronews.com",
+          "IBM",
+          "NeXT Computers",
+          "Microsoft",
+          "PC Pro"
+        ],
+        "DATE": [
+          "1er avril",
+          "1976",
+          "1977",
+          "1983",
+          "1984",
+          "mid-1990s",
+          "1997",
+          "46 million",
+          "1998",
+          "2001"
+        ],
+        "EVENT": [
+          "1984 Super Bowl"
+        ],
+        "OTHER": [
+          "Apple I",
+          "Apple II",
+          "Apple Lisa",
+          "Macintosh",
+          "Newton tablet",
+          "iMac",
+          "Mac OS X",
+          "iPod",
+          "The Computers That Made Britain"
+        ]
+      },
+      "score_e5": 0.721540221409239
+    },
+    {
+      "titre": "Apple fights in China court for right to sell iPads – The ...",
+      "source": "The Mercury News",
+      "lien": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/",
+      "image_url": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad2.jpg?w=400",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM4unijWyS_O-6Y02C_zunsuPjAuhdhriGE5DaIJ4vJbvo10GU",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Apple fights in China court for right to sell iPads – The ...",
+        "link": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/",
+        "source": "The Mercury News",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcShCpFiD1LtJve-rZrzwE3NcP6WOQ8Fxh611r1oPP-nJzmDwjSkEFJpSWR__aRf_LqxuLn_aPTZmiJ6eUGByd6kob4r7RpR-Tr_YgkxWGrl-WNXHRWAS5KA",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM4unijWyS_O-6Y02C_zunsuPjAuhdhriGE5DaIJ4vJbvo10GU",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad2.jpg?w=400",
+        "image_width": 266,
+        "image_height": 400
+      },
+      "webpage": {
+        "text": "Apple fights in China court for right to sell iPads – The Mercury News\n\nSHANGHAI — Apple (AAPL) defended its right to use the iPad trademark in China in a heated court hearing Wednesday that pitted the electronics giant against a struggling company that denies it sold the mainland China rights to the tablet’s name.\n\nShenzhen Proview Technology’s lawyer Xie Xianghui argued that the sale of the iPad trademark to Apple by Proview’s Taiwan affiliate in 2009 was invalid.\n\n“Apple has no right to sell iPads under that name,” Xie said. Apple countered that Proview violated the sales contract by failing to transfer the trademark rights in mainland China.\n\nIt also contends that the Chinese LCD maker has not marketed or sold its own “IPAD,” or Internet Personal Access Device for years, thus possibly invalidating its claim to the trademark.\n\nThe hearing adjourned after a fractious four-hour session that saw the judge repeatedly admonishing both sides to observe proper court protocol as they argued across the courtroom. No date was announced for a judgment or further hearings.\n\nProview is suing to stop Apple from selling the iPad in China under that name. It has also asked commercial authorities in many cities to stop sales of the device. So far, iPads have been pulled from shelves in some Chinese cities but there has been no sign of action at the national level.\n\nMa Dongxiao, another Proview lawyer, said after the hearing that the company plans to file lawsuits against Apple in more cities.\n\nAs evidence in court, Proview presented a flat, thin computer packed in a cardboard box that it said is its “IPAD.”\n\nThe company’s lawyers argued that the success of the iPad had prevented Proview’s product from succeeding in China. Apple’s side noted that the iPad only began selling in 2010, long after Proview launched its product in 2000.\n\nApple’s attorneys said that stopping iPad sales in China would cause the company huge losses. The tablet’s popularity has benefited China through tax revenues and jobs created in its manufacturing, they said.\n\n“They have no market, no sales, no customers. They have nothing,” Apple lawyer Qu Miao said of Proview. “The iPad is so popular that it is in short supply. We have to consider the public good.”\n\nThat, Xie said, is irrelevant.\n\n“Whether people will go hungry because you can’t sell iPads in China is not the issue,” he said. “The court must rule according to the law. Do you absolutely have to sell the product? Can’t you sell it using a different name?”\n\nThe trademark case is highlighting mixed attitudes toward Apple in China. Chinese are just as crazy about iPads and iPhones as consumers anywhere else and the devices are manufactured in China, employing hundreds of thousands of people.\n\nBut public awareness has been growing of criticism over the labor and environmental practices of huge factories that assemble the devices. Taiwan’s Foxconn Technology, which makes iPads in China, has been under intense scrutiny after a spate of worker suicides. It recently raised wages by up to 25 percent in the second major salary hike in less than two years.\n\nApple has appealed an earlier ruling in favor of Proview in a court in Shenzhen, a city in southern China’s Guangdong province. The Guangdong High Court is due to hear that case Feb. 29.\n\nXie on Tuesday said that since no final decisions have been reached in various legal disputes over the issue, both sides were “still able to sit together and reach an out-of-court settlement.” Apple has shown no indication of willingness to settle.\n\nApple insists it holds the trademark rights to the iPad in China, having purchased them from Proview for $55,000 through a company set up for that purpose.\n\nA court in Hong Kong, which has a separate legal system from mainland China, ruled in July that Proview had acted with the intention of “injuring Apple.” Proview’s lawyers argued Wednesday that any rulings in Hong Kong were not admissible in Chinese courts.",
+        "metadata": {
+          "title": "Apple fights in China court for right to sell iPads &#8211; The Mercury News",
+          "mrf:authors": "Associated Press",
+          "mrf:canonical": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/",
+          "fb:pages": "63095136336",
+          "og:type": "article",
+          "og:title": "Apple fights in China court for right to sell iPads",
+          "og:url": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/",
+          "og:description": "Apple fights in China court for right to sell iPads",
+          "article:published_time": "2012-02-22T08:48:24+00:00",
+          "article:modified_time": "2016-08-13T18:34:00+00:00",
+          "og:site_name": "The Mercury News",
+          "og:image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=400&h=267",
+          "og:image:width": "400",
+          "og:image:height": "267",
+          "og:locale": "en_US",
+          "twitter:text:title": "Apple fights in China court for right to sell iPads"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Apple fights in China court for right to sell iPads",
+          "url": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/"
+          },
+          "thumbnailUrl": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120222__0223ipad1.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "News",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Associated Press",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.mercurynews.com/author/associated-press/"
+            }
+          ],
+          "creator": [
+            "Associated Press"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "The Mercury News",
+            "logo": "?w=600"
+          },
+          "keywords": [
+            "news"
+          ],
+          "dateCreated": "2012-02-22T08:48:24Z",
+          "datePublished": "2012-02-22T08:48:24Z",
+          "dateModified": "2016-08-13T18:34:00Z",
+          "isBasedOn": "https://www.mercurynews.com/2012/02/22/apple-fights-in-china-court-for-right-to-sell-ipads/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Apple se défend dans un tribunal en Chine pour son droit d'utiliser la marque 'iPad' face à la société Shenzhen Proview Technology, qui conteste la valadité de la vente des droits de la marque en Chine continentale.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Xie Xianghui",
+          "Ma Dongxiao",
+          "Qu Miao"
+        ],
+        "LOCATION": [
+          "Shanghai",
+          "China",
+          "Taiwan"
+        ],
+        "ORGANIZATION": [
+          "Apple",
+          "The Mercury News",
+          "Shenzhen Proview Technology",
+          "Foxconn Technology"
+        ],
+        "DATE": [
+          "mercredi",
+          "2009",
+          "2010",
+          "2000"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPad",
+          "IPAD",
+          "Internet Personal Access Device",
+          "iPhone"
+        ]
+      },
+      "score_e5": 0.7651024698648716
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Apple",
+      "Guardian"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "iPad",
+      "iPad 3"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Jakob Nielsen",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Apple",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nielsen/Norman Group",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8 mars 2012",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "mercredi",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2001",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPad",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPhone",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "A5X",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Siri",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPhoto",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Garageband",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iMovie",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iOS 5.1",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iCloud",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Kindle",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australie",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Melbourne",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sydney",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Firstpost",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Australian Competition and Consumer Commission",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ACCC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Telstra Corp",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "jeudi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "mars",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "16 mars",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Wi-Fi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "4G",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LTE",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "WiMAX",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cupertino",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Californie",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Taiwan",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Radarr Africa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bloomberg News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ennostar Inc.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "General Interface Solution Holding Ltd.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taiwan Surface Mounting Technology Corp.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "deuxième moitié d'avril",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "avril",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPad Pro",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "MiniLED",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "M1",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "USB-C",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steve Jobs",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steve Wozniak",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ronald Wayne",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Sculley",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tim Danton",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "America",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Euronews.com",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IBM",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NeXT Computers",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Microsoft",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PC Pro",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1er avril",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1976",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1977",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1983",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1984",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "mid-1990s",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1997",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "46 million",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1998",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "1984 Super Bowl",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Apple I",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Apple II",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Apple Lisa",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Macintosh",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Newton tablet",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iMac",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Mac OS X",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPod",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The Computers That Made Britain",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Xie Xianghui",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ma Dongxiao",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Qu Miao",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shanghai",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Mercury News",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shenzhen Proview Technology",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Foxconn Technology",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2009",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2000",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IPAD",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Internet Personal Access Device",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T11:24:40.013239"
+  }
+}

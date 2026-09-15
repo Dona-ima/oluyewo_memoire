@@ -1,0 +1,1251 @@
+{
+  "id_rumeur": 1499015,
+  "id_image": 1499015,
+  "caption": "Afghan soldiers are facing the Taliban largely on their own",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747220/oluyewo_benchmark/pma5olczsnldnsqg8v2z.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "3 Afghan army soldiers martyred following IED attack ...",
+      "source": "Khaama Press",
+      "lien": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/",
+      "image_url": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwNk638zXAqz0yej3NjKFe8UrapRhm1f0JI-6XLRfq1cXXa51s",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "3 Afghan army soldiers martyred following IED attack ...",
+        "link": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/",
+        "source": "Khaama Press",
+        "source_icon": "https://serpapi.com/searches/6a8edb952c2bb43e7914b45d/images/fCqIK4G27ma0eAGCM3id9AvdXbvHMRaWbcMZZGkTiVU.jpeg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwNk638zXAqz0yej3NjKFe8UrapRhm1f0JI-6XLRfq1cXXa51s",
+        "thumbnail_width": 184,
+        "thumbnail_height": 274,
+        "image": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+        "image_width": 429,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "3 Afghan army soldiers martyred following IED attack\n\nAt least three Afghan National Army (ANA) soldiers were martyred following roadside bomb explosion, defense officials said Thursday.\n\nNo further details were given regarding the exact location where the incident took place.\n\nGen. Zahir Azimi, spokesman for the Ministry of Defense (MoD) confirmed that the three Afghan National Army (ANA) soldiers were martyred following Improvised Explosive Device (IED) explosion.\n\nThe anti-government armed militant groups have not commented regarding the incident so far.\n\nTaliban militants and other insurent grouops frequently use Improvised Explosive Device (IED) as the weapon of their choice to target Afghan and coalition security forces.\n\nAccording to security officials, the Afghan army deaths stands at 4 service members daily on average which is mainly caused due to improvised explosive device (IED) attacks.\n\nImprovised explosive device (IED) attacks are also the major contributor to civilian casualties in Afghanistan, as civilians are mostly targeted in roadside bombings.",
+        "metadata": {
+          "title": "3 Afghan army soldiers martyred following IED attack - Khaama Press",
+          "description": "At least three Afghan National Army (ANA) soldiers were martyred following roadside bomb explosion, defense officials said Thursday. No further details",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "3 Afghan army soldiers martyred following IED attack - Khaama Press",
+          "og:description": "At least three Afghan National Army (ANA) soldiers were martyred following roadside bomb explosion, defense officials said Thursday. No further details",
+          "og:url": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/",
+          "og:site_name": "Khaama Press",
+          "article:publisher": "https://www.facebook.com/khaamapressGlobal",
+          "article:author": "https://www.facebook.com/khaamapress",
+          "article:published_time": "2014-12-04T05:52:16+00:00",
+          "article:modified_time": "2014-12-04T05:59:55+00:00",
+          "og:image": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+          "og:image:width": "640",
+          "og:image:height": "429",
+          "og:image:type": "image/jpeg",
+          "author": "Khaama Press"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#article",
+              "isPartOf": {
+                "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/"
+              },
+              "author": {
+                "name": "Khaama Press",
+                "@id": "https://www.khaama.com/#/schema/person/e29b01bd4864c37513a91e8e3e81c2d5"
+              },
+              "headline": "3 Afghan army soldiers martyred following IED attack",
+              "datePublished": "2014-12-04T05:52:16+00:00",
+              "dateModified": "2014-12-04T05:59:55+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/"
+              },
+              "wordCount": 153,
+              "commentCount": 0,
+              "publisher": {
+                "@id": "https://www.khaama.com/#organization"
+              },
+              "image": {
+                "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+              "keywords": [
+                "3 Afghan army soldiers killed",
+                "3 Afghan soldiers killed",
+                "3 Afghan troops killed",
+                "Afghan army casualties",
+                "Ministry of Defense Afghanistan"
+              ],
+              "articleSection": [
+                "Afghanistan"
+              ],
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/",
+              "url": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/",
+              "name": "3 Afghan army soldiers martyred following IED attack - Khaama Press",
+              "isPartOf": {
+                "@id": "https://www.khaama.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+              "datePublished": "2014-12-04T05:52:16+00:00",
+              "dateModified": "2014-12-04T05:59:55+00:00",
+              "description": "At least three Afghan National Army (ANA) soldiers were martyred following roadside bomb explosion, defense officials said Thursday. No further details",
+              "breadcrumb": {
+                "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#primaryimage",
+              "url": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+              "contentUrl": "https://www.khaama.com/wp-content/uploads/2014/12/afghan-soldiers.jpg",
+              "width": 640,
+              "height": 429
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.khaama.com/3-afghan-army-soldiers-martyred-following-ied-attack-9096/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.khaama.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "3 Afghan army soldiers martyred following IED attack"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.khaama.com/#website",
+              "url": "https://www.khaama.com/",
+              "name": "Khaama Press",
+              "description": "Independent. Reliable. Afghan News, Worldwide",
+              "publisher": {
+                "@id": "https://www.khaama.com/#organization"
+              },
+              "alternateName": "KP",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.khaama.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.khaama.com/#organization",
+              "name": "The Khaama Press News Agency",
+              "alternateName": "KP",
+              "url": "https://www.khaama.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.khaama.com/#/schema/logo/image/",
+                "url": "http://www.khaama.com/wp-content/uploads/2022/11/Khaama-Press-Logo.png",
+                "contentUrl": "http://www.khaama.com/wp-content/uploads/2022/11/Khaama-Press-Logo.png",
+                "width": 544,
+                "height": 124,
+                "caption": "The Khaama Press News Agency"
+              },
+              "image": {
+                "@id": "https://www.khaama.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/khaamapressGlobal",
+                "https://x.com/khaama"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.khaama.com/#/schema/person/e29b01bd4864c37513a91e8e3e81c2d5",
+              "name": "Khaama Press",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://secure.gravatar.com/avatar/ef70bfae3c6fe1f12f9dd8a399781e5155cfc9e2a4330e3fb597955ecb8c7b2f?s=96&r=g",
+                "url": "https://secure.gravatar.com/avatar/ef70bfae3c6fe1f12f9dd8a399781e5155cfc9e2a4330e3fb597955ecb8c7b2f?s=96&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/ef70bfae3c6fe1f12f9dd8a399781e5155cfc9e2a4330e3fb597955ecb8c7b2f?s=96&r=g",
+                "caption": "Khaama Press"
+              },
+              "description": "Khaama Press is a Kabul-based independent and non-political news organization established in 2010.",
+              "sameAs": [
+                "http://www.khaama.com",
+                "https://www.facebook.com/khaamapress",
+                "https://www.linkedin.com/company/khaama",
+                "https://x.com/khaama",
+                "https://www.youtube.com/user/khaamapress",
+                "https://en.wikipedia.org/wiki/Khaama_Press"
+              ],
+              "url": "https://www.khaama.com/author/admin/"
+            }
+          ]
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Trois soldats de l'Armée nationale afghane (ANA) ont été tués lors de l'explosion d'une bombe artisanale (IED). Le général Zahir Azimi, porte-parole du ministère de la Défense, a confirmé l'incident. Les groupes militants armés anti-gouvernementaux, notamment les talibans, utilisent fréquemment des engins explosifs improvisés pour cibler les forces de sécurité afghanes et de la coalition, ce qui constitue également la principale cause de victimes civiles en Afghanistan.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Zahir Azimi"
+        ],
+        "LOCATION": [
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "Khaama Press",
+          "Afghan National Army",
+          "Ministry of Defense",
+          "Taliban"
+        ],
+        "DATE": [
+          "Thursday"
+        ],
+        "EVENT": [
+          "IED attack"
+        ],
+        "OTHER": [
+          "IED"
+        ]
+      },
+      "score_e5": 0.7726648485067367
+    },
+    {
+      "titre": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد - BBC News عربي",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/arabic/worldnews/2014/09/140929_afghanistan_ghani_challenges",
+      "image_url": "http://a.files.bbci.co.uk/worldservice/live/assets/images/2014/09/29/140929163913_afghanistan_ghani_512x288_getty_nocredit.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnpV8QiMxBxo5Soqf_YSC91pgiSVwUOjZgnWb6LMQUTLnqBj2i",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد - BBC News عربي",
+        "link": "https://www.bbc.com/arabic/worldnews/2014/09/140929_afghanistan_ghani_challenges",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnpV8QiMxBxo5Soqf_YSC91pgiSVwUOjZgnWb6LMQUTLnqBj2i",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://a.files.bbci.co.uk/worldservice/live/assets/images/2014/09/29/140929163913_afghanistan_ghani_512x288_getty_nocredit.jpg",
+        "image_width": 288,
+        "image_height": 512
+      },
+      "webpage": {
+        "text": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد\n\nPublished 29 سبتمبر/ أيلول 2014\n\nلن يرغب الرئيس الأفغاني الجديد، أشرف غني، في مباشرة مهام منصبه بعد أداء القسم رئيسا للبلد أخيرا في أعقاب جولة طويلة من النزاع.\n\nيأتي تنصيب الرئيس الأفغاني الجديد بعد أشهر من صراع شابه الغموض، لاسيما بعد اتهامات بتزوير الانتخابات أدت إلى إعادة فرز الأصوات بالكامل، وانتهت بإبرام اتفاق بوساطة أمريكية، أسفر عن تشكيل حكومة وحدة وطنية.\n\nفما هي أبرز خمس تحديات تواجه الرئيس الجديد؟\n\n\nالحفاظ على الوحدة\n\n\nعلى الرغم من أن أشرف غني ومنافسه عبد الله عبد الله أعلنا مساندتهما لاتفاق الوحدة بوساطة أمريكية، فإن بعض الحلفاء الرئيسيين لعبد الله أوضحوا جليا أن لديهم تحفظات على الاتفاق، حيث يعتقدون أن فوز غني في الانتخابات جاء بالتزوير.\n\nلذا فعلى رأس أولويات الرئيس الجديد يأتي الحفاظ على وحدة هذه الحكومة الجديدة وتحويلها إلى كيان قوي.\n\nكما يتعين إصلاح نظام الانتخابات بسرعة، فضلا عن إجراء انتخابات برلمانية العام المقبل. وليست هذه بالمهمة السهلة، فالكثير من الأفغان يساورهم القلق بشأن اتفاق الوحدة الهش الذي قد لا يدوم طويلا.\n\n\nحث الأفغان على العمل\n\n\nتركت ستة أشهر من الغموض بشأن نتيجة الانتخابات أثرا مدمرا على الاقتصاد الضعيف بالفعل في البلاد، والذي يعتمد بقدر كبير على المساعدات الأجنبية.\n\nفمما لا شك فيه أن غني وما يتمتع به من خبرة سابقة كخبير اقتصادي لدى البنك الدولي، حيث تعامل مع مشاكل دول فاشلة، تؤهله لمهمة إنعاش اقتصاد البلاد. غير أن العقبة الكبرى التي تواجهه هي الفساد المستشري في أفغانستان.\n\nتخطى الأكثر قراءة وواصل القراءة\n\nالأكثر قراءة\n\nالأكثر قراءة نهاية\n\nوعلى الرغم من أن غني قال إنه لن يتسامح مع الفساد، فأي نجاح يحققه سيعتمد على ما إذا كان بمقدوره تحقيق إصلاح جاد أم لا، بعد أن أخفق سلفه حامد كرزاي في التعامل مع هذه القضية.\n\n\nتحقيق الأمن\n\n\nيتولى أشرف غني مهام منصبه في وقت حساس قبيل الانسحاب المقرر للقوات الدولية المقاتلة بحلول نهاية عام 2014.\n\nفاعتبارا من العام المقبل، ستتولى القوات الأفغانية، المؤلفة من نحو 350 ألف جندي ليسوا مجهزين جيدا، مهمة الحرب ضد حركة طالبان، بعد أن كانت تتصدى لها قوات حلف شمال الأطلسي (ناتو) المؤلفة من 150 ألف جندي والمدعومة بمعدات عسكرية حديثة.\n\nوفي الوقت الذي اختلف الساسة بشأن نتائج الانتخابات، حققت طالبان مكاسب كبيرة في بعض المناطق. وكان غني يرأس لجنة معنية بمراقبة انتقال مسؤولية الأمن، لذا فهو على دراية جيدة بالجيش الأفغاني.\n\nكما يعرف أن الجيش سيعتمد على المساعدات العسكرية الأمريكية خلال السنوات المقبلة. وقال غني، على النقيض من سلفه، إنه سيوقع على اتفاقية الأمن الثنائية التي طال انتظارها مع واشنطن والتي تضمن بقاء بضعة الآف من القوات الأجنبية في البلاد.\n\n\nمحادثات أم لا؟\n\n\nقال أشرف غني إن الصراع في بلده سيجري تسويته بالوسائل السلمية، لكنه ورث عملية محادثات مع طالبان.\n\nويساور الكثير من الأفغان الشك في تحقيق مستقبل أفضل في ظل رئاسة غني. فطالبان تنعت كلا من أشرف غني وعبد الله عبد الله بأنهما \"دمى أمريكية\"، وهو نفس المصطلح الذي استخدموه لوصف حامد كرزاي. كما تشير تطورات الأوضاع في ميدان المعركة إلى أن طالبان مازالت منصرفة بالكامل نحو الحرب.\n\n\nوماذا عن دور زوجته؟\n\n\nيواجه أشرف غني خيارا صعبا عندما يتعلق الأمر بدوره في المستقبل ودور زوجته رولا، فهي أمريكية من أصول لبنانية والتقى الاثنان في سبعينيات القرن الماضي أثناء دراستهما في الجامعة الأمريكية في بيروت.\n\nودوما ما يخبو دور السيدة الأولى في أفغانستان. لكن هذه المرة يبدو أن الوضع مختلف.\n\nفقد ظهرت رولا غني علنا للمرة الاولى في مطلع العام الجاري متحدثة خلال إحدى الاجتماعات الخاصة بحملة زوجها الانتخابية. وكان ظهورها يتسم بالإيجابية، وتعتقد بعض الناشطات الأفغانيات في إمكانية أن يكون للسيدة الأولى الجديدة دور فعال له تأثير إيجابي على حياة النساء.\n\nلكن من غير الواضح حجم هذا الدور البارز الذي قد تلعبه في مجتمع ذكوري يتسم بالتحفظ الشديد، وكذلك ما إذا كان زوجها سيريد منها أن تحاول وتخوض التجربة.",
+        "metadata": {
+          "apple-mobile-web-app-title": "BBC News عربي",
+          "description": "الرئيس الأفغاني الجديد أشرف غني يتولى مهامه رئيسا لأفغانستان في ظل تحديات جسام تواجه مستقبله، فما هي التحديات الخمس الكبرى التي يتعين على الرئيس الجديد أن يتعامل معها؟",
+          "fb:app_id": "1609039196070050",
+          "og:description": "الرئيس الأفغاني الجديد أشرف غني يتولى مهامه رئيسا لأفغانستان في ظل تحديات جسام تواجه مستقبله، فما هي التحديات الخمس الكبرى التي يتعين على الرئيس الجديد أن يتعامل معها؟",
+          "og:image": "https://ichef.bbci.co.uk/news/1200/branded_arabic/worldservice/live/assets/images/2014/09/29/140929163227_afghanistan_ghani_112x63_reuters_nocredit.jpg",
+          "og:image:alt": "BBC News عربي",
+          "og:locale": "ar",
+          "og:site_name": "BBC News عربي",
+          "og:title": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد - BBC News عربي",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/arabic/worldnews/2014/09/140929_afghanistan_ghani_challenges",
+          "twitter:description": "الرئيس الأفغاني الجديد أشرف غني يتولى مهامه رئيسا لأفغانستان في ظل تحديات جسام تواجه مستقبله، فما هي التحديات الخمس الكبرى التي يتعين على الرئيس الجديد أن يتعامل معها؟",
+          "twitter:title": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد - BBC News عربي",
+          "article:author": "https://www.facebook.com/bbcnews"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "url": "https://www.bbc.com/arabic/worldnews/2014/09/140929_afghanistan_ghani_challenges",
+              "publisher": {
+                "@type": "NewsMediaOrganization",
+                "name": "BBC News عربي",
+                "publishingPrinciples": "https://www.bbc.com/arabic/institutional-49283069",
+                "logo": {
+                  "@type": "ImageObject",
+                  "width": 1024,
+                  "height": 576,
+                  "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/metadata/poster-1024x576.png"
+                }
+              },
+              "thumbnailUrl": "https://ichef.bbci.co.uk/news/1024/branded_arabic/worldservice/live/assets/images/2014/09/29/140929163227_afghanistan_ghani_112x63_reuters_nocredit.jpg",
+              "image": {
+                "@type": "ImageObject",
+                "width": 1024,
+                "height": 576,
+                "url": "https://ichef.bbci.co.uk/news/1024/branded_arabic/worldservice/live/assets/images/2014/09/29/140929163227_afghanistan_ghani_112x63_reuters_nocredit.jpg"
+              },
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.bbc.com/arabic/worldnews/2014/09/140929_afghanistan_ghani_challenges",
+                "name": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد"
+              },
+              "headline": "أبرز 5 تحديات تواجه رئيس أفغانستان الجديد",
+              "description": "الرئيس الأفغاني الجديد أشرف غني يتولى مهامه رئيسا لأفغانستان في ظل تحديات جسام تواجه مستقبله، فما هي التحديات الخمس الكبرى التي يتعين على الرئيس الجديد أن يتعامل معها؟",
+              "datePublished": "2014-09-29T18:55:04.000Z",
+              "dateModified": "2014-09-29T18:55:04.000Z",
+              "inLanguage": {
+                "@type": "Language",
+                "name": "Arabic",
+                "alternateName": "ar"
+              },
+              "author": {
+                "@type": "NewsMediaOrganization",
+                "name": "BBC News عربي",
+                "logo": {
+                  "@type": "ImageObject",
+                  "width": 1024,
+                  "height": 576,
+                  "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/metadata/poster-1024x576.png"
+                },
+                "noBylinesPolicy": "https://www.bbc.com/arabic/institutional-49283069#authorexpertise"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les cinq principaux défis auxquels fait face le nouveau président de l'Afghanistan, Ashraf Ghani, après son investiture consécutive à une élection marquée par des accusations de fraude et un accord de gouvernement d'unité nationale négocié avec l'aide des États-Unis. Le président doit maintenir l'unité gouvernementale, relancer l'économie affaiblie par six mois d'incertitude et dépendante de l'aide étrangère, lutter contre la corruption endémique, assurer la sécurité avant le retrait des forces internationales fin 2014 en s'appuyant sur l'armée afghane et les forces de l'OTAN, et gérer les pourparlers avec les talibans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ashraf Ghani",
+          "Abdullah Abdullah",
+          "Hamid Karzai",
+          "Rula Ghani"
+        ],
+        "LOCATION": [
+          "Afghanistan",
+          "United States",
+          "Beirut"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "World Bank",
+          "NATO",
+          "Taliban",
+          "American University of Beirut"
+        ],
+        "DATE": [
+          "29 septembre 2014",
+          "2014",
+          "سبتمبر/ أيلول 2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7499336932924916
+    },
+    {
+      "titre": "Yemen army pushing into south al-Qaida stronghold – San ...",
+      "source": "San Diego Union-Tribune",
+      "lien": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/",
+      "image_url": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=640",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThHjtrCn_ap6dcJ0ft9yMIk6P--iKVE138NTE2vfS5M4pnA3OF",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Yemen army pushing into south al-Qaida stronghold – San ...",
+        "link": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/",
+        "source": "San Diego Union-Tribune",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRiUUQw39WIEjjdqlDEFibt0Yi1heGkIJZEMQHLbRS1Wa04m1p9xqKkqN3ZVvSLBl-rDuHWMmWM-mPAz_hco24VlY44ZYpd6lrOOPYIAFpz_Djqv4PyNylYBvD0p7ty9DzJ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThHjtrCn_ap6dcJ0ft9yMIk6P--iKVE138NTE2vfS5M4pnA3OF",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=640",
+        "image_width": 333,
+        "image_height": 512
+      },
+      "webpage": {
+        "text": "Yemen army pushing into south al-Qaida stronghold – San Diego Union-Tribune\n\nSANAA, Yemen —  Yemeni troops battling al-Qaida fighters in the country’s south have forced them to retreat but military officials said Thursday the push in a major southern city is going slowly because of concerns the militants could stage a surprise counterattack.\n\nThe military, backed by heavy artillery and warplanes, is advancing inside the city of Zinjibar, the provincial capital of Abyan, the officials said. The city fell into al-Qaida’s hands during last year’s popular uprising against the now ousted leader Ali Abdullah Saleh.\n\nZinjibar’s capture would deal a heavy blow to al-Qaida as it would leave the terror group’s fighters scattered in smaller towns and mountain areas of the south.\n\nThe push in Zinjibar is part of Yemen’s offensive along several fronts to uproot al-Qaida from its southern strongholds at a time when the U.S. has thrown its support behind the new Yemeni president and Saleh’s successor, Abed Rabbo Mansour Hadi.\n\nHadi has vowed to combat al-Qaida by restructuring the military and replacing Saleh’s loyalists from key posts, though there are concerns that Saleh, who stepped down in February, is still obstructing reforms and trying to retain influence through his cronies.\n\nThe latest offensive began Tuesday, with the military using warplanes and heavy artillery to clear the way for an assault by ground troops on towns where al-Qaida fighters are either operating or in control.\n\nYemen’s army is receiving direct help from U.S. troops, who are operating from a desert air base near the main battle zones to help coordinate assaults and airstrikes, according to Yemeni officials.\n\nThe officials said it was the most direct American involvement yet in the country’s expanding campaign against al-Qaida’s branch in Yemen, which has been blamed for directing a string of unsuccessful bomb plots on U.S. soil from its hideouts in the impoverished country at the tip of the Arabian Peninsula.\n\nOn Wednesday, President Barack Obama signed an executive order allowing the Treasury Department to freeze the U.S.-based assets of individuals who the White House says “threaten the peace, security and stability” of Yemen. The order was meant as a deterrent against future action and does not immediately levy any penalties against specific people or organizations.\n\nOn Thursday, Yemeni officials said the military intelligence in Zinjibar was poor and that army commanders were unsure whether most of the al-Qaida fighters there have been killed, simply fled the battle or retreated for tactical reasons and were preparing a counteroffensive.\n\nTo the east of Zinjibar, Yemeni military officials said a suspected U.S. drone-fired missile struck two moving vehicles in the city of Shibam in the southern Hadramawt province. The officials said the strike destroyed one of the vehicles, killed its three occupants who were believed to be linked to al-Qaida, and wounded two in the second car.\n\nAlso in the south, bodies of 11 Yemeni army soldiers and civilian volunteers fighting alongside the military were found after al-Qaida retreated from the area near the city of Lawder, officials said. The victims were believed to have been killed execution-style, they said.\n\n“Most of the areas surrounding Lawder are clear of al-Qaida now,” one military official said.\n\nAll the officials spoke on condition of anonymity because they were not authorized to talk to the media.",
+        "metadata": {
+          "title": "Yemen army pushing into south al-Qaida stronghold &#8211; San Diego Union-Tribune",
+          "mrf:authors": "San Diego Union-Tribune",
+          "mrf:canonical": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/",
+          "og:type": "article",
+          "og:title": "Yemen army pushing into south al-Qaida stronghold",
+          "og:url": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/",
+          "og:description": "SANAA, Yemen —  Yemeni troops battling al-Qaida fighters in the country’s south have forced them to retreat but military officials said Thursday the push in a major southern city is going slowly because of concerns the…",
+          "article:published_time": "2012-05-17T06:19:50+00:00",
+          "article:modified_time": "2016-09-03T21:32:45+00:00",
+          "og:site_name": "San Diego Union-Tribune",
+          "og:image": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1200&h=785",
+          "og:image:width": "1200",
+          "og:image:height": "785",
+          "og:locale": "en_US",
+          "twitter:text:title": "Yemen army pushing into south al-Qaida stronghold"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Yemen army pushing into south al-Qaida stronghold",
+          "url": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/"
+          },
+          "thumbnailUrl": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/05/17/00000169-0ced-dbbe-a16f-4eed99490000.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "News",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "San Diego Union-Tribune",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.sandiegouniontribune.com/author/san-diego-union-tribune/"
+            }
+          ],
+          "creator": [
+            "San Diego Union-Tribune"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "San Diego Union-Tribune",
+            "logo": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/06/Skyline_Fallback_Image_flat.jpg?w=600"
+          },
+          "keywords": [
+            "news"
+          ],
+          "dateCreated": "2012-05-17T06:19:50Z",
+          "datePublished": "2012-05-17T06:19:50Z",
+          "dateModified": "2016-09-03T21:32:45Z",
+          "isBasedOn": "https://www.sandiegouniontribune.com/2012/05/17/yemen-army-pushing-into-south-al-qaida-stronghold/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les troupes yéménites, soutenues par l'artillerie lourde et des avions de chasse, avancent lentement dans la ville de Zinjibar (capitale provinciale d'Abyan) pour déloger les combattants d'Al-Qaïda lors d'une offensive plus large. Le président Abed Rabbo Mansour Hadi combat Al-Qaïda en restructurant l'armée après l'éviction d'Ali Abdullah Saleh. Les forces armées bénéficient également d'une aide directe des troupes américaines opérant depuis une base aérienne dans le désert, et un missile tiré par un drone américain présumé a touché des véhicules dans la ville de Shibam (province de Hadramawt). Le président américain Barack Obama a signé un décret autorisant le gel des avoirs aux États-Unis des personnes menaçant la paix et la stabilité du Yémen.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ali Abdullah Saleh",
+          "Abed Rabbo Mansour Hadi",
+          "Barack Obama"
+        ],
+        "LOCATION": [
+          "Yemen",
+          "Sanaaa",
+          "Zinjibar",
+          "Abyan",
+          "Arabian Peninsula",
+          "Shibam",
+          "Hadramawt",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "San Diego Union-Tribune",
+          "al-Qaida",
+          "Treasury Department",
+          "White House"
+        ],
+        "DATE": [
+          "2012",
+          "Thursday",
+          "last year",
+          "February",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "EVENT": [
+          "popular uprising"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7401003840098587
+    },
+    {
+      "titre": "Taliban attacks on the rise in Afghanistan as U.S. continues ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=u1Hc1mMjMLM",
+      "image_url": "https://i.ytimg.com/vi/u1Hc1mMjMLM/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbptSfxPhs2_8S8o7GOfFjbVpRMTPUOZ7pxsreFVI8o8cISn80",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Taliban attacks on the rise in Afghanistan as U.S. continues ...",
+        "link": "https://www.youtube.com/watch?v=u1Hc1mMjMLM",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbptSfxPhs2_8S8o7GOfFjbVpRMTPUOZ7pxsreFVI8o8cISn80",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/u1Hc1mMjMLM/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Taliban attacks on the rise in Afghanistan as U.S. continues troop withdrawal\n\nCBS Mornings\n\nThe U.S. military is deploying additional warplanes to Afghanistan to help protect American troops as they carry out their withdrawal from the region. The mo...",
+        "metadata": {
+          "title": "Taliban attacks on the rise in Afghanistan as U.S. continues troop withdrawal",
+          "description": "The U.S. military is deploying additional warplanes to Afghanistan to help protect American troops as they carry out their withdrawal from the region. The mo...",
+          "keywords": "taliban, attack, afghanistan, withdrawal, troop withdrawal, future, warplanes, deploy, cbs this morning, ctm, cbs morning news, cbs morning show, gayle king",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=u1Hc1mMjMLM",
+          "og:title": "Taliban attacks on the rise in Afghanistan as U.S. continues troop withdrawal",
+          "og:image": "https://i.ytimg.com/vi/u1Hc1mMjMLM/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "The U.S. military is deploying additional warplanes to Afghanistan to help protect American troops as they carry out their withdrawal from the region. The mo...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=u1Hc1mMjMLM&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=u1Hc1mMjMLM&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=u1Hc1mMjMLM&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/u1Hc1mMjMLM",
+          "og:video:secure_url": "https://www.youtube.com/embed/u1Hc1mMjMLM",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "gayle king",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Taliban attacks on the rise in Afghanistan as U.S. continues troop withdrawal",
+          "twitter:description": "The U.S. military is deploying additional warplanes to Afghanistan to help protect American troops as they carry out their withdrawal from the region. The mo..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'armée américaine déploie des avions de combat supplémentaires en Afghanistan afin de protéger ses troupes pendant leur retrait de la région, alors que les attaques des talibans sont en augmentation.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "CBS Mornings",
+          "U.S. military",
+          "Taliban"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7675652194560448
+    },
+    {
+      "titre": "Afghan general pegs 2013 as date country's army can take ...",
+      "source": "The Globe and Mail",
+      "lien": "https://www.theglobeandmail.com/news/world/afghan-general-pegs-2013-as-date-countrys-army-can-take-over/article4287745/",
+      "image_url": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=300&height=300&quality=80&smart=true",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubKeb5w32OLdK88k0oADvcr6CKC1BSOStSo72pJ7gnOl4M1ZR",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Afghan general pegs 2013 as date country's army can take ...",
+        "link": "https://www.theglobeandmail.com/news/world/afghan-general-pegs-2013-as-date-countrys-army-can-take-over/article4287745/",
+        "source": "The Globe and Mail",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRXCZcbMwY1UT_-3WRb4xxszmbv85CacSXT8w3RDI11MKO8ssfFKZeF2P0n0Pyg8MFXOIObk5qQsKRyyBmvShS_ldhaiK52gUUpA-lhigEiv34pIFaSb8h1KwzT5A",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubKeb5w32OLdK88k0oADvcr6CKC1BSOStSo72pJ7gnOl4M1ZR",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=300&height=300&quality=80&smart=true",
+        "image_width": 300,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "Afghan general pegs 2013 as date country's army can take over\n\nThe Afghan National Army will be ready to fight the Taliban without the direct help of international forces by 2013, says General Mohammad Zahir Azimi, the chief spokesman for the Afghan military.\n\n\"Within the next four years we will take the complete responsibility of the security from the international community, and the international forces will stay on their bases to support ANA forces,\" Gen. Azimi told The Globe and Mail during an interview in the heavily fortified compound of the Ministry of Defence.\n\n\"Maybe it will go one year forward or one year backward. But the aim of the Afghans and the international community is to accelerate this process.\"\n\nThe General's assessment comes as Canada and other NATO countries weigh the time, expense and lives they have given to the mission. Canada is scheduled to end combat operations in Afghanistan in 2011.\n\nIt also preceded the deadliest attack on coalition forces in more than a year. Eight U.S. troops and two Afghan soldiers were killed in Nuristan province on the border with Pakistan on Saturday when 300 insurgents attacked an outpost at the base of a mountain and then a U.S. base higher up. The Taliban claimed responsibility for the attack, which was launched from a mosque in a nearby village.\n\nThose running the International Security Assistance Force in Afghanistan agree with Gen. Azimi that, with adequate assistance from foreign armies, the day when the ANA can fight its own fight against the insurgency is in sight. It is not unrealistic to assume that the Afghan army could be operating independently in the field within four years, said Canadian Brigadier-General Eric Tremblay, ISAF's chief spokesman in Afghanistan.\n\nEven now, the Afghan army, together with the Afghan National Police, is in charge of security in Kabul. About half the troops in the Afghan army have the skills to plan and execute operations without help from foreign forces, Gen. Tremblay said, and more ANA soldiers become fully competent every month.\n\nU.S. General Stanley McChrystal, the head of NATO forces in Afghanistan, wants to increase the size of the ANA from its current strength of about 96,000 troops to 124,000 by next year, and then double that number by 2013. At that point, the number of fully trained Afghan soldiers would roughly equal the existing international contingent.\n\nDuring a speech in London last week, Gen. McChrystal argued that increasing the number of ISAF soldiers in the short term will \"buy time\" until the ANA can take full responsibility for national security in 2013.\n\nAfghan officials do not believe they will have any trouble filling the uniforms. There are plenty of young men in Afghanistan looking for work, and the $70 a month they receive as soldiers is better than the wages of even district council leaders.\n\nAmong Afghans, the ANA is one of the most respected public organizations in the country, far outranking the police, foreign troops or the national government. Still, the speed with which the Afghan army becomes independent will depend on ensuring that attrition does not eat into the gains, said Gen. Tremblay.\n\nIn a recent report to the U.S. government, Gen, McChrystal called for a change in strategy to focus on protecting Afghan citizens rather than seeking out the Taliban, much as the Canadian military is doing on a pilot basis in the Dand district southwest of Kandahar.\n\n\"If there's game-changers in Afghanistan - and we're slowly proving that the strategy that Gen. McChrystal is putting forward is making gains and slowly the insurgents are being pushed back and separated from the Afghan national population - that is going to help the Afghan national forces to hold and to participate and to build at the local level,\" Gen. Tremblay said.\n\nOttawa has said Canadian troops may remain in Afghanistan after 2011 to help with development and social programs. But the end of combat operations is scheduled to come two years before the ANA, according to Gen. Azimi's calculations, is able to operate independently.\n\n\"You could make the case\" that Canada is ending its combat role in Afghanistan two years too early, said Gen. Tremblay. \"It's really up to Canada to decide it. And so far we're out of here.\"\n\nThe deteriorating security situation and the corruption that is endemic at all levels of the Afghan government - and that is delaying the results of August's presidential election - have soured many Canadians on the mission.\n\nBut Gen. Azimi said Canadians must realize that the international forces have been a positive presence in his country.\n\nIf the people of Afghanistan trust the ANA, it is because Canadian and other international troops helped the army learn how to do its job, Gen. Azimi told The Globe.\n\n\"As I speak with you, seven million boys and girls are going to school. When women's rights were violated, you can see that the media immediately broadcast that,\" he said.\n\n\"We have a free press. We have 20 local TV channels in Afghanistan. Four million people are using cell phones. Four million people have been repatriated. There are hundreds of schools, clinics, and hospitals in Afghanistan.\"\n\nCanadians \"are sending their sons and their daughters here. They are spending money in Afghanistan. Their sons and daughters are being killed in Afghanistan. They should realize why they are spending money and why their sons and daughters are giving their lives.\"",
+        "metadata": {
+          "title": "Afghan general pegs 2013 as date country&#x27;s army can take over - The Globe and Mail",
+          "description": "'You could make the case' that Canada is ending its combat role in Afghanistan two years too early, coalition spokesman says",
+          "keywords": "Afghanistan, military, security, NATO, Canadian Forces",
+          "article:content_tier": "metered",
+          "article:opinion": "false",
+          "last_modified": "2009-10-04T18:57:50-0400",
+          "og:site_name": "The Globe and Mail",
+          "fb:app_id": "392592514262068",
+          "og:locale": "en_GB",
+          "og:title": "Afghan general pegs 2013 as date country's army can take over",
+          "og:url": "https://www.theglobeandmail.com/news/world/afghan-general-pegs-2013-as-date-countrys-army-can-take-over/article4287745/",
+          "og:description": "'You could make the case' that Canada is ending its combat role in Afghanistan two years too early, coalition spokesman says",
+          "og:type": "article",
+          "article:publisher": "140961138903",
+          "article:published_time": "2009-10-04T18:57:50-0400",
+          "article:modified_time": "2009-10-04T18:57:50-0400",
+          "og:image": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=1200&height=800&quality=80&smart=true",
+          "og:image:width": "1200",
+          "og:image:height": "800",
+          "twitter:title": "Afghan general pegs 2013 as date country's army can take over",
+          "twitter:description": "'You could make the case' that Canada is ending its combat role in Afghanistan two years too early, coalition spokesman says",
+          "article:tag": "Social Issues",
+          "apple-mobile-web-app-title": "The Globe and Mail"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.theglobeandmail.com/news/world/afghan-general-pegs-2013-as-date-countrys-army-can-take-over/article4287745/"
+          },
+          "inLanguage": "en",
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Globe and Mail",
+            "productID": "theglobeandmail.com:access"
+          },
+          "isAccessibleForFree": "False",
+          "headline": "Afghan general pegs 2013 as date country's army can take over",
+          "dateline": "Kabul",
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "False",
+            "cssSelector": ".l-article"
+          },
+          "description": "'You could make the case' that Canada is ending its combat role in Afghanistan two years too early, coalition spokesman says",
+          "sourceOrganization": {
+            "@type": "Organization",
+            "name": "From Monday's Globe and Mail"
+          },
+          "datePublished": "2009-10-04T22:57:50.333Z",
+          "dateModified": "2009-10-04T22:57:50.333Z",
+          "copyrightYear": 2009,
+          "copyrightHolder": {
+            "@context": "http://schema.org",
+            "name": "The Globe and Mail",
+            "@type": "NewsMediaOrganization",
+            "@id": "theglobeandmail.com",
+            "url": "https://www.theglobeandmail.com/"
+          },
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Gloria Galloway"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "representativeOfPage": true,
+              "url": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=1200&height=675&quality=80&smart=true",
+              "width": 1200,
+              "height": 675,
+              "description": "New recruits for the Afghan National Army train with rifles at the Kabul Military Training Centre on Sept. 29, 2009."
+            },
+            {
+              "@type": "ImageObject",
+              "representativeOfPage": true,
+              "url": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=1200&height=900&quality=80&smart=true",
+              "width": 1200,
+              "height": 900,
+              "description": "New recruits for the Afghan National Army train with rifles at the Kabul Military Training Centre on Sept. 29, 2009."
+            },
+            {
+              "@type": "ImageObject",
+              "representativeOfPage": true,
+              "url": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=1200&height=1200&quality=80&smart=true",
+              "width": 1200,
+              "height": 1200,
+              "description": "New recruits for the Afghan National Army train with rifles at the Kabul Military Training Centre on Sept. 29, 2009."
+            }
+          ],
+          "thumbnailUrl": "https://www.theglobeandmail.com/resizer/v2/EMFUM4WXCZDD3NE6IRNUR464BI?auth=f98c6b4cc9cf5a62fb43e604ff296fc7b363b67e964ff7ece37fe98cb6ec4697&width=640&quality=80",
+          "publisher": {
+            "@context": "http://schema.org",
+            "name": "The Globe and Mail",
+            "@type": "NewsMediaOrganization",
+            "@id": "theglobeandmail.com",
+            "url": "https://www.theglobeandmail.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.theglobeandmail.com/files/dev/www/cache-long/images/logos/tgam-logo.png",
+              "width": 310,
+              "height": 36
+            },
+            "sameAs": [
+              "https://www.facebook.com/theglobeandmail/",
+              "https://twitter.com/globeandmail/",
+              "https://www.youtube.com/user/TheGlobeandMail/",
+              "https://www.instagram.com/globeandmail/",
+              "https://en.wikipedia.org/wiki/The_Globe_and_Mail"
+            ],
+            "ethicsPolicy": "https://www.theglobeandmail.com/about/editorial-code/",
+            "diversityPolicy": "https://www.theglobeandmail.com/about/work-at-the-globe/#diversity",
+            "masthead": "https://www.theglobeandmail.com/about/#masthead",
+            "correctionsPolicy": "https://www.theglobeandmail.com/about/editorial-code/#corrections",
+            "foundingDate": "1844",
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "Newsroom Contact",
+                "telephone": "+1-416-585-5000",
+                "url": "https://www.theglobeandmail.com/about/contact/"
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "Public Engagement",
+                "email": "publiceditor@globeandmail.com",
+                "url": "https://www.theglobeandmail.com/about/contact/"
+              }
+            ]
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le général Mohammad Zahir Azimi, porte-parole de l'armée afghane, déclare que l'Armée nationale afghane (ANA) sera prête à combattre les talibans sans l'aide directe des forces internationales d'ici 2013 et à assumer l'entière responsabilité de la sécurité. Le général Stanley McChrystal, commandant des forces de l'OTAN en Afghanistan, souhaite augmenter les effectifs de l'ANA. Le Canada prévoit de mettre fin à ses opérations de combat en Afghanistan en 2011. L'annonce précède une attaque dans la province de Nuristan menée par 300 insurgés, qui a entraîné la mort de huit soldats américains et deux soldats afghans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mohammad Zahir Azimi",
+          "Eric Tremblay",
+          "Stanley McChrystal"
+        ],
+        "LOCATION": [
+          "Afghanistan",
+          "Canada",
+          "Pakistan",
+          "Nuristan",
+          "Kabul",
+          "London"
+        ],
+        "ORGANIZATION": [
+          "The Globe and Mail",
+          "Afghan National Army",
+          "Ministry of Defence",
+          "NATO",
+          "Taliban",
+          "International Security Assistance Force",
+          "Afghan National Police"
+        ],
+        "DATE": [
+          "2013",
+          "four years",
+          "2011",
+          "Saturday",
+          "next year"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7832297411346568
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Taliban"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Afghan soldiers"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Zahir Azimi",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Khaama Press",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Afghan National Army",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ministry of Defense",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taliban",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "IED attack",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IED",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ashraf Ghani",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abdullah Abdullah",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hamid Karzai",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rula Ghani",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beirut",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Bank",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NATO",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "American University of Beirut",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "29 septembre 2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "سبتمبر/ أيلول 2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ali Abdullah Saleh",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abed Rabbo Mansour Hadi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Yemen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sanaaa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Zinjibar",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Abyan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Arabian Peninsula",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shibam",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hadramawt",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "San Diego Union-Tribune",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "al-Qaida",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Treasury Department",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "White House",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "popular uprising",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CBS Mornings",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. military",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Eric Tremblay",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Stanley McChrystal",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pakistan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nuristan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kabul",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Globe and Mail",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "International Security Assistance Force",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Afghan National Police",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "four years",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next year",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T02:16:34.690009"
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "id_rumeur": 1066274,
+  "id_image": 1066274,
+  "caption": "The study looked at 46 Androidbased apps from countries including Brazil India Nigeria and Thailand",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757350/oluyewo_benchmark/luxzjd1ljnroqdhlejvt.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Mobile money in developing countries: study reveals security ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/global-development-professionals-network/2015/sep/24/mobile-money-apps-security-flaws-study-reveals",
+      "image_url": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=ce305594442e6a6ebc66f1e40f7bb0a8",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVg_QDM1Qs6Hj6U3T7wAvsYW6o4hcNlL2HXmNvECBILlB4MbaV",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Mobile money in developing countries: study reveals security ...",
+        "link": "https://www.theguardian.com/global-development-professionals-network/2015/sep/24/mobile-money-apps-security-flaws-study-reveals",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f0326e827072f35876a03/images/rzq4E7m0-ZnMSkh18nd5F2k5GsLMshxwVS6o7cn9bEg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVg_QDM1Qs6Hj6U3T7wAvsYW6o4hcNlL2HXmNvECBILlB4MbaV",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=ce305594442e6a6ebc66f1e40f7bb0a8",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Mobile money in developing countries: study reveals security flaws in apps | financial inclusion - global development professionals network\n\nThe developed world takes universal cashless payment systems for granted. From credit cards and online banking to massive scale business-to-business transactions, our modern economy is reliant on regular and instantaneous movement of funds. And for the most part, transactions are secure and customers are safe from electronic fraud. But can the same be said of the systems in developing countries?\n\nMobile money offers tremendous promise to enable financial inclusion in the global south, where in many countries more people have a mobile phone than a bank account. These systems have been viewed as an improvement to physical security because customers no longer need to carry large amounts of currency or travel long distances to make payments. However, little attention has been paid to whether these accounts are actually secure and customers’ money is safe, until now.\n\nWe recently published a security analysis of mobile money apps in developing countries, focusing on a new wave of branchless banking applications designed for smartphones. First generation SMS-based mobile money apps are already known to be vulnerable to attack inside telecommuncation provider networks.\n\nWe looked at 46 Android apps from countries including Brazil, India, Nigeria and Thailand focusing on the three most important banking functions: account registration, account login and transaction procedures. Half were found to improperly encrypt their communications, potentially allowing an attacker to steal money.\n\nOur analysis exposed many vulnerabilities. We observed that many applications created their own communications protocols that could allow an attacker to capture account information, impersonate users and steal money with ease. Some of the weaknesses would require an attacker to be physically near their target, whereas others could potentially enable large-scale theft from anywhere in the world.\n\n\nHowever, one application (Zuum, from Brazil)did not appear to have these problems, demonstrating that it is possible to build a technically robust mobile money application. This application was built in partnership with Mastercard, which likely helped to provide security experience. Such expertise is unfortunately not available to all application developers.\n\nIn many developed nations the onus for preventing and detecting fraud is on financial companies. Unfortunately, all of the applications we looked at assign fraud detection entirely on the user. This is a problem because these users are the least able to absorb the total loss of their funds – the difference between losing the credit in your favourite coffee chain’s application versus the loss of one’s entire life savings. As vulnerabilities continue to evolve in future versions of these applications, users have no assurance that their money is safe, directly threatening the expansion of these transformative systems.\n\nLack of regulation may also damage trust in mobile money. During our investigation, we discovered only one regulatory document, by the Reserve Bank of India. However, this document offered little in terms of concrete actions in its 12 short pages.\n\nThere are numerous challenges and opportunities going forward. Crucial to the success of these systems is genuine cooperation between the technology, policy and NGO communities. Tools to help developers create secure code, a clearing house to certify that applications provide a baseline of protection and laws to better protect users against fraud are necessary, as is keeping the cost of operation low.\n\nWe would love to see the developers of these applications fix these problem. For the most serious cases, we reached out to developers and gave them detailed steps they could use. We will be checking the applications again in coming months to see if changes were made.\n\nIt is difficult for consumers to do much about this problem. A public education campaign about cybersecurity is needed, but many of the countries affected by this issue lack the infrastructure and literacy rates to facilitate such a campaign.\n\nThe mobile money apps we looked at do not provide any meaningful information about the technical details of their security, but the marketing campaigns associated with them claim that they are strong. Our work shows that this is simply not the case.\n\nPatrick Traynor and Kevin Butler are both associate professors in the department of computer and information science and engineering at the University of Florida.\n\nJoin our community of development professionals and humanitarians. Follow @GuardianGDP on Twitter. For the latest financial inclusion stories, follow #NOunbanked",
+        "metadata": {
+          "title": "Mobile money in developing countries: study reveals security flaws in apps | financial inclusion - global development professionals network | The Guardian",
+          "description": "Smartphone apps that fail to properly encrypt communication could allow cyber attackers to steal money from vulnerable customers",
+          "og:url": "http://www.theguardian.com/global-development-professionals-network/2015/sep/24/mobile-money-apps-security-flaws-study-reveals",
+          "article:author": "Patrick Traynor and Kevin Butler",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=e0a631147ef932a55edccb58c4fbfbcf",
+          "al:ios:url": "gnmguardian://global-development-professionals-network/2015/sep/24/mobile-money-apps-security-flaws-study-reveals?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Mobile money in developing countries: study reveals security flaws in apps",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-29T08:19:05.000Z",
+          "og:image:height": "720",
+          "og:description": "Smartphone apps that fail to properly encrypt communication could allow cyber attackers to steal money from vulnerable customers",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Global Development Professionals Network",
+          "article:published_time": "2015-09-24T10:40:48.000Z",
+          "article:tag": "financial inclusion - global development professionals network,Working in development,Mobile phones,Banking,Apps,Telecoms,Technology,Media & Tech Network,Business,Research,Higher education",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une étude sur les applications de services financiers mobiles dans les pays en développement révèle des failles de sécurité importantes. L'analyse de 46 applications Android provenant notamment du Brésil, de l'Inde, du Nigéria et de la Thaïlande montre que la moitié d'entre elles chiffrent mal leurs communications, exposant les utilisateurs à des risques de vol d'argent. Une application brésilienne, Zuum, s'est toutefois montrée robuste grâce à un partenariat avec Mastercard.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brazil",
+          "India",
+          "Nigeria",
+          "Thailand"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Mastercard",
+          "Zuum"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Android"
+        ]
+      },
+      "score_e5": 0.8179416527231512
+    },
+    {
+      "titre": "Sending cash home: mobile money is a gamechanger | Alix ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/global-development-professionals-network/2015/sep/29/mobile-money-gamechanger-for-diaspora-sending-remittances",
+      "image_url": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=220&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD1HM0UAUMd-rVoQFVDqqZQt4IVSOmDQjvuOwghonAWtXHKOBA",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Sending cash home: mobile money is a gamechanger | Alix ...",
+        "link": "https://www.theguardian.com/global-development-professionals-network/2015/sep/29/mobile-money-gamechanger-for-diaspora-sending-remittances",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f0326e827072f35876a03/images/SbIyo0w4zP1qfSeMTpncnaXC5ztfVd4a7A4gk4WHO08.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD1HM0UAUMd-rVoQFVDqqZQt4IVSOmDQjvuOwghonAWtXHKOBA",
+        "thumbnail_width": 176,
+        "thumbnail_height": 220,
+        "image": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=220&dpr=1&s=none&crop=5:4",
+        "image_width": 176,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "Sending cash home: mobile money is a gamechanger | Alix Murphy\n\nRemittances – money sent home by people working abroad – are hugely important in developing countries. In Burundi, they are vital.\n\nTwo thirds of this small African nation’s population live on less than $190 a year, so this cash plays a significant role in smoothing volatile, often vulnerable, incomes. The average remittance-receiving family relies on funds from relatives abroad for 61% of household expenditures.\n\nThis dependency on the diaspora is part of a longer story in the country’s history, marked by changes in colonial rule, war, genocide, civil unrest, and mass migration.\n\nAs refugees poured into neighbouring Tanzania, Uganda and Rwanda, particularly between 1960-1980, huge numbers of Burundians also went to live permanently in Belgium, Canada, the Netherlands, and the United Kingdom. By 2010 more than 350,000 people, or 4.2% of the population, were living abroad according to the World Bank.\n\n\nIt is these Burundians abroad who today provide a lifeline to those who remain, contributing as much as 22% to the country’s total GDP according to some estimates. Money is typically sent in small amounts of under $300 (£192), usually every four to six weeks, consistent with a pay cheque.\n\nBut thanks to the current wave of political violence, getting money to relatives is getting harder. Many businesses have remained shut since protests around the contested election began in April. Some bank branches and money transfer kiosks are slowly starting to reopen, but these are few and far between, and located almost exclusively in urban areas, where just 13% of the population lives.\n\nEven in times of relative calm, making the journey to collect cash can entail walking for many days, or long and uncomfortable bus journeys. For the 7% lucky enough to have a bank account, the privilege seems hardly worth the trip. It’s not uncommon to hear people talk about spending over $20 on travel just to pick up $100.\n\nIt’s for this reason so many remittances are sent informally, carried by hand in small bundles under a blanket, or entrusted to a bus driver crossing the border for a small fee – acts of startling faith.\n\nThis story is well-known across the continent: it’s estimated the $40 billion or so in remittances to Africa each year represents less than half of what’s sent informally.\n\nFraud is also a huge challenge for the money transfer industry, and is one of the primary reasons international banks including Barclays, HSBC and Bank of America have been pulling out of the industry, de-risking their books to avoid money laundering and terrorist financing allegations.\n\nBut what if people could receive money from their family direct to their mobile phone? It would eliminate the reliance on unsafe roads and unreliable opening hours.\n\nThe company I work for, WorldRemit, specialises in enabling diaspora around the world to send money home by mobile, and as there were already by 2014 more mobile money accounts than bank accounts in Burundi, it made sense to expand our services to cover the country.\n\nThe foundations for us to enable our customers to send money home to their families in Burundi were already in place. We partnered with Econet, one of Africa’s largest mobile network operators, which already offered mobile banking in the country. It first launched its EcoCash mobile money wallet in Burundi to help NGOs send funds to refugees after the long-running civil war ended in 2005. Today, two other mobile money services operate in the country.\n\nBy making it possible for Burundians to send and receive remittances digitally via a mobile wallet linked to their mobile phone, recipients can choose to store their cash for withdrawal later or use immediately. Transactions are done using text messages, so even the most basic handset can be used to purchase goods and services, pay bills, or send money to other mobile-phone users.\n\nBurundi still has a way to go before mobile money is as successful as in Kenya or Zimbabwe, where mobile money plays a central role in the economy. But for the millions of people in the diaspora looking for ways to send money home safely, mobile money is a gamechanger.\n\nAlix Murphy is a senior mobile analyst at WorldRemit. Follow @AlixinLondon on Twitter.\n\nJoin our community of development professionals and humanitarians. Follow @GuardianGDP on Twitter.",
+        "metadata": {
+          "title": "Sending cash home: mobile money is a gamechanger | Alix Murphy | The Guardian",
+          "description": "With more mobile money accounts than bank accounts in Burundi, Alix Murphy says the country is a good testing ground for trialling remittances by mobile\n",
+          "og:url": "http://www.theguardian.com/global-development-professionals-network/2015/sep/29/mobile-money-gamechanger-for-diaspora-sending-remittances",
+          "article:author": "Alix Murphy",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/54f8022f7f852376d92e5d0feef0130edc26925b/0_248_5500_3301/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTUucG5n&enable=upscale&s=aa6851c1b7772209c029aed5c0086043",
+          "al:ios:url": "gnmguardian://global-development-professionals-network/2015/sep/29/mobile-money-gamechanger-for-diaspora-sending-remittances?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Sending cash home: mobile money is a gamechanger",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-29T08:19:08.000Z",
+          "og:image:height": "720",
+          "og:description": "With more mobile money accounts than bank accounts in Burundi, Alix Murphy says the country is a good testing ground for trialling remittances by mobile",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Global Development Professionals Network",
+          "article:published_time": "2015-09-29T07:00:17.000Z",
+          "article:tag": "financial inclusion - global development professionals network,Working in development,Remittances,Burundi,Mobile phones,Technology,Telecoms,Africa",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les transferts d'argent (remittances) jouent un rôle crucial dans l'économie des pays en développement, notamment au Burundi où ils soutiennent des familles dépendantes de la diaspora. Cependant, les difficultés politiques, l'éloignement des banques et les risques de fraude compliquent l'envoi d'argent, qui se fait souvent de manière informelle ou via des services mobiles comme WorldRemit.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alix Murphy"
+        ],
+        "LOCATION": [
+          "Burundi",
+          "Tanzania",
+          "Uganda",
+          "Rwanda",
+          "Belgium",
+          "Canada",
+          "Netherlands",
+          "United Kingdom",
+          "Africa"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "World Bank",
+          "Barclays",
+          "HSBC",
+          "Bank of America",
+          "WorldRemit"
+        ],
+        "DATE": [
+          "2015",
+          "1960-1980",
+          "2010",
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7163430168319285
+    },
+    {
+      "titre": "Global Development Professionals Network | Global ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/global-development-professionals-network/2015/sep/24/all",
+      "image_url": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=300&quality=85&auto=format&fit=max&s=ec97089a744aeacec4dad77fc4d93d76",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQoGsGCl-OSwQM66UgDwQPsA86Otppq9DUTTaO07e-A9hJYBWw",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Global Development Professionals Network | Global ...",
+        "link": "https://www.theguardian.com/global-development-professionals-network/2015/sep/24/all",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f0326e827072f35876a03/images/zBvzE60u0N8LXx0tz36jiqV0cxzjuAuA_xyczKkQX0g.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQoGsGCl-OSwQM66UgDwQPsA86Otppq9DUTTaO07e-A9hJYBWw",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/d85144fb60fe1486d14fd915c8a110e14deabc8c/0_874_1324_794/master/1324.jpg?width=300&quality=85&auto=format&fit=max&s=ec97089a744aeacec4dad77fc4d93d76",
+        "image_width": 180,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "Global Development Professionals Network | Global-development-professionals-network\n\nMobile money in developing countries: study reveals security flaws in apps\n\n\nSmartphone apps that fail to properly encrypt communication could allow cyber attackers to steal money from vulnerable customers",
+        "metadata": {
+          "title": "Global Development Professionals Network | Global-development-professionals-network | The Guardian",
+          "apple-mobile-web-app-title": "Guardian",
+          "og:url": "http://www.theguardian.com/global-development-professionals-network",
+          "al:ios:url": "gnmguardian://global-development-professionals-network?contenttype=front&source=applinks",
+          "fb:app_id": "180444840287",
+          "og:type": "website",
+          "al:ios:app_store_id": "409128287",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "fb:pages": "516977308337360"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article du Global Development Professionals Network indiquant qu'une étude révèle des failles de sécurité dans les applications mobiles de services financiers des pays en développement, où des applications ne chiffrant pas correctement les communications permettent à des cyberattaquants de voler de l'argent.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Global Development Professionals Network"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7758692800197745
+    },
+    {
+      "titre": "Top US Senators Urge Stores to Stop Sellng Illicit Vapes ...",
+      "source": "The New York Times",
+      "lien": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+      "image_url": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-facebookJumbo.jpg?year=2024&h=550&w=1050&s=58358c54ca372401a1d982619000feee269c4eb0e05db627405afaa9025ae92e&k=ZQJBKqZ0VN",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqS5v_nmyquKaJEOYoCpC4SVsqZau7f-UIErpUapMhsKuGFpKW",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Top US Senators Urge Stores to Stop Sellng Illicit Vapes ...",
+        "link": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+        "source": "The New York Times",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRszyNSCYR04WGtSoefBwhwwe0NZDJ2NRax9ELrHGpQtwbG2FlJEx0ypzELo9V6Wpi6bcLEWpUcrMTLpkhIptbuYuWkKpaRsx-z4E6t7l8zAoUPsCc",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqS5v_nmyquKaJEOYoCpC4SVsqZau7f-UIErpUapMhsKuGFpKW",
+        "thumbnail_width": 162,
+        "thumbnail_height": 310,
+        "image": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-facebookJumbo.jpg?year=2024&h=550&w=1050&s=58358c54ca372401a1d982619000feee269c4eb0e05db627405afaa9025ae92e&k=ZQJBKqZ0VN",
+        "image_width": 550,
+        "image_height": 1050
+      },
+      "webpage": {
+        "text": "Top US Senators Urge Stores to Stop Sellng Illicit Vapes\n\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\n\nThe chairmen of five key Senate committees on Thursday warned the chief executives of major convenience stores and wholesalers to stop sales of illicit flavored vaping products that they called “widespread violations of federal law.”\n\nThe senators voiced their concerns in letters to the companies, amplifying the frustration among some lawmakers in Congress over the continued availability of e-cigarettes in vivid colors and candy flavors that attract young people who could become addicted to nicotine. The unchecked sales, they wrote, “pose a tremendous public health threat.”\n\n“F.D.A. and the industry must do more to address the youth vaping epidemic and remove unauthorized vaping products from their shelves immediately,” Senator Dick Durbin of Illinois, the Democratic whip, said.\n\nThe letters were addressed to retailers including 7-Eleven, Circle K, bp America, Pilot, Kwik Trip and others. The Food and Drug Administration had earlier issued warnings about sales of unauthorized brands like Elf Bar, E.B. Design and Funky Republic.\n\nThe senators’ letters reminded the companies that Congress gave the F.D.A. authority over tobacco products in a landmark 2009 law. Selling unapproved items can result in fines or an order to stop selling any tobacco products, the letter notes.\n\n“Today, millions of children use unauthorized e-cigarettes, risking nicotine addiction, respiratory illness, exacerbation of depression and anxiety, and many other harms,” read the letter to Joseph DePinto, the chief executive of 7-Eleven. The company did not respond to a request for comment.\n\n----------------------------------------\n\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\n\n----------------------------------------\n\nThank you for your patience while we verify access.\n\nAlready a subscriber? Log in.\n\nWant all of The Times? Subscribe.\n\n\nRelated Content\n\n",
+        "metadata": {
+          "description": "Lawmakers want shopkeepers to remove e-cigarettes that were not authorized by the F.D.A. Retailers say it is not that simple.",
+          "twitter:url": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "twitter:title": "Top Senators Urge Stores to Stop Selling Illicit Vapes (Published 2024)",
+          "twitter:description": "Lawmakers want shopkeepers to remove e-cigarettes that were not authorized by the F.D.A. Retailers say it is not that simple.",
+          "twitter:image": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-videoSixteenByNineJumbo1600.jpg?year=2024&h=901&w=1600&s=12f08197180f9a2ac9e3c9e6a36761bec8859d60fd05e39e93613345e76ea6bc&k=ZQJBKqZ0VN&tw=1",
+          "twitter:image:alt": "A personal collection of vapes.",
+          "twitter:card": "summary_large_image",
+          "og:url": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "og:type": "article",
+          "og:title": "Top Senators Urge Stores to Stop Selling Illicit Vapes (Published 2024)",
+          "og:image": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-facebookJumbo.jpg?year=2024&h=550&w=1050&s=58358c54ca372401a1d982619000feee269c4eb0e05db627405afaa9025ae92e&k=ZQJBKqZ0VN",
+          "og:image:alt": "A personal collection of vapes.",
+          "og:description": "Lawmakers want shopkeepers to remove e-cigarettes that were not authorized by the F.D.A. Retailers say it is not that simple.",
+          "article:published_time": "2024-03-07T15:00:08.000Z",
+          "article:modified_time": "2024-03-08T03:06:13.000Z",
+          "news_keywords": "ecigarettes;vaping,US Politics,Smoking,Regulation and Deregulation,Youth,Nicotine,advertising;marketing,FDA,WHO,Richard Blumenthal,Sherrod Brown,Richard J Durbin,Bernard Sanders;Bernie Sanders,Ron Wyden",
+          "article:section": "Health",
+          "article:author": "https://www.nytimes.com/by/christina-jewett",
+          "article:tag": "Wyden, Ron",
+          "article:opinion": "false",
+          "article:content_tier": "metered",
+          "al:android:url": "nyt://article/86c5b8ad-69ab-507f-a5eb-cca03b8aae2a",
+          "al:android:package": "com.nytimes.android",
+          "al:android:app_name": "NYTimes",
+          "al:iphone:url": "nytimes://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "al:iphone:app_store_id": "284862083",
+          "al:iphone:app_name": "NYTimes",
+          "al:ipad:url": "nytimes://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "al:ipad:app_store_id": "357066198",
+          "al:ipad:app_name": "NYTimes",
+          "fb:app_id": "9869919170"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "@id": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "description": "Lawmakers want shopkeepers to remove e-cigarettes that were not authorized by the F.D.A. Retailers say it is not that simple.",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-videoSixteenByNineJumbo1600.jpg",
+              "height": 901,
+              "width": 1600,
+              "contentUrl": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-videoSixteenByNineJumbo1600.jpg",
+              "caption": "A personal collection of vapes.",
+              "creditText": "OK McCausland for The New York Times"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-googleFourByThree.jpg",
+              "height": 600,
+              "width": 800,
+              "contentUrl": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-googleFourByThree.jpg",
+              "caption": "A personal collection of vapes.",
+              "creditText": "OK McCausland for The New York Times"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-mediumSquareAt3X.jpg",
+              "height": 1359,
+              "width": 1358,
+              "contentUrl": "https://static01.nyt.com/images/2024/03/07/multimedia/07VAPING-01-gwbl/07VAPING-01-gwbl-mediumSquareAt3X.jpg",
+              "caption": "A personal collection of vapes.",
+              "creditText": "OK McCausland for The New York Times"
+            }
+          ],
+          "mainEntityOfPage": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "url": "https://www.nytimes.com/2024/03/07/health/vaping-senators-warning-fda.html",
+          "author": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "url": "https://www.nytimes.com/by/christina-jewett",
+              "name": "Christina Jewett"
+            }
+          ],
+          "dateModified": "2024-03-08T03:06:13.000Z",
+          "datePublished": "2024-03-07T15:00:08.000Z",
+          "headline": "Top US Senators Urge Stores to Stop Sellng Illicit Vapes",
+          "alternativeHeadline": "Top Senators Urge Stores to Stop Selling Illicit Vapes",
+          "publisher": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".meteredContent"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The New York Times",
+            "productID": "nytimes.com:basic"
+          },
+          "copyrightHolder": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "sourceOrganization": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "copyrightYear": 2026,
+          "articleSection": "Health",
+          "keywords": [
+            "E-Cigarettes",
+            "United States Politics and Government",
+            "Smoking and Tobacco",
+            "Regulation and Deregulation of Industry",
+            "Youth",
+            "Nicotine",
+            "Advertising and Marketing",
+            "Food and Drug Administration",
+            "World Health Organization",
+            "Blumenthal, Richard",
+            "Brown, Sherrod",
+            "Durbin, Richard J",
+            "Sanders, Bernard",
+            "Wyden, Ron"
+          ],
+          "isAccessibleForFree": false
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des sénateurs américains, dont Dick Durbin, ont exhorté les dirigeants de grandes entreprises de vente au détail et de supérettes telles que 7-Eleven, Circle K, bp America, Pilot et Kwik Trip à cesser la vente de produits de vapotage aromatisés illicites qui ciblent les jeunes. La Food and Drug Administration (FDA) a également émis des avertissements concernant des marques non autorisées comme Elf Bar, E.B. Design et Funky Republic.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dick Durbin",
+          "Joseph DePinto"
+        ],
+        "LOCATION": [
+          "US",
+          "Illinois"
+        ],
+        "ORGANIZATION": [
+          "The New York Times",
+          "Congress",
+          "Food and Drug Administration",
+          "7-Eleven",
+          "Circle K",
+          "bp America",
+          "Pilot",
+          "Kwik Trip",
+          "Elf Bar",
+          "E.B. Design",
+          "Funky Republic"
+        ],
+        "DATE": [
+          "2024",
+          "2009"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6991365211750874
+    },
+    {
+      "titre": "Watch QuickHeat PRO Rechargeable Handwarmer & Portable Power ...",
+      "source": "Amazon.com",
+      "lien": "https://www.amazon.com/live/video/092b6e72a3724146ae8b44533a3ec06e",
+      "image_url": "https://m.media-amazon.com/images/I/41J-aSKS3rL.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-tnVgQL5EUn3313kAUXzs6MbSeWk4QDIZyys7xBYeYb_NzJsQ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Watch QuickHeat PRO Rechargeable Handwarmer & Portable Power ...",
+        "link": "https://www.amazon.com/live/video/092b6e72a3724146ae8b44533a3ec06e",
+        "source": "Amazon.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-tnVgQL5EUn3313kAUXzs6MbSeWk4QDIZyys7xBYeYb_NzJsQ",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://m.media-amazon.com/images/I/41J-aSKS3rL.jpg",
+        "image_width": 360,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Watch QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank on Amazon Live\n\nFast. Easy.\nShop in our free App today\nOpen\n\n\nWatch QuickHeat PRO Rechargeable Handwarmer &amp; Portable Power Bank on Amazon Live\n\nShop with expert advice from Survival Frog in their latest video QuickHeat PRO Rechargeable Handwarmer &amp; Portable Power Bank\n\nThis page requires JavaScript to be enabled for the full experience. Please enable JavaScript in your browser settings.\n\nView this content\n\n\nTop of page\n * Your Orders\n * Your Lists\n * Gift Cards\n * Find a Gift\n * Browsing History\n * Your Returns\n * Customer Service\n * Amazon.com\n * AmazonFresh\n * Amazon Live\n * Registry & Gift List\n * Your Account\n * Sell products on Amazon\n * Recalls and Product Safety Alerts\n\n\nEnglish\nUnited States\nAlready a customer?Sign in\n * Conditions of Use\n * Privacy Notice\n * Consumer Health Data Privacy Disclosure\n * Your Ads Privacy Choices\n\n© 1996-2026, Amazon.com, Inc. or its affiliates",
+        "metadata": {
+          "title": "Watch QuickHeat PRO Rechargeable Handwarmer &amp; Portable Power Bank on Amazon Live",
+          "description": "Shop with expert advice from Survival Frog in their latest video QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank",
+          "og:url": "https://www.amazon.com/live/video/092b6e72a3724146ae8b44533a3ec06e",
+          "og:type": "article",
+          "og:site_name": "@amazon",
+          "og:image:secure_url": "https://m.media-amazon.com/images/I/41J-aSKS3rL.jpg",
+          "og:image:type": "jpg",
+          "og:image:width": "640",
+          "og:image:height": "360",
+          "og:image:alt": "Watch QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank on Amazon Live",
+          "og:video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfe73536-5cd5-4bb9-a485-3cdceb66dd9c/default.jobtemplate.hls.m3u8",
+          "og:video:secure_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfe73536-5cd5-4bb9-a485-3cdceb66dd9c/default.jobtemplate.hls.m3u8",
+          "og:image": "https://m.media-amazon.com/images/I/41J-aSKS3rL.jpg",
+          "og:title": "Watch QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank on Amazon Live",
+          "twitter:title": "Watch QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank on Amazon Live",
+          "og:description": "Shop with expert advice from Survival Frog in their latest video QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank",
+          "twitter:description": "Shop with expert advice from Survival Frog in their latest video QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "VideoObject",
+          "name": "Watch QuickHeat PRO Rechargeable Handwarmer &amp; Portable Power Bank on Amazon Live",
+          "thumbnailUrl": "https://m.media-amazon.com/images/I/41J-aSKS3rL.jpg",
+          "uploadDate": "2022-12-15T18:41:45.732Z",
+          "contentUrl": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfe73536-5cd5-4bb9-a485-3cdceb66dd9c/default.jobtemplate.hls.m3u8",
+          "description": "Shop with expert advice from Survival Frog in their latest video QuickHeat PRO Rechargeable Handwarmer &amp; Portable Power Bank",
+          "duration": "PT0M25S",
+          "author": {
+            "@type": "Person",
+            "name": "Survival Frog"
+          },
+          "inLanguage": "en"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page Amazon présentant une vidéo en direct sur le chauffe-mains rechargeable et batterie externe QuickHeat PRO, avec les conseils de Survival Frog.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Amazon.com",
+          "Survival Frog"
+        ],
+        "DATE": [
+          "1996-2026"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank",
+          "JavaScript"
+        ]
+      },
+      "score_e5": 0.7238690787145761
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Brazil",
+      "India",
+      "Nigeria",
+      "Thailand"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Android"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nigeria",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Thailand",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mastercard",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Zuum",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Android",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alix Murphy",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Burundi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tanzania",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uganda",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rwanda",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Belgium",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Netherlands",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Africa",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Bank",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Barclays",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HSBC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bank of America",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WorldRemit",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1960-1980",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Global Development Professionals Network",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dick Durbin",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joseph DePinto",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Illinois",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The New York Times",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Congress",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Food and Drug Administration",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "7-Eleven",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Circle K",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "bp America",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pilot",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kwik Trip",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Elf Bar",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "E.B. Design",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Funky Republic",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2009",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Amazon.com",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Survival Frog",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1996-2026",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "QuickHeat PRO Rechargeable Handwarmer & Portable Power Bank",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JavaScript",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T22:23:21.789529"
+  }
+}

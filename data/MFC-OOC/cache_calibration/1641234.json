@@ -1,0 +1,962 @@
+{
+  "id_rumeur": 1641234,
+  "id_image": 1641234,
+  "caption": "RT is the Kremlin s flagship international broadcaster",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757138/oluyewo_benchmark/wa4qm0erkyl6xi96ofog.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Russia in 'information war' with West to win hearts and ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-europe-34248178",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/10B8D/production/_85539486_rt_corbyn2.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAG-nHF6PkYcOx8msxHcTvQbD7WOlE6q-1bK4B525404nKvwmo",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Russia in 'information war' with West to win hearts and ...",
+        "link": "https://www.bbc.com/news/world-europe-34248178",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAG-nHF6PkYcOx8msxHcTvQbD7WOlE6q-1bK4B525404nKvwmo",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/10B8D/production/_85539486_rt_corbyn2.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Russia in 'information war' with West to win hearts and minds\n\nLatvia and Lithuania have responded to the challenge posed by Russian TV by tightening media regulations and even temporarily banning some channels.\n\nEstonia, on the other hand, is preparing to launch a new channel aimed at its 350,000 Russian speakers, forming nearly 30% of the population.\n\nBut with just a fraction of its Russian competitors' funding it is not expected to make a great impact.\n\nThe head of the Lithuanian public broadcaster has likened ventures of this kind to using \"pitchforks to oppose tanks\".\n\nThe same might be said of the efforts of Western broadcasters to influence opinion in Russia.\n\nA recent survey, external by state-funded pollster VTsIOM and Western academics found that 45% of Russians backed censorship against foreign media. The same survey found that just 2% named foreign media as one of their main sources of information.\n\nCorrection 18 September 2015: This story was corrected to amend the percentage increase in RT's budget and to note that one of RT's top 100 videos refers to the Ukraine crisis.\n\nBBC Monitoring, external reports and analyses news from TV, radio, web and print media around the world. You can follow BBC Monitoring on Twitter , externaland Facebook, external.",
+        "metadata": {
+          "description": "The Ukraine crisis has unleashed what some see as a new information war between Russia and the West, Stephen Ennis of BBC Monitoring writes.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The Ukraine crisis has unleashed what some see as a new information war between Russia and the West, Stephen Ennis of BBC Monitoring writes.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17179/production/_85558549_rusputintvafpindex.jpg",
+          "og:image:alt": "Russians watching President Putin TV broadcast, 17 Apr 14",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Russia in 'information war' with West to win hearts and minds",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-europe-34248178",
+          "article:section": "Europe",
+          "twitter:description": "The Ukraine crisis has unleashed what some see as a new information war between Russia and the West, Stephen Ennis of BBC Monitoring writes.",
+          "twitter:title": "Russia in 'information war' with West to win hearts and minds"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-europe-34248178",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-09-15T23:44:42.000Z",
+          "dateModified": "2015-09-15T23:44:42.000Z",
+          "description": "The Ukraine crisis has unleashed what some see as a new information war between Russia and the West, Stephen Ennis of BBC Monitoring writes.",
+          "headline": "Russia in 'information war' with West to win hearts and minds",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17179/production/_85558549_rusputintvafpindex.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17179/production/_85558549_rusputintvafpindex.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-europe-34248178",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Stephen Ennis"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La Russie est engagée dans une guerre de l'information avec l'Occident pour gagner les cœurs et les esprits. La Lettonie et la Lituanie ont réagi en renforçant la réglementation des médias et en interdisant temporairement certaines chaînes. L'Estonie prépare quant à elle une nouvelle chaîne destinée à ses locuteurs russes, qui représentent près de 30 % de la population. Un sondage réalisé par le VTsIOM et des universitaires occidentaux indique que 45 % des Russes soutiennent la censure contre les médias étrangers, et seulement 2 % les nomment parmi leurs principales sources d'information. Une correction a été apportée à l'article le 18 septembre 2015.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Russia",
+          "West",
+          "Latvia",
+          "Lithuania",
+          "Estonia",
+          "Ukraine"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "VTsIOM",
+          "RT",
+          "BBC Monitoring",
+          "Twitter",
+          "Facebook"
+        ],
+        "DATE": [
+          "18 September 2015"
+        ],
+        "EVENT": [
+          "Ukraine crisis"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7347934600591051
+    },
+    {
+      "titre": "U.K. Labour Party Elects Socialist Jeremy Corbyn as Leader - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/jeremy-corbyn-elected-leader-of-u-k-opposition-labour-party-1442055355",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-KG690_labour_J_20150912070939.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmbhcDLwm0U-UuTkTbS2916eSppHZR352CBA3u9yDn9Ci3N1xA",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "U.K. Labour Party Elects Socialist Jeremy Corbyn as Leader - WSJ",
+        "link": "https://www.wsj.com/articles/jeremy-corbyn-elected-leader-of-u-k-opposition-labour-party-1442055355",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmbhcDLwm0U-UuTkTbS2916eSppHZR352CBA3u9yDn9Ci3N1xA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-KG690_labour_J_20150912070939.jpg",
+        "image_width": 639,
+        "image_height": 959
+      },
+      "webpage": null,
+      "texte_contexte": "Le parti travailliste britannique élit le socialiste Jeremy Corbyn comme dirigeant.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jeremy Corbyn"
+        ],
+        "LOCATION": [
+          "U.K."
+        ],
+        "ORGANIZATION": [
+          "Labour Party",
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.693515820896664
+    },
+    {
+      "titre": "Russia in 'Information War' with West to Win Hearts and ...",
+      "source": "StopFake",
+      "lien": "https://www.stopfake.org/en/russia-in-information-war-with-west-to-win-hearts-and-minds/",
+      "image_url": "https://www.stopfake.org/content/uploads/2015/09/85539486_rt_corbyn2.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThN1dUbLXVxJZw4BK5e5VIoi2tbC8bkMlSHCdj3SQVESRpa3p_",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Russia in 'Information War' with West to Win Hearts and ...",
+        "link": "https://www.stopfake.org/en/russia-in-information-war-with-west-to-win-hearts-and-minds/",
+        "source": "StopFake",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRvS6aNffniLfVbypHiK712y1j4tyBnmDAeUlPLegppdTTeUKsdATb-5K-aKOSqLlJqV_SAEuwOoEIJFOIg-1t6F4LKRPMHQOTBd0xC-DduzF39ChAG",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThN1dUbLXVxJZw4BK5e5VIoi2tbC8bkMlSHCdj3SQVESRpa3p_",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.stopfake.org/content/uploads/2015/09/85539486_rt_corbyn2.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Russia in ‘Information War’ with West to Win Hearts and Minds\n\nThe crisis in Ukraine has unleashed what some see as a new bout of information warfare between Russia and the West.\n\nFor nearly a decade, the Kremlin has been busily striving to win hearts and minds around the world mainly through its flagship international broadcaster RT (formerly known as Russia Today). These efforts have been increased since the onset of the Ukraine crisis in 2014.\n\nNow Western media and governmental organisations are stepping up their efforts to reach out to Russian speakers.\n\nJust last week, the BBC said it was looking at plans for a new Russian satellite TV and video service.\n\n\nMeanwhile the EU’s European External Action Service (EEAS) is preparing to launch a special anti-propaganda task-force aimed at Russian speakers in the EU and other parts of Eastern Europe.\n\n\nIn January the European Parliament had urged the EU to develop “a communication strategy to counter the Russian propaganda campaign”, in a strongly-worded resolution.\n\nThe German and US-funded international broadcasters Deutsche Welle and Radio Liberty, as well as Euronews – part-funded by the EU – have also been boosting their Russian operations.\n\nBut the evidence suggests that these attempts to influence opinion in alien media-spheres are unlikely to make a great impact.\n\nDuring the Cold War there was intense media rivalry between Russia and the West to influence global opinion.\n\nAgainst ‘Anglo-Saxon monopoly’\n\nIn 2015, Russia significantly increased its spending on RT. The channel’s central government funding rose more than 50%, to 20.8bn roubles (around £202m; $300m).\n\nThe other arm of the Kremlin’s international media operation, the news agency Rossiya Segodnya (Russia Today), also got a big rouble boost. It now gets the equivalent of $89m.\n\nThese increases were needed to partially offset the recent slump in the rouble’s value.\n\nBut they also underline the increasing importance the Kremlin attaches to its international media operations. They now account for 34% of total central government media spending, compared to 25% a year ago.\n\n\nWhen President Vladimir Putin visited RT’s offices in 2013, he praised its success in helping to break the “Anglo-Saxon monopoly” on the international media market.\n\n\nNo reliable figures are available for RT’s audience worldwide. But evidence from the UK tends to belie Mr Putin’s words.\n\nData from the Broadcast Audience Research Board (BARB) shows that in August RT’s average weekly reach was around 450,000 or 0.8% of the total audience. That is some 100,000 less than in June 2012, when BARB started publishing data for RT.\n\nMoreover, RT is losing out to one of its main international rivals, Al-Jazeera English (AJE). In June 2012, it was marginally outperforming AJE. Now it gets less than half the audience of the Qatar-owned channel.\n\nBut RT will draw some comfort from the election of Jeremy Corbyn as leader of the Labour Party. Mr Corbyn has in the past expressed approval of RT and has made numerous appearances on the channel.\n\nYouTube fans\n\n\nThe picture on social media is somewhat different. On Twitter and Facebook, RT is comfortably outgunned by the international giants, BBC News and CNN. But on YouTube it is the clear market leader, with more than 1.5m subscribers and nearly 1.5bn views on its main channel.\n\n\nBut what do YouTube viewers mostly watch on RT?\n\nMore than any of the other big international broadcasters, RT depends for its large number of views on disaster/novelty videos in almost all cases, with little or no input from its journalists. All of the top 20 on its main YouTube channel (accounting for some 300m views) can be said to fall into this category.\n\nWhen it comes to videos about major political events its viewership is much smaller. Only a handful of its top 100 videos can be described as “political” and only one of them refers to the crisis in Ukraine.\n\n‘Pitchforks v tanks’\n\nBut RT and Rossiya Segodnya are by no means the limit of the Kremlin’s foreign media operations. It also has the international versions of its main domestic channels, with their powerful mixture of lavish entertainment and emotive news coverage.\n\nThese are widely believed to have influenced public opinion ahead of Russia’s intervention in Ukraine.\n\nNow there are Western fears that those state-run channels could pave the way for pro-Russian interventions elsewhere, especially the three Baltic states, where they have combined average audience shares of up to 25%.\n\nLarge ethnic Russian minorities remained in the Baltic states after independence in 1991, when the Soviet Union broke up.\n\nThere are also concerns about pro-Kremlin comments spreading on social media – many allegedly planted by “trolls” paid by the Russian state.\n\n\nLatvia and Lithuania have responded to the challenge posed by Russian TV by tightening media regulations and even temporarily banning some channels.\n\n\nEstonia, on the other hand, is preparing to launch a new channel aimed at its 350,000 Russian speakers, forming nearly 30% of the population.\n\nBut with just a fraction of its Russian competitors’ funding it is not expected to make a great impact.\n\nThe head of the Lithuanian public broadcaster has likened ventures of this kind to using “pitchforks to oppose tanks”.\n\nThe same might be said of the efforts of Western broadcasters to influence opinion in Russia.\n\nA recent survey by state-funded pollster VTsIOM and Western academics found that 45% of Russians backed censorship against foreign media. The same survey found that just 2% named foreign media as one of their main sources of information.\n\nSource: Stephen Ennis, BBC Monitoring",
+        "metadata": {
+          "title": "Russia in &#8216;Information War&#8217; with West to Win Hearts and Minds | StopFake",
+          "twitter:title": "Russia in ‘Information War’ with West to Win Hearts and Minds",
+          "twitter:description": "The crisis in Ukraine has unleashed what some see as a new bout of information warfare between Russia and the West.For nearly a decade, the Kremlin has been busily striving to win hearts and minds a"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La crise en Ukraine a déclenché une nouvelle phase de guerre de l'information entre la Russie et l'Occident. Le Kremlin cherche à gagner les cœurs et les esprits à travers son radiodiffuseur international RT (Russia Today). Des organisations occidentales et des médias renforcent leurs efforts envers les russophones, à l'instar de la BBC, de l'EEAS de l'Union européenne, de Deutsche Welle, de Radio Liberty et d'Euronews. En 2015, la Russie a augmenté le budget de RT et de l'agence de presse Rossiya Segodnya. Vladimir Putin a salué RT en 2013 pour avoir brisé le monopole anglo-saxon. Les données de la BARB montrent une audience hebdomadaire de RT en baisse par rapport à Al-Jazeera English. Par ailleurs, Jeremy Corbyn est élu à la tête du Labour Party.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Vladimir Putin",
+          "Jeremy Corbyn"
+        ],
+        "LOCATION": [
+          "Russia",
+          "West",
+          "Ukraine",
+          "Eastern Europe",
+          "UK",
+          "Qatar"
+        ],
+        "ORGANIZATION": [
+          "RT",
+          "Russia Today",
+          "BBC",
+          "European External Action Service",
+          "EEAS",
+          "European Parliament",
+          "EU",
+          "Deutsche Welle",
+          "Radio Liberty",
+          "Euronews",
+          "Rossiya Segodnya",
+          "Broadcast Audience Research Board",
+          "BARB",
+          "Al-Jazeera English",
+          "AJE",
+          "Labour Party"
+        ],
+        "DATE": [
+          "2014",
+          "January",
+          "2015",
+          "August",
+          "June 2012",
+          "2013"
+        ],
+        "EVENT": [
+          "Ukraine crisis",
+          "Cold War"
+        ],
+        "OTHER": [
+          "roubles"
+        ]
+      },
+      "score_e5": 0.7940342634774983
+    },
+    {
+      "titre": "У Британії покарали Russia Today за брехню про \"геноцид у ...",
+      "source": "ТСН",
+      "lien": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html",
+      "image_url": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOS4_w66Z3pS1ZhjUR7E8Gi7QzbZDNrw2cZxbIcyKJX3P4-PB6",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "У Британії покарали Russia Today за брехню про \"геноцид у ...",
+        "link": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html",
+        "source": "ТСН",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcShOdmNgcIqpxyePAD_czToq92_3Ui72GiaJG1F8CQH_VgOQxfBxOMb8cZtvPlyd8jCO4sQQ9VJ8JamjxuqBZCBWDY3X65oCZ8LTyM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOS4_w66Z3pS1ZhjUR7E8Gi7QzbZDNrw2cZxbIcyKJX3P4-PB6",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\"\n\nБританська корпорація ВВС виграла справу проти російського пропагандистського телеканалу Russia Today за звинуваченням в інсценуванні сюжету.\n\nВВС поскаржилася регулятору Ofcom на програму The Truthseeker (\"Правдолюбець\"), яка звинуватила британський телеканал в інсценуванні хімічної атаки в Сирії та цифровій обробці слова одного з інтерв'юерів, повідомляє Європейська правда з посиланням на ВВС.\n\nРегулятор постановив, що вказана програма Russia Today дійсно вводить в оману. До того ж російські пропагандисти не дали ВВС висловити свою точку зору до виходу сюжету.\n\nБританський регулятор знайшов порушення ще в одному з випусків програми Russia Today, який стосується України. У цьому сюжеті російській телеканал розповідав про \"геноцид в Східній Україні\" та стверджував, що український уряд навмисно бомбить мирних жителів на Донбасі, вбиває та піддає тортурам журналістів та розпинає немовлят.\n\nЗгідно з рішенням Ofcom, цей випуск програми є також незбалансованим та необ'єктивним.\n\nУ підсумку програму The Truthseeker було скасовано, а всі попередні випуски вилучені з вебсайту.\n\nРаніше повідомлялося, що медіарегулятор \"Ofcom\" звинуватив прокремлівськийканал Russia Todayу необ'єктивному висвітленні інформацій щодо події в Україні та пригрозив забрати ліцензію.",
+        "metadata": {
+          "title": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\" — Світ",
+          "fb:app_id": "1042761182504521",
+          "description": "У Британії регулятор визнав необ'єктивним сюжет Russia Today про \"геноцид у Східній Україні\"",
+          "keywords": "Russia today, ВПС, Телеканал, Пропаганда, Велика Британія, Донбас, Росія",
+          "og:title": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\"",
+          "og:description": "У Британії регулятор визнав необ'єктивним сюжет Russia Today про \"геноцид у Східній Україні\"",
+          "og:type": "article",
+          "og:url": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html",
+          "og:image": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+          "og:image:url": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:site_name": "ТСН.ua",
+          "twitter:title": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\"",
+          "twitter:description": "У Британії регулятор визнав необ'єктивним сюжет Russia Today про \"геноцид у Східній Україні\"",
+          "og:article:author": "https://www.facebook.com/tsn.ua",
+          "og:article:published_time": "2015-09-21T21:49:02+03:00",
+          "apple-mobile-web-app-title": "ТСН"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://tsn.ua#website",
+              "url": "https://tsn.ua",
+              "name": "ТСН",
+              "alternateName": "Телевізійна служба новин",
+              "inLanguage": "ua",
+              "publisher": {
+                "@id": "https://tsn.ua#publisher"
+              },
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://tsn.ua/search?query={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://tsn.ua#organization",
+              "url": "https://tsn.ua",
+              "name": "ТСН",
+              "logo": {
+                "@id": "https://tsn.ua#logo"
+              },
+              "sameAs": [
+                "https://www.facebook.com/tsn.ua",
+                "https://www.youtube.com/channel/UCXoJ8kY9zpLBEz-8saaT3ew",
+                "https://www.tiktok.com/@tsn_ua_official",
+                "https://www.instagram.com/tsnua/",
+                "https://t.me/TCH_channel",
+                "https://invite.viber.com/?g2=AQAwhiWy0w5qm0jNV%2Bcw87L7Qvxz3ZI8R4BM%2B8uOkAjNOWdw8pbaiwIFfRxAQdJK",
+                "https://twitter.com/tsnua",
+                "https://uk.wikipedia.org/wiki/ТСН"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "вул. Кирилівська, 23",
+                "addressLocality": "Київ",
+                "postalCode": "04080",
+                "addressCountry": {
+                  "@type": "Country",
+                  "name": "UA"
+                }
+              },
+              "contactPoint": [
+                {
+                  "@type": "ContactPoint",
+                  "email": "feedback@tsn.ua",
+                  "telephone": "+380 (44) 490-01-01",
+                  "contactType": "customer support",
+                  "areaServed": "UA",
+                  "availableLanguage": [
+                    "uk-UA",
+                    "en-UA",
+                    "ru-UA"
+                  ]
+                },
+                {
+                  "@type": "ContactPoint",
+                  "email": "adv@pluses.com.ua",
+                  "contactType": "sales",
+                  "areaServed": "UA",
+                  "availableLanguage": [
+                    "uk-UA",
+                    "en-UA"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://tsn.ua#publisher",
+              "name": "ТСН",
+              "legalName": "Телевізійна служба новин",
+              "url": "https://tsn.ua",
+              "logo": {
+                "@id": "https://tsn.ua#logo"
+              },
+              "sameAs": [
+                "https://www.facebook.com/tsn.ua",
+                "https://www.youtube.com/channel/UCXoJ8kY9zpLBEz-8saaT3ew",
+                "https://www.tiktok.com/@tsn_ua_official",
+                "https://www.instagram.com/tsnua/",
+                "https://t.me/TCH_channel",
+                "https://invite.viber.com/?g2=AQAwhiWy0w5qm0jNV%2Bcw87L7Qvxz3ZI8R4BM%2B8uOkAjNOWdw8pbaiwIFfRxAQdJK",
+                "https://twitter.com/tsnua",
+                "https://uk.wikipedia.org/wiki/ТСН"
+              ],
+              "foundingDate": 1997,
+              "publishingPrinciples": "https://tsn.ua/about-us",
+              "actionableFeedbackPolicy": "https://tsn.ua/contacts",
+              "masthead": "https://tsn.ua/contacts",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "вул. Кирилівська, 23",
+                "addressLocality": "Київ",
+                "postalCode": "04080",
+                "addressCountry": {
+                  "@type": "Country",
+                  "name": "UA"
+                }
+              },
+              "contactPoint": [
+                {
+                  "@type": "ContactPoint",
+                  "email": "feedback@tsn.ua",
+                  "telephone": "+380 (44) 490-01-01",
+                  "contactType": "customer support",
+                  "areaServed": "UA",
+                  "availableLanguage": [
+                    "uk-UA",
+                    "en-UA",
+                    "ru-UA"
+                  ]
+                },
+                {
+                  "@type": "ContactPoint",
+                  "email": "adv@pluses.com.ua",
+                  "contactType": "sales",
+                  "areaServed": "UA",
+                  "availableLanguage": [
+                    "uk-UA",
+                    "en-UA"
+                  ]
+                }
+              ],
+              "identifier": {
+                "@type": "PropertyValue",
+                "propertyID": "media-register",
+                "value": "R40-05195"
+              }
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://tsn.ua#logo",
+              "url": "https://tsn.ua/static/img/logo-json-schema.png",
+              "width": 600,
+              "height": 60,
+              "caption": "ТСН"
+            },
+            {
+              "@type": "NewsArticle",
+              "@id": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html#article",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html",
+                "url": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html"
+              },
+              "url": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html",
+              "headline": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\"",
+              "name": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\"",
+              "inLanguage": "ua",
+              "isAccessibleForFree": true,
+              "isPartOf": {
+                "@id": "https://tsn.ua#website"
+              },
+              "datePublished": "2015-09-21T21:49:02+03:00",
+              "dateModified": "2025-07-14T15:04:07+03:00",
+              "description": "Російські пропагандисти розповідали, що український уряд розпинає немовлят на Донбасі.\n \n ",
+              "author": {
+                "@type": "Person",
+                "name": "ТСН Редакція",
+                "url": "https://tsn.ua"
+              },
+              "publisher": {
+                "@id": "https://tsn.ua#publisher"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+                "width": 1200,
+                "height": 630,
+                "caption": "У Британії регулятор визнав необ&#039;єктивним сюжети Russia Today.",
+                "inLanguage": "ua",
+                "creditText": "Russia Today",
+                "thumbnailUrl": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/375x250/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg"
+              },
+              "speakable": {
+                "@type": "SpeakableSpecification",
+                "cssSelector": [
+                  ".c-entry__title",
+                  ".c-entry__lead"
+                ]
+              },
+              "articleSection": "Світ",
+              "keywords": "Russia today, ВПС, Телеканал, Пропаганда, Велика Британія, Донбас, Росія",
+              "articleBody": "Британська корпорація ВВС виграла справу проти російського пропагандистського телеканалу Russia Today за звинуваченням в інсценуванні сюжету. ВВС поскаржилася регулятору Ofcom на програму The Truthseeker (\"Правдолюбець\"), яка звинуватила британський телеканал в інсценуванні хімічної атаки в Сирії та цифровій обробці слова одного з інтерв'юерів, повідомляє Європейська правда з посиланням на ВВС. Регулятор постановив, що вказана програма Russia Today дійсно вводить в оману. До того ж російські пропагандисти не дали ВВС висловити свою точку зору до виходу сюжету. Британський регулятор знайшов порушення ще в одному з випусків програми Russia Today, який стосується України. У цьому сюжеті російській телеканал розповідав про \"геноцид в Східній Україні\" та стверджував, що український уряд навмисно бомбить мирних жителів на Донбасі, вбиває та піддає тортурам журналістів та розпинає немовлят. Згідно з рішенням Ofcom, цей випуск програми є також незбалансованим та необ'єктивним. У підсумку програму The Truthseeker було скасовано, а всі попередні випуски вилучені з вебсайту. Раніше повідомлялося, що медіарегулятор \"Ofcom\" звинуватив прокремлівськийканал Russia Todayу необ'єктивному висвітленні інформацій щодо події в Україні та пригрозив забрати ліцензію.",
+              "timeRequired": "PT1M"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "ТСН",
+                  "item": "https://tsn.ua"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Світ",
+                  "item": "https://tsn.ua/svit"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "У Британії покарали Russia Today за брехню про \"геноцид у Східній Україні\"",
+                  "item": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html"
+                }
+              ],
+              "@id": "https://tsn.ua/svit/u-britaniyi-upiymali-russia-today-na-brehni-pro-pro-genocid-u-shidniy-ukrayini-498016.html#breadcrumb"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+              "width": 1200,
+              "height": 630,
+              "caption": "У Британії регулятор визнав необ&#039;єктивним сюжети Russia Today.",
+              "inLanguage": "ua",
+              "creditText": "Russia Today",
+              "thumbnailUrl": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/375x250/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg",
+              "contentUrl": "https://img.tsn.ua/cached/542/tsn-29fc5e29fb78c95723c9978c03736a3d/thumbs/1200x630/3f/aa/7993338fc2775cda8740d7cb3c06aa3f.jpg"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La BBC a gagné une affaire devant le régulateur Ofcom contre la chaîne russe Russia Today concernant l'émission The Truthseeker, qui accusait la BBC d'avoir mis en scène une attaque chimique en Syrie et d'avoir manipulé les propos d'un interviewé. Ofcom a jugé le programme trompeur et non équilibré. Un autre sujet de Russia Today concernant un prétendu \"génocide dans l'Est de l'Ukraine\" a également été jugé non équilibré et non objectif. En conséquence, l'émission The Truthseeker a été annulée et ses anciens épisodes retirés du site web.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Britain",
+          "Syria",
+          "Eastern Ukraine",
+          "Donbass"
+        ],
+        "ORGANIZATION": [
+          "Russia Today",
+          "BBC",
+          "Ofcom",
+          "Європейська правда",
+          "ТСН"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "The Truthseeker"
+        ]
+      },
+      "score_e5": 0.7359314245441189
+    },
+    {
+      "titre": "Jeremy Corbyn's Labour Party Leadership Acceptance speech ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=GXyMr8e7IZw",
+      "image_url": "https://i.ytimg.com/vi/GXyMr8e7IZw/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlxUOThcQouk1rKKycLnLjaN7fhBoF91S7B3qvMcvaYOmi_2Bl",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Jeremy Corbyn's Labour Party Leadership Acceptance speech ...",
+        "link": "https://www.youtube.com/watch?v=GXyMr8e7IZw",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlxUOThcQouk1rKKycLnLjaN7fhBoF91S7B3qvMcvaYOmi_2Bl",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/GXyMr8e7IZw/hqdefault.jpg",
+        "image_width": 360,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Jeremy Corbyn's Labour Party Leadership Acceptance speech\n\nOfficial Jeremy Corbyn Channel\n\nEnjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "metadata": {
+          "title": "Jeremy Corbyn's Labour Party Leadership Acceptance speech",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "keywords": "video, sharing, camera phone, video phone, free, upload",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=GXyMr8e7IZw",
+          "og:title": "Jeremy Corbyn's Labour Party Leadership Acceptance speech",
+          "og:image": "https://i.ytimg.com/vi/GXyMr8e7IZw/hqdefault.jpg",
+          "og:image:width": "480",
+          "og:image:height": "360",
+          "og:description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=GXyMr8e7IZw&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=GXyMr8e7IZw&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=GXyMr8e7IZw&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/GXyMr8e7IZw",
+          "og:video:secure_url": "https://www.youtube.com/embed/GXyMr8e7IZw",
+          "og:video:type": "text/html",
+          "og:video:width": "640",
+          "og:video:height": "360",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Jeremy Corbyn's Labour Party Leadership Acceptance speech",
+          "twitter:description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Discours d'acceptation de la direction du parti travailliste par Jeremy Corbyn sur la chaîne officielle Jeremy Corbyn sur YouTube.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jeremy Corbyn"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Labour Party",
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6941025864210653
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "RT",
+      "Kremlin"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Jeremy Corbyn",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vladimir Putin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Latvia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lithuania",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Estonia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ukraine",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Eastern Europe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Qatar",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Eastern Ukraine",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Donbass",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "VTsIOM",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "RT",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC Monitoring",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Twitter",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Labour Party",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wall Street Journal",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Russia Today",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European External Action Service",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Parliament",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Union",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Deutsche Welle",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Radio Liberty",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Euronews",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rossiya Segodnya",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Broadcast Audience Research Board",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al-Jazeera English",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ofcom",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Європейська правда",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ТСН",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "18 September 2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Ukraine crisis",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Cold War",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "roubles",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The Truthseeker",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T20:39:44.209409"
+  }
+}

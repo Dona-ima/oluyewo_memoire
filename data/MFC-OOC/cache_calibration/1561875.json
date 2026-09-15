@@ -1,0 +1,557 @@
+{
+  "id_rumeur": 1561875,
+  "id_image": 1561875,
+  "caption": "Tesco offered a refund for the clothes with misspelt slogans after the errors were pointed out to them on Twitter by the baby s parents",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756595/oluyewo_benchmark/ozxi7kavofi5if5bkv6i.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Tesco apologises for baby clothing slogan errors - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-norfolk-35516158",
+      "image_url": "http://c.files.bbci.co.uk/2C00/production/_88146211_babyclothes.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsqFMtucYGNjPRHWgWMYlUmzHyd6Fu_By9UnD1XtdU5J25ZIKH",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Tesco apologises for baby clothing slogan errors - BBC News",
+        "link": "https://www.bbc.com/news/uk-england-norfolk-35516158",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsqFMtucYGNjPRHWgWMYlUmzHyd6Fu_By9UnD1XtdU5J25ZIKH",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/2C00/production/_88146211_babyclothes.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Tesco apologises for baby clothing slogan errors\n\nPublished\n\n7 February 2016\n\n\nSupermarket chain Tesco has said it will brush up on its spelling and grammar after making two mistakes in a single pack of baby clothes.\n\nThe parents of three-month-old Alexander Kendall, from Norwich, spotted the errors after being given a set of five bodysuits from the store.\n\nOne bore the slogan \"I was born awsome\", while the other read: \"Daddys little man\" - missing an apostrophe.\n\nTesco apologised after Alexander's father shared the errors on Twitter.\n\n\n'More pedantic than most'\n\n\nIt offered a refund or exchange and said: \"Sorry about this, we've made our suppliers aware of this so it can be corrected for future stock.\"\n\nMother Sophie Kendall, 28, said: \"We both work as journalists so are perhaps a bit more pedantic about these things than most.\n\n\"Fortunately Alex is a long way off being able to read so we'll just use the suits and hope nobody notices.\"",
+        "metadata": {
+          "description": "Supermarket chain Tesco says it will brush up on its spelling and grammar after making two mistakes in a single pack of baby clothes.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Supermarket chain Tesco says it will brush up on its spelling and grammar after making two mistakes in a single pack of baby clothes.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2C00/production/_88146211_babyclothes.jpg",
+          "og:image:alt": "Two baby bodysuits with misspelt slogans",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Tesco apologises for baby clothing slogan errors",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-norfolk-35516158",
+          "article:section": "Norfolk",
+          "twitter:description": "Supermarket chain Tesco says it will brush up on its spelling and grammar after making two mistakes in a single pack of baby clothes.",
+          "twitter:title": "Tesco apologises for baby clothing slogan errors"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-norfolk-35516158",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-02-07T11:11:27.000Z",
+          "dateModified": "2016-02-07T11:11:27.000Z",
+          "description": "Supermarket chain Tesco says it will brush up on its spelling and grammar after making two mistakes in a single pack of baby clothes.",
+          "headline": "Tesco apologises for baby clothing slogan errors",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2C00/production/_88146211_babyclothes.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2C00/production/_88146211_babyclothes.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-norfolk-35516158",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "En février 2016, la chaîne de supermarchés Tesco s'est excusée après que des erreurs d'orthographe et de grammaire ont été découvertes sur un lot de cinq bodies pour bébé. Alexander Kendall, un bébé de trois mois de Norwich, avait reçu ces vêtements comprenant les slogans 'I was born awsome' et 'Daddys little man' (avec une apostrophe manquante). Les parents, Sophie Kendall et son conjoint, ont partagé les erreurs sur Twitter, incitant le magasin à proposer un remboursement ou un échange.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alexander Kendall",
+          "Sophie Kendall",
+          "Alex"
+        ],
+        "LOCATION": [
+          "Norwich"
+        ],
+        "ORGANIZATION": [
+          "Tesco",
+          "BBC",
+          "BBC News",
+          "Twitter"
+        ],
+        "DATE": [
+          "7 February 2016",
+          "2016"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "baby clothing"
+        ]
+      },
+      "score_e5": 0.8434220817804187
+    },
+    {
+      "titre": "Reppic consumer tesco hi-res stock photography and images ...",
+      "source": "Alamy",
+      "lien": "https://www.alamy.com/stock-photo/reppic-consumer-tesco.html",
+      "image_url": "https://c8.alamy.com/comp/G8KJTP/tesco-spelling-and-grammar-errors-G8KJTP.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn4zXMWOtfDja6iVHxR6jVHlB6UI-UWzLyom7cj0IR84vZDOIQ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Reppic consumer tesco hi-res stock photography and images ...",
+        "link": "https://www.alamy.com/stock-photo/reppic-consumer-tesco.html",
+        "source": "Alamy",
+        "source_icon": "https://serpapi.com/searches/6a8f0034ccb1e98eaf143672/images/HHwLJPTaMRttzgylQP6TXSDLD9m7skisEflrCw3nOu0.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn4zXMWOtfDja6iVHxR6jVHlB6UI-UWzLyom7cj0IR84vZDOIQ",
+        "thumbnail_width": 171,
+        "thumbnail_height": 295,
+        "image": "https://c8.alamy.com/comp/G8KJTP/tesco-spelling-and-grammar-errors-G8KJTP.jpg",
+        "image_width": 752,
+        "image_height": 1300
+      },
+      "webpage": {
+        "text": "Reppic consumer tesco hi-res stock photography and images\n\n* Editorial\n   * Editorial Homepage\n   * Live News Feed\n   * News\n   * Sports\n   * Entertainment\n   * Archive\n * Creative\n   * Images Homepage\n   * Fresh Picks\n   * Photos\n   * Vectors\n   * Illustrations\n   * 360° Panoramic Images\n   * Contributor Spotlight\n   * Image Categories\n * Videos\n   * Videos Homepage\n   * Video Collections\n\n * Subscriptions\n * Pricing and Licenses\n   * Image Licenses\n   * Video Licenses\n   * Image Packs\n\n * Lightboxes\n * Cart\n * Sign in\n\nHi there!\n\nLightboxes\n\nShare Alamy images with your team and customers\n\n * Create a lightbox ›\n\nAll imagesSmartphone imagesVideos\n\n\nReppic consumer tesco Stock Photos and Images\n\nFilter by agency collections\n\nNo agencies were found for this search\n\nSearch builder\n\nBuild your search with words and phrases. Use any combination to refine your search.\n\nDownload Confirmation\n\nPassword Confirmation\n\nPlease enter your password *\n\nForgotten your password?",
+        "metadata": {
+          "title": "Reppic consumer tesco hi-res stock photography and images - Alamy",
+          "apple-mobile-web-app-title": "Alamy images",
+          "fb:admins": "150454471633963",
+          "author": "Alamy Limited",
+          "description": "Find the perfect reppic consumer tesco stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+          "twitter:title": "Reppic consumer tesco hi-res stock photography and images - Alamy",
+          "twitter:description": "Find the perfect reppic consumer tesco stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+          "og:title": "Reppic consumer tesco hi-res stock photography and images - Alamy",
+          "og:site_name": "Alamy",
+          "og:type": "website",
+          "og:description": "Find the perfect reppic consumer tesco stock photo, image, vector, illustration or 360 image. Available for both RF and RM licensing.",
+          "og:image:alt": "Reppic consumer tesco Stock Photos and Images",
+          "og:url": "https://www.alamy.com/stock-photo/reppic-consumer-tesco.html"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de recherche de photographies de stock et d'images d'actualité, éditoriales et créatives liée à la marque de grande distribution Tesco sur le site Alamy.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Alamy",
+          "Tesco"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "stock photography",
+          "Videos"
+        ]
+      },
+      "score_e5": 0.7575763135410118
+    },
+    {
+      "titre": "Tesco apologises after making two spelling mistakes in ...",
+      "source": "The Telegraph",
+      "lien": "https://www.telegraph.co.uk/news/newstopics/howaboutthat/12144212/Tesco-apologises-after-making-two-spelling-mistakes-in-single-pack-of-baby-clothes.html",
+      "image_url": "https://www.telegraph.co.uk/multimedia/archive/03569/Tesco_spelling_3569233b.jpg?imwidth=680",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOCUlSNHJf4TiGJUydbuGoc634RDfwgz-kTy-NnkoEURoUD_Ec",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Tesco apologises after making two spelling mistakes in ...",
+        "link": "https://www.telegraph.co.uk/news/newstopics/howaboutthat/12144212/Tesco-apologises-after-making-two-spelling-mistakes-in-single-pack-of-baby-clothes.html",
+        "source": "The Telegraph",
+        "source_icon": "https://serpapi.com/searches/6a8f0034ccb1e98eaf143672/images/O4OnhWMA0Of796eNOwyrngw8h-wLsWJmGYky8ECXnyM.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOCUlSNHJf4TiGJUydbuGoc634RDfwgz-kTy-NnkoEURoUD_Ec",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://www.telegraph.co.uk/multimedia/archive/03569/Tesco_spelling_3569233b.jpg?imwidth=680",
+        "image_width": 387,
+        "image_height": 620
+      },
+      "webpage": {
+        "text": "Access Restricted\n\nTELEGRAPH MEDIA GROUP HOLDINGS Ltd\n\n\nAccess Restricted\n\nThank you for your interest. Unauthorised access is prohibited. To access this content, you must have prior permission and a valid contract. Please contact our team at licensing@telegraph.co.uk to discuss licensing options.\n\nIf you are a Telegraph Subscriber, please contact customerservice@telegraph.co.uk , quoting the reference code on this page.\n\nReference ID: 0.7118d017.1788791762.40487f2f",
+        "metadata": {
+          "title": "Access Restricted"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page d'accès restreint du groupe de médias Telegraph Media Group Holdings Ltd concernant des excuses de Tesco suite à des fautes d'orthographe dans un pack de vêtements pour bébé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Telegraph Media Group Holdings Ltd",
+          "Tesco"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8269098870926445
+    },
+    {
+      "titre": "Tesco F&F apologises over typos on their baby clothes ...",
+      "source": "Metro",
+      "lien": "https://metro.co.uk/2016/02/07/tesco-apologises-over-typos-in-baby-clothes-5667296/",
+      "image_url": "https://metro.co.uk/wp-content/uploads/2016/02/ad_195562400.jpg?quality=90&strip=all",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiL1e3n2023aEF6Zt6p6YHVparKfH_OI7xYPkbidjMd_Ht8R7_",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Tesco F&F apologises over typos on their baby clothes ...",
+        "link": "https://metro.co.uk/2016/02/07/tesco-apologises-over-typos-in-baby-clothes-5667296/",
+        "source": "Metro",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEX___8AAABUVFRcXFxjY2OGhoYSEhLu7u65ubkoKCienp7b29v6-vrV1dX29vY-Pj7IyMimpqYdHR1OTk6Ojo59fX0KCgozMzNsbGysrKy_v7_h4eGysrKWlpaAgIBzc3NEREQgICA5OTmVM8t_AAABBElEQVQ4jYXU7XaDIAwG4MQPnNbaD13tdE7b-7_IAdHlhf2AX4Y8BziQSORGzfvISUfhZ-S7OcAZQAmgvUu-hzzdANAg4IrgiqAzLtgwTxUC-nTBRwDIIKgezGOYpxEBPZm_IpAFYOY6ysu2GuZNDJoQnNoYTCH4P-YUoEcK1CnQp8AzBYYU-E6BswdzNFvpROfBEj3yz6TfdwfWS7iAWTS4ONDzhKDkVYPCgZo3yNvay1Czv3Co1SEoLFvY_sm02jt7LKPAFrYU998Si4sqPbEFvmyObaWBYEfDUnhHy_kF-KZgZMqhaduXD0oFGdNbmu7kwr2HCwUrS_vIZLv_BeBqG_4Fnu4Hsntrlv0AAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiL1e3n2023aEF6Zt6p6YHVparKfH_OI7xYPkbidjMd_Ht8R7_",
+        "thumbnail_width": 160,
+        "thumbnail_height": 315,
+        "image": "https://metro.co.uk/wp-content/uploads/2016/02/ad_195562400.jpg?quality=90&strip=all",
+        "image_width": 1274,
+        "image_height": 2500
+      },
+      "webpage": {
+        "text": "Tesco F&F apologises over typos on their baby clothes\n\nTesco has promised to go back to school to brush up on its spelling and grammar after making two separate mistakes in a single pack of baby clothes.\n\nThe parents of three-month-old Alexander Kendall spotted the errors after being given the set of five Tesco F&F long sleeve bodysuits as a present.\n\nOne of the suits carries the slogan ‘I was born awsome’ – missing out the first E in ‘awesome’.\n\nAnother misses a possessive apostrophe and reads ‘Daddys little man’.\n\nMORE: Couple ‘got so drunk they let girl, 9, drive them home’\n\nMORE: Asda starts selling wonky veg at £3.50 for a family for a week\n\n\nWhat do you think of typos?\n\n * Get over it, we all make misteaks\n\n * I can't choose the other answers because of their typos\n\nTesco responded after Alexander’s father pointed out the errors on Twitter.\n\nIt offered a refund or exchange and said: ‘Sorry about this, we’ve made our suppliers aware of this so it can be corrected for future stock.’\n\nMother Sophie Kendall, 28, from Norwich, said: ‘We both work as journalists so are perhaps a bit more pedantic about these things than most.\n\n‘Fortunately Alex is a long way off being able to read so we’ll just use the suits and hope nobody notices.’",
+        "metadata": {
+          "title": "Tesco F&amp;F apologises over typos on their baby clothes | Metro News",
+          "ob:article:section:name": "Weird",
+          "ob:article:section:url": "https://metro.co.uk/news/weird/",
+          "sailthru.description": "Back to school for Tesco.",
+          "sailthru.title": "Tesco apologises over typos in baby clothes",
+          "apple-mobile-web-app-title": "Metro",
+          "description": "Tesco has apologised for its spelling and grammar after making two separate mistakes in a single pack of F&F baby clothes.",
+          "keywords": "Weird,School",
+          "og:locale": "en_GB",
+          "og:title": "Can you spot what's wrong with these baby clothes from Tesco?",
+          "og:type": "article",
+          "og:url": "https://metro.co.uk/2016/02/07/tesco-apologises-over-typos-in-baby-clothes-5667296/",
+          "og:description": "Back to school for Tesco.",
+          "og:site_name": "Metro",
+          "og:image": "https://metro.co.uk/wp-content/uploads/2016/02/ad_195562400.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+          "og:image:secure_url": "https://metro.co.uk/wp-content/uploads/2016/02/ad_195562400.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "article:publisher": "https://www.facebook.com/MetroUK",
+          "article:section": "News",
+          "article:tag": "School",
+          "article:published_time": "2016-02-07T12:35:39+0000",
+          "article:modified_time": "2019-12-11T14:08:37+00:00",
+          "twitter:title": "Can you spot what's wrong with these baby clothes from Tesco?",
+          "twitter:description": "Back to school for Tesco.",
+          "fb:app_id": "176908729004638",
+          "twitter:account_id": "138749160"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "image": {
+            "@type": "ImageObject",
+            "height": 1274,
+            "url": "https://metro.co.uk/wp-content/uploads/2016/02/ad_195562400.jpg?quality=90&strip=all",
+            "width": 2500
+          },
+          "articleBody": "Two baby suits from the same pack had typos (Picture: PA)\n\n\nTesco has promised to go back to school to brush up on its spelling and grammar after making two separate mistakes in a single pack of baby clothes.\nThe parents of three-month-old Alexander Kendall spotted the errors after being given the set of five Tesco F&amp;F long sleeve bodysuits as a present.\nOne of the suits carries the slogan &#8216;I was born awsome&#8217; &#8211; missing out the first E in &#8216;awesome&#8217;.\nAnother misses a possessive apostrophe and reads &#8216;Daddys little man&#8217;.\n\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\nArrowMORE: Couple ‘got so drunk they let girl, 9, drive them home’\nArrowMORE: Asda starts selling wonky veg at £3.50 for a family for a week\n\n\t\t\t\t\t\n\t\t\t\t\t\tPOLL\n\t\t\t\t\t\tPoll\n\t\t\t\t\t\n\t\t\t\t\tWhat do you think of typos?\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tGet over it, we all make misteaksCheck\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTHIS IS AN OUTRAJE!Check\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tI can&#039;t choose the other answers because of their typosCheck\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\nTesco responded after Alexander&#8217;s father pointed out the errors on Twitter.\nIt offered a refund or exchange and said: &#8216;Sorry about this, we&#8217;ve made our suppliers aware of this so it can be corrected for future stock.&#8217;\nMother Sophie Kendall, 28, from Norwich, said: &#8216;We both work as journalists so are perhaps a bit more pedantic about these things than most.\n&#8216;Fortunately Alex is a long way off being able to read so we&#8217;ll just use the suits and hope nobody notices.&#8217;",
+          "articleSection": "Weird",
+          "author": {
+            "@type": "Person",
+            "name": "Richard Hartley-Parkinson",
+            "url": "https://metro.co.uk/author/richard-hartley-parkinson/"
+          },
+          "dateCreated": "2016-02-07T12:35:39Z",
+          "dateModified": "2019-12-11T14:08:37Z",
+          "datePublished": "2016-02-07T12:35:39Z",
+          "description": "Tesco has apologised for its spelling and grammar after making two separate mistakes in a single pack of F&amp;F baby clothes.",
+          "headline": "Tesco F&amp;F apologises over typos on their baby clothes",
+          "isAccessibleForFree": "True",
+          "keywords": [
+            "School"
+          ],
+          "mainEntityOfPage": {
+            "@id": "https://metro.co.uk/2016/02/07/tesco-apologises-over-typos-in-baby-clothes-5667296/",
+            "@type": "WebPage"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Metro",
+            "logo": {
+              "@type": "ImageObject",
+              "height": 630,
+              "url": "https://metro.co.uk/wp-content/themes/metro/images/logos/metro.co.uk/m-black-share.png",
+              "width": 1200
+            },
+            "url": "https://metro.co.uk"
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xpath": [
+              "/html/head/title",
+              "/html/head/meta[@name=\"description\"]/@content"
+            ]
+          },
+          "url": "https://metro.co.uk/2016/02/07/tesco-apologises-over-typos-in-baby-clothes-5667296/"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La marque Tesco F&F s'est excusée pour des erreurs typographiques sur un pack de cinq bodies à manches longues pour bébé offerts au bébé de trois mois Alexander Kendall. Les vêtements contenaient les fautes 'I was born awsome' et 'Daddys little man'. Le père ayant signalé les erreurs sur Twitter, Tesco a offert un remboursement ou un échange. La mère, Sophie Kendall (28 ans, de Norwich), a commenté l'incident.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alexander Kendall",
+          "Alex",
+          "Sophie Kendall"
+        ],
+        "LOCATION": [
+          "Norwich"
+        ],
+        "ORGANIZATION": [
+          "Tesco",
+          "Tesco F&F",
+          "Metro",
+          "Asda",
+          "Twitter"
+        ],
+        "DATE": [
+          "2016/02/07"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "baby clothes"
+        ]
+      },
+      "score_e5": 0.8444039613446147
+    },
+    {
+      "titre": "Baby clothes howlers lead to supermarket chain Tesco apology",
+      "source": "Times of Malta",
+      "lien": "https://timesofmalta.com/article/baby-clothes-howlers-leads-to-supermarket-chain-tesco-apology.601572",
+      "image_url": "https://cdn-attachments.timesofmalta.com/31b54a34adff44d735b77792425c0d99afc75068-1454835569-56b70771-360x251.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDCkGB12uTr-IEfdhRBvIE5WHq3pgBRBeVZaArzSuhyId195N4",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Baby clothes howlers lead to supermarket chain Tesco apology",
+        "link": "https://timesofmalta.com/article/baby-clothes-howlers-leads-to-supermarket-chain-tesco-apology.601572",
+        "source": "Times of Malta",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEUTExP-_v5NTU1ISEgaGhoiIiLy8vKUlJRfX19VVVV7e3s7Ozt3d3eXl5cwMDC9vb3r6-tAQEA1NTWtra0tGxkyAAAAeklEQVQ4je3SwQqAIAyA4WVuZaalvf-7Jgjh5roFdei_KOw7iAzgI6FRwwuYQc0wQNPsljpY3DyRBOTLOVYwlqsnAVbgAFYOdiuB3RkIIAEEBlIPUgNshB5AtN2HcaD0g6eAkavGw3xUcGTU5lu7r5sCfLvx_vYZb3QCH6kDHVtz1RkAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDCkGB12uTr-IEfdhRBvIE5WHq3pgBRBeVZaArzSuhyId195N4",
+        "thumbnail_width": 187,
+        "thumbnail_height": 269,
+        "image": "https://cdn-attachments.timesofmalta.com/31b54a34adff44d735b77792425c0d99afc75068-1454835569-56b70771-360x251.jpg",
+        "image_width": 251,
+        "image_height": 360
+      },
+      "webpage": null,
+      "texte_contexte": "Article de Times of Malta évoquant des erreurs sur des vêtements pour bébé menant à des excuses de la chaîne de supermarchés Tesco.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Malta"
+        ],
+        "ORGANIZATION": [
+          "Times of Malta",
+          "Tesco"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Baby clothes"
+        ]
+      },
+      "score_e5": 0.8461215357237433
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Tesco",
+      "Twitter"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Alexander Kendall",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sophie Kendall",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alex",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Norwich",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Malta",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tesco",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Twitter",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alamy",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Telegraph Media Group Holdings Ltd",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tesco F&F",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Metro",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Asda",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Times of Malta",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "7 February 2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-02-07",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "baby clothing",
+      "rangs": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "stock photography",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Videos",
+      "rangs": [
+        2
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T15:38:38.068071"
+  }
+}

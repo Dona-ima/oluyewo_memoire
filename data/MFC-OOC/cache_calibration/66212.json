@@ -1,0 +1,828 @@
+{
+  "id_rumeur": 66212,
+  "id_image": 1528487,
+  "caption": "Saudi Arabia launches air strikes on Houthi fighters in Yemen",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748404/oluyewo_benchmark/m5prrsgburqpmtnfwhth.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Afghan night raids: Kabul signs deal with US forces - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-asia-17649526",
+      "image_url": "http://news.bbcimg.co.uk/media/images/59550000/jpg/_59550545_afghannightviz.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRd8hlOPqBJiUoduu96l2VN33CyXPovAw6McjadCnjpqFugktju",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Afghan night raids: Kabul signs deal with US forces - BBC News",
+        "link": "https://www.bbc.com/news/world-asia-17649526",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRd8hlOPqBJiUoduu96l2VN33CyXPovAw6McjadCnjpqFugktju",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/59550000/jpg/_59550545_afghannightviz.jpg",
+        "image_width": 261,
+        "image_height": 464
+      },
+      "webpage": {
+        "text": "Afghan night raids: Kabul signs deal with US forces\n\nThe agreement comes ahead of the planned withdrawal of US and other foreign troops from Afghanistan in 2014.\n\nThe BBC's Bilal Sarwary in Kabul says the Afghan government wants to ensure that these operations are entirely led by its forces and that they give explicit permission for other troops to take part.\n\nA senior Afghan general told the BBC that while the insurgents had the upper hand in daylight, \"we [Afghan National Security Forces] and Nato own the night.\n\n\"These night raids have broken the backbone of the the Taliban and various other insurgent groups,\" the general said.\n\nThe deal will also allow Afghan judges to review the operations and decide whether to hold detainees after the raid.\n\nAfghan officials told the BBC that last-minute discussions were still taking place over interrogation of detainees.",
+        "metadata": {
+          "description": "The Afghan government and US special forces sign a deal on the conduct of controversial night raids.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The Afghan government and US special forces sign a deal on the conduct of controversial night raids.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/59550000/jpg/_59550545_afghannightviz.jpg",
+          "og:image:alt": "night-vision image of raid",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Afghan night raids: Kabul signs deal with US forces",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-asia-17649526",
+          "article:section": "Asia",
+          "twitter:description": "The Afghan government and US special forces sign a deal on the conduct of controversial night raids.",
+          "twitter:title": "Afghan night raids: Kabul signs deal with US forces"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-asia-17649526",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2012-04-08T09:49:19.000Z",
+          "dateModified": "2012-04-08T11:28:49.000Z",
+          "description": "The Afghan government and US special forces sign a deal on the conduct of controversial night raids.",
+          "headline": "Afghan night raids: Kabul signs deal with US forces",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/59550000/jpg/_59550545_afghannightviz.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/59550000/jpg/_59550545_afghannightviz.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-asia-17649526",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'accord signé entre Kaboul et les forces américaines concernant les descentes nocturnes en Afghanistan, avant le retrait prévu des troupes étrangères en 2014. Les forces afghanes et l'OTAN contrôlent la nuit, brisant l'épine dorsale des talibans et autres insurgés, tandis que l'accord permet aux juges afghans de revoir les opérations et de décider du sort des détenus.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Bilal Sarwary"
+        ],
+        "LOCATION": [
+          "Kabul",
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "US forces",
+          "Afghan government",
+          "Afghan National Security Forces",
+          "Nato",
+          "Taliban"
+        ],
+        "DATE": [
+          "2014"
+        ],
+        "EVENT": [
+          "Afghan night raids"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7181934504273894
+    },
+    {
+      "titre": "Has anyone watched Kilo Two Bravo? : r/Military",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/Military/comments/5hbvhx/has_anyone_watched_kilo_two_bravo/",
+      "image_url": "https://external-preview.redd.it/has-anyone-watched-kilo-two-bravo-v0-uiB2EKZEZR6UmDcaHgST1pHBaSkj9HBws3y6ORquDFw.jpeg?width=640&crop=smart&auto=webp&s=f906f632ed07a6bea8233832747fdd8e4effda43",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49MtaGQenrZg4wfuEaaYWWkxJH-Z508DYrgTwacH6eWBcoXZn",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Has anyone watched Kilo Two Bravo? : r/Military",
+        "link": "https://www.reddit.com/r/Military/comments/5hbvhx/has_anyone_watched_kilo_two_bravo/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49MtaGQenrZg4wfuEaaYWWkxJH-Z508DYrgTwacH6eWBcoXZn",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://external-preview.redd.it/has-anyone-watched-kilo-two-bravo-v0-uiB2EKZEZR6UmDcaHgST1pHBaSkj9HBws3y6ORquDFw.jpeg?width=640&crop=smart&auto=webp&s=f906f632ed07a6bea8233832747fdd8e4effda43",
+        "image_width": 384,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Has anyone watched Kilo Two Bravo?\n\n\n\n[deleted] • r/Military • 12/9/2016, 4:40:39 AM\n\n↑22 • 12 comments\n\n\n\n---\n* [deleted] • 12/9/2016, 4:44:52 AM • ↑14\n\n  Just found it on Netflix. Based off a real incident in Helmand and former British soldier Mark Wright\n  \n  A little hard to watch if you've ever witnessed a casualty but easily the most accurate depiction of the war in Afghanistan I've ever seen (albeit Hollywood's only really made movies about Iraq)\n  \n  There's no big gun battles or anything like that. Other than the first few scenes no one fires their rifle at all. Just an intense film about camaraderie and the horrors/intensity of war\n\n  \n\n  * bomb116 • 12/9/2016, 6:36:05 AM • ↑8\n\n    I found it hard to watch but it was like a train wreck.\n\n    \n\n    * [deleted] • 12/9/2016, 6:46:14 AM • ↑5\n\n      Really hard. Pessed to turn it off but it was so well done.\n      \n      I don't think I'd rewatch it but i'm glad I found it\n\n      \n\n  * brokenarrow • 12/9/2016, 8:00:54 PM • ↑5\n\n    That movie is a perfect example of how to write horror. The anticipation made the inevitable almost a relief.\n\n    \n\n    * [deleted] • 12/9/2016, 8:07:15 PM • ↑1\n\n      I see people continue to call it horror\n      \n      I mean it's fucking horrifying and intense like a horror movie but isn't it more of a war drama? I get the horror label though now that I think of it. war itself is more horrifying than a serial killer with a chainsaw\n\n      \n\n      * brokenarrow • 12/9/2016, 10:51:55 PM • ↑5\n\n        I wouldn't call it a horror movie, but, it builds up tension in the scene and apprehension for the characters before a, pardon the pun, explosively brutal assault, like a good horror movie should. I would suggest that a horror writer watch this as an example of how to properly do that, even though it's outside the genre.\n\n        \n\n        * [deleted] • 12/9/2016, 10:53:03 PM • ↑1\n\n          Ah indeed\n          \n          Prospective screenwriters should use this film as an example of how to build tension\n          \n          Not to trivialize a tragedy. I've been to some shit holes as a civilian (landmind fields in Cambodia once ironically enough considering the movie we're discussing) but I'm sure I will never visit a place as awful as the Helmand province again\n          \n          Fuck that place.\n\n          \n\n  * lukey5452 • 12/9/2016, 1:18:35 PM • ↑2\n\n    The one about 3 para at kajaki damn? It's fucking heart breaking.\n\n    \n\n    * [deleted] • 12/9/2016, 6:44:32 PM • ↑1\n\n      Yeah horrifyingly so.\n      \n      The fucking balls on those guys though. I love you Brits <3\n\n      \n\n      * lukey5452 • 12/9/2016, 9:51:00 PM • ↑2\n\n        It's just seeing the same thing happen again and again that makes it worse I think, and thanks and your dfacs arnt to bad either loved nicking 4 or 5 cans of strawberry Fanta from those.\n\n        \n\n        * [deleted] • 12/9/2016, 9:56:54 PM • ↑2\n\n          I too also believe the Army has shit hot DFAC's\n          \n          sobs quietly\n\n          \n\n* [deleted] • 12/26/2016, 1:41:58 AM • ↑1\n\n  I know I'm late to the party but I just finished watching this literally a few minutes ago and was compelled to see if there was a discussion about it on Reddit.\n  \n  This is the kind of war film that is important to watch. Hollywood is too caught up in either the action aspect, such as Black Hawk Down, or the emotional character piece, like Hurt Locker or American Sniper. While those movies are good in their own rites, they don't capture the true pointlessness, depravity and hopelessness of everyday war the way KTB does.\n  \n  I've never served in the armed forces (I'm American, for whatever it's worth) and I'm not a pacifist, but I've been close friends/family with a number of people who have, from WWII, Korea, Gulf, and the war we're still in, in Afghanistan, so these movies are very important to me. I don't think there's any worse fate a nations people can suffer than having to be entrenched in a war zone, and I think this movie depicts that perfectly. It abandons the idea of \"Us vs. Them,\" in favor of a message that rarely gets broadcast. War is real, and this shit is really happening to our neighbors, friends, and family. The macho hoorah bullshit of dominating an evil faceless enemy just does not apply anymore. People are getting torn apart for seemingly no reason at all, other than bad luck. This movie expertly captures a real life nightmare.\n  \n  Anyways, my experience with war is pretty much limited to what I've been able to find on the internet, movies, and stories from friends and family so on the off-chance that this discussion is still going, I would love to hear any comments or criticisms of my snap reaction to this incredibly done film.\n\n  \n\n",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Discussion sur le film Kilo Two Bravo disponible sur Netflix, basé sur un incident réel dans la province de Helmand en Afghanistan et sur l'ancien soldat britannique Mark Wright, dépeignant la guerre d'Afghanistan et l'intensité des combats.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mark Wright"
+        ],
+        "LOCATION": [
+          "Helmand",
+          "Afghanistan",
+          "Iraq",
+          "Cambodia"
+        ],
+        "ORGANIZATION": [
+          "Netflix",
+          "Hollywood"
+        ],
+        "DATE": [
+          "12/9/2016",
+          "12/26/2016"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Kilo Two Bravo",
+          "Black Hawk Down"
+        ]
+      },
+      "score_e5": 0.7267863299832776
+    },
+    {
+      "titre": "SPECIAL OPS REPORT: U.S. Army Green Berets and Saudi ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=4oO3d18tgU8",
+      "image_url": "https://i.ytimg.com/vi/4oO3d18tgU8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA8LeBSXLG4gxXLv4W2zHvh7mXiJA",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQryC7H5lXlPm5JDpk8II2896PWciLnZ5IbzFZOeX5m2jG1yVnF",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "SPECIAL OPS REPORT: U.S. Army Green Berets and Saudi ...",
+        "link": "https://www.youtube.com/watch?v=4oO3d18tgU8",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQryC7H5lXlPm5JDpk8II2896PWciLnZ5IbzFZOeX5m2jG1yVnF",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://i.ytimg.com/vi/4oO3d18tgU8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA8LeBSXLG4gxXLv4W2zHvh7mXiJA",
+        "image_width": 386,
+        "image_height": 686
+      },
+      "webpage": {
+        "text": "SPECIAL OPS REPORT: U.S. Army Green Berets and Saudi Special Forces\n\nMedia Magik Entertainment\n\nIn tonight's SPECIAL OPS REPORT we join Green Berets from 5th Special Forces Group (Airborne), as they host counter-terrorism training for 19 Royal Saudi Spe...",
+        "metadata": {
+          "title": "SPECIAL OPS REPORT: U.S. Army Green Berets and Saudi Special Forces",
+          "description": "In tonight's SPECIAL OPS REPORT we join Green Berets from 5th Special Forces Group (Airborne), as they host counter-terrorism training for 19 Royal Saudi Spe...",
+          "keywords": "video, sharing, camera phone, video phone, free, upload",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=4oO3d18tgU8",
+          "og:title": "SPECIAL OPS REPORT: U.S. Army Green Berets and Saudi Special Forces",
+          "og:image": "https://i.ytimg.com/vi/4oO3d18tgU8/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "In tonight's SPECIAL OPS REPORT we join Green Berets from 5th Special Forces Group (Airborne), as they host counter-terrorism training for 19 Royal Saudi Spe...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=4oO3d18tgU8&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=4oO3d18tgU8&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=4oO3d18tgU8&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/4oO3d18tgU8",
+          "og:video:secure_url": "https://www.youtube.com/embed/4oO3d18tgU8",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "fb:app_id": "87741124305",
+          "twitter:title": "SPECIAL OPS REPORT: U.S. Army Green Berets and Saudi Special Forces",
+          "twitter:description": "In tonight's SPECIAL OPS REPORT we join Green Berets from 5th Special Forces Group (Airborne), as they host counter-terrorism training for 19 Royal Saudi Spe..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Rapport sur les opérations spéciales concernant les bérets verts de l'armée américaine du 5th Special Forces Group (Airborne) qui accueillent un entraînement antiterroriste pour les forces spéciales saoudiennes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "U.S. Army Green Berets",
+          "Saudi Special Forces",
+          "Media Magik Entertainment",
+          "5th Special Forces Group (Airborne)",
+          "Royal Saudi"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "SPECIAL OPS REPORT"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7630284368510174
+    },
+    {
+      "titre": "ISRAEL CONFIRMS GROUND OPS IN LEBANON The Israel Defense ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/DV9GIYUiVDE/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3854263820248240324",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmvyvBDPniZ7J6fEQpHF3QcvOluxjbLmg2PmL1Hdi_wY24Rf-Y",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "ISRAEL CONFIRMS GROUND OPS IN LEBANON The Israel Defense ...",
+        "link": "https://www.instagram.com/reel/DV9GIYUiVDE/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmvyvBDPniZ7J6fEQpHF3QcvOluxjbLmg2PmL1Hdi_wY24Rf-Y",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3854263820248240324",
+        "image_width": 1080,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram concernant la confirmation par les forces de défense israéliennes d'opérations terrestres au Liban.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Lebanon"
+        ],
+        "ORGANIZATION": [
+          "Israel Defense"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "ISRAEL CONFIRMS GROUND OPS IN LEBANON"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.760900882607078
+    },
+    {
+      "titre": "The U.S. Legal Obligation to Take Precautions to Minimize ...",
+      "source": "Lieber Institute - West Point",
+      "lien": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/",
+      "image_url": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3f7qW09XbqPACjf1-EpaQS5EHvcWk4bM9cTsnPbafj9NltdQ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "The U.S. Legal Obligation to Take Precautions to Minimize ...",
+        "link": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/",
+        "source": "Lieber Institute - West Point",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTM856Sf2fQhknsAkcVHaMqtL3f4OFXm4pn3-UKiB9jIIVIODA70_PRylBCyfNAlEdCkuKmYX4_e_5ifT1oS99yO7_VDuUNLv01gxIb8YEo52Iyotuxqd50Ig",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3f7qW09XbqPACjf1-EpaQS5EHvcWk4bM9cTsnPbafj9NltdQ",
+        "thumbnail_width": 172,
+        "thumbnail_height": 292,
+        "image": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+        "image_width": 460,
+        "image_height": 780
+      },
+      "webpage": {
+        "text": "The U.S. Legal Obligation to Take Precautions to Minimize Civilian Harm\n\nU.S. Special Forces recently conducted a raid against the residence of the Islamic State’s leader. President Biden and other U.S. Department of Defense officials ordered a ground operation rather than an air strike to conduct the attack. They characterized this decision as a precautionary measure to minimize civilian collateral harm. In this post, I examine the law of armed conflict significance of this decision.\n\nMistakes and inaccuracies are common in legal commentary and analysis of the requirement to take precautions in attack. I address these misunderstandings and clarify the United States’ obligation under the law of armed conflict to take precautionary measures to minimize civilian harm.\n\nThe Raid\n\nOn February 4, U.S. forces conducted a raid on a multi-story residential building in a village in northwest Syria. Abu Ibrahim al-Hashimi al-Qurayshi, the leader of the Islamic State, was known to live on the building’s third floor. The operation, which Pentagon officials planned for months, featured a surprise ground attack by U.S. Special Forces.\n\nPrior to the operation, U.S. forces spent nearly an hour urging civilians by loudspeaker to leave the building and ordered residents to surrender to avoid harm to innocent civilians—including children—who lived in the building. When U.S. forces began their approach, al-Qurayshi detonated an explosive device, killing himself and his family. Al-Qurayshi’s deputy, who also lived in the building, fought back and was killed.\n\nAlthough Apache helicopter gunships and drones supported the operation, U.S. Department of Defense officials, with President Biden’s approval, primarily conducted a ground operation. According to President Biden, the United States chose the ground raid “at a much greater risk to our own people” purposefully “to minimize civilian casualties.” Other Biden administration officials underscored U.S. forces’ assumption of increased risk for the sake of a “long-standing desire” to minimize civilian collateral harm.\n\nPrecautions to Minimize Civilian Harm\n\nThe Biden administration’s statements about the raid have drawn criticism directed at, among other things, the U.S. Department of Defense’s views on the law of armed conflict requirement to take feasible precautions in attack to minimize civilian collateral harm. Such criticism is not new, and it continues a tradition of misunderstandings and inaccuracies about the precautions requirement. Although I am not the first to do so, in light of the recent raid and ensuing criticism, here I examine some of the more common errors and clarify the United States’ law of armed conflict obligation to take precautions in attack.\n\nAdditional Protocol I\n\nAdditional Protocol I to the 1949 Geneva Conventions (AP I) prescribes certain precautions in attack to minimize civilian collateral harm during international armed conflict between Parties to the Protocol. Specifically, Article 57(2)(a)(ii) of the Protocol requires attackers to “take all feasible precautions in the choice of means and methods of attack with a view to avoiding, and in any event to minimizing, incidental loss of civilian life, injury to civilians and damage to civilian objects.”\n\nCritics often cite Article 57(2)(a)(ii) to express the United States’ legal obligation to take precautions. In doing so, they typically overlook the fact that the United States has not ratified AP I and, therefore, is not bound by it, including the Article 57(2)(a)(ii) precautions requirement. States that have ratified the Protocol—there are 174 of them, according to the ICRC—are bound by Article 57(2)(a)(ii) during international armed conflict. These States must interpret and apply Article 57(2)(a)(ii) in good faith during the conduct of such hostilities. But the United States is bound neither by the text of the article, as such, nor by these States’ (or other non-State groups’) interpretations of it.\n\nCustomary International Law\n\nU.S. officials have acknowledged an obligation to take feasible precautions in attack to minimize civilian harm. But these acknowledgments are based on customary—not conventional—international law. Furthermore, in non-international armed conflict it is perfectly clear the obligation does not arise under AP I. This distinction is not merely theoretical. It is practically significant in that it allows the possibility that the United States’ legal obligation to take precautions differs from that of States Party to AP I. (Although, as we will see below, many States that have joined the Protocol interpret Article 57(2)(a)(ii) substantially similarly to the United States’ interpretation of its customary legal obligation to take precautions in attack.)\n\nU.S. officials have repeatedly recognized a customary legal duty to take feasible precautions, recently even extending such a duty to non-international armed conflict. For example, in 1987, the Legal Advisor to the U.S. State Department offered views on certain rules of customary international law related to the conduct of hostilities. He expressed support for “the principle that all practicable precautions, taking into account military and humanitarian considerations, [must] be taken in the conduct of military operations to minimize incidental death, injury, and damage to civilians and civilian objects.” (For a comprehensive survey of U.S. officials’ statements and publications related to Article 57(2)(a)(ii), see Col. Theodor Richard’s Unofficial Guide to AP I, pages 117-120.)\n\n“Feasible” Precautions\n\nThe U.S. Department of Defense adopted this view in significant part in its 2016 revised Law of War Manual. The Manual recognizes a legal duty to “take feasible precautions to reduce the risk of harm to the civilian population.” It then states that the term “feasible” requires “due regard or diligence”—the precautions obligation is not “an absolute requirement to do everything possible.” Rather, the Manual adopts the well-established U.S. position that “feasible” precautions are “those that are practicable or practically possible, taking into account all circumstances ruling at the time, including humanitarian and military considerations.”\n\nOn this view, which precautionary measures to minimize civilian collateral harm are required includes considerations related to military mission accomplishment as well as reduction of harm to war victims. For example, the decision whether to adopt or forego potential precautionary measures involves consideration of the effect such measures may have on mission accomplishment; whether they will pose increased risk to friendly forces; the cost of such measures in time, money, and other resources; and the likelihood that such measures will result in tangible humanitarian benefit.\n\nThese considerations were relevant to the planning and execution of the February 4 raid in Syria. To determine whether U.S. forces were obliged to choose—as a legally required precautionary measure—a ground raid rather than an air strike, officials would consult the facts presented during the operational planning process. Military planners and decision-makers would assess all available intelligence and operational resources to determine the “feasibility”—in the legal sense outlined above—of potential precautionary measures.\n\nHowever, members of the public outside the Department of Defense and even military members outside the planning team—not having access to intelligence, resources, and other planning variables—will almost never be situated to make this legal determination, at least not prior to or immediately following execution of the operation.\n\nSome may argue that U.S. forces’ resort to a ground attack during the February 4 operation indicates that such a choice is required in all cases. For the reasons discussed above, this argument is undoubtedly flawed. No two military operations are the same. Each involves unique circumstances, including—to name only a few of the potentially relevant factors—enemy numbers and capabilities, terrain and human geography, capabilities of U.S. and partner forces, the character of available intelligence, and urgency in relation to broader operational considerations. Military planners and decision-makers must consider these factors alongside interests related to avoidance and minimization of civilian collateral harm. Thus, planners and commanders must assess each military operation independently to determine the feasibility of potential precautionary measures.\n\n“All” Feasible Precautions\n\nSome critics draw attention to Department of Defense’s rejection of the AP I, Article 57(2)(a)(ii) requirement to take “all” feasible precautions. As already noted, this criticism is flawed insofar as it suggests that the United States’ legal obligation derives directly from AP I. However, the deeper flaw may be a misunderstanding of the function served by the terms “all” and “feasible” in the precautions requirement. The term “all”—to the extent it applies as a matter of customary international law applicable to non-international armed conflict—signals those precautionary measures that meet the test of feasibility detailed above. Thus, to the extent critics take offense with the U.S. articulation of its legal obligation to take precautions in attack, it seems their focus ought to be on the term “feasible” rather than “all.”\n\nThe U.S. Department of Defense explains its reasoning for excluding the term “all” in its Law of War Manual. The omission is meant to reinforce the meaning of the term “feasibility.” The Department rejects the term “all feasible precautions” (emphasis added) because such language “could entail articulating a narrower interpretation of what is considered ‘feasible’ rather than articulating a difference in what the law ultimately requires.” The Manual does not “require everything that is capable of being done,” because such a requirement would prove an impossible standard to meet in practice.\n\nConcurrence with the U.S. View\n\nCritics also commonly argue that the United States’ view on the content of the precautions requirement is anomalous or out of touch. This is simply not true. Several law of armed conflict conventions explicitly adopt the United States’ view on the meaning of “feasibility.” For example, several of the Protocols to the Convention on the Use of Certain Conventional Weapons define the term “feasible precautions” substantially similar, if not identically, to the United States’ definition. These include Amended Protocol II on mines, booby-traps, and other devices), Protocol III on incendiary weapons, and Protocol V on explosive remnants of war.\n\nFurthermore, States agree with the United States’ understanding of the term “feasible.” For example, many States, upon ratifying AP I, filed an understanding indicating that “feasible” means—in accordance with the U.S. view—practicable or practically possible, in light of both humanitarian and operational considerations. These States include Canada, France, Germany, Ireland, Italy, the Netherlands, Spain, and the United Kingdom. Official records from the Diplomatic Conference that adopted AP I include statements to the same effect by representatives of Turkey, the United Kingdom, the Netherlands, Canada, Germany, and Italy. Critics often allege the United States is out of line with partners and allies on the issue of precautions in attack. But as this list demonstrates, many the United States’ partners and allies are aligned on the meaning of “feasible.”\n\nOther influential non-State commentators on the law of armed conflict support this articulation of “feasible.” The International Committee of the Red Cross Customary Law Study notes States’ adoption of this definition of feasible, which incorporates both military and humanitarian considerations, and indicates the definition applies in both international and non-international armed conflict. The section of the Study concerning State practice further demonstrates overwhelming support for this interpretation of “feasibility.” An influential commentary on AP I acknowledges widespread insistence on this definition as well (see here, pages 404-405).\n\nPerhaps just as tellingly, there appear to be no instances of States interpreting “all feasible precautions” as a requirement to take a precaution that is expected to reduce civilian harm without any regard for military operational considerations related to mission success. Such a view would be out of touch with the law of armed conflict’s constitutive balance between military operational and humanitarian interests, as well as tone deaf to the nature and character of war.\n\nOperational and Policy Considerations\n\nFinally, critics often fail to appreciate the distinction between the law of armed conflict requirement to take feasible precautions to minimize civilian collateral harm and self-imposed restrictions based on national policy. In this regard, a careful reading of the statements made by President Biden, Secretary of Defense Austin, and other Executive Branch officials after the February 4 raid reveals no references to the United States’ law of armed conflict obligations. This was almost certainly intentional. The U.S. position has long been to abide by and even exceed what the law requires to further strategic and operational interests related to mission demands and avoidance or minimization of civilian collateral harm. As the Department of Defense states in its Law of War Manual, “[T]he fact that a precaution was taken does not necessarily mean that taking the precaution was required as a matter of law.” This signals policy guidance that imposes greater restrictions than the law of armed conflict requires.\n\nReturning the February 4 raid in Syria, it is plausible—and, in light of the post-raid statements by President Biden and other officials, likely—that U.S. forces based the choice of a ground attack not on the law of armed conflict requirement to take precautions in attack, but rather on long-standing policy considerations related to reducing the risk of civilian harm during counterterrorism military operations. There is, of course, no shame in the fact that the Executive Branch’s efforts to minimize civilian collateral harm were grounded in policy rather than a legal duty. And it renders all-the-more puzzling efforts to impose a flawed understanding of the United States’ duty to take precautionary measures in attack.\n\nConclusion\n\nThe requirement to take precautions in attack to minimize civilian harm—whether as set forth in AP I, Article 57(2)(a)(ii) or in its customary form—is not immune from criticism. For example, given the broad notion of “feasibility” adopted by States, one may fairly question the requirement’s practical utility and effectiveness, whether as a restraint on battlefield conduct or as a guide to increased humanity in war. The inaccuracies and misunderstandings in legal analysis addressed in this post distract from such questions. In this regard, these inaccuracies undermine rather than further the law of armed conflict’s legitimacy and effectiveness in regulating the conduct of hostilities and protecting the victims of war.\n\nHistory teaches repeatedly that States—to the extent they are willing to abide legal restraints on waging war—will not tolerate rules that fail to account for the nature of war. The legal requirement to take feasible precautions in attack is a paradigmatic example of how the law of armed conflict affords flexibility and judgment to States to balance all relevant interests and considerations. Critics who fail to appreciate this do their cause no favors.\n\n***\n\nRobert Lawless is an Assistant Professor in the Department of Law and Managing Director of the Lieber Institute for Law & Land Warfare at the United States Military Academy, West Point.",
+        "metadata": {
+          "title": "The U.S. Legal Obligation to Take Precautions to Minimize Civilian Harm - Lieber Institute West Point",
+          "description": "The legal requirement to take feasible precautions in attack affords States judgment to balance military necessity and humanity in conflict.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "The U.S. Legal Obligation to Take Precautions to Minimize Civilian Harm - Lieber Institute West Point",
+          "og:description": "The legal requirement to take feasible precautions in attack affords States judgment to balance military necessity and humanity in conflict.",
+          "og:url": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/",
+          "og:site_name": "Lieber Institute West Point",
+          "article:published_time": "2022-02-18T17:17:30+00:00",
+          "article:modified_time": "2024-09-06T13:31:53+00:00",
+          "og:image": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+          "og:image:width": "780",
+          "og:image:height": "460",
+          "og:image:type": "image/jpeg",
+          "author": "Robert Lawless"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#article",
+              "isPartOf": {
+                "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/"
+              },
+              "author": {
+                "@id": "https://lieber.westpoint.edu/#/schema/person/image/78db0b7836d543ed2f1879c98c10166f"
+              },
+              "headline": "The U.S. Legal Obligation to Take Precautions to Minimize Civilian Harm",
+              "datePublished": "2022-02-18T17:17:30+00:00",
+              "dateModified": "2024-09-06T13:31:53+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/"
+              },
+              "wordCount": 2782,
+              "commentCount": 0,
+              "image": {
+                "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#primaryimage"
+              },
+              "thumbnailUrl": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+              "keywords": [
+                "civilian harm",
+                "LawlessRob",
+                "precautions",
+                "precautions in attack",
+                "Syria"
+              ],
+              "articleSection": [
+                "AoW Posts",
+                "Blog",
+                "Law of Armed Conflict",
+                "Targeting",
+                "Terrorism / Counter Terrorism"
+              ],
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#respond"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/",
+              "url": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/",
+              "name": "The U.S. Legal Obligation to Take Precautions to Minimize Civilian Harm - Lieber Institute West Point",
+              "isPartOf": {
+                "@id": "https://lieber.westpoint.edu/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#primaryimage"
+              },
+              "image": {
+                "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#primaryimage"
+              },
+              "thumbnailUrl": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+              "datePublished": "2022-02-18T17:17:30+00:00",
+              "dateModified": "2024-09-06T13:31:53+00:00",
+              "author": {
+                "@id": "https://lieber.westpoint.edu/#/schema/person/image/78db0b7836d543ed2f1879c98c10166f"
+              },
+              "description": "The legal requirement to take feasible precautions in attack affords States judgment to balance military necessity and humanity in conflict.",
+              "breadcrumb": {
+                "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#primaryimage",
+              "url": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+              "contentUrl": "https://lieber.westpoint.edu/wp-content/uploads/2022/02/5471556520_50c75f23c4_o-resized.jpg",
+              "width": 780,
+              "height": 460,
+              "caption": "Precautions in Attack"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://lieber.westpoint.edu/us-legal-obligation-precautions-minimize-civilian-harm/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://lieber.westpoint.edu/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "The U.S. Legal Obligation to Take Precautions to Minimize Civilian Harm"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://lieber.westpoint.edu/#website",
+              "url": "https://lieber.westpoint.edu/",
+              "name": "Lieber Institute West Point",
+              "description": "for Law &amp; Land Warfare",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://lieber.westpoint.edu/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://lieber.westpoint.edu/#/schema/person/image/78db0b7836d543ed2f1879c98c10166f",
+              "name": "Robert Lawless",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://lieber.westpoint.edu/#/schema/person/image/23494c9101089ad44ae88ce9d2f56aac",
+                "url": "https://secure.gravatar.com/avatar/?s=96&d=mm&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/?s=96&d=mm&r=g",
+                "width": "",
+                "height": "",
+                "caption": "Robert Lawless"
+              },
+              "url": "https://lieber.westpoint.edu/author/robert-lawless/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Opération menée par les forces spéciales américaines le 4 février dans un village du nord-ouest de la syrie contre la résidence d'Abu Ibrahim al-Hashimi al-Qurayshi, leader de l'État islamique. L'opération au sol a été ordonnée par le président Biden et le Département de la défense pour minimiser les dommages collatéraux civils.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "President Biden",
+          "Abu Ibrahim al-Hashimi al-Qurayshi"
+        ],
+        "LOCATION": [
+          "United States",
+          "Syria"
+        ],
+        "ORGANIZATION": [
+          "Islamic State",
+          "U.S. Department of Defense",
+          "U.S. Special Forces"
+        ],
+        "DATE": [
+          "February 4",
+          "1949"
+        ],
+        "EVENT": [
+          "The Raid",
+          "international armed conflict"
+        ],
+        "OTHER": [
+          "Additional Protocol I",
+          "Geneva Conventions",
+          "Article 57(2)(a)(ii)"
+        ]
+      },
+      "score_e5": 0.7663683770295716
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Saudi Arabia",
+      "Yemen"
+    ],
+    "ORGANIZATION": [
+      "Houthi"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Bilal Sarwary",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kabul",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US forces",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Afghan government",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Afghan National Security Forces",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nato",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taliban",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Afghan night raids",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Wright",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Helmand",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cambodia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Netflix",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hollywood",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12/9/2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12/26/2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Kilo Two Bravo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Black Hawk Down",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Army Green Berets",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Saudi Special Forces",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Media Magik Entertainment",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "5th Special Forces Group (Airborne)",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Royal Saudi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "SPECIAL OPS REPORT",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lebanon",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Israel Defense",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "ISRAEL CONFIRMS GROUND OPS IN LEBANON",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "President Biden",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abu Ibrahim al-Hashimi al-Qurayshi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Department of Defense",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Special Forces",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 4",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1949",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "The Raid",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "international armed conflict",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Additional Protocol I",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Geneva Conventions",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Article 57(2)(a)(ii)",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T22:32:34.766673"
+  }
+}

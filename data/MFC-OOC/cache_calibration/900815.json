@@ -1,0 +1,656 @@
+{
+  "id_rumeur": 900815,
+  "id_image": 945792,
+  "caption": "Genet Lire trains in Washington",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757320/oluyewo_benchmark/ora2gqbw37xfjgmd2gao.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Tom Jenkins's best sport shots of 2011 – in pictures | Sport ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/sport/gallery/2011/dec/28/tom-jenkins-best-sports-pictures-2011",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/12/27/1324996093264/Tug-of-War-021.jpg?width=375&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOIt2nxU7zX6FjWE_CYXuORRK6XIDLoXP9iTeJvrj9tTZA9wN",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Tom Jenkins's best sport shots of 2011 – in pictures | Sport ...",
+        "link": "https://www.theguardian.com/sport/gallery/2011/dec/28/tom-jenkins-best-sports-pictures-2011",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f030995e950932304c691/images/yc_nQ4RI1eGbEzNRP8Eyh-_ZiMgnPoN9-eTD9SgCeW4.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOIt2nxU7zX6FjWE_CYXuORRK6XIDLoXP9iTeJvrj9tTZA9wN",
+        "thumbnail_width": 182,
+        "thumbnail_height": 276,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/12/27/1324996093264/Tug-of-War-021.jpg?width=375&dpr=1&s=none&crop=none",
+        "image_width": 248,
+        "image_height": 375
+      },
+      "webpage": {
+        "text": "Tom Jenkins's best sport shots of 2011 – in pictures | Sport\n\nThis article is more than 14 years old\n\nOur award-winning photographer, Tom Jenkins, presents his favourite images of the year, from Manchester United closing in on their 19th league title to Kevin Pietersen playing to the Lord's crowd in a Test match against India\n\nTue 27 Dec 2011 19.12 EST",
+        "metadata": {
+          "title": "Tom Jenkins's best sport shots of 2011 – in pictures | Sport | The Guardian",
+          "description": "<p>Our award-winning photographer, Tom Jenkins, presents his favourite images of the year</p>",
+          "og:url": "http://www.theguardian.com/sport/gallery/2011/dec/28/tom-jenkins-best-sports-pictures-2011",
+          "article:author": "https://www.theguardian.com/profile/tomjenkins",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Admin/BkFill/Default_image_group/2011/12/27/1324996465467/Tug-of-War-001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=9e9cf8f981217e157e65deb02707ed2b",
+          "al:ios:url": "gnmguardian://sport/gallery/2011/dec/28/tom-jenkins-best-sports-pictures-2011?contenttype=Article&source=applinks",
+          "og:title": "Tom Jenkins's best sport shots of 2011 – in pictures",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-20T16:19:19.000Z",
+          "og:image:height": "720",
+          "og:description": "Our award-winning photographer, Tom Jenkins, presents his favourite images of the year",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Sport",
+          "article:published_time": "2011-12-28T00:12:42.000Z",
+          "article:tag": "Sport,Football,Golf",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Tom Jenkins's best sport shots of 2011 – in pictures"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Tom Jenkins présente ses photographies de sport favorites de l'année 2011, incluant des images de Manchester United s'approchant de leur 19e titre de champion et de Kevin Pietersen jouant devant le public de Lord's lors d'un match Test contre l'Inde.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tom Jenkins",
+          "Kevin Pietersen"
+        ],
+        "LOCATION": [
+          "Lord's",
+          "India"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Manchester United"
+        ],
+        "DATE": [
+          "2011",
+          "Tue 27 Dec 2011"
+        ],
+        "EVENT": [
+          "Test match against India"
+        ],
+        "OTHER": [
+          "19th league title"
+        ]
+      },
+      "score_e5": 0.7194785045128538
+    },
+    {
+      "titre": "Tom Jenkins's SJA-winning sports portfolio – in pictures ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/sport/gallery/2012/mar/13/tom-jenkins-sja-awards-pictures",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/3/13/1331652722053/The-Northern-Ireland-Tug--010.jpg?width=700&quality=85&auto=format&fit=max&s=5c19acb11815be8da914271e45bbd3a5",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyLWYLsxOtXRxatsmb7dwkVnbLxsFmR7uLJ62W_ZQRUJuLH2FN",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Tom Jenkins's SJA-winning sports portfolio – in pictures ...",
+        "link": "https://www.theguardian.com/sport/gallery/2012/mar/13/tom-jenkins-sja-awards-pictures",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f030995e950932304c691/images/dEXUXcwfVRk15P0zkBd-kZQ6epC8CHCUXpy1bmmhaM4.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyLWYLsxOtXRxatsmb7dwkVnbLxsFmR7uLJ62W_ZQRUJuLH2FN",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/3/13/1331652722053/The-Northern-Ireland-Tug--010.jpg?width=700&quality=85&auto=format&fit=max&s=5c19acb11815be8da914271e45bbd3a5",
+        "image_width": 465,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Tom Jenkins's SJA-winning sports portfolio – in pictures | Sport\n\nThis article is more than 14 years old\n\nAs our photographer Tom Jenkins claims another accolade, we take a look at the pictures which won him the sports portfolio prize at the SJA British Sports Journalism awards\n\nTue 13 Mar 2012 13.24 EDT\n\nExplore more on these topics\n\n * Sport",
+        "metadata": {
+          "title": "Tom Jenkins's SJA-winning sports portfolio – in pictures | Sport | The Guardian",
+          "description": "We take a look at the pictures which won our photographer Tom Jenkins the sports portfolio prize at the SJA awards",
+          "og:url": "http://www.theguardian.com/sport/gallery/2012/mar/13/tom-jenkins-sja-awards-pictures",
+          "article:author": "https://www.theguardian.com/profile/tomjenkins",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Sport/Pix/pictures/2012/3/13/1331652800971/In-the-Topham-Chase-over--002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTIucG5n&enable=upscale&s=42a4c3d49b64f3596fac085650489665",
+          "al:ios:url": "gnmguardian://sport/gallery/2012/mar/13/tom-jenkins-sja-awards-pictures?contenttype=Article&source=applinks",
+          "og:title": "Tom Jenkins's SJA-winning sports portfolio – in pictures",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-27T12:34:56.000Z",
+          "og:image:height": "720",
+          "og:description": "We take a look at the pictures which won our photographer Tom Jenkins the sports portfolio prize at the SJA awards",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Sport",
+          "article:published_time": "2012-03-13T17:24:00.000Z",
+          "article:tag": "Sport",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Tom Jenkins's SJA-winning sports portfolio – in pictures"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le photographe Tom Jenkins remporte le prix du portfolio sportif aux SJA British Sports Journalism awards.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tom Jenkins"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Guardian",
+          "SJA"
+        ],
+        "DATE": [
+          "Tue 13 Mar 2012"
+        ],
+        "EVENT": [
+          "SJA British Sports Journalism awards"
+        ],
+        "OTHER": [
+          "sports portfolio prize"
+        ]
+      },
+      "score_e5": 0.7020524046939158
+    },
+    {
+      "titre": "Tug of War European Championships 2011 - Mens 560 final, end ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=R9ODtGYX7Ck",
+      "image_url": "https://i.ytimg.com/vi/R9ODtGYX7Ck/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz1Y6EjbGezmSYwM_9OjmeMC0c-NKTUiPy-DX9piQe8AUWp_UX",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Tug of War European Championships 2011 - Mens 560 final, end ...",
+        "link": "https://www.youtube.com/watch?v=R9ODtGYX7Ck",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz1Y6EjbGezmSYwM_9OjmeMC0c-NKTUiPy-DX9piQe8AUWp_UX",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/R9ODtGYX7Ck/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket\n© 2026 Google LLC",
+        "metadata": {
+          "title": "Tug of War European Championships 2011 - Mens 560 final, end 3",
+          "description": "Tug of War European Championships 2011 - Mens 560 final, end 3",
+          "keywords": "mens, 560, final, 3rd, end",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=R9ODtGYX7Ck",
+          "og:title": "Tug of War European Championships 2011 - Mens 560 final, end 3",
+          "og:image": "https://i.ytimg.com/vi/R9ODtGYX7Ck/hqdefault.jpg",
+          "og:image:width": "480",
+          "og:image:height": "360",
+          "og:description": "Tug of War European Championships 2011 - Mens 560 final, end 3",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=R9ODtGYX7Ck&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=R9ODtGYX7Ck&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=R9ODtGYX7Ck&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/R9ODtGYX7Ck",
+          "og:video:secure_url": "https://www.youtube.com/embed/R9ODtGYX7Ck",
+          "og:video:type": "text/html",
+          "og:video:width": "640",
+          "og:video:height": "360",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "end",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Tug of War European Championships 2011 - Mens 560 final, end 3",
+          "twitter:description": "Tug of War European Championships 2011 - Mens 560 final, end 3"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vidéo sur YouTube intitulée 'Tug of War European Championships 2011 - Mens 560 final, end'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "Google LLC"
+        ],
+        "DATE": [
+          "2011",
+          "2026"
+        ],
+        "EVENT": [
+          "Tug of War European Championships 2011"
+        ],
+        "OTHER": [
+          "Mens 560 final"
+        ]
+      },
+      "score_e5": 0.7300535897975617
+    },
+    {
+      "titre": "What are the issues in the NFL, NFLRA tug of war? - NBC Sports",
+      "source": "NBC Sports",
+      "lien": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-are-the-issues-in-the-nfl-nflra-tug-of-war",
+      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/98f09ab/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/07/3a/f61c60e3413d9f2be2f8eaea0344/https-delivery-gettyimages.com/downloads/2267543650",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3bzvsRq9UG8VDlyEHlmC25-o64u0YnX-vWT9sBktiSyOcmXr",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "What are the issues in the NFL, NFLRA tug of war? - NBC Sports",
+        "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-are-the-issues-in-the-nfl-nflra-tug-of-war",
+        "source": "NBC Sports",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFlhKJ0djpVHpH8HqJY6RtUGTscwr0XDae5agMRUsOdNaIBsuQt1RcaYFs73Dk49wnw_S9k_ktx_ofyfkHV0en3IoBTcp93mRajBOR48hZIUq7j3z-7A",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3bzvsRq9UG8VDlyEHlmC25-o64u0YnX-vWT9sBktiSyOcmXr",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/98f09ab/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/07/3a/f61c60e3413d9f2be2f8eaea0344/https-delivery-gettyimages.com/downloads/2267543650",
+        "image_width": 810,
+        "image_height": 1440
+      },
+      "webpage": {
+        "text": "What are the issues in the NFL, NFLRA tug of war?\n\nThe rhetoric has ramped up in recent days between the NFL and NFL Referees Association. With the two sides pushing different versions as to why the talks have bogged down to a standstill, it’s important to focus on the heart of the ongoing tug of war.\n\nA recent item from Football Zebras explores the sticking points.\n\nPer the article posted on Thursday, the league has offered a compensation bump of 6.7 percent. The NFLRA wants 10.3 percent. The gap (abacus engaged) is 3.6 percent. Obviously, that becomes a larger number when converted to total dollars, especially with average compensation for the officials at $350,000 as of 2025.\n\nAnother point of contention comes from the ability to cut the cord on officials during their first three years in the NFL. Per Football Zebras, the two sides agreed to give the league that power in the current CBA. However, the NFLRA claims the league has failed to provide additional training and development resources for the officials in their probationary period.\n\nThen there’s the effort by the NFL to invade the dead period between the end of football season and May 15. Currently, the officials are off limits during that window. The league wants to waive that rule for officials in the probationary period who did not earn a postseason assignment. The NFLRA has to date refused.\n\nThat last point highlights the risk that both sides are taking by not working out their differences quietly. The more the league talks about wanting more access to officials during the three-month dead period, the more the media and fans will begin to say, “Why in the hell is there a three-month dead period?”\n\nThe officials should be full-time, year-round employees. And they should be paid accordingly, enough to get them to give up their primary jobs.\n\nHere’s how that arrangement could look. They’d live in a central location, somewhere like Dallas or Kansas City. Every week (Tuesday and/or Wednesday), they’d meet in the same room at the same time for a comprehensive review of any/all issues from the prior week of games that require emphasis in order to ensure consistency. They’d spend the rest of the time between games studying calls from the prior week, staying up to speed on the many requirements of the rule book, keeping themselves in peak physical condition, and getting a little rest so that they’ll be mentally ready to go when the next game begins.\n\nAfter each season, they’d spend their time preparing for the next one. The NFL could develop a virtual reality simulation that would expose them to every possible scenario that could play out during a game. Through that system, they’d work on spotting fouls and making calls amid a sea of humanity moving faster than the human eye can see. They’d be directly involved in the offseason rulemaking process, which (thanks to the dead period) necessarily excludes them.\n\nThey’d work offseason practices. Those that need more live reps could be assigned to the UFL.\n\nAnd, yes, there would still be time for a break, similar to the break the players get.\n\nIt’s not complicated. But it also wouldn’t be cheap. The job would have to pay enough to get the officials to move to the city the NFL chooses to be the headquarters for all officials. To get them to give up other jobs that entail far less accountability, and thus a significantly reduced risk of termination.\n\nThe minimum salary for a first-year player in 2026 is $885,000, even if he never sets foot on the field during a game. The officials — who work every snap of every game — should get at least that much. For that kind of pay, the league would easily find a full slate of individuals who would make the commitment all players make. Move to a new city. Commit fully to one profession. Make that job not just the top priority but the only one.\n\nIt likely would require a transition period for many of the officials who have been operating for years under the part-time rules. The 17 referees, who have earned their white hats, would perhaps have lesser off-season requirements. And maybe they wouldn’t be required to move. (They could participate in the weekly in-season sessions by Zoom.)\n\nFor all new officials, however, the full-time rules would become the new reality. If you want to be an NFL official, this is how it works. And if the gig pays enough, the NFL would still be able to attract the best of the best.\n\nWould it result in no mistakes ever being made? No. Would it create the impression that the NFL is doing everything it can to achieve perfection, even if perfection at all times is impossible? Absolutely.\n\nAnd that would be a far better look than having a roster of officials who are treating officiating as a hobby that pays extremely well, as hobbies go.\n\nThe job is far too important to be second fiddle. It needs to be the only fiddle. At a time when the NFL and NFLRA are fiddling with the contours of the part-time profession, everyone with an interest in the integrity of the game should be demanding more.",
+        "metadata": {
+          "title": "What are the issues in the NFL, NFLRA tug of war? - NBC Sports",
+          "og:title": "What are the issues in the NFL, NFLRA tug of war?",
+          "og:url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-are-the-issues-in-the-nfl-nflra-tug-of-war",
+          "og:image": "https://nbcsports.brightspotcdn.com/dims4/default/98f09ab/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F3a%2Ff61c60e3413d9f2be2f8eaea0344%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267543650",
+          "og:image:url": "https://nbcsports.brightspotcdn.com/dims4/default/98f09ab/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F3a%2Ff61c60e3413d9f2be2f8eaea0344%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267543650",
+          "og:image:width": "1440",
+          "og:image:height": "810",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "World Tug Of War Championships 2025 - Nottingham University",
+          "og:description": "In the end, it's about money and time.",
+          "og:site_name": "NBC Sports",
+          "og:type": "article",
+          "article:author": "https://www.nbcsports.com/author/mike-florio",
+          "article:published_time": "2026-03-28T14:02:18.254",
+          "article:modified_time": "2026-03-28T20:13:06.478",
+          "article:section": "Rumor Mill",
+          "article:tag": "NFL officiating",
+          "twitter:description": "In the end, it's about money and time.",
+          "twitter:title": "What are the issues in the NFL, NFLRA tug of war?",
+          "fb:app_id": "206053216266379",
+          "parsely-title": "What are the issues in the NFL, NFLRA tug of war?",
+          "parsely-author": "Mike Florio",
+          "description": "In the end, it's about money and time."
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "alternativeHeadline": "In the end, it's about money and time.",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-are-the-issues-in-the-nfl-nflra-tug-of-war",
+          "dateCreated": "2026-03-28T13:23:54.742Z",
+          "dateModified": "2026-03-28T20:13:06.478Z",
+          "datePublished": "2026-03-28T14:02:18.254Z",
+          "description": "In the end, it's about money and time.",
+          "identifier": "0000019d-349d-d9a8-a9dd-fdfd90f60000",
+          "image": [
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "copyrightNotice": "Tom Jenkins",
+              "credit": "Getty Images",
+              "height": 991,
+              "url": "https://nbcsports.brightspotcdn.com/dims4/default/8fcdff9/2147483647/strip/false/crop/6000x4000+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F3a%2Ff61c60e3413d9f2be2f8eaea0344%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267543650",
+              "width": 1486
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "copyrightNotice": "Tom Jenkins",
+              "credit": "Getty Images",
+              "height": 675,
+              "url": "https://nbcsports.brightspotcdn.com/dims4/default/ce3a5bb/2147483647/strip/false/crop/6000x3375+0+313/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F3a%2Ff61c60e3413d9f2be2f8eaea0344%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267543650",
+              "width": 1200
+            }
+          ],
+          "@id": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-are-the-issues-in-the-nfl-nflra-tug-of-war/#webpage",
+          "isPartOf": {
+            "@id": "https://www.nbcsports.com/#website"
+          },
+          "inLanguage": "en-US",
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              ".Page-headline",
+              ".ArticlePage-articleBody"
+            ]
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-are-the-issues-in-the-nfl-nflra-tug-of-war"
+          },
+          "author": [
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "description": "Mike Florio is the creator and Editor in Chief of Pro Football Talk, covering the latest news from across the NFL. Mike Florio’s PFT column and content is consumed across the globe and is widely considered to be the industry leader in NFL analysis.",
+              "email": "florio@profootballtalk.com",
+              "name": "Mike Florio",
+              "url": "https://www.nbcsports.com/author/mike-florio"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC Sports",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://nbcsports.brightspotcdn.com/dims4/default/5e75bc6/2147483647/strip/false/crop/1029x400+0+0/resize/154x60!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F91%2Ff66679574a648b889aa492dda9aa%2Fpft.png",
+              "width": 154,
+              "height": 60
+            },
+            "url": "https://www.nbcsports.com"
+          },
+          "name": "What are the issues in the NFL, NFLRA tug of war? - NBC Sports",
+          "headline": "What are the issues in the NFL, NFLRA tug of war?"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de NBC Sports abordant les désaccords entre la NFL et la NFL Referees Association (NFLRA) concernant la compensation financière, les règles de licenciement pendant la période probatoire, et l'accès aux officiels pendant la période de repos (dead period).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Dallas",
+          "Kansas City"
+        ],
+        "ORGANIZATION": [
+          "NBC Sports",
+          "NFL",
+          "NFL Referees Association",
+          "Football Zebras",
+          "UFL"
+        ],
+        "DATE": [
+          "2025",
+          "May 15"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "CBA",
+          "NFL Sunday Ticket"
+        ]
+      },
+      "score_e5": 0.7386823263608513
+    },
+    {
+      "titre": "Thames Valley Tug War Team National Editorial Stock Photo ...",
+      "source": "Shutterstock",
+      "lien": "https://www.shutterstock.com/editorial/image-editorial/thames-valley-tug-war-team-national-outdoor-7430694ai",
+      "image_url": "https://www.shutterstock.com/editorial/image-editorial/N0z7Q644M6DeEd37NTI2Nw==/thames-valley-tug-war-team-national-outdoor-440nw-7430694ai.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIY-EaAl3wYaHSC4VcFNlQqeWRe9qq4f4KtfqEd0hEkPD-wzJa",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Thames Valley Tug War Team National Editorial Stock Photo ...",
+        "link": "https://www.shutterstock.com/editorial/image-editorial/thames-valley-tug-war-team-national-outdoor-7430694ai",
+        "source": "Shutterstock",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQwdI3sb1idjasgpEajuGBarrfMhFwWbJceP1HmKLp9LB8NKtpVfuUo17r2zkDPmlw6QrBqa5Pauk8AHMTKtOxo2mv157Swt5427ca_0tkvot_JzOuLv-zNkQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIY-EaAl3wYaHSC4VcFNlQqeWRe9qq4f4KtfqEd0hEkPD-wzJa",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.shutterstock.com/editorial/image-editorial/N0z7Q644M6DeEd37NTI2Nw==/thames-valley-tug-war-team-national-outdoor-440nw-7430694ai.jpg",
+        "image_width": 307,
+        "image_height": 460
+      },
+      "webpage": null,
+      "texte_contexte": "Image éditoriale stock de Shutterstock concernant l'équipe de tir à la corde Thames Valley (Thames Valley Tug War Team).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Shutterstock",
+          "Thames Valley Tug War Team"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7479323519652559
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Genet Lire"
+    ],
+    "LOCATION": [
+      "Washington"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "trains"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Tom Jenkins",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kevin Pietersen",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lord's",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dallas",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kansas City",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Manchester United",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SJA",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google LLC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC Sports",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NFL",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NFL Referees Association",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Football Zebras",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UFL",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shutterstock",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Thames Valley Tug War Team",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tue 27 Dec 2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tue 13 Mar 2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 15",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Test match against India",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "SJA British Sports Journalism awards",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Tug of War European Championships 2011",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "19th league title",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "sports portfolio prize",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Mens 560 final",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "CBA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "NFL Sunday Ticket",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T22:10:33.168098"
+  }
+}

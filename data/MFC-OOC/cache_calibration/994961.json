@@ -1,0 +1,637 @@
+{
+  "id_rumeur": 994961,
+  "id_image": 994961,
+  "caption": "A corn plant damaged due to lack of water in a corn field in Centerville Iowa",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748760/oluyewo_benchmark/hh0a4zgmysaoftci1rxi.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Life in drought times",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/news/picture/life-in-drought-times-idUSRTR36G06/",
+      "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2012/08/08/2012-08-08T175544Z_01_GM1E87C0Z4V01_RTRRPP_0_USA-GRAINS-DROUGHT.JPG?auth=a55ad14f2d4ae0837ec44a1add0ab7ee9d0466d54e7c74f6cc89cf2b1609863f&width=1920&quality=80",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQk5cbYhV3CoUBkitzJUQg7Pjh30WlQtKbAwyqumbeckOAo2qPF",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Life in drought times",
+        "link": "https://www.reuters.com/news/picture/life-in-drought-times-idUSRTR36G06/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQk5cbYhV3CoUBkitzJUQg7Pjh30WlQtKbAwyqumbeckOAo2qPF",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2012/08/08/2012-08-08T175544Z_01_GM1E87C0Z4V01_RTRRPP_0_USA-GRAINS-DROUGHT.JPG?auth=a55ad14f2d4ae0837ec44a1add0ab7ee9d0466d54e7c74f6cc89cf2b1609863f&width=1920&quality=80",
+        "image_width": 1279,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Life in drought times, published by Reuters.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7751062130946809
+    },
+    {
+      "titre": "Drought destroys Iowa's corn",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/news/picture/drought-destroys-iowas-corn-idUSRTR34VR9/",
+      "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2012/07/12/2012-07-12T231011Z_01_GM1E87C0Z4V01_RTRRPP_0_USA-GRAINS-DROUGHT.JPG?auth=642b05a52233aab5031f869a979f84c53f84ffe5430e5b591793d58ec1047137",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaDOwoIsV_KQodo_XcsyN1EocaLOU-gMmBPgqtqN_F49NMozA",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Drought destroys Iowa's corn",
+        "link": "https://www.reuters.com/news/picture/drought-destroys-iowas-corn-idUSRTR34VR9/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaDOwoIsV_KQodo_XcsyN1EocaLOU-gMmBPgqtqN_F49NMozA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2012/07/12/2012-07-12T231011Z_01_GM1E87C0Z4V01_RTRRPP_0_USA-GRAINS-DROUGHT.JPG?auth=642b05a52233aab5031f869a979f84c53f84ffe5430e5b591793d58ec1047137",
+        "image_width": 533,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Drought destroys Iowa's corn, published by Reuters.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Iowa"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8232909010315768
+    },
+    {
+      "titre": "U.N. Warns of Potential Food Crisis | Fox Business",
+      "source": "Fox Business",
+      "lien": "https://www.foxbusiness.com/markets/u-n-warns-of-potential-food-crisis",
+      "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2017/11/99583714-corn-dried-reuters.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0q8mMksvB-01kmp6j938hWi37kdSbZ2ChMUqdzuUbF6Qks1Hl",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "U.N. Warns of Potential Food Crisis | Fox Business",
+        "link": "https://www.foxbusiness.com/markets/u-n-warns-of-potential-food-crisis",
+        "source": "Fox Business",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRL2zCWlTlNRA_AW_DBpYcP0zhM1oNbJHMHecRljgf9dkGUKodglNFPSX2Gm49VGDFB17JMGv8vlrTzhpowci_0incAztIrtYd_JlcAGAJcd1N4zh9qtMny",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0q8mMksvB-01kmp6j938hWi37kdSbZ2ChMUqdzuUbF6Qks1Hl",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2017/11/99583714-corn-dried-reuters.jpg",
+        "image_width": 533,
+        "image_height": 800
+      },
+      "webpage": {
+        "text": "U.N. Warns of Potential Food Crisis\n\nPublished August 9, 2012 7:38am EDT | Updated January 14, 2015 3:45am EST\n\nWorld food prices surged in July after falling in the previous three months and could rise further, increasing the potential for a food crisis of the kind seen in 2007/08, the United Nations food agency said on Thursday.\n\n\"Prices have the potential to increase further,\" the Food and Agriculture Organisation's senior economist and grain analyst Abdolreza Abbassian told Reuters. \"Definitely it is not going to be a season where prices fall below the previous year.\"\n\nA food crisis erupted five year ago as soaring grain futures markets helped push up prices and sparked violent food riots, although a rerun would only happen if countries started to introduce policies such as export bans, he said.\n\nThe FAO Food Price Index, which measures monthly price changes for a food basket of cereals, oilseeds, dairy, meat and sugar, averaged 213 points in July, up 12 points from June, and back to levels seen in April this year, the FAO said in a monthly index update.\n\nJuly's level is still below a record of 238 points reached in February 2011, FAO said, but close to levels seen during the food crisis in 2007/08.",
+        "metadata": {
+          "title": "U.N. Warns of Potential Food Crisis | Fox Business",
+          "description": "The United Nations food agency said already-high food prices could rise further and increase the potential for a food crisis of the kind seen in 2007/08.",
+          "dc.title": "U.N. Warns of Potential Food Crisis",
+          "dc.description": "The United Nations food agency said already-high food prices could rise further and increase the potential for a food crisis of the kind seen in 2007/08.",
+          "og:title": "U.N. Warns of Potential Food Crisis",
+          "og:description": "The United Nations food agency said already-high food prices could rise further and increase the potential for a food crisis of the kind seen in 2007/08.",
+          "og:type": "article",
+          "og:image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2017/11/0/0/99583714-corn-dried-reuters.jpg?ve=1&tl=1",
+          "og:url": "https://www.foxbusiness.com/markets/u-n-warns-of-potential-food-crisis",
+          "og:site_name": "Fox Business",
+          "fb:pages": "12795435237",
+          "twitter:title": "U.N. Warns of Potential Food Crisis",
+          "twitter:description": "The United Nations food agency said already-high food prices could rise further and increase the potential for a food crisis of the kind seen in 2007/08.",
+          "fb:app_id": "116027085089150",
+          "article:opinion": "false"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "U.N. warns of a potential food crisis as world food prices surged in July, increasing the potential for a food crisis similar to the one seen in 2007/08. The Food and Agriculture Organisation's senior economist and grain analyst Abdolreza Abbassian spoke to Reuters about price trends and potential policy impacts.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abdolreza Abbassian"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Fox Business",
+          "United Nations",
+          "Food and Agriculture Organisation",
+          "Reuters"
+        ],
+        "DATE": [
+          "August 9, 2012",
+          "January 14, 2015",
+          "July",
+          "2007/08",
+          "five years ago",
+          "April this year",
+          "February 2011",
+          "June"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "FAO Food Price Index"
+        ]
+      },
+      "score_e5": 0.7479236761093015
+    },
+    {
+      "titre": "The desert can be both beautiful and harsh. Its rugged ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DYOJdAnkR7y/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3895092303669305074",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNIxNTqDTQxqm_xU3AZjYCV2E5SkqG3Rfq_2ccubQU4-bvjAnG",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "The desert can be both beautiful and harsh. Its rugged ...",
+        "link": "https://www.instagram.com/p/DYOJdAnkR7y/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNIxNTqDTQxqm_xU3AZjYCV2E5SkqG3Rfq_2ccubQU4-bvjAnG",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3895092303669305074",
+        "image_width": 1948,
+        "image_height": 1559
+      },
+      "webpage": null,
+      "texte_contexte": "The desert can be both beautiful and harsh. Its rugged description on Instagram.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7700120677037111
+    },
+    {
+      "titre": "Previsões de clima do Meio-Oeste impulsionam futuros do ...",
+      "source": "Money Times",
+      "lien": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/",
+      "image_url": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado--220x118.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1_L_mZRPgp7npFjFbAbcwp_EoNT8p_wQvdzqgntkHd23qMwr5",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Previsões de clima do Meio-Oeste impulsionam futuros do ...",
+        "link": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/",
+        "source": "Money Times",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTbSRt1_tijagkADxGLrUVxsRaee97pdZCqtwNGOFYRWaaRocU3csb_dstVgx81D9PEY_P5OoCq_9pP5NzDaV59id14MsqxS0DUZhOltGKXfRlFEK-UMm0EO_8",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1_L_mZRPgp7npFjFbAbcwp_EoNT8p_wQvdzqgntkHd23qMwr5",
+        "thumbnail_width": 118,
+        "thumbnail_height": 220,
+        "image": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado--220x118.jpg",
+        "image_width": 118,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "Previsões de clima do Meio-Oeste impulsionam futuros do milho e da soja dos EUA – Money Times\n\nOs contratos futuros do milho e da soja dos Estados Unidos avançaram nesta terça-feira, após o relatório do governo mostrar que as condições das safras estavam piores do que o esperado, com onda de calor atingindo o Meio-Oeste dos EUA.\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\n“O relatório de progresso da safra de ontem deu muito alimento os altistas”, afirmou Matt Zeller, diretor de informação de mercado da StoneX, em nota a clientes. “Nenhuma mudança até agora nas previsões do clima quente e seco adiante”.\n\nOs futuros do trigo dos EUA estavam sem direção comum, com contratos do trigo de inverno avançando com compra técnicas, enquanto o trigo de primavera recuou pelo segundo dia consecutivo após algumas chuvas no Canadá.\n\nOs futuros da soja negociados em Chicago fecharam em alta de 19,75 centavos de dólar, a 15,80 dólares o bushel, e o milho teve alta de 0,75 centavo, a 6,80 dólares.\n\nO Departamento de Agricultura dos Estados Unidos (USDA, na sigla em inglês) classificou na segunda-feira 72% da safra de milho dos EUA em condições boa a excelente.\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nIsso representou uma queda de 4 pontos percentuais ante uma semana atrás e abaixo da média estimada em pesquisa da Reuters.\n\nO trigo soft vermelho de inverno em Chicago para julho teve alta de 5 centavos de dólar, em 6,85 dólares.\n\nPorém o trigo de primavera negociado em Mineápolis para entrega para julho teve queda de 13,75 centavos de dólar, a 7,7125 dólares.\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE",
+        "metadata": {
+          "title": "Previsões de clima do Meio-Oeste impulsionam futuros do milho e da soja dos EUA &#8211; Money Times",
+          "description": "Os contratos futuros do milho e da soja dos Estados Unidos avançaram nesta terça-feira, após o relatório do governo mostrar que as condições das safras",
+          "og:locale": "pt_BR",
+          "og:type": "article",
+          "og:title": "Previsões de clima do Meio-Oeste impulsionam futuros do milho e da soja dos EUA – Money Times",
+          "og:description": "Os contratos futuros do milho e da soja dos Estados Unidos avançaram nesta terça-feira, após o relatório do governo mostrar que as condições das safras",
+          "og:url": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/",
+          "og:site_name": "Money Times",
+          "article:publisher": "https://www.facebook.com/moneytimesbr/",
+          "article:published_time": "2021-06-08T21:25:39+00:00",
+          "og:image": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado-.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "680",
+          "og:image:type": "image/jpeg",
+          "author": "Reuters"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#article",
+              "isPartOf": {
+                "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/"
+              },
+              "author": {
+                "name": "Reuters",
+                "@id": "https://www.moneytimes.com.br/#/schema/person/394431aae1f3ecff5b3e5c9a96a1421d"
+              },
+              "headline": "Previsões de clima do Meio-Oeste impulsionam futuros do milho e da soja dos EUA",
+              "datePublished": "2021-06-08T21:25:39+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/"
+              },
+              "wordCount": 292,
+              "publisher": {
+                "@id": "https://www.moneytimes.com.br/#organization"
+              },
+              "image": {
+                "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado-.jpg",
+              "keywords": [
+                "Agro Times",
+                "Agronegócio",
+                "Canadá",
+                "Clima",
+                "Estados Unidos (EUA)",
+                "Milho",
+                "Reuters",
+                "Soja",
+                "Trigo",
+                "USDA"
+              ],
+              "articleSection": [
+                "Economia"
+              ],
+              "inLanguage": "pt-BR",
+              "copyrightYear": "2021",
+              "copyrightHolder": {
+                "@id": "https://www.moneytimes.com.br/#organization"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/",
+              "url": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/",
+              "name": "Previsões de clima do Meio-Oeste impulsionam futuros do milho e da soja dos EUA &#8211; Money Times",
+              "isPartOf": {
+                "@id": "https://www.moneytimes.com.br/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado-.jpg",
+              "datePublished": "2021-06-08T21:25:39+00:00",
+              "description": "Os contratos futuros do milho e da soja dos Estados Unidos avançaram nesta terça-feira, após o relatório do governo mostrar que as condições das safras",
+              "breadcrumb": {
+                "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#breadcrumb"
+              },
+              "inLanguage": "pt-BR",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "pt-BR",
+              "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#primaryimage",
+              "url": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado-.jpg",
+              "contentUrl": "https://www.moneytimes.com.br/uploads/2021/06/milho-prejudicado-.jpg",
+              "width": 1280,
+              "height": 680,
+              "caption": "(Imagem: REUTERS/Adrees Latif)"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.moneytimes.com.br/previsoes-de-clima-do-meio-oeste-impulsionam-futuros-do-milho-e-da-soja-dos-eua/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Início",
+                  "item": "https://www.moneytimes.com.br/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Previsões de clima do Meio-Oeste impulsionam futuros do milho e da soja dos EUA"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.moneytimes.com.br/#website",
+              "url": "https://www.moneytimes.com.br/",
+              "name": "Money Times",
+              "description": "Notícias que enriquecem seu dia",
+              "publisher": {
+                "@id": "https://www.moneytimes.com.br/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.moneytimes.com.br/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "pt-BR"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.moneytimes.com.br/#organization",
+              "name": "Money Times",
+              "url": "https://www.moneytimes.com.br/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "pt-BR",
+                "@id": "https://www.moneytimes.com.br/#/schema/logo/image/",
+                "url": "https://www.moneytimes.com.br/uploads/2021/05/moneytimes-192x192-2.png",
+                "contentUrl": "https://www.moneytimes.com.br/uploads/2021/05/moneytimes-192x192-2.png",
+                "width": 192,
+                "height": 192,
+                "caption": "Money Times"
+              },
+              "image": {
+                "@id": "https://www.moneytimes.com.br/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/moneytimesbr/",
+                "https://x.com/leiamoneytimes",
+                "https://www.instagram.com/moneytimesbr",
+                "https://www.youtube.com/channel/UComAl6MjIyRzDhMuXXQExKw",
+                "https://br.linkedin.com/company/moneytimes",
+                "https://whatsapp.com/channel/0029VanoOOmHgZWkdNixhF1s",
+                "https://www.tiktok.com/@moneytimesbr"
+              ],
+              "publishingPrinciples": "https://www.moneytimes.com.br/cryptotimes/sobre/",
+              "actionableFeedbackPolicy": "https://www.moneytimes.com.br/contato/"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.moneytimes.com.br/#/schema/person/394431aae1f3ecff5b3e5c9a96a1421d",
+              "name": "Reuters",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "pt-BR",
+                "@id": "https://secure.gravatar.com/avatar/22a0bf2ce2ff8cc19398181f78418b17d9643e40292ee0cddf090c1cfe29336a?s=96&d=mm&r=g",
+                "url": "https://secure.gravatar.com/avatar/22a0bf2ce2ff8cc19398181f78418b17d9643e40292ee0cddf090c1cfe29336a?s=96&d=mm&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/22a0bf2ce2ff8cc19398181f78418b17d9643e40292ee0cddf090c1cfe29336a?s=96&d=mm&r=g",
+                "caption": "Reuters"
+              },
+              "description": "A Reuters é uma das mais importantes e respeitadas agências de notícias do mundo. Fundada em 1851, no Reino Unido, por Paul Reuter. Com o tempo, expandiu sua cobertura para notícias gerais, políticas, econômicas e internacionais.",
+              "url": "https://www.moneytimes.com.br/author/reuters/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Midwest weather forecasts boost U.S. corn and soybean futures after a government report showed crop conditions were worse than expected due to a heatwave hitting the U.S. Midwest. The U.S. Department of Agriculture classified 72% of the U.S. corn crop in good to excellent condition.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Matt Zeller"
+        ],
+        "LOCATION": [
+          "United States",
+          "Canada",
+          "Chicago",
+          "Minneapolis"
+        ],
+        "ORGANIZATION": [
+          "Money Times",
+          "StoneX",
+          "Reuters",
+          "United States Department of Agriculture"
+        ],
+        "DATE": [
+          "Tuesday",
+          "Monday",
+          "July"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8003359635677898
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Centerville Iowa"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "corn plant",
+      "corn field"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iowa",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abdolreza Abbassian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Fox Business",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "United Nations",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Food and Agriculture Organisation",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 9, 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 14, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007/08",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "five years ago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April this year",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 2011",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "FAO Food Price Index",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matt Zeller",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chicago",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Minneapolis",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Money Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "StoneX",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "United States Department of Agriculture",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T12:59:39.170167"
+  }
+}

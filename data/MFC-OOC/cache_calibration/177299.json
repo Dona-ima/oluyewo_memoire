@@ -1,0 +1,936 @@
+{
+  "id_rumeur": 177299,
+  "id_image": 177299,
+  "caption": "Facebook s headquarters in Menlo Park Calif",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748713/oluyewo_benchmark/jho2j2q5nr7dw4y34tj1.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Mark Zuckerberg leveraged Facebook user data to fight rivals ...",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_16/2822366/190415-facebook-campus-mn-1220.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG0CMlzX_cUigHwzZ28TCMuEHYLFd6rrUQ9ibVkYtaG_26RYnQ",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals ...",
+        "link": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8eff1d3d0e4e242a151a2e/images/M4Xakk3zWS2OLQYn59aUd7ntnZtIP6Jh7qCeuaPDJ7s.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG0CMlzX_cUigHwzZ28TCMuEHYLFd6rrUQ9ibVkYtaG_26RYnQ",
+        "thumbnail_width": 176,
+        "thumbnail_height": 287,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_16/2822366/190415-facebook-campus-mn-1220.jpg",
+        "image_width": 466,
+        "image_height": 760
+      },
+      "webpage": {
+        "text": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show\n\nFacebook CEO Mark Zuckerberg oversaw plans to consolidate the social network’s power and control competitors by treating its users’ data as a bargaining chip, while publicly proclaiming to be protecting that data, according to about 4,000 pages of leaked company documents largely spanning 2011 to 2015 and obtained by NBC News.\n\nThe documents, which include emails, webchats, presentations, spreadsheets and meeting summaries, show how Zuckerberg, along with his board and management team, found ways to tap Facebook’s trove of user data — including information about friends, relationships and photos — as leverage over companies it partnered with.\n\nIn some cases, Facebook would reward favored companies by giving them access to the data of its users. In other cases, it would deny user-data access to rival companies or apps.\n\n\nFor example, Facebook gave Amazon extended access to user data because it was spending money on Facebook advertising and partnering with the social network on the launch of its Fire smartphone. In another case, Facebook discussed cutting off access to user data for a messaging app that had grown too popular and was viewed as a competitor, according to the documents.\n\nAll the while, Facebook was formulating a strategy to publicly frame these moves as a way of protecting user privacy.\n\nPrivate communication between users is “increasingly important,” Zuckerberg said in a 2014 New York Times interview. “Anything we can do that makes people feel more comfortable is really good.”\n\nBut the documents show that behind the scenes, in contrast with Facebook’s public statements, the company came up with several ways to require third-party applications to compensate Facebook for access to its users’ data, including direct payment, advertising spending and data-sharing arrangements. While it’s not unusual for businesses that are working together to share information about their customers, Facebook has access to sensitive data that many other companies don’t possess.\n\nFacebook ultimately decided not to sell the data directly but rather to dole it out to app developers who were considered personal “friends” of Zuckerberg or who spent money on Facebook and shared their own valuable data, the documents show.\n\nFacebook denied that it gave preferential treatment to developers or partners because of their ad spending or relationship with executives. The company has not been accused of breaking the law.\n\nAbout 400 of the 4,000 pages of documents have previously been reported by other media outlets, and also by a member of the British Parliament who has been investigating Facebook’s data privacy practices in the wake of the Cambridge Analytica scandal. However, this cache represents the clearest and most comprehensive picture of Facebook’s activities during a critical period as the company struggled to adapt to the rise of smartphones following its rocky debut as a public company.\n\nThe thousands of newly shared documents were anonymously leaked to the British investigative journalist Duncan Campbell, who shared them with a handful of media organizations: NBC News, Computer Weekly and Süddeutsche Zeitung. Campbell, a founding member of the International Consortium of Investigative Journalists, is a computer forensics expert who has worked on international investigations including on offshore banking and big tobacco. The documents appear to be the same ones obtained by Parliament in late 2018 as part of an investigation into Facebook. Facebook did not question the authenticity of the documents NBC News obtained.\n\nThe documents stem from a California court case between the social network and the little-known startup Six4Three, which sued Facebook in 2015 after the company announced plans to cut off access to some types of user data. Six4Three’s app, Pikinis, which soft-launched in 2013, relied on that data to allow users to easily find photos of their friends in bathing suits.\n\nFacebook has acknowledged that it considered charging for access to user data. But Facebook has challenged the significance of those discussions, telling the Wall Street Journal last year and NBC News this month that the company was merely mulling various business models.\n\nFacebook has also repeatedly said that the documents had been “cherry-picked” and were misleading. Facebook reiterated this stance when NBC News contacted the social media company for comment on the newly leaked documents.\n\n“As we’ve said many times, Six4Three — creators of the Pikinis app — cherry picked these documents from years ago as part of a lawsuit to force Facebook to share information on friends of the app's users,” Paul Grewal, vice president and deputy general counsel at Facebook, said in a statement released by the company.\n\n“The set of documents, by design, tells only one side of the story and omits important context. We still stand by the platform changes we made in 2014/2015 to prevent people from sharing their friends' information with developers like the creators of Pikinis. The documents were selectively leaked as part of what the court found was evidence of a crime or fraud to publish some, but not all, of the internal discussions at Facebook at the time of our platform changes. But the facts are clear: we've never sold people’s data.”\n\nThe finding of “evidence of a crime or fraud” came from a preliminary decision by the judge in the Six4Three case about an earlier round of leaked documents.\n\nNBC News has not been able to determine whether the documents represent a complete picture. Facebook declined to provide additional evidence to support the claim of cherry-picking.\n\nStill, these freshly leaked documents show that the plans to sell access to user data were discussed for years and received support from Facebook’s most senior executives, including Zuckerberg, chief operating officer Sheryl Sandberg, chief product officer Chris Cox and VP of growth Javier Olivan. Facebook declined to make them available for comment.\n\nAfter NBC News contacted Facebook for comment, Facebook’s lawyers wrote to the judge in the Six4Three case, claiming that Six4Three had leaked the documents to a “national broadcast network” and seeking to depose Six4Three’s founders. NBC News received the documents from Campbell, who received them from an anonymous source. Six4Three denied leaking the documents.\n\nWhen Facebook ultimately cut off broad access to user data in 2015, the move contributed to the decline of thousands of competitors and small businesses that relied on what Facebook had previously described as a “level-playing field” in terms of access to data. In addition to Pikinis, the casualties included Lulu, an app that let women rate the men they dated; an identity fraud-detecting app called Beehive ID; and Swedish breast cancer awareness app Rosa Bandet (Pink Ribbon).\n\nThe strategy orchestrated by Zuckerberg had some of his employees comparing the company to villains from Game of Thrones, while David Poll, a senior engineer, called the treatment of outside app developers “sort of unethical,” according to the documents. But Zuckerberg’s approach also earned admiration: Doug Purdy, Facebook’s director of product, described the CEO as a “master of leverage,” according to the documents.\n\nFacebook declined to comment on these employee communications.\n\n\nA PRIVACY MYTH\n\nOne of the most striking threads to emerge from the documents is the way that Facebook user data was horse-traded to squeeze money or shared data from app developers.\n\nIn the wake of the Cambridge Analytica scandal in early 2018 and rising awareness of the Six4Three case, Facebook has attempted to frame changes it made to its platform in 2014 and 2015 as being driven by concerns over user privacy. In statements to media organizations, Facebook has said it locked down its platform to protect users from companies that mishandled user data, such as Cambridge Analytica, as well as apps that spammed users’ news feeds or were creepy, such as Six4Three’s bikini-spotting app Pikinis.\n\nHowever, among the documents leaked, there’s very little evidence that privacy was a major concern of Facebook’s, and the issue was rarely discussed in the thousands of pages of emails and meeting summaries. Where privacy is mentioned, it is often in the context of how Facebook can use it as a public relations strategy to soften the blow of the sweeping changes to developers’ access to user data. The documents include several examples suggesting that these changes were designed to cement Facebook’s power in the marketplace, not to protect users.\n\nIn Six4Three’s case, for example, Facebook’s head of policy Allison Hendrix acknowledged in a June 2017 deposition obtained by NBC News that the social network never received any complaints about the Pikinis app, nor did Facebook send Six4Three any policy or privacy violation notices. Six4Three, Hendrix confirmed, was playing within the rules Facebook had set for developers.\n\nDespite this, Six4Three’s access to data, specifically access to a user’s friends’ photos, was cut off in April 2015 as part of sweeping changes to Facebook’s platform announced a year earlier, which affected as many as 40,000 apps. Six4Three shut down the app soon afterward.\n\n“Our case is about Zuckerberg’s decision to weaponize the reliance of companies on his purportedly neutral platform and to weaponize the private and sensitive data of billions of people,” said Six4Three founder Ted Kramer.\n\n\nA TURNING POINT FOR FACEBOOK\n\nFacebook recognized early on that working with third-party app developers could help make the social network more interesting and drive the platform’s expansion. Beginning in early 2010, Facebook created tools that allowed the makers of games (remember Farmville?) and other apps to connect with its audience in return for ensuring those users spent more time on Facebook.\n\nFacebook achieved this through its “Graph API” (Application Programming Interface), a common means to allow software programs to interact with each other. In Facebook’s case, this meant that third-party apps such as games could post updates on people’s profiles, which would be seen by players’ friends and potentially encourage them to play, too. Beyond that, it allowed the makers of those games to access a slew of data from Facebook users, including their connections to friends, likes, locations, updates, photos and more.\n\nThe Graph API — and particularly the way it let third parties promote their products to and extract data from a user’s social connections — was a key feature of Facebook that Six4Three and thousands of other companies relied upon for viral marketing and user growth.\n\nHowever, after a few years, Facebook decided the app developers were getting more value from the user data they extracted from Facebook than Facebook was getting out of the app developers, the documents show.\n\nAfter Facebook went public in May 2012, its stock price plummeted, which Zuckerberg later characterized as “disappointing.” The company was in a desperate position, documents show, with users sharing fewer photos and posts on the platform as they spent more time on their cellphones. An internal Facebook presentation looking back at this period used the phrase “terminal decline” to describe the fall in engagement.\n\nFacebook executives, including Zuckerberg and Sandberg, spent months brainstorming ways to turn the company around. An idea that they kept returning to: make money from the app partners, by charging them for access to Facebook’s users and their data.\n\n\n‘SELL DATA FOR $”\n\nSeveral proposals for charging developers for access to Facebook’s platform and data were put forward in a presentation to the company’s board of directors, according to emails and draft slides from late August 2012.\n\nAmong the suggestions: a fixed annual fee for developers for reviewing their apps; an access fee for apps that requested user data; and a charge for “premium” access to data, such as a user trust score or a ranking of the strongest relationships between users and their friends.\n\n“Today the fundamental trade is ‘data for distribution’ whereas we want to change it to either ‘data for $’ and/or ‘$ for distribution,’” Chris Daniels, a Facebook business development director, wrote in an August 2012 email to other top leaders in the company discussing the upcoming presentation.\n\nDiscussions continued through October, when Zuckerberg explained to close friend Sam Lessin the importance of controlling third-party apps’ ability to access Facebook’s data and reach people’s friends on the platform. Without that leverage, “I don’t think we have any way to get developers to pay us at all,” Zuckerberg wrote in an email to Lessin.\n\nIn the same week, Zuckerberg floated the idea of pursuing 100 deals with developers “as a path to figuring out the real market value” of Facebook user data and then “setting a public rate” for developers.\n\n“The goal here wouldn’t be the deals themselves, but that through the process of negotiating with them we’d learn what developers would actually pay (which might be different from what they’d say if we just asked them about the value), and then we’d be better informed on our path to set a public rate,” Zuckerberg wrote in a chat.\n\nFacebook told NBC News that it was exploring ways to build a sustainable business, but ultimately decided not to go forward with these plans.\n\n\"I just can’t think of any instances where that data has leaked from developer to developer and caused a real issue for us.”\n\nZuckerberg was unfazed by the potential privacy risks associated with Facebook’s data-sharing arrangements.\n\n“I’m generally skeptical that there is as much data leak strategic risk as you think,” he wrote in the email to Lessin. “I think we leak info to developers but I just can’t think of any instances where that data has leaked from developer to developer and caused a real issue for us.”\n\nFacebook told NBC News that this was an example of a cherry-picked email designed to bolster Six4Three’s case.\n\nZuckerberg didn’t know it at the time, but a privacy bug affecting an unnamed third-party app would create precisely this kind of strategic risk the following year, according to a panicked chatlog between Michael Vernal, who was director of engineering, and other senior employees.\n\nIt’s not clear exactly what happened or which app was involved, but it appears that Zuckerberg’s private communications could have leaked from Facebook to the external app in an unexpected way.\n\nVernal said that it “could have been near-fatal for Facebook platform” if “Mark had accidentally disclosed earnings ahead of time because a platform app violated his privacy.”\n\n“Holy crap,” replied Avichal Garg, then director of product management.\n\n“DO NOT REPEAT THIS STORY OFF OF THIS THREAD,” added Vernal. “I can’t tell you how terrible this would have been for all of us had this not been caught quickly.”\n\nVernal and Garg did not respond to requests for comment.\n\n\n‘GOOD FOR THE WORLD’ BUT NOT ‘GOOD FOR US’\n\nIn late November 2012, Zuckerberg sent a long email to Facebook’s senior leadership team saying that Facebook shouldn’t charge developers for access to basic data feeds. However, he said that access to Facebook data should be contingent on the developers sharing all of the “social content” generated by their apps back to Facebook, something Zuckerberg calls “full reciprocity.”\n\nThe existing arrangement, where developers weren’t required to share their data back with Facebook, might be “good for the world” but it’s not “good for us,” Zuckerberg wrote in the email.\n\nHe noted that though Facebook could charge developers to access user data, the company stood to benefit more from requiring developers to compensate Facebook in kind — with their own data — and by pushing those developers to pay for advertising on Facebook’s platform.\n\nThe endgame: to ensure Facebook maintained its dominant position in the market.\n\n“The purpose of the platform is to tie the universe of all the social apps together so we can enable a lot more sharing and still remain the central social hub,” Zuckerberg said in the email.\n\nFacebook told NBC News that the focus of “full reciprocity” was to enable users to share their experiences within external apps with their friends on Facebook, not about providing Facebook with user data.\n\n\nCUTTING DEALS\n\nWith Zuckerberg’s vision for Facebook set, the company began making deals with some of its most valued partners, including dozens of app developer friends of Zuckerberg and Sandberg. Facebook whitelisted their access to feeds of user data while restricting that same access to apps that Facebook viewed as competitors.\n\nThese data access deals prepared key partners, including Tinder, Sony and Microsoft, for sweeping changes to the Facebook platform that the company planned to announce at its annual developer conference in April 2014 and enforce within a year.\n\nIn one instance, described in June 2013 documents, Amazon received special treatment for the launch of a group gifting product, despite the fact that it competed with one of Facebook’s own products.\n\n“Remind me, why did we allow them to do this? Do we receive any cut of purchases?” Chris Daniels, then Facebook’s director of business development, asked in an email.\n\n“No, but Amazon is an advertiser and supporting this with advertisement ... and working with us on deeper integrations for the Fire,” Amazon’s smartphone, replied Jackie Chang, who worked with Facebook’s “strategic partners.”\n\nAmazon released a statement to NBC News: “Amazon uses publicly available APIs provided by Facebook in order to enable Facebook experiences for our products and only uses information in accordance with our privacy policy.”\n\nApps that were not considered “strategic partners” got different treatment. In a March 2013 discussion, Justin Osofsky, then director of platform partnerships, described restricting the MessageMe app from accessing Facebook data because it had grown too popular and could compete with Facebook messages. He asked colleagues to see if any other messenger apps have “hit the growth team’s radar recently.”\n\n“If so, we'd like to restrict them at the same time to group this into one press cycle,\" he wrote in an email.\n\n\n‘IT’S SORT OF UNETHICAL’\n\nDeal negotiations created confusion among partners who had grown accustomed to unfettered access to Facebook user data.\n\n“We gave a bunch of stuff ‘for free’ historically (data, distribution) and now we’re making you ‘pay’ for it via reciprocal value,” Vernal, director of engineering, wrote in an email in June 2013. He added, “The confusing thing here is that we haven’t really announced these changes publicly/broadly yet.”\n\nSome Facebook employees were unhappy about this direction, particularly the way the company appeared to be blocking competitors from accessing data.\n\nHere’s an extract from a December 2013 chatlog between several senior engineers talking about the changes:\n\nBryan Klimt: “So we are literally going to group apps into buckets based on how scared we are of them and give them different APIs? ... So the message is, ‘if you’re going to compete with us at all, make sure you don’t integrate with us at all’? I’m just dumbfounded.”\n\nKevin Lacker: “Yeah this is complicated.”\n\nDavid Poll: “More than complicated, it’s sort of unethical.”\n\nLacker and Poll declined to comment. Vernal and Klimt did not respond to requests for comment.\n\nFacebook declined to comment on the employee exchanges.\n\n\nTHE PR SPIN\n\nWhen it came to publicly announcing the sweeping changes at Facebook’s annual F8 developer conference in April 2014, members of the communications team worked with Zuckerberg to craft a narrative around user trust, not competition or profitability.\n\nIn a March 2014 email discussing Zuckerberg’s keynote speech at the event, where he was due to announce the removal of developers’ access to f",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "Olivia Solon | Cyrus Farivar | Jason Abbruzzese | Michael Cappetta | David Ingram | Ben Popken",
+          "description": "Facebook CEO Mark Zuckerberg oversaw plans to consolidate the social network’s power and control competitors by treating its users’ data as a bargaining chip, while publicly proclaiming to be protecting that data, according to about 4,000 pages of leaked company documents.",
+          "og:url": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+          "og:title": "Thousands of leaked Facebook documents show Mark Zuckerberg as ‘master of leverage’ in plan to trade user data",
+          "og:description": "Facebook’s leaders seriously discussed selling access to user data — and privacy was an afterthought.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_16/2813741/190408-facebook-documents-privacy-main-kh.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_16/2813741/190408-facebook-documents-privacy-main-kh.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Thousands of leaked Facebook documents show Mark Zuckerberg as ‘master of leverage’ in plan to trade user data",
+          "branch:deeplink:description": "Facebook’s leaders seriously discussed selling access to user data — and privacy was an afterthought.",
+          "twitter:title": "Thousands of leaked Facebook documents show Mark Zuckerberg as ‘master of leverage’ in plan to trade user data",
+          "twitter:description": "Facebook’s leaders seriously discussed selling access to user data — and privacy was an afterthought.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2019-04-18T23:51:15.000Z",
+          "article:modified_time": "2019-04-18T23:51:16.000Z",
+          "branch:deeplink:authorThumbnail1": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_08/3452120/headshot2021.jpeg",
+          "branch:deeplink:authorName1": "Olivia Solon",
+          "branch:deeplink:authorThumbnail2": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_11/2784541/cyrus-farivar-1500.jpg",
+          "branch:deeplink:authorName2": "Cyrus Farivar"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show",
+          "url": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2019_16/2813741/190408-facebook-documents-privacy-main-kh.jpg",
+          "alternativeHeadline": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show",
+          "articleBody": "Facebook CEO Mark Zuckerberg oversaw plans to consolidate the social network’s power and control competitors by treating its users’ data as a bargaining chip, while publicly proclaiming to be protecting that data, according to about 4,000 pages of leaked company documents largely spanning 2011 to 2015 and obtained by NBC News. The documents, which include emails, webchats, presentations, spreadsheets and meeting summaries, show how Zuckerberg, along with his board and management team, found ways to tap Facebook’s trove of user data — including information about friends, relationships and photos — as leverage over companies it partnered with. In some cases, Facebook would reward favored companies by giving them access to the data of its users. In other cases, it would deny user-data access to rival companies or apps.  For example, Facebook gave Amazon extended access to user data because it was spending money on Facebook advertising and partnering with the social network on the launch of its Fire smartphone. In another case, Facebook discussed cutting off access to user data for a messaging app that had grown too popular and was viewed as a competitor, according to the documents. All the while, Facebook was formulating a strategy to publicly frame these moves as a way of protecting user privacy. Private communication between users is “increasingly important,” Zuckerberg said in a 2014 New York Times interview. “Anything we can do that makes people feel more comfortable is really good.”  But the documents show that behind the scenes, in contrast with Facebook’s public statements, the company came up with several ways to require third-party applications to compensate Facebook for access to its users’ data, including direct payment, advertising spending and data-sharing arrangements. While it’s not unusual for businesses that are working together to share information about their customers, Facebook has access to sensitive data that many other companies don’t possess. Facebook ultimately decided not to sell the data directly but rather to dole it out to app developers who were considered personal “friends” of Zuckerberg or who spent money on Facebook and shared their own valuable data, the documents show. Facebook denied that it gave preferential treatment to developers or partners because of their ad spending or relationship with executives. The company has not been accused of breaking the law.  About 400 of the 4,000 pages of documents have previously been reported by other media outlets, and also by a member of the British Parliament who has been investigating Facebook’s data privacy practices in the wake of the Cambridge Analytica scandal. However, this cache represents the clearest and most comprehensive picture of Facebook’s activities during a critical period as the company struggled to adapt to the rise of smartphones following its rocky debut as a public company. The thousands of newly shared documents were anonymously leaked to the British investigative journalist Duncan Campbell, who shared them with a handful of media organizations: NBC News, Computer Weekly and Süddeutsche Zeitung. Campbell, a founding member of the International Consortium of Investigative Journalists, is a computer forensics expert who has worked on international investigations including on offshore banking and big tobacco. The documents appear to be the same ones obtained by Parliament in late 2018 as part of an investigation into Facebook. Facebook did not question the authenticity of the documents NBC News obtained.  The documents stem from a California court case between the social network and the little-known startup Six4Three, which sued Facebook in 2015 after the company announced plans to cut off access to some types of user data. Six4Three’s app, Pikinis, which soft-launched in 2013, relied on that data to allow users to easily find photos of their friends in bathing suits. Facebook has acknowledged that it considered charging for access to user data. But Facebook has challenged the significance of those discussions, telling the Wall Street Journal last year and NBC News this month that the company was merely mulling various business models. Facebook has also repeatedly said that the documents had been “cherry-picked” and were misleading. Facebook reiterated this stance when NBC News contacted the social media company for comment on the newly leaked documents. “As we’ve said many times, Six4Three — creators of the Pikinis app — cherry picked these documents from years ago as part of a lawsuit to force Facebook to share information on friends of the app's users,” Paul Grewal, vice president and deputy general counsel at Facebook, said in a statement released by the company. “The set of documents, by design, tells only one side of the story and omits important context. We still stand by the platform changes we made in 2014/2015 to prevent people from sharing their friends' information with developers like the creators of Pikinis. The documents were selectively leaked as part of what the court found was evidence of a crime or fraud to publish some, but not all, of the internal discussions at Facebook at the time of our platform changes. But the facts are clear: we've never sold people’s data.” The finding of “evidence of a crime or fraud” came from a preliminary decision by the judge in the Six4Three case about an earlier round of leaked documents. NBC News has not been able to determine whether the documents represent a complete picture. Facebook declined to provide additional evidence to support the claim of cherry-picking. Still, these freshly leaked documents show that the plans to sell access to user data were discussed for years and received support from Facebook’s most senior executives, including Zuckerberg, chief operating officer Sheryl Sandberg, chief product officer Chris Cox and VP of growth Javier Olivan. Facebook declined to make them available for comment. After NBC News contacted Facebook for comment, Facebook’s lawyers wrote to the judge in the Six4Three case, claiming that Six4Three had leaked the documents to a “national broadcast network” and seeking to depose Six4Three’s founders. NBC News received the documents from Campbell, who received them from an anonymous source. Six4Three denied leaking the documents.  When Facebook ultimately cut off broad access to user data in 2015, the move contributed to the decline of thousands of competitors and small businesses that relied on what Facebook had previously described as a “level-playing field” in terms of access to data. In addition to Pikinis, the casualties included Lulu, an app that let women rate the men they dated; an identity fraud-detecting app called Beehive ID; and Swedish breast cancer awareness app Rosa Bandet (Pink Ribbon). The strategy orchestrated by Zuckerberg had some of his employees comparing the company to villains from Game of Thrones, while David Poll, a senior engineer, called the treatment of outside app developers “sort of unethical,” according to the documents. But Zuckerberg’s approach also earned admiration: Doug Purdy, Facebook’s director of product, described the CEO as a “master of leverage,” according to the documents. Facebook declined to comment on these employee communications. A PRIVACY MYTH One of the most striking threads to emerge from the documents is the way that Facebook user data was horse-traded to squeeze money or shared data from app developers. In the wake of the Cambridge Analytica scandal in early 2018 and rising awareness of the Six4Three case, Facebook has attempted to frame changes it made to its platform in 2014 and 2015 as being driven by concerns over user privacy. In statements to media organizations, Facebook has said it locked down its platform to protect users from companies that mishandled user data, such as Cambridge Analytica, as well as apps that spammed users’ news feeds or were creepy, such as Six4Three’s bikini-spotting app Pikinis.  However, among the documents leaked, there’s very little evidence that privacy was a major concern of Facebook’s, and the issue was rarely discussed in the thousands of pages of emails and meeting summaries. Where privacy is mentioned, it is often in the context of how Facebook can use it as a public relations strategy to soften the blow of the sweeping changes to developers’ access to user data. The documents include several examples suggesting that these changes were designed to cement Facebook’s power in the marketplace, not to protect users. In Six4Three’s case, for example, Facebook’s head of policy Allison Hendrix acknowledged in a June 2017 deposition obtained by NBC News that the social network never received any complaints about the Pikinis app, nor did Facebook send Six4Three any policy or privacy violation notices. Six4Three, Hendrix confirmed, was playing within the rules Facebook had set for developers. Despite this, Six4Three’s access to data, specifically access to a user’s friends’ photos, was cut off in April 2015 as part of sweeping changes to Facebook’s platform announced a year earlier, which affected as many as 40,000 apps. Six4Three shut down the app soon afterward.  “Our case is about Zuckerberg’s decision to weaponize the reliance of companies on his purportedly neutral platform and to weaponize the private and sensitive data of billions of people,” said Six4Three founder Ted Kramer. A TURNING POINT FOR FACEBOOK Facebook recognized early on that working with third-party app developers could help make the social network more interesting and drive the platform’s expansion. Beginning in early 2010, Facebook created tools that allowed the makers of games (remember Farmville?) and other apps to connect with its audience in return for ensuring those users spent more time on Facebook. Facebook achieved this through its “Graph API” (Application Programming Interface), a common means to allow software programs to interact with each other. In Facebook’s case, this meant that third-party apps such as games could post updates on people’s profiles, which would be seen by players’ friends and potentially encourage them to play, too. Beyond that, it allowed the makers of those games to access a slew of data from Facebook users, including their connections to friends, likes, locations, updates, photos and more. The Graph API — and particularly the way it let third parties promote their products to and extract data from a user’s social connections — was a key feature of Facebook that Six4Three and thousands of other companies relied upon for viral marketing and user growth. However, after a few years, Facebook decided the app developers were getting more value from the user data they extracted from Facebook than Facebook was getting out of the app developers, the documents show.  After Facebook went public in May 2012, its stock price plummeted, which Zuckerberg later characterized as “disappointing.” The company was in a desperate position, documents show, with users sharing fewer photos and posts on the platform as they spent more time on their cellphones. An internal Facebook presentation looking back at this period used the phrase “terminal decline” to describe the fall in engagement. Facebook executives, including Zuckerberg and Sandberg, spent months brainstorming ways to turn the company around. An idea that they kept returning to: make money from the app partners, by charging them for access to Facebook’s users and their data. ‘SELL DATA FOR $” Several proposals for charging developers for access to Facebook’s platform and data were put forward in a presentation to the company’s board of directors, according to emails and draft slides from late August 2012. Among the suggestions: a fixed annual fee for developers for reviewing their apps; an access fee for apps that requested user data; and a charge for “premium” access to data, such as a user trust score or a ranking of the strongest relationships between users and their friends. “Today the fundamental trade is ‘data for distribution’ whereas we want to change it to either ‘data for $’ and/or ‘$ for distribution,’” Chris Daniels, a Facebook business development director, wrote in an August 2012 email to other top leaders in the company discussing the upcoming presentation. Discussions continued through October, when Zuckerberg explained to close friend Sam Lessin the importance of controlling third-party apps’ ability to access Facebook’s data and reach people’s friends on the platform. Without that leverage, “I don’t think we have any way to get developers to pay us at all,” Zuckerberg wrote in an email to Lessin. In the same week, Zuckerberg floated the idea of pursuing 100 deals with developers “as a path to figuring out the real market value” of Facebook user data and then “setting a public rate” for developers. “The goal here wouldn’t be the deals themselves, but that through the process of negotiating with them we’d learn what developers would actually pay (which might be different from what they’d say if we just asked them about the value), and then we’d be better informed on our path to set a public rate,” Zuckerberg wrote in a chat. Facebook told NBC News that it was exploring ways to build a sustainable business, but ultimately decided not to go forward with these plans.  Zuckerberg was unfazed by the potential privacy risks associated with Facebook’s data-sharing arrangements. “I’m generally skeptical that there is as much data leak strategic risk as you think,” he wrote in the email to Lessin. “I think we leak info to developers but I just can’t think of any instances where that data has leaked from developer to developer and caused a real issue for us.” Facebook told NBC News that this was an example of a cherry-picked email designed to bolster Six4Three’s case. Zuckerberg didn’t know it at the time, but a privacy bug affecting an unnamed third-party app would create precisely this kind of strategic risk the following year, according to a panicked chatlog between Michael Vernal, who was director of engineering, and other senior employees. It’s not clear exactly what happened or which app was involved, but it appears that Zuckerberg’s private communications could have leaked from Facebook to the external app in an unexpected way. Vernal said that it “could have been near-fatal for Facebook platform” if “Mark had accidentally disclosed earnings ahead of time because a platform app violated his privacy.” “Holy crap,” replied Avichal Garg, then director of product management. “DO NOT REPEAT THIS STORY OFF OF THIS THREAD,” added Vernal. “I can’t tell you how terrible this would have been for all of us had this not been caught quickly.” Vernal and Garg did not respond to requests for comment. ‘GOOD FOR THE WORLD’ BUT NOT ‘GOOD FOR US’ In late November 2012, Zuckerberg sent a long email to Facebook’s senior leadership team saying that Facebook shouldn’t charge developers for access to basic data feeds. However, he said that access to Facebook data should be contingent on the developers sharing all of the “social content” generated by their apps back to Facebook, something Zuckerberg calls “full reciprocity.” The existing arrangement, where developers weren’t required to share their data back with Facebook, might be “good for the world” but it’s not “good for us,” Zuckerberg wrote in the email. He noted that though Facebook could charge developers to access user data, the company stood to benefit more from requiring developers to compensate Facebook in kind — with their own data — and by pushing those developers to pay for advertising on Facebook’s platform. The endgame: to ensure Facebook maintained its dominant position in the market. “The purpose of the platform is to tie the universe of all the social apps together so we can enable a lot more sharing and still remain the central social hub,” Zuckerberg said in the email. Facebook told NBC News that the focus of “full reciprocity” was to enable users to share their experiences within external apps with their friends on Facebook, not about providing Facebook with user data. CUTTING DEALS With Zuckerberg’s vision for Facebook set, the company began making deals with some of its most valued partners, including dozens of app developer friends of Zuckerberg and Sandberg. Facebook whitelisted their access to feeds of user data while restricting that same access to apps that Facebook viewed as competitors. These data access deals prepared key partners, including Tinder, Sony and Microsoft, for sweeping changes to the Facebook platform that the company planned to announce at its annual developer conference in April 2014 and enforce within a year. In one instance, described in June 2013 documents, Amazon received special treatment for the launch of a group gifting product, despite the fact that it competed with one of Facebook’s own products. “Remind me, why did we allow them to do this? Do we receive any cut of purchases?” Chris Daniels, then Facebook’s director of business development, asked in an email. “No, but Amazon is an advertiser and supporting this with advertisement ... and working with us on deeper integrations for the Fire,” Amazon’s smartphone, replied Jackie Chang, who worked with Facebook’s “strategic partners.” Amazon released a statement to NBC News: “Amazon uses publicly available APIs provided by Facebook in order to enable Facebook experiences for our products and only uses information in accordance with our privacy policy.” Apps that were not considered “strategic partners” got different treatment. In a March 2013 discussion, Justin Osofsky, then director of platform partnerships, described restricting the MessageMe app from accessing Facebook data because it had grown too popular and could compete with Facebook messages. He asked colleagues to see if any other messenger apps have “hit the growth team’s radar recently.” “If so, we'd like to restrict them at the same time to group this into one press cycle,\" he wrote in an email. ‘IT’S SORT OF UNETHICAL’ Deal negotiations created confusion among partners who had grown accustomed to unfettered access to Facebook user data. “We gave a bunch of stuff ‘for free’ historically (data, distribution) and now we’re making you ‘pay’ for it via reciprocal value,” Vernal, director of engineering, wrote in an email in June 2013. He added, “The confusing thing here is that we haven’t really announced these changes publicly/broadly yet.” Some Facebook employees were unhappy about this direction, particularly the way the company appeared to be blocking competitors from accessing data. Here’s an extract from a December 2013 chatlog between several senior engineers talking about the changes: Bryan Klimt: “So we are literally going to group apps into buckets based on how scared we are of them and give them different APIs? ... So the message is, ‘if you’re going to compete with us at all, make sure you don’t integrate with us at all’? I’m just dumbfounded.” Kevin Lacker: “Yeah this is complicated.” David Poll: “More than complicated, it’s sort of unethical.” Lacker and Poll declined to comment. Vernal and Klimt did not respond to requests for comment. Facebook declined to comment on the employee exchanges. THE PR SPIN When it came to publicly announcing the sweeping changes at Facebook’s annual F8 developer conference in April 2014, members of the communications team worked with Zuckerberg to craft a narrative around user trust, not competition or profitability. In a March 2014 email discussing Zuckerberg’s keynote speech at the event, where he was due to announce the removal of developers’ access to friends’ data, Jonny Thaw, a director of communications, wrote that it “may be a tough message for some developers as it may inhibit their growth.” “So one idea that came up today was potentially talking in the keynote about some of the trust changes we’re making on Facebook itself. So the message would be: ‘trust is really important to us — on Facebook, we’re doing A, B and C to help people control and understand what they’re sharing — and with platform apps we’re doing D, E and F.’” If that doesn’t work, he added, “we could announce some of Facebook’s trust initiatives in the run up to F8” to make the changes for developers “seem more natural.” Facebook told NBC News that it was “completely reasonable” for someone on the communications team to discuss the best way to get the message out on changes to the platform. User trust was crucial when Zuckerberg delivered his speech at the event on April 30, 2014.  “Over the years, one of the things we’ve heard over and over again is that people want more control over how they share their information, especially with apps, and they want more say and control over how apps use their data,” he told the audience of journalists and developers. “And we take this really seriously because if people don’t have the tools they need to feel comfortable using your apps, that’s bad for them and that’s bad for you.” But despite Facebook’s public focus on privacy, staff member emails described confusion over the way third-party apps could override users’ privacy settings. Even if users locked down their account so that their photos and other data were visible to “only me,” those photos could still be transferred to third parties, according to the documents. In April 2015, Connie Yang, a product designer, told her colleagues that she’d discovered apps collecting profile data she had marked as “only me” and displaying it to “both you and *other people* using that app.” “While ‘whoa how did you start working at Casterly Rock’ is a fun opener,” she wrote, referring to the ancestral stronghold of the most fearsome family in “Game of Thrones,” “isn’t this directly violating what we tell users is ‘only me’?” Yang did not respond to requests for comment. Facebook said this was another example of cherry-picked emails. THE DOCUMENTS’ LEGACY Even though Facebook eventually decided not to charge developers directly for access to user data, the extensive discussions around its monetary value, shown in the leaked documents, could create lasting problems for the company, privacy and policy experts say. The biggest threat Facebook faces now is not competition but antitrust regulation, which is designed to promote fair competition among companies for the benefit of consumers, using fines or restrictions on mergers and acquisitions. Regulators have typically struggled to build robust antitrust cases against technology companies that offer services to users for free. If the product is free, then it’s harder to argue that the consumer is being harmed by a monopoly. But if regulators can show that users were paying for access to Facebook with their personal data, and that Facebook valued that data as leverage against competitors, that could expose Facebook to an antitrust complaint, said Jason Kint, CEO of Digital Content Next, a trade association representing digital publishers (including NBCUniversal, the parent company of NBC News).  “These emails clearly establish the value of consumer data to Facebook,” Kint said. “It shows that it is not free.” Facebook said that the service has always been free for users and developers.  In February, the Federal Trade Commission announced a task force to monitor anti-competitive behavior in the tech industry to, in the words of FTC chair Joseph Simons, “ensure consumers benefit from free and fair competition.” Policymakers have called for the FTC to investigate Facebook specifically for violating antitrust laws. The company “appears to have used its dominance to cripple other competitive threats by cutting them off from its massive network,” Rep. David Cicilline, D-R.I., chairman of the House Judiciary antitrust subcommittee, wrote in a New York Times op-ed last month. Facebook appears to be preparing for the inevitable, with Zuckerberg writing his own op-ed in The Washington Post in March calling for regulation in areas including harmful content and election integrity, but not antitrust. Facebook watchers saw this show of willingness as an attempt by Zuckerberg to curry favor with policymakers at a time when many are baying for the company’s blood. Ashkan Soltani, a privacy expert and former FTC chief technologist, said that Zuckerberg is approaching the looming threat of regulation with “bravado” and trying to “leverage things for his benefit.” Meanwhile, David Carroll, a professor at the New School, who pursued legal claims in the U.K. in the wake of the Cambridge Analytica data scandal, says Zuckerberg is “bracing for impact.” “When the penalty hits they can be like, ‘Yeah, we agree, we deserve this fine.’ It positions them to be conciliatory,” Carroll said. The “master of leverage” strikes again. This report has been prepared and published in conjunction with Duncan Campbell (U.K.), Computer Weekly (U.K.) and Süddeutsche Zeitung (Germany).",
+          "dateModified": "2019-04-18T23:51:15.000Z",
+          "datePublished": "2019-04-16T08:30:00.000Z",
+          "articleSection": "tech",
+          "articleId": "ncna994706",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna994706"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_16/2813741/190408-facebook-documents-privacy-main-kh.jpg",
+            "caption": "Leaked internal Facebook documents show that the plans to sell access to user data were discussed for years and received support from Facebook’s most senior executives, including CEO Mark Zuckerberg and chief operating officer Sheryl Sandberg. ",
+            "height": 1400,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Olivia Solon",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_08/3452120/headshot2021.jpeg",
+              "jobTitle": null,
+              "description": "Olivia Solon was a former senior reporter on the tech investigations team for NBC News.",
+              "url": "https://www.nbcnews.com/author/olivia-solon-ncpn939786"
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Cyrus Farivar",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_11/2784541/cyrus-farivar-1500.jpg",
+              "jobTitle": null,
+              "description": "Cyrus Farivar was a former reporter on the tech investigations unit of NBC News in San Francisco.",
+              "url": "https://www.nbcnews.com/author/cyrus-farivar-ncpn973741"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "Facebook CEO Mark Zuckerberg oversaw plans to consolidate the social network’s power and control competitors by treating its users’ data as a bargaining chip, while publicly proclaiming to be protecting that data, according to about 4,000 pages of leaked company documents.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true,
+          "contributor": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Jason Abbruzzese",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2019_29/2936176/190619-jason-abbruzzese-byline2419.jpg",
+              "jobTitle": "Assistant Managing Editor",
+              "description": "Jason Abbruzzese is the assistant managing editor of tech and science for NBC News Digital.",
+              "disambiguatingDescription": "After brief stints in Fitchburg, Massachusetts, and Shanghai, I came to New York to pursue a career in journalism and was fortunate enough to work at the Financial Times and Mashable before joining NBC News in 2018. I got my start at The Daily Free Press, Boston University's independent student newspaper.",
+              "url": "https://www.nbcnews.com/author/jason-abbruzzese-ncpn843466",
+              "sameAs": [
+                "https://x.com/JasonAbbruzzese",
+                "https://www.threads.net/@jasonabbruzzese"
+              ]
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Michael Cappetta",
+              "image": null,
+              "jobTitle": null,
+              "description": "Michael Cappetta is a producer at NBC News covering business and technology.",
+              "sameAs": [
+                "https://x.com/mcappetta"
+              ]
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "David Ingram",
+              "image": null,
+              "jobTitle": "Tech Reporter",
+              "description": "David Ingram is a tech reporter for NBC News.",
+              "disambiguatingDescription": "Readers are interested in technology from many angles, including how tech is upending politics, why the internet is swallowing the economy and what people are doing to hold Silicon Valley accountable. Luckily, I have experience as a politics reporter, business reporter and legal reporter. I started at newspapers in North Carolina, where I wrote about state government and political campaigns. I covered Roy Cooper and Thom Tillis before they were on the national stage, and I investigated corruption among members of both parties. Later I turned to writing about our legal system, first for the Legal Times newspaper and then Reuters. I landed exclusive interviews with people from the White House and Justice Department and covered the courts from top to bottom, including Supreme Court rulings, nomination hearings and antitrust class actions. I first approached tech from a business perspective, writing about Facebook for Reuters at a crucial time for the company and its core advertising model. Now I look at the whole tech industry, using all my previous assignments in journalism to find stories that are distinctive and essential for NBC News. I have a bachelor’s degree in political science from Duke University, where I was the editor of the daily student-run newspaper, The Chronicle.",
+              "url": "https://www.nbcnews.com/author/david-ingram-ncpn890161",
+              "sameAs": [
+                "https://www.facebook.com/davidingramwrites",
+                "https://x.com/David_Ingram",
+                "https://www.threads.net/@david_ingram"
+              ]
+            },
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Ben Popken",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2014_01/91961/popkenheadshot.jpg",
+              "jobTitle": null,
+              "description": "Ben Popken was a former senior business reporter for NBC News.",
+              "url": "https://www.nbcnews.com/author/ben-popken-ncpn2531"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Mark Zuckerberg a supervisé des plans visant à consolider le pouvoir de Facebook et à contrôler ses concurrents en utilisant les données des utilisateurs comme moyen de pression, selon des documents internes divulgués datant principalement de 2011 à 2015 obtenus par NBC News. Facebook a donné à certaines entreprises, comme Amazon, un accès étendu aux données en raison de leurs dépenses publicitaires et de partenariats, tout en bloquant l'accès à d'autres jugées concurrentes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mark Zuckerberg"
+        ],
+        "LOCATION": [
+          "Britain"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Facebook",
+          "Amazon",
+          "New York Times",
+          "Cambridge Analytica"
+        ],
+        "DATE": [
+          "2011",
+          "2015",
+          "2014"
+        ],
+        "EVENT": [
+          "Cambridge Analytica scandal"
+        ],
+        "OTHER": [
+          "Fire smartphone"
+        ]
+      },
+      "score_e5": 0.7311567860231151
+    },
+    {
+      "titre": "Facebook Says Likely Russian Operation Spent $100K on ...",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/news/us-news/facebook-says-likely-russian-operation-spent-100k-issues-ads-during-n799381",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_49/1321221/151130-facebook-parental-leave-extension-mbm.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnKFuIcig4_BU9SQz_RXThlZaKjzH85v53ee7PoAh6mirtuKHl",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Facebook Says Likely Russian Operation Spent $100K on ...",
+        "link": "https://www.nbcnews.com/news/us-news/facebook-says-likely-russian-operation-spent-100k-issues-ads-during-n799381",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8eff1d3d0e4e242a151a2e/images/uuG36nEQERX5q7CPMKscbwjP-Go0trs8xCOwSNbt43Y.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnKFuIcig4_BU9SQz_RXThlZaKjzH85v53ee7PoAh6mirtuKHl",
+        "thumbnail_width": 190,
+        "thumbnail_height": 266,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_49/1321221/151130-facebook-parental-leave-extension-mbm.jpg",
+        "image_width": 1073,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "Facebook Says Likely Russian Operation Spent $100K on Issues Ads During 2016 Campaign\n\nSAN FRANCISCO — Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May.\n\nFacebook, the dominant social media network, said that many of the 3,000 ads promoted 470 \"inauthentic\" accounts and pages that it has now suspended. The ads spread polarizing views on topics including immigration, race and gay rights, rather than backing a particular political candidate, it said.\n\nAnother $50,000 went to about 2,200 \"potentially politically related\" ads and might have been bought by Russians in potential violation of U.S. election law.\n\nFacebook announced the findings in a blog post by its chief security officer, Alex Stamos, and said that it was cooperating with federal inquiries into influence operations during the 2016 U.S. presidential election.\n\nThe company said it found no link to any presidential campaign. Three-fourths of the divisive issue ads were national in scope, and the rest did not appear to reflect targeting of political swing-states as voting neared.\n\nFacebook did not print the names of any of the suspended pages, but some of them included such words as \"refugee\" and \"patriot.\" Many of the pages were connected to each other in some way.\n\nEven if no laws were violated, the pages ran afoul of Facebook requirements for authenticity, setting up the suspensions.\n\nMore than $1 billion was spent on digital political ads during the 2016 presidential campaign, 10,000 times the presumed Russian spending identified by Facebook's security team.\n\nBut the findings buttress U.S. intelligence agency conclusions that Russia was actively involved in shaping the election.\n\nFacebook previously published a white paper on influence operations, including what it said were fake \"amplifier\" accounts for propaganda, and said it was cracking down.\n\nAs recently as June, it told journalists that it had not found any evidence to date of Russian operatives buying election-related ads on its platform.\n\nA Facebook employee said Wednesday that there were unspecified connections between the divisive ads and a well-known Russian \"troll factory\" in St. Petersburg that publishes comments on social media.\n\nBeyond the issue ads, Facebook said it uncovered another $50,000 in political advertising that might have a link to Russia. Some of those ads were bought using computers with U.S. internet protocol addresses but set to the Russian language, though they were displayed to users in English.\n\nEllen Weintraub, a member of the U.S. Federal Election Commission, said U.S. voters deserve to know where election ads are coming from and that the money behind them is legal.\n\n\"It is unlawful for foreign nationals to be spending money in connection with any federal, state or local election, directly or indirectly,\" Weintraub said in a phone interview.\n\nShe declined to comment on the Facebook ads, saying she could not comment on subjects that could come before the agency.\n\nNot all politically-related advertising by foreigners is illegal in America. Facebook did not give any examples of the ads at issue.\n\nWeintraub said that campaign finance regulations, which require disclosure of spending and disclaimers on ads, may need to be revised to keep up with the evolution of online advertising.\n\nFacebook's disclosure may be the first time a private entity has pointed to receiving Russian money related to U.S. elections, said Brendan Fischer, a program director at the Campaign Legal Center, a Washington nonprofit that advocates for more transparency.\n\n\"Whoever may have provided assistance to Russia in buying these Facebook ads is very likely in violation of the law,\" he said.\n\nGiven the U.S. prohibition on foreign money being spent in elections, Facebook has a legal duty to act if it is aware of similar activity in the future, Fischer said.\n\n\"I'm certain that the special counsel would be interested in this information, and I would presume that if Robert Mueller’s team has not received this information from Facebook, they’ll be asking for it soon,\" Fischer said.\n\nMueller is the special counsel who is investigating whether there was collusion between President Donald Trump's presidential campaign and Moscow.\n\nFacebook said it was trying.\n\n\"We are looking at how we can apply the techniques we developed for detecting fake accounts to better detect inauthentic Pages and the ads they may run,\" Stamos said in the blog post.",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "description": "Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May.",
+          "og:url": "https://www.nbcnews.com/news/us-news/facebook-says-likely-russian-operation-spent-100k-issues-ads-during-n799381",
+          "og:title": "Facebook says likely Russian-based operation spent money on ads on issues",
+          "og:description": "Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_49/1321221/151130-facebook-parental-leave-extension-mbm.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_49/1321221/151130-facebook-parental-leave-extension-mbm.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Facebook says likely Russian-based operation spent money on ads on issues",
+          "branch:deeplink:description": "Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May.",
+          "twitter:title": "Facebook says likely Russian-based operation spent money on ads on issues",
+          "twitter:description": "Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2017-09-06T22:19:00.000Z",
+          "article:modified_time": "2017-09-07T08:55:39.000Z"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Facebook Says Likely Russian Operation Spent $100K on Issues Ads During 2016 Campaign",
+          "url": "https://www.nbcnews.com/news/us-news/facebook-says-likely-russian-operation-spent-100k-issues-ads-during-n799381",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2015_49/1321221/151130-facebook-parental-leave-extension-mbm.jpg",
+          "alternativeHeadline": "Facebook Says Likely Russian Operation Spent $100K on Issues Ads During 2016 Campaign",
+          "articleBody": "SAN FRANCISCO — Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May. Facebook, the dominant social media network, said that many of the 3,000 ads promoted 470 \"inauthentic\" accounts and pages that it has now suspended. The ads spread polarizing views on topics including immigration, race and gay rights, rather than backing a particular political candidate, it said. Another $50,000 went to about 2,200 \"potentially politically related\" ads and might have been bought by Russians in potential violation of U.S. election law.  Facebook announced the findings in a blog post by its chief security officer, Alex Stamos, and said that it was cooperating with federal inquiries into influence operations during the 2016 U.S. presidential election. The company said it found no link to any presidential campaign. Three-fourths of the divisive issue ads were national in scope, and the rest did not appear to reflect targeting of political swing-states as voting neared. Facebook did not print the names of any of the suspended pages, but some of them included such words as \"refugee\" and \"patriot.\" Many of the pages were connected to each other in some way. Even if no laws were violated, the pages ran afoul of Facebook requirements for authenticity, setting up the suspensions. More than $1 billion was spent on digital political ads during the 2016 presidential campaign, 10,000 times the presumed Russian spending identified by Facebook's security team. But the findings buttress U.S. intelligence agency conclusions that Russia was actively involved in shaping the election. Facebook previously published a white paper on influence operations, including what it said were fake \"amplifier\" accounts for propaganda, and said it was cracking down. As recently as June, it told journalists that it had not found any evidence to date of Russian operatives buying election-related ads on its platform. A Facebook employee said Wednesday that there were unspecified connections between the divisive ads and a well-known Russian \"troll factory\" in St. Petersburg that publishes comments on social media. Beyond the issue ads, Facebook said it uncovered another $50,000 in political advertising that might have a link to Russia. Some of those ads were bought using computers with U.S. internet protocol addresses but set to the Russian language, though they were displayed to users in English. Ellen Weintraub, a member of the U.S. Federal Election Commission, said U.S. voters deserve to know where election ads are coming from and that the money behind them is legal. \"It is unlawful for foreign nationals to be spending money in connection with any federal, state or local election, directly or indirectly,\" Weintraub said in a phone interview. She declined to comment on the Facebook ads, saying she could not comment on subjects that could come before the agency. Not all politically-related advertising by foreigners is illegal in America. Facebook did not give any examples of the ads at issue. Weintraub said that campaign finance regulations, which require disclosure of spending and disclaimers on ads, may need to be revised to keep up with the evolution of online advertising. Facebook's disclosure may be the first time a private entity has pointed to receiving Russian money related to U.S. elections, said Brendan Fischer, a program director at the Campaign Legal Center, a Washington nonprofit that advocates for more transparency. \"Whoever may have provided assistance to Russia in buying these Facebook ads is very likely in violation of the law,\" he said. Given the U.S. prohibition on foreign money being spent in elections, Facebook has a legal duty to act if it is aware of similar activity in the future, Fischer said. \"I'm certain that the special counsel would be interested in this information, and I would presume that if Robert Mueller’s team has not received this information from Facebook, they’ll be asking for it soon,\" Fischer said. Mueller is the special counsel who is investigating whether there was collusion between President Donald Trump's presidential campaign and Moscow. Facebook said it was trying. \"We are looking at how we can apply the techniques we developed for detecting fake accounts to better detect inauthentic Pages and the ads they may run,\" Stamos said in the blog post.",
+          "dateModified": "2017-09-06T22:19:00.000Z",
+          "datePublished": "2017-09-06T22:15:48.000Z",
+          "articleSection": "news",
+          "articleId": "ncna799381",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna799381"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_49/1321221/151130-facebook-parental-leave-extension-mbm.jpg",
+            "caption": "A sign with the \"like\" symbol stands in front of the Facebook headquarters on February 1, 2012 in Menlo Park, California.",
+            "height": 1789,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "Facebook said on Wednesday it had found that an influence operation likely based in Russia spent $100,000 on thousands of ads promoting divisive social and political messages in a two-year-period through May.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/news/us-news/facebook-says-likely-russian-operation-spent-100k-issues-ads-during-n799381"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Facebook a indiqué qu'une opération d'influence probablement basée en Russie a dépensé 100 000 dollars pour des milliers de publicités promouvant des messages sociaux et politiques polarisants sur une période de deux ans jusqu'en mai. Ces publicités ont soutenu 470 comptes et pages inauthentiques désormais suspendus. Un montant supplémentaire de 50 000 dollars a été affecté à des publicités potentiellement liées à la politique.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alex Stamos",
+          "Ellen Weintraub"
+        ],
+        "LOCATION": [
+          "Russia",
+          "San Francisco",
+          "St. Petersburg",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Facebook",
+          "U.S. Federal Election Commission",
+          "U.S. intelligence agency"
+        ],
+        "DATE": [
+          "2016"
+        ],
+        "EVENT": [
+          "2016 U.S. presidential election"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7447720433799422
+    },
+    {
+      "titre": "Eight IPOs Line Up In U.S. - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/SB10001424052970204573704577187342925127290",
+      "image_url": "https://s.wsj.net/public/resources/images/MI-BN304_IPO_G_20120129181549.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbjH8c4bWs0oyFZPy9F1j_fFXDJKD5geRkIY8Kzu_QHE89cmQt",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Eight IPOs Line Up In U.S. - WSJ",
+        "link": "https://www.wsj.com/articles/SB10001424052970204573704577187342925127290",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbjH8c4bWs0oyFZPy9F1j_fFXDJKD5geRkIY8Kzu_QHE89cmQt",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/MI-BN304_IPO_G_20120129181549.jpg",
+        "image_width": 369,
+        "image_height": 553
+      },
+      "webpage": null,
+      "texte_contexte": "Article intitulé Eight IPOs Line Up In U.S. publié par WSJ.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7354431680967722
+    },
+    {
+      "titre": "It's official: You can finally click something other than ...",
+      "source": "Quartz",
+      "lien": "https://qz.com/620804/its-official-facebook-debuts-five-new-emoji-reactions-to-supplement-its-like-button",
+      "image_url": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/a74586199c1b5e1308b4ce13d2c31fce.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOi7DfqL3g6uoj8e0ESMO-q8Pr0ldkzadNDzZIV0PcpWwoNz4I",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "It's official: You can finally click something other than ...",
+        "link": "https://qz.com/620804/its-official-facebook-debuts-five-new-emoji-reactions-to-supplement-its-like-button",
+        "source": "Quartz",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT9LE1AJj0PKrmSOHvF6Dy3jIsaexA63quKjwW5XiwszvIk8K8WIRus4ixUXjN87lbuxVVrjttbGmkEtmFN81Vj9wrv7SEP1QEHNSg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOi7DfqL3g6uoj8e0ESMO-q8Pr0ldkzadNDzZIV0PcpWwoNz4I",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/a74586199c1b5e1308b4ce13d2c31fce.jpg",
+        "image_width": 300,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "It’s official: You can finally click something other than “like” on Facebook\n\nSubscribe\n\n\nGlobal business news for a smarter world\n\nTopics\n\n * Business News\n * Money & Markets\n * Tech & Innovation\n * Generation A.I.\n * Lifestyle\n * Leadership\n\nProducts\n\n * Daily Brief\n * Weekly Digest\n * Member Benefits\n * Quartz Pro\n\nLegal\n\n * Sitemap\n * About\n * Accessibility\n * Privacy\n * Terms of Service\n * Advertising\n * Privacy and Cookie Settings\n\n© 2026 Quartz Media, Inc. All rights reserved.\n\n\nTech & Innovation\n\n\nIt’s official: You can finally click something other than “like” on Facebook\n\nThis post has been corrected.\n\nBy Joon Ian Wong·2 min read·Updated July 21, 2022\nAdd QZ to Google\n\n\nThis post has been corrected.\n\nAfter months of teasing, Facebook $META is finally adding new emoji reactions to supplement its ubiquitous “like” button. The company said today (Feb. 24) that it’s making five reactions in addition to “like” available to users globally.\n\n\nDaily Brief\n\n\nThe essential business news, delivered fresh every morning.\n\nJoin 500,000+ readers who start their day with Quartz.\n\nSign me up\n\nBy subscribing, you agree to our Terms of Service and Privacy Policy.\n\n\nThe new reactions are: 💖 Love, 😆 Haha, 😮 Wow, 😥 Sad, and 😡 Angry.\n\n\nUsers can access them by hovering over the “like” button in a desktop browser or holding down the “like” button on mobile.\n\n\nFor years, Facebook users have badgered the social network for a “dislike” button. Though Facebook fell short of giving them that—worrying it would be too negative—the company decided instead on six playful emoji buttons: 💖,😆,😊,😮,😥, and 😡 back in October 2015, when it launched a pilot of the new feature. It looks like the ”yay” reaction 😊 didn’t make the cut for the global release.\n\nThe new reactions will have an impact on the Facebook’s news feed, which guesses what content a user wants to see based on “likes,” according to a blog post from Sammi Krug, who manages the feature. Initially, all reactions will have the same weight as a “like,” but over time, the different emojis will be factored differently and shape what appears in a user’s news feed.\n\n\nFacebook has known for a while that people often don’t mean it when they hit the “like” button. The company admitted last year that many users impulsively hit the button to further a connection with the poster, not necessarily because they agree with the content. CEO Mark Zuckerberg has said many times in the past that “like” isn’t an appropriate reaction to a somber status update or news story about tragedy.\n\nZuckerberg revealed to investors last month a key motivation for Facebook’s change: He was worried users would stop sharing content. This would mean less user-engagement, and fewer ads seen.\n\n“If you share a sad piece of content or something that makes you angry, people may not have the tool to react to it,” he said. “And therefore, over time the community feels less comfortable sharing that content on Facebook. We want people to be able to share all of the things that are meaningful to them, not just the things that are happy and that people are going to ‘like’ when they see it.”\n\n\nCorrection: A previous version of this post stated that only positive reactions will factor into Facebook’s news feed algorithm.",
+        "metadata": {
+          "title": "It’s official: You can finally click something other than “like” on Facebook",
+          "description": "This post has been corrected.",
+          "og:title": "It’s official: You can finally click something other than “like” on Facebook",
+          "og:description": "This post has been corrected.",
+          "og:url": "https://qz.com/620804/its-official-facebook-debuts-five-new-emoji-reactions-to-supplement-its-like-button",
+          "og:site_name": "Quartz",
+          "og:image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/a74586199c1b5e1308b4ce13d2c31fce.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "It’s official: You can finally click something other than “like” on Facebook",
+          "og:type": "article",
+          "article:published_time": "2016-02-24T16:34:18.160Z",
+          "article:modified_time": "2022-07-21T05:09:34.639Z",
+          "article:author": "https://qz.com/author/atruongqz",
+          "article:section": "Tech & Innovation",
+          "twitter:title": "It’s official: You can finally click something other than “like” on Facebook",
+          "twitter:description": "This post has been corrected."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "It’s official: You can finally click something other than “like” on Facebook",
+          "image": [
+            "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/a74586199c1b5e1308b4ce13d2c31fce.jpg",
+            "https://qz.com/cdn-cgi/image/width=320,height=240,fit=cover,quality=85,format=auto/https://assets.qz.com/media/a74586199c1b5e1308b4ce13d2c31fce.jpg",
+            "https://qz.com/cdn-cgi/image/width=640,height=360,fit=cover,quality=85,format=auto/https://assets.qz.com/media/a74586199c1b5e1308b4ce13d2c31fce.jpg"
+          ],
+          "datePublished": "2016-02-24T16:34:18.160Z",
+          "dateModified": "2022-07-21T05:09:34.639Z",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Joon Ian Wong",
+              "url": "https://qz.com/author/joonianwong"
+            },
+            {
+              "@type": "Person",
+              "name": "Joshua Wong",
+              "url": "https://qz.com/author/joshuawong"
+            },
+            {
+              "@type": "Person",
+              "name": "Alice Truong",
+              "url": "https://qz.com/author/atruongqz"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Quartz",
+            "url": "https://qz.com"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Facebook a introduit globalement cinq nouvelles réactions emoji pour compléter son bouton \"J'aime\" : Love, Haha, Wow, Sad et Angry, accessibles en maintenant ou en survolant le bouton \"J'aime\". Cette décision fait suite aux préoccupations du PDG Mark Zuckerberg concernant le manque d'outils adaptés pour réagir aux contenus sombres ou tristes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Joon Ian Wong",
+          "Sammi Krug",
+          "Mark Zuckerberg"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Quartz Media, Inc.",
+          "Facebook"
+        ],
+        "DATE": [
+          "July 21, 2022",
+          "Feb. 24",
+          "October 2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Like"
+        ]
+      },
+      "score_e5": 0.7267161713133867
+    },
+    {
+      "titre": "Spotlight on Centurions – Brooke Beason | The Independent",
+      "source": "The Independent | Kansas City's Journal of Note",
+      "lien": "https://kcindependent.com/spotlight-on-centurions-brooke-beason/",
+      "image_url": "http://www.kcindependent.com/wp-content/uploads/2015/12/photo-3.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvG3wOwDbwILc5rvRA2RmNeKdbaIQ3mW9j1dVIv0XzECDoHLYz",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Spotlight on Centurions – Brooke Beason | The Independent",
+        "link": "https://kcindependent.com/spotlight-on-centurions-brooke-beason/",
+        "source": "The Independent | Kansas City's Journal of Note",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcS2zSbvX-tLedffJYnLcEjnMkjMpbKxKnfDTzMACP7C1a8s3vNyaqMfZLfyfOCdcs75Poo6-bITLa0BE9yGgRbw5jAo3O6i9-mlTZm413RYRY2wGjEKaQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvG3wOwDbwILc5rvRA2RmNeKdbaIQ3mW9j1dVIv0XzECDoHLYz",
+        "thumbnail_width": 198,
+        "thumbnail_height": 255,
+        "image": "http://www.kcindependent.com/wp-content/uploads/2015/12/photo-3.jpg",
+        "image_width": 519,
+        "image_height": 670
+      },
+      "webpage": {
+        "text": "Spotlight on Centurions – Brooke Beason\n\nBrooke Beason leads the Digital & Social Influence team at Meers Advertising. She is a member of Centurions, class of 2017 and serves on the Trip Task Force and the curriculum committee. Brooke grew up in Hopkins, Missouri, and graduated from Northwest Missouri State University with a degree in interactive digital media.\n\n\nBrooke enjoyed visiting Facebook’s headquarters.\n\n\nBrooke posed with her boyfriend, Mark, at the Kauffman\nCenter for the Performing Arts.\n\nAlso featured in the November 28, 2015 issue",
+        "metadata": {
+          "title": "Spotlight on Centurions &#8211; Brooke Beason | The Independent",
+          "og:image:secure_url": "https://kcindependent.com/wp-content/uploads/2015/11/Screen-Shot-2017-11-14-at-2.03.47-PM.png",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://kcindependent.com/wp-content/uploads/2015/11/Screen-Shot-2017-11-14-at-2.03.47-PM.png",
+          "og:image:width": "653",
+          "og:image:height": "398",
+          "og:url": "https://kcindependent.com/spotlight-on-centurions-brooke-beason/",
+          "og:description": "Brooke Beason leads the Digital & Social Influence team at Meers Advertising. She is a member of Centurions, class of 2017 and serves on the Trip Task Force and the curriculum committee. Brooke grew up in Hopkins, Missouri, and graduated from Northwest Missouri State University with a degree in interactive digital media.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBrooke enjoyed visiting Facebook's headquarters.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBrooke posed with her boyfriend, Mark, at the Kauffman Center for the Performing Arts.\r\n\r\n\r\n\r\nAlso featured in the November 28, 2015 issue \r\n ",
+          "og:title": "Spotlight on Centurions – Brooke Beason"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Brooke Beason dirige l'équipe Digital & Social Influence chez Meers Advertising, est membre de la classe Centurions 2017, a grandi à Hopkins (Missouri) et est diplômée de la Northwest Missouri State University. Elle a visité le siège de Facebook et a posé avec son petit ami Mark au Kauffman Center for the Performing Arts.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Brooke Beason",
+          "Mark"
+        ],
+        "LOCATION": [
+          "Hopkins",
+          "Missouri"
+        ],
+        "ORGANIZATION": [
+          "Meers Advertising",
+          "Centurions",
+          "Northwest Missouri State University",
+          "Facebook",
+          "Kauffman Center for the Performing Arts"
+        ],
+        "DATE": [
+          "2017",
+          "November 28, 2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7825541936370745
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Menlo Park",
+      "California"
+    ],
+    "ORGANIZATION": [
+      "Facebook"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Zuckerberg",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alex Stamos",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ellen Weintraub",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joon Ian Wong",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sammi Krug",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Brooke Beason",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Francisco",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St. Petersburg",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hopkins",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Missouri",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Amazon",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New York Times",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cambridge Analytica",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Federal Election Commission",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. intelligence agency",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Quartz Media, Inc.",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Meers Advertising",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Centurions",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Northwest Missouri State University",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kauffman Center for the Performing Arts",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 21, 2022",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Feb. 24",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2015",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 28, 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Cambridge Analytica scandal",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "2016 U.S. presidential election",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Fire smartphone",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Like",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T11:52:41.023282"
+  }
+}

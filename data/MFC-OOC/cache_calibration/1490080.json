@@ -1,0 +1,982 @@
+{
+  "id_rumeur": 1490080,
+  "id_image": 1279161,
+  "caption": "Rock band Paramore is another group which sells cruises",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748596/oluyewo_benchmark/qjhcvyvh3ticio3ouwf7.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Thousands gather for biggest hot air balloon event in the ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/us-news/gallery/2015/oct/06/biggest-hot-air-balloon-event-new-mexico-in-pictures",
+      "image_url": "https://i.guim.co.uk/img/media/f5d0684076454c82a8c0e8b007d651f40d037ad8/0_138_3500_2101/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=cc6ec2a1e0f9133a4e7ccec669c50ac1",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjYFgN8diM7ZZBuwkMreEt6XzSeKfBxaPuYno2sZ0Cufxci7aN",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Thousands gather for biggest hot air balloon event in the ...",
+        "link": "https://www.theguardian.com/us-news/gallery/2015/oct/06/biggest-hot-air-balloon-event-new-mexico-in-pictures",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efc44f96561e20cce9743/images/xIBY_C2k6XibAPKvSMStTcED9sE4ZKIFh8u6WteS0eE.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjYFgN8diM7ZZBuwkMreEt6XzSeKfBxaPuYno2sZ0Cufxci7aN",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/f5d0684076454c82a8c0e8b007d651f40d037ad8/0_138_3500_2101/master/3500.jpg?width=1200&quality=85&auto=format&fit=max&s=cc6ec2a1e0f9133a4e7ccec669c50ac1",
+        "image_width": 720,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Thousands gather for biggest hot air balloon event in the world – in pictures | New Mexico\n\nThousands gather for biggest hot air balloon event in the world – in pictures\n\nThis article is more than 10 years old\n\nThousands of hot air balloon enthusiasts have gathered in Albuquerque, New Mexico, for the annual balloon fiesta. The event attracts teams from around the world and balloons of all shapes and sizes, and continues until 11 October",
+        "metadata": {
+          "title": "Thousands gather for biggest hot air balloon event in the world – in pictures | New Mexico | The Guardian",
+          "description": "Thousands of hot air balloon enthusiasts have gathered in Albuquerque, New Mexico, for the annual balloon fiesta",
+          "og:url": "http://www.theguardian.com/us-news/gallery/2015/oct/06/biggest-hot-air-balloon-event-new-mexico-in-pictures",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/f5d0684076454c82a8c0e8b007d651f40d037ad8/0_138_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=ff71ec06f413f86ff0e35ebafe396f8c",
+          "al:ios:url": "gnmguardian://us-news/gallery/2015/oct/06/biggest-hot-air-balloon-event-new-mexico-in-pictures?contenttype=Article&source=applinks",
+          "og:title": "Thousands gather for biggest hot air balloon event in the world – in pictures",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-07-14T20:34:38.000Z",
+          "og:image:height": "720",
+          "og:description": "Thousands of hot air balloon enthusiasts have gathered in Albuquerque, New Mexico, for the annual balloon fiesta",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "US news",
+          "article:published_time": "2015-10-06T19:36:02.000Z",
+          "article:tag": "New Mexico,US news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Thousands gather for biggest hot air balloon event in the world – in pictures"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des milliers de passionnés de montgolfières se sont rassemblés à Albuquerque, au Nouveau-Mexique, pour la fiesta annuelle des ballons. L'événement rassemble des équipes du monde entier avec des ballons de toutes formes et tailles, et se poursuit jusqu'au 11 octobre.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Albuquerque",
+          "New Mexico"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "11 October",
+          "2015"
+        ],
+        "EVENT": [
+          "biggest hot air balloon event in the world",
+          "annual balloon fiesta"
+        ],
+        "OTHER": [
+          "hot air balloon"
+        ]
+      },
+      "score_e5": 0.6671352514945887
+    },
+    {
+      "titre": "15 Photos From the Albuquerque International Balloon Fiesta ...",
+      "source": "Business Insider",
+      "lien": "https://www.businessinsider.com/15-photos-from-the-albuquerque-international-balloon-fiesta-2015-10",
+      "image_url": "https://i.insider.com/561bfdebeab8ea3a798b4568?width=700&format=jpeg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQemecqu9tK9kKvjkuTJy7Cvy6EDKSuWI91RdollCTxVNaFQaZ5",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "15 Photos From the Albuquerque International Balloon Fiesta ...",
+        "link": "https://www.businessinsider.com/15-photos-from-the-albuquerque-international-balloon-fiesta-2015-10",
+        "source": "Business Insider",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEUAJf____8AGv8AIv8AA_-9wf8AD_-ytf9xd_9MWP-UmP_m6P-ip_8rPv_y9P98hv8PI8ujAAAAiUlEQVQ4jeWSyQ7DIAxEHS-AWZr__9vgwKFFdbi3c7EtP6ExGoD_EpnehnWNQ8w4J1r2x9BLNECQ3sXwFeg6Az8DB7pAzdFKcgHge-UDZ8rmk589lOZ7GIcm_4qaqxV1gcZsJqILaNPSi-w-Km-AsjlTkG5APgCgNKTIBKjWLYmYecD54JqHn9cF4xoEc0Ed_D8AAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQemecqu9tK9kKvjkuTJy7Cvy6EDKSuWI91RdollCTxVNaFQaZ5",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://i.insider.com/561bfdebeab8ea3a798b4568?width=700&format=jpeg&auto=webp",
+        "image_width": 467,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "15 Photos From the Albuquerque International Balloon Fiesta\n\nA fall tradition for 44 years, the Albuquerque International Balloon Fiesta took flight for nine days amid some pretty vicious winds. \n\nThough the weather was warm and pleasant for spectators, cyclone-like winds above forced the cancellation of the event's premier gas balloon race. \"This is the most difficult balloon-flying weather we’ve ever had,” Roger Hoppe, a pilot of 40 years, told the Albuquerque Journal. \n\nStill, the show went on, with over 500 balloons dancing across the sky while thousands of attendees enjoyed music, New Mexican specialties like Pinon Coffee, a wide array of fair-type foods, and even the opportunity to take their own balloon ride.  \n\nKeep scrolling to see what it was like. \n\n\nThe Albuquerque International Balloon Fiesta had its first lift off in 1972.\n\n\nThis year's event saw over 500 balloons from nearly 20 different countries glide across the New Mexican sky.\n\n\nThe festival is held in Albuquerque due to a wind pattern known as \"the box\" that makes it easier to navigate the giant balloons.\n\n\n\"When dreams take flight\" was the theme of this year's event, which ran from October 3 to 11.\n\n\nFor several years, the festival was sponsored by Kodak and dubbed the most photographed event in the world.\n\n\nThe first festival featured a fleet of just 14 balloons.\n\n\nToday, balloonists from South Africa to Thailand make the trek to Albuquerque to be part of the magic.\n\n\nThe event attracts hundreds of thousands of spectators.\n\n\nLocal vendors selling food and souvenirs depend on the festival's tourist draw.\n\n\nNot everyone is fascinated by the display.\n\n\nDue to the weather, some of the balloons were inflated but never lifted off.\n\n\nThere have been a few harmful and fatal accidents among balloonists over the years.\n\n\nBetween 1990 and 2007, six people died when their balloons hit power lines. And in 2013, two men were badly injured after their vessel hit a power line and sent them crashing down.\n\n\nNo injuries were reported this year. Pilots now have access to a new radar system and are better informed of wind patterns, according to the festival's executive director.\n\nSource: Albuquerque Journal\n\n\nTourists and locals alike flock to the 360-acre balloon park to watch the morning ascension at daybreak.\n\n\nRead next\n\n\nApril is Business Insider's lifestyle editor. Originally from Orlando, Florida, she now calls New York's Upper West Side home. You can find her writing about everything from fine dining to the latest $1,000 luxury facial.\n\n * Photography",
+        "metadata": {
+          "title": "15 majestic images from the world's largest hot air balloon festival",
+          "news_keywords": "Lifestyle, Travel, Transportation, Photography",
+          "description": "See what it was like to be at one of the most photographed events on the planet.",
+          "author": "April Walloga",
+          "article:publisher": "businessinsider",
+          "og:title": "15 majestic images from the world's largest hot air balloon festival",
+          "og:description": "See what it was like to be at one of the most photographed events on the planet.",
+          "og:type": "article",
+          "og:url": "https://www.businessinsider.com/15-photos-from-the-albuquerque-international-balloon-fiesta-2015-10",
+          "og:image": "https://i.insider.com/561c2d169dd7cc15008c1475?width=1200&format=jpeg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "600",
+          "og:site_name": "Business Insider",
+          "fb:pages": "20446254070",
+          "mrf:sections": "Lifestyle",
+          "mrf:tags": "Page Type:slideshow",
+          "apple-mobile-web-app-title": "Business Insider"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Albuquerque International Balloon Fiesta s'est déroulée pendant neuf jours, du 3 au 11 octobre, malgré des vents violents qui ont forcé l'annulation de la course de gaz. Plus de 500 ballons provenant de près de 20 pays ont volé dans le ciel du Nouveau-Mexique. L'événement propose de la musique, des spécialités du Nouveau-Mexique et des balades en montgolfière. Le festival, parrainé par Kodak pendant plusieurs années, a eu son premier envol en 1972 et se tient à Albuquerque en raison du régime de vent \"the box\".",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Roger Hoppe"
+        ],
+        "LOCATION": [
+          "Albuquerque",
+          "New Mexico",
+          "Orlando",
+          "Florida",
+          "New York's Upper West Side"
+        ],
+        "ORGANIZATION": [
+          "Business Insider",
+          "Albuquerque Journal",
+          "Kodak"
+        ],
+        "DATE": [
+          "44 years",
+          "1972",
+          "October 3 to 11",
+          "1990",
+          "2007",
+          "2013",
+          "this year"
+        ],
+        "EVENT": [
+          "Albuquerque International Balloon Fiesta"
+        ],
+        "OTHER": [
+          "Pinon Coffee",
+          "gas balloon race"
+        ]
+      },
+      "score_e5": 0.6688303703726887
+    },
+    {
+      "titre": "Balloon Federation of America - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Balloon_Federation_of_America",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Balloon_Fiesta,_Fiesta_park,_Albuquerque,_New_Mexico.jpg/250px-Balloon_Fiesta,_Fiesta_park,_Albuquerque,_New_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dDIV9yHuo4QZrBl0uYp0ACmyK7jesW4prj067BIgZtKU4AJB",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Balloon Federation of America - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Balloon_Federation_of_America",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dDIV9yHuo4QZrBl0uYp0ACmyK7jesW4prj067BIgZtKU4AJB",
+        "thumbnail_width": 260,
+        "thumbnail_height": 194,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Balloon_Fiesta,_Fiesta_park,_Albuquerque,_New_Mexico.jpg/250px-Balloon_Fiesta,_Fiesta_park,_Albuquerque,_New_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "image_width": 335,
+        "image_height": 250
+      },
+      "webpage": {
+        "text": "Balloon Federation of America\n\nNon-profit group for hot air and gas balloons\n\nThe Balloon Federation of America (BFA) is a 501c3 non-profit group for the advancement of lighter-than-air aviation which includes hot air and gas balloons. Founded in 1960, located in Indianola, Iowa. The BFA partners with the National Balloon Museum to induct outstanding individuals into the United States Ballooning Hall of Fame. The Federation presents multiple awards including the Ed Yost Master Pilot Award and the National Crew Person Award. The BFA facilitates balloon events by providing advice and guidance on FAA compliance.[1]\n\nBFA membership is open to everyone. Membership at BFA.net includes: the organization's magazine \"Ballooning;\" achievement recognition for pilots, crew, and observers; flight instructor program; balloon education via on-line video library for pilot and Crew training; and on-line safety seminars. Optional membership benefits include: youth programs; balloon regional, national, and world competitions; Professional Ride Operators (PRO) Division; gas balloon competitions including the America's Challenge and Gordon Bennett Cup; and a legal services plan.[2] Operated by volunteers, the National Balloon Museum is colocated with the BFA and the over 100 hot air balloon event the National Balloon Classic.[3]\n\n\nBalloon Federation History\n\nIn 1948, balloonist Don Piccard formed the first national balloon organization in the United States, the Balloon Club of America (BCA). He teamed with early BCA member Tony Fairbanks, a student pilot in the Cleveland Balloon Club (CBC) before WWII, donating an 80,000 cu ft balloon net. Fairbanks was not drafted for WWII so while the Cleveland members went to war he inherited all the CBC's balloons and equipment. US Navy Lieutenant Punderson, working for Douglas Leigh Sky Advertising, convinced owner Douglas Leigh to donate several salvage U.S. Army balloons from the War Assets Administration. These balloons were distributed free to balloon clubs across the country. The National Aeronautic Association (NAA) designated the BCA as the official US representatives to enter European balloon races thereby qualifying the BCA for free air travel on the Military Air Transport Service (MATS). MATS eventually required benefits to be granted only to national associations, thus the Akron balloon group was invited to join the BCA.[4]\n\nIn 1960, five years of study and development by a group of General Mills employees, including Ed Yost, produced the modern hot air balloon. A delegation represented by NE Philadelphia FAA tower controller Pete Pellegrino, Iowa lawyer/balloonist Don Kersten, and veteran balloonist Ed Yost, traveled to Washington D.C. seeking government recognition for the BCA. Under the guidance of the National Aeronautic Association, with the support of NAA's Randy Randelman, the Balloon Club created a new organization: \"The Balloon Federation of America\" (BFA). The initial Balloon Club group volunteered their time, expenses, and initially funded the BFA. Ed Yost, known as the \"Father of Hot Air Ballooning\", charged new organization members: \"Balloons are precious!, make our organization likewise!\"  [5]\n\n\nNational Balloon Museum\n\nThe National Balloon Museum is a non-profit museum that is located in Indianola, Iowa. It was founded in 1975 in short term locations, later gaining a permanent location in 1988.[6] All of the museum's exhibits are about hot air ballooning and gas ballooning.[7] The museum is in the shape of a hot air balloon's gondola.[7] The other large balloon museum in the United States is the Anderson-Abruzzo Albuquerque International Balloon Museum located in Albuquerque, New Mexico.[8]\n\n\nNational Balloon Museum origins\n\nThe US National Hot Air Balloon Championship (BFA) preliminaries were held in Indianola in 1970. Due to the success of the competition, the championships started happening every year which led to exhibits being created yearly for the competition. However, the exhibits could only be put up temporarily. The short term exhibits created a need for a museum where they can be stored year round.[6] The exhibits are from the Balloon Federation of America, covering over 200 years of history.[7] Included in the museum's collection is the first hot air balloon that crossed the English Channel.[8] Located within the museum is the U.S. Ballooning Hall of Fame, a children's area and a library.[9] The children's area has photo shoots and books about ballooning.[10]\n\nAll of the museum's workers are volunteers. 24,000 people visit the museum each year, with the visitors coming from twenty countries.[11] The museum has hosted a nine day long festival, titled the National Balloon Classic, yearly in late July since 1989.[10] A large donation was received to continue the museum's operation in 2015. The donation was left in a will and was in a large unspecified amount.[8]\n\n\nU.S. Ballooning Hall of Fame\n\nThe U.S. Ballooning Hall of Fame is located at the National Balloon Museum in Indianola, Iowa and \"recognizes persons who have contributed in significant ways to the sport and or development of Ballooning.\"\n\nThe following persons have been inducted into the Hall of Fame:[12]\n\n * 2004: Paul E. (Ed) Yost\n * 2005: Don N. Kersten, Sidney D. Cutter\n * 2006: Bruce Comstock, Peter Pellegrino\n * 2007: Deke Sonnichsen, Malcolm Stevenson Forbes\n * 2008: Tracy Barnes, Eddie Allen\n * 2009: Jim Winker, Lucy Luck Stefan, Karl H. Stefan\n * 2010: Anthony M. Fairbanks, Joseph W. Kittinger, Jr., Thomas A.F. Sheppard\n * 2011: Ben L. Abruzzo, Maxie Anderson, Dewey Reinhard\n * 2012: Carol Rymer Davis, Dr. William Grabb, Matt Wiederkehr\n * 2013: Dennis E. Floden, William Murtorff, Dr. Clayton Lay Thomas\n * 2014: Nikki Caplan, Chauncey Dunn, Don Piccard\n * 2015: Robert Dodds Meddock, Jr., Constance C. Wolf\n * 2016: Troy Bradley, Bill Bussey, Bob Sparks\n * 2017: David Levin, Steve Fossett, Thaddeus Lowe\n * 2018: Debbra Spaeth, Alan Blount, Ward Van Orman\n * 2019: Eleanor Vadala, Jim Birk—McAllen, Nick Saum[13]\n * 2020: Coy Foster, Mark Sullivan [14]\n\n\nBalloon Licensing\n\nDepending on the size of the balloon, location, and intended use, hot air balloons and their pilots need to comply with a variety of regulations.\n\n\nBalloons\n\nAll aircraft in the US which includes hot air balloons subject to FAA regulations via US Title 14 Code of Federal Regulations (CFR). All balloons must be registered with an N-number, have an airworthiness certificate, and pass an annual inspection. Balloons below a certain size (empty weight of less than 155 pounds or 70 kg including envelope, basket, burners and empty fuel tanks) can be used as an ultralight aircraft.\n\n\nPilots\n\nPilot certificates are issued by the FAA via US Title 14 Code of Federal Regulations (CFR) Part 61 - CERTIFICATION: PILOTS, FLIGHT INSTRUCTORS, AND GROUND INSTRUCTORS. Pilots must operate via Title 14 CFR PART 91—GENERAL OPERATING AND FLIGHT RULES.[15] Raven Industries developed the first modern hot air balloon in 1960-1961 and being a new aircraft, no specific FAA requirements existed. Circa 1963, Raven Industries engaged the FAA for certifying hot air balloons. Around 1964 the FAA introduced the balloon category with no requirements until 1974 with 14 CFR Part 61 guidance for Private and Commercial pilot certificates.[16]\n\n\nSee also\n\n * Don Piccard\n * Ed Yost\n * Hot air balloon festival\n * Hot air ballooning\n * Hot air balloon\n * National Balloon Museum\n * Anderson-Abruzzo Albuquerque International Balloon Museum\n\n\nReferences\n\n 1.  ↑ \"Welcome to the BFA!\". BFA.net. BFA. Retrieved May 31, 2020.\n 2.  ↑ \"Become a member\". BFA.net. BFA. Retrieved June 1, 2020.\n 3.  ↑ \"While Balloons Soar, Their History is Located in Indianola\". Newspapers.com. Retrieved November 28, 2020.\n 4.  ↑ \"Balloon Club of America - history\". BFA.net. BFA. Archived from the original on September 28, 2020. Retrieved May 31, 2020.\n 5.  ↑ \"Ed Yost - BFA History Letter\". BFA.net. BFA. Retrieved May 31, 2020.\n 6.  1 2 Young, Jan (2016). Seventy-Seven Museum Gems. Lulu. p. 45. ISBN 9781365443992.\n 7.  1 2 3 Beck Stock, Janice (September 8, 2003). Amazing Iowa. Harper Collins. p. 37. ISBN 9781418575540.\n 8.  1 2 3 Chandler, Reid (May 20, 2015). \"Indianola's National Balloon Museum gets Largest Donation Ever\". WHOtv. Retrieved March 24, 2017.\n 9.  ↑ \"National Balloon Museum\". AA Auto Club South. Retrieved March 24, 2017.\n 10. 1 2 Marciniak, Kristin (February 1, 2015). What's Great about Iowa?. Lerner Publishing Group. p. 6. ISBN 9781467760928.\n 11. ↑ \"National Balloon Museum & Hall of Fame\". City of Indianola. Retrieved March 24, 2017.\n 12. ↑ \"Hall of Fame Inductees\". Balloon Federation of America. Archived from the original on July 30, 2018. Retrieved July 29, 2018.\n 13. ↑ \"Hall Of Fame Induction\". Ballooning Hall of Fame. July 28, 2019. Retrieved December 4, 2019.\n 14. ↑ \"Hall Of Fame 2020\". nationalballoonmuseum.com. BFA. Retrieved November 27, 2020.\n 15. ↑ \"Electronic Code of Federal Regulations\". ECFR.gov. ECFR. Retrieved May 31, 2020.\n 16. ↑ \"Early FAA Balloon Pilots Licenses\". BFA.net. BFA. Retrieved May 31, 2020.\n\n\nExternal links\n\n * Balloon Federation of America website\n * National Balloon Museum Official website\n * National Balloon Classic Official Website\n * The Ohio Story: 1957 Gas Balloon operation video\n * Balloonist biographies\n * U.S. Ballooning Hall of Fame Archived July 26, 2017, at the Wayback Machine\n\n41°22′35″N 93°33′35″W﻿ / ﻿41.3763°N 93.5596°W﻿ / 41.3763; -93.5596",
+        "metadata": {
+          "title": "Balloon Federation of America - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Balloon_Fiesta%2C_Fiesta_park%2C_Albuquerque%2C_New_Mexico.jpg/960px-Balloon_Fiesta%2C_Fiesta_park%2C_Albuquerque%2C_New_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "896",
+          "og:image:height": "1200",
+          "og:title": "Balloon Federation of America - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Balloon Federation of America",
+          "url": "https://en.wikipedia.org/wiki/Balloon_Federation_of_America",
+          "sameAs": "http://www.wikidata.org/entity/Q96373017",
+          "mainEntity": "http://www.wikidata.org/entity/Q96373017",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2020-05-31T16:19:50Z",
+          "dateModified": "2026-03-19T03:37:38Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Balloon_Fiesta%2C_Fiesta_park%2C_Albuquerque%2C_New_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "non-profit group for hot air and gas balloons"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La Balloon Federation of America (BFA) est un groupe à but non lucratif 501c3 fondé en 1960 et situé à Indianola, dans l'Iowa, pour l'avancement de l'aviation plus légère que l'air. La BFA s'associe au National Balloon Museum et présente plusieurs prix, dont le Ed Yost Master Pilot Award et le National Crew Person Award. L'historique inclut le Balloon Club of America (BCA) fondé en 1948 par Don Piccard, et le développement de la montgolfière moderne en 1960 par des employés de General Mills, dont Ed Yost.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Don Piccard",
+          "Tony Fairbanks",
+          "Punderson",
+          "Douglas Leigh",
+          "Randy Randelman",
+          "Ed Yost",
+          "Pete Pellegrino",
+          "Don Kersten"
+        ],
+        "LOCATION": [
+          "Indianola",
+          "Iowa",
+          "United States",
+          "Cleveland",
+          "Akron",
+          "Washington D.C.",
+          "NE Philadelphia"
+        ],
+        "ORGANIZATION": [
+          "Balloon Federation of America",
+          "National Balloon Museum",
+          "FAA",
+          "Balloon Club of America",
+          "Cleveland Balloon Club",
+          "Douglas Leigh Sky Advertising",
+          "U.S. Army",
+          "War Assets Administration",
+          "National Aeronautic Association",
+          "Military Air Transport Service",
+          "General Mills"
+        ],
+        "DATE": [
+          "1960",
+          "1948",
+          "WWII"
+        ],
+        "EVENT": [
+          "America's Challenge",
+          "Gordon Bennett Cup",
+          "National Balloon Classic"
+        ],
+        "OTHER": [
+          "Ed Yost Master Pilot Award",
+          "National Crew Person Award",
+          "Ballooning"
+        ]
+      },
+      "score_e5": 0.6871126859300724
+    },
+    {
+      "titre": "In regards to my last post: here are the balloons you've ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/Damnthatsinteresting/comments/1fx6jj8/in_regards_to_my_last_post_here_are_the_balloons/",
+      "image_url": "https://preview.redd.it/in-regards-to-my-last-post-here-are-the-balloons-youve-been-v0-qf97vebbr1td1.jpg?width=640&crop=smart&auto=webp&s=7d8d227ca552caee27aa152c0f9f5b198ea59f8c",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRl7fEjjFrdACOoXchElheHvNz1s9_-pUoOApOri23zNXeA_k8O",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "In regards to my last post: here are the balloons you've ...",
+        "link": "https://www.reddit.com/r/Damnthatsinteresting/comments/1fx6jj8/in_regards_to_my_last_post_here_are_the_balloons/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRl7fEjjFrdACOoXchElheHvNz1s9_-pUoOApOri23zNXeA_k8O",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://preview.redd.it/in-regards-to-my-last-post-here-are-the-balloons-youve-been-v0-qf97vebbr1td1.jpg?width=640&crop=smart&auto=webp&s=7d8d227ca552caee27aa152c0f9f5b198ea59f8c",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "In regards to my last post: here are the balloons you've been asking for!\n\n\n\nwanabepilot • r/Damnthatsinteresting • 10/6/2024, 2:27:34 AM\n\n↑272 • 15 comments\n\n\n\n---\n* Anothersadwatersign • 10/6/2024, 2:39:04 AM • ↑16\n\n  Reminds me of the 1000 piece puzzle of hot air balloons I did a few years ago lol\n\n  \n\n  * Msheehan419 • 10/6/2024, 3:12:17 PM • ↑1\n\n    I did that one during the pandemic! I think I even have pictures\n\n    \n\n* wanabepilot • 10/6/2024, 2:28:00 AM • ↑12\n\n  There were over 500 launched\n\n  \n\n  * unsupported • 10/6/2024, 3:23:47 AM • ↑3\n\n    But under 1,000,998.\n\n    \n\n* Certain_Cause3362 • 10/6/2024, 2:48:48 AM • ↑7\n\n  Ah, the mass ascension. A beautiful sight, and the cause of many traffic problems as people look at the skies instead of the roads.\n\n  \n\n* BigTex380 • 10/6/2024, 2:55:32 AM • ↑4\n\n  This is awesome. I passed through ABQ a month ago and saw balloons one morning. I google them and learned about this festival. Glad to see it here.\n\n  \n\n  * smurb15 • 10/6/2024, 3:17:26 AM • ↑1\n\n    Do they ever bump into one another?\n\n    \n\n    * LinguoBuxo • 10/6/2024, 10:45:37 AM • ↑2\n\n      Frequently, when the one behind fails to put up a turn signal, when passing a slow moving balloon. Usually tho, he's then taken to custody by a police airship which usually floats nearby.\n      \n      (also, happy cake day, boyo)\n\n      \n\n* Spiritualy-Salty • 10/6/2024, 2:58:28 AM • ↑1\n\n  Damn that’s cool\n\n  \n\n* StellaRED • 10/6/2024, 4:31:05 AM • ↑1\n\n  One of my favorite events, I was there last year!\n  \n  Hope you have good weather for it, sadly we didn't get to have a mass ascension last year because the winds weren't right that day.\n\n  \n\n* S0ulDes8ny • 10/6/2024, 4:45:36 AM • ↑1\n\n  ❤️\n\n  \n\n* KifDawg • 10/6/2024, 5:03:30 AM • ↑1\n\n  How do they initially get the hot air into the floppy balloon on the ground\n\n  \n\n  * grumpyfishcritic • 10/6/2024, 6:48:17 AM • ↑3\n\n    Lay the burner assembly on it's side, with the basket and use a big fan to blow air into the open balloon. After it is inflated enough for the propane flame to not melt the nylon balloon fabric, then the propane burners are used to add hot air. Pretty soon the balloon will float and stand the burner assembly and basket upright.\n\n    \n\n* LeZarathustra • 10/6/2024, 10:03:24 AM • ↑1\n\n  Coolest hot air balloon festival I've seen was the Taunggyi Fire Balloon Festival in Taunggyi (တောင်ကြီးမြို့) in Burma.\n  \n  Every year, different neighbourhoods in the city and surrounding villages compete about who can fill a hot air balloon with the most fireworks and assorted explosives.\n  \n  Then they light them all up and set them free.\n  \n  When I was there (2018) it was the first festival in many years where nobody died. I think the only major accident that year was a balloon that accidentally dropped its load on top of a market stall.\n\n  \n\n* roloyo101 • 10/7/2024, 8:37:40 PM • ↑1\n\n  I used to be so amazed by these when playing outside as a kid. Reminds me of fresh cut grass and water guns.\n\n  \n\n",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Discussion sur Reddit concernant le lancement de plus de 500 montgolfières, avec des commentaires sur l'ascension de masse, les problèmes de circulation et la méthode de gonflage des ballons à l'aide d'un grand ventilateur et de brûleurs au propane. Un utilisateur mentionne également le festival des ballons de feu de Taunggyi en Birmanie en 2018.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "wanabepilot",
+          "Anothersadwatersign",
+          "Msheehan419",
+          "unsupported",
+          "Certain_Cause3362",
+          "BigTex380",
+          "smurb15",
+          "LinguoBuxo",
+          "Spiritualy-Salty",
+          "StellaRED",
+          "S0ulDes8ny",
+          "KifDawg",
+          "grumpyfishcritic",
+          "LeZarathustra",
+          "roloyo101"
+        ],
+        "LOCATION": [
+          "ABQ",
+          "Taunggyi",
+          "Burma"
+        ],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [
+          "10/6/2024",
+          "2018"
+        ],
+        "EVENT": [
+          "Taunggyi Fire Balloon Festival"
+        ],
+        "OTHER": [
+          "hot air balloons"
+        ]
+      },
+      "score_e5": 0.6679309921443627
+    },
+    {
+      "titre": "Hot air in Albuquerque",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/news/picture/hot-air-in-albuquerque-idUSRTS33OO/",
+      "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2015/10/05/2015-10-05T203011Z_520_GF10000231323_RTRMADP_0_USA-DAILYLIFE.JPG?auth=3bdcbbdb58380e75a0dcddd0b99631e13c63ca9229e37fb6cf38619324e1c66b&width=1920&quality=80",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyX9i0gXlalfM8nabyRt6pQDzOn7U29j69-VZQwhdEmuRjKaMu",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Hot air in Albuquerque",
+        "link": "https://www.reuters.com/news/picture/hot-air-in-albuquerque-idUSRTS33OO/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyX9i0gXlalfM8nabyRt6pQDzOn7U29j69-VZQwhdEmuRjKaMu",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2015/10/05/2015-10-05T203011Z_520_GF10000231323_RTRMADP_0_USA-DAILYLIFE.JPG?auth=3bdcbbdb58380e75a0dcddd0b99631e13c63ca9229e37fb6cf38619324e1c66b&width=1920&quality=80",
+        "image_width": 1280,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Galerie photo de Reuters intitulée Hot air in Albuquerque.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Albuquerque"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6898265848048982
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Paramore"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "cruises"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Albuquerque",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Mexico",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "11 October",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "biggest hot air balloon event in the world",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "annual balloon fiesta",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "hot air balloon",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Roger Hoppe",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orlando",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York's Upper West Side",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Business Insider",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Albuquerque Journal",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kodak",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "44 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1972",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 3 to 11",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1990",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "this year",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Albuquerque International Balloon Fiesta",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Pinon Coffee",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "gas balloon race",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Don Piccard",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tony Fairbanks",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Punderson",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Douglas Leigh",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Randy Randelman",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ed Yost",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pete Pellegrino",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Don Kersten",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Indianola",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iowa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cleveland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Akron",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington D.C.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "NE Philadelphia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Balloon Federation of America",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Balloon Museum",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FAA",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Balloon Club of America",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cleveland Balloon Club",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Douglas Leigh Sky Advertising",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Army",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "War Assets Administration",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Aeronautic Association",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Military Air Transport Service",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "General Mills",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1960",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1948",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "WWII",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "America's Challenge",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Gordon Bennett Cup",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "National Balloon Classic",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ed Yost Master Pilot Award",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "National Crew Person Award",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ballooning",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "wanabepilot",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Anothersadwatersign",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Msheehan419",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "unsupported",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Certain_Cause3362",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "BigTex380",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "smurb15",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "LinguoBuxo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Spiritualy-Salty",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "StellaRED",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "S0ulDes8ny",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "KifDawg",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "grumpyfishcritic",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "LeZarathustra",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "roloyo101",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "ABQ",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Taunggyi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Burma",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10/6/2024",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Taunggyi Fire Balloon Festival",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "hot air balloons",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:13:26.488044"
+  }
+}

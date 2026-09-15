@@ -1,0 +1,819 @@
+{
+  "id_rumeur": 773733,
+  "id_image": 345704,
+  "caption": "Vigilantes in Michoacan in western Mexico have clashed with federal police",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747755/oluyewo_benchmark/zj8yicxy9xrswu3igxwo.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Photos: Shooting at Nevada middle school",
+      "source": "AJC.com",
+      "lien": "https://www.ajc.com/news/national/photos-shooting-nevada-middle-school/QBOk5g8KXatfwFmlX9SVCJ/",
+      "image_url": "https://images.ajc.com/resizer/v2/JPLCY4ALSN42DS3SBGRUMV6FLE.jpg?auth=7c3dced60f42857f5ddcffc987f117552a745b0c4eac440e314f81d4d851aca8&width=3840&height=1591&smart=true",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHl-WXllL3Le3M9H9bm_RVHzybl6N-XqIjxMV-Cm8STysx_SK6",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Photos: Shooting at Nevada middle school",
+        "link": "https://www.ajc.com/news/national/photos-shooting-nevada-middle-school/QBOk5g8KXatfwFmlX9SVCJ/",
+        "source": "AJC.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQe66y1rElr3y2qBA_yX-rmfXt5zWYm9G0p4DiU8btX16LHHxKYu9Uvrn0Ah_gB8ljkR0DX1WBj9Wk9bz8-zxiuJ7GucVs-3YTxEKqpE5smog",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHl-WXllL3Le3M9H9bm_RVHzybl6N-XqIjxMV-Cm8STysx_SK6",
+        "thumbnail_width": 144,
+        "thumbnail_height": 349,
+        "image": "https://images.ajc.com/resizer/v2/JPLCY4ALSN42DS3SBGRUMV6FLE.jpg?auth=7c3dced60f42857f5ddcffc987f117552a745b0c4eac440e314f81d4d851aca8&width=3840&height=1591&smart=true",
+        "image_width": 1591,
+        "image_height": 3840
+      },
+      "webpage": {
+        "text": "Photos: Shooting at Nevada middle school\n\nNational & World News\n\nOct. 21, 2013: Shooting at Nevada middle school\n\nA parent escorts his child from Agnes Risley Elementary school following a shooting at nearby Sparks Middle School on Oct. 21, 2013 in Sparks, Nev. A staff member was killed and two students were injured after a student opened fire at the Nevada middle school. The suspected gunman was also killed. Students from the middle school were evacuated and held for parents at the elementary school.",
+        "metadata": {
+          "title": "Photos: Shooting at Nevada middle school",
+          "description": "Oct. 21, 2013: Shooting at Nevada middle school",
+          "og:title": "Photos: Shooting at Nevada middle school",
+          "og:description": "Oct. 21, 2013: Shooting at Nevada middle school",
+          "og:url": "https://www.ajc.com/news/national/photos-shooting-nevada-middle-school/QBOk5g8KXatfwFmlX9SVCJ/",
+          "og:site_name": "ajc",
+          "og:image": "https://images.ajc.com/resizer/v2/XUP4X742N3YD7ZNSRJSXMNNKZA.jpg?auth=d501ee0c53bb1269fe074390a6c411aaf0b211d9304a41282dc42fae02902b15&width=1200&height=630&smart=true",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "website",
+          "twitter:title": "Photos: Shooting at Nevada middle school",
+          "twitter:description": "Oct. 21, 2013: Shooting at Nevada middle school"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.ajc.com/#publisher",
+          "name": "The Atlanta Journal-Constitution",
+          "alternateName": [
+            "AJC"
+          ],
+          "url": "https://www.ajc.com/",
+          "foundingDate": "1868-06-16",
+          "publishingPrinciples": "https://www.ajc.com/who-we-are/what-we-stand-for",
+          "ethicsPolicy": "https://www.ajc.com/about-us/newsroom-ethics-code/JA6O7M7N5RACXLLUN22HD2FFMQ/",
+          "masthead": "https://www.ajc.com/newsroom/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://images.ajc.com/resizer/v2/74CDOHUZKZAUJMMZC2DEALA6B4.png?auth=c418a342a2f4c04932fec3c26752acd04b7cddf4c1c789b1201c5e564eaed1e7&width=1200&height=630&smart=true",
+            "width": 1200,
+            "height": 630,
+            "contentUrl": "https://images.ajc.com/resizer/v2/74CDOHUZKZAUJMMZC2DEALA6B4.png?auth=c418a342a2f4c04932fec3c26752acd04b7cddf4c1c789b1201c5e564eaed1e7&width=1200&height=630&smart=true",
+            "creditText": "The Atlanta Journal-Constitution"
+          },
+          "sameAs": [
+            "https://facebook.com/ajc",
+            "https://x.com/ajc",
+            "https://www.instagram.com/ajcnews",
+            "https://www.youtube.com/@ajcvideo",
+            "https://www.linkedin.com/company/atlanta-journal-constitution"
+          ],
+          "subOrganization": [
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.uatl.com/",
+              "name": "UATL",
+              "url": "https://www.uatl.com/"
+            },
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.dawgnation.com/",
+              "name": "Dawgnation",
+              "url": "https://www.dawgnation.com/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un parent raccompagne son enfant depuis l'école élémentaire Agnes Risley à la suite d'une fusillade survenue à proximité, à l'école intermédiaire Sparks (Sparks Middle School) à Sparks, au Nevada, le 21 octobre 2013. Un membre du personnel a été tué et deux élèves ont été blessés après qu'un élève a ouvert le feu. Le tireur présumé a également été tué. Les élèves de l'école intermédiaire ont été évacués et rassemblés pour retrouver leurs parents à l'école élémentaire.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Nevada",
+          "Sparks",
+          "Agnes Risley Elementary school",
+          "Sparks Middle School"
+        ],
+        "ORGANIZATION": [
+          "AJC.com",
+          "Agnes Risley Elementary school",
+          "Sparks Middle School"
+        ],
+        "DATE": [
+          "Oct. 21, 2013",
+          "Oct. 21, 2013 in Sparks, Nev."
+        ],
+        "EVENT": [
+          "Shooting at Nevada middle school"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7160431805740398
+    },
+    {
+      "titre": "Nevada middle school shooting",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/picture-gallery/news/nation/2013/10/21/nevada-middle-school-shooting/3145137/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/71b1852d4bfb3ab62cc3157ea9d62a7b13f7ce74/c=456-0-2491-1140/local/-/media/USATODAY/USATODAY/2013/10/21/1382384727001-XXX-GAN-SPARKS-MIDDLE-SCHOOL-SHOOTING-102113-5.jpg?width=700&height=393&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDSnivQwo1pm_JLKYsJFBHPk2vrd29jIBLVdqRHN13Ugq5BJzl",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Nevada middle school shooting",
+        "link": "https://www.usatoday.com/picture-gallery/news/nation/2013/10/21/nevada-middle-school-shooting/3145137/",
+        "source": "USA Today",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRkw90JTOBQFA6Ysfk8QBTt_ObUcEoOHvZd2vm0JFDBtH2ZqgEJ2xCTePKyo7RXVAwuFsAg-6vLfXa-mWTBzpAYASGFDOhiZBFzhWsTHJ8N9KZOBawL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDSnivQwo1pm_JLKYsJFBHPk2vrd29jIBLVdqRHN13Ugq5BJzl",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.usatoday.com/gcdn/-mm-/71b1852d4bfb3ab62cc3157ea9d62a7b13f7ce74/c=456-0-2491-1140/local/-/media/USATODAY/USATODAY/2013/10/21/1382384727001-XXX-GAN-SPARKS-MIDDLE-SCHOOL-SHOOTING-102113-5.jpg?width=700&height=393&fit=crop&format=pjpg&auto=webp",
+        "image_width": 393,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Nevada middle school shooting\n\nONLY AT USA TODAY:\nNewsletters For Subscribers Real Estate From the Archives USA TODAY PLAY Crossword Marvel Comics eNewspaper Magazines      Investigations Video\nPodcasts Humankind Advertise Your Business WITNESS (True Crime) Just Curious Best-selling Booklist Top Workplaces Nomination Legals Press Releases Cars Grocery Shopping\nOUR PORTFOLIO:\nReal Estate 10BEST USA TODAY Store      Shopping\nBlueprint WITNESS (True Crime) Southern Kitchen      Home Internet Services\nCrossword\n\n\nNEWS\n\n\nNevada middle school shooting\n\nUpdated Oct. 21, 2013, 4:10 p.m. ET\n\n\nFeatured Weekly Ad\nAbout Us Newsroom Staff Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Request a Correction Media Room Accessibility Sitemap Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Help Center Manage Account Give Feedback Get Home Delivery eNewspaper USA TODAY Shop USA TODAY Print Editions Licensing & Reprints Advertise Your Business Careers Internships Support Local Business\nNews Tips Submitting letters to the editor Podcasts Newsletters Mobile Apps Facebook X Instagram LinkedIn Threads YouTube Reddit Flipboard\nReal Estate 10BEST USA TODAY Store Shopping Deals Cashback Best-selling Booklist Southern Kitchen Jobs Sports Betting Sports Weekly Studio Gannett Classifieds Blueprint WITNESS (True Crime) Home Internet Services Branded Stories Hub\n\n© 2026 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+        "metadata": {
+          "title": "Nevada middle school shooting"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Galerie de photos et actualités concernant la fusillade dans une école intermédiaire du Nevada, mise à jour le 21 octobre 2013 par USA Today.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Nevada",
+          "California"
+        ],
+        "ORGANIZATION": [
+          "USA Today",
+          "Gannett Satellite Information Network, LLC",
+          "USA TODAY Network",
+          "Marvel Comics",
+          "Facebook",
+          "Instagram",
+          "LinkedIn",
+          "Threads",
+          "YouTube",
+          "Reddit",
+          "Flipboard"
+        ],
+        "DATE": [
+          "Oct. 21, 2013",
+          "2026"
+        ],
+        "EVENT": [
+          "Nevada middle school shooting"
+        ],
+        "OTHER": [
+          "Crossword",
+          "Magazines",
+          "Podcasts",
+          "Real Estate"
+        ]
+      },
+      "score_e5": 0.7215484584482627
+    },
+    {
+      "titre": "Shooting at Sparks Middle School",
+      "source": "www.rgj.com",
+      "lien": "https://www.rgj.com/picture-gallery/news/2014/03/19/shooting-at-sparks-middle-school/6638585/",
+      "image_url": "https://www.rgj.com/gcdn/-mm-/7459e963195483cf58d59238df1b4b14be3d83c8/c=86-0-554-265/local/-/media/Reno/Reno/2014/03/20//1395288462000-bilde-12-.jpg?width=468&height=265&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtPgTBScBhAxEYnmpd1CtTglEtvgGTjS24aCaHhu01vysx73S",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Shooting at Sparks Middle School",
+        "link": "https://www.rgj.com/picture-gallery/news/2014/03/19/shooting-at-sparks-middle-school/6638585/",
+        "source": "www.rgj.com",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkBRB-B1bhwblr3JZ2n5B-bzIRXa5zL8IeBYmMtvs34T7OWwzAwMnFTasLSxYfqOr82Qi-hJMikzLPqOL4TMHp4APbkxL5s_Y2Vuz9hYxt2Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtPgTBScBhAxEYnmpd1CtTglEtvgGTjS24aCaHhu01vysx73S",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.rgj.com/gcdn/-mm-/7459e963195483cf58d59238df1b4b14be3d83c8/c=86-0-554-265/local/-/media/Reno/Reno/2014/03/20//1395288462000-bilde-12-.jpg?width=468&height=265&fit=crop&format=pjpg&auto=webp",
+        "image_width": 265,
+        "image_height": 468
+      },
+      "webpage": {
+        "text": "Shooting at Sparks Middle School\n\nCrossword\n\n\nNEWS\n\n\nShooting at Sparks Middle School\n\nMarch 22, 2014, 11:57 p.m. PT\n\n\nFeatured Weekly Ad\nAbout Us Staff Directory Careers Accessibility Support Sitemap Legals Our Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Support Local Businesses Advertise Your Business Buy and Sell Help Center Subscriber Guide Manage Account Give Feedback\nSubscribe Today Newsletters Mobile Apps Facebook X eNewspaper Archives\nJobs Real Estate Classifieds Education Shopping 10BEST LocaliQ Digital Marketing Solutions Branded Stories Hub\n\n© 2026 www.rgj.com. All rights reserved.",
+        "metadata": {
+          "title": "Shooting at Sparks Middle School"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Galerie de photos concernant la fusillade à l'école intermédiaire Sparks (Shooting at Sparks Middle School) publiée le 22 mars 2014 par www.rgj.com.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "www.rgj.com",
+          "USA TODAY Network",
+          "Facebook"
+        ],
+        "DATE": [
+          "March 22, 2014",
+          "2026"
+        ],
+        "EVENT": [
+          "Shooting at Sparks Middle School"
+        ],
+        "OTHER": [
+          "Crossword"
+        ]
+      },
+      "score_e5": 0.7095971606385445
+    },
+    {
+      "titre": "Massive fire breaks out at GE manufacturing center in Ky.",
+      "source": "KATU",
+      "lien": "https://katu.com/news/nation-world/gallery/massive-fire-breaks-out-at-ge-manufacturing-center-in-ky-11-20-2015",
+      "image_url": "https://katu.com/resources/media/35618650-fc44-46cb-9c13-d4433f4f844f-131021_Middle_School_Shooting_Nevada_xyz_2.jpg?1445941085259",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_f7RWFm74qq10lgXnL_bWRkBh7Rww2IBav64w210DU9RKdL-",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Massive fire breaks out at GE manufacturing center in Ky.",
+        "link": "https://katu.com/news/nation-world/gallery/massive-fire-breaks-out-at-ge-manufacturing-center-in-ky-11-20-2015",
+        "source": "KATU",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRHMh2hR2BH4AsdjMpnD0mNXHKpxVlC1PGd47h0T1ecWXU-doMSGjM-Myej0kr-L5eDAIrr676bvuOhM94LBkFDaXaRW_oxRwMDCFeUVQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_f7RWFm74qq10lgXnL_bWRkBh7Rww2IBav64w210DU9RKdL-",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://katu.com/resources/media/35618650-fc44-46cb-9c13-d4433f4f844f-131021_Middle_School_Shooting_Nevada_xyz_2.jpg?1445941085259",
+        "image_width": 555,
+        "image_height": 986
+      },
+      "webpage": {
+        "text": "Massive fire breaks out at GE manufacturing center in Ky.\n\nMore than 120 Louisville Firefighters continue to battle the blaze in building six at the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015. The fire broke out in a non-production building, creating huge columns of smoke. GE spokeswoman Kim Freeman says there are no known injuries. (AP Photo/Timothy D. Easley)\n\nRead The Article",
+        "metadata": {
+          "title": "Massive fire breaks out at GE manufacturing center in Ky.",
+          "description": "KATU ABC 2 offers coverage of news, weather, sports and community events for Portland, Oregon and surrounding towns, including Beaverton, Lake Oswego, Milwaukie, Happy Valley, Gresham, Vancouver, Hillsboro, Oregon City, Tualatin, West Linn, Woodburn, Tigard, Tualatin and Garden Home.",
+          "fb:app_id": "930551167023689",
+          "og:title": "Massive fire breaks out at GE manufacturing center in Ky.",
+          "og:description": "KATU ABC 2 offers coverage of news, weather, sports and community events for Portland, Oregon and surrounding towns, including Beaverton, Lake Oswego, Milwaukie, Happy Valley, Gresham, Vancouver, Hillsboro, Oregon City, Tualatin, West Linn, Woodburn, Tigard, Tualatin and Garden Home.",
+          "og:url": "https://katu.com/news/nation-world/massive-fire-breaks-out-at-ge-manufacturing-center-in-ky-11-20-2015",
+          "og:site_name": "KATU",
+          "og:locale": "en_US",
+          "og:image": "https://katu.com/resources/media/dcc72901-ef18-42ad-9533-6c890c228b6b-150403_GE_Fire_2.jpg?1445941065227",
+          "og:image:height": "439",
+          "og:image:width": "660",
+          "og:type": "article",
+          "twitter:title": "Massive fire breaks out at GE manufacturing center in Ky.",
+          "twitter:description": "KATU ABC 2 offers coverage of news, weather, sports and community events for Portland, Oregon and surrounding towns, including Beaverton, Lake Oswego, Milwaukie, Happy Valley, Gresham, Vancouver, Hillsboro, Oregon City, Tualatin, West Linn, Woodburn, Tigard, Tualatin and Garden Home."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "author": {
+            "@type": "Person",
+            "name": "Associated Press"
+          },
+          "description": "Nearly 200 firefighters have been battling a fire at General Electric's Appliance Park in Louisville, Kentucky, shutting down production at the sprawling manufacturing center that employs thousands.",
+          "headline": "Massive fire breaks out at GE manufacturing center in Ky.",
+          "mainEntity": {
+            "@type": "ImageGallery",
+            "hasPart": [
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/fa45347d-7fc2-42ac-b529-784928d35c41-150403_GE_Fire_6.jpg?1445941079659",
+                "caption": "Smoke fills the sky from a fire at General Electric's Appliance Park in Louisville, Ky., Friday, April 3, 2015.  The fire broke out in a non-production building, creating huge columns of smoke as more than 100 firefighters battle the blaze.  GE spokeswoman Kim Freeman says there are no known injuries.  (AP Photo/The Courier-Journal, David Harrison) NO SALES; MAGS OUT; NO ARCHIVE; MANDATORY CREDIT"
+              },
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/60e5b5fd-71dd-4dd7-8e88-a7b7e1a9e021-150403_GE_Fire_1.jpg?1445941061557",
+                "caption": "More than 120 Louisville Firefighters continue to battle the blaze in building six at the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015. The fire broke out in a non-production building, creating huge columns of smoke.  GE spokeswoman Kim Freeman says there are no known injuries. (AP Photo/Timothy D. Easley)"
+              },
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/2b9c1988-6a12-4ac7-aac7-60a49783b0b4-150403_GE_Fire_5.jpg?1445941068944",
+                "caption": "Firefighters battle a flames  at General Electric's Appliance Park in Louisville, Ky., Friday, April 3, 2015.  The fire broke out in a non-production building, creating huge columns of smoke as more than 100 firefighters battle the blaze.  GE spokeswoman Kim Freeman says there are no known injuries.  (AP Photo/The Courier-Journal, Michael Clevenger) NO SALES; MAGS OUT; NO ARCHIVE; MANDATORY CREDIT"
+              },
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/5e9e0089-1288-4366-98d8-1930c5f44ded-150403_GE_Fire_4.jpg?1445941072672",
+                "caption": "More than 120 Louisville Firefighters continue to battle the blaze in building six at the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015.  The fire broke out in a non-production building, creating huge columns of smoke.   GE spokeswoman Kim Freeman says there are no known injuries.  (AP Photo/Timothy D. Easley)"
+              },
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/a6d676cb-6998-4645-9336-b9731516eb1a-150403_GE_Fire_3.jpg?1445941076085",
+                "caption": "More than 120 Louisville Firefighters continue to battle the blaze in building six at the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015. The fire broke out in a non-production building, creating huge columns of smoke.  GE spokeswoman Kim Freeman says there are no known injuries. (AP Photo/Timothy D. Easley)"
+              },
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/35618650-fc44-46cb-9c13-d4433f4f844f-131021_Middle_School_Shooting_Nevada_xyz_2.jpg?1445941085259",
+                "caption": "More than 120 Louisville firefighters battle the blaze in the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015."
+              },
+              {
+                "@type": "ImageObject",
+                "contentUrl": "https://katu.com/resources/media/77f1d43c-04d2-40c0-9076-bf6d198a921a-150403_ge_fire_660.jpg?1445941089071",
+                "caption": "More than 120 Louisville firefighters battle the blaze in the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015."
+              }
+            ],
+            "name": "Massive fire breaks out at GE manufacturing center in Ky."
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "KATU",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://katu.com/resources/assets/katu/images/logos/katu-logo.svg"
+            }
+          },
+          "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://katu.com/resources/media/dcc72901-ef18-42ad-9533-6c890c228b6b-150403_GE_Fire_2.jpg?1445941065227",
+            "caption": "More than 120 Louisville Firefighters continue to battle the blaze in building six at the General Electric Appliance Park complex in Louisville, Ky., Friday, April 3, 2015.  The fire broke out in a non-production building, creating huge columns of smoke.  GE spokeswoman Kim Freeman says there are no known injuries. (AP Photo/Timothy D. Easley)"
+          },
+          "dateModified": "2015-04-02T17:00:00.000-07:00",
+          "datePublished": "2015-04-02T17:00:00.000-07:00",
+          "url": "https://katu.com/news/nation-world/massive-fire-breaks-out-at-ge-manufacturing-center-in-ky-11-20-2015"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un incendie massif s'est déclaré dans un centre de fabrication General Electric (GE) au Kentucky. Plus de 120 pompiers de Louisville ont combattu les flammes dans le bâtiment six du complexe General Electric Appliance Park à Louisville, dans le Kentucky, le vendredi 3 avril 2015. L'incendie a débuté dans un bâtiment sans production, créant d'immenses colonnes de fumée. Selon la porte-parole de GE, Kim Freeman, aucun blessé n'a été signalé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kim Freeman",
+          "Timothy D. Easley"
+        ],
+        "LOCATION": [
+          "Ky.",
+          "Louisville",
+          "Kentucky"
+        ],
+        "ORGANIZATION": [
+          "KATU",
+          "Louisville Firefighters",
+          "General Electric",
+          "GE",
+          "AP Photo"
+        ],
+        "DATE": [
+          "April 3, 2015",
+          "11-20-2015"
+        ],
+        "EVENT": [
+          "Massive fire breaks out at GE manufacturing center in Ky."
+        ],
+        "OTHER": [
+          "General Electric Appliance Park"
+        ]
+      },
+      "score_e5": 0.6932324852137344
+    },
+    {
+      "titre": "2 dead, 2 wounded in Nevada school shooting",
+      "source": "KCRA",
+      "lien": "https://www.kcra.com/article/2-dead-2-wounded-in-nevada-school-shooting/5898246",
+      "image_url": "https://hips.hearstapps.com/vidthumb/8eacedf6-5248-4800-b7d0-c380fae989ac/8eacedf6-5248-4800-b7d0-c380fae989ac_image.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkosyUQ5O4xIFP9qEbUzkq1C9Ng29iM1Oa4KVpuwCoKXBT7DL",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "2 dead, 2 wounded in Nevada school shooting",
+        "link": "https://www.kcra.com/article/2-dead-2-wounded-in-nevada-school-shooting/5898246",
+        "source": "KCRA",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcR9DECcoRCvp2_f611a3bpFUBeNoMWmgtdTr_P4wXba5hIOjl9pkMALl4WHZ6e3BTP1sCN-LehAXApIQBulL9YdKgzIkMmJ6ZVQ_wGiqnK8ZZA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkosyUQ5O4xIFP9qEbUzkq1C9Ng29iM1Oa4KVpuwCoKXBT7DL",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://hips.hearstapps.com/vidthumb/8eacedf6-5248-4800-b7d0-c380fae989ac/8eacedf6-5248-4800-b7d0-c380fae989ac_image.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "2 dead, 2 wounded in Nevada school shooting\n\nTwo people were killed in a shooting at a Sparks, Nev., middle school Monday morning.\n\n\n2 dead, 2 wounded in Nevada school shooting\n\nTwo people were killed in a shooting at a Sparks, Nev., middle school Monday morning.\n\nWEBVTT WHERE THE NEWS COMES FIRST. [CAPTIONING SPONSORED BY SLEEP TRAIN MATTRESS CENTERS, YOUR TICKET TO A BETTER NIGHT'S SLEEP!] TWO DEAD, TWO INJURED, AFTER SHOOTING AT SPARKS MIDDLE SCHOOL IN NEVADA. SHOTS WERE FIRED BEFORE CLASSES STARTED THIS MORNING. WE ARE LEARNING NEW INFORMATION ABOUT WHO POLICE SAY FIRED THOSE SHOTS. DAVID BIENICK JOINS US LIVE ON THE PHONE FROM RENO, NEVADA, WITH THE LATEST ON THE SITUATION. WE ARE OUTSIDE THE MEDICAL CENTER IN RENO. THIS IS WHERE TWO STUDENTS, BOTH BOYS, HAVE BEEN BROUGHT, FOLLOWING THE SHOOTING THIS MORNING AT SPARKS MIDDLE SCHOOL, ABOUT TWO MILES AWAY FROM HERE. THEY WERE BOTH BROUGHT HERE IN CRITICAL CONDITION. WE DON'T HAVE AN UPDATED CONDITION REPORT ON THEM YET BUT WE DO KNOW THAT ONE OF THE BOYS IS NOW OUT OF SURGERY. IT STARTED AROUND A QUARTER AFTER SEVEN THIS MORNING, JUST AS STUDENTS WERE ARRIVING AT SPARKS MIDDLE SCHOOL. POLICE SAY A BOY WITH A GUN AND OPENED FIRE. A STAFF MEMBER, A TEACHER DIED FROM HIS INJURIES, AND POLICE ARE NOW DESCRIBING WHAT THAT TEACHER DID AS THE ACTIVE A HERO. -- AS THE ACT OF A HERO. THERE IS NO EVIDENCE THERE IS ANYONE INVOLVED OTHER THAN THE INDIVIDUAL. WHEN THE OFFICERS GOT ON SCENE, THE SCHOOL IS ON LOCKDOWN. A SWAT TEAM WHEN IN AND CLOSE THE ENTIRE SCHOOL. WE HAD BOMB DOGS COME THROUGH JUST AS OF ARE CAUTIONED TO CHECK THE OUTSIDE AND ALL THAT HAS SHOWN THAT AT THIS TIME THERE IS NO ONE ELSE INVOLVED. OUR HEARTS GO OUT TO ALL THOSE THAT HAVE BEEN AFFECTED, THE STUDENTS, FAMILIES, ALL THOSE PEOPLE INVOLVED. I WANT TO REITERATE AGAIN THAT THE CITY ITSELF IS VERY SAFE. THIS IS JUST AN ISOLATED INCIDENT. I DON'T BELIEVE THIS IS ANY KIND OF SPREE THAT IS GOING TO GO ON OUR ANYTHING LIKE THAT. ON BEHALF OF MY FELLOW BOARD MEMBERS, I WANT TO SAY HOW TRAGIC THIS IS AND HOW SADDENED WE ARE. OUR STUDENT SAFETY AND STAFF SAFETY IS OF UTMOST, PARAMOUNT CONCERN TO US, AND WE ARE DOING EVERYTHING THAT WE POSSIBLY CAN TO ASSIST THE POLICE AS WELL AS OUR PARENTS, OUR STUDENTS, AND STAFF, BY PROVIDING INTERVENTION AND COUNSELING, AND WE WILL BE HERE AND DO WHATEVER IS NECESSARY TO ENSURE THAT EVERYONE HAS AN OPPORTUNITY TO HAVE THEIR NEEDS MET. POLICE HAVE NOT IDENTIFIED THE STUDENT WHO THEY SAY WAS THE SHOOTER IN THIS CASE, NOR HAD THEY IDENTIFIED THE STAFF MEMBER WHO DIED IN THIS SHOOTING. THE POLICE DID SAY, AND THIS IS A VERY INSTINCT POINT, THAT DURING THIS INCIDENT, THEY FIRED NO SHOTS. THERE WERE NO LAW-ENFORCEMENT SHOTS FIRED, SO WE ARE UNCLEAR HOW THE STUDENT SUSPECT I, PERHAPS BY TAKING HIS OWN LIFE. WE EXPECT AN UPDATE ON THAT SITUATION AND MORE DETAILS ON HOW THE TEACHER SERVED AS A HERO IN THIS CASE WHEN THE POLICE HERE IN RENO GIVE US ANOTHER UPDATE AT 4:00 THIS AFTERNOON. DAVID BIENICK, KCRA 3 NEWS. SUCH A SCARY AND TRAGIC SITUATION. TWO ARE DEAD, ONE INCLUDES THE SHOOTER. THE OTHER IS A TEACHER, AND THE TWO THAT WERE INJURED WERE STUDENTS THERE, CORRECT ?\n\n2 dead, 2 wounded in Nevada school shooting\n\nTwo people were killed in a shooting at a Sparks, Nev., middle school Monday morning.\n\nUpdated: 3:26 PM PDT Oct 21, 2013\n\nEditorial Standards ⓘ",
+        "metadata": {
+          "og:type": "video.other",
+          "og:url": "https://www.kcra.com/article/2-dead-2-wounded-in-nevada-school-shooting/5898246",
+          "fb:app_id": "102798321191",
+          "article:publisher": "https://www.facebook.com/kcra3",
+          "og:site_name": "KCRA",
+          "title": "2 dead, 2 wounded in Nevada school shooting",
+          "description": "Two people were killed in a shooting at a Sparks, Nev., middle school Monday morning.",
+          "keywords": "KCRA,Sparks,Nevada,school,shootout,killed,injured,wounded,gun,viloence,middle,dead,students,teacher,David Bienick",
+          "news_keywords": "KCRA,Sparks,Nevada,school,shootout,killed,injured,wounded,gun,viloence,middle,dead,students,teacher,David Bienick",
+          "og:title": "2 dead, 2 wounded in Nevada school shooting",
+          "og:description": "Two people were killed in a shooting at a Sparks, Nev., middle school Monday morning.",
+          "article:modified_time": "2017-10-08T13:44:18.415294Z",
+          "article:opinion": "false",
+          "og:image": "https://kubrick.htvapps.com/vidthumb/8eacedf6-5248-4800-b7d0-c380fae989ac/8eacedf6-5248-4800-b7d0-c380fae989ac_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "article:published_time": "2013-10-21T22:26:14Z",
+          "datepublished": "2013-10-21T22:26:14Z",
+          "datemodified": "2017-10-08T13:44:18.415294Z",
+          "article:expiration_time": "2100-02-01T06:00:00Z",
+          "article:section": "News",
+          "article:subsection": "Local News",
+          "article:rights": "kcra",
+          "twitter:title": "2 dead, 2 wounded in Nevada school shooting",
+          "twitter:description": "Two people were killed in a shooting at a Sparks, Nev., middle school Monday morning."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Deux personnes ont été tuées et deux autres blessées lors d'une fusillade lundi matin à l'école intermédiaire de Sparks, dans le Nevada. Les coups de feu ont retenti avant le début des cours. Deux garçons ont été transportés en état critique au centre médical de Reno, distant d'environ deux miles. Un membre du personnel (un enseignant) a perdu la vie après avoir agi héroïquement. La police et un équipe du SWAT sont intervenues sur les lieux qui ont été bouclés, et aucun autre suspect n'a été impliqué. La police n'a pas tiré de coups de feu lors de l'incident.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Bienick"
+        ],
+        "LOCATION": [
+          "Nevada",
+          "Sparks",
+          "Reno"
+        ],
+        "ORGANIZATION": [
+          "KCRA",
+          "KCRA 3 News",
+          "SWAT"
+        ],
+        "DATE": [
+          "Monday morning",
+          "4:00 this afternoon"
+        ],
+        "EVENT": [
+          "Nevada school shooting",
+          "shooting at Sparks Middle School"
+        ],
+        "OTHER": [
+          "SLEEP TRAIN MATTRESS CENTERS"
+        ]
+      },
+      "score_e5": 0.733548819319327
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Michoacan",
+      "Mexico"
+    ],
+    "ORGANIZATION": [
+      "federal police"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Vigilantes"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Nevada",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sparks",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Agnes Risley Elementary school",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sparks Middle School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AJC.com",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Agnes Risley Elementary school",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sparks Middle School",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 21, 2013",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Nevada middle school shooting",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA Today",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gannett Satellite Information Network, LLC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA TODAY Network",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Marvel Comics",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LinkedIn",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Threads",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flipboard",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Crossword",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Magazines",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Podcasts",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Real Estate",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "www.rgj.com",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 22, 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Shooting at Sparks Middle School",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kim Freeman",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Timothy D. Easley",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kentucky",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Louisville",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "KATU",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Louisville Firefighters",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "General Electric",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP Photo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 3, 2015",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 20, 2015",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Massive fire breaks out at GE manufacturing center in Ky.",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "General Electric Appliance Park",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Bienick",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Reno",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "KCRA",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SWAT",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday morning",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "4:00 this afternoon",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SLEEP TRAIN MATTRESS CENTERS",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T11:55:37.236446"
+  }
+}

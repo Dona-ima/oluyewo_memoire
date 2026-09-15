@@ -1,0 +1,541 @@
+{
+  "id_rumeur": 1536107,
+  "id_image": 1536107,
+  "caption": "One of the highlights of this year was covering events surrounding the Commonwealth Games in Glasgow",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748067/oluyewo_benchmark/kb0qk59kodbmpzjwyt67.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Jackie Bird: Celebrating 25 Years at Reporting Scotland ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-scotland-29570930",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/17C8D/production/_106412479_0909c5e9-0956-4222-86fe-d0283ee3e601.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR95CNunAVX8sBQrAs3VHp8CJ4-bWYGUFTFMV7zZTcvQqFF0JM1",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Jackie Bird: Celebrating 25 Years at Reporting Scotland ...",
+        "link": "https://www.bbc.com/news/uk-scotland-29570930",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR95CNunAVX8sBQrAs3VHp8CJ4-bWYGUFTFMV7zZTcvQqFF0JM1",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/17C8D/production/_106412479_0909c5e9-0956-4222-86fe-d0283ee3e601.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Jackie Bird: Celebrating 25 Years at Reporting Scotland\n\nHow does she describe working on the referendum?\n\n\"Challenging, exciting, demanding. It was a frenetic year really, and I'm so proud to have been part of it all.\"\n\nWhile most people will know Jackie as the face of Reporting Scotland, she has a substantial body of other work under her belt at BBC Scotland.\n\nShe tells me that presenting the annual Hogmanay programme and fronting documentaries - with topics ranging from the story of 32-year-old Brian MacKinnon who attended school in Bearsden posing as a 17-year-old Canadian orphan, to the recent referendum documentary What Women Want - are a \"lovely break\" from the cut and thrust of daily news.\n\nBut it is the 1993 documentary she filmed with sprinter Cameron Sharp about his fightback following a horrific car crash, which left him physically and mentally disabled, that Jackie counts as her proudest work.\n\n\"To be allowed into the family's life at such a difficult time was such a privilege.\n\n\"After his daughter Lynsey Sharp won her silver at the Commonwealth Games, she came in to the Reporting Scotland studios. To see her with that combination of her mother's determination and her father's grit - this is a girl who's nappy I had changed - it was almost a full circle.\"",
+        "metadata": {
+          "description": "After 25 years as presenter of Reporting Scotland, Jackie Bird shares her memories of working on the show that made her a household name",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "After 25 years as presenter of Reporting Scotland, Jackie Bird shares her memories of working on the show that made her a household name",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6F05/production/_106412482_6d8ec801-f204-44be-97cb-693b99f3d617.jpg",
+          "og:image:alt": "Jackie Bird toasts Hogmanay",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Jackie Bird: Celebrating 25 Years at Reporting Scotland",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-scotland-29570930",
+          "article:section": "Scotland",
+          "twitter:description": "After 25 years as presenter of Reporting Scotland, Jackie Bird shares her memories of working on the show that made her a household name",
+          "twitter:title": "Jackie Bird: Celebrating 25 Years at Reporting Scotland"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-scotland-29570930",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2014-10-11T23:43:30.000Z",
+          "dateModified": "2019-04-11T14:39:25.000Z",
+          "description": "After 25 years as presenter of Reporting Scotland, Jackie Bird shares her memories of working on the show that made her a household name",
+          "headline": "Jackie Bird: Celebrating 25 Years at Reporting Scotland",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6F05/production/_106412482_6d8ec801-f204-44be-97cb-693b99f3d617.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6F05/production/_106412482_6d8ec801-f204-44be-97cb-693b99f3d617.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-scotland-29570930",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Louise Sayers"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Jackie Bird celebrates 25 years at Reporting Scotland. She discusses working on the referendum, presenting the annual Hogmanay programme, fronting documentaries including Brian MacKinnon's story in Bearsden and What Women Want, and her 1993 documentary with sprinter Cameron Sharp. Lynsey Sharp won silver at the Commonwealth Games.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jackie Bird",
+          "Brian MacKinnon",
+          "Cameron Sharp",
+          "Lynsey Sharp"
+        ],
+        "LOCATION": [
+          "Scotland",
+          "Bearsden"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC Scotland",
+          "Reporting Scotland"
+        ],
+        "DATE": [
+          "25 Years",
+          "1993"
+        ],
+        "EVENT": [
+          "Commonwealth Games"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8001323704958425
+    },
+    {
+      "titre": "Em and Snowdrop on BBC Breakfast - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=MfM-IZPxv24",
+      "image_url": "https://i.ytimg.com/vi/MfM-IZPxv24/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGPHOy1cmcKQr5uarm-r5VHOx1fBQqUUPHgoV40U7HScNuVNYY",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Em and Snowdrop on BBC Breakfast - YouTube",
+        "link": "https://www.youtube.com/watch?v=MfM-IZPxv24",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGPHOy1cmcKQr5uarm-r5VHOx1fBQqUUPHgoV40U7HScNuVNYY",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/MfM-IZPxv24/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Em and Snowdrop on BBC Breakfast\n\nDogs 4 Rescue\n\nEm and Snowdrop on BBC Breakfast this morning sharing our experience with Rory Cellan-Jones of helping his recently adopted dog Sophie from Romania decompres...",
+        "metadata": {
+          "title": "Em and Snowdrop on BBC Breakfast",
+          "description": "Em and Snowdrop on BBC Breakfast this morning sharing our experience with Rory Cellan-Jones of helping his recently adopted dog Sophie from Romania decompres...",
+          "keywords": "video, sharing, camera phone, video phone, free, upload",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=MfM-IZPxv24",
+          "og:title": "Em and Snowdrop on BBC Breakfast",
+          "og:image": "https://i.ytimg.com/vi/MfM-IZPxv24/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTChFMA8=&rs=AOn4CLBML7MQSh2795Q0Yy41AGekf_pipQ",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Em and Snowdrop on BBC Breakfast this morning sharing our experience with Rory Cellan-Jones of helping his recently adopted dog Sophie from Romania decompres...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=MfM-IZPxv24&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=MfM-IZPxv24&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=MfM-IZPxv24&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/MfM-IZPxv24",
+          "og:video:secure_url": "https://www.youtube.com/embed/MfM-IZPxv24",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Em and Snowdrop on BBC Breakfast",
+          "twitter:description": "Em and Snowdrop on BBC Breakfast this morning sharing our experience with Rory Cellan-Jones of helping his recently adopted dog Sophie from Romania decompres..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Em and Snowdrop on BBC Breakfast sharing their experience with Rory Cellan-Jones of helping his recently adopted dog Sophie from Romania.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Em",
+          "Snowdrop",
+          "Rory Cellan-Jones",
+          "Sophie"
+        ],
+        "LOCATION": [
+          "Romania"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC Breakfast",
+          "Dogs 4 Rescue"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7351409124386565
+    },
+    {
+      "titre": "Thank you to all the wonderful staff and presenters at BBC ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/SoiDogPageInEnglish/videos/cola-on-bbc-breakfast/396596802982679/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=396596802982679&get_thumbnail=1",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZWc8T8ITV9F55M286mJBXd034IDoQA22euTcpWC3F6LPw2U_-",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Thank you to all the wonderful staff and presenters at BBC ...",
+        "link": "https://www.facebook.com/SoiDogPageInEnglish/videos/cola-on-bbc-breakfast/396596802982679/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZWc8T8ITV9F55M286mJBXd034IDoQA22euTcpWC3F6LPw2U_-",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=396596802982679&get_thumbnail=1",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Thank you to all the wonderful staff and presenters at BBC Breakfast for the incredibly warm welcome they gave Cola Dalley. 🌟 To see the video of the show, please watch here: | Soi Dog Foundation\n\nWe know a lot of people worry that volunteering at our shelter would be too hard on the heart. And yes, some of our dogs have been through so much. But what they show us every single day is joy, gratitude and love. A simple walk or a scratch behind the ears changes their whole world.🥹🌏 Our shelter is based in Phuket, Thailand. So if you’re planning a trip here, or already on holiday, please come and volunteer. We promise, it won’t break your heart… it will fill it.❤️ Visit www.soidog.org/volunteer",
+        "metadata": {
+          "title": "Thank you to all the wonderful staff and presenters at BBC Breakfast for the incredibly warm welcome they gave Cola Dalley. 🌟 To see the video of the show, please watch here: | Soi Dog Foundation | Facebook",
+          "og:type": "video.other",
+          "og:title": "Thank you to all the wonderful staff and presenters at BBC Breakfast for the incredibly warm welcome they gave Cola Dalley. 🌟 To see the video of the show, please watch here: | Soi Dog Foundation | Facebook",
+          "og:description": "Thank you to all the wonderful staff and presenters at BBC Breakfast for the incredibly warm welcome they gave Cola Dalley. 🌟 To see the video of the show, please watch here:",
+          "og:url": "https://www.facebook.com/reel/396596802982679/",
+          "og:image": "https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/431680585_1056427998755439_6789882756117020625_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c26028&_nc_ohc=ygbosxrZaZUQ7kNvwElXL_K&_nc_oc=AdpG3pu9FjL4CtFxncaED4AHeDVIlucfEtMIDF-DSnjOkV8mO2zZQJKk7P5ZDFxHjZkMs7pj4bfBRtwxyJxhp19F&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=iJss2AZ_amYIS-D0Jvopfw&_nc_ss=70100&oh=00_AQLKPFyw8eMymgXrkMwoOrknRUL28EQhVJPIrbq8uU-RQw&oe=6AA33D66",
+          "og:locale": "en_US",
+          "og:video": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=396596802982679",
+          "og:video:url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=396596802982679",
+          "og:video:secure_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=396596802982679",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "og:video:type": "video/mp4",
+          "description": "Thank you to all the wonderful staff and presenters at BBC Breakfast for the incredibly warm welcome they gave Cola Dalley. 🌟 To see the video of the...",
+          "twitter:title": "Thank you to all the wonderful staff and presenters at BBC Breakfast...",
+          "twitter:description": "Thank you to all the wonderful staff and presenters at BBC Breakfast for the incredibly warm welcome they gave Cola Dalley. 🌟 To see the video of the show, please watch here:"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Cola Dalley received a warm welcome from staff and presenters at BBC Breakfast. The Soi Dog Foundation shelter is based in Phuket, Thailand, where volunteering is encouraged.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Cola Dalley"
+        ],
+        "LOCATION": [
+          "Phuket",
+          "Thailand"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC Breakfast",
+          "Soi Dog Foundation"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7122589807517075
+    },
+    {
+      "titre": "Kim was on BBC Breakfast this morning, catch her interview ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/officialkimwilde/posts/kim-was-on-bbc-breakfast-this-morning-catch-her-interview-here-from-2-hours-51-m/1156570165828374/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1156570092495048",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHHh4rR_nU-hb5vCW_ymogVmo4ro3skTdV7GBcnfNfL-VwDpk2",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Kim was on BBC Breakfast this morning, catch her interview ...",
+        "link": "https://www.facebook.com/officialkimwilde/posts/kim-was-on-bbc-breakfast-this-morning-catch-her-interview-here-from-2-hours-51-m/1156570165828374/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHHh4rR_nU-hb5vCW_ymogVmo4ro3skTdV7GBcnfNfL-VwDpk2",
+        "thumbnail_width": 169,
+        "thumbnail_height": 298,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1156570092495048",
+        "image_width": 1160,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Kim Wilde - Kim was on BBC Breakfast this morning, catch...\n\nKim was on BBC Breakfast this morning, catch her interview here from 2 hours 51 minutes! 👉 https://www.bbc.co.uk/iplayer/episode/m0027dlp/breakfast-27012025",
+        "metadata": {
+          "title": "Kim Wilde - Kim was on BBC Breakfast this morning, catch... | Facebook",
+          "og:type": "video.other",
+          "og:title": "Kim Wilde",
+          "og:description": "Kim was on BBC Breakfast this morning, catch her interview here from 2 hours 51 minutes! 👉 https://www.bbc.co.uk/iplayer/episode/m0027dlp/breakfast-27012025",
+          "og:url": "https://www.facebook.com/officialkimwilde/posts/kim-was-on-bbc-breakfast-this-morning-catch-her-interview-here-from-2-hours-51-m/1156570165828374/",
+          "og:image:alt": "Kim Wilde",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1156570092495048",
+          "og:locale": "en_US",
+          "description": "Kim was on BBC Breakfast this morning, catch her interview here from 2 hours 51 minutes! 👉 https://www.bbc.co.uk/iplayer/episode/m0027dlp/breakfast-27012025",
+          "twitter:title": "Kim Wilde",
+          "twitter:description": "Kim was on BBC Breakfast this morning, catch her interview here from 2 hours 51 minutes! 👉 https://www.bbc.co.uk/iplayer/episode/m0027dlp/breakfast-27012025"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Kim Wilde appeared on BBC Breakfast for an interview on 27012025.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kim Wilde"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC Breakfast"
+        ],
+        "DATE": [
+          "27012025"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6972993147353808
+    },
+    {
+      "titre": "Thank you @bbcbreakfast for having me. Informing the nation ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DUVTNebDHSE/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3825046340166760872",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu4dkvt8pFzHUwp5DX2EfgcUUTvfPm1CoECzHjCWMUldyRIeTA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Thank you @bbcbreakfast for having me. Informing the nation ...",
+        "link": "https://www.instagram.com/p/DUVTNebDHSE/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8edee532f11d80fe0c228e/images/ImO7MUWTgQuR0UZ7ckA5YYaeBmiYzAx-1ADEltT85Rg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu4dkvt8pFzHUwp5DX2EfgcUUTvfPm1CoECzHjCWMUldyRIeTA",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3825046340166760872",
+        "image_width": 1920,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "A social media post thanking bbcbreakfast for having the user.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "bbcbreakfast"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7125912219609633
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Glasgow"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "this year"
+    ],
+    "EVENT": [
+      "Commonwealth Games"
+    ],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Jackie Bird",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Brian MacKinnon",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cameron Sharp",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lynsey Sharp",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bearsden",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reporting Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "25 Years",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1993",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Commonwealth Games",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Em",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Snowdrop",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rory Cellan-Jones",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sophie",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Romania",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC Breakfast",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Dogs 4 Rescue",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cola Dalley",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Phuket",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Thailand",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Soi Dog Foundation",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kim Wilde",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "27012025",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:18:00.219528"
+  }
+}

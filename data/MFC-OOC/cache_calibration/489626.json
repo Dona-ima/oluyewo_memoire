@@ -1,0 +1,617 @@
+{
+  "id_rumeur": 489626,
+  "id_image": 489626,
+  "caption": "London UK A scene from Contortion from Kooza by Cirque Du Soleil at the Royal Albert Hall",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787754291/oluyewo_benchmark/fqilayna9ka5soffsgq4.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Nights at the circus: beyond the big top – in pictures ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/stage/gallery/2020/sep/30/nights-at-the-circus-big-top-in-pictures-tristram-kenton",
+      "image_url": "https://i.guim.co.uk/img/media/e3a612cd3408f541e40ce6085226ee89f9dab1d3/0_212_4015_2409/master/4015.jpg?width=375&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD2BfDjLN5aIxcy2SQLxpmUPTtYGAOLc3_txgEusGY_TeCVpke",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Nights at the circus: beyond the big top – in pictures ...",
+        "link": "https://www.theguardian.com/stage/gallery/2020/sep/30/nights-at-the-circus-big-top-in-pictures-tristram-kenton",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8effa19df9ddc923f9ddf1/images/CcObxeHHfMJxskkWuUIVpuT0pOOmnV9Y57vKgdPwhJE.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD2BfDjLN5aIxcy2SQLxpmUPTtYGAOLc3_txgEusGY_TeCVpke",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/e3a612cd3408f541e40ce6085226ee89f9dab1d3/0_212_4015_2409/master/4015.jpg?width=375&dpr=1&s=none&crop=none",
+        "image_width": 225,
+        "image_height": 375
+      },
+      "webpage": {
+        "text": "Nights at the circus: beyond the big top – in pictures | Circus\n\nNights at the circus: beyond the big top – in pictures\n\nThis article is more than 5 years old\n\nFrom acrobatics to contortionists, delve into Guardian photographer Tristram Kenton’s archive of circus shots showing performers at their gravity-defying best",
+        "metadata": {
+          "title": "Nights at the circus: beyond the big top – in pictures | Circus | The Guardian",
+          "description": "From acrobatics to contortionists, delve into Guardian photographer Tristram Kenton’s archive of circus shots showing performers at their gravity-defying best",
+          "og:url": "http://www.theguardian.com/stage/gallery/2020/sep/30/nights-at-the-circus-big-top-in-pictures-tristram-kenton",
+          "article:author": "https://www.theguardian.com/profile/tristram-kenton",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/0e27b3b9d3da5fc6df1893c2b0eeaef6d78d3d4d/0_122_3715_2229/master/3715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=a09bc9d7a404b5a873b14c6fa06ebc40",
+          "al:ios:url": "gnmguardian://stage/gallery/2020/sep/30/nights-at-the-circus-big-top-in-pictures-tristram-kenton?contenttype=Article&source=applinks",
+          "og:title": "Nights at the circus: beyond the big top – in pictures",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2020-10-28T12:41:56.000Z",
+          "og:image:height": "720",
+          "og:description": "From acrobatics to contortionists, delve into Guardian photographer Tristram Kenton’s archive of circus shots showing performers at their gravity-defying best",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Stage",
+          "article:published_time": "2020-09-30T10:09:36.000Z",
+          "article:tag": "Circus,Stage,Culture,Theatre,Cirque du Soleil,Photography",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Nights at the circus: beyond the big top – in pictures"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le photographe du Guardian Tristram Kenton présente des clichés d'archives sur le thème du cirque, allant de l'acrobatie aux contorsionnistes, mettant en vedette des artistes effectuant des performances défiant la gravité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tristram Kenton"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Guardian"
+        ],
+        "DATE": [
+          "2020",
+          "30 September 2020"
+        ],
+        "EVENT": [
+          "Nights at the circus: beyond the big top – in pictures"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7770662256513438
+    },
+    {
+      "titre": "Cirque du Soleil: Kooza, Royal Albert Hall, review: 'nerve ...",
+      "source": "The Telegraph",
+      "lien": "https://www.telegraph.co.uk/culture/theatre/theatre-reviews/11330043/Cirque-du-Soleil-Kooza-Royal-Albert-Hall-review-nerve-jangling.html",
+      "image_url": "https://www.telegraph.co.uk/multimedia/archive/03156/CirqueKooza_3156745b.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv3C8xD2c8dxygQ5siABn7v59a-eAlmy4biv9Dzcbo3gWB7y8L",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Cirque du Soleil: Kooza, Royal Albert Hall, review: 'nerve ...",
+        "link": "https://www.telegraph.co.uk/culture/theatre/theatre-reviews/11330043/Cirque-du-Soleil-Kooza-Royal-Albert-Hall-review-nerve-jangling.html",
+        "source": "The Telegraph",
+        "source_icon": "https://serpapi.com/searches/6a8effa19df9ddc923f9ddf1/images/fcKxnZBFuCcCqmlmIOZ590UDNp1Nynijv-xOsLOxpqg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv3C8xD2c8dxygQ5siABn7v59a-eAlmy4biv9Dzcbo3gWB7y8L",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://www.telegraph.co.uk/multimedia/archive/03156/CirqueKooza_3156745b.jpg",
+        "image_width": 387,
+        "image_height": 620
+      },
+      "webpage": {
+        "text": "Access Restricted\n\nTELEGRAPH MEDIA GROUP HOLDINGS Ltd\n\n\nAccess Restricted\n\nThank you for your interest. Unauthorised access is prohibited. To access this content, you must have prior permission and a valid contract. Please contact our team at licensing@telegraph.co.uk to discuss licensing options.\n\nIf you are a Telegraph Subscriber, please contact customerservice@telegraph.co.uk , quoting the reference code on this page.\n\nReference ID: 0.c551c317.1788784728.bd7f9e80",
+        "metadata": {
+          "title": "Access Restricted"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page d'accès restreint de The Telegraph concernant une critique du spectacle Kooza du Cirque du Soleil au Royal Albert Hall.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Telegraph",
+          "Telegraph Media Group Holdings Ltd"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Kooza"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8386562982736833
+    },
+    {
+      "titre": "Cirque du Soleil, Royal Albert Hall, London | The Independent ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/arts-entertainment/theatre-dance/reviews/cirque-du-soleil-royal-albert-hall-london-8443875.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/09/10/CdS KOOZA act Contortion Photos 2007 008.jpg?width=1200&height=1200&fit=crop",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgezOA0v9tWkYs9jWI59mnX_Wzy6Cbwgqah2o0rTJrBNBH3qJL",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Cirque du Soleil, Royal Albert Hall, London | The Independent ...",
+        "link": "https://www.independent.co.uk/arts-entertainment/theatre-dance/reviews/cirque-du-soleil-royal-albert-hall-london-8443875.html",
+        "source": "The Independent",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSrV5qFXK4MrrpmF-qGRuGZ3XvO58kiXpkOWX91Kx8-eTpm--qUCQciIk1KfIFiK7-tBEP0myCykgJYy4NHLoay0SMKqJd_ci1MQXzy391HtuxldxaIDbUucMM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgezOA0v9tWkYs9jWI59mnX_Wzy6Cbwgqah2o0rTJrBNBH3qJL",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/09/10/CdS KOOZA act Contortion Photos 2007 008.jpg?width=1200&height=1200&fit=crop",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Cirque du Soleil, Royal Albert Hall, London | The Independent\n\nCirque du Soleil offers a bewildering mix of the bland and the flat-out terrifying. As so often with this company, the clowning and the framing devices are all bombast. The acrobatic acts, when at last we get to them, are so scarily brave that I wanted to watch the aerialists and the wheel of death through my fingers.\n\nFounded in 1982, this French Canadian troupe has turned circus into an international brand. Across many shows, the exaggerated makeup and costume design give Cirque du Soleil a clear trademark, blurring the individual identity of its skilled performers. The company go on about celebrating wonder and freedom, but only within the narrow limits of corporate-sponsored whimsy.\n\nThe 2007 show Kooza, directed by David Shiner,shows Cirque’s split personality at its most divided. The central figure is a sentimental Innocent, who toddles through the world of the circus without a trace of spontaneity or warmth. Clowning is one of the main themes of Kooza, which means more dreary slapstick, more gurning, more people taken out of the audience than ever before. It makes this a very long show: almost three hours, half of which could be cut.\n\nThe other half is superhuman. Sometimes the Cirque du Soleil branding makes even its acrobats anonymous. This time, the rawness of human effort shines through. Solo trapeze artist Marion Verd may be weighed down with 1980s makeup and a pompadour mullet hairdo, but there’s nothing sugary about the way she flips off the bar, twists and falls before brilliantly catching herself.\n\nA high wire team prance and play leapfrog across two tightropes. At this performance, the first time one jumps over his colleague, he slipped off the wire, grabbing hold just in time. After a moment to recover – a fellow acrobat patted his shoulder consolingly – he went back and did it again, flawlessly. Then the whole team went on to still more dramatic stunts: skipping ropes, bicycles, a pyramid on a bicycle on a wire.\n\nThe prize for insane bravery goes to Jimmy Ibarra and Ronald Solis, who perform on the aptly-named Wheel of Death. Two giant hamster wheels are held at the end of a turning bar; as the man walks inside the wheel, he makes the whole device circle. Ibarra and Solis start by running inside their wheels. Then they run on the outside, keeping their balance on a spinning wheel that is itself swung through space.\n\nGravity seems to be sitting in wait for them, ready to pounce. The audience’s gasps turn to actual screams when Ibarra and Solis start to jump and dive. I screamed, too: no amount of waffle about wonder could take the edge off that.\n\nUntil 14 February. Box office 0845 401 5034",
+        "metadata": {
+          "fb:app_id": "235586169789578",
+          "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+          "description": " ",
+          "og:updated_time": "2013-01-09T10:57:38.000Z",
+          "article:published_time": "2013-01-09T10:57:38.000Z",
+          "article:modified_time": "2013-01-09T10:57:38.000Z",
+          "date": "2013-01-09T10:57:38.000Z",
+          "og:site_name": "The Independent",
+          "article:section": "Culture",
+          "article:subsection": "Theatre & Dance",
+          "article:category": "News",
+          "article:author_name": "Zo Anderson",
+          "article:content_type": "story",
+          "article:word_count": "477",
+          "article:image_count": "1",
+          "article:embed_count": "0",
+          "article:video_count": "0",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "0",
+          "og:title": "Cirque du Soleil, Royal Albert Hall, London",
+          "twitter:title": "Cirque du Soleil, Royal Albert Hall, London",
+          "og:url": "https://www.the-independent.com/arts-entertainment/theatre-dance/reviews/cirque-du-soleil-royal-albert-hall-london-8443875.html",
+          "og:type": "article",
+          "og:description": " ",
+          "twitter:description": " ",
+          "og:image": "https://static.the-independent.com/s3fs-public/thumbnails/image/2013/01/09/10/CdS%20KOOZA%20act%20Contortion%20Photos%202007%20008.jpg?width=1200&height=800&crop=1200:800",
+          "og:image:secure_url": "https://static.the-independent.com/s3fs-public/thumbnails/image/2013/01/09/10/CdS%20KOOZA%20act%20Contortion%20Photos%202007%20008.jpg?width=1200&height=800&crop=1200:800",
+          "og:locale": "en_GB"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "The Independent",
+          "url": "https://www.the-independent.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.the-independent.com/img/logo.png",
+            "width": 504,
+            "height": 60
+          },
+          "sameAs": [
+            "https://twitter.com/Independent",
+            "https://www.facebook.com/TheIndependentOnline"
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le spectacle Kooza du Cirque du Soleil, fondé en 1982 et dirigé par David Shiner, a été présenté au Royal Albert Hall à Londres. La troupe canadienne propose des numéros d'acrobaties, de trapèze avec Marion Verd, et de la roue de la mort avec Jimmy Ibarra et Ronald Solis.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Shiner",
+          "Marion Verd",
+          "Jimmy Ibarra",
+          "Ronald Solis"
+        ],
+        "LOCATION": [
+          "London"
+        ],
+        "ORGANIZATION": [
+          "The Independent",
+          "Cirque du Soleil"
+        ],
+        "DATE": [
+          "1982",
+          "2007",
+          "14 February",
+          "1980s"
+        ],
+        "EVENT": [
+          "Kooza"
+        ],
+        "OTHER": [
+          "Royal Albert Hall"
+        ]
+      },
+      "score_e5": 0.8284191514988434
+    },
+    {
+      "titre": "Kooza: la trastienda de un circo mágico - LA NACION",
+      "source": "La Nación",
+      "lien": "https://www.lanacion.com.ar/espectaculos/teatro/la-trastienda-de-un-circo-magico-nid1890019/",
+      "image_url": "https://www.lanacion.com.ar/resizer/v2/XOG2DU3RGVGRXG3JLAZ3XSHGPQ.jpg?auth=055dab95333c4d753af4c5097c4e69836d3006136669a816c6b152307801e26c&width=1200&height=900&quality=70&smart=true",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1ffZw3am_4Ntqq8uyuCC5PwMuPef5M0pZbIjoGQRz6achPYP6",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Kooza: la trastienda de un circo mágico - LA NACION",
+        "link": "https://www.lanacion.com.ar/espectaculos/teatro/la-trastienda-de-un-circo-magico-nid1890019/",
+        "source": "La Nación",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSkMCmWCdRba0X0uUb8NAB7-ifQ846XIfGIVc5H4zZ8syE1EANPmyHPmZW-JRu-fq-wRv74jslAe-FlLkk5q74jT26QxSrqrNn1NkCfe9Ki7mnlbub4Z7f9",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1ffZw3am_4Ntqq8uyuCC5PwMuPef5M0pZbIjoGQRz6achPYP6",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.lanacion.com.ar/resizer/v2/XOG2DU3RGVGRXG3JLAZ3XSHGPQ.jpg?auth=055dab95333c4d753af4c5097c4e69836d3006136669a816c6b152307801e26c&width=1200&height=900&quality=70&smart=true",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Kooza: la trastienda de un circo mágico\n\nUn grupo de hombres fornidos juega al vóley para entrar en calor antes de practicar su número de acrobacia en la pista. Al lado, un joven con cuerpo de atleta gira sin parar al ritmo de un aro gigante. Sentadas en el piso, dos chicas conversan en voz baja mientras estiran los músculos y hacen contorsiones. Sobre un pizarrón se destaca un cronograma en colores: son los horarios de ensayo, sesiones de kinesiología y de entrenamiento. De un panel de acrílico cuelgan cincuenta tazas de cerámica: cada una tiene el nombre de un artista. La trastienda del Cirque du Soleil es un espectáculo en sí mismo, que LA NACION pudo recorrer en Montevideo, la escala anterior a Buenos Aires de su gira latinoamericana. Kooza, un show en homenaje al circo tradicional, se estrena este jueves, a las 21, en Costanera Sur.\n\nLa carpa azul y amarilla, que ya está instalada en un enorme predio sobre Av. España al 2200, alberga la pista y la platea, por un lado, y también el sector de venta de comida y merchandising por donde circula el público durante el intervalo. Pero hay un área restringida para los espectadores: allí, los artistas se preparan antes de la función. Si la puesta en escena del Soleil es mágica, lo que sucede tras bambalinas es excepcional. La compañía funciona como una maquinaria perfecta que apuesta a la calidad de vida y de trabajo de los 110 integrantes del staff de Kooza: 50 son artistas y el resto se encarga de cuestiones técnicas y de producción, del vestuario, el maquillaje, la comida, entre otras tareas. Entre todos suman veinte nacionalidades, que están representadas en las banderas que flamean sobre la gran carpa, además de la de Canadá y la del país que visitan. Ésta es la sexta vez que el Soleil se presenta en Buenos Aires.\n\nTodo el universo de Kooza viaja de ciudad en ciudad dentro de 76 containers: los trajes multicolores que usan los artistas; elementos como aros, básculas, rodados y hasta la rueda de la muerte que pesa 725 kilos; los instrumentos de la banda de música que toca en vivo durante todo el show; las luces; y también, objetos de uso cotidiano como los utensilios de cocina que utilizan los cuatro chefs para preparar las cuatro comidas diarias; máquinas para lavar y secar ropa; aparatos de gimnasia y pesas de hasta cien kilos que usan los acróbatas para entrenar, entre muchas otras cosas.\n\nCreado y dirigido por David Shiner, que trabajó durante años como payaso y mimo en distintas ciudades europeas, Kooza es un homenaje al circo tradicional. A diferencia de Corteo, la propuesta que la compañía quebequense trajo a la Argentina en 2014, que tenía un espíritu más melancólico y una puesta más teatral, Kooza marca una vuelta a las artes circenses con números de acrobacia, equilibrismo, contorsionismo, saltos y clown.\n\nEl nombre está inspirado en el término sánscrito koza, que significa caja. Shiner lo eligió porque el show es, desde el inicio, una caja de sorpresas. Inocente, el protagonista, es un ser solitario que descubre el mundo del circo de la mano de El Trickster, un arlequín con poderes mágicos. Un trío de payasos, liderado por El Rey, marca el ritmo de la función y sus apariciones, entre acto y acto, hacen reír con ganas al público. Con un humor picante, por momentos con doble sentido, El Rey y sus bufones se permiten jugar con los espectadores y llegan a robarle protagonismo a Inocente y El Tricker, los personajes centrales de esta historia fantástica que ya giró por 50 ciudades de doce países desde su estreno mundial en abril de 2007, en Montreal.\n\nCon funciones de miércoles a domingos (doble, los fines de semana), los artistas pasan el día en el predio donde se instala la carpa: llegan a la mañana desde el hotel donde reside todo el staff y comienzan con sus respectivas rutinas de entrenamiento, ensayo y fisioterapia. Según contó la productora Mami Ohki durante el recorrido por la trastienda, los artistas entrenan todos los días. Claro que depende de la especialidad de cada uno. El grupo que hace báscula entra en calor con partidos de vóley. Las jóvenes que trabajan con aros, por su parte, dedican el tiempo a hacer los ajustes técnicos necesarios para que el nivel del acto se acerque a la perfección.\n\nLa acróbata canadiense Marie-Eve Bisson fue invitada a sumarse a Kooza hace un mes con su número de aro en altura para reemplazar uno de trapecio. \"Creé el acto a partir de la música y una idea de mi personaje: una mujer fuerte e independiente que no obedece las órdenes de El Tricker. Él tiene el poder de controlar todo lo que sucede en escena: la música, las luces, el ritmo. Intenta guiar mis movimientos, pero yo soy la que decido qué hacer. Mi personaje es el único que él no puede controlar\", contó durante un descanso de su ensayo en la pista. Horas más tarde, en la función, Marie-Eve vuela tomada del aro y deja al público mudo cuando comienza a girar a gran velocidad.\n\nLas participaciones en escena de los payasos, que parecen bromas improvisadas, también fueron ensayadas una y mil veces. \"Charlamos mucho previamente, pero hasta que no nos presentamos al público no sabemos si los chistes resultarán. Cada país tiene un sentido del humor diferente y tenemos que hacer cambios o ajustes a nuestros actos según el lugar. Como hablamos bastante durante el show, debemos aprender el vocabulario de cada país. En las primeras funciones probamos cómo resultan las bromas y las vamos adaptando según la respuesta del público\", explica Colin Heath, uno de los tres clowns de Kooza. Cuando se le pide una anécdota extrema sobre problemas de comunicación con el público, Heath recuerda las primeras funciones en Tokyo. \"No es que no entendieran algo que dijimos sino que no les causó gracia. Los japoneses son serios y tardaron en responder con risas a algunos chistes. Al principio, se quedaban serios y callados. Hasta que se largaron a reír\". Otra: \"La misma broma que hizo reír mucho al público en Texas, una semana después en Moscú no causó gracia. No sabemos por qué. El show en Buenos Aires todavía nos resulta una incógnita. Supongo que el sentido del humor del público será similar al de Montevideo\".\n\nLa gran incógnita se revelará en pocos días. Mientras los artistas toman vacaciones después de las tres semanas de funciones en la capital uruguaya (muchos aprovechan para conocer lugares de la Argentina como El Calafate o las Cataratas del Iguazú), los técnicos continúan ajustando detalles del armado de las instalaciones en Costanera Sur donde pasarán cerca de un mes. Allí, detrás de la gran carpa, se levanta un mundo paralelo tan perfecto y mágico como el show que el Soleil ofrecerá al público argentino hasta el 22 de mayo.\n\n\nKooza\n\n\nDel Cirque du Soleil\n\nEntre el 21 de abril y el 22 de mayo.\n\nEntradas, de $ 860 a $ 3300.\n\nMartes a jueves, a las 21; viernes y sábados, a las 17.30 y 21; domingos, a las 16.30 y 20.\n\n\nTres historias en primera persona\n\n\nMarie-Eve Bisson\n\nEspecialidad: aro aéreo\n\nNacionalidad: canadiense\n\nEn el Soleil hace: 18 años\n\n\"Me formé como bailarina y gimnasta. Nunca había soñado con ser artista de circo. Pero desde que ingresé al Soleil, descubrí que la vida en el circo es maravillosa. No sólo por el circo en sí mismo sino también por las excelentes condiciones en las que trabajamos\".\n\n\"Con el Soleil viajamos por el mundo. Conocemos ciudades preciosas. El público disfruta muchísimo del espectáculo y eso es un regalo para los artistas\".\n\n\"Toda la gente que trabaja en la compañía siente pasión por su trabajo, está feliz y eso se siente en la buena energía que se respira. Es una experiencia maravillosa.\"\n\nTalita Lima\n\nEspecialidad: acrobacia y báscula\n\nNacionalidad: brasileña\n\nEn el Soleil hace: 6 años\n\n\"Tengo 26 años y nací en San Pablo. Soy la única brasileña en Kooza. Soy gimnasta. Hago acrobacia, báscula y participo entre acto y acto\".\n\n\"Estaba cansada de la vida como deportista. Hace seis años, mi entrenador de Brasil me avisó que había una audición para el Soleil. Mandé un video a la sede central en Montreal y me seleccionaron para presentarme allá, donde me entrené durante cuatro meses. Kooza es el primer show del que participo\".\n\n\"Me encanta esta vida. Antes de unirme al circo nunca había salido de mi país. Vuelvo a Brasil dos veces por año, pero extraño el circo. Es como mi familia.\"\n\nColin Heath\n\nEspecialidad: clown\n\nNacionalidad: canadiense\n\nEn el Soleil hace: 6 años (ingresó hace más de 20, luego se fue para trabajar como actor y volvió en 2010 a Kooza)\n\n\"Soy uno de los tres clowns. Trabajé en los inicios como acróbata, pero la mayor parte de mi carrera la hice como actor de teatro\".\n\n\"Cuando estoy actuando pienso en ser lo más divertido posible y entretener a grandes y chicos. Si yo me divierto mientras actúo, entonces el público también se divertirá\".\n\n\"Hay un verdadero sentimiento de comunidad porque pasamos mucho tiempo juntos. Dejar a la familia es lo difícil de esto. Tengo tres hijas y una esposa en Canadá. Trato de verlas cuando estoy de gira.\"\n\n * Cirque du Soleil\n\n----------------------------------------",
+        "metadata": {
+          "fb:app_id": "154042854349421",
+          "og:type": "article",
+          "og:title": "Kooza: la trastienda de un circo mágico",
+          "og:description": "El Cirque du Soleil abre sus puertas para mostrar la maquinaria perfecta que está detrás de escena esta nueva propuesta que la compañía quebequense trae a Buenos Aires y que la devuelve a sus orígenes circenses",
+          "og:locale": "es_AR",
+          "og:image": "https://www.lanacion.com.ar/pf/resources/images/placeholderLN-1200x800.jpg?d=2049",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "Placeholder de LA NACION",
+          "og:image:width": "1200",
+          "og:image:height": "800",
+          "og:url": "https://www.lanacion.com.ar/espectaculos/teatro/la-trastienda-de-un-circo-magico-nid1890019/",
+          "og:site_name": "LA NACION",
+          "article:published_time": "2016-04-17T03:00:00Z",
+          "article:modified_time": "2020-08-29T01:31:09.644Z",
+          "article:section": "Teatro",
+          "article:author": "Natalia Blanc",
+          "article:tag": "Cirque du Soleil",
+          "twitter:title": "Kooza: la trastienda de un circo mágico",
+          "twitter:description": "El Cirque du Soleil abre sus puertas para mostrar la maquinaria perfecta que está detrás de escena esta nueva propuesta que la compañía quebequense trae a Buenos Aires y que la devuelve a sus orígenes circenses",
+          "title": "Kooza: la trastienda de un circo mágico - LA NACION",
+          "description": "El Cirque du Soleil abre sus puertas para mostrar la maquinaria perfecta que está detrás de escena esta nueva propuesta que la compañía quebequense trae a Buenos Aires y que la devuelve a sus orígenes circenses - LA NACION",
+          "article:opinion": "false"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsMediaOrganization",
+          "name": "LA NACION",
+          "alternateName": [
+            "LN",
+            "La Nación",
+            "lanacion.com.ar"
+          ],
+          "description": "Últimas noticias de Argentina y el mundo – LA NACION",
+          "foundingDate": "1870-01-04",
+          "foundingLocation": {
+            "@type": "Place",
+            "name": "Buenos Aires, Argentina"
+          },
+          "legalName": "La Nación S.A.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ciudad Autónoma de Buenos Aires",
+            "addressCountry": "AR"
+          },
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "email": "lectores@lanacion.com.ar"
+          },
+          "sameAs": [
+            "https://www.facebook.com/lanacion/",
+            "https://www.instagram.com/lanacioncom/",
+            "https://x.com/LANACION/"
+          ],
+          "@id": "https://www.lanacion.com.ar/#organization",
+          "url": "https://www.lanacion.com.ar/",
+          "diversityPolicy": "https://www.lanacion.com.ar/sociedad/diversidad-redaccion-nid2413327/",
+          "ethicsPolicy": "https://www.lanacion.com.ar/sociedad/la-nacion-mision-estructura-empresarial-principios-eticos-nid2393569/",
+          "masthead": "https://www.lanacion.com.ar/sociedad/equipo-editorial-la-nacion-nid2390490/",
+          "publishingPrinciples": "https://www.lanacion.com.ar/sociedad/los-veinte-20-principios-del-periodismo-la-nid2390521/",
+          "verificationFactCheckingPolicy": "https://www.lanacion.com.ar/sociedad/verificacion-chequeo-datos-nid2406825/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.lanacion.com.ar/pf/resources/images/logo-ln.png?d=2049",
+            "height": 120,
+            "width": 1200
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://www.lanacion.com.ar/pf/resources/images/logo-ln.png?d=2049",
+            "caption": "Imagen institucional de LA NACION"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le journal La Nación présente les coulisses du spectacle Kooza du Cirque du Soleil, créé et dirigé par David Shiner, lors de sa tournée latino-américaine passant par Montevideo et Buenos Aires (Costanera Sur). Le spectacle propose un hommage au cirque traditionnel avec de l'acrobatie, de l'équilibrisme et du contorsionnisme.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Shiner"
+        ],
+        "LOCATION": [
+          "Montevideo",
+          "Buenos Aires",
+          "Costanera Sur",
+          "Argentina",
+          "Canada"
+        ],
+        "ORGANIZATION": [
+          "LA NACION",
+          "Cirque du Soleil"
+        ],
+        "DATE": [
+          "2014",
+          "jueves"
+        ],
+        "EVENT": [
+          "Kooza",
+          "Corteo"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8008684453994787
+    },
+    {
+      "titre": "Cirque du Soleil Being Sold to Private-Equity Group - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/cirque-du-soleil-being-sold-to-private-equity-group-1429543292",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-HZ568_cirque_BR_20150420221536.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYNnP2cECOYbc4w1GPwbX3Icr0VV0D10EVTbrjA05-Jhm8UZfE",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Cirque du Soleil Being Sold to Private-Equity Group - WSJ",
+        "link": "https://www.wsj.com/articles/cirque-du-soleil-being-sold-to-private-equity-group-1429543292",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYNnP2cECOYbc4w1GPwbX3Icr0VV0D10EVTbrjA05-Jhm8UZfE",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-HZ568_cirque_BR_20150420221536.jpg",
+        "image_width": 188,
+        "image_height": 282
+      },
+      "webpage": null,
+      "texte_contexte": "Article du Wall Street Journal concernant la vente du Cirque du Soleil à un groupe de capital-investissement.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WSJ",
+          "Wall Street Journal",
+          "Cirque du Soleil"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7617069227530076
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "London",
+      "UK",
+      "Royal Albert Hall"
+    ],
+    "ORGANIZATION": [
+      "Cirque Du Soleil"
+    ],
+    "DATE": [],
+    "EVENT": [
+      "Contortion",
+      "Kooza"
+    ],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Tristram Kenton",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Shiner",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marion Verd",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jimmy Ibarra",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ronald Solis",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Montevideo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Buenos Aires",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Costanera Sur",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Argentina",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Telegraph",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Telegraph Media Group Holdings Ltd",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cirque du Soleil",
+      "rangs": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LA NACION",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wall Street Journal",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1982",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "14 February",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1980s",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "jueves",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Nights at the circus: beyond the big top – in pictures",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Kooza",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Corteo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Royal Albert Hall",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T14:33:37.881980"
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "id_rumeur": 1626540,
+  "id_image": 1498290,
+  "caption": "Abid Naseer was previously arrested in the UK over a bomb plot in Manchester",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748348/oluyewo_benchmark/lwaumpn0kxnoikdyqaye.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "20 Towpath Murder Stock Photos, High-Res Pictures, and ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/photos/towpath-murder",
+      "image_url": "https://media.gettyimages.com/id/456641130/photo/police-officers-stand-guard-at-an-entrance-to-boston-manor-park-in-west-london-on-october-4.jpg?s=612x612&w=gi&k=20&c=wniE3wGBq5SWbFUvgeWNGOX4OBg2n4H7JkaRO0LygRc=",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfSA-8IeenhiH47Iztp17hauftTDGTwc931irE2wNbrTJEVzNg",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "20 Towpath Murder Stock Photos, High-Res Pictures, and ...",
+        "link": "https://www.gettyimages.com/photos/towpath-murder",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUMDQ3___9JSkrCw8NnaGjh4eGFhobw8PB2d3eztLSkpKRYWVnS0tIrLCwbHByUlZU6OzvME_n1AAAA6ElEQVQ4ja1T2ZLEIAg0KCpK4vz_186Ac0TwbbcfUiTdxdUkhP_EVQkxtv4KE2Fz9DjewMSvZzT8iccKK2D9ynHqOMFj5ZPmhk9ULtsByedTwyxhsgKpwO9uRDCsAH-ChwjckLcSVcJsBbNJUfQiIVhBiHN4muOi48PFtyXh6QUBym-JO16nR46x1R2tPLr13VA29iyYvdHIOXXYZWqL1dx8H3m9htKtAMgoTB0pUXI_AWqbN1MXXq34Zh3eT3Xi-3b5i6DFwc1NzRmoJoBeNR2bIfhY4f3K9_-iuIPSTWSKiMg0_Dn9BU_mMgWkaUklKgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfSA-8IeenhiH47Iztp17hauftTDGTwc931irE2wNbrTJEVzNg",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.gettyimages.com/id/456641130/photo/police-officers-stand-guard-at-an-entrance-to-boston-manor-park-in-west-london-on-october-4.jpg?s=612x612&w=gi&k=20&c=wniE3wGBq5SWbFUvgeWNGOX4OBg2n4H7JkaRO0LygRc=",
+        "image_width": 408,
+        "image_height": 612
+      },
+      "webpage": null,
+      "texte_contexte": "Images de stock et photos haute résolution sur le thème du meurtre de Towpath, publiées sur Getty Images.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Towpath Murder"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6874026771360345
+    },
+    {
+      "titre": "nelaimė Londone | Diena.lt",
+      "source": "Diena.lt",
+      "lien": "https://m.diena.lt/zymes/nelaime-londone",
+      "image_url": "https://administravimas.diena.lt/sites/default/files-sync/styles/thumbnail_default/public/Joks/dv1883990.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSH6JfTVlHrr9GAWQWrx99rQswVyGE7FcFHI4LWqjS77R1d9L",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "nelaimė Londone | Diena.lt",
+        "link": "https://m.diena.lt/zymes/nelaime-londone",
+        "source": "Diena.lt",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_TT84QzQ5OjUBCgoKDQwNGg8PGjclICY1Nzc3NzctNy43ODc3NzU3NTc3NzcrLysvNy0tLTItLTcvLy81NS0uNzc3Nzg1NSsvLf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAEBAAMBAAAAAAAAAAAAAAAGBwEDBAD_xAApEAACAQMDAQgDAQAAAAAAAAABAgMABAUGESExBxITIlFxgZFBYeEj_8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgEA_8QAHhEAAgMBAAMBAQAAAAAAAAAAAQIAAxEEEiFS8DL_2gAMAwEAAhEDEQA_AJxbAVdElPK9pnSemn0ZbZvNeOm6kyyLIdh5yo4HxSdl9otKJDJTUa_N5tyWh8ZeYlsnpS8adEBPhM3e723UA9Qf0a1X1ur-Nog7ORGTyqMAORttVGTchm3elxKLiW2ziluOxdI7eN5ZGTyoikk_6-gpHQOrT-9RjCebBO7swx93g8Ff3eXRraF2EgSXghVHLEfj-VzrdbHAX3PcqGtCWkjvLhZLiaRBsrOzKPQE1UHoZJhGmGbcSHojfVAXY8-Shae7Qc_hcTBjbSzt2hhBCl4mLckn1_dDflV28js4OkoMGTTqDWWoc9B4F6THbnkwwxlVb3_JrdfOlZ0CDs6GsGEwxKzqOUYfFGJggJ7S-Ugx-SiuLmMyxKGBUAE7lSAdjxwTv8UI6y4IyQA2mPYtaYfwAI8OisCTsUQhuD1-wawKX3-phrE-ZiTVmG3jMWKZAjiTqpO4Xu9322rpqt-pgPXvpYK1FkYLq9nntoFt4nPliXoo2oo1VwnZ1VDNoGT_2Q.jpeg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSH6JfTVlHrr9GAWQWrx99rQswVyGE7FcFHI4LWqjS77R1d9L",
+        "thumbnail_width": 180,
+        "thumbnail_height": 280,
+        "image": "https://administravimas.diena.lt/sites/default/files-sync/styles/thumbnail_default/public/Joks/dv1883990.jpg",
+        "image_width": 450,
+        "image_height": 697
+      },
+      "webpage": {
+        "text": "nelaimė Londone\n\nPer valandą – dvi kruvinos nelaimės Londone: vienas žmogus pašautas, kitas padurtas",
+        "metadata": {
+          "title": "nelaimė Londone | Diena.lt"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Deux incidents sanglants à Londres en l'espace d'une à deux heures : une personne a reçu une balle et une autre a été poignardée, selon le média Diena.lt.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Londres"
+        ],
+        "ORGANIZATION": [
+          "Diena.lt"
+        ],
+        "DATE": [
+          "Une heure – deux"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7030346960768956
+    },
+    {
+      "titre": "130 Arnis Zalkalns Stock Photos, High-Res Pictures, and ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/photos/arnis-zalkalns",
+      "image_url": "https://media.gettyimages.com/id/456673490/photo/london-england-police-officers-stand-guard-outside-boston-manor-park-where-a-body-believed-to.jpg?s=612x612&w=gi&k=20&c=V_fuxEII8pF0YDeqnQQbyaAt-2k3z7zRzL0sWJUk8EY=",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgPP0-DYT_jEdbnwLWWQ8E_yJI2r78RH3hRTVfqzVwsOsudT9p",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "130 Arnis Zalkalns Stock Photos, High-Res Pictures, and ...",
+        "link": "https://www.gettyimages.com/photos/arnis-zalkalns",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUMDQ3___9JSkrCw8NnaGjh4eGFhobw8PB2d3eztLSkpKRYWVnS0tIrLCwbHByUlZU6OzvME_n1AAAA6ElEQVQ4ja1T2ZLEIAg0KCpK4vz_186Ac0TwbbcfUiTdxdUkhP_EVQkxtv4KE2Fz9DjewMSvZzT8iccKK2D9ynHqOMFj5ZPmhk9ULtsByedTwyxhsgKpwO9uRDCsAH-ChwjckLcSVcJsBbNJUfQiIVhBiHN4muOi48PFtyXh6QUBym-JO16nR46x1R2tPLr13VA29iyYvdHIOXXYZWqL1dx8H3m9htKtAMgoTB0pUXI_AWqbN1MXXq34Zh3eT3Xi-3b5i6DFwc1NzRmoJoBeNR2bIfhY4f3K9_-iuIPSTWSKiMg0_Dn9BU_mMgWkaUklKgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgPP0-DYT_jEdbnwLWWQ8E_yJI2r78RH3hRTVfqzVwsOsudT9p",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://media.gettyimages.com/id/456673490/photo/london-england-police-officers-stand-guard-outside-boston-manor-park-where-a-body-believed-to.jpg?s=612x612&w=gi&k=20&c=V_fuxEII8pF0YDeqnQQbyaAt-2k3z7zRzL0sWJUk8EY=",
+        "image_width": 382,
+        "image_height": 612
+      },
+      "webpage": null,
+      "texte_contexte": "Images de stock et photos haute résolution d'Arnis Zalkalns, disponibles sur Getty Images.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Arnis Zalkalns"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6662109895563455
+    },
+    {
+      "titre": "Royals keep calm and carry on amid Andrew crisis | The ...",
+      "source": "The Canberra Times",
+      "lien": "https://www.canberratimes.com.au/story/9180142/royals-keep-calm-and-carry-on-amid-andrew-crisis/",
+      "image_url": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/fcad7653-a988-4a04-a3e4-624f34e01c5a.jpg/r0_0_800_600_w800_h600_fmax.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdl2xT48xpxUDjzrCThJIXwKEmsZr2uIJAWAAHUD_3H_0vrlAj",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Royals keep calm and carry on amid Andrew crisis | The ...",
+        "link": "https://www.canberratimes.com.au/story/9180142/royals-keep-calm-and-carry-on-amid-andrew-crisis/",
+        "source": "The Canberra Times",
+        "source_icon": "https://serpapi.com/searches/6a8efa4ba89e02296d38c70c/images/rd5G44Kw5dnZ5rBnGo0CQ9gRMjI7zauygOH03dmAcdY.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdl2xT48xpxUDjzrCThJIXwKEmsZr2uIJAWAAHUD_3H_0vrlAj",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/fcad7653-a988-4a04-a3e4-624f34e01c5a.jpg/r0_0_800_600_w800_h600_fmax.jpg",
+        "image_width": 600,
+        "image_height": 800
+      },
+      "webpage": {
+        "text": "Royals keep calm and carry on amid Andrew crisis | The Canberra Times\n\nPolice are continuing to search Royal Lodge where Andrew Mountbatten-Windsor lived for two decades. Photo: EPA PHOTO\n\nPolice are continuing to search Andrew Mountbatten-Windsor's previous home, as the UK government's pledge to consider removing him from the line of succession gets the backing of the Liberal Democrats.\n\n\nSubscribe now for unlimited access.\n\n\nor signup to continue reading\n\nAll articles from our website & app\n\nThe digital version of Today's Paper\n\nCrosswords, Sudoku and Trivia\n\nAndrew was arrested on Thursday on suspicion of misconduct in public office after allegations were made against him following the release of files related to pedophile billionaire Jeffrey Epstein.\n\nDespite being stripped of his titles last year, the former Duke of York is still eighth in line to the throne and an Act of Parliament would be required to prevent him becoming king.\n\nAndrew Mountbatten-Windsor spent his 66th birthday in police custody. (EPA PHOTO)\n\nKeir Starmer's government will consider introducing such legislation once police have finished their investigation into the King's disgraced brother, the Press Association understands.\n\nThe Liberal Democrats would support the move to remove him from the monarchy's line of succession, and party leader Ed Davey told PA it would be \"intolerable\" for Andrew to succeed to the throne and that the scenario is \"not as remote as some people think\".\n\nAny changes to the line of succession would require the agreement of other countries which share the UK monarch, including Australia, Canada and Jamaica.\n\nIt is also understood that an influential group of MPs will meet to consider launching a parliamentary probe into the role of UK trade envoys.\n\nAny inquiry would start by focusing on potential governance issues within the wider system and lessons to be learned, avoiding specific commentary on Andrew - who spent 10 years in the role - until there is no risk of prejudicing criminal proceedings, PA understands.\n\nThis weekend the royal family will be attempting to conduct their duties as usual, with the Prince and Princess of Wales due to appear in public.\n\nKate attended the Six Nations rugby union match between England and Ireland in London. (AP PHOTO)\n\nOn Saturday the Princess of Wales wore an England Rugby scarf to watch the team take on Ireland in the Guinness Men's Six Nations at Twickenham, in her first public appearance since Andrew's arrest.\n\nAndrew spent 11 hours in police custody on Thursday, on his 66th birthday, before being released under investigation, after allegations he shared sensitive information with Epstein during his time as the UK's trade envoy.\n\nDetectives continued to search Andrew's former home, Royal Lodge, in Windsor, Berkshire, on Friday.\n\nHe has denied any wrongdoing over his links to the convicted sex offender, but has not directly responded to the latest allegations.\n\nAfter his brother's arrest, the King said in a statement that \"the law must take its course\" and the police have \"our full and wholehearted support and co-operation\".\n\nCharles attended the first show of London Fashion Week on Thursday, hours after Andrew's arrest, and did not respond when asked for his reaction to the news.\n\nCharles kept his commitment to open London Fashion Week. (AP PHOTO)\n\nDetectives have asked Andrew's former close protection officers to \"consider carefully whether anything they saw or heard\" during their service could be relevant to the investigation into Epstein and his associates.\n\nThe Metropolitan Police said they were working with counterparts in the US to establish whether London airports had been used to \"facilitate human trafficking and sexual exploitation\".\n\nOn Friday, the force said no new reports of alleged sexual offences have been made since the release of millions of pages of documents related to Epstein by the US Department of Justice.\n\nScotland Yard previously said they were looking into allegations Andrew's protection officers turned a \"blind eye\" to his visits to Epstein's island, Little St James.\n\nPolice are yet to identify any wrongdoing by close protection officers.\n\nAndrew's primary accuser, Virginia Giuffre, alleged she had sex with him during an orgy with \"underage\" girls on the Caribbean island.\n\nThe former prince has previously vehemently denied all allegations made against him.\n\nThe 14 Commonwealth countries where the King is head of state are Australia, Antigua and Barbuda, the Bahamas, Belize, Canada, Grenada, Jamaica, New Zealand, Papua New Guinea, St Kitts and Nevis, St Lucia, St Vincent and the Grenadines, Solomon Islands and Tuvalu.\n\nAustralian Associated Press\n\n\nMore from World News\n\n\nAs it happens\n\n\nBreaking news alert\n\nBe the first to know when news breaks.",
+        "metadata": {
+          "title": "Royals keep calm and carry on amid Andrew crisis | The Canberra Times | Canberra, ACT",
+          "description": "The royal family is carrying on with duties as usual, as police continue to search Andrew Mountbatten-Windsor's previous...",
+          "cXenseParse:author": "Ellie Ng, Nina Lloyd, Katrine Bussey and Neil Pooran",
+          "news_keywords": "news,world-news,crime-law-and-justice,united-kingdom,free,politics,world",
+          "og:title": "Royals keep calm and carry on amid Andrew crisis",
+          "og:description": "The royal family is carrying on with duties as usual, as police continue to search Andrew Mountbatten-Windsor's previous...",
+          "og:url": "https://www.canberratimes.com.au/story/9180142/royals-keep-calm-and-carry-on-amid-andrew-crisis/",
+          "og:image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/fcad7653-a988-4a04-a3e4-624f34e01c5a.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Police are continuing to search Royal Lodge where Andrew Mountbatten-Windsor lived for two decades. Photo: EPA PHOTO",
+          "og:type": "article",
+          "article:published_time": "2026-02-21T21:18:30+00:00",
+          "article:modified_time": "2026-02-21T21:23:00+00:00",
+          "article:author": "Ellie Ng, Nina Lloyd, Katrine Bussey and Neil Pooran",
+          "article:section": "World News",
+          "article:tag": "world",
+          "twitter:title": "Royals keep calm and carry on amid Andrew crisis",
+          "twitter:description": "The royal family is carrying on with duties as usual, as police continue to search Andrew Mountbatten-Windsor's previous..."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "articleBody": "Police are continuing to search Andrew Mountbatten-Windsor's previous home, as the UK government's pledge to consider removing him from the line of succession gets the backing of the Liberal Democrats.",
+              "articleSection": "News",
+              "author": {
+                "@type": "Person",
+                "name": "Ellie Ng, Nina Lloyd, Katrine Bussey and Neil Pooran"
+              },
+              "dateCreated": "2026-02-21T21:18:30+00:00",
+              "dateModified": "2026-02-21T21:23:00+00:00",
+              "datePublished": "2026-02-21T21:18:30+00:00",
+              "description": "The royal family is carrying on with duties as usual, as police continue to search Andrew Mountbatten-Windsor's previous...",
+              "headline": "Royals keep calm and carry on amid Andrew crisis",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "caption": "Police are continuing to search Royal Lodge where Andrew Mountbatten-Windsor lived for two decades. Photo: EPA PHOTO",
+                  "height": 600,
+                  "url": "/images/transform/v1/crop/frm/silverstone-feed-data/fcad7653-a988-4a04-a3e4-624f34e01c5a.jpg/r0_0_800_600_w800_h600_fmax.jpg",
+                  "width": 800
+                },
+                {
+                  "@type": "ImageObject",
+                  "caption": "Andrew Mountbatten-Windsor spent his 66th birthday in police custody. (EPA PHOTO)",
+                  "height": 720,
+                  "url": "/images/transform/v1/crop/frm/silverstone-feed-data/991e90fe-d050-49a0-8b8e-4264e697d6f3.jpg/r0_0_1280_720_w1280_h720_fmax.jpg",
+                  "width": 1280
+                },
+                {
+                  "@type": "ImageObject",
+                  "caption": "Kate attended the Six Nations rugby union match between England and Ireland in London. (AP PHOTO)",
+                  "height": 720,
+                  "url": "/images/transform/v1/crop/frm/silverstone-feed-data/1415febd-75bc-4d67-b340-635a11fe2abe.jpg/r0_0_1280_720_w1280_h720_fmax.jpg",
+                  "width": 1280
+                },
+                {
+                  "@type": "ImageObject",
+                  "caption": "Charles kept his commitment to open London Fashion Week. (AP PHOTO)",
+                  "height": 720,
+                  "url": "/images/transform/v1/crop/frm/silverstone-feed-data/44a3c64b-c186-4fef-b451-32b538955916.jpg/r0_0_1280_720_w1280_h720_fmax.jpg",
+                  "width": 1280
+                }
+              ],
+              "isAccessibleForFree": false,
+              "isPartOf": {
+                "@type": [
+                  "CreativeWork",
+                  "Product"
+                ],
+                "brand": {
+                  "@type": "Brand",
+                  "name": "The Canberra Times"
+                },
+                "name": "The Canberra Times",
+                "offers": {
+                  "@type": "Offer",
+                  "url": "https://www.canberratimes.com.au/subscribe/"
+                },
+                "productID": "canberratimes.com.au/subscribe/",
+                "sku": "https://www.canberratimes.com.au/subscribe/"
+              },
+              "keywords": "news,world-news,crime-law-and-justice,united-kingdom,free,politics,world",
+              "mainEntityOfPage": {
+                "@id": "https://www.canberratimes.com.au/story/9180142/royals-keep-calm-and-carry-on-amid-andrew-crisis/",
+                "@type": "WebPage"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://www.canberratimes.com.au/static/1788413040/sites/canberratimes/images/masthead/masthead-only.svg"
+                },
+                "name": "The Canberra Times"
+              },
+              "url": "https://www.canberratimes.com.au/story/9180142/royals-keep-calm-and-carry-on-amid-andrew-crisis/",
+              "wordCount": 645,
+              "hasPart": [
+                {
+                  "@type": "WebPageElement",
+                  "cssSelector": ".paywall-content",
+                  "isAccessibleForFree": false
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@context": "https://schema.org",
+                  "@type": "ListItem",
+                  "item": "https://www.canberratimes.com.au/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "ListItem",
+                  "item": "https://www.canberratimes.com.au/news/",
+                  "name": "News",
+                  "position": 2
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "ListItem",
+                  "item": "https://www.canberratimes.com.au/world-news/",
+                  "name": "World News",
+                  "position": 3
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "ListItem",
+                  "item": "https://www.canberratimes.com.au/story/9180142/royals-keep-calm-and-carry-on-amid-andrew-crisis/",
+                  "name": "Royals keep calm and carry on amid Andrew crisis",
+                  "position": 4
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "legalName": "The Canberra Times",
+              "name": "The Canberra Times",
+              "sameAs": [
+                "https://www.facebook.com/CanberraTimes/",
+                "https://twitter.com/canberratimes/",
+                "https://instagram.com/canberratimes/"
+              ],
+              "url": "https://www.canberratimes.com.au/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La police poursuit ses recherches à Royal Lodge, l'ancienne résidence d'Andrew Mountbatten-Windsor où il a vécu pendant deux décennies. Andrew a été arrêté jeudi pour suspicion de manquement à l'obligation de probité dans l'exercice d'une fonction publique, après des allégations suite à la publication de dossiers liés au milliardaire pédophile Jeffrey Epstein. Bien qu'il ait été dépouillé de ses titres, le duc d'York déchu est toujours huitième dans l'ordre de succession. Le gouvernement de Keir Starmer envisage une législation pour l'écarter de la succession, avec le soutien des Libéraux-démocrates et de leur dirigeant Ed Davey. Des modifications nécessiteraient l'accord d'autres pays partageant le monarque britannique (Australie, Canada, Jamaïque). Par ailleurs, la princesse de Galles (Kate) a assisté au match du Tournoi des Six Nations entre l'Angleterre et l'Irlande à Twickenham, en public pour la première fois depuis l'arrestation d'Andrew. Arnis Zalkalns est également mentionné indirectement ou lié à des recherches antérieures.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Andrew Mountbatten-Windsor",
+          "Jeffrey Epstein",
+          "Keir Starmer",
+          "Ed Davey",
+          "Kate",
+          "Arnis Zalkalns"
+        ],
+        "LOCATION": [
+          "Royal Lodge",
+          "Royaume-Uni",
+          "Australie",
+          "Canada",
+          "Jamaïque",
+          "Londres",
+          "Twickenham",
+          "Windsor",
+          "Berkshire"
+        ],
+        "ORGANIZATION": [
+          "The Canberra Times",
+          "Liberal Democrats",
+          "Press Association",
+          "AP"
+        ],
+        "DATE": [
+          "Jeudi",
+          "66e anniversaire",
+          "Le week-end",
+          "Samedi",
+          "Vendredi",
+          "L'année dernière"
+        ],
+        "EVENT": [
+          "Six Nations rugby union match",
+          "Guinness Men's Six Nations"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7372534918743562
+    },
+    {
+      "titre": "Police Confirm Body Found in Park Is Arnis Zalkalns",
+      "source": "Hammersmith Today",
+      "lien": "https://www.hammersmithtoday.co.uk/page/shared/common/eaalicearnis002.htm",
+      "image_url": "https://www.hammersmithtoday.co.uk/image/shared/common/images/bm2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8MJ-G_-VBBPgI4OvA1mr367olpW8orur_INnTrPDo8vuppP1",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Police Confirm Body Found in Park Is Arnis Zalkalns",
+        "link": "https://www.hammersmithtoday.co.uk/page/shared/common/eaalicearnis002.htm",
+        "source": "Hammersmith Today",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExfY2dfY2heYmhfY2hfY2hfY2hfYmhfY2hfY2hfY2heYmhfY2hLdvrHAAAADHRSTlMAK6UPy06GQ-ly81yP6INFAAAA4ElEQVQ4ja1TWw7DIAyD8AiP3P-8I7QBQttNmuqPChGXOMYY8yqcxRDQuqdy9Ikako_2pmyBFsCFYgsppI2RVRV9-2T1v_7bOO63nGGTquNxZJmMqc-3Oa3swU2DsWdc0yGGxDuCqURxcgWr9ELeicQi_VeXQcxAopr18eIN9kUgCqxjJ_T9ubgqHQQ8tC2MrUUTCXraTWQbs2g_tjG5UPtCEaZRxtHJHSoBu33jtuRiFkujmpvjlDfTdaj4PsEdIw-o0LHVviqCitwZqgIjOuUa6x-xZ8p8OI9v6_vT-xMffsYRIhWPnuoAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8MJ-G_-VBBPgI4OvA1mr367olpW8orur_INnTrPDo8vuppP1",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.hammersmithtoday.co.uk/image/shared/common/images/bm2.jpg",
+        "image_width": 233,
+        "image_height": 350
+      },
+      "webpage": {
+        "text": "Police Confirm Body Found in Park Is Arnis Zalkalns\n\nPost Mortem revealed cause of death consistent with hanging\n\nThe post-mortem examination of the body found in Boston Manor Park on Saturday 4 October has finished and formal identification has confirmed the body is that of Arnis Zalkalns, 41, of Ealing.\n\n\nThe cause of death is consistent with hanging. There is no evidence of any third party involvement from the post-mortem.\n\nPolice say since Alice Gross was reported missing on 28 August they have been conducting one of the most complex search operations undertaken in recent times.\n\nA systematic search had been conducted of 25 square kilometres of canals, rivers and land. The searches considered all possible evidential opportunities, based upon the search strategy agreed as part of the investigation.\n\nOver the weekend of 27/28 September this search was expanded again to include open space searches utilising regular officers and mounted branch. These searches expanded south and west from Trumpers Way for a further eight square kilometres including Boston Manor Park and Osterley Park.\n\nThese initial visual searches of open land highlighted inaccessible areas that required further search with specialist equipment, trained officers, police divers or search dogs.\n\nA number of the areas identified for further search were within Boston Manor Park.\n\nThe densely overgrown area where Arnis Zalkalns was discovered was one of these areas. This area had not been searched by police previously.\n\nThis search commenced on Saturday 4 October and at approximately 2pm the body of Arnis Zalkalns was found.\n\nThe recovery required a substantial removal of forestry to enable access for forensic teams. The body was eventually removed shortly after 10am on Sunday 5 October.\n\nMeanwhile it's been announced that an inquest into the death of 14-year-old Alice Gross will open and adjourn at the West London Coroner's Court on Friday, 10 October.\n\n6th October 2014",
+        "metadata": {
+          "title": "Police Confirm Body Found in Park Is Arnis Zalkalns",
+          "description": "Post mortem reveals death of Alice Gross murder suspect was due to hanging",
+          "og:title": "Police Confirm Body Found in Park Is Arnis Zalkalns",
+          "og:url": "https://www.HammersmithToday.co.uk/page/shared/common/eaalicearnis002.htm",
+          "og:type": "article",
+          "og:description": "Post mortem reveals death of Alice Gross murder suspect was due to hanging",
+          "og:image": "https://www.HammersmithToday.co.uk/image/shared/common/images/arnis1_000.jpg",
+          "og:site_name": "HammersmithToday",
+          "og:site": "www.HammersmithToday.co.uk",
+          "fb:app_id": "1620242434882741",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@nnhammersmith",
+          "twitter:title": "Police Confirm Body Found in Park Is Arnis Zalkalns",
+          "twitter:description": "Post mortem reveals death of Alice Gross murder suspect was due to hanging",
+          "twitter:image": "https://www.HammersmithToday.co.uk/image/shared/common/images/arnis1_000.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La police confirme que le corps trouvé dans un parc est celui d'Arnis Zalkalns, 41 ans, originaire d'Ealing. L'examen post-mortem a révélé une cause de décès compatible avec une pendaison, sans intervention d'un tiers. La découverte a eu lieu le samedi 4 octobre à Boston Manor Park après une vaste opération de recherche suite à la disparition d'Alice Gross le 28 août. Une enquête sur la mort d'Alice Gross, âgée de 14 ans, doit s'ouvrir au tribunal du coroner de West London le vendredi 10 octobre.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Arnis Zalkalns",
+          "Alice Gross"
+        ],
+        "LOCATION": [
+          "Boston Manor Park",
+          "Ealing",
+          "Trumpers Way",
+          "Osterley Park",
+          "West London"
+        ],
+        "ORGANIZATION": [
+          "Hammersmith Today",
+          "West London Coroner's Court"
+        ],
+        "DATE": [
+          "Samedi 4 octobre",
+          "28 août",
+          "Le week-end de 27/28 septembre",
+          "Dimanche 5 octobre",
+          "Vendredi 10 octobre",
+          "6th October 2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7077330474874701
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Abid Naseer"
+    ],
+    "LOCATION": [
+      "UK",
+      "Manchester"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "bomb plot"
+    ],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Towpath Murder",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Londres",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Diena.lt",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Une heure – deux",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Arnis Zalkalns",
+      "rangs": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Andrew Mountbatten-Windsor",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jeffrey Epstein",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Keir Starmer",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ed Davey",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kate",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Royal Lodge",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Royaume-Uni",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australie",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jamaïque",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Twickenham",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Windsor",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Berkshire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Canberra Times",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Liberal Democrats",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Press Association",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jeudi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "66e anniversaire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Le week-end",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Samedi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Vendredi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "L'année dernière",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Six Nations rugby union match",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Guinness Men's Six Nations",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alice Gross",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Boston Manor Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ealing",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Trumpers Way",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Osterley Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West London",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hammersmith Today",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "West London Coroner's Court",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Samedi 4 octobre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "28 août",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Le week-end de 27/28 septembre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Dimanche 5 octobre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Vendredi 10 octobre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "6th October 2014",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T21:32:34.313050"
+  }
+}

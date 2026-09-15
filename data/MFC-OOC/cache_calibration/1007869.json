@@ -1,0 +1,665 @@
+{
+  "id_rumeur": 1007869,
+  "id_image": 1007869,
+  "caption": "Inside Google s data centre in Mayes County Oklahoma The firm s carbon footprint was equivalent to more than 17m tonnes of carbon dioxide in 2013",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757254/oluyewo_benchmark/eluo9vwkdcd69juxxrn0.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "The Boiled Frog in Enterprise IT | Invisible Infrastructure",
+      "source": "Invisible Infrastructure",
+      "lien": "https://invisibleinfra.com/2013/02/10/the-boiled-frog-in-enterprise-it/",
+      "image_url": "https://invisibleinfra.com/wp-content/uploads/2015/06/googledc.png",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRorwkCQ2DIDnzlk1yfspZJzgdh6YmI5Fkpz8UZ4pUe_4jpaRsW",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "The Boiled Frog in Enterprise IT | Invisible Infrastructure",
+        "link": "https://invisibleinfra.com/2013/02/10/the-boiled-frog-in-enterprise-it/",
+        "source": "Invisible Infrastructure",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMSk3Ojo6Iys_RD84QzQ5OjcBCgoKDQUFDgUFGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK__AABEIACAAIAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAADBAUGAv_EACsQAAICAAQEBAcBAAAAAAAAAAEDAgQABREhEjFBgRQiUWEjQkRScsHRE__EABUBAQEAAAAAAAAAAAAAAAAAAAAB_8QAFBEBAAAAAAAAAAAAAAAAAAAAAP_aAAwDAQACEQMRAD8A2We59fq5zYqosrStYjw8UAeYif2cKnP814dYZjVkftEB36Y2L8upWGFj6iGMPOU1gk4n-CqTvQVSpxUfiLY6CeGI1Wdte4xRAOd5sACc0o7-w_mD5ZnuYszirWbbQ9TD5v8AOA9D7YsnJK9JyFtr1HpbMwBlXiJx8sjuRsdo-mHk5bRQwNTTrrnHlKKwCMA3hVutS3C0qEzGZ4XxhHXUabS0HUHTscGaos5MnHb5TzwONaUfqGnYjc-uIOXWPHWqwWtsYJlJkpsWY78JiANfyJ7YawoKrdd7TdN8EQiSpyMnMZr0l0wH_9k.jpeg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRorwkCQ2DIDnzlk1yfspZJzgdh6YmI5Fkpz8UZ4pUe_4jpaRsW",
+        "thumbnail_width": 173,
+        "thumbnail_height": 291,
+        "image": "https://invisibleinfra.com/wp-content/uploads/2015/06/googledc.png",
+        "image_width": 1176,
+        "image_height": 1970
+      },
+      "webpage": {
+        "text": "The Boiled Frog in Enterprise IT\n\nAsk yourself when the last time you went to www.google.com and the search results were “slow”. Indeed, have you noticed any real slowness over the last say 10 years?\n\nI haven’t. Obviously the number of indexed web pages has gone from say 1 billion to well over a trillion in that time but the end user is still presented with search results as fast as ever (if not faster!). Scale is not a problem for Google.\n\nNow look at your own Data Centre. I bet over the same period of time you’ve experienced growth and therefore scaling issues, especially with regard to compute and storage resources. Lots of money spent – possibly different vendors over that time and millions of dollars spent, users complain of ‘slowness’ and the infrastructure gets blamed….and you realise these issues are not going away anytime soon!\n\nSo why can Google get it right but Enterprises continue to struggle with this fundamental problem?\n\nI could be flippant and say that the traditional storage vendors (I’ll pick on them due to the massive costs they impose on Enterprises) have no interest in improving the situation. Sure, they can say they will add Flash drives (PCIe or SSD based) to their arrays and the performance of their arrays would no doubt improve, but this is the same old dance you’ve done before (and of course they’ll charge you for it). The real problem is that the old architecture is being re-sold to you each time, so it the same problem will always reappear a few years down the track.\n\nWhen your new flash array fills up or the controller hits it’s limit then you have to repeat the process again and get newer drives or more capacity controllers (forklift upgrade!)…..and the storage vendors love it don’t they! More of your cash on hardware and on professional services. The poor old Enterprise IT Manager has been the frog that has been boiled slowly over the years. Spending a LOT of money with your storage vendor has somehow become the norm and expected.\n\nRemember too that even if you upgrade your array, your servers (compute) are still separated from it via a network of some kind. Reads and writes have to go over this network. To quote an old adage from the network world “It’s the latency, stupid!”. Latency kills performance. That will never change. So the only real thing you can do is to minimize it. So, not only do you have a latency issue, you also have to re-buy servers too when the time comes.\n\nIt does not have to be like this.\n\nGoogle overcomes the latency issue by moving the storage and compute to the same ‘layer’. They ‘converged’ the compute and storage – essentially eliminating the network latency between those components. Clever. Then they scaled. Done.\n\nAsk yourself why web players like Google don’t bother with SAN arrays. To put it simply they could see a long time ago that the above limitations and failings of that architecture. The scaling problems and cost implications were obvious too.\n\nWith regard to your own Data Centre – do you want your Data Centre to continue to look like 1990s technology like this?\n\n\n…Or would you like it to look something along the lines of a Google-like Data Centre?\n\n\n [Source: http://www.google.com/about/datacenters/gallery/#/tech]\n\nGoogle had some very smart little vegemites working for them to come up with a file system that could scale to whatever they needed….and they did it well. To make it work for them they had to write their own custom applications to work on the infinitely scalable file system they created.\n\nOf course, your own Enterprise apps within the Data Centre are not able to be re-written – but there is another way to take advantage of this architecture and bring it to the Enterprise and break out of the ‘boiled frog’ paradigm.\n\nImagine if someone could take the same Google-like idea, run it on commodity x86 servers, use a virtualisation hypervisor which we all know (eg. vSphere), combine all the storage per server in a single (if you want to) NFS datastore which scales infinitely – just keep adding more servers when you need to? Then you could run your apps on it (via your virtual machines) and never have to worry about forklift upgrades ever again.\n\nIf you run out of compute, add more nodes. If you ever run out of storage, add more nodes. Because the storage controllers are now in software, they scale as well at the same time…if the controller seems overwhelmed, add more vCPU or vRAM or add another node to share the burden.\n\nEach node (or server) brings more and more resources to the cluster – quickly, easily and at a known cost and performance line. This is what the Enterprise has been waiting for….a system built from the ground up for virtualisation that once in place will scale forever only when you need it. Suddenly, your engineers can not worry about ‘business as usual’ tasks managing a data centre infrastructure and instead can start diverting their brain power to innovate in other areas – your IT department could be viewed as an enabler to the business rather than a cost drain. When you don’t have to worry about how something runs, only then you can improve. You just want to ‘turn a key’ and it ‘goes’.\n\nSuddenly your data centre will start to look like Google and you’ve jumped out of the boiling water.\n\nSo, if you are still investing in stand-alone storage arrays in 2013 then you are suffering on two fronts: 1) Re-investing in old 1990s/2000s architecture and 2) missing the performance benefits, cost savings and scalability of converged compute and storage solutions bring.\n\nAlso, don’t be fooled by the big vendors pushing their ‘converged’ solutions. If they have any component that is a ‘hardware SAN’, they are simply taking what they sell individually now and trying to sell it to you in a different form factor…bundled with other compute and network items. Remember – if the compute component is in a different part of the ‘rack’ then it isn’t really converged is it?\n\nIf it still looks like the old array/data centre photo as above, then it is the same old dog…and you will still be the same old boiled Enterprise IT frog….as I was in my previous IT life before joining Nutanix.\n\nI should point out that individually those old components from the big vendors are fine (as per the old architecture model) – my point is that when they try to shove it all together in one ‘rack’ and try to convince you it is ‘converged’ they are being sneaky and certainly not Google-like.\n\nIf you want to differentiate yourself from the competition and take advantage of the Software-Defined Data Centre – or SDDC – (mirroring the Google model) then you really need to look at Nutanix for any virtualisation project (server infrastructure, big data, VDI). By the way, some of those Google smart little vegemites I mentioned …they now work for Nutanix creating the software smarts to make this a reality.\n\nNow in 10 years’ time, you will look back and realise your scaling issues have gone, performance never dropped and you saved money. You became your own Google in your own Data Centre.\n\nAwesome.",
+        "metadata": {
+          "title": "The Boiled Frog in Enterprise IT | Invisible Infrastructure",
+          "og:type": "article",
+          "og:title": "The Boiled Frog in Enterprise IT",
+          "og:url": "https://invisibleinfra.com/2013/02/10/the-boiled-frog-in-enterprise-it/",
+          "og:description": "Ask yourself when the last time you went to www.google.com and the search results were “slow”. Indeed, have you noticed any real slowness over the last say 10 years? I haven’t. Obviously the …",
+          "article:published_time": "2013-02-10T07:46:26+00:00",
+          "article:modified_time": "2015-06-14T11:41:12+00:00",
+          "og:site_name": "Invisible Infrastructure",
+          "og:image": "https://invisibleinfra.com/wp-content/uploads/2015/06/olddc1.png?w=300",
+          "og:image:width": "300",
+          "og:image:height": "224",
+          "og:image:alt": "olddc1",
+          "og:locale": "en_US",
+          "article:publisher": "https://www.facebook.com/WordPresscom",
+          "twitter:text:title": "The Boiled Frog in Enterprise IT",
+          "description": "Ask yourself when the last time you went to www.google.com and the search results were “slow”. Indeed, have you noticed any real slowness over the last say 10 years? I haven't. Obviously the number of indexed web pages has gone from say 1 billion to well over a trillion in that time but the end user…"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Discussion sur les défis d'infrastructure informatique en entreprise, comparant la scalabilité et la gestion de la latence de Google par rapport aux datacenters d'entreprise traditionnels et aux fournisseurs de stockage.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Google"
+        ],
+        "DATE": [
+          "10/02/2013",
+          "10 years"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Enterprise IT",
+          "Data Centre",
+          "Flash",
+          "SAN arrays"
+        ]
+      },
+      "score_e5": 0.7995398678652966
+    },
+    {
+      "titre": "Inside the datacenter of the future - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=Cri0pb8sCM0",
+      "image_url": "https://i.ytimg.com/vi/Cri0pb8sCM0/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvivhaCeD8_JH-T_XVOeobwWMlNXv74clIpA7icPZ26W1hBe1A",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Inside the datacenter of the future - YouTube",
+        "link": "https://www.youtube.com/watch?v=Cri0pb8sCM0",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvivhaCeD8_JH-T_XVOeobwWMlNXv74clIpA7icPZ26W1hBe1A",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/Cri0pb8sCM0/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "À l’intérieur du datacenter du futur\n\ncocadmin\n\nMerci a Infomaniak pour les visites !En savoir plus sur le datacenter écologique d'Infomaniak (D4) : https://chk.me/UQHzfOMFormations: https://cours.cocadmin...",
+        "metadata": {
+          "title": "À l’intérieur du datacenter du futur",
+          "description": "Merci a Infomaniak pour les visites !En savoir plus sur le datacenter écologique d'Infomaniak (D4) : https://chk.me/UQHzfOMFormations: https://cours.cocadmin...",
+          "keywords": "cocadmin, devops",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=Cri0pb8sCM0",
+          "og:title": "À l’intérieur du datacenter du futur",
+          "og:image": "https://i.ytimg.com/vi/Cri0pb8sCM0/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Merci a Infomaniak pour les visites !En savoir plus sur le datacenter écologique d'Infomaniak (D4) : https://chk.me/UQHzfOMFormations: https://cours.cocadmin...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=Cri0pb8sCM0&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=Cri0pb8sCM0&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=Cri0pb8sCM0&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/Cri0pb8sCM0",
+          "og:video:secure_url": "https://www.youtube.com/embed/Cri0pb8sCM0",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "devops",
+          "fb:app_id": "87741124305",
+          "twitter:title": "À l’intérieur du datacenter du futur",
+          "twitter:description": "Merci a Infomaniak pour les visites !En savoir plus sur le datacenter écologique d'Infomaniak (D4) : https://chk.me/UQHzfOMFormations: https://cours.cocadmin..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Visite du datacenter écologique d'Infomaniak (D4) dans le cadre d'une vidéo sur le datacenter du futur.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Infomaniak",
+          "cocadmin"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "D4"
+        ]
+      },
+      "score_e5": 0.7907510649438156
+    },
+    {
+      "titre": "Google's $4.75B Power Play: Energy Access Becomes Key to AI ...",
+      "source": "LinkedIn",
+      "lien": "https://www.linkedin.com/posts/mrdatacenters_googles-475b-move-to-secure-power-for-activity-7416838872673878017-5S5v",
+      "image_url": "https://media.licdn.com/dms/image/v2/D5622AQGgvy8j_usT6w/feedshare-shrink_800/B56Zu3npoCHQAg-/0/1768312183898?e=2147483647&v=beta&t=QE2x1asuBYnRKbfyzmmf7wwlkTXwU_pwxJb19tZjYtw",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZTG4wxsuRA1187RFO9U9ORKNcjD5iSDWcdUrYItL-XGydW7n",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Google's $4.75B Power Play: Energy Access Becomes Key to AI ...",
+        "link": "https://www.linkedin.com/posts/mrdatacenters_googles-475b-move-to-secure-power-for-activity-7416838872673878017-5S5v",
+        "source": "LinkedIn",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB20lEQVRYhWP8__8_w0ACpgG1nYGBgQXGaNh106Jx160lDAwMyjS28269m1pMg5v6CQYGBgZGWBQwlmy-QwfL4Y743-OrwsCAGgX0shzFLhZcKjzURRnSLRUYGBgYGGYef8Cw4-ZrmrgEqwM81EUZtqdawPkBOhIMnrNP0MQRWHMBzOeExGjmAHoCrA6YefwBUWLUAFjTwI6brxk8Z58YuEQIcwSplioIcjKIcLMxvPn6i-HJxx8Mf_4RLuZxOuB_jy8Kn7FkM4b4gbtvGTxnn2Aod1JhyLFWZBDhZoPL_fj9l2HFhWcMlduuM7z4_JN0BxADeNiYGXanWzDYKApjyHGwMjMkmMoyWMgLMlhOOszw4ccfrGZQlAtMZAWwWo4MNMR4GLKtFXHKUy0bvvn6i-HBu28MX35i-jRETxKnPoqigIGBgeHPv38MqasuMiw484SBgYGBQYCDhWF9oimDg7IIXI2OJC9O_RSHwJSjD-CWMzAwMHz48Yehdc9tFDUsTLitodgBK88_xRC78-Yr0fopdgC2LPbh-2_6OeDB---YDsCR5WjiAErBqANGHYDcLKdrF-l_jy8jA8MgCAFkB9ylo71wu-AOqHdTi6GTI-7uz7SMgHEYR3zvGABAiZoIrctOXgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZTG4wxsuRA1187RFO9U9ORKNcjD5iSDWcdUrYItL-XGydW7n",
+        "thumbnail_width": 190,
+        "thumbnail_height": 266,
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGgvy8j_usT6w/feedshare-shrink_800/B56Zu3npoCHQAg-/0/1768312183898?e=2147483647&v=beta&t=QE2x1asuBYnRKbfyzmmf7wwlkTXwU_pwxJb19tZjYtw",
+        "image_width": 572,
+        "image_height": 800
+      },
+      "webpage": {
+        "text": "Google's $4.75B Power Play: Energy Access Becomes Key to AI Growth | Mr. Data Centers™ posted on the topic\n\nGoogle’s $4.75B move to secure power for AI data centers says more about the future of infrastructure than the future of AI. More than about the servers and models, this is about energy access becoming the gating factor for growth. When hyperscalers are spending billions upstream, chasing generation, transmission, and long-term power contracts, it shows that compute is no longer the bottleneck. The grid is. AI workloads don’t wait for permitting cycles or five-year interconnection queues. They scale fast, draw dense power, and demand reliability. That’s forcing companies like Google to think like utilities, locking in power years ahead of demand rather than reacting to it. For everyone else in the ecosystem (developers, colo operators, enterprises), the takeaway is clear that power strategy now defines site strategy. Where you build, how fast you scale, and what you can deploy will increasingly depend on who has already secured the megawatts. The AI race is now being run in substations, transmission corridors, and long-term energy planning.\n\nSee more comments\n\n\nExplore related topics\n\n\nExplore content categories",
+        "metadata": {
+          "title": "Google&#39;s $4.75B Power Play: Energy Access Becomes Key to AI Growth | Mr. Data Centers™ posted on the topic | LinkedIn",
+          "al:android:url": "https://www.linkedin.com/posts/mrdatacenters_googles-475b-move-to-secure-power-for-activity-7416838872673878017-5S5v",
+          "al:android:package": "com.linkedin.android",
+          "al:android:app_name": "LinkedIn",
+          "al:ios:url": "https://www.linkedin.com/posts/mrdatacenters_googles-475b-move-to-secure-power-for-activity-7416838872673878017-5S5v",
+          "al:ios:app_store_id": "288429040",
+          "al:ios:app_name": "LinkedIn",
+          "description": "Google’s $4.75B move to secure power for AI data centers says more about the future of infrastructure than the future of AI.\n\nMore than about the servers and models, this is about energy access becoming the gating factor for growth. When hyperscalers are spending billions upstream, chasing generation, transmission, and long-term power contracts, it shows that compute is no longer the bottleneck. The grid is.\n\nAI workloads don’t wait for permitting cycles or five-year interconnection queues. They scale fast, draw dense power, and demand reliability. That’s forcing companies like Google to think like utilities, locking in power years ahead of demand rather than reacting to it.\n\nFor everyone else in the ecosystem (developers, colo operators, enterprises), the takeaway is clear that power strategy now defines site strategy. Where you build, how fast you scale, and what you can deploy will increasingly depend on who has already secured the megawatts.\n\nThe AI race is now being run in substations, transmission corridors, and long-term energy planning. | 13 comments on LinkedIn",
+          "twitter:description": "Google’s $4.75B move to secure power for AI data centers says more about the future of infrastructure than the future of AI.\n\nMore than about the servers and models, this is about energy access becoming the gating factor for growth. When hyperscalers are spending billions upstream, chasing generation, transmission, and long-term power contracts, it shows that compute is no longer the bottleneck. The grid is.\n\nAI workloads don’t wait for permitting cycles or five-year interconnection queues. They scale fast, draw dense power, and demand reliability. That’s forcing companies like Google to think like utilities, locking in power years ahead of demand rather than reacting to it.\n\nFor everyone else in the ecosystem (developers, colo operators, enterprises), the takeaway is clear that power strategy now defines site strategy. Where you build, how fast you scale, and what you can deploy will increasingly depend on who has already secured the megawatts.\n\nThe AI race is now being run in substations, transmission corridors, and long-term energy planning. | 13 comments on LinkedIn",
+          "og:description": "Google’s $4.75B move to secure power for AI data centers says more about the future of infrastructure than the future of AI.\n\nMore than about the servers and models, this is about energy access becoming the gating factor for growth. When hyperscalers are spending billions upstream, chasing generation, transmission, and long-term power contracts, it shows that compute is no longer the bottleneck. The grid is.\n\nAI workloads don’t wait for permitting cycles or five-year interconnection queues. They scale fast, draw dense power, and demand reliability. That’s forcing companies like Google to think like utilities, locking in power years ahead of demand rather than reacting to it.\n\nFor everyone else in the ecosystem (developers, colo operators, enterprises), the takeaway is clear that power strategy now defines site strategy. Where you build, how fast you scale, and what you can deploy will increasingly depend on who has already secured the megawatts.\n\nThe AI race is now being run in substations, transmission corridors, and long-term energy planning. | 13 comments on LinkedIn",
+          "og:title": "Google's $4.75B Power Play: Energy Access Becomes Key to AI Growth | Mr. Data Centers™ posted on the topic | LinkedIn",
+          "twitter:title": "Google's $4.75B Power Play: Energy Access Becomes Key to AI Growth | Mr. Data Centers™ posted on the topic | LinkedIn",
+          "lnkd:url": "https://www.linkedin.com/feed/update/urn:li:activity:7416838872673878017",
+          "og:type": "article",
+          "og:url": "https://www.linkedin.com/posts/mrdatacenters_googles-475b-move-to-secure-power-for-activity-7416838872673878017-5S5v",
+          "og:site_name": "LinkedIn",
+          "og:locale": "en_US",
+          "og:image": "https://media.licdn.com/dms/image/v2/D5622AQGgvy8j_usT6w/feedshare-shrink_800/B56Zu3npoCHQAg-/0/1768312183898?e=2147483647&v=beta&t=QE2x1asuBYnRKbfyzmmf7wwlkTXwU_pwxJb19tZjYtw",
+          "twitter:url": "https://www.linkedin.com/posts/mrdatacenters_googles-475b-move-to-secure-power-for-activity-7416838872673878017-5S5v"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Analyse de l'investissement de 4,75 milliards de dollars de Google pour sécuriser l'accès à l'énergie pour ses centres de données d'intelligence artificielle, soulignant que le réseau électrique et l'approvisionnement énergétique deviennent le facteur limitant de la croissance de l'IA.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Google",
+          "Mr. Data Centers"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "AI"
+        ]
+      },
+      "score_e5": 0.7748515235426322
+    },
+    {
+      "titre": "hetzner",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/hetzner/rising/",
+      "image_url": "https://i.redd.it/mnhcdynj3jkh1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSoCpTxgoxFDFuXCNgCYwkBj88VZ7p72ue2U38nTAshEkBCdrR",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "hetzner",
+        "link": "https://www.reddit.com/r/hetzner/rising/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSoCpTxgoxFDFuXCNgCYwkBj88VZ7p72ue2U38nTAshEkBCdrR",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://i.redd.it/mnhcdynj3jkh1.jpeg",
+        "image_width": 1440,
+        "image_height": 1080
+      },
+      "webpage": {
+        "text": "Reddit\n\nAlways problems with S3 at Hetzner. Since 5:12 this morning I keep getting\n\n\nService is unable to handle request\nService is unable to handle request\n\nI did see this message already several times this year.\n\nI migrated my applications away from AWS to Hetzner, end of last year. Before that I was using AWS S3 for 5 years and I never had issues like this at AWS. Not a single time! At Hetzner this year already 5 times! WTF is going on at Hetzner? Why do they offer an S3 service if they can not run it reliably?",
+        "metadata": {
+          "title": "Reddit - The heart of the internet"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Problèmes de fiabilité rencontrés avec le service S3 de Hetzner, comparé favorablement à AWS par un utilisateur.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Hetzner",
+          "AWS"
+        ],
+        "DATE": [
+          "this morning",
+          "end of last year",
+          "5 years",
+          "this year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "S3"
+        ]
+      },
+      "score_e5": 0.7646527158440848
+    },
+    {
+      "titre": "Global Battery Storage News Snippets",
+      "source": "TaiyangNews",
+      "lien": "https://taiyangnews.info/storage/global-battery-energy-storage-news-snippets-june-5-2026",
+      "image_url": "https://media.assettype.com/taiyangnews/2026-06-05/ksuv6wmq/Intersect.jpg?w=640&auto=format,compress",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6X1xJKGgAp72Pz8YPJKmYTCitk6hPLst_xm0mj_p1ebTAInk1",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Global Battery Storage News Snippets",
+        "link": "https://taiyangnews.info/storage/global-battery-energy-storage-news-snippets-june-5-2026",
+        "source": "TaiyangNews",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWICUiJSAdHx8kKC0gJCYxJyooIT05JS0tLi8uIyszODUtNygtLisBCgoKDQwNGg8PGjclHiUwNzU1Lys3Ny0rNSs1LTgtLSs3Kys1LSs1Li0tNysrKzcrKysrKysrKysrKysrKysrK__AABEIACAAIAMBEQACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAGBwQB_8QAKhAAAQMDAwIEBwAAAAAAAAAAAQIDBAAFBgcREhNRQUJhkRUXITVTYnP_xAAZAQACAwEAAAAAAAAAAAAAAAACBQEDBAb_xAAiEQABBAIBBAMAAAAAAAAAAAAAAQIDEQQSBSExMkETFCP_2gAMAwEAAhEDEQA_AKnlWQt47CTJdZU6FK47JoXLRpxMb7DtboJnVeKBv8PdoVkGi8KteZkOssEEg2573qdhY7FW6F2F5azlcV59hhTIaVxIV40SFMkehh1Nnrt1naebbbcV1ANnE7ihepv4yL5JaBOU3YxrbA6UOKkymN1kN-PpQOUbYuNs9_XsE7_EYlMoMVtKJMdlJWlPnT3oqFj1pylW0jbQiyDgkAqSknbxNEhgnWzur_2Br-oqJBjwy_t0JxklxjzYVtbYVyUwzxX6GqXKdDj474lkc72H51zCLozJiq3CG0pUO_cVYc9I23KWrSyXEl294wSemnYFJ8p7UbRbM2lEWSWCNkERMaWtaUBXIcTUuSw8bJdA7Zga-Vlo_M_70OiDB3NTqlKZzpBYySevI-v7VOovXKUT4lisPF47rMFa1JcVyPM71KIUufuf_9k.jpeg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6X1xJKGgAp72Pz8YPJKmYTCitk6hPLst_xm0mj_p1ebTAInk1",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://media.assettype.com/taiyangnews/2026-06-05/ksuv6wmq/Intersect.jpg?w=640&auto=format,compress",
+        "image_width": 360,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Global Battery Storage News Snippets\n\nNW Group Chairman and CEO Jean-Christophe Kerdelhué (right) in conversation with French President Emmanuel Macron (left). The company plans to invest €1.2 billion in battery storage and EV charging infrastructure in France by 2030. (Photo Credit: NW Group)\n\nPublished on: \n\nJun 05, 2026, 2:58 pm\n\n\nNW Group Announces Major Storage Investment \n\nFrench energy transition company NW Group has announced plans to invest €1.2 billion in electricity storage and charging infrastructure in France by 2030. The commitment was unveiled by company Chairman and CEO Jean-Christophe Kerdelhué during a meeting of ‘The French Electricity Team’ at the Élysée Palace.  \n\nFrance’s ‘1st energy transition unicorn’, the NW Group, which operates 2 GWh of battery storage capacity and more than 600 high-power EV charging points across France and Finland, said the investment will support France’s electrification efforts. The company stated that its storage and charging solutions are designed to enhance grid flexibility, strengthen energy resilience, and support the growing demand for electric mobility and flexible energy use. It did not share any details of the proposed investment. \n\nGoogle and Intersect say their Meitner Energy Data Center in Texas will be powered by more than 1 GW of wind, solar, and battery storage capacity. (Photo Credit: Intersect)\n\n\nTexas Energy Hub to Combine Data Center, Solar, and Storage \n\nGoogle and Intersect have announced the start of construction of the Meitner Energy Center in Gray and Roberts Counties, Texas, US. The project will combine a new Google data center with more than 1 GW of co-located wind, solar, and battery storage capacity. The companies said the facility will follow a ‘power first’ approach, bringing new energy generation online alongside the data center to help meet its electricity needs while limiting additional strain on the local grid. The majority of the site’s power will be met by clean energy from day 1, while the remaining demand will be met by firming on-site gas, they add.  \n\nThe project will use air-cooling technology to reduce water consumption and is expected to support job creation in the region during construction and operation. Google also said the development builds on its broader investments in Texas, including water infrastructure initiatives and a previously announced co-located clean energy and data center project in Haskell County. Intersect is owned by Google’s parent Alphabet, which acquired the company for $4.75 billion (see Alphabet To Acquire Intersect For $4.75 Billion In Cash).  \n\nKorkia has obtained grid connection permits for its 273 MW solar PV and 250 MW battery storage Iron Gates portfolio in Romania. (Photo Credit: Korkia)\n\n\nKorkia Advances Romanian Solar-Storage Portfolio \n\nFinland-based renewable energy developer Korkia has secured grid connection permits (Avize Tehnice de Racordare, ATRs) for its Iron Gates hybrid portfolio in southwestern Romania. Issued by Transelectrica in May 2026, the portfolio includes 2 hybrid projects with a combined solar PV capacity of 273 MW and 250 MW of battery energy storage system (BESS). The permits establish the technical and economic conditions for connecting the projects to the electricity network and provide a defined route to grid access.  \n\nKorkia says the ‘milestone’ comes ahead of planned reforms to Romania’s grid connection framework, which are expected to introduce stricter requirements and competitive allocation mechanisms for grid capacity. These projects now progress toward a targeted ready-to-build (RTB) status in 2027. In April 2026, it secured ATRs for the 320 MW solar and 303 MW BESS capacity Alexandria portfolio. With the Iron Gates and Alexandria portfolios now permitted, the company has advanced nearly 600 MW of solar PV and more than 550 MW of battery storage capacity across its Romanian platform. \n\n\nAB CarVal Backs Pathway Power with $150M Funding \n\nUS-based Pathway Power has secured a $150 million senior-secured financing facility from funds managed by global alternative investment manager AB CarVal to support the development of its hybrid solar and BESS projects. The funding will cover late-stage development activities, including grid interconnection, power purchase agreements (PPAs), equipment deposits, and pre-construction and construction equity costs. \n\nPathway said the financing closed alongside a separate equity investment from funds managed by AB CarVal in Pathway Power. Founded in 2022 and headquartered in San Diego, the company is developing a pipeline of 13 hybrid and battery storage projects totaling about 3.2 GW AC across the US, with projects targeting key power markets such as SPP and MISO. \n\nStellantis is expanding solar and battery storage installations across its 20 manufacturing sites in Europe. (Photo Credit: Stellantis)\n\n\nStellantis Targets Higher Energy Self-Consumption with Solar and Storage \n\nUS-based automaker Stellantis is accelerating the deployment of renewable energy and battery storage across its European manufacturing network as part of its carbon reduction strategy. The company said 68% of electricity used at its European plants now comes from decarbonized sources, while on-site energy self-consumption is expected to account for 31% of total energy use at its European plants in 2026. Stellantis says it has completed or is developing solar PV projects at 27 manufacturing sites across Europe, representing more than 500 MW of installed capacity. At its Tychy (Poland) site, the company expects to achieve around 60% self-consumption, and the same could rise to around 80% in Zaragoza (Spain), where it operates a hybrid solar and wind system.  \n\nThe company is also rolling out BESS at 20 sites, with 7 plants expected to have operational storage systems by 2026. The remaining BESS deployment will be completed within 3 years. The initiatives are intended to increase energy resilience, reduce emissions, and improve the efficiency of renewable energy use across its manufacturing operations. \n\n\nOman Advances 1 GW Energy Storage Project \n\nOman’s Authority for Public Services Regulation (APSR) has opened technical bids for a consultancy tender supporting a planned 1,000 MW/4,000 MWh BESS project, according to Zawya. A total of 13 international firms submitted proposals for the advisory contract, which covers independent regulatory, technical, and commercial validation services for the project. The proposed tender for 4-hour storage capacity was launched in April 2026, with bid deadlines later extended before technical bids were opened in May. \n\nEBRD has committed up to €44 million to support the development of a 127 MW/254 MWh battery storage project in Romania. (Photo Credit: EBRD)\n\n\nEBRD Backs 127 MW Battery Storage Project in Romania \n\nThe European Bank for Reconstruction and Development (EBRD) will provide up to €44 million in financing for a 127 MW/254 MWh standalone BESS in Scornicești, Romania. The project is being developed by R.Power S.A. and Eiffel Investment Group and is expected to be among the first large-scale standalone battery storage facilities in the country. \n\nSupported in part by the InvestEU program, the EBRD financing package will back the project to strengthen energy security, improve grid stability, and support the integration of growing renewable energy capacity in Romania, stated the bank. The battery system will participate in the country’s ancillary and balancing services market, with revenues primarily generated through an optimization agreement with GEN-I, the regional energy trader.",
+        "metadata": {
+          "author": "Anu Bhambhani",
+          "news_keywords": "Battery Storage,Data Centers,Google,Intersect,Korkia,Oman,BESS",
+          "description": "Latest battery energy storage news and developments from around the globe",
+          "title": "Global Battery Storage News Snippets",
+          "keywords": "Battery Storage,Data Centers,Google,Intersect,Korkia,Oman,BESS",
+          "og:type": "article",
+          "og:url": "https://taiyangnews.info/storage/global-battery-energy-storage-news-snippets-june-5-2026",
+          "og:title": "Global Battery Storage News Snippets: NW Group Commits €1.2bn For Storage & EV In France & More",
+          "og:description": "NW Group Announces Major Storage Investment French energy transition company NW Group has announced plans to invest €1.2 billion in electricity storage and",
+          "twitter:title": "Global Battery Storage News Snippets: NW Group Commits €1.2bn For Storage & EV In France & More",
+          "twitter:description": "NW Group Announces Major Storage Investment French energy transition company NW Group has announced plans to invest €1.2 billion in electricity storage and",
+          "twitter:image:alt": "NW Group",
+          "og:image": "https://media.assettype.com/taiyangnews%2F2026-06-05%2Fdeft7i5x%2FPresentation1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "og:image:width": "1200",
+          "og:image:alt": "NW Group",
+          "fb:app_id": "1113250065862572",
+          "og:site_name": "TaiyangNews - All About Solar Power",
+          "apple-mobile-web-app-title": "taiyangnews",
+          "og:ttl": "2419200"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://taiyangnews.info"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Storage",
+              "item": "https://taiyangnews.info/storage"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Global Battery Storage News Snippets: NW Group Commits €1.2bn For Storage & EV In France & More",
+              "item": "https://taiyangnews.info/storage/global-battery-energy-storage-news-snippets-june-5-2026"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Actualités mondiales sur le stockage par batterie et les projets énergétiques, incluant l'investissement de 1,2 milliard d'euros de NW Group en France d'ici 2030, le projet Meitner Energy Center de Google et Intersect au Texas combinant un datacenter et des énergies renouvelables, ainsi que le portefeuille solaire et de stockage de Korkia en Roumanie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jean-Christophe Kerdelhué",
+          "Emmanuel Macron"
+        ],
+        "LOCATION": [
+          "France",
+          "Finland",
+          "Texas",
+          "Gray",
+          "Roberts Counties",
+          "Haskell County",
+          "Romania"
+        ],
+        "ORGANIZATION": [
+          "NW Group",
+          "Google",
+          "Intersect",
+          "Alphabet",
+          "Korkia",
+          "Transelectrica"
+        ],
+        "DATE": [
+          "2030",
+          "Jun 05, 2026",
+          "May 20"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "The French Electricity Team",
+          "Élysée Palace",
+          "Meitner Energy Center",
+          "Iron Gates portfolio"
+        ]
+      },
+      "score_e5": 0.7744425889510916
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Mayes County",
+      "Oklahoma"
+    ],
+    "ORGANIZATION": [
+      "Google"
+    ],
+    "DATE": [
+      "2013"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10/02/2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10 years",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Enterprise IT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Data Centre",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Flash",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SAN arrays",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Infomaniak",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "cocadmin",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "D4",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mr. Data Centers",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "AI",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hetzner",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AWS",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "this morning",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "end of last year",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "5 years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "this year",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "S3",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jean-Christophe Kerdelhué",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Emmanuel Macron",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Finland",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gray",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Roberts Counties",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Haskell County",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Romania",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NW Group",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Intersect",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alphabet",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Korkia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Transelectrica",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2030",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jun 05, 2026",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 20",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The French Electricity Team",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Élysée Palace",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meitner Energy Center",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Iron Gates portfolio",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T21:35:35.277410"
+  }
+}

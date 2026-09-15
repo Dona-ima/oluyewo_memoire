@@ -1,0 +1,640 @@
+{
+  "id_rumeur": "1564642",
+  "id_image": "488254",
+  "caption": "Scottish Power s parent company Iberdrola intends to invest 4bn in the UK",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122933/488254.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Why Google halted its research into renewable energy | Vox",
+      "source": "vox.com",
+      "lien": "https://www.vox.com/2014/11/19/7247103/google-renewable-energy-research",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2472578/186529029.0.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdSLputb1h7qLDskmll56dBhfk4z2TnUE0YGswVLMtDDI8cu2",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Why Google halted its research into renewable energy | Vox",
+        "source": "vox.com",
+        "link": "https://www.vox.com/2014/11/19/7247103/google-renewable-energy-research",
+        "imageUrl": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2472578/186529029.0.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdSLputb1h7qLDskmll56dBhfk4z2TnUE0YGswVLMtDDI8cu2"
+      },
+      "webpage": {
+        "text": "Why Google halted its research into renewable energy\n\nSkip to main content\n\n * Science\n\nUpdated Apr 24, 2015, 8:10 AM PDT\n\nBack in 2007, Google had a simple idea for addressing global warming — we just need to take existing renewable-energy technologies and keep improving them until they were as cheap as fossil fuels. And, voila! Problem solved.\n\nThat was the logic behind the company’s RE-C project, which aimed to produce one gigawatt of renewable electricity for less than the price of coal. The hope was to do this within years, not decades. So the company invested in new geothermal drilling R&D and put $168 million toward Brightsource’s Ivanpah solar tower in the Mojave Desert.\n\nBy 2011, however, Google decided that this energy initiative wasn’t going to work out as planned and shut things down. Unlike, say, Google Glass or self-driving cars, Google wasn’t interested in this particular moon shot. So what happened?\n\nIn a recent long essay at IEEE Spectrum, two Google engineers on the project — Ross Koningstein and David Fork — explain the thinking behind the closure. It’s not that Google has given up on renewable energy. (The company still spends many millions of dollars buying wind energy for its servers.) Partly it’s that they simply weren’t on track to achieve their specific goals.\n\nBut, more interestingly, the project also made the engineers realize that their original clean-energy goal wasn’t nearly ambitious enough.\n\n\n‘Today’s renewable energy technology won’t save us’\n\n\nHow did they figure? The two engineers calculated what would happen if Google actually achieved its dream of creating a renewable electricity source (say, geothermal or solar) that was cheaper than coal.\n\nBecome a Vox member to continue reading.",
+        "metadata": {
+          "title": "Why Google halted its research into renewable energy | Vox",
+          "description": "Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it. In text, video and audio, our reporters explain politics, policy, world affairs, technology, culture, science, the climate crisis, money, health and everything else that matters. Our goal is to ensure that everyone, regardless of income or status, can access accurate information that empowers them.",
+          "fb:app_id": "549923288395304",
+          "og:description": "Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it. In text, video and audio, our reporters explain politics, policy, world affairs, technology, culture, science, the climate crisis, money, health and everything else that matters. Our goal is to ensure that everyone, regardless of income or status, can access accurate information that empowers them.",
+          "og:site_name": "Vox",
+          "apple-mobile-web-app-title": "Vox",
+          "og:title": "Why Google halted its research into renewable energy",
+          "og:url": "https://www.vox.com/2014/11/19/7247103/google-renewable-energy-research",
+          "og:type": "article",
+          "article:published_time": "2014-11-19T21:00:02+00:00",
+          "article:modified_time": "2015-04-24T15:10:00+00:00",
+          "og:image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15070896/152807926.0.1502582204.jpg?quality=90&strip=all&crop=0%2C7.7774024657997%2C100%2C84.445195068401&w=1200",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "628",
+          "author": "Brad Plumer",
+          "twitter:title": "Why Google halted its research into renewable energy",
+          "parsely-title": "Why Google halted its research into renewable energy",
+          "parsely-author": "Brad Plumer",
+          "cse-authors": "Brad Plumer"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Why Google halted its research into renewable energy",
+          "description": "",
+          "datePublished": "2014-11-19T21:00:02+00:00",
+          "dateModified": "2015-04-24T15:10:00+00:00",
+          "url": "https://www.vox.com/2014/11/19/7247103/google-renewable-energy-research",
+          "mainEntityOfPage": "https://www.vox.com/2014/11/19/7247103/google-renewable-energy-research",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Vox",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://platform.vox.com/wp-content/uploads/sites/2/2024/04/default-og-image.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+              "width": "1200",
+              "height": "628"
+            }
+          },
+          "articleSection": "Science",
+          "keywords": [
+            "Climate",
+            "Renewable Energy",
+            "Science"
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Brad Plumer",
+              "url": "https://www.vox.com/authors/brad-plumer"
+            }
+          ],
+          "isAccessibleForFree": false,
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15070896/152807926.0.1502582204.jpg?quality=90&strip=all&crop=0,7.7774024657997,100,84.445195068401",
+              "height": "1570",
+              "width": "3000"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15070896/152807926.0.1502582204.jpg?quality=90&strip=all&crop=3.5,0,93,100",
+              "height": "1860",
+              "width": "2790"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15070896/152807926.0.1502582204.jpg?quality=90&strip=all&crop=19,0,62,100",
+              "height": "1860",
+              "width": "1860"
+            }
+          ],
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xpath": [
+              "/html/head/title",
+              "/html/head/meta[@name='description']/@content"
+            ]
+          },
+          "articleBody": "Back in 2007, Google had a simple idea for addressing global warming &mdash; we just need to take existing renewable-energy technologies and keep improving them until they were as cheap as fossil fuels. And, voila! Problem solved.\nThat was the logic behind the company’s RE-C project, which aimed to produce one gigawatt of renewable electricity for less than the price of coal. The hope was to do this within years, not decades. So the company invested in new geothermal drilling R&D and put $168 million toward Brightsource’s Ivanpah solar tower in the Mojave Desert.\nBy 2011, however, Google decided that this energy initiative wasn’t going to work out as planned and shut things down. Unlike, say, Google Glass or self-driving cars, Google wasn’t interested in this particular moon shot. So what happened?\nIn a recent long essay at IEEE Spectrum, two Google engineers on the project &mdash; Ross Koningstein and David Fork &mdash; explain the thinking behind the closure. It’s not that Google has given up on renewable energy. (The company still spends many millions of dollars buying wind energy for its servers.) Partly it’s that they simply weren’t on track to achieve their specific goals.\nBut, more interestingly, the project also made the engineers realize that their original clean-energy goal wasn’t nearly ambitious enough.\n‘Today’s renewable energy technology won’t save us’\nHow did they figure? The two engineers calculated what would happen if Google actually achieved its dream of creating a renewable electricity source (say, geothermal or solar) that was cheaper than coal. A major breakthrough.\nThat would be a huge deal for climate. More and more electric utilities would switch over to this cleaner source over time. By 2050, the Google engineers’ modeling suggested, US carbon-dioxide emissions would be 55 percent lower than what we’re currently on pace for.\nBut they also found that this new technology would still be adopted too slowly to avert significant global warming &mdash; in part because the technology wouldn’t be cheap enough to displace all the existing coal and gas plants out there that have already been paid for. As a result, the amount of carbon dioxide in the atmosphere would keep rising sharply (the purple line below). And note that this is a best-case scenario for Google’s original dream:\n[Image: https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2472624/googleIllo01b-1416000751488.0.jpg?quality=90&strip=all]\nThat’s why the two engineers ultimately concluded that “Today’s renewable energy technologies won’t save us.” Clean-energy technology needs to get much, much, much better &mdash; not just so that it’s competitive with natural gas and coal, but good enough that everyone will readily start switching over within the next 40 years. Here are some rough sample numbers:\nSo, for example, if we had incredibly cheap solar panels with batteries that could store electricity during cloudy or dark periods and power an entire home for less than current utilities can &mdash; well, everyone would rush out to buy them and there’d quickly be little need for existing coal and gas plants. Carbon pollution would drop very, very quickly.\nBut we’re still far from that point. To get there, the new clean energy sources can’t just be comparable to fossil fuels. They have to be clearly superior.\nIs Google’s view too pessimistic?\n[Image: https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2472578/186529029.0.jpg?quality=90&strip=all]\nNow, this view of what it takes to solve global warming might seem overly pessimistic &mdash; and perhaps too Silicon Valley-centric &mdash; to some. After all, other groups like the Intergovernmental Panel on Climate Change have calculated that we can drastically cut carbon emissions with today’s technologies. We’ll just likely need to layer on additional policies like carbon taxes, efficiency regulations, subsidies, and so forth.\nHere’s the rationale for the policy-heavy view: Many clean-energy technologies aren’t competitive with coal and gas and oil right now, but that’s largely because fossil-fuel plants and cars can emit as much carbon-dioxide as they want without paying for the damage it causes. So what if we had, say, a carbon tax that leveled the field? Or regulations that required older, dirtier power plants to shut down early? Then clean energy would have a leg up.\nKoningstein and Fork, for their part, sound pessimistic about policy. They’re skeptical that governments around the world are ever going to be able to penalize fossil-fuel usage sufficiently. “Rather than depend on politicians’ high ideals to drive change, it’s a safer bet to rely on businesses’ self interest: in other words, the bottom line.” Make clean energy irresistible, and the problem will solve itself.\nThis harkens back to an old dispute among people thinking about how best to tackle climate change &mdash; between those who argue we need major technological revolutions to solve the problem and those who argue that existing technology plus incremental progress plus better efficiency plus the right mix of policy can curtail emissions quickly and drastically. (Obviously it’s also possible to believe both things would help, but people seem to enjoy splitting into camps.)\nOn the question of R&D, Google’s engineers ultimately settle for a bit of a hybrid view. They propose that governments and energy companies should consider a 70-20-10 rule of thumb for investing in energy:\nThat’s a bit different from the way the US government invests, where upwards of 90 percent of energy R&D goes toward established tech and probably around 0.1 percent goes toward pie-in-the-sky stuff. (Note also that the United States, other governments, and the private sector all spend remarkably little on energy R&D in any case.)\nThat might not be an entirely satisfying answer &mdash; it’s partly a hope that something incredible, like cheap fusion power, will come out of that 10 percent. But their essay is a good starting point for thinking about the scale of the problem.\nFurther reading\nHow to solve global warming, in 7 steps\nIs there a free-market solution to global warming?",
+          "about": [
+            {
+              "@type": "Thing",
+              "name": "Science",
+              "url": "https://www.vox.com/science"
+            }
+          ]
+        },
+        "credits": 10
+      },
+      "texte_contexte": "En 2007, Google a lancé le projet RE-C visant à améliorer les technologies d'énergie renouvelable existantes pour produire un gigawatt d'électricité renouvelable à un coût inférieur à celui du charbon. L'entreprise a investi dans la recherche sur le forage géothermique et a soutenu la tour solaire Ivanpah de Brightsource dans le désert de Mojave. En 2011, Google a arrêté cette initiative énergétique. Les ingénieurs du projet, Ross Koningstein et David Fork, ont expliqué dans un essai sur IEEE Spectrum les motivations derrière cet arrêt.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ross Koningstein",
+          "David Fork"
+        ],
+        "LOCATION": [
+          "Mojave Desert"
+        ],
+        "ORGANIZATION": [
+          "Google",
+          "Brightsource",
+          "IEEE Spectrum",
+          "Vox"
+        ],
+        "DATE": [
+          "2007",
+          "Apr 24, 2015",
+          "2011"
+        ],
+        "EVENT": [
+          "RE-C project"
+        ],
+        "OTHER": [
+          "Google Glass"
+        ]
+      },
+      "score_e5": 0.7176837258522226
+    },
+    {
+      "titre": "Global public support for green energy witnessing 'massive' rise | IBTimes UK",
+      "source": "International Business Times UK",
+      "lien": "https://www.ibtimes.co.uk/global-public-support-green-energy-witnessing-massive-rise-1647150",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg?w=1600&h=1600&l=26&t=37&q=88&f=ef7532a5695a83a7fe88fb8a374fd823",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM6DhiQ4ZWlCQKiGkS6PXeuPLP24XgqzVoQKLPTXEFVLxa_B5j",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Global public support for green energy witnessing 'massive' rise | IBTimes UK",
+        "source": "International Business Times UK",
+        "link": "https://www.ibtimes.co.uk/global-public-support-green-energy-witnessing-massive-rise-1647150",
+        "imageUrl": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg?w=1600&h=1600&l=26&t=37&q=88&f=ef7532a5695a83a7fe88fb8a374fd823",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM6DhiQ4ZWlCQKiGkS6PXeuPLP24XgqzVoQKLPTXEFVLxa_B5j"
+      },
+      "webpage": {
+        "text": "Global public support for green energy witnessing 'massive' rise\n\nAlthough coal and oil are still the world's primary energy sources, there is \"massive\" public support for a green future, according to a new global study.\n\nA survey of over 26,000 people across all ages, political standpoints, education and geographies, conducted on behalf of Danish energy company Ørsted by Edelman Intelligence, found a majority of respondents to be in favour of a shift to green energy.\n\nBeing touted as the largest survey of attitudes towards green energy ever conducted, 82% of those polled said they favoured a world being fully powered by green energy.\n\nA similar percentage was mirrored in the UK (see table below).\n\nOverall, the study found that support for renewable energy is especially rooted in national pride about technology leadership, with 75% of global respondents opining that they will be proud of their country if it invests time and money to become a global leader in green energy.\n\nMany expressed concern about climate change, considered the second most pressing challenge the world is facing by 69% of respondents, but 73% also saw economic benefits, expressing the opinion that building and producing more green energy will boost economic growth.\n\nSocietal benefits were cited as a reason to back green energy by 53% of respondents, who felt there would be a reduction in health issues if their country was a leader in green energy.\n\nOverall, people in the surveyed nations want their respective countries to increase usage of a variety of renewable energy types including solar, offshore and onshore wind.\n\nHenrik Poulsen, chief executive officer of Ørsted, said the world is at a tipping point. \"Green energy has become cheaper than fossil fuels, and our study shows overwhelming public support for a shift from black to green.\"\n\n\"We owe it to the planet and to future generations to transform our energy systems from black to green. And with the economics and public opinion now supporting a shift to renewable energy, there's no reason not to speed up the transformation,\" Poulsen concluded.\n\nFor purposes of research, the Ørsted / Edelman Intelligence survey conducted 26,401 interviews in 13 countries – namely Canada, China, Denmark, France, Germany, Japan, the Netherlands, Poland, South Korea, Sweden, Taiwan, UK and USA.\n\nMore than 2,000 interviews were conducted in each nation, with data collection being carried out from 28 July to 1 September 2017.\n\nThe findings follow research by ratings agency Moody's suggesting that the issuance of global green bonds – investment instruments created to encourage sustainability initiatives and renewable energy projects – was at a record high this year, having already exceeding the issuance of 2016.\n\nGlobal green bond issuance totalled $32.7bn (£24.81bn) in the third quarter of 2017, just topping $32.2bn of issuance in the second quarter and setting a new quarterly issuance record for the decade-old market, Moody's said.\n\nTotal green bond volumes for the first nine months of the year hit $94.5bn, a 49% increase over the $63.2bn of issuance during the first nine months of 2016. Average transaction size increased slightly in the third quarter with an average of $295m per transaction, compared to $278m in the second quarter, the ratings agency concluded.",
+        "metadata": {
+          "title": "Global public support for green energy witnessing 'massive' rise | IBTimes UK",
+          "news_keywords": "Henrik Poulsen,Renewable Energy,Edelman,Green energy,oil and gas,fossil fuels,energy utilities,Power generation,Wind farms,offshore wind farms,solar power",
+          "description": "Worldwide attitudes survey finds clear trends in favour of sustainability and renewable power generation.",
+          "og:type": "article",
+          "og:site_name": "International Business Times UK",
+          "og:url": "https://www.ibtimes.co.uk/global-public-support-green-energy-witnessing-massive-rise-1647150",
+          "og:title": "Global public support for green energy witnessing 'massive' rise",
+          "og:description": "Worldwide attitudes survey finds clear trends in favour of sustainability and renewable power generation.",
+          "og:image": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg",
+          "og:image:alt": "Renewable energy",
+          "og:image:width": "1200",
+          "og:image:height": "768",
+          "article:publisher": "https://www.facebook.com/IBTimesUK",
+          "article:tag": "solar power",
+          "article:published_time": "2017-11-14T07:00:01+00:00",
+          "article:modified_time": "2017-11-14T07:00:01+00:00",
+          "twitter:title": "Global public support for green energy witnessing 'massive' rise",
+          "twitter:description": "Worldwide attitudes survey finds clear trends in favour of sustainability and renewable power generation."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.ibtimes.co.uk/global-public-support-green-energy-witnessing-massive-rise-1647150"
+          },
+          "url": "https://www.ibtimes.co.uk/global-public-support-green-energy-witnessing-massive-rise-1647150",
+          "headline": "Global public support for green energy witnessing 'massive' rise",
+          "datePublished": "2017-11-14T07:00:01+00:00",
+          "dateModified": "2017-11-14T07:00:01+00:00",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "International Business Times UK",
+            "url": "https://www.ibtimes.co.uk",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://g.ibtimes.co.uk/themes/favicons/apple-touch-icon.png",
+              "width": 180,
+              "height": 180
+            },
+            "sameAs": [
+              "https://www.facebook.com/IBTimesUK",
+              "https://www.linkedin.com/company/international-business-times-uk",
+              "https://www.youtube.com/@IBTimesUK",
+              "https://www.tiktok.com/@ibtimesuk",
+              "https://www.instagram.com/ibtimescouk/",
+              "https://www.threads.net/@ibtimescouk",
+              "https://x.com/IBTimesUK"
+            ],
+            "brand": "IBTimes UK",
+            "publishingPrinciples": "https://www.ibtimes.co.uk/about-us",
+            "correctionsPolicy": "https://www.ibtimes.co.uk/about-us",
+            "actionableFeedbackPolicy": "https://www.ibtimes.co.uk/about-us",
+            "ethicsPolicy": "https://www.ibtimes.co.uk/about-us",
+            "ownershipFundingInfo": "https://www.ibtimes.co.uk/about-us",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "40 Bank St,  Level 19",
+              "addressLocality": "London",
+              "addressRegion": "London",
+              "postalCode": " E14 5NR",
+              "addressCountry": "GB"
+            },
+            "alternateName": "IBTimes UK"
+          },
+          "description": "Worldwide attitudes survey finds clear trends in favour of sustainability and renewable power generation.",
+          "articleBody": "Although coal and oil are still the world's primary energy sources, there is \"massive\" public support for a green future, according to a new global study.A survey of over 26,000 people across all ages, political standpoints, education and geographies, conducted on behalf of Danish energy company &Oslash;rsted by Edelman Intelligence, found a majority of respondents to be in favour of a shift to green energy.Being touted as the largest survey of attitudes towards green energy ever conducted, 82% of those polled said they favoured a world being fully powered by green energy.A similar percentage was mirrored in the UK (see table below).Overall, the study found that support for renewable energy is especially rooted in national pride about technology leadership, with 75% of global respondents opining that they will be proud of their country if it invests time and money to become a global leader in green energy.Many expressed concern about climate change, considered the second most pressing challenge the world is facing by 69% of respondents, but 73% also saw economic benefits, expressing the opinion that building and producing more green energy will boost economic growth.Societal benefits were cited as a reason to back green energy by 53% of respondents, who felt there would be a reduction in health issues if their country was a leader in green energy.Overall, people in the surveyed nations want their respective countries to increase usage of a variety of renewable energy types including solar, offshore and onshore wind.Henrik Poulsen, chief executive officer of &Oslash;rsted, said the world is at a tipping point. \"Green energy has become cheaper than fossil fuels, and our study shows overwhelming public support for a shift from black to green.\"\"We owe it to the planet and to future generations to transform our energy systems from black to green. And with the economics and public opinion now supporting a shift to renewable energy, there's no reason not to speed up the transformation,\" Poulsen concluded.For purposes of research, the &Oslash;rsted / Edelman Intelligence survey conducted 26,401 interviews in 13 countries &ndash; namely Canada, China, Denmark, France, Germany, Japan, the Netherlands, Poland, South Korea, Sweden, Taiwan, UK and USA.More than 2,000 interviews were conducted in each nation, with data collection being carried out from 28 July to 1 September 2017.The findings follow research by ratings agency Moody's suggesting that the issuance of global green bonds &ndash; investment instruments created to encourage sustainability initiatives and renewable energy projects &ndash; was at a record high this year, having already exceeding the issuance of 2016.Global green bond issuance totalled $32.7bn (&pound;24.81bn) in the third quarter of 2017, just topping $32.2bn of issuance in the second quarter and setting a new quarterly issuance record for the decade-old market, Moody's said.Total green bond volumes for the first nine months of the year hit $94.5bn, a 49% increase over the $63.2bn of issuance during the first nine months of 2016. Average transaction size increased slightly in the third quarter with an average of $295m per transaction, compared to $278m in the second quarter, the ratings agency concluded.",
+          "thumbnailUrl": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg?w=1600&h=900&l=26&t=37&q=88&f=9f077e2d4d538a29b009200fc1cc489f",
+              "width": 1600,
+              "height": 900,
+              "caption": "Catherine Mitchell believes there has been a change in attitude towards renewable energy"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg?w=1600&h=1200&l=26&t=37&q=88&f=34c40d08f904864c2ae6b0ece43da4b7",
+              "width": 1600,
+              "height": 1200,
+              "caption": "Catherine Mitchell believes there has been a change in attitude towards renewable energy"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://d.ibtimes.co.uk/en/full/1486362/renewable-energy.jpg?w=1600&h=1600&l=26&t=37&q=88&f=ef7532a5695a83a7fe88fb8a374fd823",
+              "width": 1600,
+              "height": 1600,
+              "caption": "Catherine Mitchell believes there has been a change in attitude towards renewable energy"
+            }
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Gaurav Sharma",
+              "url": "https://www.ibtimes.co.uk/reporters/gaurav-sharma",
+              "sameAs": [
+                "https://twitter.com/The_Oilholic"
+              ]
+            }
+          ],
+          "keywords": [
+            "Henrik Poulsen",
+            "Renewable Energy",
+            "Edelman",
+            "green energy",
+            "oil and gas",
+            "fossil fuels",
+            "energy utilities",
+            "Power generation",
+            "wind farms",
+            "offshore wind farms",
+            "solar power"
+          ],
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xPath": [
+              "/html/head/title",
+              "/html/head/meta[@name='description']/@content"
+            ]
+          },
+          "isAccessibleForFree": "true"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une étude mondiale menée par Edelman Intelligence pour le compte de l'entreprise énergétique danoise Ørsted indique un soutien public massif en faveur de l'énergie verte. L'enquête, réalisée auprès de plus de 26 000 personnes dans 13 pays entre le 28 juillet et le 1er septembre 2017, montre que 82 % des personnes interrogées favorisent un monde alimenté par l'énergie verte. Par ailleurs, selon l'agence de notation Moody's, l'émission mondiale d'obligations vertes a atteint un niveau record au troisième trimestre 2017 avec un total de 32,7 milliards de dollars.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Henrik Poulsen"
+        ],
+        "LOCATION": [
+          "Canada",
+          "China",
+          "Denmark",
+          "France",
+          "Germany",
+          "Japan",
+          "Netherlands",
+          "Poland",
+          "South Korea",
+          "Sweden",
+          "Taiwan",
+          "United Kingdom",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Ørsted",
+          "Edelman Intelligence",
+          "Moody's",
+          "International Business Times UK"
+        ],
+        "DATE": [
+          "1647150",
+          "28 July to 1 September 2017",
+          "2017",
+          "third quarter of 2017",
+          "second quarter",
+          "2016"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7232324230357139
+    },
+    {
+      "titre": "Renewable energy gaining on fossil fuels",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/money/markets/2014/01/31/renewable-energy-winning/5082181/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/e985115523b584b9ed47d7b14c40c5d74e4aaf48/c=0-0-2217-2217/local/-/media/USATODAY/USATODAY/2014/01/31//1391192296000-GTY-186529018.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbqAodOA5ldQiuUS6DuObi25sj32B3TZsMxUHfYzRTWDZkw0iL",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Renewable energy gaining on fossil fuels",
+        "source": "USA Today",
+        "link": "https://www.usatoday.com/story/money/markets/2014/01/31/renewable-energy-winning/5082181/",
+        "imageUrl": "https://www.usatoday.com/gcdn/-mm-/e985115523b584b9ed47d7b14c40c5d74e4aaf48/c=0-0-2217-2217/local/-/media/USATODAY/USATODAY/2014/01/31//1391192296000-GTY-186529018.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbqAodOA5ldQiuUS6DuObi25sj32B3TZsMxUHfYzRTWDZkw0iL"
+      },
+      "webpage": {
+        "text": "Renewable energy gaining on fossil fuels\n\n* Since 2007%2C electricity generation from coal has fallen 24.9%25.\n * Over the same time frame wind grew 309%25.\n * SunPowe and First Solar are driving solar energy production growth.\n\nEnergy in the 21st century is already turning out to be very different from energy in the 20th century. Coal plants that used to provide most of the country's electricity are being shut down by the hundreds and renewable energy is becoming more cost efficient and prevalent by the day.\n\nThe trends are heavily in favor of renewable energy, and solar energy in particular is taking the U.S. and the world by storm.\n\nRenewable energy becoming a big player\n\nSince 2007, electricity generation from coal has fallen 24.9% from 2.02 billion MW-hrs to 1.51 billion MW-hrs in 2012. Meanwhile, over the same time frame wind grew 309% to 140.8 million MW-hrs and solar grew 607% to 4.3 million MW-hrs. That doesn't include distributed solar on residential rooftops or any installations from 2013, which was a record year for solar, installing about 4.4 GW in the U.S.\n\nSunPower (tickerSPWR ) and First Solar (FSLR ) are driving solar energy production growth and SolarCity (SCTY ) is growing the residential space rapidly.\n\nOf course, renewable energy from wind and solar is still only about 3.2% of total electricity produced but you can see that the trajectory for renewable energy is only moving higher.\n\nDrivers of renewable energy growth\n\nWhile electricity generated from wind is much larger than solar today, it's not the future of renewable installations. Most of the easily and economically developable wind resources in the U.S. have been exploited and costs aren't falling as rapidly as they are in solar.\n\nThe solar industry is where there's high potential because solar power has the potential to provide enough electricity for the entire country and costs are still falling rapidly. Utility scale projects are less than half of what they cost in 2010 and residential projects are about one-third cheaper. If we go back even further, the cost of a solar panel 35 years ago was more than $100 per watt and today you can get one for around $0.65 per watt, a cost reduction of more than 99%.\n\nTo put today's costs into perspective, a solar power plant will generate optimal energy about 20%-25% of the time, meaning that each watt will produce about 1.75-2.19 kW-hrs of electricity each year. A utility scale project with a 10% return on investment would create electricity for 9.3 to 11.7 cents per kW-hr without subsidy. That compares to an average price of 9.6 cents per watt overall in the U.S.\n\nThe driver of coal's declining role in electricity and the growth in renewable energy -- particularly solar -- is economics. As costs continue to fall, we'll see more growth for renewable energy and you can make money off the trend.\n\nHow you can make money off growth in renewable energy\n\nWith all of the trends I've pointed out above, you can see that renewable energy has a bright future. Solar power in particular is an attractive market for investors.\n\nThree companies leading the way are First Solar, SunPower, and SolarCity. First Solar is a world-class utility scale project builder and still the most profitable company in the industry. SunPower makes the industry's most efficient panels and builds both giant solar farms as well as small residential projects. SolarCity is the dominant residential solar player, making going solar accessible for millions of Americans.\n\nAs the industry grows, these three companies will be major beneficiaries. The future of energy is in these cleaner sources of power that are suddenly economically viable as well. They will dominate energy in the 21st century and that's where I think you should be looking to invest.\n\nThe Motley Fool is a USA TODAY content partner offering financial news, analysis and commentary designed to help people take control of their financial lives. Its content is produced independently of USA TODAY.",
+        "metadata": {
+          "title": "Renewable energy gaining on fossil fuels"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Entre 2007 et 2012, la production d'électricité à partir du charbon a chuté aux États-Unis, tandis que l'éolien et le solaire ont fortement progressé. Des entreprises comme SunPower et First Solar stimulent la croissance de la production d'énergie solaire, tandis que SolarCity se développe dans le secteur résidentiel. Les coûts de l'énergie solaire ont fortement baissé au fil des ans, rendant les projets à grande échelle et résidentiels plus économiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "USA Today",
+          "SunPower",
+          "First Solar",
+          "SolarCity"
+        ],
+        "DATE": [
+          "2007",
+          "21st century",
+          "20th century",
+          "2012",
+          "2013",
+          "35 years ago",
+          "2010"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "SPWR",
+          "FSLR",
+          "SCTY"
+        ]
+      },
+      "score_e5": 0.7075028289694255
+    },
+    {
+      "titre": "Renewables cover 55% of German power consumption in 2024 | Renewable Energy News | Renewables Now",
+      "source": "Renewables Now",
+      "lien": "https://renewablesnow.com/news/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279/",
+      "image_url": "https://cdn.renewablesnow.com/images/t780x490/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279.webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9Le_GLnKF_rv7L_MQ3tsNz7jD4rP64oKgX1kuAjzb-VjPJLku",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Renewables cover 55% of German power consumption in 2024 | Renewable Energy News | Renewables Now",
+        "source": "Renewables Now",
+        "link": "https://renewablesnow.com/news/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279/",
+        "imageUrl": "https://cdn.renewablesnow.com/images/t780x490/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279.webp",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9Le_GLnKF_rv7L_MQ3tsNz7jD4rP64oKgX1kuAjzb-VjPJLku"
+      },
+      "webpage": {
+        "text": "Renewables cover 55% of German power consumption in 2024 | Renewable Energy News\n\nLatest top stories\n\n\nRenewables cover 55% of German power consumption in 2024\n\nDec 18, 2024, 9:21:42 AMArticle by Tanya Ivanova\n\nSector\n\nRegion/Country:\n\nTopics\n\nLatest top stories\n\nRead next\n\n\nRead next\n\nMost read stories\n\n\nNewsletters\n\nToday in Hydrogen (daily)\n\n\nDaily Newsletter\n\n\nCorporate PPAs (weekly)\n\n\nNewsletters\n\nToday in Hydrogen (daily)\n\n\nDaily Newsletter\n\n\nCorporate PPAs (weekly)\n\n\nEditorial\n\nSales & Advertising\n\nCustomer care\n\n+359 2 80 12 630\n\nEditorial\n\nSales & Advertising\n\nCustomer care\n\n+359 2 80 12 630\n\n\nPart of theSeeNextCommunity.SeeNextAll rights reserved. Design by: StudioX",
+        "metadata": {
+          "title": "Renewables cover 55% of German power consumption in 2024 | Renewable Energy News | Renewables Now",
+          "description": "Renewable energy covered just over 55% of gross electricity consumption in Germany in 2024, reaching a new record thanks to solar capacity expansion.",
+          "og:title": "Renewables cover 55% of German power consumption in 2024",
+          "og:description": "Renewable energy covered just over 55% of gross electricity consumption in Germany in 2024, reaching a new record thanks to solar capacity expansion.",
+          "og:url": "https://renewablesnow.com/news/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279/",
+          "og:site_name": "Renewables Now",
+          "og:locale": "en_US",
+          "og:image": "https://cdn.renewablesnow.com/images/t780x490/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279.webp",
+          "og:image:width": "780",
+          "og:image:height": "490",
+          "og:image:alt": "Renewables cover 55% of German power consumption in 2024",
+          "og:type": "article",
+          "article:published_time": "2024-12-18T09:21:42.242137+02:00",
+          "article:modified_time": "2024-12-18T09:21:42.242137+02:00",
+          "article:author": "Tanya Dimitrova Ivanova",
+          "article:section": "Capacity,Insights,Bioenergy,Hydropower,Solar Power,Onshore Wind,Offshore Wind,Other Renewables,Europe",
+          "twitter:title": "Renewables cover 55% of German power consumption in 2024",
+          "twitter:description": "Renewable energy covered just over 55% of gross electricity consumption in Germany in 2024, reaching a new record thanks to solar capacity expansion."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "@id": "https://renewablesnow.com/news/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279/#article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://renewablesnow.com/news/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279/"
+          },
+          "headline": "Renewables cover 55% of German power consumption in 2024",
+          "description": "Renewable energy covered just over 55% of gross electricity consumption in Germany in 2024, reaching a new record thanks to solar capacity expansion.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn.renewablesnow.com/images/t780x490/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279.webp",
+            "caption": "Renewables cover 55% of German power consumption in 2024"
+          },
+          "datePublished": "2024-12-18T07:21:42.242Z",
+          "dateModified": "2024-12-18T07:21:42.242Z",
+          "author": {
+            "@type": "Person",
+            "name": "Tanya Dimitrova Ivanova",
+            "url": "https://renewablesnow.com/news/authors/tanya-ivanova-14/",
+            "jobTitle": "Journalist"
+          },
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://renewablesnow.com/#organization",
+            "name": "Renewables Now",
+            "url": "https://renewablesnow.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://cdn.renewablesnow.com/images/renewables_now_logo.png"
+            }
+          },
+          "articleBody": "Renewable energy covered just over 55% of gross electricity consumption in Germany in 2024, reaching a new record thanks to solar capacity expansion.",
+          "keywords": [
+            "Renewable energy",
+            "Germany",
+            "Capacity",
+            "Insights",
+            "Bioenergy",
+            "Hydropower",
+            "Solar Power",
+            "Onshore Wind",
+            "Offshore Wind",
+            "Other Renewables"
+          ],
+          "articleSection": [
+            "Bioenergy",
+            "Capacity"
+          ],
+          "isAccessibleForFree": true,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".subscription-content, .paywall"
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              "h1",
+              "p"
+            ]
+          },
+          "isPartOf": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://renewablesnow.com/news/bioenergy/"
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://renewablesnow.com/capacity/"
+            }
+          ],
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://renewablesnow.com"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Bioenergy",
+                "item": "https://renewablesnow.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Capacity",
+                "item": "https://renewablesnow.com/projects/capacity/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Renewables cover 55% of German power consumption in 2024",
+                "item": "https://renewablesnow.com/news/renewables-cover-55-percent-of-german-power-consumption-in-2024-1268279/"
+              }
+            ]
+          }
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Les énergies renouvelables couvrent 55 % de la consommation d'électricité en Allemagne pour l'année 2024.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tanya Ivanova"
+        ],
+        "LOCATION": [
+          "Germany"
+        ],
+        "ORGANIZATION": [
+          "Renewables Now",
+          "StudioX"
+        ],
+        "DATE": [
+          "2024",
+          "Dec 18, 2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7266995500731916
+    },
+    {
+      "titre": "Capitol Funding Solutions | Opportunity Report: FY2024 Grid Resilience and Innovative Partnerships (GRIP) Program",
+      "source": "Capitol Funding Solutions",
+      "lien": "https://www.capitolfunding.us/news/opportunity-report-fy2024-grid-resilience-and-innovative-partnerships-grip-program/",
+      "image_url": "https://www.capitolfunding.us/media/vcmd1qql/news-backgrounds-2000-1000-px-6.png",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaypcT8yumAMxo6_Y1CDQGTJbtFb15MTX69nL574GWu677fCFP",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Capitol Funding Solutions | Opportunity Report: FY2024 Grid Resilience and Innovative Partnerships (GRIP) Program",
+        "source": "Capitol Funding Solutions",
+        "link": "https://www.capitolfunding.us/news/opportunity-report-fy2024-grid-resilience-and-innovative-partnerships-grip-program/",
+        "imageUrl": "https://www.capitolfunding.us/media/vcmd1qql/news-backgrounds-2000-1000-px-6.png",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaypcT8yumAMxo6_Y1CDQGTJbtFb15MTX69nL574GWu677fCFP"
+      },
+      "webpage": {
+        "text": "Capitol Funding Solutions\n\nProgram Overview       \n\nThe U.S. Department of Energy’s Grid Deployment Office (GDO) has announced $3.9 billion in funding for the second phase of the Grid Resilience and Innovation Partnerships (GRIP) Program. Funded by the Bipartisan Infrastructure Law (BIL), GRIP supports projects enhancing grid flexibility and resilience against extreme weather and climate change through three topic areas: Grid Resilience Grants ($918 million), Smart Grid Grants ($1,080 million), and the Grid Innovation Program ($1,082 million).  \n\nThe department seeks proposals that enhance electric transmission by boosting funding, expediting interconnection processes for faster energy project implementation, establishing comprehensive solutions linking grid communication systems to bolster resilience and minimize power outages and threats, and employing advanced technologies like distributed energy resources and battery systems to offer crucial grid services, ensuring widespread access to affordable, reliable, and clean electricity across American communities. In addition to the modernization of the nation’s electric grid, the program emphasizes meaningful community and labor engagement, workforce development, and the advancement of DEIA initiatives. Required concept papers are due at 5:00 p.m. ET on January 12, 2024. \n\n\nKey Priorities and Objectives\n\nGoals of the GRIP program are to:\n\n * increase regional and interregional electricity transfer capacity \n\n * increase system resilience in the face of climate change-induced natural disasters \n\n * address the most consequential system challenges that contribute to the increasing interconnection queue time for clean energy \n\n * enable data-rich and flexible grid performance \n\n * spur innovation at all stages of project ideation and execution \n\n * facilitate clean energy deployment, generation mix diversity, and other system benefits \n\nObjectives of the GRIP program are to:\n\n * Transform the U.S. electric grid at the transmission and distribution levels by increasing resilience in the face of extreme disruptions, enabling data-rich and flexible grid performance, and spurring innovation at all stages of project ideation and execution\n\n * Prioritize energy justice as an essential component of infrastructure development by dramatically altering the relationship between energy providers and their communities \n\n * Catalyze and leverage private sector and non-federal public capital for impactful technology and infrastructure deployment. \n\nPriority Areas for Investment for the GRIP program are: \n\n * Projects that significantly increase the transmission capacity of existing rights-of-way using advanced conductors, grid-enhancing technologies, or high-voltage direct current in coordination with investments that enable integration and full utilization of high-capacity corridors. \n\n * Projects that will deploy solutions to increasing the processing of interconnection applications and minimize the queue-related delays for clean energy and electrification loads at both the transmission and distribution levels.  \n\n * Projects that in combination with priority investments will foster growth of a highly skilled power sector workforce and minimize workforce constraints associated with power sector innovation.  \n\n * Projects that have a significant impact on the transmission system, including projects that leverage advanced transmission technologies and can reduce or remove the existing technical, economic, and regulatory barriers, demonstrate enhanced operational flexibility or capacity, and that enhance reliability to accelerate wide scale transmission expansion and renewable energy interconnection.  \n\n * Projects that implement novel and replicable approaches to reducing energy burden and increasing resilience for disadvantaged communities, especially projects that increase access to cheaper generation resources and reduce the impact of infrastructure costs. \n\n\nEligibility    \n\nEligible Applicants - For all Topic Areas, eligibility is restricted to Domestic Entities: \n\nTopic Area 1: Grid Resilience Grants - 100% Cost match (small utility exception of 1/3 cost match) \n\n * electric grid operator\n\n * electricity storage operator\n\n * electricity generator\n\n * transmission owner or operator\n\n * distribution provider\n\n * fuel supplier\n\n * Any other relevant entity, as determined by the Secretary. \n\nTopic Area 2: Smart Grid Grants - 50% cost share  \n\n * institutions of higher education\n\n * for-profit entities\n\n * non-profit and not-for-profit entities\n\n * state and local governmental entities\n\n * Tribal nations. \n\nTopic Area 3: Grid Innovation Program - 50% cost share \n\n * State\n\n * combination of 2 or more States\n\n * Indian Tribes\n\n * a unit of local government\n\n * a public utility commission.\n\n\nKey Dates \n\nInformational Webinar: November 20, 2023 \n\nSubmission Deadline for Concept Papers (All Topic Areas): 1/12/2024 \n\nExpected Date for Concept Paper Notifications (All Topic Areas): February 2024 \n\nSubmission Deadline for Full Applications: 4/17/2024 and 5/22/2024 \n\n*Submission deadlines vary by topic area. However, due to a discrepancy in the FOA, the deadlines for full applications are still being determined. We will provide an update when new information is available.  \n\nExpected Date for DOE Selection Notifications: Summer/Fall 2024 \n\n\nResources \n\nView the full opportunity here. \n\nView the opportunity on grants.gov here.  \n\nRead the press release here. \n\nRegister for the webinar here.",
+        "metadata": {
+          "title": "Capitol Funding Solutions | Opportunity Report: FY2024 Grid Resilience and Innovative Partnerships (GRIP) Program",
+          "og:site_name": "Capitol Funding Solutions",
+          "og:type": "website",
+          "og:url": "https://www.capitolfunding.us/news/opportunity-report-fy2024-grid-resilience-and-innovative-partnerships-grip-program"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Bureau du déploiement du réseau (GDO) du Département de l'Énergie des États-Unis a annoncé un financement de 3,9 milliards de dollars pour la deuxième phase du programme GRIP (Grid Resilience and Innovative Partnerships), financé par la loi sur l'investissement dans les infrastructures et l'emploi (BIL). Le programme comprend trois volets : les subventions pour la résilience des réseaux, les subventions pour les réseaux intelligents et le programme d'innovation des réseaux, avec pour objectif de moderniser le réseau électrique américain et d'améliorer sa résilience face aux phénomènes climatiques extrêmes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Capitol Funding Solutions",
+          "Grid Deployment Office",
+          "U.S. Department of Energy"
+        ],
+        "DATE": [
+          "FY2024",
+          "January 12, 2024"
+        ],
+        "EVENT": [
+          "Grid Resilience and Innovative Partnerships Program"
+        ],
+        "OTHER": [
+          "Bipartisan Infrastructure Law"
+        ]
+      },
+      "score_e5": 0.750325647729939
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "UK"
+    ],
+    "ORGANIZATION": [
+      "Scottish Power",
+      "Iberdrola"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "4bn"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Germany",
+      "United States"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "2007"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.750325647729939,
+  "S_ent": 0.0,
+  "S_OOC": 0.3751628238649695,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE",
+    "OTHER"
+  ]
+}

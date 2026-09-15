@@ -1,0 +1,1125 @@
+{
+  "id_rumeur": 410164,
+  "id_image": 410164,
+  "caption": "A crewmember of the hijacked aircraft of EgyptAir is seen on the passenger steps after landing at Larnaca Airport",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747437/oluyewo_benchmark/x3jfuk7ocm2f7igke9kf.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "EgyptAir hijack: Man surrenders at Larnaca airport - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-middle-east-35915139",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8F59/production/_88979663_88979662.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzuXbPvx_H8KGO1D6e5pRVeB94nUamsMb8TXr96X5eHbMwmmJ_",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "EgyptAir hijack: Man surrenders at Larnaca airport - BBC News",
+        "link": "https://www.bbc.com/news/world-middle-east-35915139",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzuXbPvx_H8KGO1D6e5pRVeB94nUamsMb8TXr96X5eHbMwmmJ_",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8F59/production/_88979663_88979662.jpg",
+        "image_width": 1152,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "EgyptAir hijack: Man surrenders at Larnaca airport\n\nIt is only some small comfort that the man who hijacked Egyptair flight MS181 was bluffing. The bulging white \"suicide belt\" with wires sticking out turned out to be a fake.\n\nIt at least means that this time Egypt cannot be accused of letting someone smuggle explosives through airport security and on to an airliner as they did in October at Sharm El Sheikh airport, destroying a Russian passenger jet in mid-air.\n\nBut it still triggers a number of worrying questions about aviation security.\n\nHow was it that a passenger, described by the Cypriot authorities as \"mentally unstable\" was able to carry enough materials through Alexandria airport to resemble a bomb?\n\nAnd what is to stop any future airline passenger, similarly unarmed, from pretending that he or she has a real device strapped to them?\n\nFor Egypt's battered tourism industry, that has yet to recover from the October airline bombing, this hijack is a further blow it can ill afford.",
+        "metadata": {
+          "description": "A hijacker who forced a domestic Egyptian flight to divert to Cyprus surrenders to the authorities after hostages are seen fleeing the plane.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A hijacker who forced a domestic Egyptian flight to divert to Cyprus surrenders to the authorities after hostages are seen fleeing the plane.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/004E/production/_88987000_88986992.jpg",
+          "og:image:alt": "A man believed to be the hijacker of the EgyptAir Airbus A-32",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "EgyptAir hijack: Man surrenders at Larnaca airport",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-middle-east-35915139",
+          "article:section": "Middle East",
+          "twitter:description": "A hijacker who forced a domestic Egyptian flight to divert to Cyprus surrenders to the authorities after hostages are seen fleeing the plane.",
+          "twitter:title": "EgyptAir hijack: Man surrenders at Larnaca airport"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-middle-east-35915139",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-03-29T06:18:26.000Z",
+          "dateModified": "2016-03-29T16:08:53.000Z",
+          "description": "A hijacker who forced a domestic Egyptian flight to divert to Cyprus surrenders to the authorities after hostages are seen fleeing the plane.",
+          "headline": "EgyptAir hijack: Man surrenders at Larnaca airport",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/004E/production/_88987000_88986992.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/004E/production/_88987000_88986992.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-middle-east-35915139",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un homme a détourné le vol EgyptAir MS181 et s'est rendu à l'aéroport de Larnaca. Le prétendu « ceinture de suicide » avec des fils s'est avéré être un faux. L'incident soulève des questions sur la sécurité dans les aéroports en Égypte, après la destruction d'un réacteur de passagers russe en octobre à l'aéroport de Sharm El Sheikh. Le pirate de l'air a réussi à faire passer des objets à l'aéroport d'Alexandrie pour faire croire à une bombe, ce qui représente un nouveau coup dur pour l'industrie touristique égyptienne.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Larnaca",
+          "Egypt",
+          "Sharm El Sheikh",
+          "Alexandrie"
+        ],
+        "ORGANIZATION": [
+          "EgyptAir",
+          "BBC News",
+          "BBC"
+        ],
+        "DATE": [
+          "October"
+        ],
+        "EVENT": [
+          "EgyptAir hijack"
+        ],
+        "OTHER": [
+          "MS181"
+        ]
+      },
+      "score_e5": 0.7936706629208164
+    },
+    {
+      "titre": "Egyptian plane hijacked to Cyprus, most passengers released",
+      "source": "Daily Herald",
+      "lien": "https://www.dailyherald.com/20160328/news/egyptian-plane-hijacked-to-cyprus-most-passengers-released/",
+      "image_url": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=18889D21-B21E-4C08-9A59-5FDB9F064B02&type=preview&function=cover&height=609&width=800",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXRoaTmMsKzHlCjNfL7gCFPwY2dZzKfqTi7lS-JjpM7Y03NtVq",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Egyptian plane hijacked to Cyprus, most passengers released",
+        "link": "https://www.dailyherald.com/20160328/news/egyptian-plane-hijacked-to-cyprus-most-passengers-released/",
+        "source": "Daily Herald",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEUMRWv___8HV4gIVIQCaqfS5fEJTnoIUoBKmskFXpMEYpoKS3QVfLgFb62z1Ohfps80jsNSn8yfyeKRwt6Fu9vz-PsDZZ9AlccGWYzA2-tzr9NUnsvu9fkLQ2Ylhb0PdbHd7PS92ut6tdcGOFaax-EGdbZnqtLrv0H9AAABTklEQVQ4jd2Ra3aEIAyFCSgowvgGZZxxHtX9L7GXdsbac9xAyw_0XG6SLwljf-sUgg-5dm7IcQ8HBu7b5jSGOt5nfmDQVeiJzr4joqo4MEiVpESG2Z4me0yBp9RdrkQnfUxZEbWDKonCAYJUBQ9EtcybiCCF_N3BXAZvT0C4JDeaFpuFal8mzyagh-mNYEBLXu0mQDReo9ryiNCNa4v_fIObkdWwAWJdRIS7135vyB9ED_GMT18I1GkOaRVb-9DM84IxfSP0pnAj0fU9TYn2U_2UJiJIIHxoNkNK3gkEtFZdBnxK7lDHS1WjjnOvccX5hIIlMautb3EREcfb9ZWDI_QhOYJoWWFuNANpv2TlK4ME182XI6K6BuZaxa31a7NBJOiJUoO3-9JQPzPmMPTRbNsokmrNLE-8t9YYgx3Iuaztflti4GhaiB9FKfafzid_TxSJAh1pWAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXRoaTmMsKzHlCjNfL7gCFPwY2dZzKfqTi7lS-JjpM7Y03NtVq",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=18889D21-B21E-4C08-9A59-5FDB9F064B02&type=preview&function=cover&height=609&width=800",
+        "image_width": 307,
+        "image_height": 512
+      },
+      "webpage": {
+        "text": "Egyptian plane hijacked to Cyprus, most passengers released\n\nLARNACA, Cyprus (AP) - An Egyptian man hijacked an EgyptAir plane Tuesday and forced it to land in Cyprus, where most passengers were eventually allowed to get off, though four crew members and three passengers remained on board with the hijacker, Egyptian and Cypriot officials said.\n\nThe man's motivation was unclear, but Cyprus President Nicos Anastasiades said the hijacking was \"not something that has to do with terrorism\" and a Cyprus government official, speaking on condition of anonymity to discuss an ongoing investigation, said the man \"seems (to be) in love.\"\n\nA civil aviation official, also speaking on condition of anonymity because he wasn't allowed to disclose details of ongoing negotiations, said the man gave negotiators the name of a woman who lives in Cyprus and asked to give her an envelope. It's unclear what relationship she and the man have.\n\nFlight MS181 took off from the Mediterranean coastal city of Alexandria en route to Cairo with at least 55 passengers, including 26 foreigners, and a seven-member crew.\n\nAn official with flight-tracking website FlightRadar24 said the plane showed no immediate signs of distress. The flight between Alexandria and Cairo normally takes about 30 minutes.\n\nThere was some confusion about the hijacker's identity. At a news conference in Cairo, Egypt's Civil Aviation minister, Sharif Fathi, refused to identify him.\n\nEarlier, Egyptian government spokesman Hossam al-Queish said the hijacker was Ibrahim Samaha, but an Egyptian woman who identified herself as Samaha's wife said her husband is not the hijacker and was on his way to Cairo so he could fly to the U.S. to attend a conference.\n\nThe woman, who identified herself only as Nahla, told the Egyptian private TV network ONTV in a phone interview that her husband had never been to Cyprus and that a photo on Egyptian and regional TV channels that supposedly showed the hijacker was not him. Later, the official Middle East News Agency gave a different name for the hijacker.\n\nAl-Queish, the government spokesman, also told the private CBC TV network that authorities could not confirm that the hijacker had explosives on him. An earlier statement from the Egyptian Aviation Ministry said the man claimed he had a belt with explosives.\n\nThe plane landed at the airport in the southern Cypriot city of Larnaca, also on the Mediterranean. A statement from the Egyptian Civil Aviation Ministry statement said the foreigners on board included eight Americans, four Britons, four Dutch, two Belgians, a French national, an Italian, two Greeks and one Syrian. Three other foreigners could not be identified. Fathi did not give the nationalities of those who remained on the plane.\n\nThe incident raises more questions about security at Egyptian airports, five months after a Russian aircraft crashed over Egypt's Sinai Peninsula minutes after it took off from Egypt's Red Sea resort of Sharm el-Sheikh.\n\nAll 224 people on board were killed in the crash. Russia later said an explosive device brought down the aircraft and the extremist Islamic State group took responsibility.\n\n___\n\nHendawi reported from Cairo. Maggie Michael in Cairo contributed to this report.\n\n\nA crew member of the hijacked aircraft of EgyptAir is seen on the passenger steps after landing at Larnaca airport Tuesday, March 29, 2016. The EgyptAir plane was hijacked on Tuesday while flying from the Egyptian Mediterranean coastal city of Alexandria to the capital, Cairo, and later landed in Cyprus where some of the women and children were allowed to get off the aircraft, according to Egyptian and Cypriot officials. (AP Photo/Petros Karadjias) The Associated Press\n\n\nA passenger leaves a hijacked EgyptAir aircraft after landing at Larnaca Airport in Cyprus Tuesday, March 29, 2016. An Egyptian man hijacked the EgyptAir plane Tuesday and forced it to land in Cyprus, where all but several foreign passengers and the crew were eventually allowed to get off, Egyptian and Cypriot officials said. (AP Photo/Petros Karadjias) The Associated Press\n\n\nPolice officers stand guards by the fence of the airport as a hijacked EgyptAir aircraft is seen after landing at Larnaca Airport in Cyprus Tuesday, March 29, 2016. The EgyptAir plane was hijacked on Tuesday while flying from the Egyptian Mediterranean coastal city of Alexandria to the capital, Cairo, and later landed in Cyprus where some of the women and children were allowed to get off the aircraft, according to Egyptian and Cypriot officials. (AP Photo/Petros Karadjias) The Associated Press\n\n\nA bus carrying some passengers from a hijacked EgyptAir aircraft drives by the plane at Larnaca Airport in Cyprus Tuesday, March 29, 2016. The EgyptAir plane was hijacked on Tuesday while flying from the Egyptian Mediterranean coastal city of Alexandria to the capital, Cairo, and later landed in Cyprus where some of the women and children were allowed to get off the aircraft, according to Egyptian and Cypriot officials. (AP Photo/Petros Karadjias) The Associated Press\n\n\nA police officer patrols outside the airport as an hijacked aircraft of EgyptAir is seen after landing at Larnaca Airport in Cyprus Tuesday, March 29, 2016. The EgyptAir plane was hijacked on Tuesday while flying from the Egyptian Mediterranean coastal city of Alexandria to the capital, Cairo, and later landed in Cyprus where some of the women and children were allowed to get off the aircraft, according to Egyptian and Cypriot officials. (AP Photo/Petros Karadjias) The Associated Press\n\n\nA bus carrying some passengers from a hijacked EgyptAir aircraft drives by the plane at Larnaca Airport in Cyprus Tuesday, March 29, 2016. The EgyptAir plane was hijacked on Tuesday while flying from the Egyptian Mediterranean coastal city of Alexandria to the capital, Cairo, and later landed in Cyprus where some of the women and children were allowed to get off the aircraft, according to Egyptian and Cypriot officials. (AP Photo/Petros Karadjias) The Associated Press",
+        "metadata": {
+          "title": "Egyptian plane hijacked to Cyprus, most passengers released",
+          "apple-mobile-web-app-title": "Daily Herald",
+          "keywords": "News,Nation and World,Associated Press,Content Providers",
+          "description": "LARNACA, Cyprus (AP) - An Egyptian man hijacked an EgyptAir plane Tuesday and forced it to land in Cyprus, where most passengers were eventually allowed to get off, though four crew members and three...",
+          "author": "MENELAOS HADJICOSTIS and HAMZA HENDAWI",
+          "twitter:title": "Egyptian plane hijacked to Cyprus, most passengers released",
+          "twitter:description": "LARNACA, Cyprus (AP) - An Egyptian man hijacked an EgyptAir plane Tuesday and forced it to land in Cyprus, where most passengers were eventually allowed to get off, though four crew members and three...",
+          "twitter:account_id": "8960722",
+          "og:title": "Egyptian plane hijacked to Cyprus, most passengers released",
+          "og:description": "LARNACA, Cyprus (AP) - An Egyptian man hijacked an EgyptAir plane Tuesday and forced it to land in Cyprus, where most passengers were eventually allowed to get off, though four crew members and three...",
+          "og:type": "article",
+          "og:url": "https://www.dailyherald.com/20160328/news/egyptian-plane-hijacked-to-cyprus-most-passengers-released/",
+          "og:image": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=11DC68DD-9501-415F-BAE4-0109D084E9B0&function=fit&type=preview",
+          "og:site_name": "Daily Herald",
+          "fb:app_id": "105603449548761",
+          "article:publisher": "https://www.facebook.com/DailyHeraldFans",
+          "article:published_time": "2016-03-28T23:00:00-05:00",
+          "article:modified_time": "2016-03-30T05:55:08-05:00"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un homme égyptien a détourné un avion d'EgyptAir et l'a forcé à atterrir à Chypre, où la plupart des passagers ont été relâchés, tandis que quatre membres d'équipage et trois passagers sont restés à bord avec le pirate de l'air. Le vol MS181 a décollé d'Alexandrie vers Le Caire avec au moins 55 passagers et un équipage de sept personnes. Le président chypriote Nicos Anastasiades a déclaré que le détournement n'avait rien à voir avec le terrorisme et qu'il semblait amoureux, demandant à donner une enveloppe à une femme vivant à Chypre. Des confusions ont eu lieu concernant l'identité du pirate de l'air, initialement identifié comme Ibrahim Samaha par un porte-parole égyptien, ce qui a été démenti par son épouse. L'appareil a atterri à l'aéroport de Larnaca. Le ministre de l'Aviation civile égyptien, Sharif Fathi, a refusé d'identifier l'homme lors d'une conférence de presse. Parmi les étrangers à bord figuraient des Américains, des Britanniques, des Néerlandais, des Belges, un Français, un Italien, des Grecs et un Syrien. L'incident rappelle la sécurité dans les aéroports égyptiens après le crash d'un avion russe au-dessus de la péninsule du Sinaï cinq mois plus tôt.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nicos Anastasiades",
+          "Sharif Fathi",
+          "Hossam al-Queish",
+          "Ibrahim Samaha",
+          "Nahla"
+        ],
+        "LOCATION": [
+          "Cyprus",
+          "Larnaca",
+          "Alexandria",
+          "Cairo",
+          "Egypt",
+          "Sinai Peninsula",
+          "Sharm el-Sheikh"
+        ],
+        "ORGANIZATION": [
+          "EgyptAir",
+          "Daily Herald",
+          "AP",
+          "FlightRadar24",
+          "ONTV",
+          "Middle East News Agency",
+          "CBC TV"
+        ],
+        "DATE": [
+          "Tuesday"
+        ],
+        "EVENT": [
+          "Egyptian plane hijacked to Cyprus"
+        ],
+        "OTHER": [
+          "MS181"
+        ]
+      },
+      "score_e5": 0.792781968825546
+    },
+    {
+      "titre": "Hijacked EgyptAir passengers back in Cairo",
+      "source": "DW",
+      "lien": "https://www.dw.com/en/passengers-on-board-hijacked-egyptair-flight-arrive-back-in-cairo/a-19149352",
+      "image_url": "https://static.dw.com/image/19147469_1006.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbdx-RA6G9X5GnRDH6M__-dXacbdGLTEdOe9VktxeGdsIJ0YT",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Hijacked EgyptAir passengers back in Cairo",
+        "link": "https://www.dw.com/en/passengers-on-board-hijacked-egyptair-flight-arrive-back-in-cairo/a-19149352",
+        "source": "DW",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ0gungiN_z1Rc1E5GcFvDtF23YBlzVRkW1ylekQYwUyGlSAjO7qMbjEhzFp_ZIvi0B13z2nAaegg-A4fSC0GuE0Gkpm0cl568cYPoKfWk1",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbdx-RA6G9X5GnRDH6M__-dXacbdGLTEdOe9VktxeGdsIJ0YT",
+        "thumbnail_width": 148,
+        "thumbnail_height": 340,
+        "image": "https://static.dw.com/image/19147469_1006.webp",
+        "image_width": 700,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Hijacked EgyptAir passengers back in Cairo\n\nAll passengers and crew aboard a domestic EgyptAir flight that was hijacked by a passenger wearing a fake explosive belt have arrived safely back at Cairo airport.\n\nEgyptian Prime Minister Sherif Ismail received the 55 passengers and 15 crew, who arrived on a special flight. The hijacked plane underwent technical and security checks and was flown back separately by a different crew.\n\nThe hijacker, identified by authorities as 58-year-old Seif Eddin Mustafa, had forced the EgyptAir plane to land in Cyprus and prompted an hours-long standoff. He later surrendered to authorities, and all passengers and crew on board were released unharmed.\n\nMinutes before the arrest, TV footage showed several people disembarking from the plane and a man who appeared to be a crew member climbing out of the cockpit window before sliding down the side of the plane.\n\nTerrorism ruled out\n\nOfficials said the hijacking was not an act of terrorism, and that the hijacker appeared to be psychologically unstable.\n\n\"From the start, it was clear that this wasn't an act of terrorism, and despite the fact that the individual appeared to be dangerous in terms of his behavior, we understood that this was a psychologically unstable person,\" Cyprus' Foreign Minister Ioannis Kasoulides told reporters.\n\nMustafa asked to speak to his Cypriot ex-wife, who police brought to the airport. He also demanded the release of women held in Egyptian prisons.\n\n\"His demands made no sense or were too incoherent to be taken seriously,\" Kasoulides said, adding that the contents of a letter the hijacker wanted to give to his ex-wife \"were also incoherent.\"\n\nEgyptian passenger Farah el-Dabani told Dubai-based Al-Arabiya TV that the hijacker had been seated in the back of the craft and that it was the crew who told passengers the plane had been hijacked.\n\n\"There was panic at the beginning, but the crew told us to be quiet. They did a good job to keep us all quiet so the hijacker does not do anything rash,\" she said.\n\nAmid the ordeal, a passenger appeared to take a picture with Mustafa, whose fake explosive belt was clearly visible.\n\nSecurity concerns\n\nFlight MS181 was en route from Alexandria to Cairo, a flight that normally takes 30 minutes to complete, before being hijacked Tuesday morning. At least 55 passengers, including 26 foreigners and 15 crew, were aboard.\n\nThe hijacking raises more concerns about security at Egyptian airports, five months after a Russian airliner was downed over Egypt's Sinai Peninsula, killing all 224 people aboard. The attack was claimed by the so-called \"Islamic State\" terror group.\n\nEgypt's Interior Ministry posted surveillance footage on its Facebook page that it claimed showed Mustafa being thoroughly searched at the airport. It said his handbag contained items which he used to give the impression that he was wearing an explosive belt.\n\nbw/jr (AP, dpa, AFP)",
+        "metadata": {
+          "description": "The passengers and crew aboard a hijacked EgyptAir flight have returned safely to Cairo airport from Cyprus. Officials have ruled out terrorism, saying the hijacker appeared to be psychologically unstable.",
+          "og:site_name": "dw.com",
+          "og:title": "Hijacked EgyptAir passengers back in Cairo",
+          "og:url": "https://www.dw.com/en/passengers-on-board-hijacked-egyptair-flight-arrive-back-in-cairo/a-19149352",
+          "og:description": "The passengers and crew aboard a hijacked EgyptAir flight have returned safely to Cairo airport from Cyprus. Officials have ruled out terrorism, saying the hijacker appeared to be psychologically unstable.",
+          "twitter:title": "Hijacked EgyptAir passengers back in Cairo",
+          "twitter:description": "The passengers and crew aboard a hijacked EgyptAir flight have returned safely to Cairo airport from Cyprus. Officials have ruled out terrorism, saying the hijacker appeared to be psychologically unstable.",
+          "fb:admins": "100004135624835",
+          "fb:pages": "210354862357400",
+          "og:image:type": "image/jpeg",
+          "og:image": "https://static.dw.com/image/19147469_6.jpg",
+          "og:image:width": "940",
+          "og:image:height": "529",
+          "og:image:alt": "Entführtes Flugzeug von der Fluggesellschaft EgyptAir landet auf Zypern",
+          "taboola:image": "https://static.dw.com/image/19147469_605.jpg"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.dw.com/en/passengers-on-board-hijacked-egyptair-flight-arrive-back-in-cairo/a-19149352"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Deutsche Welle",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://dw.com/images/icons/favicon-180x180.png",
+              "width": "180",
+              "height": "180"
+            }
+          },
+          "author": [
+            {
+              "@type": "Organization",
+              "name": "Deutsche Welle",
+              "url": "https://www.dw.com"
+            }
+          ],
+          "headline": "Hijacked EgyptAir passengers back in Cairo",
+          "image": [
+            "https://static.dw.com/image/19147469_804.jpg",
+            "https://static.dw.com/image/19147469_604.jpg"
+          ],
+          "datePublished": "2016-03-29T22:47:49Z",
+          "dateModified": "2016-03-29T22:47:49Z"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Tous les passagers et l'équipage d'un vol intérieur d'EgyptAir détourné par un passager portant une fausse ceinture explosive sont arrivés sains et saufs à l'aéroport du Caire, accueillis par le Premier ministre égyptien Sherif Ismail. Le preneur d'otages, identifié comme Seif Eddin Mustafa, âgé de 58 ans, a forcé l'avion à atterrir à Chypre avant de se rendre après un long face-à-face. Les responsables ont exclu le terrorisme et ont indiqué que le preneur d'otages semblait psychologiquement instable, selon le ministre des Affaires étrangères chypriote Ioannis Kasoulides. Mustafa a demandé à parler à son ex-femme chypriote et a exigé la libération de femmes détenues dans les prisons égyptiennes. Le vol MS181 reliait Alexandrie au Caire avec au moins 55 passagers et 15 membres d'équipage.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sherif Ismail",
+          "Seif Eddin Mustafa",
+          "Ioannis Kasoulides",
+          "Farah el-Dabani"
+        ],
+        "LOCATION": [
+          "Cairo",
+          "Cyprus",
+          "Egypt",
+          "Sinai Peninsula",
+          "Alexandria"
+        ],
+        "ORGANIZATION": [
+          "EgyptAir",
+          "DW",
+          "Al-Arabiya TV",
+          "AP",
+          "dpa",
+          "AFP",
+          "Islamic State"
+        ],
+        "DATE": [
+          "Tuesday"
+        ],
+        "EVENT": [
+          "Hijacked EgyptAir passengers back in Cairo"
+        ],
+        "OTHER": [
+          "MS181"
+        ]
+      },
+      "score_e5": 0.7943094254034171
+    },
+    {
+      "titre": "Amid EgyptAir tragedy, is it time to rethink safety in the ...",
+      "source": "CBS Austin",
+      "lien": "https://cbsaustin.com/news/nation-world/amid-egyptair-tragedy-is-it-time-to-rethink-safety-in-the-skies",
+      "image_url": "https://cbsaustin.com/resources/media/b120c63b-fa3c-4321-8f31-0084cfbf8859-jumbo16x9_160519_ap_Mideast_Egypt_Plane_26.jpg?1463704546124",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFya-REb4K9J16nTdbxvoORyrKa54q0PmN87GGc-KVQ5gp6Mb0",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Amid EgyptAir tragedy, is it time to rethink safety in the ...",
+        "link": "https://cbsaustin.com/news/nation-world/amid-egyptair-tragedy-is-it-time-to-rethink-safety-in-the-skies",
+        "source": "CBS Austin",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRAkv5jbwCUzo04-rNymNkpTPfy77DjiIjIdk3Q-aPEUagM1RD7fCBdNWHiW-0S4AYTMK94k9TCpVrmBhcksGRCyAO4IV13jPdSka8kzM9WhBvW",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFya-REb4K9J16nTdbxvoORyrKa54q0PmN87GGc-KVQ5gp6Mb0",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://cbsaustin.com/resources/media/b120c63b-fa3c-4321-8f31-0084cfbf8859-jumbo16x9_160519_ap_Mideast_Egypt_Plane_26.jpg?1463704546124",
+        "image_width": 743,
+        "image_height": 1320
+      },
+      "webpage": {
+        "text": "Amid EgyptAir tragedy, is it time to rethink safety in the skies?\n\nWASHINGTON (Sinclair Broadcast Group) — Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea.\n\n\nIt's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel.\n\n\nWhen disaster strikes it's a natural reaction, to try to diagnose the problem, and then work to find a solution. Another plane crash has led to some people asking if there should be a second line of defense for when there's trouble in the cockpit, like giving air traffic controllers the power to step in to assist if there's a mechanical issue, a terrorist or a pilot gone rogue.\n\nRELATED |Greece: Debris found in sea is not from missing EgyptAir plane\n\nRep. Bill Johnson (R-Ohio), a former pilot himself, said Thursday he's willing to listen to all ideas.\n\n\"We have a responsibility to hold hearings, to listen to the technology folks out in the sector and let them tell us how this could be used,\" he said.\n\nBut former Air Force Fighter Pilot JV Venerable said technology enhancements should be focused on improving screening, not giving control of a plane to anyone other than the pilots.\n\n\"You have two people on board an airplane and one goes bad the other one is supposed to be able to take control if one has a heart attack if one has a seizure than the other one should be able to safely land the aircraft,\" said Venerable, who now works with The Heritage Foundation.\n\nPilot and aviation expert Dan Elwell warned giving Air Traffic Controllers a way to step in could be vulnerable to hacking and to bad apples as well, adding that a few problems shouldn't warrant a complete overhaul.\n\n\"Flying today is already the safest form of transportation there is,\" Elwell said. \"It's such a rare occurrence you don't want the cure to be worse than the disease.\"",
+        "metadata": {
+          "title": "Amid EgyptAir tragedy, is it time to rethink safety in the skies?",
+          "description": "Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea.It's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel.When disaster strikes it's a na",
+          "fb:app_id": "929072230510712",
+          "og:title": "Amid EgyptAir tragedy, is it time to rethink safety in the skies?",
+          "og:description": "Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea.It's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel.When disaster strikes it's a na",
+          "og:url": "https://cbsaustin.com/news/nation-world/amid-egyptair-tragedy-is-it-time-to-rethink-safety-in-the-skies",
+          "og:site_name": "KEYE",
+          "og:locale": "en_US",
+          "og:image": "https://cbsaustin.com/resources/media/f2351996-a988-42c6-a39d-97a98e61ada6-jumbo16x9_160519_ap_Mideast_Egypt_Plane__11.jpg?1463705037142",
+          "og:image:height": "675",
+          "og:image:width": "1200",
+          "og:type": "article",
+          "article:published_time": "2016-05-20T00:50:18.000Z",
+          "article:modified_time": "2016-05-20T00:50:18.000Z",
+          "article:author": "Kristine Frazao, Sinclair Broadcast Group",
+          "twitter:title": "Amid EgyptAir tragedy, is it time to rethink safety in the skies?",
+          "twitter:description": "Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea.It's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel.When disaster strikes it's a na"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "author": {
+            "@type": "Person",
+            "name": "Kristine Frazao, Sinclair Broadcast Group"
+          },
+          "description": "Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea.It's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel.When disaster strikes it's a na",
+          "headline": "Amid EgyptAir tragedy, is it time to rethink safety in the skies?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "KEYE",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://cbsaustin.com/resources/assets/keye/images/logos/keye-logo.svg"
+            }
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "xpath": [
+              "//div[contains(@class, 'StoryText_storyText')]//p"
+            ]
+          },
+          "thumbnailUrl": "https://cbsaustin.com/resources/media/f2351996-a988-42c6-a39d-97a98e61ada6-jumbo16x9_160519_ap_Mideast_Egypt_Plane__11.jpg?1463705037142",
+          "wordCount": 313,
+          "image": [
+            {
+              "@type": "ImageObject",
+              "caption": "This is a April 2014 image of an EgyptAir Airbus A320 with the registration SU-GCC taking off from Istanbul AtatÃ?Â¼rk Airport, Turkey. Egyptian aviation officials said on Thursday May 19, 2016 that an EgyptAir flight MS804 with the registration SU-GCC, travelling from Paris to Cairo with 66 passengers and crew on board has crashed. The officials say the search is now underway for the debris. (AP Photo/ Ahmet Akin Diler)",
+              "url": "https://cbsaustin.com/resources/media/f2351996-a988-42c6-a39d-97a98e61ada6-jumbo16x9_160519_ap_Mideast_Egypt_Plane__11.jpg?1463705037142",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "FILE - In this Tuesday, March 29, 2016, file photo, the hijacked aircraft of Egyptair after landing at Larnaca airport, Cyprus.  A similar Airbus A320 EgyptAir plane from Paris to Cairo carrying 66 people disappeared from radar early Thursday morning, the airline said. EgyptAir Flight 804 was lost from radar at 2:45 a.m. local time when it was flying at 37,000 feet, the airline said. It said the Airbus A320 had vanished 10 miles (16 kilometers) after it entered Egyptian airspace. (AP Photo/Petros Karadjias, File)",
+              "url": "https://cbsaustin.com/resources/media/b120c63b-fa3c-4321-8f31-0084cfbf8859-jumbo16x9_160519_ap_Mideast_Egypt_Plane_26.jpg?1463704546124",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "This is a Jan 2015 image of  EgyptAir Airbus A320 with the registration SU-GCC in the air near Zaventem airport in Brussels.  Egyptian aviation officials said on Thursday May 19, 2016 that an EgyptAir flight MS804 with the registration SU-GCC, travelling from Paris to Cairo with 66 passengers and crew on board has crashed. The officials say the search is now underway for the debris.(AP Photo/Kevin Cleynhens)",
+              "url": "https://cbsaustin.com/resources/media/d9a7f1aa-3781-4473-b287-f8eb63262ac5-jumbo16x9_160519_ap_Mideast_Egypt_Plane_13.jpg?1463704551059",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "This is a April 2014 image of an EgyptAir Airbus A320 with the registration SU-GCC taking off from Istanbul AtatÃ?Â¼rk Airport, Turkey. Egyptian aviation officials said on Thursday May 19, 2016 that an EgyptAir flight MS804 with the registration SU-GCC, travelling from Paris to Cairo with 66 passengers and crew on board has crashed. The officials say the search is now underway for the debris. (AP Photo/ Ahmet Akin Diler)",
+              "url": "https://cbsaustin.com/resources/media/f2351996-a988-42c6-a39d-97a98e61ada6-jumbo16x9_160519_ap_Mideast_Egypt_Plane__11.jpg?1463705037142",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "A frosted glass partition is seen at the EgyptAir counter at Charles de Gaulle Airport outside Paris, France, Thursday, May 19, 2016.  EgyptAir said a flight from Paris to Cairo disappeared from radar early Thursday morning. (AP Photo/Raphael Satter)",
+              "url": "https://cbsaustin.com/resources/media/9cb27603-7109-483d-aa7d-c96ca8adf820-jumbo16x9_160519_ap_France_Egypt_Plane_33.jpg?1463704545983",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "Egyptians gather outside the arrivals section of Cairo International Airport, Egypt, Thursday, May 19, 2016. An EgyptAir flight from Paris to Cairo carrying 66 people disappeared from radar early Thursday morning, the airline said. (AP Photo/Amr Nabil)",
+              "url": "https://cbsaustin.com/resources/media/ade5eda6-7652-4793-ad0d-e8205abb30cb-jumbo16x9_160519_ap_Mideast_Egypt_Plane__32.jpg?1463704546288",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "FILE - In this Tuesday, March 29, 2016, file photo, passengers leave the hijacked aircraft of Egyptair after landing at Larnaca airport, Cyprus.  A similar Airbus A320 EgyptAir plane from Paris to Cairo carrying 66 people disappeared from radar early Thursday morning, the airline said. EgyptAir Flight 804 was lost from radar at 2:45 a.m. local time when it was flying at 37,000 feet, the airline said. It said the Airbus A320 had vanished 10 miles (16 kilometers) after it entered Egyptian airspace. (AP Photo/Petros Karadjias, File)",
+              "url": "https://cbsaustin.com/resources/media/a866224d-68fd-445e-b758-c23413f7c5a3-jumbo16x9_160519_ap_Mideast_Egypt_Plane_27.jpg?1463704546058",
+              "width": "1200",
+              "height": "675"
+            },
+            {
+              "@type": "ImageObject",
+              "caption": "The Egyptair logo is seen at the arrivals section of Cairo International Airport, Egypt, Thursday, May 19, 2016. An EgyptAir flight from Paris to Cairo carrying 66 people disappeared from radar early Thursday morning, the airline said. (AP Photo/Amr Nabil)",
+              "url": "https://cbsaustin.com/resources/media/c1c33e3c-7fb4-451c-b768-009c0786a53d-jumbo16x9_160519_ap_Mideast_Egypt_Plane__31.jpg?1463704546663",
+              "width": "1200",
+              "height": "675"
+            }
+          ],
+          "mainEntityOfPage": {
+            "@id": "https://cbsaustin.com/news/nation-world/amid-egyptair-tragedy-is-it-time-to-rethink-safety-in-the-skies",
+            "@type": "WebPage",
+            "name": "Amid EgyptAir tragedy, is it time to rethink safety in the skies?"
+          },
+          "url": "https://cbsaustin.com/news/nation-world/amid-egyptair-tragedy-is-it-time-to-rethink-safety-in-the-skies",
+          "articleBody": "Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea. It's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel. When disaster strikes it's a natural reaction, to try to diagnose the problem, and then work to find a solution. Another plane crash has led to some people asking if there should be a second line of defense for when there's trouble in the cockpit, like giving air traffic controllers the power to step in to assist if there's a mechanical issue, a terrorist or a pilot gone rogue. RELATED | Greece: Debris found in sea is not from missing EgyptAir plane Rep. Bill Johnson (R-Ohio), a former pilot himself, said Thursday he's willing to listen to all ideas. \"We have a responsibility to hold hearings, to listen to the technology folks out in the sector and let them tell us how this could be used,\" he said. But former Air Force Fighter Pilot JV Venerable said technology enhancements should be focused on improving screening, not giving control of a plane to anyone other than the pilots. \"You have two people on board an airplane and one goes bad the other one is supposed to be able to take control if one has a heart attack if one has a seizure than the other one should be able to safely land the aircraft,\" said Venerable, who now works with The Heritage Foundation. Pilot and aviation expert Dan Elwell warned giving Air Traffic Controllers a way to step in could be vulnerable to hacking and to bad apples as well, adding that a few problems shouldn't warrant a complete overhaul. \"Flying today is already the safest form of transportation there is,\" Elwell said. \"It's such a rare occurrence you don't want the cure to be worse than the disease.\"",
+          "articleSection": "Nation & World",
+          "keywords": "news, politics, nation and world, nation & world, root, nation world, the buzz, connect to congress",
+          "dateModified": "2016-05-19T20:50:18.000-04:00",
+          "datePublished": "2016-05-19T20:50:18.000-04:00",
+          "video": {
+            "@type": "VideoObject",
+            "embedUrl": "/resources/mp4s/ca4c5929-a324-4fd4-a5e4-dbdc604d1f62-SBG_national_air_control.mp4",
+            "name": "Mideast Egypt Plane",
+            "duration": "PT1M49S",
+            "description": "Late Wednesday night, an EgyptAir flight traveling from Paris to Cairo disappeared over the Mediterranean Sea.It's unclear what exactly led to its crash, but the disaster has experts questioning the safety of aviation travel.When disaster strikes it's a na",
+            "thumbnailUrl": "https://sinclair-vod-assets.sinclairstoryline.com/066623375e584d598d340bf44dc75c76/thumbnails/poster.jpg",
+            "uploadDate": "2016-05-19T20:50:18.000-04:00"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un vol d'EgyptAir voyageant de Paris au Caire a disparu au-dessus de la mer Méditerranée tard mercredi soir, suscitant des interrogations sur la sécurité de l'aviation. Des experts débattent de la mise en place d'une deuxième ligne de défense permettant aux contrôleurs aériens d'intervenir en cas de problème dans le cockpit. Le représentant Bill Johnson, l'ancien pilote de chasse de l'Armée de l'air JV Venerable et l'expert en aviation Dan Elwell ont exprimé divers points de vue sur l'amélioration des contrôles et la sécurité des vols.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Bill Johnson",
+          "JV Venerable",
+          "Dan Elwell"
+        ],
+        "LOCATION": [
+          "Paris",
+          "Cairo",
+          "Mediterranean Sea",
+          "Greece",
+          "Ohio"
+        ],
+        "ORGANIZATION": [
+          "EgyptAir",
+          "CBS Austin",
+          "Sinclair Broadcast Group",
+          "The Heritage Foundation"
+        ],
+        "DATE": [
+          "Wednesday",
+          "Thursday"
+        ],
+        "EVENT": [
+          "EgyptAir tragedy"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.76657966813716
+    },
+    {
+      "titre": "Porwanie samolotu EgyptAir: znów ucierpi turystyka - rp.pl",
+      "source": "Rzeczpospolita",
+      "lien": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka",
+      "image_url": "https://i.gremicdn.pl/image/free/bd7d78c96ed1cccc7cee3999256101e6/?t=resize:fill:600:375,enlarge:1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3a49zNT3uuCOO-cG_yofrqZmjOO9yr8qXQzmpP3PuC96VvabM",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Porwanie samolotu EgyptAir: znów ucierpi turystyka - rp.pl",
+        "link": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka",
+        "source": "Rzeczpospolita",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ5dCZt2ZX2FLS-yzTQ0jw8CzgbCNqir2Th7z32zP_UWhTztxvqReg_ObManvXqo64NvhBuUQG8Qvbb6SEPtHb2BZiop3JMnd-8FZR3cXk",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3a49zNT3uuCOO-cG_yofrqZmjOO9yr8qXQzmpP3PuC96VvabM",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://i.gremicdn.pl/image/free/bd7d78c96ed1cccc7cee3999256101e6/?t=resize:fill:600:375,enlarge:1",
+        "image_width": 375,
+        "image_height": 600
+      },
+      "webpage": {
+        "text": "Porwanie samolotu EgyptAir: znów ucierpi turystyka\n\nRejsowy samolot egipskich linii EgyptAir, który miał wykonać lot na trasie Aleksandria Kair, został porwany i wylądował w Larnace na Cyprze.\n\n\nNa pokładzie lotu MS 181 było 81 osób — podały agencje prasowe.\n\nWładze cypryjskie natychmiast zamknęły lotnisko, a wszystkie samoloty, które miały tam lądować zostały skierowane do lotniska w Pafos.\n\nOmar al- Gammal, pilot Airbusa 320 zastosował się do rozkazów porywacza po tym, jak dowiedział się, że ma on na sobie „pas szahida” i w każdej chwili może dojść do wybuchu. O zamachowcy początkowo wiadomo było, że jest Egipcjaninem, nazywa się Ibrahim Samaha, ma 40 lat. Potem okazało się, że jest Libańczykiem, profesorem weterynarii Uniwersytetu w Aleksandrii, a porwanie samolotu wydało mu się jedynym sposobem na doprowadzenie do spotkania z byłą żoną Cypryjką Mariną Paraszko. — To nie terrorysta, tylko idiota — powiedział prezydent Cypru Nikos Anastasides.\n\nSamolot po wylądowaniu w Larnace pozostawał na pozycji oddalonej od terminala pasażerskiego. Wkrótce po wylądowaniu 63 pasażerów narodowości egipskiej zostało uwolnionych, a na pokładzie maszyny pozostali członkowie załogi oraz 18 cudzoziemców — 8 Brytyjczyków i 10 Amerykanów. Po negocjacjach zwolnieni zostali także członkowie załogi i cudzoziemcy. Wcześniej Izrael natychmiast zdecydował o poderwanie swoich myśliwców, więc nawet gdyby zamachowiec chciał zmusić kapitana do dalszego lotu, samolot miałby bardzo ograniczone możliwości wyboru trasy. Musiałby też wcześniej zatankować.\n\nNie wiadomo, czy porywacz rzeczywiście miał pas szahida. Gdyby tak rzeczywiście było, bądź nawet okazałby się on jedynie atrapą byłaby to kolejna kompromitacja egipskich lotniskowych służb bezpieczeństwa, które wcześniej nie zauważyły przemycenia ładunku wybuchowego na pokład rosyjskiego Metrojeta odlatującego z Szarm el Szejk, bądź wręcz współpracowały z zamachowcami. Wiadomo również, że Aleksandria zawsze była szczelnie chronionym lotniskiem, ponieważ podobnie jak kurorty nad Zatoką Akaba i Morzem Czerwonym jest ważnym ośrodkiem turystycznym.\n\nJakikolwiek nie byłby motyw porywacza (porywaczy) wydarzył się on w możliwie najgorszym dla Egiptu momencie — bliskiego szczytu przyjazdów turystycznych i tak mocno ograniczonych przez katastrofę Metrojeta w której zginęły 224 osoby. Egipskie władze wówczas próbowały zrzucić winę na rosyjskich pilotów i upierały się, że nie był to zamach terrorystyczny. Ostatecznie przyznały, że był to akt terroru, ale oficjalnego raportu jeszcze nie ma. Natomiast Rosjanie i Brytyjczycy nakazały swoim biurom turystycznym wycofanie z katalogów oferty egipskiej. Teraz okazuje się, że wzmocnienie kontroli na egipskich lotniskach nadal jest niewystarczające.\n\nSam EgyptAir na swoim koncie jedną katastrofę. 31 października 1999 roku Boeing 767-366 wykonujący rejs MS 990, który leciał z Nowego Jorku do Kairu spadł do Atlantyku w pobliżu wyspy Nantucket. załoga nie zgłaszała żadnych kłopotów, mimo to maszyna wtedy zniknęła z radarów. Dopiero po zbadaniu nagrań na czarnej skrzynce okazało się, że podobnie jak to było w przypadku niemieckiej linii Germanwings, drugi pilot Gameel Al-Bataoui, którzy na jakiś czas przejął stery skierował lot prosto do oceanu. Wcześniej odmówił kilkakrotnie modlitwy za zmarłych. Miał to być jego ostatni lot ponieważ wcześniej wykryto, że ma problemy psychiczne, które dyskwalifikują go jako pilota. Zginęło wówczas 217 osób.\n\nEgyptAir jest największą linią lotniczą na Bliskim Wschodzie, posiada także najnowocześniejszą flotę składającą się z Airbusów 320 oraz Airbusów 330-300 — łącznie 81 maszyn. Linia znana jest z wysokiej jakości serwisu pokładowego. W lipcu 2008 EgyptAir wstąpiły do Star Alliance, sojuszu lotniczego, do którego należy dzisiaj 28 linii lotniczych, w tym Lufthansa i LOT.",
+        "metadata": {
+          "title": "Porwanie samolotu EgyptAir: znów ucierpi turystyka - rp.pl",
+          "description": "Rejsowy samolot egipskich linii EgyptAir, który miał wykonać lot na trasie Aleksandria Kair, został porwany i wylądował w Larnace na Cyprze.",
+          "twitter:title": "Porwanie samolotu EgyptAir: znów ucierpi turystyka",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://i.gremicdn.pl/image/free/bd7d78c96ed1cccc7cee3999256101e6/?t=resize:fill:1200:750,enlarge:1",
+          "og:title": "Porwanie samolotu EgyptAir: znów ucierpi turystyka",
+          "og:description": "Rejsowy samolot egipskich linii EgyptAir, który miał wykonać lot na trasie Aleksandria Kair, został porwany i wylądował w Larnace na Cyprze.",
+          "og:type": "article",
+          "og:image": "https://i.gremicdn.pl/image/free/bd7d78c96ed1cccc7cee3999256101e6/?t=resize:fill:1200:750,enlarge:1",
+          "og:image:width": "1200",
+          "og:image:height": "750",
+          "og:url": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka",
+          "og:locale": "pl",
+          "og:site_name": "Rzeczpospolita",
+          "fb:app_id": "786106711492826",
+          "fb:pages": "113356018705476",
+          "fb:admin": "100013651879855",
+          "mrf:sections": "Ekonomia",
+          "mrf:tags": "source:ekonomia.rp.pl"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "name": "Porwanie samolotu EgyptAir: znów ucierpi turystyka - rp.pl",
+          "url": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka",
+          "headline": "Porwanie samolotu EgyptAir: znów ucierpi turystyka",
+          "description": "Rejsowy samolot egipskich linii EgyptAir, który miał wykonać lot na trasie Aleksandria Kair, został porwany i wylądował w Larnace na Cyprze.",
+          "keywords": "Transport",
+          "articleSection": "Transport",
+          "datePublished": "2016-03-29T10:19:00+02:00",
+          "dateCreated": "2016-03-29T10:19:00+02:00",
+          "dateModified": "2016-03-29T10:19:00+02:00",
+          "isAccessibleForFree": false,
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "Rzeczpospolita - dostęp podstawowy",
+            "productID": "rp.pl:podstawowy"
+          },
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".articleBody"
+          },
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Danuta Walewska",
+              "url": "https://www.rp.pl/autor/15111-danuta-walewska"
+            }
+          ],
+          "creator": [
+            {
+              "@type": "Person",
+              "name": "Danuta Walewska",
+              "url": "https://www.rp.pl/autor/15111-danuta-walewska"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Rzeczpospolita",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.rp.pl/img/logo_big.png",
+              "width": 2000,
+              "height": 1125
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "name": "Porwanie samolotu EgyptAir: znów ucierpi turystyka",
+            "url": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka",
+            "breadcrumb": {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Rzeczpospolita - Najważniejsze wiadomości z Polski i ze świata",
+                  "item": "https://www.rp.pl/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Ekonomia",
+                  "item": "https://www.rp.pl/ekonomia"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Biznes",
+                  "item": "https://www.rp.pl/ekonomia/biznes"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Transport",
+                  "item": "https://www.rp.pl/ekonomia/biznes/transport"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 5,
+                  "name": "Porwanie samolotu EgyptAir: znów ucierpi turystyka",
+                  "item": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka"
+                }
+              ]
+            },
+            "thumbnailUrl": "https://www.rp.pl/img/logo.png",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Rzeczpospolita",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.rp.pl/img/logo_big.png",
+                "width": 2000,
+                "height": 1125
+              }
+            },
+            "copyrightHolder": {
+              "@type": "Organization",
+              "name": "Rzeczpospolita",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.rp.pl/img/logo_big.png",
+                "width": 2000,
+                "height": 1125
+              }
+            },
+            "description": "Rejsowy samolot egipskich linii EgyptAir, który miał wykonać lot na trasie Aleksandria Kair, został porwany i wylądował w Larnace na Cyprze.",
+            "keywords": "Transport",
+            "@id": "https://www.rp.pl/transport/art3800761-porwanie-samolotu-egyptair-znow-ucierpi-turystyka"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://i.gremicdn.pl/image/free/bd7d78c96ed1cccc7cee3999256101e6/?t=resize:fill:1200:750,enlarge:1",
+            "width": 1200,
+            "height": 750
+          },
+          "thumbnailUrl": "https://i.gremicdn.pl/image/free/bd7d78c96ed1cccc7cee3999256101e6/?t=resize:fill:600:375,enlarge:1"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un avion d'EgyptAir effectuant la liaison d'Alexandrie au Caire a été détourné et a atterri à Larnaca, à Chypre, avec 81 personnes à bord du vol MS 181. Le pilote Omar al-Gammal a suivi les ordres du pirate de l'air qui prétendait porter un « pas chahid » (ceinture explosive). Le preneur d'otages, initialement identifié comme Ibrahim Samaha, s'est avéré être un Libanais, professeur de vétérinaire à l'Université d'Alexandrie, agissant pour rencontrer son ex-femme chypriote Marina Paraszko. Le président chypriote Nikos Anastasides a qualifié l'acte d'insensé. Les passagers égyptiens ont été rapidement libérés, puis l'équipage et les étrangers après des négociations. L'incident rappelle la catastrophe du Metrojeta à Sharm el-Sheikh et la tragédie du vol MS 990 de Boeing 767-366 le 31 octobre 1999.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Omar al-Gammal",
+          "Ibrahim Samaha",
+          "Marina Paraszko",
+          "Nikos Anastasides"
+        ],
+        "LOCATION": [
+          "Aleksandria",
+          "Kair",
+          "Larnaca",
+          "Cyprus",
+          "Egipt",
+          "Izrael",
+          "Szarm el Szejk",
+          "Zatoka Akaba",
+          "Morze Czerwone",
+          "Rosja",
+          "Wielka Brytania",
+          "Nowy Jork",
+          "Atlantyk",
+          "Nantucket"
+        ],
+        "ORGANIZATION": [
+          "EgyptAir",
+          "Rzeczpospolita",
+          "Airbus",
+          "Boeing"
+        ],
+        "DATE": [
+          "31 października 1999 roku"
+        ],
+        "EVENT": [
+          "Porwanie samolotu EgyptAir",
+          "katastrofa Metrojeta",
+          "rejs MS 990"
+        ],
+        "OTHER": [
+          "MS 181",
+          "Boeing 767-366"
+        ]
+      },
+      "score_e5": 0.8062593004425433
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Larnaca Airport"
+    ],
+    "ORGANIZATION": [
+      "EgyptAir"
+    ],
+    "DATE": [],
+    "EVENT": [
+      "hijacked aircraft of EgyptAir"
+    ],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Larnaca",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Egypt",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sharm El Sheikh",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Alexandria",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "EgyptAir",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "EgyptAir hijack",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "MS181",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nicos Anastasiades",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sharif Fathi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hossam al-Queish",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ibrahim Samaha",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nahla",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cyprus",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cairo",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sinai Peninsula",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Daily Herald",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FlightRadar24",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ONTV",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Middle East News Agency",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CBC TV",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sherif Ismail",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Seif Eddin Mustafa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ioannis Kasoulides",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Farah el-Dabani",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "DW",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al-Arabiya TV",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "dpa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bill Johnson",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "JV Venerable",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dan Elwell",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mediterranean Sea",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greece",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ohio",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CBS Austin",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sinclair Broadcast Group",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Heritage Foundation",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "EgyptAir tragedy",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Omar al-Gammal",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marina Paraszko",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rzeczpospolita",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Airbus",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boeing",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "31 października 1999 roku",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "katastrofa Metrojeta",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Boeing 767-366",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:01:41.888434"
+  }
+}

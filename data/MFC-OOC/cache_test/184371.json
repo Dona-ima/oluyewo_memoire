@@ -1,0 +1,635 @@
+{
+  "id_rumeur": "1511548",
+  "id_image": "184371",
+  "caption": "Turkey s growth is slowing but its rate of expansion would be the envy of most other European economies",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122901/184371.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Move Over Potholes. It's Sinkhole Season",
+      "source": "Colorado Public Radio",
+      "lien": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/",
+      "image_url": "https://wp-cpr.s3.amazonaws.com/uploads/2019/06/ap_080207043227-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcLjPd0QPzZM_4In6bKd2y9IwbZoT_E3wKpM95eYc92DLL0abR",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Move Over Potholes. It's Sinkhole Season",
+        "source": "Colorado Public Radio",
+        "link": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/",
+        "imageUrl": "https://wp-cpr.s3.amazonaws.com/uploads/2019/06/ap_080207043227-1.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcLjPd0QPzZM_4In6bKd2y9IwbZoT_E3wKpM95eYc92DLL0abR"
+      },
+      "webpage": {
+        "text": "Move Over Potholes. It's Sinkhole Season\n\nThe sodden spring around large swaths of Colorado means that potholes are facing some competition for the title of most annoying road maintenance issue this year: Sinkholes are swallowing big chunks of roadway.\n\nWhat's going on? Sinkholes occur when a hollow area below ground level collapses. Those underground voids can appear after failures or breaks in storm drains or mines, or they may be the result of natural underground erosion to soluble bedrock, where water seeps -- or washes -- in, according to the Colorado Geological Survey.\n\nThat makes sinkholes different from potholes, which begin when water seeps into cracks in a road surface and decay the ground immediately beneath. Drivers who travel the same stretch of road each day can often see potholes slowly grow and take shape over time. Sinkholes take shape out of sight a suddenly appear when the ground gives way. They can can swallow whole buildings and cars and cars.\n\nDenver Public Works Spokesperson Heather Burke says her department generally expects a few sinkholes in the late spring and early summer because of the wet weather. Potholes, on the other hand, tend to arrive earlier in the spring during when Colorado experiences freeze-thaw cycles, pushing the road surface upward.\n\nShifts in temperature were particularly harsh on Denver roads this year. Denver Public Works has filled 42 percent more potholes this year than they had at the same time last year, Burke says.\n\nIn Colorado Springs, Farkas has had to divert resources away from planned maintenance projects to fix sinkholes that have blocked traffic or flooded streets, the latest of which appeared on Airport Boulevard on Monday.\n\nThe sinkholes are a distraction from a long list of basic road maintenance issues in Colorado Springs after a rough pothole season earlier this spring. Farkas hopes to tackle the problem by repaving roads, but has said that his staff is hopelessly backlogged. Even without any further street problems, he estimates it would take 67 years to repair all city roads.",
+        "metadata": {
+          "title": "Move Over Potholes. It's Sinkhole Season",
+          "description": "Neighborhoods in Colorado Springs have been plagued by sinkholes caused by failed infrastructure.",
+          "article-author": "Sam Brasch",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Move Over Potholes. It's Sinkhole Season",
+          "og:description": "Neighborhoods in Colorado Springs have been plagued by sinkholes caused by failed infrastructure.",
+          "og:url": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/",
+          "og:site_name": "Colorado Public Radio",
+          "og:image": "https://www.cpr.org/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2019/05/i-70_vail_sinkhole.jpg",
+          "og:image:secure_url": "https://www.cpr.org/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2019/05/i-70_vail_sinkhole.jpg",
+          "og:image:width": "533",
+          "og:image:height": "400",
+          "parsely-title": "Move Over Potholes. It’s Sinkhole Season",
+          "parsely-author": "Sam Brasch"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#article",
+              "isPartOf": {
+                "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/"
+              },
+              "author": {
+                "@id": "https://www.cpr.org/#/schema/person/58f26b9dc63aad3faec84866dd8dce4a"
+              },
+              "headline": "Move Over Potholes. It&#8217;s Sinkhole Season",
+              "datePublished": "2015-07-07T22:10:22+00:00",
+              "dateModified": "2019-06-29T17:43:47+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/"
+              },
+              "wordCount": 606,
+              "publisher": {
+                "@id": "https://www.cpr.org/#organization"
+              },
+              "image": {
+                "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#primaryimage"
+              },
+              "thumbnailUrl": "https://wp-cpr.s3.amazonaws.com/uploads/2019/05/i-70_vail_sinkhole.jpg",
+              "keywords": [
+                "Sinkholes",
+                "Weather"
+              ],
+              "articleSection": [
+                "News"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/",
+              "url": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/",
+              "name": "Move Over Potholes. It's Sinkhole Season",
+              "isPartOf": {
+                "@id": "https://www.cpr.org/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#primaryimage"
+              },
+              "thumbnailUrl": "https://wp-cpr.s3.amazonaws.com/uploads/2019/05/i-70_vail_sinkhole.jpg",
+              "datePublished": "2015-07-07T22:10:22+00:00",
+              "dateModified": "2019-06-29T17:43:47+00:00",
+              "description": "Neighborhoods in Colorado Springs have been plagued by sinkholes caused by failed infrastructure.",
+              "breadcrumb": {
+                "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#primaryimage",
+              "url": "https://wp-cpr.s3.amazonaws.com/uploads/2019/05/i-70_vail_sinkhole.jpg",
+              "contentUrl": "https://wp-cpr.s3.amazonaws.com/uploads/2019/05/i-70_vail_sinkhole.jpg",
+              "width": 533,
+              "height": 400,
+              "caption": "Sinkhole caused by a collapsed culvert on I-70 near Vail. "
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.cpr.org/2015/07/07/move-over-potholes-its-sinkhole-season/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.cpr.org/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Move Over Potholes. It&#8217;s Sinkhole Season"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.cpr.org/#website",
+              "url": "https://www.cpr.org/",
+              "name": "Colorado Public Radio",
+              "description": "In-Depth News and Streaming Music",
+              "publisher": {
+                "@id": "https://www.cpr.org/#organization"
+              },
+              "alternateName": "Home to CPR News, CPR Classical, Indie and KRCC",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.cpr.org/search/{search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.cpr.org/#organization",
+              "name": "Colorado Public Radio",
+              "alternateName": "CPR News",
+              "url": "https://www.cpr.org/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.cpr.org/#/schema/logo/image/",
+                "url": "https://wp-cpr.s3.amazonaws.com/uploads/2025/07/CPR-Masterbrand-1500x1000-scaled-1.jpg",
+                "contentUrl": "https://wp-cpr.s3.amazonaws.com/uploads/2025/07/CPR-Masterbrand-1500x1000-scaled-1.jpg",
+                "width": 1500,
+                "height": 1000,
+                "caption": "Colorado Public Radio"
+              },
+              "image": {
+                "@id": "https://www.cpr.org/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/ColoradoPublicRadio",
+                "https://x.com/cprnews",
+                "https://www.instagram.com/newscpr/",
+                "https://bsky.app/profile/coloradopublic.bsky.social"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.cpr.org/#/schema/person/58f26b9dc63aad3faec84866dd8dce4a",
+              "name": "Sam Brasch",
+              "description": "Sam Brasch covers climate and the environment for CPR News. Sam came to CPR in 2015 as the recipient of the organization’s first news fellowship. Education: Bachelor’s degree in history and philosophy, Colorado College. Professional background: Sam came to Colorado Public Radio in 2015 as the recipient of the organization’s first news fellowship. The year-long position allowed him to hone his journalistic skills working alongside CPR reporters, producers and editors. Following his fellowship, Sam was awarded an 11-Hour Food and Farming Journalism Fellowship from the University of California Berkeley where we worked with mentors like Michael Pollan to produce a radio documentary on kosher slaughter practices. Sam rejoined Colorado Public Radio in 2016 as a contract reporter where he filled in for newscasts, reported on the state legislature and supported long-term feature stories and interviews for “Colorado Matters.” Before his career in broadcast journalism, Sam worked for Modern Farmer Magazine where he wrote articles on goat towers and lambie jammies, and promoted the magazine's work on social media.",
+              "url": "https://www.cpr.org/author/sam-brasch/"
+            }
+          ]
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Au Colorado, la saison des dolines (sinkholes) et des nids-de-poule perturbe l'entretien des routes au printemps et en été, avalant de grands morceaux de chaussée. Les dolines se forment lorsque des zones creuses souterraines s'effondrent à cause de défaillances de canalisations, de mines ou d'érosion naturelle du substrat rocheux. À Denver, le service des travaux publics a rempli 42 % de nids-de-poule en plus par rapport à l'année précédente en raison de cycles de gel-dégel. À Colorado Springs, des ressources ont dû être détournées pour réparer des dolines bloquant la circulation, notamment sur Airport Boulevard.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Heather Burke",
+          "Farkas"
+        ],
+        "LOCATION": [
+          "Colorado",
+          "Denver",
+          "Colorado Springs",
+          "Airport Boulevard"
+        ],
+        "ORGANIZATION": [
+          "Colorado Public Radio",
+          "Colorado Geological Survey",
+          "Denver Public Works"
+        ],
+        "DATE": [
+          "2015/07/07",
+          "late spring",
+          "early summer",
+          "this year",
+          "Monday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Sinkhole",
+          "pothole"
+        ]
+      },
+      "score_e5": 0.6776540076051966
+    },
+    {
+      "titre": "Sinkhole shuts I-25 at I-70 – The Denver Post",
+      "source": "The Denver Post",
+      "lien": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/",
+      "image_url": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207___JPL1045p1.jpg?w=600",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHseTLLKL3u7DC70PAK0J3T3ocb5Kh9_ffR4gk9YgFz6heN78H",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Sinkhole shuts I-25 at I-70 – The Denver Post",
+        "source": "The Denver Post",
+        "link": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/",
+        "imageUrl": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207___JPL1045p1.jpg?w=600",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHseTLLKL3u7DC70PAK0J3T3ocb5Kh9_ffR4gk9YgFz6heN78H"
+      },
+      "webpage": {
+        "text": "Sinkhole shuts I-25 at I-70 – The Denver Post\n\nNorthbound Interstate 25 between Interstate 70 and 58th Avenue closed this afternoon after five-foot-diameter water main burst under the highway near 58th Avenue.\n\nAt one point this evening, northbound traffic was backed-up south all the way down I-25 to University Boulevard.\n\nRush-hour traffic is being diverted over to Washington Street to the east and Federal Boulevard to the west. Some traffic is using the two-lane HOV lanes without being charged a fee.\n\nNo one was injured when the pipe burst around 3 p.m. but one nearby business suffered some damage.\n\nMore than 2 million gallons of water gushed out, causing the highway roadbed to develop a sink hole estimated at 40 feet by 40 feet and as much as 16 feet deep.\n\nCDOT spokeswoman Stacy Stegman said that the interstate would definitely be closed overnight.\n\n“This is a big one,” she said.\n\nShe said the sinkhole was twice as big as one that closed Interstate 70 near Vail for three days in 2003.\n\nBrian Good, director of operations and maintenance for Denver Water, said at an evening press conference “our goal is to have the repairs completed by rush hour (Friday).”\n\nGood said the break was caused by overpressurization of the line after a pump failed and shut down in an emergency situation.\n\nDenver Water said no one should lose their water service, although some may experience low water pressure. If there is an outage, customers should call Denver Water at (303) 628-6000.\n\nThe same pipe broke in 1997 about 100 yards to the west on the other side of the highway, causing flooding and significant damage. Clean up and repairs took three days.\n\nSince then, Good said, the line has been inspected four times and more than a mile of it has been replaced.\n\nThe conduit was installed in 1978. Good said that age was not a factor in the break, since the line can last up to 100 years.\n\nGood said the concrete transmission line will be repaired with steel.",
+        "metadata": {
+          "title": "Sinkhole shuts I-25 at I-70 &#8211; The Denver Post",
+          "mrf:authors": "Joey Bunch;Mike McPhee",
+          "mrf:canonical": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/",
+          "fb:pages": "125138604186136",
+          "og:type": "article",
+          "og:title": "Sinkhole shuts I-25 at I-70",
+          "og:url": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/",
+          "og:description": "Sinkhole shuts I-25 at I-70",
+          "article:published_time": "2008-02-07T21:43:36+00:00",
+          "article:modified_time": "2016-05-08T02:38:12+00:00",
+          "og:site_name": "The Denver Post",
+          "og:image": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=600&h=400",
+          "og:image:width": "600",
+          "og:image:height": "400",
+          "og:locale": "en_US",
+          "twitter:text:title": "Sinkhole shuts I-25 at I-70"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Sinkhole shuts I-25 at I-70",
+          "url": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/"
+          },
+          "thumbnailUrl": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.denverpost.com/wp-content/uploads/2016/05/20080207_064947_cd07sinkhole.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "News",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Joey Bunch",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.denverpost.com/author/joey-bunch/"
+            },
+            {
+              "@type": "Person",
+              "name": "Mike McPhee",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.denverpost.com/author/mike-mcphee/"
+            }
+          ],
+          "creator": [
+            "Joey Bunch",
+            "Mike McPhee"
+          ],
+          "publishingPrinciples": "https://www.denverpost.com/policies-and-standards/",
+          "publisher": {
+            "@type": "Organization",
+            "name": "The Denver Post",
+            "logo": "https://www.denverpost.com/wp-content/uploads/2020/11/denverpost.jpg?w=600"
+          },
+          "keywords": [
+            "news"
+          ],
+          "dateCreated": "2008-02-07T21:43:36Z",
+          "datePublished": "2008-02-07T21:43:36Z",
+          "dateModified": "2016-05-08T02:38:12Z",
+          "isBasedOn": "https://www.denverpost.com/2008/02/07/sinkhole-shuts-i-25-at-i-70/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une importante rupture de canalisation d'eau de cinq pieds de diamètre s'est produite sous l'autoroute, entraînant la fermeture de l'Interstate 25 en direction nord entre l'Interstate 70 et la 58e Avenue à Denver. Plus de 2 millions de gallons d'eau ont jailli, créant une doline de 40 pieds sur 40 pieds et profonde de 16 pieds. La rupture a été causée par une surpression de la ligne après la panne d'une pompe. Aucun blessé n'a été déploré, mais un commerce voisin a subi des dommages et la circulation a été détournée.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Stacy Stegman",
+          "Brian Good"
+        ],
+        "LOCATION": [
+          "Interstate 25",
+          "Interstate 70",
+          "58th Avenue",
+          "University Boulevard",
+          "Washington Street",
+          "Federal Boulevard",
+          "Vail",
+          "Denver"
+        ],
+        "ORGANIZATION": [
+          "The Denver Post",
+          "CDOT",
+          "Denver Water"
+        ],
+        "DATE": [
+          "2008/02/07",
+          "this afternoon",
+          "this evening",
+          "3 p.m.",
+          "Friday",
+          "2003",
+          "1997",
+          "1978"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "HOV lanes",
+          "water main"
+        ]
+      },
+      "score_e5": 0.6670285587538517
+    },
+    {
+      "titre": "18-wheeler crash blocks I-635 lanes in Garland, prompts hazmat response - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=_JxuNwkHBf4",
+      "image_url": "https://i.ytimg.com/vi/_JxuNwkHBf4/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTduprkkq7YdGUAmKoIXankNLgWpgw8wXbBrGHOkuJ4ROqwEYT9",
+      "rang_lens": 3,
+      "brut": {
+        "title": "18-wheeler crash blocks I-635 lanes in Garland, prompts hazmat response - YouTube",
+        "source": "YouTube",
+        "link": "https://www.youtube.com/watch?v=_JxuNwkHBf4",
+        "imageUrl": "https://i.ytimg.com/vi/_JxuNwkHBf4/sddefault.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTduprkkq7YdGUAmKoIXankNLgWpgw8wXbBrGHOkuJ4ROqwEYT9"
+      },
+      "webpage": {
+        "text": "18-wheeler crash blocks I-635 lanes in Garland, prompts hazmat response\n\nWFAA\n\nAn 18-wheeler crashed into a concrete wall along I-635 in Garland on Thursday morning, blocking lanes of traffic and prompting a hazmat response.",
+        "metadata": {
+          "title": "18-wheeler crash blocks I-635 lanes in Garland, prompts hazmat response",
+          "description": "An 18-wheeler crashed into a concrete wall along I-635 in Garland on Thursday morning, blocking lanes of traffic and prompting a hazmat response.",
+          "keywords": "traffic ]",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=_JxuNwkHBf4",
+          "og:title": "18-wheeler crash blocks I-635 lanes in Garland, prompts hazmat response",
+          "og:image": "https://i.ytimg.com/vi/_JxuNwkHBf4/hqdefault.jpg",
+          "og:image:width": "480",
+          "og:image:height": "360",
+          "og:description": "An 18-wheeler crashed into a concrete wall along I-635 in Garland on Thursday morning, blocking lanes of traffic and prompting a hazmat response.",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=_JxuNwkHBf4&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=_JxuNwkHBf4&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=_JxuNwkHBf4&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/_JxuNwkHBf4",
+          "og:video:secure_url": "https://www.youtube.com/embed/_JxuNwkHBf4",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "traffic ]",
+          "fb:app_id": "87741124305",
+          "twitter:title": "18-wheeler crash blocks I-635 lanes in Garland, prompts hazmat response",
+          "twitter:description": "An 18-wheeler crashed into a concrete wall along I-635 in Garland on Thursday morning, blocking lanes of traffic and prompting a hazmat response."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un camion de 18 roues est entré en collision avec un mur en béton le long de l'I-635 à Garland un jeudi matin, bloquant les voies de circulation et déclenchant une intervention d'urgence pour matières dangereuses (hazmat).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Garland",
+          "I-635"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "WFAA"
+        ],
+        "DATE": [
+          "Thursday morning"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "18-wheeler",
+          "hazmat response"
+        ]
+      },
+      "score_e5": 0.6812592257966984
+    },
+    {
+      "titre": "Drivers react to 35W closing from Burnsville split to I-494 - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=LuaVnWkthDQ",
+      "image_url": "https://i.ytimg.com/vi/VM7AjzBDTkM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPMi-9tRmlCoid-S3_FAXaXte2oA",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Px9fSUQzGEl9y7s5tw3NHqc_q0B8QG8c7CO7aZmrfu_wLgr9",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Drivers react to 35W closing from Burnsville split to I-494 - YouTube",
+        "source": "YouTube",
+        "link": "https://www.youtube.com/watch?v=LuaVnWkthDQ",
+        "imageUrl": "https://i.ytimg.com/vi/VM7AjzBDTkM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPMi-9tRmlCoid-S3_FAXaXte2oA",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Px9fSUQzGEl9y7s5tw3NHqc_q0B8QG8c7CO7aZmrfu_wLgr9"
+      },
+      "webpage": {
+        "text": "Drivers react to 35W closing from Burnsville split to I-494\n\nFOX 9 Minneapolis-St. Paul\n\nDrivers are reacting to the closure of Interstate 35W from the Burnsville split to Interstate 494.FOX 9 is your source for breaking news, weather forecasts a...",
+        "metadata": {
+          "title": "Drivers react to 35W closing from Burnsville split to I-494",
+          "description": "Drivers are reacting to the closure of Interstate 35W from the Burnsville split to Interstate 494.FOX 9 is your source for breaking news, weather forecasts a...",
+          "keywords": "news, minnesota news, minneapolis news, latest news, fox 9, fox 9 news, twin cities news, traffic, 35w closure",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=LuaVnWkthDQ",
+          "og:title": "Drivers react to 35W closing from Burnsville split to I-494",
+          "og:image": "https://i.ytimg.com/vi/LuaVnWkthDQ/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Drivers are reacting to the closure of Interstate 35W from the Burnsville split to Interstate 494.FOX 9 is your source for breaking news, weather forecasts a...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=LuaVnWkthDQ&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=LuaVnWkthDQ&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=LuaVnWkthDQ&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/LuaVnWkthDQ",
+          "og:video:secure_url": "https://www.youtube.com/embed/LuaVnWkthDQ",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "35w closure",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Drivers react to 35W closing from Burnsville split to I-494",
+          "twitter:description": "Drivers are reacting to the closure of Interstate 35W from the Burnsville split to Interstate 494.FOX 9 is your source for breaking news, weather forecasts a..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des conducteurs réagissent à la fermeture de l'Interstate 35W entre la jonction de Burnsville (Burnsville split) et l'Interstate 494.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Interstate 35W",
+          "Burnsville split",
+          "Interstate 494",
+          "Minneapolis-St. Paul"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "FOX 9"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6820823778675286
+    },
+    {
+      "titre": "Traffic backs up as commuters navigate I-95 detours | What to know as crews work at collapse site - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=nW9K1Z-j_-8",
+      "image_url": "https://i.ytimg.com/vi/nW9K1Z-j_-8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGAgZShUMA8=&rs=AOn4CLDG6f3biLpuYA5yY6DACzBbHifbgw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRf4wsNmBCw4FYDO63GDUoTddgq-cAvfooOUV3PvPAtG86QxO",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Traffic backs up as commuters navigate I-95 detours | What to know as crews work at collapse site - YouTube",
+        "source": "YouTube",
+        "link": "https://www.youtube.com/watch?v=nW9K1Z-j_-8",
+        "imageUrl": "https://i.ytimg.com/vi/nW9K1Z-j_-8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGAgZShUMA8=&rs=AOn4CLDG6f3biLpuYA5yY6DACzBbHifbgw",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRf4wsNmBCw4FYDO63GDUoTddgq-cAvfooOUV3PvPAtG86QxO"
+      },
+      "webpage": {
+        "text": "Traffic backs up as commuters navigate I-95 detours | What to know as crews work at collapse site\n\n6abc Philadelphia\n\nOn Tuesday, Chopper 6 showed a huge backlog during the morning and evening commutes on the southbound side of I-95 between Academy Road and Cottman Avenue.Al...",
+        "metadata": {
+          "title": "Traffic backs up as commuters navigate I-95 detours | What to know as crews work at collapse site",
+          "description": "On Tuesday, Chopper 6 showed a huge backlog during the morning and evening commutes on the southbound side of I-95 between Academy Road and Cottman Avenue.Al...",
+          "keywords": "news",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=nW9K1Z-j_-8",
+          "og:title": "Traffic backs up as commuters navigate I-95 detours | What to know as crews work at collapse site",
+          "og:image": "https://i.ytimg.com/vi/nW9K1Z-j_-8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgZShUMA8=&rs=AOn4CLBzxGC9bjRMpQYPs58TNduyJEX73Q",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "On Tuesday, Chopper 6 showed a huge backlog during the morning and evening commutes on the southbound side of I-95 between Academy Road and Cottman Avenue.Al...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=nW9K1Z-j_-8&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=nW9K1Z-j_-8&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=nW9K1Z-j_-8&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/nW9K1Z-j_-8",
+          "og:video:secure_url": "https://www.youtube.com/embed/nW9K1Z-j_-8",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "news",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Traffic backs up as commuters navigate I-95 detours | What to know as crews work at collapse site",
+          "twitter:description": "On Tuesday, Chopper 6 showed a huge backlog during the morning and evening commutes on the southbound side of I-95 between Academy Road and Cottman Avenue.Al..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La circulation est dense et ralentie alors que les navetteurs empruntent des dérogations et des déviations suite à un effondrement. Des embouteillages ont été observés sur la portion sud de l'I-95 entre Academy Road et Cottman Avenue à Philadelphie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Philadelphia",
+          "I-95",
+          "Academy Road",
+          "Cottman Avenue"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "6abc Philadelphia",
+          "Chopper 6"
+        ],
+        "DATE": [
+          "Tuesday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7045246961077346
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Turkey",
+      "Europe"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Denver"
+    ],
+    "ORGANIZATION": [
+      "YouTube"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7045246961077346,
+  "S_ent": 0.0,
+  "S_OOC": 0.3522623480538673,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION"
+  ]
+}

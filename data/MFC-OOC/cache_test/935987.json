@@ -1,0 +1,513 @@
+{
+  "id_rumeur": "935987",
+  "id_image": "935987",
+  "caption": "Fire crews walk down a hillside to battle a wildfire near Granada Hills in Los Angeles on Monday",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122894/935987.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Los Angeles wildfire causes home evacuations in upscale neighborhood | Los Angeles | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/us-news/2015/apr/27/los-angeles-granada-hills-wildfire-homes-evacuated",
+      "image_url": "https://i.guim.co.uk/img/media/60dde0540cbaa07fcd7d1e1a7f560abe330a82fa/0_45_3000_1801/3000.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmNio5uJ9vXth9DlmBxRLNQXNlolxYddrXqeaBrAnlmDa3PD46",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Los Angeles wildfire causes home evacuations in upscale neighborhood | Los Angeles | The Guardian",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2015/apr/27/los-angeles-granada-hills-wildfire-homes-evacuated",
+        "imageUrl": "https://i.guim.co.uk/img/media/60dde0540cbaa07fcd7d1e1a7f560abe330a82fa/0_45_3000_1801/3000.jpg?width=465&dpr=1&s=none&crop=none",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmNio5uJ9vXth9DlmBxRLNQXNlolxYddrXqeaBrAnlmDa3PD46"
+      },
+      "webpage": {
+        "text": "Los Angeles wildfire causes home evacuations in upscale neighborhood | Los Angeles\n\nA wildfire erupted on Monday near an upscale neighborhood of Los Angeles as some 200 firefighters, backed by water-dropping helicopters, fought the flames.\n\nThe blaze erupted shortly before 11am in the Los Angeles foothill community of Granada Hills, fire officials said, quickly charring some 15 acres (6 hectares) of brush left parched by California’s multi-year drought.\n\nThere were no immediate reports of injury or damage to nearby luxury homes as firefighters battled the wind-driven flames as they burned in a nearby canyon, throwing smoke over Los Angeles.\n\nThe Los Angeles fire department said that 10 homes were considered threatened and that those residents had been safely evacuated.\n\nCalifornia is entering its fourth year of a devastating drought that has left brush and wilderness areas bone-dry and prone to wildfires.",
+        "metadata": {
+          "title": "Los Angeles wildfire causes home evacuations in upscale neighborhood | Los Angeles | The Guardian",
+          "description": "Fire department evacuates residents of 10 homes in Granada Hills but no reports of injury or damage as blaze quickly burns 15 acres",
+          "og:url": "http://www.theguardian.com/us-news/2015/apr/27/los-angeles-granada-hills-wildfire-homes-evacuated",
+          "article:author": "Reuters in Los Angeles",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/60dde0540cbaa07fcd7d1e1a7f560abe330a82fa/0_45_3000_1801/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=907218adfab0499a51bb50b4b7dfd019",
+          "al:ios:url": "gnmguardian://us-news/2015/apr/27/los-angeles-granada-hills-wildfire-homes-evacuated?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Los Angeles wildfire causes home evacuations in upscale neighborhood",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-07-14T21:12:39.000Z",
+          "og:image:height": "720",
+          "og:description": "Fire department evacuates residents of 10 homes in Granada Hills but no reports of injury or damage as blaze quickly burns 15 acres",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "US news",
+          "article:published_time": "2015-04-27T21:08:13.000Z",
+          "article:tag": "Los Angeles,Wildfires,California,US news,Natural disasters and extreme weather",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un feu de brousse a éclaté un lundi peu avant 11 heures dans la communauté de contreforts de Los Angeles à Granada Hills, alimenté par la sécheresse pluriannuelle en Californie. Environ 200 pompiers, soutenus par des hélicoptères bombardiers d'eau, ont combattu les flammes. Dix maisons ont été considérées comme menacées et les résidents évacués en toute sécurité. Aucun blessé ni dommage aux maisons de luxe n'a été immédiatement signalé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Los Angeles",
+          "Granada Hills",
+          "California"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Los Angeles fire department"
+        ],
+        "DATE": [
+          "Monday",
+          "2015/04/27"
+        ],
+        "EVENT": [
+          "Los Angeles wildfire"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8181880884863352
+    },
+    {
+      "titre": "California fires: what is happening and is climate change to blame? | California | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/us-news/2018/nov/12/california-fires-latest-what-is-happening-climate-change-trump-response-explained",
+      "image_url": "https://i.guim.co.uk/img/media/cf4e31e146fe1f874907131046f3b1cb46e5ea7e/0_357_5472_3283/master/5472.jpg?width=460&quality=85&auto=format&fit=max&s=750e4713819dda7b2490a6456e4768cc",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcIEfSt9R1Wp5NT-eaTHYclrnKCm9M2ledeF9itGTnXTnaKkAO",
+      "rang_lens": 2,
+      "brut": {
+        "title": "California fires: what is happening and is climate change to blame? | California | The Guardian",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2018/nov/12/california-fires-latest-what-is-happening-climate-change-trump-response-explained",
+        "imageUrl": "https://i.guim.co.uk/img/media/cf4e31e146fe1f874907131046f3b1cb46e5ea7e/0_357_5472_3283/master/5472.jpg?width=460&quality=85&auto=format&fit=max&s=750e4713819dda7b2490a6456e4768cc",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcIEfSt9R1Wp5NT-eaTHYclrnKCm9M2ledeF9itGTnXTnaKkAO"
+      },
+      "webpage": {
+        "text": "California fires: what is happening and is climate change to blame? | California\n\nWhat has happened?\n\nBoth ends of California are aflame, with a trio of disastrous wildfires resulting in at least 31 deaths and thousands of lost homes and businesses.\n\nIn the northern reaches of the state, a conflagration called the Camp fire is now the most destructive and joint most deadly in California’s history, having burned through 111,000 acres, at one point growing so quickly it was eating up a football field-size piece of land every second.\n\nThe fire has wiped out virtually all of Paradise, a town of about 26,000 people around 170 miles north-east of San Francisco. Just a quarter of the fire’s perimeter is contained, which is when it cannot spread further due to a barrier such as a river or a trench dug by firefighters.\n\nFurther south, the Woolsey fire has menaced the Los Angeles area, burning 83,000 acres. Pushed coastwards by the Santa Ana winds, which blow from the north-east, the fire has caused the evacuation of wealthy beach locale Malibu. A mere 20% of the fire is contained. The smaller Hill fire, burning slightly north of the Woolsey fire, has chewed through 4,500 acres.\n\n\nWho has been affected?\n\nThe remains of 29 people have been found in the wake of the Camp fire, making it the most deadly California fire in 85 years. Some were found inside their cars, having been caught while attempting to escape the flames.\n\nTwo people have died in the Woolsey fire, bringing the total death toll to 31. This figure is likely to climb, with more than 200 people missing. A total of 250,000 Californians have been forced to flee their homes; the Camp fire alone has destroyed nearly 7,000 buildings.\n\nA broad spectrum of people have been displaced, from vulnerable, low-income families in Paradise to Hollywood celebrities.\n\nActor Gerard Butler tweeted a picture of himself in front of his charred home, praising the “courage, spirit and sacrifice” of firefighters. The singer Miley Cyrus reported that she lost her home but escaped with her fiance, actor Liam Hemsworth, and their pets. Neil Young also lost his home. Lady Gaga was evacuated.\n\nAn overstretched army of 8,000 firefighters have been battling the flames, their challenge heightened by dry, gusty conditions expected to continue this week.\n\n\nWhat has Donald Trump had to say?\n\nDonald Trump via Twitter, said there was “no reason for these massive deadly and costly forest fires in California except that forest management is so poor. Billions of dollars are given each year, with so many lives lost, all because of gross mismanagement of the forests. Remedy now, or no more Fed payments!”\n\nThe president raised similar criticisms in August when a wildfire threatened the California city of Redding, blaming “bad environmental laws” that allow rivers to “be diverted into the Pacific ocean” rather than fight fires.\n\n\nIs Trump right?\n\nTrump has echoed, in his idiosyncratic way, a familiar Republican charge: that environmental regulations hamper proper management of forests, allowing flammable vegetation to build up and act as fuel for fires.\n\nSeveral ecologists have pointed out that “management” is typically code for logging by industry, whereby large stands of trees that would typically survive a wildfire are removed, leaving behind debris that is often more effective at spreading flames. Logging, therefore, can make forest fires worse.\n\nFire is a natural part of the ecology of California, helping forests clear underbrush, regenerate and spread seeds for the next generation of trees.\n\nHuman factors have changed the equation, however – California’s population is nearing 40 million, adding a more than 300,000 people a year since 2010, with many moving into and developing scenic forest areas that often burn. Experts have said this has increased the risk of deadly encounters with fire.\n\nTrump also appears to overlooked the fact that 60% of the state’s forests are under federal management. The Camp fire started on or near federal land before moving on to private property. Separately, there is no evidence California lacks water to fight fires.\n\n“The president’s message attacking California and threatening to withhold aid to the victims of the cataclysmic fires is ill-informed, ill-timed and demeaning to those who are suffering as well as the men and women on the frontlines,” said Brian K Rice, president of California Professional Firefighters.\n\n“The president’s assertion that California’s forest management policies are to blame for catastrophic wildfire is dangerously wrong. Wildfires are sparked and spread not only in forested areas but in populated areas and open fields fueled by parched vegetation, high winds, low humidity and geography.”\n\n\nIs climate change playing a role?\n\nLarge wildfires require a cocktail of conditions, such as favourable wind speed and direction, fuel, terrain and, of course, ignition, which can be as simple as a trailer throwing up sparks by scraping on a road.\n\nBroadly speaking, however, climate change is making conditions more favourable for wildfires in the American west. Of the 20 largest wildfires in California’s recorded history, 15 have occurred since 2000, at a time when forests have become drier and warmer.\n\nSince 1970, temperatures in the west have increased by about double the global average, lengthening the western wildfire season by several months and drying out large tracts of forests, making them more fire-prone.\n\n“Climate change is increasing the vulnerability of many forests to ecosystem changes and tree mortality through fire, insect infestations, drought and disease outbreaks,” a major climate assessment by the US government states.\n\n“Given strong relationships between climate and fire, even when modified by land use and management such as fuel treatments, projected climate changes suggest that western forests in the United States will be increasingly affected by large and intense fires that occur more frequently,” the report adds, noting that fire suppression techniques have also heightened the risk.\n\n\nWhat happens next?\n\nIn the short term, California is hoping for federal resources to tackle the record fires, with the governor, Jerry Brown, asking Trump to declare the situation a major disaster.\n\nBut at some point California, along with the rest of the west, is going to have to grapple with the challenge of a growing population living in landscapes that will be scarred by ever greater fires as temperatures warm. This may require a rethink around housing developments, regulations on materials used to build homes and fire suppression activities.\n\n“We have to tweak our presence in ways that won’t worsen the firescape, that nudge both city and countryside toward greater resilience, that fire can understand – because it isn’t listening to our rants and reading our tweets,” wrote Stephen Pyne, professor in Arizona State University’s School of Life Sciences.\n\n“Most of all it doesn’t, really doesn’t, care about our pain.”",
+        "metadata": {
+          "title": "California fires: what is happening and is climate change to blame? | California | The Guardian",
+          "description": "The Camp, Woolsey and Hill fires have killed at least 31 and burned through 111,000 acres – what happens next? ",
+          "og:url": "http://www.theguardian.com/us-news/2018/nov/12/california-fires-latest-what-is-happening-climate-change-trump-response-explained",
+          "article:author": "https://www.theguardian.com/profile/oliver-milman",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/12c4bf23fcadbe6641b44bce0354c5e753f913a6/0_263_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=82096c84cebea3755a8fa60e03ad60e8",
+          "al:ios:url": "gnmguardian://us-news/2018/nov/12/california-fires-latest-what-is-happening-climate-change-trump-response-explained?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "California fires: what is happening and is climate change to blame?",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2018-11-12T18:57:36.000Z",
+          "og:image:height": "720",
+          "og:description": "The Camp, Woolsey and Hill fires have killed at least 31 and burned through 111,000 acres – what happens next?",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "US news",
+          "article:published_time": "2018-11-12T18:35:15.000Z",
+          "article:tag": "California,Wildfires,Natural disasters and extreme weather,US news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Plusieurs incendies de forêt désastreux ont frappé la Californie, entraînant au moins 31 morts et des milliers de maisons et d'entreprises détruites. Dans le nord, le Camp fire a brûlé 111 000 acres et a détruit la ville de Paradise près de San Francisco. Plus au sud, le Woolsey fire a menacé la région de Los Angeles, brûlant 83 000 acres et provoquant l'évacuation de Malibu, tandis que le plus petit Hill fire a brûlé 4,500 acres. Au total, 250 000 Californiens ont dû fuir, et 8 000 pompiers ont été mobilisés. Des célébrités comme Gerard Butler, Miley Cyrus, Liam Hemsworth, Neil Young et Lady Gaga ont également été touchées. Le président Donald Trump a réagi sur Twitter en imputant ces incendies à une mauvaise gestion des forêts.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Gerard Butler",
+          "Miley Cyrus",
+          "Liam Hemsworth",
+          "Neil Young",
+          "Lady Gaga",
+          "Donald Trump"
+        ],
+        "LOCATION": [
+          "California",
+          "Paradise",
+          "San Francisco",
+          "Los Angeles",
+          "Malibu",
+          "Redding",
+          "Pacific ocean"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Twitter"
+        ],
+        "DATE": [
+          "2018/11/12",
+          "August",
+          "this week"
+        ],
+        "EVENT": [
+          "Camp fire",
+          "Woolsey fire",
+          "Hill fire"
+        ],
+        "OTHER": [
+          "Santa Ana winds"
+        ]
+      },
+      "score_e5": 0.7643330903852134
+    },
+    {
+      "titre": "California not out of fire danger from lingering winds | WEOL SIMI VALLEY, Calif. (AP) Santa Ana winds were expected to linger for a final day Thursday after driving more than a",
+      "source": "WEOL",
+      "lien": "https://weol.com/news/177012/california-not-out-of-fire-danger-from-lingering-winds/",
+      "image_url": "https://d34okl4jnxrvy2.cloudfront.net/MTS_Beta_Elyria/0/0/0/0/53/72/53072_1",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkhDmDlNBTgbKRm11hh6TdyFxGjnabqUXC7zZy1g5_HNHheic0",
+      "rang_lens": 3,
+      "brut": {
+        "title": "California not out of fire danger from lingering winds | WEOL SIMI VALLEY, Calif. (AP) Santa Ana winds were expected to linger for a final day Thursday after driving more than a",
+        "source": "WEOL",
+        "link": "https://weol.com/news/177012/california-not-out-of-fire-danger-from-lingering-winds/",
+        "imageUrl": "https://d34okl4jnxrvy2.cloudfront.net/MTS_Beta_Elyria/0/0/0/0/53/72/53072_1",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkhDmDlNBTgbKRm11hh6TdyFxGjnabqUXC7zZy1g5_HNHheic0"
+      },
+      "webpage": {
+        "text": "California not out of fire danger from lingering winds\n\nYour session was unable to be renewed and will be expiring in 0 seconds. Click here to attempt to renew your session.",
+        "metadata": {
+          "title": "California not out of fire danger from lingering winds | WEOL SIMI VALLEY, Calif. (AP) Santa Ana winds were expected to linger for a final day Thursday after driving more than a dozen wildfires through California, sending thousands fleeing and burning nearly up to the walls of the Ronald Reagan Presidential Library.",
+          "og:image": "https://d34okl4jnxrvy2.cloudfront.net/MTS_Beta_Elyria/0/0/0/0/53/71/53071_1",
+          "og:image:secure_url": "https://d34okl4jnxrvy2.cloudfront.net/MTS_Beta_Elyria/0/0/0/0/53/71/53071_1",
+          "og:image:width": "500",
+          "og:image:height": "261",
+          "og:type": "article",
+          "og:url": "https://weol.com/news/177012/california-not-out-of-fire-danger-from-lingering-winds/",
+          "og:title": "California not out of fire danger from lingering winds",
+          "og:description": "SIMI VALLEY, Calif. (AP)  Santa Ana winds were expected to linger for a final day Thursday after driving more than a dozen wildfires through California, sending thousands fleeing and burning nearly up to the walls of the Ronald Reagan Presidential Library.",
+          "twitter:title": "California not out of fire danger from lingering winds",
+          "twitter:description": "SIMI VALLEY, Calif. (AP)  Santa Ana winds were expected to linger for a final day Thursday after driving more than a dozen wildfires through California, sending thousands fleeing and burning nearly up to the walls of the Ronald Reagan Presidential Library.",
+          "description": "SIMI VALLEY, Calif. (AP)  Santa Ana winds were expected to linger for a final day Thursday after driving more than a dozen wildfires through California, sending thousands fleeing and burning nearly up to the walls of the Ronald Reagan Presidential Library."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les vents de Santa Ana devaient persister pour une dernière journée jeudi après avoir propulsé des feux en Californie, plaçant l'État en alerte face au danger persistant des vents.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "California",
+          "Simi Valley"
+        ],
+        "ORGANIZATION": [
+          "WEOL",
+          "AP"
+        ],
+        "DATE": [
+          "Thursday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Santa Ana winds"
+        ]
+      },
+      "score_e5": 0.7702498290794881
+    },
+    {
+      "titre": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway – Daily News",
+      "source": "Los Angeles Daily News",
+      "lien": "https://www.dailynews.com/2019/10/30/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/",
+      "image_url": "https://www.dailynews.com/wp-content/uploads/2019/10/LDN-L-EASY-FIRE-1031-DM-002.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yIh0KrHg0b6CSb3Pl0HMYdvSHZzOlkgVAkpm3RycDIkAoqAw",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway – Daily News",
+        "source": "Los Angeles Daily News",
+        "link": "https://www.dailynews.com/2019/10/30/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/",
+        "imageUrl": "https://www.dailynews.com/wp-content/uploads/2019/10/LDN-L-EASY-FIRE-1031-DM-002.jpg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yIh0KrHg0b6CSb3Pl0HMYdvSHZzOlkgVAkpm3RycDIkAoqAw"
+      },
+      "webpage": {
+        "text": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway – Daily News\n\nStoked by unusually fierce winds, a brush fire that broke out in Simi Valley before dawn Wednesday grew to 1,600 acres by early evening, putting thousands of homes in Ventura County in harm’s way, forcing mandatory evacuations and briefly threatening the Ronald Reagan Presidential Library.\n\nThree firefighters were taken to a hospital with symptoms of possible smoke inhalation, officials said. No other injuries were reported.\n\nHours after the Easy fire started, the fast-moving flames pushed west across a freeway, creating more worries for fire crews. By 3 p.m., the fire had jumped the 23 Freeway; video images showed clouds of thick, dark smoke billowing in the air above the hillsides there.\n\nBut officials later said firefighters quickly quelled the threat of the flames that jumped the freeway. Ventura County Fire incident commander John Spykerman said crews immediately got in front of the flames and prevented them from spreading further west.\n\n“If they hadn’t contained it there, the fire could have gone through the entire Santa Rosa Valley,” Spykerman said at a 6 p.m. news conference.\n\nThe fire was among several blazes around Southern California, some of which sparked in recent days, including a fire in Calabasas on Wednesday and the Getty fire that broke out earlier this week and continued to burn. Many others have ignited over the past week across California amid an extremely dangerous mix of heat, strong winds and low humidity.\n\nThe Easy fire ignited at 6:09 a.m.\n\n“Unfortunately it was about the worst time it could happen,” Ventura County Fire Department Chief Mark Lorenzen said. “Forty-mile an hour sustained winds and again fuels that were ripe and ready to carry fire. Fortunately for us and for the community we were prepared.”\n\nThe chief said firefighters augmented resources overnight in preparation for the strong winds.\n\nSo far there was no containment of the blaze and fire officials said the winds continue to push the flames quickly.\n\nThe blaze threatened roughly 6,500 homes, official said. Lorenzen said that some out-buildings had been destroyed and one home off Tierra Rejada Road was burning. No injuries were reported.\n\nAbout 7,000 homes were under evacuation orders, most of them mandatory, that have affected about 26,000 residents.\n\n“Be ready and prepared,” Lorenzen said. “When we ask you to leave, please leave immediately.”\n\nFire blocks the entrance to the Ronald Reagan Library in Simi Valley on Wednesday, October 30, 2019. (Photo by Dean Musgrove, Los Angeles Daily News/SCNG)\n\n1 of 29\n\nFire blocks the entrance to the Ronald Reagan Library in Simi Valley on Wednesday, October 30, 2019. (Photo by Dean Musgrove, Los Angeles Daily News/SCNG)\n\nExpand\n\nElena Mishkanian, 47, was with her son Troy, 13, an evacuation center in Thousand Oaks. They live off East Olson Road, she said, and spent much of the night anxious about the strong gusts.\n\n“When the sound of the wind gets stronger, your heartbeat gets louder,” she said. “When you see the wind drag 20, 30 pounds of an iron chair, you know this is serious.”\n\nBy early morning, when Thousand Oaks High School notified parents that the school will be closed, Mishkanian’s family started to prepare for evacuation; the family got to the center around 9 a.m.\n\n“We saw a big black cloud over our house and we saw a helicopter dropping water and everything happened within half an hour and it was very, very fast,” she said. It was the first time they had to evacuate in 10 years of living in the neighborhood.\n\n“It was terrifying. I couldn’t believe. Is this happening to me, too? Is this something that’s not just on TV?”\n\nThe blaze also put the Ronald Reagan Presidential Library at risk. The complex houses artifacts and records from Reagan’s time in office and is settled atop an area surrounded by dense brush.\n\nHelicopters made repeated drops of water in the powerful winds dousing flames below.\n\n“Early on in the incident we hit very turbulent air and we had to shut down air operations just out of safety,” said Chad Cook, assistant chief and incident commander for the Easy fire.\n\n“We anticipate to winds to stay...probably through the next 24 to 48 hours,” he said.\n\nShortly before 3 p.m. Ventura County fire officials said improved weather conditions had allowed air tankers to deploy and drop fire retardant on the blaze.\n\n“While crews battle on the ground, they’re given a lot of support from the air,” the department said in an update.\n\nVentura County Sheriff Bill Ayub said that the Sheriff’s East County substation was evacuated of all nonessential personnel and 10 inmates who were moved to the main jail in Ventura.\n\nThe 23 Freeway was closed in both directions at Avenida de Los Arboles and Los Angeles Avenue, the California Highway Patrol said. Additional closures were at Moorpark Road at Tierra Rejada Road and Moorpark Road at Santa Rosa.\n\n> #Easyfire firefighters battle flames in #SimiVallley pic.twitter.com/qZTx25kCpl\n> \n> — David Crane (@vidcrane) October 30, 2019\n\nThe fire erupted around 6 a.m. in the midst of possibly the strongest Santa Ana winds seen so far. Forecasters predicted gusts up to 80 mph would blow in Tuesday night and last through Thursday.\n\nIt is unknown how the fire started, however fire investigators were on scene at Madera and Easy Street Wednesday morning.\n\nArson investigators were seen talking to a group of homeless people who lived an an encampment near Easy Street, close to where the blaze began.\n\nMORE: This map shows where the Easy fire is burning in Simi Valley\n\nMandatory evacuations were ordered for the following areas:\n\nIn Simi Valley / Unincorporated Simi Valley / Moorpark / Thousand Oaks:\n\n * North: Tierra Rejada\n * South: Olsen / Madera Street\n * East: Madera Street\n * West: Highway 23\n\nIn Moorpark / Thousand Oaks:\n\n * North: Read Road\n * South: Olsen Road\n * East: Highway 23\n * West: Moorpark Road\n\nIn Santa Rosa / Thousand Oaks:\n\n * North: Santa Rosa Road\n * South: Andalusia Drive\n * East: Moorpark Road\n * West: Andalusia Drive\n\nThe county set up a shelter for evacuees at the Thousand Oaks Community Center, 2525 North Moorpark Road, in Thousand Oaks.\n\nSimi Valley resident Ron Ducat, 56, and his neighbors decided to stay in their homes when the fire ignited nearby.\n\n“I was not necessarily scared,” he said outside his home. “But you always hear those horror stories how people stayed behind and when they decided to leave, it was too late.”\n\nAbout a couple miles south of the mandatory evacuation area, the American Red Cross set up a 350-bed shelter at the Thousand Oaks Community Center. A group of people, many wearing masks, gathered around a television outside the center to watch the latest progress on the fire.\n\nAbout 50 were in the shelter at about 3 p.m., American Red Cross Central California Regional CEO Tony Briggs said.\n\nAlicia Lelevier, 70, was one of the evacuees, coming from the eastern edge of the evacuation zone off Madera Road. A strong gust had already woken her up by 3:30 a.m., well before the fire started, she said.\n\n“Winds were unusual and I got scared,” she said.\n\nOnce she saw a smoke, that’s when she realized she had to leave. She let her neighbors know of the fire, and then took about 20 minutes to get important documents and her family members and pets – a cat and a chinchilla.\n\nIt’s the first time she had to evacuate in 42 years of living there, she said.\n\n“It’s pretty scary when you have a house for 42 years and don’t know whether you are going to get it back or not.”\n\nMeanwhile, about 130 people living in Belmont Village Senior Living Thousand Oaks – close to the mandatory evacuation zone – left early this afternoon to a facility in Laguna Niguel.\n\nIt’s a long ride, but the Laguna Niguel facility will be comfortable and out of fire hazards, the facility’s spokeswoman Gaby Garcia said.\n\n“It couldn’t be a safer location,” she said. “This is as about an ideal situation as one can have.”\n\nLarge animals can be taken to the Ventura County Fairgrounds, 10 West Harbor Blvd., in Ventura. Castle Rock Farms had to be evacuated and people worked throughout the morning among the smoke to transport horses from the area.\n\nThe Ventura County Office of Education announced that all of its schools would be closed and referred parents, students and staff to its website — http://vcoe.org — for the latest developments.\n\nLos Angeles County is sending firefighting helicopters to help Ventura County fight the blaze.\n\nWe are providing free access to this article. Please consider supporting local journalism like this by purchasing a subscription. Click here for our 99-cent, 13-week trial offer.",
+        "metadata": {
+          "title": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway &#8211; Daily News",
+          "mrf:authors": "Alma Fausto;Jeong Park;Olga Grigoryants;Christopher Yee",
+          "mrf:canonical": "https://www.dailynews.com/2019/10/30/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/",
+          "fb:pages": "55107646487",
+          "og:type": "article",
+          "og:title": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway",
+          "og:url": "https://www.dailynews.com/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/",
+          "og:description": "More than 6,500 homes are threatened, fire officials said.",
+          "article:published_time": "2019-10-30T14:00:43+00:00",
+          "article:modified_time": "2019-10-31T19:01:49+00:00",
+          "og:site_name": "Daily News",
+          "og:image": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=3000&h=1688",
+          "og:image:width": "3000",
+          "og:image:height": "1688",
+          "og:locale": "en_US",
+          "twitter:text:title": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Easy fire in Simi Valley area grows to 1,600 acres; crews stop spread of flames that jumped the 23 Freeway",
+          "url": "https://www.dailynews.com/2019/10/30/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.dailynews.com/2019/10/30/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/"
+          },
+          "thumbnailUrl": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.dailynews.com/wp-content/uploads/2019/10/California-Wildfires-Blackout-1.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "Crime and Public Safety",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Alma Fausto",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.dailynews.com/author/alma-fausto/"
+            },
+            {
+              "@type": "Person",
+              "name": "Jeong Park",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.dailynews.com/author/jeong-park/"
+            },
+            {
+              "@type": "Person",
+              "name": "Olga Grigoryants",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.dailynews.com/author/olga-grigoryants/"
+            },
+            {
+              "@type": "Person",
+              "name": "Christopher Yee",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.dailynews.com/author/chris-yee/"
+            }
+          ],
+          "creator": [
+            "Alma Fausto",
+            "Jeong Park",
+            "Olga Grigoryants",
+            "Christopher Yee"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Daily News",
+            "logo": "https://www.dailynews.com/wp-content/uploads/2017/09/img_3776.jpg?w=600"
+          },
+          "keywords": [
+            "easy fire",
+            "fire",
+            "top stories breeze",
+            "top stories ivdb",
+            "top stories ladn",
+            "top stories lbpt",
+            "top stories ocr",
+            "top stories pe",
+            "top stories psn",
+            "top stories rdf",
+            "top stories sgvt",
+            "top stories sun",
+            "top stories wdn",
+            "wildfires",
+            "news",
+            "california",
+            "simi valley",
+            "ventura county",
+            "california news",
+            "crime and public safety",
+            "local news"
+          ],
+          "dateCreated": "2019-10-30T14:00:43Z",
+          "datePublished": "2019-10-30T14:00:43Z",
+          "dateModified": "2019-10-31T19:01:49Z",
+          "isBasedOn": "https://www.dailynews.com/wind-driven-blaze-called-easy-fire-burning-near-reagan-library-in-simi-valley/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un feu de brousse appelé Easy fire a éclaté à Simi Valley avant l'aube, atteignant 1,600 acres et menaçant des milliers de maisons dans le comté de Ventura, la bibliothèque présidentielle Ronald Reagan, et forçant des évacuations obligatoires. Le feu a sauté la 23 Freeway. Trois pompiers ont été transportés à l'hôpital pour des symptômes d'inhalation de fumée. Environ 7 000 maisons étaient sous ordre d'évacuation, affectant environ 26 000 résidents.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Spykerman",
+          "Mark Lorenzen",
+          "Dean Musgrove",
+          "Elena Mishkanian",
+          "Troy",
+          "Ronald Reagan"
+        ],
+        "LOCATION": [
+          "Simi Valley",
+          "Ventura County",
+          "Southern California",
+          "Calabasas",
+          "Santa Rosa Valley",
+          "Thousand Oaks",
+          "East Olson Road",
+          "Tierra Rejada Road"
+        ],
+        "ORGANIZATION": [
+          "Los Angeles Daily News",
+          "Ventura County Fire Department",
+          "SCNG"
+        ],
+        "DATE": [
+          "Wednesday",
+          "October 30, 2019",
+          "earlier this week"
+        ],
+        "EVENT": [
+          "Easy fire",
+          "Getty fire"
+        ],
+        "OTHER": [
+          "23 Freeway"
+        ]
+      },
+      "score_e5": 0.761079938792386
+    },
+    {
+      "titre": "A Santa Ana father is being praised as a hero after rescuing his entire family from a devastating house fire that broke out early Friday morning — a blaze that has now",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/ktla5/posts/a-santa-ana-father-is-being-praised-as-a-hero-after-rescuing-his-entire-family-f/1453742009675078/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10233987869933760",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZmkvIDFMpjdbfjGxxkvTw-HtSxJgycT9ipnLmMiSaobJmJjqH",
+      "rang_lens": 5,
+      "brut": {
+        "title": "A Santa Ana father is being praised as a hero after rescuing his entire family from a devastating house fire that broke out early Friday morning — a blaze that has now",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/ktla5/posts/a-santa-ana-father-is-being-praised-as-a-hero-after-rescuing-his-entire-family-f/1453742009675078/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10233987869933760",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZmkvIDFMpjdbfjGxxkvTw-HtSxJgycT9ipnLmMiSaobJmJjqH"
+      },
+      "webpage": {
+        "text": "KTLA 5 News - A Santa Ana father is being praised as a...\n\nA Santa Ana father is being praised as a hero after rescuing his entire family from a devastating house fire that broke out early Friday morning — a blaze that has now left him homeless and... See more",
+        "metadata": {
+          "title": "KTLA 5 News - A Santa Ana father is being praised as a... | Facebook",
+          "og:type": "video.other",
+          "og:title": "KTLA 5 News",
+          "og:description": "A Santa Ana father is being praised as a hero after rescuing his entire family from a devastating house fire that broke out early Friday morning — a blaze that has now left him homeless and...",
+          "og:url": "https://www.facebook.com/ktla5/posts/a-santa-ana-father-is-being-praised-as-a-hero-after-rescuing-his-entire-family-f/1453742009675078/",
+          "og:image:alt": "KTLA 5 News",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1453741993008413",
+          "og:locale": "en_US",
+          "description": "A Santa Ana father is being praised as a hero after rescuing his entire family from a devastating house fire that broke out early Friday morning — a...",
+          "twitter:title": "KTLA 5 News",
+          "twitter:description": "A Santa Ana father is being praised as a hero after rescuing his entire family from a devastating house fire that broke out early Friday morning — a blaze that has now left him homeless and..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un père de Santa Ana est salué comme un héros après avoir secouru toute sa famille d'un incendie de maison dévastateur qui s'est déclaré tôt vendredi matin, un incendie qui l'a laissé sans abri.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Santa Ana"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "KTLA 5 News"
+        ],
+        "DATE": [
+          "Friday morning"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7699763089838755
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Granada Hills",
+      "Los Angeles"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "Monday"
+    ],
+    "EVENT": [
+      "wildfire"
+    ],
+    "OTHER": [
+      "Fire crews"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Los Angeles",
+      "California",
+      "Simi Valley"
+    ],
+    "ORGANIZATION": [
+      "The Guardian"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Santa Ana winds"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 1
+  },
+  "S_sem": 0.8181880884863352,
+  "S_ent": 0.4,
+  "S_OOC": 0.6090940442431676,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE",
+    "EVENT",
+    "OTHER"
+  ]
+}

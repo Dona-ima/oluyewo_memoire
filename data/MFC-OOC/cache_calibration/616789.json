@@ -1,0 +1,812 @@
+{
+  "id_rumeur": 616789,
+  "id_image": 752649,
+  "caption": "It s hard to be a girl where I live as we are much more disadvantaged than boys Yuma 15 from Nicaragua",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756747/oluyewo_benchmark/kyweiwb5xws7zoauobbt.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "In pictures: Nicaraguan farmers resist Grand Canal, the ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2015/apr/04/nicaragua-farmers-contra-sandinista-resist-grand-canal-construction",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/3/1428077274137/e525ef77-d507-4029-924d-f0ff273db185-1020x612.jpeg?width=445&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkxWFet55NsczoN4WjuCfQDzC3wXxk_zSiynyOQCmnrJHMGTM-",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "In pictures: Nicaraguan farmers resist Grand Canal, the ...",
+        "link": "https://www.theguardian.com/world/2015/apr/04/nicaragua-farmers-contra-sandinista-resist-grand-canal-construction",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkxWFet55NsczoN4WjuCfQDzC3wXxk_zSiynyOQCmnrJHMGTM-",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/3/1428077274137/e525ef77-d507-4029-924d-f0ff273db185-1020x612.jpeg?width=445&dpr=1&s=none&crop=none",
+        "image_width": 267,
+        "image_height": 445
+      },
+      "webpage": {
+        "text": "In pictures: Nicaraguan farmers resist Grand Canal, the world's largest construction project | Nicaragua\n\nLa Uniòn is a 2,000-person farming community in Nicaragua. It is slated, along with other communities, to be sacrificed to industrial progress at the hands of the Hong Kong-funded Grand Canal, the largest construction project in the history of the world.\n\nSome of the farmers living there fought against President Daniel Ortega in the war that tore through Nicaragua in the 1980s. During that war, Ortega called himself a fighter “against the domination [by] the capitalists of our country”.\n\nI went to La Uniòn to hear the stories of these farmers, and to photograph a community on the edge of disappearance. People were willing to unite with Sandinista farmers, their former enemies, in the struggle against the Canal. This struggle pits Ortega’s government, the canal’s profiteers, and most of the urban population against the farmers.",
+        "metadata": {
+          "title": "In pictures: Nicaraguan farmers resist Grand Canal, the world's largest construction project | Nicaragua | The Guardian",
+          "description": "Former Contra militants unite with old Sandinista enemies to stop construction of Nicaragua’s Grand Interoceanic Canal, which would consume their land",
+          "og:url": "http://www.theguardian.com/world/2015/apr/04/nicaragua-farmers-contra-sandinista-resist-grand-canal-construction",
+          "article:author": "Nehemiah Stark",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/3/1428075777035/e282a610-8e5e-4e0f-8f35-30194c87b8c0-1020x612.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=3e0b27e33a2008f357dd24fb11f7ed8a",
+          "al:ios:url": "gnmguardian://world/2015/apr/04/nicaragua-farmers-contra-sandinista-resist-grand-canal-construction?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "In pictures: Nicaraguan farmers resist Grand Canal, the world's largest construction project",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2015-04-06T14:14:21.000Z",
+          "og:image:height": "720",
+          "og:description": "Former Contra militants unite with old Sandinista enemies to stop construction of Nicaragua’s Grand Interoceanic Canal, which would consume their land",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2015-04-04T13:00:05.000Z",
+          "article:tag": "Nicaragua,Environment,World news,Americas,Agriculture",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des agriculteurs nicaraguayens de la communauté de La Uniòn résistent au projet de construction du Grand Canal financé par Hong Kong, qui menace leur communauté de disparition. Certains de ces agriculteurs ont combattu le président Daniel Ortega lors de la guerre des années 1980, mais s'unissent aujourd'hui avec des agriculteurs sandinistes pour s'opposer au gouvernement d'Ortega, aux profiteurs du canal et à la population urbaine.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Daniel Ortega"
+        ],
+        "LOCATION": [
+          "Nicaragua",
+          "La Uniòn",
+          "Hong Kong"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Grand Canal"
+        ],
+        "DATE": [
+          "2015",
+          "04/04/2015",
+          "1980s"
+        ],
+        "EVENT": [
+          "Grand Canal construction",
+          "war that tore through Nicaragua in the 1980s"
+        ],
+        "OTHER": [
+          "Sandinista"
+        ]
+      },
+      "score_e5": 0.6954595792079158
+    },
+    {
+      "titre": "Nathalia Angarita (@nathalianph) is a Colombian photographer ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DZkdT4BjUgj/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3919386458210149216",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbsaYrKtogJdXhktNf8WOwalJy1VYSpJRsEpSZeN49cAanJvE",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Nathalia Angarita (@nathalianph) is a Colombian photographer ...",
+        "link": "https://www.instagram.com/p/DZkdT4BjUgj/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbsaYrKtogJdXhktNf8WOwalJy1VYSpJRsEpSZeN49cAanJvE",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3919386458210149216",
+        "image_width": 960,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Nathalia Angarita est une photographe colombienne.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nathalia Angarita"
+        ],
+        "LOCATION": [
+          "Colombia"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "photographer"
+        ]
+      },
+      "score_e5": 0.7438484561049329
+    },
+    {
+      "titre": "Cuatro de cada diez pobladores de La Libertad no acceden al ...",
+      "source": "Diario Correo",
+      "lien": "https://diariocorreo.pe/edicion/la-libertad/cuatro-de-cada-diez-pobladores-de-la-libertad-no-acceden-al-menos-un-servicio-publico-indispensable-peru-noticia/",
+      "image_url": "https://diariocorreo.pe/resizer/v2/W2VMWJD4INDHNG5GZJDL3YUANE.jpg?auth=8c60a2d16ba62b4c7a55b70dd88814835683898a9b5ebb493664475d0595b3f0&width=1200&height=675&quality=75&smart=true",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiXPgc-5SocN9D_l0rV3KzJXkY3vkcHUmvIrWF59xCIXrgSsyX",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Cuatro de cada diez pobladores de La Libertad no acceden al ...",
+        "link": "https://diariocorreo.pe/edicion/la-libertad/cuatro-de-cada-diez-pobladores-de-la-libertad-no-acceden-al-menos-un-servicio-publico-indispensable-peru-noticia/",
+        "source": "Diario Correo",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQO1l8yz2-lM8ek7IS_BWDGzAHuHjYJtrVcW-4gaXztUygN4bzkdpzv0I-PEmEFHEAyW5ho7QWTP6YQtAJjAzGmLR9hIMNtL8UjVyRQQZeCJGM0T2E",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiXPgc-5SocN9D_l0rV3KzJXkY3vkcHUmvIrWF59xCIXrgSsyX",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://diariocorreo.pe/resizer/v2/W2VMWJD4INDHNG5GZJDL3YUANE.jpg?auth=8c60a2d16ba62b4c7a55b70dd88814835683898a9b5ebb493664475d0595b3f0&width=1200&height=675&quality=75&smart=true",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Cuatro de cada diez pobladores de La Libertad no acceden al menos un servicio público indispensable | Perú | EDICION\n\nCuatro de cada diez pobladores de La Libertad no tiene acceso a al menos un servicio público de salud, educación y/o condiciones de vivienda, incluidos servicios básicos, según un estudio de ComexPerú, que da cuenta que 822,393 liberteños, o un 39.7% de la población total de la región, sufrió de pobreza multidimensional en el 2023.\n\n> VER MÁS: Pobreza monetaria afectó a más de 654 mil pobladores de La Libertad en el 2023\n\nCon este resultado, las personas afectadas por la pobreza multidimensional en La Libertad superaron en 167,419 a los ciudadanos en pobreza monetaria, que llegaron a 654,974 el año pasado, un 31.6% de todos los liberteños.\n\n“La pobreza multidimensional afecta a más personas que la monetaria, porque depende de la calidad y cobertura de los servicios públicos. En el 2023, la pobreza multidimensional superó a la monetaria en 21 de 24 departamentos. Cerrar la brecha de servicios básicos es responsabilidad de las autoridades competentes (alcaldes y gobernadores), las cuales a pesar de contar con crecientes presupuestos año a año dejan de ejecutar recursos que deberían ser invertidos en colegios, postas, hospitales, agua y saneamiento para mejorar la calidad de vida de la población”, puntualizó ComexPerú.\n\nEntre 2021 y 2023, el Gobierno acumuló S/ 387 millones sin utilizar que estaban presupuestados para proveer servicios y ejecutar obras en el sector salud en La Libertad. Esta cantidad equivale a la construcción de 77 postas médicas o dos hospitales del segundo nivel de atención.\n\n> PUEDE LEER: La Libertad: Urge cambios para frenar avance de pobreza\n\nDurante el mismo periodo, el Gobierno dejó de utilizar S/ 715 millones que estaban presupuestados para proveer servicios y ejecutar obras en el sector educación en La Libertad. Además de la construcción de escuelas, estos considerables recursos eran suficientes para financiar el 10% de la brecha de saneamiento de 2020-2025 del departamento que asciende a S/ 7,201 millones. Es decir, el monto no ejecutado hubiera permitido un considerable progreso para alcanzar la cobertura de saneamiento vía red pública de toda la población del departamento.\n\nCada año, ComexPerú estima la pobreza multidimensional, que analiza las dimensiones antes mencionadas. En educación, se evalúa el nivel de escolaridad infantil y del jefe/a del hogar; en salud, el acceso a establecimientos de salud ante enfermedad y la cobertura del aseguramiento; y en condiciones de vivienda, la carencia de servicios básicos, así como los hogares con piso de tierra y que cocinan con combustibles dañinos para la salud.\n\n\nNacional\n\nEn el 2023, uno de cada tres peruanos no tuvo acceso al menos un servicio público indispensable como salud, educación y condiciones de vivienda, incluidos servicios básicos. Según el estudio de ComexPerú, 11.3 millones de peruanos, o un 33.2% de la población total del país, sufrió de pobreza multidimensional el año pasado.\n\nEl resultado fue mayor en 1.4 millones a los peruanos afectados por la pobreza monetaria, que llegaron a 9.9 millones el año pasado. La tasa significó una disminución respecto al 35.8% del 2022. Sobre todo, por la mayor cobertura del Sistema Integrado de Salud (SIS). Sin embargo, persiste el reto de mejorar la calidad del servicio, porque 9 de cada 10 de postas y centros de salud carecen de infraestructura y equipamiento adecuado.\n\n“Los resultados de pobreza son preocupantes y generarán efectos a largo plazo. No es solo falta de acceso a servicios de calidad hoy, sino también de oportunidades de desarrollo. Los adultos verán afectada su salud y productividad, mientras que los menores de edad tendrán menor desarrollo cognitivo por la ausencia de nutrientes y la exposición a enfermedades”, advirtió el gremio.\n\n\nLE PUEDE INTERESAR",
+        "metadata": {
+          "title": "Cuatro de cada diez pobladores de La Libertad no acceden al menos un servicio público indispensable | Perú | EDICION | CORREO",
+          "apple-mobile-web-app-title": "Correo",
+          "description": "Cuatro de cada diez pobladores de La Libertad no tiene acceso a al menos un servicio público de salud, educación y/o condiciones de vivienda, incluidos servicios básicos, según un estudio de ComexPerú, que da cuenta que 822,393 liberteños, o un 39.7% de la población total de la región, sufrió de pobreza multidimensional en el 2023.",
+          "og:site_name": "Correo",
+          "og:locale": "es_PE",
+          "fb:app_id": "1390081201315241",
+          "og:title": "Cuatro de cada diez pobladores de La Libertad no acceden al menos un servicio público indispensable",
+          "og:description": "De acuerdo con ComexPerú, más de 822 mil pobladores de La Libertad, o un 39.7% de la población total de esa región, sufrió de pobreza multidimensional el año pasado",
+          "og:image": "https://diariocorreo.pe/resizer/v2/W2VMWJD4INDHNG5GZJDL3YUANE.jpg?auth=8c60a2d16ba62b4c7a55b70dd88814835683898a9b5ebb493664475d0595b3f0&width=980&height=528&quality=75&smart=true",
+          "og:image:secure_url": "https://diariocorreo.pe/resizer/v2/W2VMWJD4INDHNG5GZJDL3YUANE.jpg?auth=8c60a2d16ba62b4c7a55b70dd88814835683898a9b5ebb493664475d0595b3f0&width=980&height=528&quality=75&smart=true",
+          "og:image:width": "980",
+          "og:image:height": "528",
+          "og:image:type": "image/jpeg",
+          "og:url": "https://diariocorreo.pe/edicion/la-libertad/cuatro-de-cada-diez-pobladores-de-la-libertad-no-acceden-al-menos-un-servicio-publico-indispensable-peru-noticia/",
+          "og:type": "article",
+          "twitter:title": "Cuatro de cada diez pobladores de La Libertad no acceden al menos un servicio público indispensable",
+          "twitter:description": "Cuatro de cada diez pobladores de La Libertad no tiene acceso a al menos un servicio público de salud, educación y/o condiciones de vivienda, incluidos servicios básicos, según un estudio de ComexPerú, que da cuenta que 822,393 liberteños, o un 39.7% de la población total de la región, sufrió de pobreza multidimensional en el 2023.",
+          "mrf:tags": "notaGenero:info",
+          "article:publisher": "https://www.facebook.com/CorreoPeru/",
+          "author": "Redacción Correo",
+          "bi3dArtTitle": "Cuatro de cada diez pobladores de La Libertad no acceden al menos un servicio público indispensable",
+          "keywords": "Perú, La Libertad, Noticias hoy, Noticias Perú, Noticias La Libertad, ComexPerú, servicios básicos",
+          "article:published_time": "2024-05-27T17:51:23.646Z",
+          "article:modified_time": "2024-05-27T17:51:23.646Z",
+          "article:author": "Redacción Correo",
+          "article:section": "La Libertad",
+          "article:content_tier": "metered",
+          "article:tag": "servicios básicos"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Correo",
+          "url": "https://diariocorreo.pe/",
+          "logo": "https://cdna.diariocorreo.pe/resources/dist/diariocorreo/images/logo-diariocorreo.jpg?d=1",
+          "sameAs": [
+            "https://www.facebook.com/CorreoPeru/",
+            "https://twitter.com/diariocorreo",
+            "https://www.instagram.com/diario_correo/",
+            "https://www.linkedin.com/"
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un étude de ComexPerú indique qu'en 2023, quatre sur dix habitants de La Libertad (soit 822 393 personnes ou 39,7 % de la population régionale) n'ont pas accès à au moins un service public de santé, d'éducation ou à des conditions de logement de base, subissant ainsi une pauvreté multidimensionnelle. Cette pauvreté multidimensionnelle dépasse la pauvreté monétaire dans la région et dans 21 départements sur 24 au Pérou. Le gouvernement a accumulé des budgets non utilisés entre 2021 et 2023 pour les secteurs de la santé et de l'éducation dans La Libertad.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "La Libertad",
+          "Perú"
+        ],
+        "ORGANIZATION": [
+          "Diario Correo",
+          "ComexPerú"
+        ],
+        "DATE": [
+          "2023",
+          "2021",
+          "2020-2025"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6878233343561222
+    },
+    {
+      "titre": "A quarter of world population lacks safe drinking water: UN ...",
+      "source": "AP News",
+      "lien": "https://apnews.com/article/un-water-sanitation-conference-7a3671dc74f788e36adff9ef9879ed91",
+      "image_url": "https://dims.apnews.com/dims4/default/f75984f/2147483647/strip/true/crop/3000x2000+0+0/resize/599x399!/quality/90/?url=https://storage.googleapis.com/afs-prod/media/8fdfd5e29bef4d64a5275ef5a3f766fc/3000.jpeg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3qSGSVZpumq5yz7FLtbO0MNzC05L2sDsLBFbnBHsnqZM5_5CT",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "A quarter of world population lacks safe drinking water: UN ...",
+        "link": "https://apnews.com/article/un-water-sanitation-conference-7a3671dc74f788e36adff9ef9879ed91",
+        "source": "AP News",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTY8EoHY65MndRkiEt4iSfPDplnPtEdi45Lv3jfS271ulnRZlYgLNv6FN8byaNIRopf2rv0LN2tltb5MEmTM--0BeaVxNKRo-miYsj0eQlr",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3qSGSVZpumq5yz7FLtbO0MNzC05L2sDsLBFbnBHsnqZM5_5CT",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://dims.apnews.com/dims4/default/f75984f/2147483647/strip/true/crop/3000x2000+0+0/resize/599x399!/quality/90/?url=https://storage.googleapis.com/afs-prod/media/8fdfd5e29bef4d64a5275ef5a3f766fc/3000.jpeg",
+        "image_width": 399,
+        "image_height": 599
+      },
+      "webpage": {
+        "text": "A quarter of world population lacks safe drinking water: UN\n\nPublished [hour]:[minute] [AMPM] [timezone], [monthFull] [day], [year]\n\nUNITED NATIONS (AP) — A report issued on the eve of the first major U.N. conference on water in over 45 years says 26% of the world’s population doesn’t have access to safe drinking water and 46% lacks access to basic sanitation.\n\nThe U.N. World Water Development Report 2023, released Tuesday, painted a stark picture of the huge gap that needs to be filled to meet U.N. goals to ensure all people have access to clean water and sanitation by 2030.\n\nRichard Connor, editor-in-chief of the report, told a news conference that the estimated cost of meeting the goals is between $600 billion and $1 trillion a year.\n\nBut equally important, Connor said, is forging partnerships with investors, financiers, governments and climate change communities to ensure that money is invested in ways to sustain the environment and provide potable water to the 2 billion people who don’t have it and sanitation to the 3.6 billion in need.\n\nAccording to the report, water use has been increasing globally by roughly 1% per year over the last 40 years “and is expected to grow at a similar rate through to 2050, driven by a combination of population growth, socio-economic development and changing consumption patterns.”\n\nConnor said that actual increase in demand is happening in developing countries and emerging economies where it is driven by industrial growth and especially the rapid increase in the population of cities. It is in these urban areas “that you’re having a real big increase in demand,” he said.\n\nWith agriculture using 70% of all water globally, Connor said, irrigation for crops has to be more efficient — as it is in some countries that now use drip irrigation, which saves water. “That allows water to be available to cities,” he said.\n\nAs a result of climate change, the report said, “seasonal water scarcity will increase in regions where it is currently abundant — such as Central Africa, East Asia and parts of South America — and worsen in regions where water is already in short supply, such as the Middle East and the Sahara in Africa.”\n\nOn average, “10% of the global population lives in countries with high or critical water stress” — and up to 3.5 billion people live under conditions of water stress at least one month a year, said the report issued by UNESCO, the U.N. Educational, Scientific and Cultural Organization.\n\nSince 2000, floods in the tropics have quadrupled while floods in the north mid-latitudes have increased 2.5-fold, the report said. Trends in droughts are more difficult to establish, it said, “although an increase in intensity or frequency of droughts and ‘heat extremes’ can be expected in most regions as a direct result of climate change.”\n\nAs for water pollution, Connor said, the biggest source of pollution is untreated wastewater.\n\n“Globally, 80% of wastewater is released to the environment without any treatment,” he said, “and in many developing countries it’s pretty much 99%.”\n\nThese and other issues including protecting aquatic ecosystems, improving management of water resources, increasing water reuse and promoting cooperation across borders on water use will be discussed during the three-day U.N. Water Conference co-chaired by King Willem-Alexander of the Netherlands and Tajikistan’s President Emomali Rahmon opening Wednesday.\n\nThere are 171 countries, including over 100 ministers, on the speakers list along with more than 20 organizations. The meeting will also include five “interactive dialogues” and dozens of side events.\n\n___\n\nThis version of story corrected to 3.6 billion in need of access to basic sanitation in paragraph 4, not 3.6 million.",
+        "metadata": {
+          "title": "A quarter of world population lacks safe drinking water: UN | AP News",
+          "og:title": "A quarter of world population lacks safe drinking water: UN",
+          "og:url": "https://apnews.com/article/un-water-sanitation-conference-7a3671dc74f788e36adff9ef9879ed91",
+          "og:image": "https://dims.apnews.com/dims4/default/bf76136/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F7ffb6e7f27a64a559f5f655250f2ae1c%2F3000.jpeg",
+          "og:image:url": "https://dims.apnews.com/dims4/default/bf76136/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F7ffb6e7f27a64a559f5f655250f2ae1c%2F3000.jpeg",
+          "og:image:width": "980",
+          "og:image:height": "653",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "People get drinking water from a water collecting point at a slum area, in Karachi, Pakistan, Tuesday, March 21, 2023. World Water Day will be observed on March 22, to aim to highlight the importance of freshwater and advocate for sustainable management of this vital resource. (AP Photo/Fareed Khan)",
+          "og:description": "A report says 26% of the world’s population doesn’t have access to safe drinking water and 46% lacks access to basic sanitation. The U.N.",
+          "og:site_name": "AP News",
+          "og:type": "article",
+          "article:author": "https://apnews.com/author/edith-m-lederer",
+          "article:published_time": "2023-03-22T18:22:38",
+          "article:modified_time": "2023-03-23T14:24:03.51",
+          "article:tag": "United Nations",
+          "twitter:description": "A report says 26% of the world’s population doesn’t have access to safe drinking water and 46% lacks access to basic sanitation. The U.N.",
+          "twitter:title": "A quarter of world population lacks safe drinking water: UN",
+          "fb:app_id": "870613919693099",
+          "keywords": "United Nations, Netherlands, AP Top News, Politics",
+          "parsely-title": "A quarter of world population lacks safe drinking water: UN",
+          "description": "A report says 26% of the world’s population doesn’t have access to safe drinking water and 46% lacks access to basic sanitation. The U.N.",
+          "article:section": "World News"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "JW Videos",
+          "list": [
+            {
+              "@context": "http://schema.org",
+              "@type": "VideoObject",
+              "contentUrl": "https://apnews.com/article/un-water-sanitation-conference-7a3671dc74f788e36adff9ef9879ed91",
+              "embedUrl": "https://apnews.com/video/disaster-planning-and-response-abidjan-water-shortages-health-united-nations-2af7e37e6d51424b95abf24c08109958",
+              "potentialAction": {
+                "@context": "http://schema.org",
+                "@type": "SeekToAction",
+                "startOffset-input": "required name=seek_to_second_number",
+                "target": "https://apnews.com/article/un-water-sanitation-conference-7a3671dc74f788e36adff9ef9879ed91?jw_start={seek_to_second_number}"
+              },
+              "uploadDate": "null"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un rapport des Nations Unies (UNESCO) publié avant la conférence sur l'eau indique que 26 % de la population mondiale n'a pas accès à l'eau potable et que 46 % manque d'assainissement de base. L'utilisation de l'eau augmente globalement de 1 % par an, portée par la croissance démographique et le développement socio-économique. Le changement climatique aggrave la rareté saisonnière de l'eau dans certaines régions et intensifie les sécheresses et inondations. 80 % des eaux usées mondiales sont rejetées sans traitement dans l'environnement.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Richard Connor"
+        ],
+        "LOCATION": [
+          "Central Africa",
+          "East Asia",
+          "South America",
+          "Middle East",
+          "Africa"
+        ],
+        "ORGANIZATION": [
+          "AP News",
+          "U.N.",
+          "UNESCO",
+          "United Nations"
+        ],
+        "DATE": [
+          "2023",
+          "last 40 years",
+          "2050",
+          "Since 2000"
+        ],
+        "EVENT": [
+          "first major U.N. conference on water in over 45 years"
+        ],
+        "OTHER": [
+          "U.N. World Water Development Report 2023"
+        ]
+      },
+      "score_e5": 0.6656752494085805
+    },
+    {
+      "titre": "Puerto Ricans desperate for water after Fiona | The Arkansas ...",
+      "source": "The Arkansas Democrat-Gazette",
+      "lien": "https://www.arkansasonline.com/news/2022/sep/22/puerto-ricans-desperate-for-water-after-fiona/",
+      "image_url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/202437536_202434762-079c707744794ccf85539c0d5aa31620_t320.jpg?fa67021387348b8667950d2a49bd5d6642c5ab68",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ABjn3gR2gjHvygsfKE0QuKX1sxyX-EEx1lGW-DSegHkZcBZA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Puerto Ricans desperate for water after Fiona | The Arkansas ...",
+        "link": "https://www.arkansasonline.com/news/2022/sep/22/puerto-ricans-desperate-for-water-after-fiona/",
+        "source": "The Arkansas Democrat-Gazette",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRH3G26KKphgVPZtB4E8-1oLxnnkZKDDO3Tvumsmn6oKUzKTNbftoWF8XrQKgx__Q0ZXTdBPVFbBdMuGUt9J90w8EcfVL2PHkyCk15fe59SEaywjl7E0SlLj4gR",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ABjn3gR2gjHvygsfKE0QuKX1sxyX-EEx1lGW-DSegHkZcBZA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/202437536_202434762-079c707744794ccf85539c0d5aa31620_t320.jpg?fa67021387348b8667950d2a49bd5d6642c5ab68",
+        "image_width": 213,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Puerto Ricans desperate for water after Fiona | The Arkansas Democrat-Gazette\n\nCAGUAS, Puerto Rico -- More than half a million people in Puerto Rico remained without water service on Wednesday -- three days after Hurricane Fiona slammed into the U.S. territory -- sending many to line up for hours to fill jugs from water trucks and others to scoop water from mountain runoff.\n\nSweat rolled down the faces of people in a long line of cars in the northern mountain town of Caguas, where the government had set up a water truck, one of at least 18 so-called \"oases\" set up across the island.\n\nThe setback was maddening for many across an island once again left without basic services after a storm.\n\n\"We thought we had a bad experience with Maria, but this was worse,\" said Gerardo Rodriguez in the southern coastal town of Salinas, referring to the 2017 hurricane that caused nearly 3,000 deaths and demolished the U.S. territory's power grid.\n\nFiona dumped roughly 2 feet of rain on parts of Puerto Rico before blasting across the eastern Dominican Republic and the Turks and Caicos Islands.\n\nSwelled to Category 4 force, the storm was on a track to pass close by Bermuda late Thursday or Friday and then hit easternmost Canada by late Friday, according to the U.S. National Hurricane Center.\n\nThe storm played havoc with Puerto Rico's electrical grid, which had been patched but never fully rebuilt after Maria caused a blackout that lasted 11 months in some places.\n\nAs of Wednesday afternoon, roughly 70% of Puerto Rican customers lacked electricity, according to government figures.\n\nIn Caguas, the air conditioning of Emayra Veguilla's car wasn't working, so the 34-year-old bus driver propped up a small fan in the passenger seat. Earlier that day, she had blasted the song \"Hijos del Canaveral,\" (\"Sons of the Sugarcane Field\"), written by Puerto Rican hip-hop star Rene Perez as an ode to Puerto Rico and its people's bravery.\n\n\"I needed a shot of patriotism,\" she said. \"I needed strength to do this once again.\"\n\nVeguilla had waited in line on Tuesday, only to be told the water had run out and that another truck would not be available until the next day.\n\nSome people ahead of Veguilla gave up and drove away, with tensions running high the longer people waited.\n\n\"Move!\" yelled one driver, fearful of people trying to cut in.\n\nSome who saw the line opted instead to drive to a nearby road where fresh water trickled down the mountainside via a bamboo pipe that someone had installed.\n\nGreg Reyes, a 24-year-old English teacher, stood in line in muddy flip-flops to collect water for himself, his girlfriend and their cat. He'd brought a large bag holding all the empty containers he could find in their house, including more than a dozen small water bottles.\n\nReyes said he and his partner had been buying water since Fiona hit, but couldn't afford to do so any longer.\n\nStanding behind him was 67-year-old retiree William Rodríguez, surrounded by three large buckets and four 1-gallon containers. He had been living in Massachusetts and decided to return to Puerto Rico about six months ago.\n\n\"But I think I'm leaving again,\" he said as he shook his head.\n\nPeople in the line grumbled about the slow pace of recovery and accused the government of not helping them.\n\n\"This hasn't been easy,\" said Juan Santos, a 70-year-old retiree who held the hand of his 5-year-old grandson. \"We are suffering.\"\n\nNone of those in line had power, either, and many wondered if it would take as long to restore as it did with Hurricane Maria.\n\nPower company officials initially said it would take a few days for electricity to be restored, but then appeared to backtrack Tuesday night, saying they faced numerous obstacles.\n\n\"Hurricane Fiona has severely impacted electrical infrastructure and generation facilities throughout the island. We want to make it very clear that efforts to restore and re-energize continue and are being affected by severe flooding, impassable roads, downed trees, deteriorating equipment, and downed lines,\" said Luma, the company that operates power transmission and distribution.\n\nThe Hurricane Center said Fiona had maximum sustained winds of 130 mph late Wednesday afternoon. It was centered about 615 miles southwest of Bermuda, heading north at 9 mph.\n\nInformation for this article was contributed by Maricarmen Rivera Sanchez and Alejandro Granadillo of The Associated Press.\n\n    Two women walk through stagnant water in their homes caused by Hurricane Fiona in the Los Sotos neighborhood in Higüey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    Locals clear mud brought by Hurricane Fiona in the Los Sotos neighborhood of Higuey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    Neighbors work to recover their belongings from the flooding caused by Hurricane Fiona in the Los Sotos neighborhood of Higüey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    Residents work to recover belongings from flooding caused by Hurricane Fiona in the Los Sotos neighborhood of Higuey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    Neighbors work to recover their belongings after the flooding caused by Hurricane Fiona in the Los Sotos neighborhood of Higüey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    A woman looks at her water-damaged belongings after flooding caused by Hurricane Fiona tore through her home in Toa Baja, Puerto Rico, Tuesday, Sept. 20, 2022. (AP Photo/Stephanie Rojas)\n  \n\n    Neighbors work to recover their belongings from the flooding caused by Hurricane Fiona in the Los Sotos neighborhood of Higüey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    Neighbors work to recover their belongings from the flooding caused by Hurricane Fiona in the Los Sotos neighborhood of Higüey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)\n  \n\n    Neighbors work to recover their belongings that were saved from the flooding caused by Hurricane Fiona at the Los Sotos neighborhood in Higüey, Dominican Republic, Tuesday, Sept. 20, 2022. (AP Photo/Ricardo Hernandez)",
+        "metadata": {
+          "title": "Puerto Ricans desperate for water after Fiona | The Arkansas Democrat-Gazette - Arkansas' Best News Source",
+          "mrf:canonical": "https://www.arkansasonline.com/news/2022/sep/22/puerto-ricans-desperate-for-water-after-fiona/",
+          "description": "More than half a million people in Puerto Rico remained without water service on Wednesday -- three days after Hurricane Fiona slammed into the U.S. territory -- sending many to line up for hours to fill jugs from water trucks and others to scoop water from mountain runoff.",
+          "og:title": "Puerto Ricans desperate for water after Fiona | Arkansas Democrat Gazette ",
+          "og:type": "article",
+          "og:url": "https://www.arkansasonline.com/news/2022/sep/22/puerto-ricans-desperate-for-water-after-fiona/",
+          "og:description": "More than half a million people in Puerto Rico remained without water service on Wednesday -- three days after Hurricane Fiona slammed into the U.S. territory -- sending many to line up for hours to fill jugs from water trucks and others to scoop water from mountain runoff.",
+          "og:image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/202437536_202434762-079c707744794ccf85539c0d5aa31620_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+          "og:image:width": "1200",
+          "og:image:height": "799",
+          "article:published_time": "2022-09-22T03:48:00-0500",
+          "datePublished": "2022-09-22T03:48:00",
+          "twitter:title": "Puerto Ricans desperate for water after Fiona | Arkansas Democrat Gazette",
+          "twitter:description": "More than half a million people in Puerto Rico remained without water service on Wednesday -- three days after Hurricane Fiona slammed into the U.S. territory -- sending many to line up for hours to fill jugs from water trucks and others to scoop water from mountain runoff."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Plus d'un demi-million de personnes à Porto Rico sont restées sans service d'eau trois jours après le passage de l'ouragan Fiona, qui a frappé ce territoire américain. Les habitants font la queue pour s'approvisionner auprès de camions citernes ou récupèrent de l'eau de ruissellement en montagne. Le réseau électrique de l'île a également été gravement touché, laissant environ 70 % des clients sans électricité. Fiona a ensuite traversé la République dominicaine, les îles Turques-et-Caïques, et s'est dirigée vers les Bermudes et l'est du Canada.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Gerardo Rodriguez",
+          "Emayra Veguilla",
+          "Rene Perez",
+          "Greg Reyes",
+          "William Rodríguez"
+        ],
+        "LOCATION": [
+          "Puerto Rico",
+          "Caguas",
+          "Salinas",
+          "Dominican Republic",
+          "Turks and Caicos Islands",
+          "Bermuda",
+          "Canada"
+        ],
+        "ORGANIZATION": [
+          "The Arkansas Democrat-Gazette",
+          "U.S. National Hurricane Center"
+        ],
+        "DATE": [
+          "Wednesday",
+          "2017",
+          "Thursday",
+          "Friday"
+        ],
+        "EVENT": [
+          "Hurricane Fiona",
+          "Hurricane Maria"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6840734669697301
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Nicaragua"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Yuma"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Daniel Ortega",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nicaragua",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "La Uniòn",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hong Kong",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Grand Canal",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "04/04/2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1980s",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Grand Canal construction",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "war that tore through Nicaragua in the 1980s",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sandinista",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nathalia Angarita",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Colombia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "photographer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "La Libertad",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Perú",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Diario Correo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ComexPerú",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2023",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020-2025",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Richard Connor",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Central Africa",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Asia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South America",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle East",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Africa",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP News",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "United Nations",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UNESCO",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last 40 years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2050",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Since 2000",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "first major U.N. conference on water in over 45 years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "U.N. World Water Development Report 2023",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gerardo Rodriguez",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Emayra Veguilla",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rene Perez",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Greg Reyes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "William Rodríguez",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Puerto Rico",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Caguas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Salinas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dominican Republic",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Turks and Caicos Islands",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bermuda",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Arkansas Democrat-Gazette",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. National Hurricane Center",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Hurricane Fiona",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Hurricane Maria",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:01:55.785219"
+  }
+}

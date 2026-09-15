@@ -1,51 +1,38 @@
 from langgraph.graph import StateGraph, START, END
 
 from app.graph.state import AgentState
-from app.graph.nodes import (
-    agent_verificateur_principal,
-    agent_chercheur_web,
-    agent_synthetiseur_verdict
-)
-from app.graph.edges import routeur_fire
+from app.graph.nodes import node_1, node_2
+
 
 def compiler_graphe():
     """
-    Assemble les nœuds, configure les liaisons (edges) fixes et conditionnelles,
-    puis compile le graphe d'état LangGraph.
+    Assemble le graphe LangGraph selon le flux séquentiel :
+    
+        START → Nœud 1 → Nœud 2 → END
+    
+    Le nœud 1 réalise :
+        - l'analyse du hors-contexte ;
+        - l'analyse de la cohérence image–rumeur.
+    
+    Le nœud 2 synthétise les résultats produits par le nœud 1.
     
     Returns:
-        CompiledStateGraph: Le graphe prêt à être exécuté par le backend FastAPI.
+        CompiledStateGraph: Le graphe compilé prêt à être exécuté.
     """
-    
-    # 1. Initialisation du graphe avec notre structure de mémoire partagée
+
+    # 1. Initialisation du graphe
     workflow = StateGraph(AgentState)
-    
-    # 2. Enregistrement des nœuds computationnels (les Agents)
-    workflow.add_node("Agent_Verificateur_Principal", agent_verificateur_principal)
-    workflow.add_node("Agent_Chercheur_Web", agent_chercheur_web)
-    workflow.add_node("Agent_Synthetiseur_Verdict", agent_synthetiseur_verdict)
-    
-    # 3. Définition des liaisons séquentielles directes (Fixed Edges)
-    # Le point de départ pointe toujours vers le vérificateur principal
-    workflow.add_edge(START, "Agent_Verificateur_Principal")
-    
-    # Le chercheur web renvoie toujours ses résultats au vérificateur principal
-    workflow.add_edge("Agent_Chercheur_Web", "Agent_Verificateur_Principal")
-    
-    # Le synthétiseur met fin au cycle du graphe
-    workflow.add_edge("Agent_Synthetiseur_Verdict", END)
-    
-    # 4. Configuration du Carrefour FIRE (Routage Conditionnel)
-    # À la sortie du vérificateur principal, on applique la fonction de routage
-    workflow.add_conditional_edges(
-        "Agent_Verificateur_Principal",
-        routeur_fire,
-        {
-            "vers_recherche": "Agent_Chercheur_Web",
-            "vers_synthese": "Agent_Synthetiseur_Verdict"
-        }
-    )
-    
-    # 5. Compilation finale du flux
+
+    # 2. Enregistrement des nœuds
+    workflow.add_node("node_1", node_1)
+    workflow.add_node("node_2", node_2)
+
+    # 3. Définition du flux
+    workflow.add_edge(START, "node_1")
+    workflow.add_edge("node_1", "node_2")
+    workflow.add_edge("node_2", END)
+
+    # 4. Compilation
     graphe_compile = workflow.compile()
+
     return graphe_compile

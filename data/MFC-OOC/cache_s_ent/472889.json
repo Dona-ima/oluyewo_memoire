@@ -1,0 +1,41 @@
+{
+  "id_rumeur": 472889,
+  "id_image": 472889,
+  "s_ent_par_k": {
+    "5": {
+      "score": 0.75,
+      "comparaison": {
+        "PERSON": 0,
+        "LOCATION": 1,
+        "ORGANIZATION": 0,
+        "DATE": 1,
+        "EVENT": 0,
+        "OTHER": 1
+      },
+      "categories_comparables": [
+        "LOCATION",
+        "ORGANIZATION",
+        "DATE",
+        "OTHER"
+      ]
+    },
+    "3": {
+      "score": 0.5,
+      "comparaison": {
+        "PERSON": 0,
+        "LOCATION": 1,
+        "ORGANIZATION": 0,
+        "DATE": 0,
+        "EVENT": 0,
+        "OTHER": 1
+      },
+      "categories_comparables": [
+        "LOCATION",
+        "ORGANIZATION",
+        "DATE",
+        "OTHER"
+      ]
+    }
+  },
+  "seuil_dominance_utilise": 0.4
+}

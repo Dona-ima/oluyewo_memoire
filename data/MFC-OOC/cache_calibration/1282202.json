@@ -1,0 +1,645 @@
+{
+  "id_rumeur": 1282202,
+  "id_image": 1282202,
+  "caption": "The Grocer has reported that Tesco is set to introduce screens in its petrol stations that scan customers faces",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757033/oluyewo_benchmark/qpwar6f6zeisq56pll9x.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Tesco's face scanning system: the key questions answered ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2013/nov/04/tescos-face-scanning-system-the-key-questions-answered",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/11/3/1383521880043/A-Tesco-petrol-station-009.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStTHsFOXbCryWPDtvGcgQp0Yyrlzffbq9zrOzPEXM9yPkQZaKb",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Tesco's face scanning system: the key questions answered ...",
+        "link": "https://www.theguardian.com/technology/2013/nov/04/tescos-face-scanning-system-the-key-questions-answered",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f01ea5989b911d1ec6c62/images/d-xcEJYRutGi1Emctg-oKlkdsc3ooYHaUPdytu44Ep0.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStTHsFOXbCryWPDtvGcgQp0Yyrlzffbq9zrOzPEXM9yPkQZaKb",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/11/3/1383521880043/A-Tesco-petrol-station-009.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Tesco's face scanning system: the key questions answered | Technology\n\nQ: Where and why is my face being scanned, and who is doing it?\n\nA: Tesco has announced that it will begin using a face-scanning technology in all of its 450 petrol stations in the UK that can determine your gender and approximate age (child, young adult, adult, senior adult) while you wait in a line to pay. That information will be used to show relevant adverts in a screen visible from the line.\n\nQ: Who's behind this technology?\n\nA: Amscreen - run by Simon Sugar, son of Lord Sir Alan Sugar, of Am-company fame - has licensed the technology from a French company called Quividi, which developed the face detection software.\n\nQ: So it's not a British innovation?\n\nA: The advertising part is: Amscreen says its \"real-time digital network\" will \"deliver engaging and dynamic content to a weekly audience of over five million adults.\" (The demonstration picture shows a middle-aged man being confronted with an advert for Sky.) It's part of Amscreen's \"Optimeyes\" system which uses 6,000 screens around petrol forecourts, health clubs, shops and airports: \"the rollout of this technology represents the largest of its kind anywhere in the world.\"\n\nThe face detection, though, comes from Quividi, based in Paris. It set up in 2006, and has clients including Coca-Cola and Plan, which used its technique earlier this year in the UK for bus adverts which showed different\n\nQ: Doesn't this invade my privacy? I don't want to be recorded when I visit a petrol station\n\nA: \"We don't do facial recognition, we do face detection,\" Ke Quang, chief operating officer of Quividi, told the Guardian on Monday. \"It's software which works from the video feed coming off the camera. It can detect if it's seeing a face, but it never records the image or biomorphological information or traits. It picks up if it's seeing a man or a woman, the amount of time they pay attention to the screen, and their presence in front of the screen. The key thing though is that it never records or remembers any information. If you go from one camera in one location to another, it can't tell.\"\n\nQ: What's the point of it?\n\nA: To show you more adverts when you might otherwise not be looking at adverts.\n\nQ: How accurate is the face detection system?\n\nA: Pretty good when it comes to telling men from women - unless you wear a baseball cap. Quividi has a study on its site carried out by an independent company in the US: from a sample of 856 people, of whom 72% were men, it was 95% accurate in spotting men, and 87% for women. The score with women was lower because nearly a fifth of them were wearing baseball caps. If you exclude them, it hit 92% accuracy in spotting women. There's no way that's chance.\n\nQ: How exactly does the facial detection work?\n\nA: Quang wouldn't explain - \"that's our secret sauce\" - but it's long been known that there are key differences between male and female faces, relating to width of forehead, ratio of facial height to width, and so on. Quividi apparently recognises faces and then carries out this calculation very rapidly, adding in details about age.\n\nQ: Is this the first time this has been used in the UK?\n\nA: No - in February 2012 the charity Plan used it for adverts on bus shelters: if the person looking at the screen was male, they saw details of Plan's website; if they were female, they saw a video campaign in which three girls talked about their lives.\n\nQ: Where else is this used?\n\nA: In quite a few locations around the world, judging by Quividi's site: it shows customers in North America, Latin America, Europe, Asia and New Zealand. It claims to be used in 2,500 locations in 35 countries.\n\nQ: How do I beat it?\n\nA: Wear a baseball cap or other hat that covers your eyes and forehead; don't look at the screen showing the ads; and try using the \"Pay at Pump\" option so you don't have to go inside the petrol station shop.",
+        "metadata": {
+          "title": "Tesco's face scanning system: the key questions answered | Technology | The Guardian",
+          "description": "A<a href=\"https://www.theguardian.com/business/2013/nov/03/privacy-tesco-scan-customers-faces\">nnouncement</a> that Tesco will use system in its petrol station shops has some concerned. We talk to the company behind it. By <strong>Charles Arthur</strong>",
+          "og:url": "http://www.theguardian.com/technology/2013/nov/04/tescos-face-scanning-system-the-key-questions-answered",
+          "article:author": "https://www.theguardian.com/profile/charlesarthur",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/11/3/1383521880043/A-Tesco-petrol-station-009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=fe02b5a5f44b87cc8f7b7f371430cb58",
+          "al:ios:url": "gnmguardian://technology/2013/nov/04/tescos-face-scanning-system-the-key-questions-answered?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Tesco's face scanning system: the key questions answered",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-21T19:05:55.000Z",
+          "og:image:height": "720",
+          "og:description": "Announcement that Tesco will use system in its petrol station shops has some concerned. We talk to the company behind it. By Charles Arthur",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2013-11-04T15:56:53.000Z",
+          "article:tag": "Technology,Data protection,Privacy",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Tesco annonce l'utilisation d'une technologie de détection faciale dans ses 450 stations-service au Royaume-Uni pour déterminer le genre et l'âge approximatif des clients faisant la queue afin de diffuser des publicités ciblées sur des écrans. La technologie est développée par la société française Quividi et exploitée via le réseau numérique d'Amscreen, dirigé par Simon Sugar, fils de Lord Sir Alan Sugar. Le système effectue une détection faciale en temps réel sans enregistrer ni stocker d'images ou d'informations biomorphologiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Simon Sugar",
+          "Alan Sugar",
+          "Ke Quang"
+        ],
+        "LOCATION": [
+          "UK",
+          "Paris",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "Tesco",
+          "The Guardian",
+          "Amscreen",
+          "Quividi",
+          "Coca-Cola",
+          "Plan",
+          "Sky"
+        ],
+        "DATE": [
+          "2013",
+          "November 2013",
+          "Monday",
+          "2006",
+          "earlier this year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Optimeyes"
+        ]
+      },
+      "score_e5": 0.819604629146542
+    },
+    {
+      "titre": "Quividi defends Tesco face scanners after claims over ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/2013/nov/04/quividi-defends-tesco-face-scanners",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2013/11/4/1383590695746/Tesco-sign-at-petrol-stat-009.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVu_VNGcErBW6AeuQRk6vtAPK3tN1N0Cl9kFprNaRRfoTnZvor",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Quividi defends Tesco face scanners after claims over ...",
+        "link": "https://www.theguardian.com/business/2013/nov/04/quividi-defends-tesco-face-scanners",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f01ea5989b911d1ec6c62/images/m_0n64xYTtsxfQh8wkdXLP5kWW0hbxmoBMGtUzwxgps.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVu_VNGcErBW6AeuQRk6vtAPK3tN1N0Cl9kFprNaRRfoTnZvor",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2013/11/4/1383590695746/Tesco-sign-at-petrol-stat-009.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Quividi defends Tesco face scanners after claims over customers' privacy | Tesco\n\nThe technology company behind plans by Tesco to use face-scanning software to target adverts at its shoppers has hit back at claims the system will breach customers' privacy.\n\nIt emerged on Sunday that Tesco is planning to install the Optimeyes system in all 450 of its petrol stations. The software can analyse images and distinguish men from women and segment them by age, raising privacy fears among some who think it could be used to monitor people's movements.\n\nBut Ke Quang, chief operating officer of Quividi, the Paris-based company that developed the software, insisted the system did not retain information about faces it identifies and so cannot track people's movements. \"We don't do facial recognition, we do face detection,\" Quang told the Guardian on Monday. \"It's software which works from the video feed coming off the camera. It can detect if it's seeing a face, but it never records the image or biomorphological information or traits. It picks up if it's seeing a man or a woman, the amount of time they pay attention to the screen, and their presence in front of the screen. The key thing though is that it never records or remembers any information. If you go from one camera in one location to another, it can't tell.\"\n\nThe advertising system developed by the British company Amscreen, which is owned by Labour peer Lord Sugar and uses the information about the number, age and gender of the people who are in viewing range of the screen, is able to alter the adverts that it shows depending on who is there. Advertisers can use the information to screen adverts in locations and at times of day that will be most effective at reaching their target audience.\n\nNick Pickles, of the pressure group Big Brother Watch, said the system did raise privacy concerns: \"Scanning customers as they walk through the store without customers ever giving permission for them to be scanned in that way … there's a huge consent issue there.\"\n\nQuividi's tests have found it to be more than 90% effective at picking men from women. It also aims to segment viewers by age into child, young adult, adult and senior adult. But tests in the US did find that its accuracy dropped substantially – to only 50% – when people, especially women, wore baseball caps. Those obscure parts of the face which the system needs to recognise key elements of the face.\n\nKe Quang refused to say how the system tells the difference between male and female faces. \"That's our secret sauce,\" he said. But facial recognition systems have long been able to determine gender based on the ratios of the length to the width of the face, placement of eyes, relative height of forehead, and the shape of the chin.\n\nSimon Sugar, the son of Sugar and chief executive of Amscreen, told industry magazine The Grocer that \"it's like something out of Minority Report\" – the Tom Cruise film in which adverts were tailored to passersby, who were identified by retinal scans – \"but this could change the face of British retail and our plans are to expand the screens into as many supermarkets as possible.\"\n\nThe system has already been used in the UK by the charity Plan UK, which in early 2012 used it for an advertising campaign in bus shelters. The screens identified whether the viewer was a man or a woman; men would see information about the Plan website, while women would see a video about the experiences of a number of women from around the world.",
+        "metadata": {
+          "title": "Quividi defends Tesco face scanners after claims over customers' privacy | Tesco | The Guardian",
+          "description": "Chief operating officer insists system does not retain information about faces and cannot track people's movements",
+          "og:url": "http://www.theguardian.com/business/2013/nov/04/quividi-defends-tesco-face-scanners",
+          "article:author": "https://www.theguardian.com/profile/charlesarthur",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2013/11/4/1383590695746/Tesco-sign-at-petrol-stat-009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=681d093c0aef68aabb15d2539bee3e08",
+          "al:ios:url": "gnmguardian://business/2013/nov/04/quividi-defends-tesco-face-scanners?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Quividi defends Tesco face scanners after claims over customers' privacy",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-02T18:15:59.000Z",
+          "og:image:height": "720",
+          "og:description": "Chief operating officer insists system does not retain information about faces and cannot track people's movements",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Business",
+          "article:published_time": "2013-11-04T18:46:14.000Z",
+          "article:tag": "Tesco,Supermarkets,Retail industry,Software,Business,UK news,Privacy,Computing,Technology",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La société Quividi défend son système de détection faciale destiné aux stations-service de Tesco, rejetant les critiques concernant la vie privée. L'installation du système Optimeyes dans 450 stations-service au Royaume-Uni soulève des inquiétudes quant au suivi des mouvements des clients, mais les responsables affirment que le logiciel analyse les images en temps réel sans enregistrer ni conserver aucune information ou caractéristique faciale. L'entreprise britannique Amscreen, dirigée par Simon Sugar et liée à Lord Sugar, utilise ces données pour adapter les publicités diffusées sur ses écrans en fonction de l'audience.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ke Quang",
+          "Lord Sugar",
+          "Nick Pickles",
+          "Simon Sugar",
+          "Tom Cruise"
+        ],
+        "LOCATION": [
+          "UK",
+          "Paris",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "Tesco",
+          "The Guardian",
+          "Quividi",
+          "Amscreen",
+          "Big Brother Watch",
+          "The Grocer"
+        ],
+        "DATE": [
+          "2013",
+          "November 2013",
+          "Sunday",
+          "Monday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Optimeyes",
+          "Minority Report"
+        ]
+      },
+      "score_e5": 0.8051119955990994
+    },
+    {
+      "titre": "Tesco Petrol CHX (@TescoPetrol3877) / Posts / X",
+      "source": "Twitter",
+      "lien": "https://x.com/tescopetrol3877",
+      "image_url": "https://pbs.twimg.com/profile_images/685870026583310337/k5F-KlmR.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvIJkCI7vJE6uxaH5dP_V45VU4iJXREnXo2_fm1qlzlu8C5Zal",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Tesco Petrol CHX (@TescoPetrol3877) / Posts / X",
+        "link": "https://x.com/tescopetrol3877",
+        "source": "Twitter",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAD____f398QEBAgICDv7-9wcHBAQECAgIC_v7_Pz8-vr6-QkJAwMDBQUFCfn59gYGBA_ZVxAAAA2ElEQVQ4jc1SSRLDIAzD7GuS_7-2yKQNENJrqwMMFiBbthB_gkSMrY_F_qik8d4bo69QJt9fd2SFOCh8An7k8aAIseMaw1KaslBSKig1kUL1NMFRxsIiWko98xBxWCx4s-CFihCJRquIqwsUJFZMvFKdYcFYmgvsEKAdHgQ4exOw3EucRfKXL2BoehSpBRo29EkkkbXN0LUIdzA1Q7clj3fvrt1FNoq8O9rhapj5Wv7ZoUzHWfDAXx1uUxHGjioJA07wVLCrQ4HdKdPufexD04jW_4Dl2PwELxkCBNiT_pD8AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvIJkCI7vJE6uxaH5dP_V45VU4iJXREnXo2_fm1qlzlu8C5Zal",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://pbs.twimg.com/profile_images/685870026583310337/k5F-KlmR.jpg",
+        "image_width": 276,
+        "image_height": 276
+      },
+      "webpage": null,
+      "texte_contexte": "Page de profil ou de publication sur la plateforme X associée à Tesco Petrol CHX.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Tesco Petrol CHX",
+          "X"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7991518689661118
+    },
+    {
+      "titre": "Tesco's plan to tailor adverts via facial recognition stokes ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/2013/nov/03/privacy-tesco-scan-customers-faces",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2013/11/4/1383590695746/Tesco-sign-at-petrol-stat-009.jpg?width=220&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk5HDGVagKSjImjiSCBXFCf7UdSGX5Phha2EXCUzkp-G8hJx0c",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Tesco's plan to tailor adverts via facial recognition stokes ...",
+        "link": "https://www.theguardian.com/business/2013/nov/03/privacy-tesco-scan-customers-faces",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f01ea5989b911d1ec6c62/images/SOdBmXbwTmJWx8z1g09O15F3IBZuKSfkjL9OpBwBicY.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk5HDGVagKSjImjiSCBXFCf7UdSGX5Phha2EXCUzkp-G8hJx0c",
+        "thumbnail_width": 176,
+        "thumbnail_height": 220,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pixies/2013/11/4/1383590695746/Tesco-sign-at-petrol-stat-009.jpg?width=220&dpr=1&s=none&crop=5:4",
+        "image_width": 176,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "Tesco's plan to tailor adverts via facial recognition stokes privacy fears | Tesco\n\nTesco is set to install hi-tech screens that scan customers' faces in petrol stations so that advertisements can be tailored to suit them, it has been reported.\n\nThe retailer will introduce the OptimEyes screen, developed by Lord Sugar's Amscreen, to all 450 of its UK petrol stations, in a five-year deal, according to The Grocer.\n\nThe screen, positioned at the till, scans the eyes of customers to determine age and gender, and then runs tailored advertisements.\n\nThe technology also adjusts adverts depending on the time and date, as well as monitoring customer purchases, The Grocer said.\n\nThe screens are predicted to reach a weekly audience of more than five million adults.\n\nSimon Sugar, CEO of Amscreen, told the industry magazine: \"Yes it's like something out of Minority Report, but this could change the face of British retail and our plans are to expand the screens into as many supermarkets as possible.\"\n\nPrivacy campaigners say the system puts forward a \"huge consent issue\".\n\nNick Pickles of Big Brother Watch said: \"Scanning customers as they walk through the store without customers ever giving permission for them to be scanned in that way … there's a huge consent issue there.\"\n\nPickles said facial recognition technology is getting more advanced all the time, adding that you could be queuing to pay for groceries and a CCTV camera could be \"literally scanning who you are\".\n\nHe said companies and stores using this system must tell their customers.\n\n\"If people were told that every time they walked into a supermarket, or a doctor's surgery or a law firm, that the CCTV camera in the corner is trying to find out who they are, I think that will have a huge impact on what buildings people go into,\" he said.\n\nPickles said the only way the systems can be ethically deployed is if consumers opt in to have their image stored and their behaviour tracked, rather than there being no choice in the matter.",
+        "metadata": {
+          "title": "Tesco's plan to tailor adverts via facial recognition stokes privacy fears | Tesco | The Guardian",
+          "description": "<p>Retailer reportedly set to introduce screens developed by Lord Sugar's Amscreen that will run tailored advertisements</p>",
+          "og:url": "http://www.theguardian.com/business/2013/nov/03/privacy-tesco-scan-customers-faces",
+          "article:author": "https://www.facebook.com/PAMediaGroupUK/",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/11/3/1383521880043/A-Tesco-petrol-station-009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=fe02b5a5f44b87cc8f7b7f371430cb58",
+          "al:ios:url": "gnmguardian://business/2013/nov/03/privacy-tesco-scan-customers-faces?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Tesco's plan to tailor adverts via facial recognition stokes privacy fears",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2020-07-01T16:36:38.000Z",
+          "og:image:height": "720",
+          "og:description": "Retailer reportedly set to introduce screens developed by Lord Sugar's Amscreen that will run tailored advertisements",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Business",
+          "article:published_time": "2013-11-04T15:38:00.000Z",
+          "article:tag": "Tesco,Privacy,Supermarkets,Retail industry,Business,Advertising,Media,UK news,Technology,Facial recognition",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Tesco prévoit d'installer des écrans dotés d'une technologie de reconnaissance faciale dans l'ensemble de ses 450 stations-service au Royaume-Uni dans le cadre d'un accord sur cinq ans. Développés par Amscreen (dirigée par Simon Sugar), les écrans OptimEyes situés aux caisses scannent le visage des clients pour déterminer leur âge et leur genre afin de diffuser des publicités adaptées et de surveiller les achats. Des militants de la vie privée, tels que Nick Pickles de Big Brother Watch, critiquent le manque de consentement des clients face à ce système.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Lord Sugar",
+          "Simon Sugar",
+          "Nick Pickles"
+        ],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "Tesco",
+          "Amscreen",
+          "The Grocer",
+          "Big Brother Watch"
+        ],
+        "DATE": [
+          "2013"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "OptimEyes",
+          "Minority Report"
+        ]
+      },
+      "score_e5": 0.836161561512232
+    },
+    {
+      "titre": "How Tesco Fed The Country During The Pandemic | Inside ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=Y2UCv4pLzLk",
+      "image_url": "https://i.ytimg.com/vi/Y2UCv4pLzLk/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEHkq_CrPfARukotzsvwu4X4SyL4WjOZg_7mSd7lLwDrKuMDd",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "How Tesco Fed The Country During The Pandemic | Inside ...",
+        "link": "https://www.youtube.com/watch?v=Y2UCv4pLzLk",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEHkq_CrPfARukotzsvwu4X4SyL4WjOZg_7mSd7lLwDrKuMDd",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/Y2UCv4pLzLk/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "How Tesco Fed The Country During The Pandemic | Inside Tesco: 24/7 | Channel 5\n\nChannel 5\n\nSubscribe to Channel 5 for more: https://bit.ly/35P9Rz7Watch this and more Full Episodes on My5: https://tinyurl.com/y5fvp6lyHow Britain's biggest supermarke...",
+        "metadata": {
+          "title": "How Tesco Fed The Country During The Pandemic | Inside Tesco: 24/7 | Channel 5",
+          "description": "Subscribe to Channel 5 for more: https://bit.ly/35P9Rz7Watch this and more Full Episodes on My5: https://tinyurl.com/y5fvp6lyHow Britain's biggest supermarke...",
+          "keywords": "Channel 5, Channel 5 UK, My5, official channel 5, Watch Channel 5, C5, 5 TV, my5UK, channel five, cfive, myfive, official channel five, full episode, Tesco, Supermarket, Food, Groceries, Coronavirus, Pandemic, Crisis",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=Y2UCv4pLzLk",
+          "og:title": "How Tesco Fed The Country During The Pandemic | Inside Tesco: 24/7 | Channel 5",
+          "og:image": "https://i.ytimg.com/vi/Y2UCv4pLzLk/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Subscribe to Channel 5 for more: https://bit.ly/35P9Rz7Watch this and more Full Episodes on My5: https://tinyurl.com/y5fvp6lyHow Britain's biggest supermarke...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=Y2UCv4pLzLk&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=Y2UCv4pLzLk&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=Y2UCv4pLzLk&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/Y2UCv4pLzLk",
+          "og:video:secure_url": "https://www.youtube.com/embed/Y2UCv4pLzLk",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "Crisis",
+          "fb:app_id": "87741124305",
+          "twitter:title": "How Tesco Fed The Country During The Pandemic | Inside Tesco: 24/7 | Channel 5",
+          "twitter:description": "Subscribe to Channel 5 for more: https://bit.ly/35P9Rz7Watch this and more Full Episodes on My5: https://tinyurl.com/y5fvp6lyHow Britain's biggest supermarke..."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "@id": "https://www.youtube.com/watch?v=Y2UCv4pLzLk",
+          "name": "How Tesco Fed The Country During The Pandemic | Inside Tesco: 24/7 | Channel 5",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Y2UCv4pLzLk/maxresdefault.jpg",
+          "uploadDate": "2021-06-30T11:00:09-07:00",
+          "comment": [
+            {
+              "@type": "https://schema.org/Comment",
+              "dateCreated": "2021-07-09T17:19:22-07:00",
+              "text": "This feels like come fly with me",
+              "author": {
+                "@type": "https://schema.org/Person",
+                "name": "@Dempy",
+                "url": "https://www.youtube.com/@Dempy",
+                "alternateName": "Dempy"
+              },
+              "upvoteCount": 339
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Émission télévisée intitulée 'How Tesco Fed The Country During The Pandemic' diffusée sur la chaîne Channel 5, abordant la gestion de Tesco pendant la pandémie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Tesco",
+          "Channel 5",
+          "My5"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Pandemic"
+        ],
+        "OTHER": [
+          "How Tesco Fed The Country During The Pandemic Inside Tesco: 24/7"
+        ]
+      },
+      "score_e5": 0.7626945089482569
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "The Grocer",
+      "Tesco"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Simon Sugar",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alan Sugar",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ke Quang",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tesco",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Amscreen",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Quividi",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Coca-Cola",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Plan",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sky",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 2013",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2006",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "earlier this year",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Optimeyes",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lord Sugar",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nick Pickles",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tom Cruise",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Big Brother Watch",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Grocer",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Minority Report",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tesco Petrol CHX",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "X",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Channel 5",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "My5",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Pandemic",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "How Tesco Fed The Country During The Pandemic Inside Tesco: 24/7",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T19:04:37.333743"
+  }
+}

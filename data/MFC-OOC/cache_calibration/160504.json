@@ -1,0 +1,932 @@
+{
+  "id_rumeur": 160504,
+  "id_image": 1554057,
+  "caption": "Tucked into what used to be an elevator shaft Mmuseumm in Lower Manhattan has spoons a semifamous shoe and 1980s toys",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756915/oluyewo_benchmark/nj8gjy7oytu7ybaugxsz.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Fenwick Christmas window display to be unveiled virtually ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/news/uk-england-tyne-54705891",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/338E/production/_115089131_bdab7237-ca91-4286-a69b-2d198ddcf87d.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc4G6088bpcM7E7lyxjuNR0nP92t5nmjD8KnHabtrlWzLFbtyi",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Fenwick Christmas window display to be unveiled virtually ...",
+        "link": "https://www.bbc.co.uk/news/uk-england-tyne-54705891",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEX___8AAABDQ0PQ0NA_Pz_l5eXT09PW1tYZGRnf39_5-fn29vbZ2dnp6elSUlJiYmJoaGgQEBA7OzsJnrLuAAAAW0lEQVQ4je2Quw7AIAgArQKKb_3_j60Vk45uTt50ITcASl2O4a2ZWB-iWAz_bAQpgx5AQa5ilbGI5TQCbM-kM4EYEHexhl_g1phJi2nilbpTwW7J7ZnbR10O8QLINgU5f1dY_AAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc4G6088bpcM7E7lyxjuNR0nP92t5nmjD8KnHabtrlWzLFbtyi",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/338E/production/_115089131_bdab7237-ca91-4286-a69b-2d198ddcf87d.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "A Newcastle department store is to reveal the opening of its animated Christmas window display virtually, due to the coronavirus pandemic.\n\nThe Fenwick's unveiling always attracts large crowds, but this year people have been asked to stay at home and watch it on social media.\n\nThe section of Northumberland Street in front will be closed during the \"curtain drop\" on 8 November.\n\nAfter this, people viewing the window are asked to observe social distancing.\n\nThe store's Christmas window display has been running since 1971, and its opening has previously attracted about 2,000 people.",
+        "metadata": {
+          "description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/349C/production/_115086431_fenwick-window-reveal-2020.jpg",
+          "og:image:alt": "Window",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Fenwick Christmas window display to be unveiled virtually",
+          "og:type": "article",
+          "og:url": "https://www.bbc.co.uk/news/uk-england-tyne-54705891",
+          "article:section": "Tyne & Wear",
+          "twitter:description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "twitter:title": "Fenwick Christmas window display to be unveiled virtually"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.co.uk/news/uk-england-tyne-54705891",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2020-10-27T14:38:12.000Z",
+          "dateModified": "2020-10-27T14:38:12.000Z",
+          "description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "headline": "Fenwick Christmas window display to be unveiled virtually",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/349C/production/_115086431_fenwick-window-reveal-2020.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/349C/production/_115086431_fenwick-window-reveal-2020.jpg",
+          "mainEntityOfPage": "https://www.bbc.co.uk/news/uk-england-tyne-54705891",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un grand magasin à Newcastle, Fenwick, annonce que son vitrine de Noël animée sera dévoilée virtuellement en raison de la pandémie de coronavirus. L'événement habituel attire de grandes foules, mais le public est invité à rester chez soi et à le regarder sur les réseaux sociaux. La section de Northumberland Street devant le magasin sera fermée pendant la tombée du rideau le 8 novembre, après quoi les visiteurs pourront observer la vitrine en respectant la distanciation sociale. Cette tradition existe depuis 1971.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Newcastle",
+          "Northumberland Street"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Fenwick"
+        ],
+        "DATE": [
+          "8 November",
+          "1971"
+        ],
+        "EVENT": [
+          "Christmas window display"
+        ],
+        "OTHER": [
+          "coronavirus pandemic"
+        ]
+      },
+      "score_e5": 0.6953956935572123
+    },
+    {
+      "titre": "Fenwick's Christmas window in Newcastle explored in new ...",
+      "source": "Chronicle Live",
+      "lien": "https://www.chroniclelive.co.uk/whats-on/arts-culture-news/fenwicks-christmas-window-newcastle-explored-10307876",
+      "image_url": "https://i2-prod.chroniclelive.co.uk/article10309743.ece/ALTERNATES/s1200/JS74581569.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKVjoStjH2jFqeDSBNVE9tPRhiWndhl7t1zs66U0cJllA0_BuI",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Fenwick's Christmas window in Newcastle explored in new ...",
+        "link": "https://www.chroniclelive.co.uk/whats-on/arts-culture-news/fenwicks-christmas-window-newcastle-explored-10307876",
+        "source": "Chronicle Live",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAZbMHabT___8TcLgfd7zn8Pcle70WcrkLbLW_2Ovs9Pn4-_z7_P4pfr4Ja7ZenM57rtdspdM9isWTvt7b6fTI3u82hcKMudycw-GuzebS4_F1q9a41Orj7fZkodBVl8tHj8fD2-1Pk8r5QjzQAAABRklEQVQ4jdVSSYKEIBBTZBGQVRBBbG3__8hB-zDt8oCZXBOoVCpV9d9QtwRjUYBhUz_xElpldIFZhuZGSyKs0mPMlObYGwvbi4BYM9LkZlQwOxoUvLwfpugYcv79Toh3zAdxeT_lmSHav7ZF55lzFu3JnzBxBjyFBTdk7RMDHbVfi9TNOjrGWV5gW8tBU9bxvMpfRYsVLXPTZy5UIeYchi8BsTp1wI0vfMihsNaK76zg0jsAkrbkIb8deLcIkhH3_D4QOiMAvMLt4bjcAxNZnwT0EEC588MUQola3n4oI4hssJ2ip_12Enw8uF4JKLZAHXLjejo43ELioARtlAkesZmeUqiqRrwy4xy55L1jjFFt4akxdWNDTg4Vrpw65WCvjarhXpbsvadx1GqAt8aV5VelQwjaqLLhQyP3woqjsJi0T439y_gBFSYWuFti0XoAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKVjoStjH2jFqeDSBNVE9tPRhiWndhl7t1zs66U0cJllA0_BuI",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i2-prod.chroniclelive.co.uk/article10309743.ece/ALTERNATES/s1200/JS74581569.jpg",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Fenwick's Christmas window in Newcastle explored in new Discovery Museum exhibition\n\nThe iconic seasonal tradition is celebrated, while visitors are also given a peek behind the scenes in Fenwick Unwrapped\n\n\nThe Christmas window display at Fenwick Newcastle has long been a tradition during the festive period for many North East families over the years.\n\nSome will remember the first time Alice in Wonderland was featured in 1981 like it was yesterday... or when Peter Pan flew over from Neverland in 1999.\n\nNow, visitors to the Discovery Museum in Newcastle can find out and reminisce about how Christmas has been celebrated at the Tyneside department store in the Fenwick Unwrapped exhibition, which opens on Saturday, November 7.\n\nThe much celebrated Christmas window has been a feature of Christmas tradition in the North East for over 40 years, and the Fenwick Toy Fair has long been a favourite with North East shoppers too.\n\nAs well as exploring the history of the annual festive displays, visitors to the exhibition will also get a glimpse into how Christmas is created at the store.\n\nThey will be able to step into a Christmas emporium full of festive favourites including top selling Christmas toys from the 1930s to the present day, traditions of Christmas time for families, festive stories and a behind-the-scenes look at what goes into the creation of the Fenwick Christmas window.\n\nThe Fenwick Archive, which is stored in the Tyne & Wear Archives at Discovery Museum, is rich with images of the store at Christmas over the years and also holds many historic Christmas advertising campaigns for the store.\n\nDiscovery Museum and Tyne & Wear Archives manager, Carolyn Ball says: “Christmas is always a magical time of year for families and a visit to Fenwick Newcastle at Christmas time has been not only one of my family traditions, but also that of many others.\n\n“I’m delighted we are able to bring this exhibition together using items from the Discovery and Tyne & Wear Archives collections as well as the Fenwick Archive. I’m sure the exhibition will bring joy and ignite that festive spirit for all who visit.”\n\nFenwick Unwrapped launches on Saturday, November 7 with a day of festive activities and crafts plus visits from reindeer and maybe even the man himself, Santa Claus.\n\nThe exhibition will be on show until Saturday, January 10, with Discovery Museum being open throughout the Christmas holidays except for Christmas Day, Boxing Day and New Year’s Day.\n\nThere will also be a large festive event programme including visits from Bjorn the Bear and Santa Claus, a family Christmas disco, Christmas films and live performances by Hopscotch Entertainment. Visit www.discoverymuseum.org.uk/whats-on for full details.\n\nChoose Chronicle Live as a 'Preferred Source' on Google News for quick access to the news you value.\n\n----------------------------------------\n\n * Discovery Museum\n * Newcastle upon Tyne\n * Museums\n * Fenwick",
+        "metadata": {
+          "title": "Fenwick&#x27;s Christmas window in Newcastle explored in new Discovery Museum exhibition | Chronicle Live",
+          "fb:app_id": "218821201516146",
+          "fb:pages": "1439792596294897",
+          "fb:page_id": "124685800957368",
+          "description": "The iconic seasonal tradition is celebrated, while visitors are also given a peek behind the scenes in Fenwick Unwrapped",
+          "author": "Sam Wonfor",
+          "keywords": "Discovery Museum, Newcastle upon Tyne, Museums, Fenwick",
+          "news_keywords": "Discovery Museum, Newcastle upon Tyne, Museums, Fenwick",
+          "og:title": "Fenwick's Christmas window in Newcastle explored in new Discovery Museum exhibition",
+          "og:description": "The iconic seasonal tradition is celebrated, while visitors are also given a peek behind the scenes in Fenwick Unwrapped",
+          "og:url": "http://www.chroniclelive.co.uk/whats-on/arts-culture-news/fenwicks-christmas-window-newcastle-explored-10307876",
+          "og:site_name": "Chronicle Live",
+          "og:locale": "en_GB",
+          "og:image": "https://i2-prod.chroniclelive.co.uk/article10309743.ece/ALTERNATES/s1200d/JS74581569.jpg",
+          "og:type": "article",
+          "article:published_time": "2015-10-22T10:30:00Z",
+          "article:modified_time": "2015-10-22T08:47:19Z",
+          "article:author": "https://www.chroniclelive.co.uk/authors/sam-wonfor/",
+          "article:section": "Arts & Culture",
+          "article:tag": "Fenwick",
+          "twitter:title": "Fenwick's Christmas window in Newcastle explored in new Discovery Museum exhibition",
+          "twitter:description": "The iconic seasonal tradition is celebrated, while visitors are also given a peek behind the scenes in Fenwick Unwrapped"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.chroniclelive.co.uk/whats-on/arts-culture-news/fenwicks-christmas-window-newcastle-explored-10307876",
+          "inLanguage": "en-GB",
+          "headline": "Fenwick's Christmas window in Newcastle explored in new Discovery Museum exhibition",
+          "name": "Fenwick's Christmas window in Newcastle explored in new Discovery Museum exhibition",
+          "description": "The iconic seasonal tradition is celebrated, while visitors are also given a peek behind the scenes in Fenwick Unwrapped",
+          "articleBody": "The Christmas window display at  Fenwick Newcastle  has long been a tradition during the festive period for many North East families over the years. Some will remember the first time Alice in Wonderland was featured in 1981 like it was yesterday... or when Peter Pan flew over from Neverland in 1999. Now, visitors to the  Discovery Museum in Newcastle  can find out and reminisce about how Christmas has been celebrated at the Tyneside department store in the Fenwick Unwrapped exhibition, which opens on Saturday, November 7. The much celebrated Christmas window has been a feature of Christmas tradition in the North East for over 40 years, and the Fenwick Toy Fair has long been a favourite with North East shoppers too. As well as exploring the history of the annual festive displays, visitors to the exhibition will also get a glimpse into how Christmas is created at the store. They will be able to step into a Christmas emporium full of festive favourites including top selling Christmas toys from the 1930s to the present day, traditions of Christmas time for families, festive stories and a behind-the-scenes look at what goes into the creation of the Fenwick Christmas window. The Fenwick Archive, which is stored in the Tyne & Wear Archives at Discovery Museum, is rich with images of the store at Christmas over the years and also holds many historic Christmas advertising campaigns for the store. Discovery Museum and Tyne & Wear Archives manager, Carolyn Ball says: “Christmas is always a magical time of year for families and a visit to Fenwick Newcastle at Christmas time has been not only one of my family traditions, but also that of many others. “I’m delighted we are able to bring this exhibition together using items from the Discovery and Tyne & Wear Archives collections as well as the Fenwick Archive. I’m sure the exhibition will bring joy and ignite that festive spirit for all who visit.” Fenwick Unwrapped launches on Saturday, November 7 with a day of festive activities and crafts plus visits from reindeer and maybe even the man himself, Santa Claus. The exhibition will be on show until Saturday, January 10, with Discovery Museum being open throughout the Christmas holidays except for Christmas Day, Boxing Day and New Year’s Day. There will also be a large festive event programme including visits from Bjorn the Bear and Santa Claus, a family Christmas disco, Christmas films and live performances by Hopscotch Entertainment. Visit  www.discoverymuseum.org.uk/whats-on  for full details.",
+          "datePublished": "2015-10-22T10:30:00Z",
+          "dateModified": "2015-10-22T08:47:19Z",
+          "image": [
+            "https://i2-prod.chroniclelive.co.uk/article10309743.ece/ALTERNATES/s1200d/JS74581569.jpg",
+            "https://i2-prod.chroniclelive.co.uk/article10309743.ece/ALTERNATES/s1200b/JS74581569.jpg",
+            "https://i2-prod.chroniclelive.co.uk/article10309743.ece/ALTERNATES/s1200c/JS74581569.jpg"
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Sam Wonfor",
+              "sameAs": "https://www.chroniclelive.co.uk/authors/sam-wonfor/"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Chronicle Live",
+            "url": "https://www.chroniclelive.co.uk",
+            "publishingPrinciples": "https://www.chroniclelive.co.uk/about-us/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.chroniclelive.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/nechronicle/logos/masthead-nechronicle-default.svg",
+              "width": 560,
+              "height": 160
+            },
+            "sameAs": [
+              "https://www.facebook.com/NewcastleChronicle",
+              "https://x.com/ChronicleLive",
+              "https://www.instagram.com/newcastlechronicle"
+            ]
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              "#article-body h2[data-testid='leadtext']"
+            ]
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La vitrine de Noël du magasin Fenwick à Newcastle fait l'objet d'une exposition intitulée 'Fenwick Unwrapped' au Discovery Museum, explorant l'histoire de cette tradition festive depuis les années 1930 jusqu'à nos jours, avec des thèmes passés comme Alice au pays des merveilles et Peter Pan. L'exposition ouvre le samedi 7 novembre et se déroule jusqu'au samedi 10 janvier, proposant des activités festives, des visites du Père Noël et d'autres animations.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alice",
+          "Peter Pan",
+          "Carolyn Ball",
+          "Santa Claus",
+          "Bjorn the Bear"
+        ],
+        "LOCATION": [
+          "Newcastle",
+          "North East",
+          "Tyneside",
+          "Neverland"
+        ],
+        "ORGANIZATION": [
+          "Chronicle Live",
+          "Discovery Museum",
+          "Tyne & Wear Archives",
+          "Fenwick",
+          "Google News",
+          "Hopscotch Entertainment"
+        ],
+        "DATE": [
+          "1981",
+          "1999",
+          "Saturday, November 7",
+          "Saturday, January 10",
+          "Christmas Day",
+          "Boxing Day",
+          "New Year's Day",
+          "1930s"
+        ],
+        "EVENT": [
+          "Fenwick Unwrapped",
+          "Fenwick Toy Fair"
+        ],
+        "OTHER": [
+          "Alice in Wonderland"
+        ]
+      },
+      "score_e5": 0.7167375633412106
+    },
+    {
+      "titre": "Fenwick Christmas Window Reveal 2026 | Facebook",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/1717570842428176/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122210587706531153",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqEAkN-rpspWNWGgrPsqqkksJdAxCJsvsznzrbP_8E44eis6tb",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Fenwick Christmas Window Reveal 2026 | Facebook",
+        "link": "https://www.facebook.com/groups/1717570842428176/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqEAkN-rpspWNWGgrPsqqkksJdAxCJsvsznzrbP_8E44eis6tb",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122210587706531153",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Facebook\n\nExplore the things you love.\n\nLog into Facebook\nEmail or mobile number\n\nPassword\n\nForgot password?\n\nCreate new account\n\n\n----------------------------------------\n\n----------------------------------------\n\nEnglish (US)\nEspañol\nFrançais (France)\n中文(简体)\nالعربية\nPortuguês (Brasil)\nItaliano\nMore languages…\n\nLog In\nMessenger\nFacebook Lite\nVideo\nMeta Pay\nMeta Store\nMeta Quest\nRay-Ban Meta\nMeta AI\nInstagram\nThreads\nPrivacy Policy\nPrivacy Center\nAbout\nCreate ad\nCreate Page\nDevelopers\nCareers\nCookies\nAd choices\nTerms\nHelp\nContact Uploading & Non-Users",
+        "metadata": {
+          "title": "Facebook"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de connexion et d'exploration de Facebook, proposant diverses fonctionnalités de la plateforme, des liens vers des services associés et des options linguistiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Facebook",
+          "Meta",
+          "Instagram",
+          "Threads"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Messenger",
+          "Facebook Lite",
+          "Meta Pay",
+          "Meta Store",
+          "Meta Quest",
+          "Ray-Ban Meta",
+          "Meta AI"
+        ]
+      },
+      "score_e5": 0.7035719588039289
+    },
+    {
+      "titre": "Only in England do we queue to look at the displays in the ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/CasualUK/comments/7qb1kt/only_in_england_do_we_queue_to_look_at_the/",
+      "image_url": "http://news.bbcimg.co.uk/media/images/57226000/jpg/_57226005_fenwickswindow1988.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSikmpUllbyx8Mn3zDGZh-hUQ-jeWnx_5saIAgwoBY5m0AjU3HX",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Only in England do we queue to look at the displays in the ...",
+        "link": "https://www.reddit.com/r/CasualUK/comments/7qb1kt/only_in_england_do_we_queue_to_look_at_the/",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRFeJS-IhfJCysoVmCqJ1d-1lzbIHTsbcy4DrBsZJpxQ31zznhym7THnNEKCEnngpvdl4aupEFtEblIPBEMJY7_biy055d40m6TYfVg7CpFOrWOXw",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSikmpUllbyx8Mn3zDGZh-hUQ-jeWnx_5saIAgwoBY5m0AjU3HX",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/57226000/jpg/_57226005_fenwickswindow1988.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Only in England do we queue to look at the displays in the shop in window 😂\n\n\n\n[deleted] • r/CasualUK • 1/14/2018, 9:46:06 AM\n\n↑7,127 • 365 comments\n\n\n\n---\n* DarrenTheDrunk • 1/14/2018, 10:25:57 AM • ↑1405\n\n  This is the Fenwicks department store in Newcastle, the Christmas Window display is actually a bit of a local tradition.\n\n  \n\n  * Saw_Boss • 1/14/2018, 10:30:49 AM • ↑300\n\n    There's one in Leicester, and it's like a time machine back to the 80's.\n\n    \n\n    * butnottoobold • 1/14/2018, 10:33:16 AM • ↑231\n\n      Not any more mate. It closed last year.\n\n      \n\n      * Saw_Boss • 1/14/2018, 10:33:49 AM • ↑64\n\n        Honestly, it's about time.\n\n        \n\n        * Orri • 1/14/2018, 11:31:01 AM • ↑107\n\n          Saw a cardigan in there once, thought it would be a decent buy. Looked at the price... £90. You can fuck right off. Glad it's closed.\n\n          \n\n          * dialmformostyn • 1/14/2018, 11:45:18 AM • ↑38\n\n            The closing down sale was your chance for revenge, they had some bargains in there.\n\n            \n\n            * itsaride • 1/14/2018, 3:55:29 PM • ↑78\n\n              £86 for the cardigan.\n\n              \n\n              * dialmformostyn • 1/14/2018, 4:40:11 PM • ↑9\n\n                Should've bought two, that'd show 'em.\n\n                \n\n              * Stormaen • 1/15/2018, 7:00:49 AM • ↑5\n\n                Stop exaggerating... It was £85.99...\n\n                \n\n            * ThatMisterM • 1/14/2018, 10:52:44 PM • ↑2\n\n              I got a butter dish for cheap, it was glorious.\n\n              \n\n          * Scherazade • 1/14/2018, 12:39:12 PM • ↑27\n\n            I always get weirded out by shop prices. £40 for a pair of jeans, which historically are poor people’s trousers, seems absurd.\n\n            \n\n            * pihsniwBEN • 1/14/2018, 2:30:55 PM • ↑88\n\n              Seems like you're the poor person here if you think £40 is expensive for jeans....\n\n              \n\n              * [deleted] • 1/14/2018, 3:16:12 PM • ↑26\n\n                £40 is a lot of money for jeans\n\n                \n\n                * icytiger • 1/14/2018, 3:50:27 PM • ↑12\n\n                  Depends, if you get some quality ones they can last you for quite a while.\n\n                  \n\n                  * doctorace • 1/14/2018, 3:57:49 PM • ↑26\n\n                    Not if you're a woman. They're mostly spandex, and will wear out in a year, no matter what you pay for them.\n\n                    \n\n                * JimmySinner • 1/14/2018, 4:24:56 PM • ↑9\n\n                  It's really not, it's about the average price for mass market jeans.\n\n                  \n\n              * vonmonologue • 1/14/2018, 3:29:58 PM • ↑2\n\n                Yank here. $40 is \"normal\" price for jeans, although I usually get them for $30 or less. 40 quid would definitely be more than I'd spend.\n\n                \n\n                * gravityhappens • 1/14/2018, 4:16:37 PM • ↑8\n\n                  £40 is normal for jeans in the UK.\n\n                  \n\n                  * jameswinstonstarkey • 1/14/2018, 6:06:23 PM • ↑13\n\n                    Unless you're cheap like me and go to primark, only £10 and the added shame of shopping there...\n\n                    \n\n                  * The_Syndic • 1/14/2018, 4:34:56 PM • ↑3\n\n                    Cheap I'd say. I only go for Levi's or wranglers though.\n\n                    \n\n            * leafsleep • 1/14/2018, 5:18:26 PM • ↑5\n\n              I'm with you, I grew up with a thrifty family though. £20-30 feels like a significant investment on clothing for me, even though i know it's not normal.\n\n              \n\n            * JimmySinner • 1/14/2018, 2:58:16 PM • ↑11\n\n              > which historically are poor people’s trousers\n              \n              Er, no they're not. Historically they're workwear. They were created for gold prospectors in the American west.\n\n              \n\n              * Legen_unfiltered • 1/14/2018, 3:04:14 PM • ↑27\n\n                Only poor people work. Duh\n\n                \n\n                * thehatteryone • 1/14/2018, 4:54:01 PM • ↑6\n\n                  Only poor people do manual work, at least. Noone's choosing chinos or a twin set with a view to not wearing them out, from all that action driving their desk from 9-5.\n\n                  \n\n            * LostStaberinde02 • 1/14/2018, 5:22:33 PM • ↑2\n\n              Where would you get your jeans? I rarely buy them as it's bloody hard to find ones that fit but I would be happy with £40 jeans.\n\n              \n\n            * [deleted] • 1/14/2018, 1:11:48 PM • ↑1\n\n              [removed]\n\n              \n\n              * Lorcian • 1/14/2018, 2:36:21 PM • ↑22\n\n                Weeks worth of food pretty much, for some jeans. Most of mine all cost £10 each from New Look, with anywhere from a few years to a decade old. Sucks to be poor man.\n\n                \n\n      * m0ffy • 1/14/2018, 11:39:13 AM • ↑5\n\n        Even Rackham's has gone now.\n\n        \n\n    * RordanJeed • 1/14/2018, 12:36:08 PM • ↑23\n\n      The Fenwick's in Newcastle is actually pretty good, more like a mini Harrod's\n\n      \n\n  * [deleted] • 1/14/2018, 11:59:36 AM • ↑36\n\n    Aye, the unveiling of that window display is a relatively big event round these parts.\n\n    \n\n  * Coolgrnmen • 1/14/2018, 3:38:14 PM • ↑27\n\n    This happens in NYC too. People Queue at Macy’s, Saks, and inevitably all the other stores on Fifth Ave that do amazing Christmas window displays.\n\n    \n\n    * [deleted] • 1/14/2018, 3:48:14 PM • ↑8\n\n      Chicago too!\n\n      \n\n    * meatsnake • 1/14/2018, 4:05:17 PM • ↑3\n\n      Yes, but we call it lining up. Queing is for the fog breathers\n\n      \n\n      * Coolgrnmen • 1/14/2018, 4:37:46 PM • ↑8\n\n        Yeah, but we’re in the UK sub so I wasn’t gonna make a distinction.\n\n        \n\n  * beansinacup • 1/14/2018, 2:18:56 PM • ↑12\n\n    Going to see Fenwick's window is considered a day out and to some a Christmas tradition.\n\n    \n\n  * Monkeychimp • 1/14/2018, 2:44:24 PM • ↑5\n\n    I used to be in that queue every year! It was mostly underwhelming.\n\n    \n\n  * Stormaen • 1/15/2018, 6:57:58 AM • ↑2\n\n    This is Northumberland Street! First time I’ve seen something on here even remotely near to where I live.\n    \n    To be fair, it’s bit of a yearly tradition round these parts. Though the last few years have been disappointing.\n\n    \n\n  * Chuckles1188 • 1/14/2018, 11:18:37 AM • ↑4\n\n    Along with creepiness and terrible music\n\n    \n\n* [deleted] • 1/14/2018, 2:34:38 PM • ↑98\n\n  [deleted]\n\n  \n\n  * Caremid • 1/14/2018, 3:44:43 PM • ↑27\n\n    Yeah love it when my home town makes it on\n\n    \n\n    * LuminiferousPen • 1/14/2018, 5:21:46 PM • ↑22\n\n      Well, I love it when it's for something nice and pleasant, not when we make front page about two radgies having a rave outside Perdu, having the most drink-related hospitalisations in the UK, or for punching horses...\n\n      \n\n* [deleted] • 1/14/2018, 10:05:21 AM • ↑250\n\n  The true test is if you know how to pronounce the shop's name correctly.\n\n  \n\n  * itsbri • 1/14/2018, 10:57:11 AM • ↑140\n\n    One recently opened down south here and it's painful listening to everybody pronounce it Fen-Wickes. Even my wife did it. I fixed her, but there too many of the rest. I may need some backup lads & lasses.\n\n    \n\n    * [deleted] • 1/14/2018, 11:06:09 AM • ↑104\n\n      > Fen-Wickes\n      \n      Sounds like a hardware store from Ipswich.\n\n      \n\n      * Muck777 • 1/14/2018, 1:20:35 PM • ↑9\n\n        Or a candle maker.\n\n        \n\n      * yowlet • 1/14/2018, 1:43:13 PM • ↑3\n\n        Sounds like a hardware store from Ipswich? I think you mean \"Jayblock Nacton kniving hardware land\"?\n\n        \n\n        * [deleted] • 1/14/2018, 10:39:24 PM • ↑2\n\n          [deleted]\n\n          \n\n    * WhatNext_ • 1/14/2018, 11:01:13 AM • ↑44\n\n      Want to share the correct pronunciation?\n\n      \n\n      * itsbri • 1/14/2018, 12:46:40 PM • ↑21\n\n        Fenicks\n\n        \n\n      * anarae • 1/14/2018, 11:04:31 AM • ↑98\n\n        Fenix\n\n        \n\n        * [deleted] • 1/14/2018, 12:09:23 PM • ↑17\n\n          Phoenix?\n\n          \n\n          * adaaamb • 1/14/2018, 12:17:49 PM • ↑59\n\n            Fen (like in fence), ick (like in wick), just don't pronounce the W\n\n            \n\n            * specofdust • 1/14/2018, 12:34:18 PM • ↑102\n\n              Makes sense, but you have to forgive them. Let's face it, British names are basically designed to be pronounced in the most arbitrary interpretation, or flat out wrongly, presumably so that we can always spot the outsider and feel quietly superior to them.\n\n              \n\n              * devicer2 • 1/14/2018, 1:48:54 PM • ↑17\n\n                I used to work in a place called Kilconquhar in Fife, I've never heard so many different pronunciations of a place name before. Proper pronunciation is something like kinnucher kinyucher with the 'ch' as in loch.\n\n                \n\n                * [deleted] • 1/14/2018, 7:17:01 PM • ↑2\n\n                  Nah man it's Kinyucher with the emphasis on YUCHH, you know like when a kid goes yuuuck and the ck is chhhh-y? The audio bite on wiki is pretty accurate\n\n                  \n\n                  * devicer2 • 1/14/2018, 8:57:33 PM • ↑2\n\n                    You are correct I went and typoed it while trying to be careful ha!\n\n                    \n\n                * JimmySinner • 1/14/2018, 3:04:39 PM • ↑4\n\n                  Milngavie near Glasgow is pronounced mun-guy\n\n                  \n\n                  * [deleted] • 1/14/2018, 4:05:41 PM • ↑5\n\n                    [removed]\n\n                    \n\n              * elticblue • 1/14/2018, 4:39:49 PM • ↑6\n\n                There's a town in Norfolk called Stiffkey. How is it pronounced? Stookey.\n                \n                Other Norfolk greats include Costessey, pronounced \"Cossy\" and Wymondham, pronounced \"Windham\".\n\n                \n\n                * specofdust • 1/14/2018, 5:09:17 PM • ↑3\n\n                  Aye, I come from the highlands of Scotland so I'm pretty much used to the idea that I will always be unable to pronounce any place name from sight, I'll have to have heard it correctly before I'll manage.\n\n                  \n\n            * too_drunk_for_this • 1/14/2018, 3:20:58 PM • ↑7\n\n              Of all the ick words to choose, you chose \"like in wick\", which just happens to be the one and only way you shouldn't pronounce it.\n\n              \n\n      * [deleted] • 1/14/2018, 4:33:44 PM • ↑5\n\n        We pronounce it as \"fennik\" which is as close as my families accent can get to the actual pronunciation while speaking in casual conversation. At the end of the day as long as your not pronouncing the W and aren't going nuts your probably in the clear.\n\n        \n\n    * albinoloverats • 1/14/2018, 12:35:10 PM • ↑27\n\n      I feel like the people of Chiswick would not make this mistake.\n\n      \n\n      * itsbri • 1/14/2018, 12:45:10 PM • ↑35\n\n        > Chiswick\n        \n        Berwick, Warwick, Lerwick, Greenwich, Woolwich, Norwich... I'm all out.\n\n        \n\n        * MattyFTM • 1/14/2018, 12:52:32 PM • ↑18\n\n          Keswick, Lerwick.\n\n          \n\n          * [deleted] • 1/14/2018, 12:55:33 PM • ↑23\n\n            Alnwick, which confusingly is near Alnmouth (pronounced Aln-muff) wkth the river Aln (pronounced Alan)\n\n            \n\n            * [deleted] • 1/14/2018, 4:39:11 PM • ↑7\n\n              Ah yes. The town a-nick. Not a bloke named nick, a pretty garden and some water displays.\n\n              \n\n          * Lucid_steve • 1/14/2018, 1:35:47 PM • ↑10\n\n            I'll have you know Lerwick is pronounced as it reads Ler wick\n\n            \n\n        * impablomations • 1/14/2018, 3:42:06 PM • ↑3\n\n          Lerwick doesn't have the silent W\n\n          \n\n    * TheUncannyScrub • 1/14/2018, 1:47:45 PM • ↑6\n\n      Fen- Ick??\n\n      \n\n    * VokN • 1/14/2018, 2:48:52 PM • ↑5\n\n      There’s one in Colchester, I think I was the only one to pronounce it correctly, and even then it was because I’d been corrected when I visited Newcastle.\n\n      \n\n      * [deleted] • 1/14/2018, 7:42:17 PM • ↑3\n\n        That one is pronounced Willie Gees\n\n        \n\n    * Ellmo82 • 1/14/2018, 4:27:28 PM • ↑3\n\n      There’s been a Fenwicks in Brent Cross shopping centre in North London for at least 30 years. I didn’t even know it was thought of as northern. We all pronounced it with the silent W. Maybe that branch is a weird anomaly.\n\n      \n\n  * kanejarrett • 1/14/2018, 11:57:59 AM • ↑30\n\n    Like \"Fen-ick\"?\n\n    \n\n  * Teh_yak • 1/14/2018, 11:31:30 AM • ↑4\n\n    I used to go to school with kids from two different sets of Fenwicks. One was fen-wik, the other fennik.\n    \n    I never questioned this... Menzis Menzis.\n\n    \n\n  * [deleted] • 1/14/2018, 3:37:46 PM • ↑3\n\n    The only reason I know the correct pronunciation is because of an episode of Ramsay's Kitchen Nightmares I watched (the UK version, which is far superior to the US version).\n\n    \n\n  * BuckeyeFenwick • 1/14/2018, 4:44:02 PM • ↑2\n\n    Just to ensure I have been pronouncing my last name correctly, it is Fen-Wick, correct?\n\n    \n\n  * [deleted] • 1/14/2018, 6:55:28 PM • ↑2\n\n    [deleted]\n\n    \n\n    * GFoxtrot • 1/14/2018, 7:48:15 PM • ↑3\n\n      Ann-ick\n\n      \n\n  * [deleted] • 1/14/2018, 11:04:02 AM • ↑4\n\n    [removed]\n\n    \n\n    * [deleted] • 1/14/2018, 11:05:20 AM • ↑35\n\n      Silent w mate\n      \n      Fen-ick\n\n      \n\n      * Khal_Doggo • 1/14/2018, 12:40:43 PM • ↑68\n\n        How to spot southerners:\n        \n        Fenwick Tynemuth Ponteeland Cowgut\n        \n        Bonus round: they pronounce Greggs as 'Pret a Manger'\n\n        \n\n        * LostParsnip • 1/14/2018, 4:33:58 PM • ↑12\n\n          They pronounce Houghton-le-Spring as Horton-le-Spring or Howton-le-Spring.\n          \n          It's actually pronounced shithole.\n\n          \n\n          * ihaveneverbeenwise • 1/14/2018, 5:03:46 PM • ↑2\n\n            I’m from Peterlee and my other half canNOT get Houghton right. Horton, Hewton, Howton, Herton. It’s just “Houghton”, man! He can do Fence Houses though like at least, lol\n\n            \n\n        * [deleted] • 1/14/2018, 12:44:19 PM • ↑7\n\n          I've lived up north for 5 years l, I only learned last year that its not 'pontyland'.\n\n          \n\n          * Khal_Doggo • 1/14/2018, 12:58:50 PM • ↑2\n\n            I don't imagine it gets mentioned often in daily conversation. Some good gastropubs though.\n\n            \n\n        * motorised_rollingham • 1/14/2018, 3:02:21 PM • ↑7\n\n          Fenwicks Canterbury isn't in the North but it's still pronounced Feniks\n\n          \n\n        * itsbri • 1/14/2018, 1:52:49 PM • ↑8\n\n          New-car-stle hits me right in the nads. It's an A..! NewcAssle.\n\n          \n\n          * motorised_rollingham • 1/14/2018, 2:59:58 PM • ↑6\n\n            I've been to Wallsend a few times for work and as an unashamed Southerner I just can't bring myself to say NewcAssle. To me it would be like saying Paree instead of Paris\n\n            \n\n* itsbri • 1/14/2018, 11:00:51 AM • ↑61\n\n  I miss this tradition, it must have been 20 years since I've been there for Christmas. Are the displays still animated with sound effects?\n\n  \n\n  * whyshouldiknowwhy • 1/14/2018, 11:09:33 AM • ↑47\n\n    They are indeed. This year it was Paddington Bear\n\n    \n\n    * Tappijoe • 1/14/2018, 3:58:15 PM • ↑6\n\n      The Gulliver's travels display Fenwick's did a few years ago was outstanding.\n\n      \n\n  * [deleted] • 1/14/2018, 4:22:09 PM • ↑4\n\n    Yes but they’ve gone pretty far away from being Christmas-themed. This year, Paddington with one Christmas scene in one window (surprise! There’s also a Paddington film out...)\n    Maybe ten years ago they did something about aliens, the consensus was that was the year of jumping the shark\n\n    \n\n    * S_Ecc • 1/14/2018, 5:21:35 PM • ↑6\n\n      Growing up in Newcastle I think the aliens in Newcastle United shirts was the best the window ever got.\n\n      \n\n  * dannyjcase • 1/14/2018, 11:09:37 AM • ↑2\n\n    Last time I was there it was all animatronics and music.\n\n    \n\n* CocacolaGARCIA • 1/14/2018, 2:54:54 PM • ↑43\n\n  Big up Northumberland street! We'll have beatboxing Spiderman on r/all next!\n\n  \n\n  * Nattress1998 • 1/14/2018, 7:49:50 PM • ↑2\n\n    Haha I love that guy 😂 see him on my way to work quite often, not in a while though :(\n\n    \n\n* InsanelyCrewed • 1/14/2018, 11:49:59 AM • ↑89\n\n  I see this every bloody year, I don't get it, just walk past the window and you can see everything in it. Instead of standing there like a twat in the cold.\n\n  \n\n  * growlroisin • 1/14/2018, 3:21:02 PM • ↑17\n\n    Haha totally agree with you. This is definitely a new thing, been going to Fenwick Christmas window since I was a kid and everyone used to just pile up to the window and move along at different speeds. The queue this December went the rest of the way down Northumberland Street and around the corner- it’s sheer stupidity.\n\n    \n\n  * RubyRhod • 1/14/2018, 4:13:33 PM • ↑7\n\n    Yeah, I’d barge past this queue like a god damn Chinese tourist.\n\n    \n\n  * [deleted] • 1/14/2018, 4:53:09 PM • ↑2\n\n    As a shorter than average person if I don't get in the line I don't see shit past everyone's stupid bodies.\n    \n    So once one twat blocks a view you have to move closer and closer until you just have a queue. Oh and the fussy people who need to press their face against the glass to see every last stitch on every peice clothing.\n\n    \n\n* Bishnuu4 • 1/14/2018, 6:20:57 PM • ↑13\n\n  Holy fuck. I love seeing Newcastle on Reddit\n\n  \n\n* Noorgaard • 1/14/2018, 12:11:41 PM • ↑31\n\n  Oh wow I work here this is odd. The window is the bane of my life at Christmas.\n\n  \n\n  * landoGriffin1 • 1/14/2018, 12:58:19 PM • ↑14\n\n    Just glad I don't have that annoying song in my head most of the morning after walking past it on my way to work for the last month!\n\n    \n\n    * Noorgaard • 1/14/2018, 1:00:51 PM • ↑11\n\n      Oh mate that song will forever be ingrained into my memory\n\n      \n\n  * [deleted] • 1/14/2018, 4:55:22 PM • ↑2\n\n    Good luck getting in the doors as well. I think (been a while since I have been) that the towns display means the queue blocks the door. Surely it would make more sense to reverse the display path so people done watching would be tempted into the warm store?\n\n    \n\n  * ffc40c • 1/14/2018, 9:06:15 PM • ↑2\n\n    i work just down the road and that little alley where the church is behind fenwick is my regular smoking spot when I’m on a break. I had that bloody song from the display stuck in my head every damn day.\n\n    \n\n* SeriousOak • 1/14/2018, 12:21:29 PM • ↑9\n\n  if you think thats mad, here’s a video of it getting revealed\n\n  \n\n  * Deepcrater • 1/14/2018, 4:51:46 PM • ↑3\n\n    That was actually really nice.\n\n    \n\n* d1x1e1a • 1/14/2018, 12:35:33 PM • ↑15\n\n  titular shop of the phrase \"if <unlikely event X> occurs, i'll show my arse in Fenwick's window\"\n\n  \n\n* jollygoodvelo • 1/14/2018, 10:14:39 AM • ↑131\n\n  Not true. People queue to see Christmas displays in lots of countries - Germany, US, Etc.\n\n  \n\n  * [deleted] • 1/14/2018, 11:15:29 AM • ↑19\n\n    Saw it at Lafayette in Paris as well. But tbf, those displays were fucking magical\n\n    \n\n    * [deleted] • 1/14/2018, 11:24:21 AM • ↑5\n\n      > Lafayette in Paris\n      \n      OMG their window and in-store displays are incredible at Christmas.\n\n      \n\n  * [deleted] • 1/14/2018, 2:52:15 PM • ↑11\n\n    German here, never seen sth like this\n\n    \n\n  * elb0w • 1/14/2018, 1:42:34 PM • ↑13\n\n    To be fair in in New York I wouldn't call it queueing. It's more like mobbing display windows.\n\n    \n\n  * Cheese-n-Opinion • 1/14/2018, 12:10:36 PM • ↑80\n\n    I'm tired of these 'only in England' 'only in Britain' posts. They're so self-conscious and usually wrong.\n\n    \n\n    * Danhulud • 1/14/2018, 1:31:56 PM • ↑18\n\n      Some of the ones posted in british problems are utterly dire and do in fact happen in other places around the world.\n      \n      Edit: just looked over there and one of the problems is 'That eBay advert on the radio.' I'm pretty sure other countries have eBay and radios.\n\n      \n\n      * iMac_Hunt • 1/14/2018, 2:49:09 PM • ↑10\n\n        > Som",
+        "metadata": {},
+        "credits": 10
+      },
+      "texte_contexte": "Discussion sur Reddit concernant la tradition en Angleterre de faire la queue pour regarder les vitrines de magasins, avec des mentions du grand magasin Fenwick à Newcastle et d'un autre magasin à Leicester qui a fermé l'année précédente, ainsi que des échanges sur les prix des vêtements comme les jeans et les cardigans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "DarrenTheDrunk",
+          "Saw_Boss",
+          "Orri",
+          "Stormaen",
+          "JimmySinner"
+        ],
+        "LOCATION": [
+          "England",
+          "Newcastle",
+          "Leicester",
+          "UK",
+          "American west"
+        ],
+        "ORGANIZATION": [
+          "Reddit",
+          "Fenwicks",
+          "Primark",
+          "Levi's",
+          "Wranglers"
+        ],
+        "DATE": [
+          "1/14/2018",
+          "1/15/2018"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "CasualUK"
+        ]
+      },
+      "score_e5": 0.7126267092563258
+    },
+    {
+      "titre": "Fenwick Christmas window display to be unveiled virtually",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-tyne-54705891",
+      "image_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/338E/production/_115089131_bdab7237-ca91-4286-a69b-2d198ddcf87d.jpg.webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTexwMDGinobhxlONuLwygq9Y5YjFaW9Je2h1osSnlBghNqX9oX",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Fenwick Christmas window display to be unveiled virtually",
+        "link": "https://www.bbc.com/news/uk-england-tyne-54705891",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTexwMDGinobhxlONuLwygq9Y5YjFaW9Je2h1osSnlBghNqX9oX",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/338E/production/_115089131_bdab7237-ca91-4286-a69b-2d198ddcf87d.jpg.webp",
+        "image_width": 270,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Fenwick Christmas window display to be unveiled virtually\n\nA Newcastle department store is to reveal the opening of its animated Christmas window display virtually, due to the coronavirus pandemic.\n\nThe Fenwick's unveiling always attracts large crowds, but this year people have been asked to stay at home and watch it on social media.\n\nThe section of Northumberland Street in front will be closed during the \"curtain drop\" on 8 November.\n\nAfter this, people viewing the window are asked to observe social distancing.\n\nThe store's Christmas window display has been running since 1971, and its opening has previously attracted about 2,000 people.\n\n\nFrom 9 November, the window will be open to view until 20:00 GMT, daily, with directional signage and a one-way system in operation.",
+        "metadata": {
+          "description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "og:title": "Fenwick Christmas window display to be unveiled virtually",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-tyne-54705891",
+          "twitter:title": "Fenwick Christmas window display to be unveiled virtually",
+          "og:description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "twitter:description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/349C/production/_115086431_fenwick-window-reveal-2020.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "576",
+          "og:image:alt": "Window",
+          "al:ios:url": "bbcx://news/uk-england-tyne-54705891",
+          "al:ios:app_store_id": "364147881",
+          "al:ios:app_name": "BBC: World News & Stories",
+          "al:android:url": "bbcx://news/uk-england-tyne-54705891",
+          "al:android:app_name": "BBC: World News & Stories",
+          "al:android:package": "bbc.mobile.news.ww",
+          "al:web:url": "https://bbc.com/news/uk-england-tyne-54705891",
+          "cXenseParse:recs:section": "Tyne & Wear"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-tyne-54705891",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+            }
+          },
+          "datePublished": "2020-10-27T14:38:12.000Z",
+          "dateModified": "2020-10-27T14:38:12.000Z",
+          "description": "People have been asked to stay at home due to the pandemic and watch the event via social media.",
+          "headline": "Fenwick Christmas window display to be unveiled virtually",
+          "image": {
+            "@type": "ImageObject",
+            "width": "1024",
+            "height": "576",
+            "url": "https://ichef.bbci.co.uk/news/1024/branded_news/349C/production/_115086431_fenwick-window-reveal-2020.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/349C/production/_115086431_fenwick-window-reveal-2020.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-tyne-54705891",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le grand magasin Fenwick à Newcastle dévoile virtuellement sa vitrine de Noël animée en raison de la pandémie de coronavirus, demandant aux gens de rester chez eux et de regarder sur les réseaux sociaux. La section de Northumberland Street sera fermée lors de la tombée du rideau le 8 novembre. À partir du 9 novembre, la vitrine est ouverte aux visiteurs jusqu'à 20h00 chaque jour avec un système de circulation à sens unique.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Newcastle",
+          "Northumberland Street"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Fenwick"
+        ],
+        "DATE": [
+          "8 November",
+          "1971",
+          "9 November",
+          "20:00 GMT"
+        ],
+        "EVENT": [
+          "Christmas window display"
+        ],
+        "OTHER": [
+          "coronavirus pandemic"
+        ]
+      },
+      "score_e5": 0.68502549001913
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Lower Manhattan"
+    ],
+    "ORGANIZATION": [
+      "Mmuseumm"
+    ],
+    "DATE": [
+      "1980s"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "elevator shaft",
+      "spoons",
+      "shoe",
+      "toys"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Alice",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Peter Pan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Carolyn Ball",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Santa Claus",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bjorn the Bear",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "DarrenTheDrunk",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Saw_Boss",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Orri",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Stormaen",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "JimmySinner",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Newcastle",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Northumberland Street",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North East",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tyneside",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Neverland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "England",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Leicester",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "American west",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Fenwick",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Chronicle Live",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Discovery Museum",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tyne & Wear Archives",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hopscotch Entertainment",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Meta",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Threads",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Primark",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Levi's",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wranglers",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8 November",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1971",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1981",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1999",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday, November 7",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday, January 10",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Christmas Day",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Boxing Day",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "New Year's Day",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1930s",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1/14/2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1/15/2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9 November",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "20:00 GMT",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Christmas window display",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Fenwick Unwrapped",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Fenwick Toy Fair",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "coronavirus pandemic",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Alice in Wonderland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Messenger",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Facebook Lite",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta Pay",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta Store",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta Quest",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ray-Ban Meta",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta AI",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "CasualUK",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:53:47.122243"
+  }
+}

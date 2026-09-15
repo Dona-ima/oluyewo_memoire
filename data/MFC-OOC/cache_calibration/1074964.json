@@ -1,0 +1,514 @@
+{
+  "id_rumeur": 1074964,
+  "id_image": 1074964,
+  "caption": "The Chicago river location was used extensively in the 2006 movie The Lake House",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756665/oluyewo_benchmark/dw6vbigdrejvggv8fnia.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Birds eye view of building - Free Photo on Unsplash",
+      "source": "Unsplash",
+      "lien": "https://unsplash.com/photos/birds-eye-view-of-building-TsAmADtMsFs",
+      "image_url": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1545159639-9ef11f9605f7",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xa7SfZK0JygCfDez99l3Rw8lNbGdv6LAIMYbS1EIwfLyHF3P",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Birds eye view of building - Free Photo on Unsplash",
+        "link": "https://unsplash.com/photos/birds-eye-view-of-building-TsAmADtMsFs",
+        "source": "Unsplash",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAYUlEQVRYhe3VoRHAMAxDUTvLhWSYjJJhQjpdSxquAJ_IF_b53gnY2ecIJc_arzT4p8-Ryly7WVoRAAAA2AGpHqKq2BsAACAjQnqz6ns9Ud-3vQEAAADYAfIhqoq9AQAAAHw-kwxBJnB2WQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xa7SfZK0JygCfDez99l3Rw8lNbGdv6LAIMYbS1EIwfLyHF3P",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1545159639-9ef11f9605f7",
+        "image_width": 267,
+        "image_height": 400
+      },
+      "webpage": {
+        "text": "¡Asegurándonos de que no eres un robot!\n\nVes esto porque el administrador de este sitio web ha configurado Anubis para proteger el servidor contra la plaga de empresas de IA que rastrean agresivamente los sitios web. Esto puede y causa tiempo de inactividad para los sitios web, haciendo que sus recursos sean inaccesibles para todos.\n\nAnubis es un compromiso. Anubis utiliza un esquema de Prueba de Trabajo en la línea de Hashcash, un esquema de prueba de trabajo propuesto para reducir el spam por correo electrónico. La idea es que a escala individual, la carga adicional es insignificante, pero a escala de raspadores masivos, se acumula y hace que el raspado sea mucho más costoso.\n\nEn última instancia, esta es una solución provisional para que se pueda dedicar más tiempo a la identificación y el reconocimiento de navegadores sin cabeza (por ejemplo, a través de cómo renderizan las fuentes) de modo que la página de prueba de trabajo del desafío no tenga que presentarse a usuarios que son mucho más propensos a ser legítimos.\n\nTen en cuenta que Anubis requiere el uso de características modernas de JavaScript que plugins como JShelter deshabilitarán. Por favor, deshabilita JShelter u otros plugins similares para este dominio.",
+        "metadata": {
+          "title": "¡Asegurándonos de que no eres un robot!"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Une page web d'Unsplash affichant un message de protection contre les robots et les entreprises d'IA utilisant Anubis, un système de preuve de travail.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Unsplash",
+          "Anubis"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Hashcash",
+          "JavaScript",
+          "JShelter"
+        ]
+      },
+      "score_e5": 0.6708237541883398
+    },
+    {
+      "titre": "Chicago River and Office Buildings at Sunset - Chicago IL ...",
+      "source": "Flickr",
+      "lien": "https://www.flickr.com/photos/mbell1975/7520372050",
+      "image_url": "https://live.staticflickr.com/8282/7520372050_650de8e16c_b.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQim5iIyJU5MnGg83uK3GQe1BedDVqRGE92e-3Z6jKsDLm0bj67",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Chicago River and Office Buildings at Sunset - Chicago IL ...",
+        "link": "https://www.flickr.com/photos/mbell1975/7520372050",
+        "source": "Flickr",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgUlEQVRYhe2VzXGCUBRGz9UGKEFGC6AESkgFSipQ9nGCo1nHVJBnKkgJdBAKiAMlUEDwZgEiRgR1JuOGs3vMO3z3_XCBjo6OjjsjtU-92ILMBRkAFmiEGX1e-lIlsKDvgDigFhBBFgpB2l7AOJ4iGuTBRySIvmGG6-bwlynU-ZKAGuFpcb6AyfYdxGsKAFmzsf368NUrMGv21Qjzx_2oVz4fx8_t4QA6w9uehOQrbwsHEE9ZlfPyHfBiC9UvYND-AgBSRGyMXZ6psoyLO3OZz48tBGmxA5l7RTjk5-tUwt0rwgu_70J5BOI0TD7DruLc4ucL6LXN-m-KAjS6Qa04t_hElQL6IXDSJBpIMHZ4GGbRdb4kkIWHAoydIrpoMP74-nY0zDvc5T67zb4rHjei8bdBepPWcDOs_d6V5Rpk2hyuG2Hu7UfHl_Bj5BU7kdSYKaL-uXAAYT4DfNB6H_xqeO7U4cUW4BafWlpcuKjaeNpQlg-AA5LmBdX_jDo6Ojruzi_cQH6mK1i4cwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQim5iIyJU5MnGg83uK3GQe1BedDVqRGE92e-3Z6jKsDLm0bj67",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://live.staticflickr.com/8282/7520372050_650de8e16c_b.jpg",
+        "image_width": 680,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Chicago River and Office Buildings at Sunset - Chicago IL\n\n7,511 views\n\n37 faves\n\n154 comments\n\nUploaded on July 7, 2012\n\nTaken on June 29, 2012",
+        "metadata": {
+          "og:site_name": "Flickr",
+          "og:updated_time": "2026-09-07T15:11:09.754Z",
+          "al:ios:app_name": "Flickr",
+          "al:ios:app_store_id": "328407587",
+          "twitter:app:name:iphone": "Flickr",
+          "twitter:app:id:iphone": "328407587",
+          "twitter:app:name:ipad": "Flickr",
+          "twitter:app:id:ipad": "328407587",
+          "twitter:app:name:googleplay": "Flickr",
+          "twitter:app:id:googleplay": "com.flickr.android",
+          "twitter:site": "@flickr",
+          "description": "Chicago River and Office Buildings at Sunset - Chicago IL",
+          "title": "Chicago River and Office Buildings at Sunset - Chicago IL",
+          "keywords": "sunset, usa, chicago, building, tower, skyline, skyscraper, buildings, river, hotel, us, office, illinois, day, skyscrapers, unitedstates, cloudy, dusk, towers, il, international, trump, ilobsterit",
+          "og:title": "Chicago River and Office Buildings at Sunset - Chicago IL",
+          "og:description": "Chicago River and Office Buildings at Sunset - Chicago IL",
+          "og:type": "article",
+          "og:url": "https://www.flickr.com/photos/mbell1975/7520372050/",
+          "og:image": "https://live.staticflickr.com/8282/7520372050_650de8e16c_b.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "680",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://live.staticflickr.com/8282/7520372050_650de8e16c_b.jpg",
+          "twitter:description": "Chicago River and Office Buildings at Sunset - Chicago IL",
+          "twitter:app:url:iphone": "flickr://flickr.com/photos/mbell1975/7520372050/",
+          "twitter:app:url:ipad": "flickr://flickr.com/photos/mbell1975/7520372050/",
+          "twitter:app:url:googleplay": "https://www.flickr.com/photos/mbell1975/7520372050/",
+          "al:ios:url": "flickr://flickr.com/photos/mbell1975/7520372050"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une photo de la rivière Chicago et de bâtiments de bureaux au coucher du soleil à Chicago, Illinois, prise le 29 juin 2012 et mise en ligne le 7 juillet 2012.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Chicago"
+        ],
+        "ORGANIZATION": [
+          "Flickr"
+        ],
+        "DATE": [
+          "June 29, 2012",
+          "July 7, 2012"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Chicago River"
+        ]
+      },
+      "score_e5": 0.7782746138594767
+    },
+    {
+      "titre": "Chicago River Photo, Downtown, Chicago Illinois, Skyscrapers ...",
+      "source": "Etsy",
+      "lien": "https://www.etsy.com/listing/1194386287/chicago-river-photo-downtown-chicago",
+      "image_url": "https://i.etsystatic.com/6924787/r/il/240197/3728345656/il_fullxfull.3728345656_sw8t.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkbjkxI7b9XINzzVBdWPIiTemlcrIVNduhjWut1qXYwxQbvANq",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Chicago River Photo, Downtown, Chicago Illinois, Skyscrapers ...",
+        "link": "https://www.etsy.com/listing/1194386287/chicago-river-photo-downtown-chicago",
+        "source": "Etsy",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEXxZB769vP30b3549n0m273v6P1rYjziFPydjn57eX2tpb0pHv3yLH55NjybSvzf0f52su8k95XAAAAgklEQVQ4jd2RSQ7EIAwEaRazhuT_rx2ENEomJvZ5UuKARAmatjEvIrobhRnVAc5PagAav8QD4bsnWFnoWRFMEIV9rCoJeeenV8EjysKG9CRsdpDxLBxEVCygZGhahqgJxmnCfKfLQlz85HcWC6HinHHiZfkyCkKjSeBldXtjEfKf-QDJGgNcEP3HywAAAABJRU5ErkJggg.png",
+        "rating": 5.0,
+        "reviews": 127,
+        "price": {
+          "value": "$20*",
+          "extracted_value": 20.0,
+          "currency": "$"
+        },
+        "in_stock": true,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkbjkxI7b9XINzzVBdWPIiTemlcrIVNduhjWut1qXYwxQbvANq",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://i.etsystatic.com/6924787/r/il/240197/3728345656/il_fullxfull.3728345656_sw8t.jpg",
+        "image_width": 2000,
+        "image_height": 3000
+      },
+      "webpage": null,
+      "texte_contexte": "Une annonce Etsy pour une photo de la rivière Chicago, du centre-ville (downtown), de Chicago dans l'Illinois, et de gratte-ciels.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Chicago"
+        ],
+        "ORGANIZATION": [
+          "Etsy"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Chicago River"
+        ]
+      },
+      "score_e5": 0.7699271211871763
+    },
+    {
+      "titre": "Chicago River View, with Trump International Hotel and Tower ...",
+      "source": "Dreamstime.com",
+      "lien": "https://www.dreamstime.com/stock-images-chicago-river-view-trump-international-hotel-tower-july-il-shown-july-twelfth-largest-building-image32582404",
+      "image_url": "https://thumbs.dreamstime.com/b/chicago-river-view-trump-international-hotel-tower-july-il-shown-july-twelfth-largest-building-32582404.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpESUPiBpvfuyI4Fur5Ff1Ui2ISEkri6rQQYGjY3TIjSt3dcH1",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Chicago River View, with Trump International Hotel and Tower ...",
+        "link": "https://www.dreamstime.com/stock-images-chicago-river-view-trump-international-hotel-tower-july-il-shown-july-twelfth-largest-building-image32582404",
+        "source": "Dreamstime.com",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEzBwcFbW1vNzc0AAAADAwP___8DAwMDAwMDAwP39_eXl5dISEg0NDQdHR2wsLB9fX3o6Oja2tqMCs_GAAAACnRSTlMA________9awfQoJ9bwAAAOJJREFUOI3Fk8sWgyAMRBHGqDxE_f-PLUSstE1Ou2tWkLknmMQxZpmnUYlpXoxZVJmRxcxCGiXacTZCAWBNFzEZqYD15MZGiMBARPZvAPenAjhDBTDa7A63QgEQHdXICoDoWadBBpBOmbwVgTNJbotlCyIQW3WtTYSSO9oKBeCsukGdJFBa9PFHgC8U9Sew7uWSpI_kvwjYynlf34BU5zjwvqpOAe-DyjW9B7vxxPxV4B41P_yMcOndspLv9U-g1MhNPuytj51xgBSyG3IZ0a1PvfXQTHfL1Xqv5gV6lc37zf4PGcQVfqMCH5oAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpESUPiBpvfuyI4Fur5Ff1Ui2ISEkri6rQQYGjY3TIjSt3dcH1",
+        "thumbnail_width": 169,
+        "thumbnail_height": 298,
+        "image": "https://thumbs.dreamstime.com/b/chicago-river-view-trump-international-hotel-tower-july-il-shown-july-twelfth-largest-building-32582404.jpg",
+        "image_width": 454,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Une image de stock Dreamstime montrant une vue de la rivière Chicago avec le Trump International Hotel and Tower, le 12 juillet.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Chicago"
+        ],
+        "ORGANIZATION": [
+          "Dreamstime.com",
+          "Trump International Hotel and Tower"
+        ],
+        "DATE": [
+          "July"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Chicago River"
+        ]
+      },
+      "score_e5": 0.7621339900356657
+    },
+    {
+      "titre": "Salena Lettera | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/profile/salena-lettera",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Travel/Pix/pictures/2013/8/6/1375805618771/Chicago-river.-008.jpg?width=465&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1WfsXAQ23nAZyP9Cs50AYlQk79DRK9zlj3qzWkjlpGkQ1zIPq",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Salena Lettera | The Guardian",
+        "link": "https://www.theguardian.com/profile/salena-lettera",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f007bd3c512571700035b/images/VIl0O5IA5Jia01ZOPByMSC1jem-pd7PYjt6qLY3ucYs.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1WfsXAQ23nAZyP9Cs50AYlQk79DRK9zlj3qzWkjlpGkQ1zIPq",
+        "thumbnail_width": 201,
+        "thumbnail_height": 251,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Travel/Pix/pictures/2013/8/6/1375805618771/Chicago-river.-008.jpg?width=465&dpr=1&s=none&crop=5:4",
+        "image_width": 276,
+        "image_height": 345
+      },
+      "webpage": {
+        "text": "Salena Lettera is a professional big-rig truck driver and author of The Daily Rant at salenalettera.com\n\n\nSeptember 2013\n\n\n * Road trips USA: East coast\n   \n   Top 10 road trip essentials\n   \n   From using your phone in the US and powering your iPod and tablet, to finding the best coffee and food on the highway, trucker Salena Lettera maps out her road trip must-haves\n\n\nAugust 2013\n\n\n * Road trips USA: Chicago to Memphis\n   \n   Top 10 US movie locations: a trucker's guide to scenic film stopoffs\n   \n   The US is full of iconic filming locations … ideal for a road trip. From Alaska to Texas here are 10 of trucker Salena Lettera's favourite movie sights\n\n\nJuly 2013\n\n\n * Road trips USA: West\n   \n   Top 10 US podcasts for road trip listening\n   \n   America's public radio stations, podcasts and websites offer road-trip company that gives cooking and book tips, car-maintenance advice and even language classes – just keep your eyes on the road while your ears are a-listening, says Salena Lettera\n\n\nJune 2013\n\n\n * Road trips USA: Texas and New Mexico\n   \n   Top 10 iconic US road signs\n   \n   US road signs, logos, slogans, graffiti and other Americana have come to represent the country for many visitors. Salena Lettera chooses 10 iconic 'visions of America'\n\n\nMay 2013\n\n\n * Road trips USA: Pacific coast\n   \n   Top 10 views and scenic stops in the US\n   \n   There's more to a road trip than the road. America's highways, parks and natural wonders offer great opportunities to pull over and marvel at the view, says trucker Salena Lettera\n\n\nApril 2013\n\n\n * Top 10 roadside diners in the US: a trucker's guide\n   \n   \n   \n   As American as apple pie, diners are part of US road trip folklore. Big-rig driver and blogger Salena Lettera lists 10 of her favourite roadside pit stops from across the country",
+        "metadata": {
+          "title": "Salena Lettera | The Guardian",
+          "description": "<p>Salena Lettera is a professional big-rig truck driver and author of The Daily Rant at salenalettera.com</p>"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le profil de Salena Lettera, conductrice professionnelle de poids lourd et auteure de The Daily Rant, présentant des articles de voyage et des guides routiers aux États-Unis publiés entre avril et septembre 2013 dans The Guardian.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Salena Lettera"
+        ],
+        "LOCATION": [
+          "United States",
+          "East coast",
+          "Alaska",
+          "Texas",
+          "New Mexico",
+          "Pacific coast"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "September 2013",
+          "August 2013",
+          "July 2013",
+          "June 2013",
+          "May 2013",
+          "April 2013"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "The Daily Rant",
+          "iPod"
+        ]
+      },
+      "score_e5": 0.6969091051517684
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Chicago river"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "2006"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "The Lake House"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Salena Lettera",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chicago",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East coast",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Alaska",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Mexico",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pacific coast",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Unsplash",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Anubis",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flickr",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Etsy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Dreamstime.com",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Trump International Hotel and Tower",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 29, 2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 7, 2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Hashcash",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JavaScript",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JShelter",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Chicago River",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The Daily Rant",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPod",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T16:16:05.457138"
+  }
+}

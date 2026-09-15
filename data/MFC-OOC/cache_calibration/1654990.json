@@ -1,0 +1,1428 @@
+{
+  "id_rumeur": 1654990,
+  "id_image": 1654990,
+  "caption": "Heavy traffic affected motorists on the M4 at Newport and Cardiff before and after the game",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747984/oluyewo_benchmark/tes6alixwgkbnoiux8gy.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Rugby World Cup fans faced Severn Bridge chaos, AMs hear ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-wales-politics-35472880",
+      "image_url": "http://c.files.bbci.co.uk/1AB8/production/_85704860_traffic.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEo_kyZKaHv4woPcyNUltnEry0Xe5UWUNxL_NPXS5_ZdSEOcfl",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Rugby World Cup fans faced Severn Bridge chaos, AMs hear ...",
+        "link": "https://www.bbc.com/news/uk-wales-politics-35472880",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEo_kyZKaHv4woPcyNUltnEry0Xe5UWUNxL_NPXS5_ZdSEOcfl",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/1AB8/production/_85704860_traffic.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Rugby World Cup fans faced Severn Bridge chaos, AMs hear\n\nBut fans travelling by road also suffered, AMs debating the report in the Senedd on Wednesday heard.\n\nMr Davies spoke of \"considerable congestion\" at the Severn Bridge toll plaza, and highlighted the case of a family travelling from London who gave up their attempt to reach Cardiff for a match.\n\n\"They were so far away from the toll plaza that in the end they turned in for Bath, watched the match in Bath, and spent the weekend in Bath,\" he said.\n\n\"They had to forego the tickets that the father had bought for his family to enjoy a game of rugby here in Cardiff.\n\n\"What sort of message is that sending out?\"\n\nResponding, Mrs Hart said: \"I'll be writing to the Department for Transport to raise the committee's concerns because these are issues we do not control.\n\n\"We don't want to apportion blame but it's important people recognise the difficulties that were surrounding what was happening on the bridge.\"",
+        "metadata": {
+          "description": "Traffic congestion on the Severn Bridge during the Rugby World Cup caused difficulties for fans, the transport minister will tell the UK government.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Traffic congestion on the Severn Bridge during the Rugby World Cup caused difficulties for fans, the transport minister will tell the UK government.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1AB8/production/_85704860_traffic.jpg",
+          "og:image:alt": "Queues on the M4 westbound",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Rugby World Cup fans faced Severn Bridge chaos, AMs hear",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-wales-politics-35472880",
+          "article:section": "Wales politics",
+          "twitter:description": "Traffic congestion on the Severn Bridge during the Rugby World Cup caused difficulties for fans, the transport minister will tell the UK government.",
+          "twitter:title": "Rugby World Cup fans faced Severn Bridge chaos, AMs hear"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-wales-politics-35472880",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-02-03T06:41:30.000Z",
+          "dateModified": "2016-02-03T16:39:58.000Z",
+          "description": "Traffic congestion on the Severn Bridge during the Rugby World Cup caused difficulties for fans, the transport minister will tell the UK government.",
+          "headline": "Rugby World Cup fans faced Severn Bridge chaos, AMs hear",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1AB8/production/_85704860_traffic.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1AB8/production/_85704860_traffic.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-wales-politics-35472880",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des fans de la Coupe du Monde de Rugby ont rencontré des problèmes de circulation importants au niveau du péage du pont de Severn. Un comité au Senedd a discuté de ces congestions, mentionnant le cas d'une famille de Londres qui a dû renoncer à se rendre à Cardiff pour un match pour aller à Bath à la place. Mme Hart a indiqué qu'elle écrirait au Department for Transport pour soulever les préoccupations du comité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mr Davies",
+          "Mrs Hart"
+        ],
+        "LOCATION": [
+          "Severn Bridge",
+          "Cardiff",
+          "London",
+          "Bath"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Senedd",
+          "Department for Transport"
+        ],
+        "DATE": [
+          "Wednesday"
+        ],
+        "EVENT": [
+          "Rugby World Cup"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7835642054275417
+    },
+    {
+      "titre": "M5 live as crash brings traffic to a standstill with huge ...",
+      "source": "Somerset Live",
+      "lien": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650",
+      "image_url": "https://i2-prod.somersetlive.co.uk/article9473662.ece/ALTERNATES/s1200b/1_M5-northbounda.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAFE4vF10_mZ8dk86NNvDBRyPdHmBIuqshA7wsh07LdSpriNGw",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "M5 live as crash brings traffic to a standstill with huge ...",
+        "link": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650",
+        "source": "Somerset Live",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAhFBMVEXZAADZBwfZDAzZBATcHh7naGj54ODaExP2y8vbGRnZCwveKirdJib1xcXkVFT20NDpdXX0wMD89PThQEDxrKz--_viR0fjTU3rg4Pzubnsi4v53d366Ojys7PmY2PeLi7ocHDhPT3um5vgNTXlXFzqenrvnJzxra3hRUX77Oz419frhYUU94lGAAABTElEQVQ4jb2TSXaDMBBELYHQiAYQMxiEwHbw_e8XnJcVgmXS2_6vWl3Vut3-uyLAIGPRdZ9RwUXMrprclfKO0FL6GIYqTFS1bVJCSNrMywgDgVi2addtSqktMdrhYICbVd8N7arr2dh7oACoNFlGaul8vtTrK3goHCeSJbaiGOKYCxysCv2kdqDE4MIByBEpMqIdvXAJ0Momu8QqvaAnJuwEnz4EaWZd8VMCu8mSLUnU0KKS4xCJ8Cj1POzIRiwKjPoUi73Uj0Z93oLECRAxTLmX6zPJutlfZR7RfFVF1uRXhtwAlmlRmOq4CcCCx3ivmN9JUTTlwWxAna6Xl_evpbZJ8fV0BwEoFtvMtdbvh9n6zrz5YTIc0bBt-7lsXd8rO-VHHyCX7dP8HJwZ5skHqUaQjrlcELovlfPiPPVo34BfZPlLsP3bgOv-H9U3yh8Y53UKNk8AAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAFE4vF10_mZ8dk86NNvDBRyPdHmBIuqshA7wsh07LdSpriNGw",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i2-prod.somersetlive.co.uk/article9473662.ece/ALTERNATES/s1200b/1_M5-northbounda.jpg",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "M5 live as crash brings traffic to a standstill with huge delays\n\nLIVELast updated 10th August 2024\n\n\nDrivers are warned it is taking an hour and a half to travel just eight miles towards Bristol\n\n\nA collision on the M5 northbound in Somerset has brought traffic to a standstill on one of the busiest weekends of the year.\n\nThree lanes of the M5 northbound are blocked by the crash, which happened just before Junction 19, the turn off for Bristol, Portishead and the Gordano Services.\n\nTraffic is currently backed up with queues of up to nine miles, and the Google Traffic Maps calculator is currently advising motorists it is taking an hour and a half to travel eight miles on the approach to junction 19.\n\nOne of the two vehicles involved is reported to have been pulling a trailer.\n\nWe will bring you all the latest information on this developing situation on one of the busiest roads in the south west, as and when we get it - scroll down for the latest updates.\n\n10.08.202418:58 BST\n\nM5 crash update\n\nThis from Inrix:\n\n> Traffic easing, accident cleared on M5 Northbound before J19 A369 Martcombe Road (Portishead).All lanes reopened at around 17:25 however residual delays remain.\n\n10.08.202417:29 BST\n\nAll lanes reopened\n\nAll lanes on the M5 northbound have now reopened but what Inrix are calling 'residual delays' remain.\n\nThings are easing on the approach to junction 20 for Clevedon. Google Maps is now saying it will take around 40 minutes to travel the eight miles to junction 19 for Portishead (about an hour ago, it was going to take two hours).\n\n10.08.202416:55 BST\n\nTwo hour delays but good news from authorities\n\nThere's good news and bad news in the latest update on this situation from Highways England South West.\n\nThe good news - just one of the four lanes is now blocked by the earlier collision - which means two of the three lanes that had been blocked have now been cleared of the crashed vehicles.\n\nThe bad news - more drivers and vehicles are joining the back of the queue heading north up the M5 than are getting clear of the scene at the other end. National Highways SW now said: \"There are delays of at least two hours above normal travel time, please allow extra time for your journey\".\n\n10.08.202416:50 BST\n\nQueues on the M5 now almost back to Weston\n\n\n10.08.202416:47 BST\n\n'Severe delays'\n\nTraffic update service Inrix says the crash is between two vehicles, one of which was pulling a trailer. No word yet on any casualties, but one good sign is that the emergency services at the scene have not (yet) taken the decision to close down the entire motorway - which would be a routine move if people were seriously injured.\n\nThe latest from Inrix is as follows: \"Severe delays, stop-start traffic and three lanes closed due to accident, two cars involved on M5 Northbound before J19 A369 Martcombe Road (Portishead). Congestion to J21 (Weston Super Mare). Travel time is an hour and 30 minutes. One of the cars involved has been reported towing a trailer.\"\n\n10.08.202416:45 BST\n\nWhere has the crash happened?\n\nYou're heading north up the M5 towards Bristol and just after junction 20 for Clevedon, the motorway begins its climb over the North Somerset ridge. The M5 at this point becomes four lanes before reaching the summit and becoming split level. The crash is at this point, and three of those four lanes are blocked, according to National Highways South West.\n\nThey are advising drivers to 'expect delays' and those delays are already here. If you're joining the back of the queue at junction 20 for Clevedon, it's likely to take you an hour and a half to make it to junction 19 for Portishead.\n\n\n----------------------------------------",
+        "metadata": {
+          "title": "M5 live as crash brings traffic to a standstill with huge delays | Somerset Live",
+          "fb:app_id": "379032445622416",
+          "fb:pages": "106175022173",
+          "description": "Drivers are warned it is taking an hour and a half to travel just eight miles towards Bristol",
+          "author": "Tristan Cork",
+          "keywords": "Traffic & Travel, M5",
+          "news_keywords": "Traffic & Travel, M5",
+          "og:title": "Updates - crash brings M5 in North Somerset to a standstill",
+          "og:description": "Drivers are warned it is taking an hour and a half to travel just eight miles towards Bristol",
+          "og:url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650",
+          "og:site_name": "Somerset Live",
+          "og:locale": "en_GB",
+          "og:image": "https://i2-prod.somersetlive.co.uk/article9473662.ece/ALTERNATES/s1200d/1_M5-northbounda.jpg",
+          "og:type": "article",
+          "article:published_time": "2024-08-10T17:58:38.000Z",
+          "article:modified_time": "2024-08-10T17:58:38.000Z",
+          "article:author": "https://www.facebook.com/tristan.cork.5",
+          "article:section": "Somerset News",
+          "article:tag": "M5",
+          "twitter:title": "Updates - crash brings M5 in North Somerset to a standstill",
+          "twitter:description": "Drivers are warned it is taking an hour and a half to travel just eight miles towards Bristol"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "LiveBlogPosting",
+          "headline": "M5 live as crash brings traffic to a standstill with huge delays",
+          "description": "Drivers are warned it is taking an hour and a half to travel just eight miles towards Bristol",
+          "inLanguage": "en-GB",
+          "articleBody": "A collision on the M5 northbound in Somerset has brought traffic to a standstill on one of the busiest weekends of the year. Three lanes of the M5 northbound are blocked by the crash, which happened just before Junction 19, the turn off for Bristol, Portishead and the Gordano Services. Traffic is currently backed up with queues of up to nine miles, and the Google Traffic Maps calculator is currently advising motorists it is taking an hour and a half to travel eight miles on the approach to junction 19. One of the two vehicles involved is reported to have been pulling a trailer. We will bring you all the latest information on this developing situation on one of the busiest roads in the south west, as and when we get it - scroll down for the latest updates.",
+          "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650",
+          "keywords": "Traffic & Travel, M5",
+          "articleSection": "Somerset News",
+          "about": {
+            "@type": "Thing",
+            "name": "M5"
+          },
+          "datePublished": "2024-08-10T17:58:38Z",
+          "dateModified": "2024-08-10T17:58:38Z",
+          "coverageStartTime": "2024-08-10T15:43:20Z",
+          "coverageEndTime": "2024-08-11T17:58:38Z",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Tristan Cork",
+              "sameAs": "https://www.somersetlive.co.uk/authors/tristan-cork/"
+            }
+          ],
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650",
+            "breadcrumb": {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "home",
+                  "item": "https://www.somersetlive.co.uk"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "News",
+                  "item": "https://www.somersetlive.co.uk/news/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Somerset News",
+                  "item": "https://www.somersetlive.co.uk/news/somerset-news/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "M5",
+                  "item": "https://www.somersetlive.co.uk/all-about/m5"
+                }
+              ]
+            }
+          },
+          "publisher": {
+            "@id": "https://www.somersetlive.co.uk/#newsorganization",
+            "@type": "NewsMediaOrganization",
+            "name": "Somerset Live",
+            "url": "https://www.somersetlive.co.uk",
+            "publishingPrinciples": "https://www.somersetlive.co.uk/about-us/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.somersetlive.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/somersetlive/logos/masthead-somersetlive-default.svg",
+              "width": 600,
+              "height": 160
+            },
+            "sameAs": [
+              "https://www.facebook.com/somersetlive",
+              "https://x.com/somersetlive"
+            ]
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://i2-prod.somersetlive.co.uk/article9473662.ece/ALTERNATES/s1200d/1_M5-northbounda.jpg"
+          },
+          "liveBlogUpdate": [
+            {
+              "@type": "BlogPosting",
+              "headline": "M5 crash update",
+              "articleBody": "This from Inrix:",
+              "datePublished": "2024-08-10T17:58:38.000Z",
+              "dateModified": "2024-08-10T17:58:38.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Phil Norris",
+                "sameAs": "https://www.somersetlive.co.uk/authors/phil-norris/"
+              },
+              "publisher": {
+                "@id": "https://www.somersetlive.co.uk/#newsorganization"
+              },
+              "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650#entry1550592"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "All lanes reopened",
+              "articleBody": "All lanes on the M5 northbound have now reopened but what Inrix are calling 'residual delays' remain. Things are easing on the approach to junction 20 for Clevedon. Google Maps is now saying it will take around 40 minutes to travel the eight miles to junction 19 for Portishead (about an hour ago, it was going to take two hours).",
+              "datePublished": "2024-08-10T16:29:54.000Z",
+              "dateModified": "2024-08-10T16:29:54.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Tristan Cork",
+                "sameAs": "https://www.somersetlive.co.uk/authors/tristan-cork/"
+              },
+              "publisher": {
+                "@id": "https://www.somersetlive.co.uk/#newsorganization"
+              },
+              "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650#entry1550497"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Two hour delays but good news from authorities",
+              "articleBody": "There's good news and bad news in the latest update on this situation from Highways England South West. The good news - just one of the four lanes is now blocked by the earlier collision - which means two of the three lanes that had been blocked have now been cleared of the crashed vehicles. The bad news - more drivers and vehicles are joining the back of the queue heading north up the M5 than are getting clear of the scene at the other end. National Highways SW now said: \"There are delays of at least two hours above normal travel time, please allow extra time for your journey\".",
+              "datePublished": "2024-08-10T15:55:50.000Z",
+              "dateModified": "2024-08-10T15:55:50.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Tristan Cork",
+                "sameAs": "https://www.somersetlive.co.uk/authors/tristan-cork/"
+              },
+              "publisher": {
+                "@id": "https://www.somersetlive.co.uk/#newsorganization"
+              },
+              "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650#entry1550482"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Queues on the M5 now almost back to Weston",
+              "articleBody": "",
+              "datePublished": "2024-08-10T15:50:58.000Z",
+              "dateModified": "2024-08-10T15:50:58.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Tristan Cork",
+                "sameAs": "https://www.somersetlive.co.uk/authors/tristan-cork/"
+              },
+              "publisher": {
+                "@id": "https://www.somersetlive.co.uk/#newsorganization"
+              },
+              "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650#entry1550477"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "'Severe delays'",
+              "articleBody": "Traffic update service Inrix says the crash is between two vehicles, one of which was pulling a trailer. No word yet on any casualties, but one good sign is that the emergency services at the scene have not (yet) taken the decision to close down the entire motorway - which would be a routine move if people were seriously injured. The latest from Inrix is as follows: \"Severe delays, stop-start traffic and three lanes closed due to accident, two cars involved on M5 Northbound before J19 A369 Martcombe Road (Portishead). Congestion to J21 (Weston Super Mare). Travel time is an hour and 30 minutes. One of the cars involved has been reported towing a trailer.\"",
+              "datePublished": "2024-08-10T15:47:23.000Z",
+              "dateModified": "2024-08-10T15:47:23.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Tristan Cork",
+                "sameAs": "https://www.somersetlive.co.uk/authors/tristan-cork/"
+              },
+              "publisher": {
+                "@id": "https://www.somersetlive.co.uk/#newsorganization"
+              },
+              "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650#entry1550473"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Where has the crash happened?",
+              "articleBody": "You're heading north up the M5 towards Bristol and just after junction 20 for Clevedon, the motorway begins its climb over the North Somerset ridge. The M5 at this point becomes four lanes before reaching the summit and becoming split level. The crash is at this point, and three of those four lanes are blocked, according to National Highways South West. They are advising drivers to 'expect delays' and those delays are already here. If you're joining the back of the queue at junction 20 for Clevedon, it's likely to take you an hour and a half to make it to junction 19 for Portishead.",
+              "datePublished": "2024-08-10T15:45:43.000Z",
+              "dateModified": "2024-08-10T15:45:43.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Tristan Cork",
+                "sameAs": "https://www.somersetlive.co.uk/authors/tristan-cork/"
+              },
+              "publisher": {
+                "@id": "https://www.somersetlive.co.uk/#newsorganization"
+              },
+              "url": "https://www.somersetlive.co.uk/news/somerset-news/m5-live-crash-brings-traffic-9473650#entry1550470"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un accident impliquant deux véhicules, dont un tractant une remorque, s'est produit sur l'autoroute M5 en direction du nord en Somerset, juste avant la jonction 19 pour Bristol, Portishead et les services de Gordano. Cet accident a provoqué d'importants ralentissements et des files d'attente pouvant aller jusqu'à neuf miles sur l'une des routes les plus fréquentées du sud-ouest. Toutes les voies ont rouvert plus tard dans l'après-midi malgré des retards résiduels.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "M5",
+          "Somerset",
+          "Bristol",
+          "Portishead",
+          "Gordano Services",
+          "Martcombe Road",
+          "Clevedon",
+          "Weston Super Mare"
+        ],
+        "ORGANIZATION": [
+          "Somerset Live",
+          "Google Traffic Maps",
+          "Inrix",
+          "Highways England South West",
+          "National Highways SW"
+        ],
+        "DATE": [
+          "10th August 2024",
+          "10.08.2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7807288365835544
+    },
+    {
+      "titre": "Motorway traffic delays on M6 at Preston's Broughton ...",
+      "source": "Lancashire Evening Post",
+      "lien": "https://www.lep.co.uk/news/motorway-traffic-delays-on-m6-at-prestons-broughton-interchange-with-m55-affected-after-earlier-crash-8847382",
+      "image_url": "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?trim=48,0,48,0&crop=&width=1200&auto=webp&quality=75",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YLSqoky2MulGgAbrfZUC_am-aekgra7or99Qw6Yv_HaBi5Jr",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Motorway traffic delays on M6 at Preston's Broughton ...",
+        "link": "https://www.lep.co.uk/news/motorway-traffic-delays-on-m6-at-prestons-broughton-interchange-with-m55-affected-after-earlier-crash-8847382",
+        "source": "Lancashire Evening Post",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ-RT1jfxjSrZxEKPPD99q792y70bEhxNsHbzHZ8bzLg0K77AERiLbdPnENnMTjdfgPLGhQ7IyvwSlrWIbV90pJmf-6UdmbsJIS6mhnEg1m3dsg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YLSqoky2MulGgAbrfZUC_am-aekgra7or99Qw6Yv_HaBi5Jr",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?trim=48,0,48,0&crop=&width=1200&auto=webp&quality=75",
+        "image_width": 480,
+        "image_height": 720
+      },
+      "webpage": {
+        "text": "Motorway traffic delays on M6 at Preston's Broughton interchange with M55 affected after earlier crash\n\nTraffic delays on M6 with queues affecting M55\n\nAn accident is causing traffic delays at the M6 junction with the M55 at the Broughton interchange.\n\nDrivers are facing a blocked lane on the southbound carriageway with traffic backing up in both directions as far down as Brockholes.\n\nThe M55 is affected eastbound and traffic is moving very slowly northbound around J31 at Lostock Hall.\n\nThe latest from AA Traffic News says ‘One lane blocked, traffic problem and queueing traffic due to crash on M6 Southbound at J32 M55 (Broughton Interchange).”\n\nMore to follow",
+        "metadata": {
+          "title": "Motorway traffic delays on M6 at Preston&#x27;s Broughton interchange with M55 affected after earlier crash",
+          "fb:app_id": "128644021154394",
+          "fb:pages": "131236596964480",
+          "og:locale": "en_GB",
+          "og:site_name": "Lancashire Evening Post",
+          "og:image": "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?trim=48,0,48,0&crop=&width=1200&auto=webp&quality=75",
+          "og:updated_time": "2026-08-09T13:09:02.000Z",
+          "twitter:title": "Drivers facing M6 delays with M55 affected after earlier crash",
+          "twitter:description": "Traffic delays on M6 with queues affecting M55",
+          "date": "2026-08-09T13:09:02.000Z",
+          "article:published_time": "2026-08-09T13:09:02.000Z",
+          "og:title": "Drivers facing M6 delays with M55 affected after earlier crash",
+          "og:url": "https://www.lep.co.uk/news/motorway-traffic-delays-on-m6-at-prestons-broughton-interchange-with-m55-affected-after-earlier-crash-8847382",
+          "og:type": "article",
+          "og:article:author": "Claire Lark",
+          "og:description": "Traffic delays on M6 with queues affecting M55",
+          "description": "Traffic delays on M6 with queues affecting M55",
+          "article:modified_time": "2026-08-09T13:09:02.000Z",
+          "og:image:secure_url": "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?trim=48,0,48,0&crop=&width=1200&auto=webp&quality=75",
+          "og:image:width": "1200",
+          "og:image:height": "600",
+          "og:image:alt": "Slow moving traffic at J31-31a this afternoon"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.lep.co.uk/news/motorway-traffic-delays-on-m6-at-prestons-broughton-interchange-with-m55-affected-after-earlier-crash-8847382"
+          },
+          "headline": "Drivers facing M6 delays at Preston's Broughton interchange with M55 affected after earlier crash",
+          "datePublished": "2026-08-09T13:09:02.000Z",
+          "dateModified": "2026-08-09T13:09:02.000Z",
+          "description": "Traffic delays on M6 with queues affecting M55",
+          "keywords": [
+            "m6",
+            "preston",
+            "traffic delays",
+            "traffic"
+          ],
+          "thumbnailUrl": [
+            "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&enable=upscale",
+            "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&height=640&fit=crop",
+            "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&height=900&fit=crop",
+            "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&height=1200&fit=crop"
+          ],
+          "articleSection": "News",
+          "articleBody": "An accident is causing traffic delays at the M6 junction with the M55 at the Broughton interchange. Drivers are facing a blocked lane on the southbound carriageway with traffic backing up in both directions as far down as Brockholes. The M55 is affected eastbound and traffic is moving very slowly northbound around J31 at Lostock Hall. The latest from AA Traffic News says ‘One lane blocked, traffic problem and queueing traffic due to crash on M6 Southbound at J32 M55 (Broughton Interchange).” More to follow",
+          "url": "https://www.lep.co.uk/news/motorway-traffic-delays-on-m6-at-prestons-broughton-interchange-with-m55-affected-after-earlier-crash-8847382",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Lancashire Evening Post",
+            "url": "https://www.lep.co.uk",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "/img/logo.png",
+              "width": 600,
+              "height": 121
+            }
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": [
+              "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&enable=upscale",
+              "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&height=640&fit=crop",
+              "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&height=900&fit=crop",
+              "https://www.lep.co.uk/jpim-static/image/2026/08/09/13/43/Slow-moving-traffic-at-J31-31a-this-afternoon.jpeg?width=1200&height=1200&fit=crop"
+            ],
+            "representativeOfPage": true
+          },
+          "isAccessibleForFree": "True",
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "Lancashire Evening Post",
+            "productID": "lep.co.uk:showcase"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Claire Lark",
+            "url": "https://www.lep.co.uk/author/claire-lark"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un accident sur l'autoroute M6 à l'échangeur de Broughton avec la M55 entraîne des retards de circulation, affectant une voie sur la chaussée en direction du sud avec des files d'attente s'étendant jusqu'à Brockholes. La circulation sur la M55 est également ralentie en direction de l'est et au nord autour de la jonction 31 à Lostock Hall.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "M6",
+          "Preston's Broughton",
+          "M55",
+          "Broughton interchange",
+          "Brockholes",
+          "Lostock Hall"
+        ],
+        "ORGANIZATION": [
+          "Lancashire Evening Post",
+          "AA Traffic News"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7692758729504163
+    },
+    {
+      "titre": "M5 mystery over two crashes, woman getting out of van, and ...",
+      "source": "Gloucestershire Live",
+      "lien": "https://www.gloucestershirelive.co.uk/news/gloucester-news/m5-mystery-over-two-crashes-10549005",
+      "image_url": "https://i2-prod.gloucestershirelive.co.uk/article10531997.ece/ALTERNATES/s1200f/1_47896.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41Zi0Kvih4j8074R-qV0DtCfOGRqk6e1dt0w5GWEfF9Ru-CJB",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "M5 mystery over two crashes, woman getting out of van, and ...",
+        "link": "https://www.gloucestershirelive.co.uk/news/gloucester-news/m5-mystery-over-two-crashes-10549005",
+        "source": "Gloucestershire Live",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRyw_rCEcRSEZmQE8cUEaB9m1rhoPiTxhJL_waGSPAF642rkMYpE7NA9BqTr4cdsmW5lHOSCM6lSiPJyFg6vykBD5rWvIfd_JIRQ4onjt4wN1RES1S-JlcoyXRBEjGDvLbNUg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR41Zi0Kvih4j8074R-qV0DtCfOGRqk6e1dt0w5GWEfF9Ru-CJB",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://i2-prod.gloucestershirelive.co.uk/article10531997.ece/ALTERNATES/s1200f/1_47896.jpg",
+        "image_width": 800,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "M5 mystery over two crashes, woman getting out of van, and man running across motorway\n\nThe incidents took place near Gloucester Services on the Gloucestershire motorway\n\nPolice are trying to piece together an incident on the M5 in Gloucestershire that involved two crashes, a woman leaving a van, and a man running onto the carriageway.\n\nThe incident began on the southbound M5 near Gloucester Services last Saturday (September 27), Gloucestershire police said.\n\nOfficers had been sent to the scene, between junction 11a near Brockworth and junction 12 for Quedgeley and Hardwicke, after the driver of a silver panel van crashed into the central reservation and side barrier before coming to a stop on the hard shoulder.\n\nPolice said: \"It was reported that a female passenger then left the van and got into another car.\n\n\"The driver of the van was then seen leaving his vehicle before running across the southbound carriageway and onto the northbound carriageway.\"\n\nA second crash, involving the drivers of Ford Mustang and a Mercedes, was then reported.\n\nEmergency services went to the scene and a woman was taken to Gloucestershire Royal Hospital to be assessed for minor injuries.\n\nShe has since been discharged and no further injuries were reported.\n\nPartial closures, which were put in place on both carriageways, were lifted a short time later.\n\nA 22-year-old man from Worcester was arrested on suspicion of dangerous driving and driving whilst under the influence of drugs in connection with the first collision.\n\nHe has been released on police bail pending further enquiries.\n\nAnyone who may have witnessed the van in the lead up to the first collision, or the collision itself, and who has not yet spoken to police, is asked to get in touch.\n\nOfficers are also keen to hear from anyone who may have any dashcam footage which they believe to be relevant.\n\nInformation can be submitted by completing the online form and quoting incident 217 of 27 September:\n\nChoose Gloucestershire Live as a 'Preferred Source' on Google News for quick access to the news you value.\n\n----------------------------------------\n\n * Ford\n * M5\n * Gloucester\n * Gloucestershire",
+        "metadata": {
+          "title": "M5 mystery over two crashes, woman getting out of van, and man running across motorway - Gloucestershire Live",
+          "fb:app_id": "915437125143082",
+          "fb:pages": "1723884254526037",
+          "description": "The incidents took place near Gloucester Services on the Gloucestershire motorway",
+          "author": "Phil Norris",
+          "keywords": "Ford, M5, Gloucester, Gloucestershire",
+          "news_keywords": "Ford, M5, Gloucester, Gloucestershire",
+          "og:title": "M5 mystery over two crashes and woman getting out of van",
+          "og:description": "The incidents took place near Gloucester Services on the Gloucestershire motorway",
+          "og:url": "https://www.gloucestershirelive.co.uk/news/gloucester-news/m5-mystery-over-two-crashes-10549005",
+          "og:site_name": "Gloucestershire Live",
+          "og:locale": "en_GB",
+          "og:image": "https://i2-prod.gloucestershirelive.co.uk/article10531997.ece/ALTERNATES/s1200d/1_47896.jpg",
+          "og:type": "article",
+          "article:published_time": "2025-10-03T15:37:55Z",
+          "article:modified_time": "2025-10-03T15:49:16Z",
+          "article:author": "https://www.gloucestershirelive.co.uk/authors/phil-norris/",
+          "article:section": "Gloucester News",
+          "article:tag": "Gloucestershire",
+          "twitter:title": "M5 mystery over two crashes and woman getting out of van",
+          "twitter:description": "The incidents took place near Gloucester Services on the Gloucestershire motorway"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.gloucestershirelive.co.uk/news/gloucester-news/m5-mystery-over-two-crashes-10549005",
+          "inLanguage": "en-GB",
+          "headline": "M5 mystery over two crashes, woman getting out of van, and man running across motorway",
+          "name": "M5 mystery over two crashes, woman getting out of van, and man running across motorway",
+          "description": "The incidents took place near Gloucester Services on the Gloucestershire motorway",
+          "articleBody": "Police are trying to piece together an incident on the  M5  in Gloucestershire that involved two crashes, a woman leaving a van, and a man running onto the carriageway. The incident began on the southbound M5 near  Gloucester Services  last Saturday (September 27), Gloucestershire police said. Officers had been sent to the scene, between junction 11a near Brockworth and junction 12 for Quedgeley and Hardwicke, after the driver of a silver panel van crashed into the central reservation and side barrier before coming to a stop on the hard shoulder. Police said: \"It was reported that a female passenger then left the van and got into another car. \"The driver of the van was then seen leaving his vehicle before running across the southbound carriageway and onto the northbound carriageway.\" A second crash, involving the drivers of Ford Mustang and a Mercedes, was then reported. Emergency services went to the scene and a woman was taken to Gloucestershire Royal Hospital to be assessed for minor injuries. She has since been discharged and no further injuries were reported. Partial closures,  which were put in place on both carriageways , were lifted a short time later. A 22-year-old man from Worcester was arrested on suspicion of dangerous driving and driving whilst under the influence of drugs in connection with the first collision. He has been released on police bail pending further enquiries. Anyone who may have witnessed the van in the lead up to the first collision, or the collision itself, and who has not yet spoken to police, is asked to get in touch. Officers are also keen to hear from anyone who may have any dashcam footage which they believe to be relevant. Information can be submitted by completing the  online form  and quoting incident 217 of 27 September:",
+          "datePublished": "2025-10-03T15:37:55Z",
+          "dateModified": "2025-10-03T15:49:16Z",
+          "image": [
+            "https://i2-prod.gloucestershirelive.co.uk/article10531997.ece/ALTERNATES/s1200d/1_47896.jpg",
+            "https://i2-prod.gloucestershirelive.co.uk/article10531997.ece/ALTERNATES/s1200b/1_47896.jpg",
+            "https://i2-prod.gloucestershirelive.co.uk/article10531997.ece/ALTERNATES/s1200c/1_47896.jpg"
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Phil Norris",
+              "sameAs": "https://www.gloucestershirelive.co.uk/authors/phil-norris/"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Gloucestershire Live",
+            "url": "https://www.gloucestershirelive.co.uk",
+            "publishingPrinciples": "https://www.gloucestershirelive.co.uk/about-us/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.gloucestershirelive.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/gloucestershirelive/logos/masthead-gloucestershirelive-default.svg",
+              "width": 338,
+              "height": 60
+            },
+            "sameAs": [
+              "https://www.facebook.com/GlosLiveOnline",
+              "https://x.com/GlosLiveOnline"
+            ]
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              "#article-body h2[data-testid='leadtext']"
+            ]
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un incident survenu sur l'autoroute M5 dans le Gloucestershire, près des services de Gloucester entre la jonction 11a et la jonction 12, a impliqué un van argenté percutant la barrière centrale, une passagère montant dans une autre voiture, et le conducteur traversant les voies des deux sens. Un second accident impliquant une Ford Mustang et une Mercedes a eu lieu. Une femme a été transportée à l'hôpital royal de Gloucestershire pour des blessures mineures et un homme de 22 ans originaire de Worcester a été arrêté.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "M5",
+          "Gloucester Services",
+          "Gloucestershire",
+          "Brockworth",
+          "Quedgeley",
+          "Hardwicke",
+          "Gloucester Royal Hospital",
+          "Worcester"
+        ],
+        "ORGANIZATION": [
+          "Gloucestershire Live",
+          "Gloucestershire police",
+          "Ford",
+          "Mercedes"
+        ],
+        "DATE": [
+          "last Saturday",
+          "27 September"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Ford Mustang"
+        ]
+      },
+      "score_e5": 0.7530657041918928
+    },
+    {
+      "titre": "LIVE: M32 reopens in Bristol after serious crash | Bristol Live",
+      "source": "Bristol Live",
+      "lien": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030",
+      "image_url": "https://i2-prod.bristolpost.co.uk/article9609209.ece/ALTERNATES/s1200f/0_45042.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpU5MiCtfBMvVlK0KFgL0yntw7ROp10Lhw9qHgy199mn16Rcjp",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "LIVE: M32 reopens in Bristol after serious crash | Bristol Live",
+        "link": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030",
+        "source": "Bristol Live",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQELCsQYscYiKJyRbrEFzTeCZ3kWeNMCOz23t3a9sjl-nwWagETxmWlHpQBjP8KPXOoh8E_gxmE0bo9FfIJ1aSDdF5h0KG_q0jR3jg8Smz3v109IENlIL2e5T8",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpU5MiCtfBMvVlK0KFgL0yntw7ROp10Lhw9qHgy199mn16Rcjp",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://i2-prod.bristolpost.co.uk/article9609209.ece/ALTERNATES/s1200f/0_45042.jpg",
+        "image_width": 801,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "LIVE: M32 reopens in Bristol after serious crash\n\nLIVE EVENT ENDEDLast updated 6th October 2024\n\n\nThe road is expected to be closed for several hours\n\n\nA stretch of the M32 at Bristol, which was closed following a serious crash. has now reopened, National Highways have confirmed. Traffic and travel site Inrix reported at 10.40am that the northbound exit slip road was closed due to an accident at Junction 1 with the A4174. The initial report suggested that traffic was coping well.\n\nHowever, a short while later Inrix stated that \"all traffic being temporarily held and stationary traffic due to accident on M32 Northbound from J2 B4058 (Eastville) to J1 A4174 (Hambrook). Congestion to j3.\"\n\nIt added that emergency repairs were also being carried out at the junction 1 with A4174. One lane reopened at around 12.45pm.\n\nAt 4.14pm, National Highways confirmed that all lanes had now reopened and traffic congestions would start easing off.\n\n06.10.202416:23 BST\n\nTraffic to ease off as M32 reopens\n\nNational Highways have confirmed that all lanes on the M32 have now reopened and traffic should start to ease off following this morning serious crash.\n\nIn a post on X (formerly twitter), the organisation said: \"All closures have been removed on the M32 northbound between J2 and J1 near Bristol following this morning's serious collision. J1 exit slip road is also open.\"\n\nThey added: \"Delays in excess of 15 minutes, should start to ease.\"\n\n06.10.202413:39 BST\n\nTraffic picture shows long delays on the M32\n\n\n06.10.202413:32 BST\n\nOne lane remains closed on the M32\n\n06.10.202412:01 BST\n\nTraffic map shows long delays\n\n\n06.10.202411:44 BST\n\nDrivers urged to avoid area\n\n06.10.202411:44 BST\n\nAvon and Somerset Police state they are on the scene\n\nIn a post on Twitter, Avon and Somerset Police said: \"The M32 is closed outbound from Junction 2 (Fishponds) to Junction 1 (Ring Road) following a collision on the Junction 1 slip road this morning (Sunday 6 October).\n\n\" Emergency services are on the scene but motorists are advised to seek an alternative route.\"\n\n06.10.202411:36 BST\n\nDiversion route\n\nNorthbound traffic should follow the solid triangle diversion symbol\n\n * Exit the M32 at J2 and at the roundabout, take the third exit on to the B4469\n * At the traffic lights, take the A432 and continue for approx. 4 miles to Wick Wick roundabout\n * At the roundabout, take the first exit on to the A4174 westbound\n * Rejoin the M32 at J1\n\n06.10.202411:36 BST\n\nTraffic has been stopped\n\nAll traffic being temporarily held and stationary traffic due to accident on M32 Northbound from J2 B4058 (Eastville) to J1 A4174 (Hambrook). Congestion to j3.\n\n----------------------------------------",
+        "metadata": {
+          "title": "LIVE: M32 reopens in Bristol after serious crash | Bristol Live",
+          "fb:app_id": "649500528530167",
+          "fb:pages": "274305912915814",
+          "description": "The road is expected to be closed for several hours",
+          "author": "Carl Eve",
+          "keywords": "Avon and Somerset Constabulary, M32 motorway, Traffic & Travel",
+          "news_keywords": "Avon and Somerset Constabulary, M32 motorway, Traffic & Travel",
+          "og:title": "M32 reopens after serious crash ",
+          "og:description": "The road is expected to be closed for several hours",
+          "og:url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030",
+          "og:site_name": "Bristol Live",
+          "og:locale": "en_GB",
+          "og:image": "https://i2-prod.bristolpost.co.uk/article9609209.ece/ALTERNATES/s1200d/0_45042.jpg",
+          "og:type": "article",
+          "article:published_time": "2024-10-06T15:23:15.000Z",
+          "article:modified_time": "2024-10-06T15:23:15.000Z",
+          "article:author": "https://www.facebook.com/CarlEveCrime/",
+          "article:section": "Bristol News",
+          "article:tag": "Traffic & Travel",
+          "twitter:title": "M32 reopens after serious crash ",
+          "twitter:description": "The road is expected to be closed for several hours"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "LiveBlogPosting",
+          "headline": "LIVE: M32 reopens in Bristol after serious crash",
+          "description": "The road is expected to be closed for several hours",
+          "inLanguage": "en-GB",
+          "articleBody": "A stretch of the M32 at Bristol, which was closed following a serious crash. has now reopened, National Highways have confirmed. Traffic and travel site Inrix reported at 10.40am that the northbound exit slip road was closed due to an accident at Junction 1 with the A4174. The initial report suggested that traffic was coping well. However, a short while later Inrix stated that \"all traffic being temporarily held and stationary traffic due to accident on M32 Northbound from J2 B4058 (Eastville) to J1 A4174 (Hambrook). Congestion to j3.\" It added that emergency repairs were also being carried out at the junction 1 with A4174. One lane reopened at around 12.45pm. At 4.14pm, National Highways confirmed that all lanes had now reopened and traffic congestions would start easing off.",
+          "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030",
+          "keywords": "Avon and Somerset Constabulary, M32 motorway, Traffic & Travel",
+          "articleSection": "Bristol News",
+          "about": {
+            "@type": "Thing",
+            "name": "Traffic & Travel"
+          },
+          "datePublished": "2024-10-06T15:23:15Z",
+          "dateModified": "2024-10-06T15:23:15Z",
+          "coverageStartTime": "2024-10-06T10:28:49Z",
+          "coverageEndTime": "2024-10-07T15:23:15Z",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Carl Eve",
+              "sameAs": "https://www.bristolpost.co.uk/authors/carl-eve/"
+            }
+          ],
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030",
+            "breadcrumb": {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "home",
+                  "item": "https://www.bristolpost.co.uk"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "News",
+                  "item": "https://www.bristolpost.co.uk/news/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Bristol News",
+                  "item": "https://www.bristolpost.co.uk/news/bristol-news/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Traffic & Travel",
+                  "item": "https://www.bristolpost.co.uk/all-about/traffic-travel"
+                }
+              ]
+            }
+          },
+          "publisher": {
+            "@id": "https://www.bristolpost.co.uk/#newsorganization",
+            "@type": "NewsMediaOrganization",
+            "name": "Bristol Live",
+            "url": "https://www.bristolpost.co.uk",
+            "publishingPrinciples": "https://www.bristolpost.co.uk/about-us/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.bristolpost.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/bristolpost/logos/masthead-bristolpost-default.svg",
+              "width": 137,
+              "height": 60
+            },
+            "sameAs": [
+              "https://www.facebook.com/bristol.live",
+              "https://x.com/bristollive"
+            ]
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://i2-prod.bristolpost.co.uk/article9609209.ece/ALTERNATES/s1200d/0_45042.jpg"
+          },
+          "liveBlogUpdate": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Traffic to ease off as M32 reopens ",
+              "articleBody": "National Highways have confirmed that all lanes on the M32 have now reopened and traffic should start to ease off following this morning serious crash. In a post on X (formerly twitter), the organisation said: \"All closures have been removed on the M32 northbound between J2 and J1 near Bristol following this morning's serious collision. J1 exit slip road is also open.\" They added: \"Delays in excess of 15 minutes, should start to ease.\"",
+              "datePublished": "2024-10-06T15:23:15.000Z",
+              "dateModified": "2024-10-06T15:23:15.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Olivier Vergnault",
+                "sameAs": "https://www.bristolpost.co.uk/authors/olivier-vergnault/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565431"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Traffic picture shows long delays on the M32",
+              "articleBody": "",
+              "datePublished": "2024-10-06T12:39:25.000Z",
+              "dateModified": "2024-10-06T12:39:25.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565330"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "One lane remains closed on the M32",
+              "articleBody": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Lane 1 (of 2) remains closed on the <a href=\"https://twitter.com/hashtag/M32?src=hash&amp;ref_src=twsrc%5Etfw\">#M32</a> in <a href=\"https://twitter.com/hashtag/Gloucestershire?src=hash&amp;ref_src=twsrc%5Etfw\">#Gloucestershire</a> northbound between J2 <a href=\"https://twitter.com/hashtag/Horfield?src=hash&amp;ref_src=twsrc%5Etfw\">#Horfield</a> and J1 <a href=\"https://twitter.com/hashtag/Filton?src=hash&amp;ref_src=twsrc%5Etfw\">#Filton</a> following a serious collision. <br><br>The northbound exit slip road at J1 also remains closed. <br><br>Thank you for your patience. <a href=\"https://t.co/yKhRJeYxvY\">pic.twitter.com/yKhRJeYxvY</a></p>&mdash; National Highways: South-West (@HighwaysSWEST) <a href=\"https://twitter.com/HighwaysSWEST/status/1842903289232265374?ref_src=twsrc%5Etfw\">October 6, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+              "datePublished": "2024-10-06T12:32:01.000Z",
+              "dateModified": "2024-10-06T12:32:01.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565326"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "One lane is now closed ",
+              "articleBody": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The <a href=\"https://twitter.com/hashtag/M32?src=hash&amp;ref_src=twsrc%5Etfw\">#M32</a> northbound between J2 <a href=\"https://twitter.com/hashtag/Horfield?src=hash&amp;ref_src=twsrc%5Etfw\">#Horfield</a> and J1 <a href=\"https://twitter.com/hashtag/Filton?src=hash&amp;ref_src=twsrc%5Etfw\">#Filton</a> is now open<br><br>Lane 1 (of 2) remains closed <a href=\"https://t.co/WQI67YgKzg\">pic.twitter.com/WQI67YgKzg</a></p>&mdash; National Highways: South-West (@HighwaysSWEST) <a href=\"https://twitter.com/HighwaysSWEST/status/1842895008656920766?ref_src=twsrc%5Etfw\">October 6, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+              "datePublished": "2024-10-06T11:50:37.000Z",
+              "dateModified": "2024-10-06T11:50:37.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565320"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Buses diverted",
+              "articleBody": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">SERVICE ALERT - M1, M3, M4, T1, Y1, Y2 <br><br> Due to police closure of the M32 these services have been diverted.<br><br> There will be delays throughout the day.</p>&mdash; First West of England (@FirstBSA) <a href=\"https://twitter.com/FirstBSA/status/1842890849153167614?ref_src=twsrc%5Etfw\">October 6, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+              "datePublished": "2024-10-06T11:33:56.000Z",
+              "dateModified": "2024-10-06T11:33:56.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565316"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Traffic map shows long delays ",
+              "articleBody": "",
+              "datePublished": "2024-10-06T11:01:13.000Z",
+              "dateModified": "2024-10-06T11:01:13.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565315"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Drivers urged to avoid area",
+              "articleBody": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The M32 is closed outbound from Junction 2 (Fishponds) to Junction 1 (Ring Road) following a collision on the Junction 1 slip road this morning (Sunday 6 October).<br><br>Emergency services are on the scene but motorists are advised to seek an alternative route. <a href=\"https://t.co/w7Pyx5HClP\">pic.twitter.com/w7Pyx5HClP</a></p>&mdash; Avon and Somerset Police (@ASPolice) <a href=\"https://twitter.com/ASPolice/status/1842877041529508023?ref_src=twsrc%5Etfw\">October 6, 2024</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+              "datePublished": "2024-10-06T10:44:27.000Z",
+              "dateModified": "2024-10-06T10:44:27.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565314"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Avon and Somerset Police state they are on the scene",
+              "articleBody": "In a post on Twitter, Avon and Somerset Police said: \"The M32 is closed outbound from Junction 2 (Fishponds) to Junction 1 (Ring Road) following a collision on the Junction 1 slip road this morning (Sunday 6 October). \" Emergency services are on the scene but motorists are advised to seek an alternative route.\"",
+              "datePublished": "2024-10-06T10:44:16.000Z",
+              "dateModified": "2024-10-06T10:44:16.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Carl Eve",
+                "sameAs": "https://www.bristolpost.co.uk/authors/carl-eve/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565313"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Diversion route",
+              "articleBody": "",
+              "datePublished": "2024-10-06T10:36:17.000Z",
+              "dateModified": "2024-10-06T10:36:17.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565311"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Traffic has been stopped",
+              "articleBody": "All traffic being temporarily held and stationary traffic due to accident on M32 Northbound from J2 B4058 (Eastville) to J1 A4174 (Hambrook). Congestion to j3.",
+              "datePublished": "2024-10-06T10:36:05.000Z",
+              "dateModified": "2024-10-06T10:36:05.000Z",
+              "author": {
+                "@type": "Person",
+                "name": "Jamie Hawkins",
+                "sameAs": "https://www.bristolpost.co.uk/authors/jamie-hawkins/"
+              },
+              "publisher": {
+                "@id": "https://www.bristolpost.co.uk/#newsorganization"
+              },
+              "url": "https://www.bristolpost.co.uk/news/bristol-news/breaking-m32-bristol-traffic-travel-9609030#entry1565310"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une portion de l'autoroute M32 à Bristol a été fermée à la suite d'un accident grave survenu sur la bretelle de sortie de la jonction 1 avec l'A4174. Les voies ont été temporairement retenues de la jonction 2 à la jonction 1, provoquant d'importants embouteillages. National Highways a confirmé la réouverture de toutes les voies dans l'après-midi.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "M32",
+          "Bristol",
+          "Eastville",
+          "Hambrook",
+          "Fishponds",
+          "Ring Road",
+          "Wick Wick"
+        ],
+        "ORGANIZATION": [
+          "Bristol Live",
+          "National Highways",
+          "Inrix",
+          "X",
+          "Twitter",
+          "Avon and Somerset Police"
+        ],
+        "DATE": [
+          "6th October 2024",
+          "Sunday 6 October"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "A4174",
+          "B4058",
+          "B4469",
+          "A432"
+        ]
+      },
+      "score_e5": 0.7824959457180161
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "M4",
+      "Newport",
+      "Cardiff"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "game"
+    ],
+    "OTHER": [
+      "Heavy traffic"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Mr Davies",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mrs Hart",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Severn Bridge",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cardiff",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bath",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Senedd",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Department for Transport",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Rugby World Cup",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M5",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Somerset",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bristol",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Portishead",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gordano Services",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Martcombe Road",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Clevedon",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Weston Super Mare",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Somerset Live",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google Traffic Maps",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Inrix",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Highways England South West",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Highways SW",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10th August 2024",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "10.08.2024",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M6",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Preston's Broughton",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M55",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Broughton interchange",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brockholes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lostock Hall",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lancashire Evening Post",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AA Traffic News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gloucester Services",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gloucestershire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brockworth",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Quedgeley",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hardwicke",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gloucester Royal Hospital",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Worcester",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gloucestershire Live",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gloucestershire police",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ford",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mercedes",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last Saturday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "27 September",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ford Mustang",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M32",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Eastville",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hambrook",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fishponds",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ring Road",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wick Wick",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bristol Live",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Highways",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "X",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Twitter",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Avon and Somerset Police",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "6th October 2024",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday 6 October",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "A4174",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "B4058",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "B4469",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "A432",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T13:40:58.119856"
+  }
+}

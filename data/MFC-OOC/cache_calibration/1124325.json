@@ -1,0 +1,26 @@
+{
+  "id_rumeur": 1124325,
+  "id_image": 1498514,
+  "caption": "Isis fighters on the border between Iraq and Syria",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748155/oluyewo_benchmark/vvzubezmoklummbwlw2e.jpg",
+  "matched": false,
+  "resultats_lens": [],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Iraq",
+      "Syria"
+    ],
+    "ORGANIZATION": [
+      "Isis"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:02:03.607128"
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "id_rumeur": 1631041,
+  "id_image": 1631041,
+  "caption": "His route took him from Land s End over to Ireland s east coastline before crossing to Scotland",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757168/oluyewo_benchmark/sgktntcy7yox7wj91ypa.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Solo windsurfer's 2,200 mile journey around Britain - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-essex-34226047",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5D47/production/_85497832_85497831.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlKPlipX2br5MYXrJzTbktp9lP_tc1UuiPeLga9BLFxDSv8xL",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Solo windsurfer's 2,200 mile journey around Britain - BBC News",
+        "link": "https://www.bbc.com/news/uk-england-essex-34226047",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlKPlipX2br5MYXrJzTbktp9lP_tc1UuiPeLga9BLFxDSv8xL",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5D47/production/_85497832_85497831.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Solo windsurfer's 2,200 mile journey around Britain\n\nThe first person to windsurf around Britain alone will complete his sail today.\n\nJono Dunnett fished for food, sailed with dolphins and was put up by strangers who read his blog, external during the 2,200-mile (3,540 km) journey.\n\nHe is the fourth person to windsurf around Britain, but the first to do so without a water-based support team.\n\nMr Dunnett began the fund-raising trip on 7 June at Clacton Pier in Essex and will return there later.\n\nHe said: \"I got to see places I've never seen before and got to see this island I call home in a unique way.\"",
+        "metadata": {
+          "description": "The first person to windsurf around Britain without a water-based support team, completes his 2,200-mile sail today.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The first person to windsurf around Britain without a water-based support team, completes his 2,200-mile sail today.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0F27/production/_85497830_85497829.jpg",
+          "og:image:alt": "Jono Dunnett",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Solo windsurfer's 2,200 mile journey around Britain",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-essex-34226047",
+          "article:section": "Essex",
+          "twitter:description": "The first person to windsurf around Britain without a water-based support team, completes his 2,200-mile sail today.",
+          "twitter:title": "Solo windsurfer's 2,200 mile journey around Britain"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-essex-34226047",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-09-12T09:18:11.000Z",
+          "dateModified": "2015-09-12T09:18:11.000Z",
+          "description": "The first person to windsurf around Britain without a water-based support team, completes his 2,200-mile sail today.",
+          "headline": "Solo windsurfer's 2,200 mile journey around Britain",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0F27/production/_85497830_85497829.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0F27/production/_85497830_85497829.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-essex-34226047",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Jono Dunnett a accompli un voyage en solitaire de 2 200 miles (3 540 km) autour de la Grande-Bretagne en windsurf. Il est la première personne à le faire sans équipe de soutien nautique. Le voyage a débuté le 7 juin à Clacton Pier dans l'Essex.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jono Dunnett"
+        ],
+        "LOCATION": [
+          "Britain",
+          "Clacton Pier",
+          "Essex"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC News"
+        ],
+        "DATE": [
+          "7 June",
+          "today"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "windsurf"
+        ]
+      },
+      "score_e5": 0.7385572463864987
+    },
+    {
+      "titre": "Everest 2017: After 14 Everest Expeditions, Why Altitude ...",
+      "source": "Alan Arnette",
+      "lien": "https://www.alanarnette.com/2017/03/20/everest-2017-14-expeditions-altitude-junkies-leaving-everest/",
+      "image_url": "https://www.alanarnette.com/blog/wp-content/uploads/2017/03/everest_2008_1076.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn6abwnFZDyXXYDQa7TJ-AGVqEHRA4jfXVbl8UdWSoFAgPdEn",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Everest 2017: After 14 Everest Expeditions, Why Altitude ...",
+        "link": "https://www.alanarnette.com/2017/03/20/everest-2017-14-expeditions-altitude-junkies-leaving-everest/",
+        "source": "Alan Arnette",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwEBBgkIBwgKCgEBDRYPAQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Kzc3Kzc3Nzc3Nzc3KzcrKys3Nzc3Nzc3Nzc3Kzc3Nzc3NzcrKzc3Kys3N__AABEIABAAEAMBIgACEQEDEQH_xAAVAAEBAAAAAAAAAAAAAAAAAAAHBP_EACgQAAEBBgQGAwAAAAAAAAAAAAECAwQFBgcRABJBUQgJEyMx4SEiYf_EABUBAQEAAAAAAAAAAAAAAAAAAAQB_8QAGREAAgMBAAAAAAAAAAAAAAAAAhEAAUED_9oADAMBAAIRAxEAPwBLnibqf8tpwQss-vXCpBtSVhmtfdSjoB6xbAI_THivDVmzWkVWp1Yz8y2B8Ebg4CWCOKTmLP7eIvS2j3NUsfaeVFQ7aQbgW0T50thElWF1ipT1orDSXqbJN7cus8wTnQCAtBOvwMw_bYQfIRFbJVuf_9k.jpeg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn6abwnFZDyXXYDQa7TJ-AGVqEHRA4jfXVbl8UdWSoFAgPdEn",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.alanarnette.com/blog/wp-content/uploads/2017/03/everest_2008_1076.jpg",
+        "image_width": 1200,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Everest 2017: After 14 Everest Expeditions, Why Altitude Junkies is Leaving? – The Blog on alanarnette.com\n\nGuide companies tend to come and go, especially on Everest, but there are a handful that have made a significant contribution to the industry and when they “go”, there is a good reason.\n\nI’ve known Phil Crampton since 2008 when he was instrumental in helping me recover from botched logistics on a Everest North side climb. We went to the South side that year and was waylaid by the Chinese antics related to the Olympic games. Anyway, in 2013 I summited Manaslu with Phil and team plus was on his Everest team in 2016 for my Lhotse attempt.\n\nWhen he told me a couple of years ago that he was leaving Everest, I nodded politely and dismissed his comment as recreational complaining. But then he did it.\n\nHis company, Altitude Junkies, has an incredibly loyal following. It is common for him to have 8 out of 9 repeat members on an expedition, almost all who have summited several 8000 meter mountains. And of course Everest was the crown jewel for many.\n\nHe is not a “guide” and takes it personally if you call him one. He expects his climbers to come prepared, independent and ready to climb. No training at base camp. If you ask him if there will be a gear check, he will scoff at you and suggest that you are on the wrong team!\n\nPhil is famous for his afternoon happy hours where attendance is mandatory, but drinking is not. I have spent many an hour in the dining tent visiting with the who’s who in climbing including Conrad Anker, Russell Brice and others.\n\nHis Sherpas are some of the best and loyal to a fault. He pays above average wages, does not accept tips and keeps his promise that there will be zero surprises on his trips. Oh, and his prices are below average.\n\nSo why would he walk away from the largest draw in Himalayan climbing? Why would he leave money on the table? And what is next for the Junkies? With that background I asked Phil what was going on.\n\n> Q: What is the background on Altitude Junkies not being on Everest in 2017?\n> \n> The Junkies have been on Everest every year since 2008 and I have participated in 14 Everest expeditions, both on the north and south sides of the mountain. It’s been a very enjoyable dozen plus Everest expeditions and nearly three years of my life if you include the pre and post expedition duties. The mountains of the Himalayas and their dynamics are changing and with this in mind we decided to switch the direction the Junkies were going with our 8,000-meter peaks expeditions.\n> \n> One major concern I have for 2017 is overcrowding especially with the climbers from 2014 and 2015 using their permit extensions. 2014 permits are valid until 2019 but those climbers present in 2015 during the earthquake and subsequent avalanche have to use their permit this season otherwise they are invalid. There were some meetings in Kathmandu with the local operators last year in regards to the expected increase in numbers of foreign climbers expected this spring season and going on rumors and local operators talking, it will be a substantial increase and a record number of climbers are expected on the south side.\n> \n> I am also noticing a lot of climbers, some making their first visit to Nepal, wanting to climb both Everest and Lhotse in the same push. Lhotse used to see very few climbers on her flanks but the allure of two 8,000-meter peaks in a 24-hour period is too much for some of the novice climbers to refuse to attempt. I believe there were only two summits of Lhotse last season and you need a lot of luck for everything to fall into place to gain both is a short period of time.\n> \n> Q: How much did the deluge of inexperienced climbers play in your decision?\n> \n> It was always the joke on the north side of Everest back in the 90’s and early 00’s about the inexperienced budget climbers showing up unprepared. We used to call it the “Everest Circus”. It now seems as if the north side has rid itself of that image and unfortunately the circus seems like it’s moving to the Nepal south side.\n> \n> A few years ago a lot of the western companies would ask their members to have experience on a peak such as Aconcagua before going to “The Big E” but recently I am meeting members of well-known western guiding companies at Everest base camp who are very proud to tell me that they have no experience whatsoever and their expedition company had no problem allowing them to join the team.  It now seems very fashionable that a lot of the Everest climbers want to take the fast track to the summit, skip a 7,000-meter peak as preparation and sleep in a plastic tent at home so they can be done with Everest in 4 weeks.\n> \n> Q: Were you concerned about your member’s safety relative to earthquakes and avalanches?\n> \n> I am always concerned for the safety of my members and Sherpa staff on any mountain. Earthquakes cannot be predicted whereas those climbers and guides with avalanche training can spot potential dangers but no one can predict exactly when a slide will happen. We provide each climber and Sherpa a radio and an avalanche transceiver but the big mountains throw situations at us that we cannot always control. I always tell my team members that the avalanche transceiver they wear is to help the rescuers retrieve bodies safely if possible, it will not protect them from an avalanche or serac falls.\n> \n> Any climber on Everest who does not carry a radio is stupid in my honest opinion. They weigh nothing and can save your life. I can attest to that after taking a big crevasse fall back on Manaslu in 2013 and my radio saved my life.\n> \n> Q: Why did you select Makalu as the alternative?\n> \n> My good friend and climbing partner, the late Samuli Mansikka climbed Makalu and said it was a perfect commercial 8,000-meter peak for experienced 8,000-meter climbers. Sammy was going to join the Altitude Junkies organization as a business partner when he had finished his oxygen free 8,000-meter quest.\n> \n> The plan was to offer 8,000-meter peaks for experienced climbers that didn’t have the crowds that are seen on Everest and Cho Oyu and now Manaslu. Unfortunately Sammy lost his life descending from the summit of Annapurna, so I want to keep our dream alive and offer peaks for climbers who want to continue their 8,000-meter climbs. We have plans to visit Kanchenjunga, Annapurna, Nanga Parbat and some other less travelled 8,000-meter peaks over the next few years.\n> \n> Q: Will you ever go back to Everest?\n> \n> We are working on some ideas about returning to Everest in the future but I would like to avoid the crowds, perhaps a fall climb instead of the busy spring season.\n> \n> The north side seems to be the choice now for getting away from the crowds. The Chinese impose strict previous experience requirements for Chinese nationals wishing to climb Everest, and this as well as the route on the north side being colder and more technically difficult will keep the numbers lower than the south side.\n> \n> Everest is a major part of my life and who I am. I feel somewhat guilty not being there this spring climbing, although I will be there mid-March setting up base camp with some of my Sherpa as we have some regular Junkies climbers who wish to use their permits from the two cancelled seasons. After spending a week at base camp I am flying to Annapurna base camp with Sammy’s mother for a Puja as the second anniversary of his death is coming up. Then after a few days in Kathmandu I head back up the Khumbu and trek to Dingboche with my team members before taking choppers to Makalu base camp. I may not be climbing Everest this year but will spend some quality time in the Everest region this spring.\n\nBest of luck to Phil and team on Makalu this season. You can follow him on the Altitude Junkies website.\n\nClimb On!\n\nAlan\n\nMemories are Everything",
+        "metadata": {
+          "title": "Everest 2017: After 14 Everest Expeditions, Why Altitude Junkies is Leaving? &#8211; The Blog on alanarnette.com",
+          "og:type": "article",
+          "og:title": "Everest 2017: After 14 Everest Expeditions, Why Altitude Junkies is Leaving?",
+          "og:url": "https://www.alanarnette.com/2017/03/20/everest-2017-14-expeditions-altitude-junkies-leaving-everest/",
+          "og:description": "Guide companies tend to come and go, especially on Everest, but there are a handful that have made a significant contribution to the industry and when they “go”, there is a good reason.…",
+          "article:published_time": "2017-03-20T11:39:37+00:00",
+          "article:modified_time": "2017-03-19T17:48:58+00:00",
+          "og:site_name": "The Blog on alanarnette.com",
+          "og:image": "https://www.alanarnette.com/blog/wp-content/uploads/2017/03/everest_2008_1076.jpg",
+          "og:image:width": "1600",
+          "og:image:height": "1200",
+          "og:image:alt": "Phil Crampton",
+          "og:locale": "en_US",
+          "twitter:text:title": "Everest 2017: After 14 Everest Expeditions, Why Altitude Junkies is Leaving?"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Phil Crampton et son entreprise Altitude Junkies quittent Everest après 14 expéditions, invoquant notamment des préoccupations liées à la surpopulation pour l'année 2017 et l'utilisation des extensions de permis suite aux événements de 2014 et 2015 (tremblement de terre et avalanche).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Alan Arnette",
+          "Phil Crampton",
+          "Conrad Anker",
+          "Russell Brice"
+        ],
+        "LOCATION": [
+          "Everest",
+          "Himalayas",
+          "Kathmandu",
+          "Manaslu",
+          "Lhotse"
+        ],
+        "ORGANIZATION": [
+          "Altitude Junkies"
+        ],
+        "DATE": [
+          "2017",
+          "2008",
+          "2013",
+          "2016",
+          "2014",
+          "2015"
+        ],
+        "EVENT": [
+          "Olympic games"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6737991648596229
+    },
+    {
+      "titre": "Flying off Mont Blanc, a dream come true. Words aren't ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DPorx8fDFwu/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3740432030258482369",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwzCeElS7bhY_CHRxQ63llztmzpvJMTDoJEgN92z-sTzsAkWln",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Flying off Mont Blanc, a dream come true. Words aren't ...",
+        "link": "https://www.instagram.com/p/DPorx8fDFwu/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8f0271d17a80e4e9c045b5/images/3AY9VJcB-Tb7zdzCI_naNMJ_tM0mWwJOyclJs71FlVg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwzCeElS7bhY_CHRxQ63llztmzpvJMTDoJEgN92z-sTzsAkWln",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3740432030258482369",
+        "image_width": 1918,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Vol au départ du Mont Blanc.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Mont Blanc"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7330205100366641
+    },
+    {
+      "titre": "Fly, Hike, Climb, Repeat...",
+      "source": "Cross Country Magazine",
+      "lien": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/",
+      "image_url": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBChlACxKUKQFKSBMh75bHSFI4jG5g-KkCgiYpOt-F5oBmWhu",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Fly, Hike, Climb, Repeat...",
+        "link": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/",
+        "source": "Cross Country Magazine",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSftA3xolUqS3dmGigD75FhouFmz5FLRAgzc6m8g0kK9B5L3n-tKMyZH_ZVwqvpTeztbkw4-VTNr3cFE28Zg4c7HC2nYtvbDtFtL0_8dbw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBChlACxKUKQFKSBMh75bHSFI4jG5g-KkCgiYpOt-F5oBmWhu",
+        "thumbnail_width": 159,
+        "thumbnail_height": 316,
+        "image": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+        "image_width": 1290,
+        "image_height": 2560
+      },
+      "webpage": {
+        "text": "Fly, Hike, Climb, Repeat...\n\nChrigel Maurer and Peter von Känel set the worlds of alpinism and paragliding on fire by climbing-and-flying all 82 4,000m mountains in the Alps in less than eight weeks. They share their remarkable X-Peaks story\n\nJune 10 did not begin with promise. There was strong north föhn and cloudbase was at 1,500m. Then it started to rain. They were hardly the conditions to excite any pilot and even Chrigel and Peter were pessimistic about their chances of beginning their project to hike, climb and fly to every 4,000m peak in the Alps. After the wet spring, the high mountains were also still covered by an unusually deep layer of snow, which didn’t bode well.\n\nBut still, it was always worth seeing what the sky had to offer. So they decided to do a little hike-and-fly to test their new set-up with skis, telling a Swiss TV reporter who wanted to film their start to stay at home.\n\nAfter lunch they set off on foot from Frutigen and hiked 200m above town to launch. The lift was weak, and it took a while to reach cloudbase. \n\n“Somehow we managed to fly,” recalls Chrigel. \n\nThis will come as less of a surprise to Chrigel’s legion of...\n\nJoin us and enjoy the full article\n\nSubscribe and get instant online access to this premium content and lots more as well as our Masterclasses and eight issues a year\n\nSubscribe Already a Subscriber? Sign in here.",
+        "metadata": {
+          "title": "Fly, Hike, Climb, Repeat...",
+          "description": "Tarquin Cooper talks to Chrigel Maurer and Peter von Känel about climbing-and-flying all 82 Alpine 4,000m mountains in less than eight weeks",
+          "og:locale": "en_GB",
+          "og:type": "article",
+          "og:title": "Fly, Hike, Climb, Repeat...",
+          "og:description": "Tarquin Cooper talks to Chrigel Maurer and Peter von Känel about climbing-and-flying all 82 Alpine 4,000m mountains in less than eight weeks",
+          "og:url": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/",
+          "og:site_name": "Cross Country Magazine",
+          "article:publisher": "http://facebook.com/xcmag",
+          "article:published_time": "2024-09-06T08:00:00+00:00",
+          "og:image": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+          "og:image:width": "2560",
+          "og:image:height": "1290",
+          "og:image:type": "image/jpeg",
+          "author": "Marcus King"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#article",
+              "isPartOf": {
+                "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/"
+              },
+              "author": {
+                "name": "Marcus King",
+                "@id": "https://xcmag.com/#/schema/person/fdcd0957f8f24760639ab3a2e80ae30b"
+              },
+              "headline": "Fly, Hike, Climb, Repeat&#8230;",
+              "datePublished": "2024-09-06T08:00:00+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/"
+              },
+              "wordCount": 5859,
+              "image": {
+                "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#primaryimage"
+              },
+              "thumbnailUrl": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+              "keywords": [
+                "Alps",
+                "Chrigel Maurer",
+                "Climb-and-Fly",
+                "Hike and Fly",
+                "Hike-and-fly",
+                "Para-Alpinism",
+                "Peter Von Känel",
+                "X-Peaks",
+                "XC252"
+              ],
+              "articleSection": [
+                "Adventure and inspiration"
+              ],
+              "inLanguage": "en-GB"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/",
+              "url": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/",
+              "name": "Fly, Hike, Climb, Repeat...",
+              "isPartOf": {
+                "@id": "https://xcmag.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#primaryimage"
+              },
+              "image": {
+                "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#primaryimage"
+              },
+              "thumbnailUrl": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+              "datePublished": "2024-09-06T08:00:00+00:00",
+              "author": {
+                "@id": "https://xcmag.com/#/schema/person/fdcd0957f8f24760639ab3a2e80ae30b"
+              },
+              "description": "Tarquin Cooper talks to Chrigel Maurer and Peter von Känel about climbing-and-flying all 82 Alpine 4,000m mountains in less than eight weeks",
+              "breadcrumb": {
+                "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#breadcrumb"
+              },
+              "inLanguage": "en-GB",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-GB",
+              "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#primaryimage",
+              "url": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+              "contentUrl": "https://xcmag.com/wp-content/uploads/2024/08/x-peaks-f.jpg",
+              "width": 2560,
+              "height": 1290,
+              "caption": "Peter von Känel and Chrigel Maurer photo: Ágata Dominguez"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://xcmag.com/magazine-articles/adventure-and-inspiration/fly-hike-climb-repeat/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://xcmag.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Fly, Hike, Climb, Repeat&#8230;"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://xcmag.com/#website",
+              "url": "https://xcmag.com/",
+              "name": "xcmag.com",
+              "description": "Paragliding, paramotoring and hang gliding news, reviews, travel, adventure and events",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://xcmag.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-GB"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://xcmag.com/#/schema/person/fdcd0957f8f24760639ab3a2e80ae30b",
+              "name": "Marcus King",
+              "sameAs": [
+                "https://xcmag.com"
+              ],
+              "url": "https://xcmag.com/author/marcusking/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Chrigel Maurer et Peter von Känel ont grimpé et volé (climbing-and-flying) sur l'ensemble des 82 sommets de 4 000 m des Alpes en moins de huit semaines. Leur projet a débuté à Frutigen.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Chrigel Maurer",
+          "Peter von Känel"
+        ],
+        "LOCATION": [
+          "Alps",
+          "Frutigen"
+        ],
+        "ORGANIZATION": [
+          "Cross Country Magazine",
+          "Swiss TV"
+        ],
+        "DATE": [
+          "June 10"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6598037660587349
+    },
+    {
+      "titre": "AAC Publications - Speed",
+      "source": "AAC Publications - American Alpine Club",
+      "lien": "http://publications.americanalpineclub.org/articles/13201213314/Speed",
+      "image_url": "http://aac-publications.s3.amazonaws.com/articles/aaj-13201213314-1436803704.png",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEMrIWLyLJvPa6cvQJL-Sh0K9ZgX8ooasydo5lnW2xkkG-2_pn",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "AAC Publications - Speed",
+        "link": "http://publications.americanalpineclub.org/articles/13201213314/Speed",
+        "source": "AAC Publications - American Alpine Club",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQZvkddJnuViN832N9HruFoJlFoJ3I99IfXmbgONZtm-AD-e2qxDt-d7rHGn_0sYWpnHJZwIycXd8alXM-10RKy4TfUoR61VCUIhAOVsl0Ihi4SBkcNWeq0DEYwSmUehY5JWj14dfaG",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEMrIWLyLJvPa6cvQJL-Sh0K9ZgX8ooasydo5lnW2xkkG-2_pn",
+        "thumbnail_width": 186,
+        "thumbnail_height": 270,
+        "image": "http://aac-publications.s3.amazonaws.com/articles/aaj-13201213314-1436803704.png",
+        "image_width": 676,
+        "image_height": 980
+      },
+      "webpage": {
+        "text": "AAC Publications\n\nIt was just getting light toward the east, always the coldest part of the day. I’d been walking for hours in the darkness, slowly, my shoulders painful under the weight of a heavy pack. My feet were frozen, crammed into an old pair of plastic Koflach boots that had been too small for years. My crampons bit without precision into the hard snow illuminated by my headlamp, the fingers of my hands clenched into fists inside my gloves, and the rope swinging behind me and slapping my calves. And the sun was not yet up.\n\nThree days after summiting Mont Blanc, my partner and I returned to the heat of the valley. I was grateful for having reached the roof of the Alps. But something was gnawing at me. We sat in a bar in Les Houches, where the menu was decorated with a line that followed itself with no beginning and no end. It was an endless knot, a Tibetan symbol representing the interweaving paths of time and change that bind all existence. As we were driving back to Catalonia—I was still just the copilot, too young by a few years for my driver’s license—I finally understood my unease. I had the satisfaction of having completed my objective, but I hadn’t felt the pleasure of the journey.\n\nMany years later in Chamonix: “Did he do it or not?” I asked the French guide. “Yes, but he did not do it in alpinisme,” the guide proclaimed, as if to end the discussion. Les règles de l’art, as defined by French guides, had rendered my friend’s descent of the north face of the Aiguille de Peuterey illegitimate, since he had descended on skis, without using crampons or ice axes.\n\nSuch rules have always left a bad taste in my mouth. I am bored by the limitations of names, definitions, and etiquette. On the one hand we can be alpinists; we can climb mountains with ice axes, crampons, and ropes. Or else skiers, descending mountains with rectangular boards on our feet. Or climbers, ascending steep walls with only the strength of our arms. Or runners, repetitively putting one foot in front of the other like animals, even in the mountains. Or parapenters, those who have ignored humans’ inability to fly. Or, on the other hand, we can look at things more simply. We can look at a particular mountain and ask: What tools do I have at my disposal for my own enjoyment?\n\n\nAt the beginning of June 2014 I arrive in Talkeetna with three skilled friends: Seb Montaz, an excellent alpinist and extreme skier, and additionally a great filmmaker; Vivian Bruchez, an extreme skier in the tradition of Tardivel, Baud, Boivin, or Siffredi; and Jordi Tosas, a hyperactive first ascensionist with many solo ascents in big mountains all over the world. Our goal is to set a speed record on Denali. What is the reason for trying to set such a record? None. Why do we do the things we do, why do we risk our lives, wear ourselves out for days and years training to climb a particular peak? There is no rational answer. What moves us is emotion and passion. Going fast is not an end, but a consequence of going light, and going light is a consequence of my desire to be connected to nature, with the fewest layers separating me from my environment. So the record really isn’t the reason behind the trip, but merely the excuse.\n\nAfter a couple of days waiting out bad weather we finally fly onto the glacier. We load up our sleds, and soon we are settled into the medical camp (the 14,200-foot camp on the West Buttress Route). With our thirst for lightness—while we were shopping in Anchorage, Jordi discretely removed food from the shopping cart because he felt we were getting too weighed down—we are the only group in camp without a vestibule in which to cook. When there is heavy snowfall it is an ordeal to prepare our food and eat.\n\nThe fourth day the weather is exceptional (and is not going to last long), so we jump at the opportunity to climb the West Rib. The snow conditions are good and the ascent goes smoothly. In five hours we arrive at the Football Field. I decide to continue, and Jordi descends to camp. The first turns of the descent cost me, due to the altitude and the steepness, but skiing the West Rib, with the views out over the glaciers, is spectacular. The snowy first part leads into a mixed section, picking between rocky ridges with some snowless bits, but soon I arrive back at camp.\n\n—\n\nWithout a doubt moving light and fast in the mountains is a paradox of opposites, between security and the lack of security. Traveling quickly allows one to spend much less time exposed to rockfall or seracs, to the cold, to bad weather. But it also demands much more technical precision and physical conditioning. The absence of extra gear means that a comfortable or safe bivouac is out of the question.\n\nGoing light in the mountains is not popular. Guides don’t know what to say to their clients when they see someone descending Mont Blanc in running shoes or going light on the Innominata or Chardonnet. In 2013 I was climbing the Frendo Spur on the Aiguille du Midi with my girlfriend, and we underestimated the speed of an approaching storm, and three-quarters of the way up she injured her feet. When the storm came I did not hesitate to call for rescue. If I was alone, probably I would not have asked for help, but when I am with someone I prefer to make it safer. There was a lot of criticism afterward. This can happen in the Alps, where there is rescue available and an easy approach to the mountains. It’s like a big training gym for alpinism, with 3G coverage throughout the massif and web services providing real-time conditions. You feel a bit more secure, and this is dangerous.\n\nThis is what I like about remote mountains where there is not cell coverage and you don’t use a satellite phone. The exercise of decision-making is more challenging, more consequential, requiring you to absorb all the external elements. Denali is surprising because it is a big, remote mountain but it’s really crowded and the camps have a lot of infrastructure. We carry a sat phone on Denali, but during the record attempt I will communicate with no one except the climbers I meet along the way. My team will not even know if I break the record—or fall into a crevasse—until I come back up to the medical camp afterward and tell them I’m okay.\n\n—\n\nThe day after my first trip up to the summit we awake to heavy snowfall. We’ve been intending to climb the West Buttress next, for more acclimatization, but looking ahead we can see the weather report is fairly poor. There will be a two-day window of good weather, followed by a week of storm. What should we do? Wait for a new window while we continue to acclimatize or try for the record right away? We decide to go for it. In early afternoon the following day, Seb and I pack a small tent and some food and ski down to base camp.\n\nAfter a few hours of sleep, we began our ski back up the glacier early the next morning. I’m carrying everything I will need for the day, including crampons, ice axe, insulated pants and two jackets, down mittens, one liter of water (I will refill at 14,200 feet), and a 300ml energy gel. The technique and fitness gained from more than 14 years of ski mountaineering competitions allows me to move quickly over easy ground. I can climb comfortably while still being able to converse with Seb. After three and a half hours I arrive at the medical camp. I drink a bit of water and begin to ascend the Rescue Gully [a shorter, steeper route to the 17,000-foot high camp on the West Buttress], in order to avoid all the crowds on the fixed lines. Now I have to carry my skis, but they weigh less than 800 grams.\n\nBy the time I come out of the gully, the light breeze of the morning has become a strong blast. Clouds cover the highest part of the mountain, and it has begun to snow. I put on my jacket and break trail in fresh snow up to 20 centimeters [nearly eight inches]. Two other people are above me, but their tracks disappear in the strong wind. I have to stop from time to time to warm up, swinging my arms and legs, as breaking trail isn’t allowing me to move quickly enough. I have to fight for each step, thinking only of the summit. After a little more than 9 hours 43 minutes I finally arrive on top, but I can’t see anything around me, just snow.\n\nI take a bit of time to buckle my boots and then begin to ski down the summit ridge. The visibility is only a few meters, and I have to be careful not to go too fast, trying to remember the way I had ascended and not miss my tracks. Finally I arrive at the entrance to the Rescue Gully, and there I meet Vivian and we ski quickly together to the medical camp.\n\nStill in poor visibility, I continue alone down the glaciers to base camp, leaning back hard to keep my tips up and absorb the changes in the snow and terrain. Through soft drizzle and fog, I see my orange tent a few meters ahead, just two hours after leaving the summit. While I am preparing dinner Jodi arrives, carrying three ice axes and a rope for us to use the next day. “Hey, congratulations! Tomorrow we are going to climb ice on Hunter, right?”\n\n—\n\nFor me, speed ascents are not about being the fastest but about being out of my comfort zone—those moments when I am in limbo between the animal instinct to preserve life and the intellectual drive to approach one’s limits, and perhaps even death, in order to understand life. In the mountains there is the possibility to choose one’s own line, to decide to continue on or turn back, to take a risk or to avoid it. It is, in the end, the only place where I can apply my anarchistic beliefs without fearing the police.\n\nBut taking a risk is not like taking a leap into the void or playing the lottery. It is a spontaneous sum of decisions, taking into account our technical and physical skills, our experience, our mental state, the conditions of the route and the mountain, and with all of that being able to see the probability of success and recognize the level of commitment we want to assume. And sometimes our choices are wrong, and it is through our errors that we learn.\n\nThese attempts at records are, in the end, the excuse to learn something, to experience new mountains, and to see a new way of attaining the mountain—more directly, without aid or assistance, without téléferiques, without intermediate camps, without materiel that separates us from the land.\n\nSummary: Speed ascent and descent of Denali (6,168m) in Alaska by Kilian Jornet Burgada on June 7, 2014. Jornet followed the West Buttress Route with the Rescue Gully variation, reaching the summit in just over 9 hours 43 minutes. He then skied down the same route for a round-trip time of 11 hours 48 minutes. \n\nAbout the Author: Born in 1987 in Catalonia, Spain, Kilian Jornet Burgada was raised in a mountain hut and began climbing at age three. He is a multi-time world champion in trail running and ski mountaineering races, and he holds the speed records for ascending and descending Mont Blanc and the Matterhorn.\n\nTranslated from Spanish by Pam Ranger Roberts.",
+        "metadata": {
+          "title": "AAC Publications - Speed",
+          "description": "It was just getting light toward the east, always the coldest part of the day. I’d been walking for hours in the darkness, slowly, my shoulders pai..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Expédition de vitesse sur Denali au début du mois de juin 2014 avec Seb Montaz, Vivian Bruchez et Jordi Tosas, après un parcours comprenant notamment Mont Blanc, Les Houches, Chamonix et l'Aiguille de Peuterey.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Seb Montaz",
+          "Vivian Bruchez",
+          "Jordi Tosas",
+          "Tardivel",
+          "Baud",
+          "Boivin",
+          "Siffredi"
+        ],
+        "LOCATION": [
+          "Mont Blanc",
+          "Les Houches",
+          "Chamonix",
+          "Aiguille de Peuterey",
+          "Catalonia",
+          "Talkeetna",
+          "Denali"
+        ],
+        "ORGANIZATION": [
+          "AAC Publications",
+          "American Alpine Club"
+        ],
+        "DATE": [
+          "June 2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6805765761645798
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Land's End",
+      "Ireland",
+      "Scotland"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Jono Dunnett",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Clacton Pier",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Essex",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "7 June",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "today",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "windsurf",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alan Arnette",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Phil Crampton",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Conrad Anker",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Russell Brice",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Everest",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Himalayas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kathmandu",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Manaslu",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lhotse",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Altitude Junkies",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Olympic games",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mont Blanc",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chrigel Maurer",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Peter von Känel",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Alps",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Frutigen",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cross Country Magazine",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Swiss TV",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 10",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Seb Montaz",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vivian Bruchez",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jordi Tosas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tardivel",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Baud",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Boivin",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Siffredi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Les Houches",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chamonix",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Aiguille de Peuterey",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Catalonia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Talkeetna",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Denali",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AAC Publications",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "American Alpine Club",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2014",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T21:00:04.626596"
+  }
+}

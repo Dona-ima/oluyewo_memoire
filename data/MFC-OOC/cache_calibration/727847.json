@@ -1,0 +1,686 @@
+{
+  "id_rumeur": 727847,
+  "id_image": 1608059,
+  "caption": "General Electric is to stop producing light bulbs at its Winchester lamp plant in Virgina adding to the town s jobless numbers Photograph Justin SullivanGetty Images",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747641/oluyewo_benchmark/t0dfivuh0ptgffny7cma.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "LG Electronics Executives Indicted in South Korea over ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/lg-electronics-executives-indicted-in-south-korea-over-damaged-samsung-washing-machines-1424011581",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-GY837_lgsams_F_20150215093957.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_j_gz1R68hg1ihivKHDK9khBOhZu8Of87CQ4uO-QplM3Z3SAu",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "LG Electronics Executives Indicted in South Korea over ...",
+        "link": "https://www.wsj.com/articles/lg-electronics-executives-indicted-in-south-korea-over-damaged-samsung-washing-machines-1424011581",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_j_gz1R68hg1ihivKHDK9khBOhZu8Of87CQ4uO-QplM3Z3SAu",
+        "thumbnail_width": 141,
+        "thumbnail_height": 357,
+        "image": "https://s.wsj.net/public/resources/images/BN-GY837_lgsams_F_20150215093957.jpg",
+        "image_width": 226,
+        "image_height": 571
+      },
+      "webpage": null,
+      "texte_contexte": "LG Electronics Executives Indicted in South Korea over damaged Samsung washing machines.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "South Korea"
+        ],
+        "ORGANIZATION": [
+          "LG Electronics",
+          "WSJ",
+          "Samsung"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "washing machines"
+        ]
+      },
+      "score_e5": 0.753497376746996
+    },
+    {
+      "titre": "Two dead in LG TV factory accident - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/technology-30777830",
+      "image_url": "http://news.bbcimg.co.uk/media/images/80205000/jpg/_80205132_460835156.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVWHh91tXTgcSGxiCRzrwE_ZXcuUxnL7HuRFPHq9xG6kJqdX0P",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Two dead in LG TV factory accident - BBC News",
+        "link": "https://www.bbc.com/news/technology-30777830",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVWHh91tXTgcSGxiCRzrwE_ZXcuUxnL7HuRFPHq9xG6kJqdX0P",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/80205000/jpg/_80205132_460835156.jpg",
+        "image_width": 334,
+        "image_height": 594
+      },
+      "webpage": {
+        "text": "Two dead in LG TV factory accident\n\nTwo people have been killed during an accident at an LG factory in South Korea.\n\nThe two men were carrying out routine maintenance when they were suffocated by a nitrogen leak in the room in which they worked.\n\nIn a statement LG said that four other workers were affected by the leak but their injuries were not life-threatening.\n\nLG expressed regret over the incident and said it had begun an investigation.\n\nIn its statement, LG said the nitrogen leak occurred at a factory known as \"P8\" that is in Paju city north of Seoul, that makes LCD screens for large TV sets. The factory is believed to have the world's largest production line, making display panels for LCD and OLED TVs.\n\nNitrogen is used to wash the display panels during manufacturing.\n\nLG said the accident was a \"\"terrible tragedy\" and added that it was \"working to uncover the exact sequence of events\" that led to the deaths.",
+        "metadata": {
+          "description": "A nitrogen leak has led to the deaths of two people in a TV factory run by South Korean firm LG.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A nitrogen leak has led to the deaths of two people in a TV factory run by South Korean firm LG.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/80205000/jpg/_80205132_460835156.jpg",
+          "og:image:alt": "LG logo on doors",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Two dead in LG TV factory accident",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/technology-30777830",
+          "article:section": "Technology",
+          "twitter:description": "A nitrogen leak has led to the deaths of two people in a TV factory run by South Korean firm LG.",
+          "twitter:title": "Two dead in LG TV factory accident"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/technology-30777830",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-01-12T10:50:14.000Z",
+          "dateModified": "2015-01-12T10:50:14.000Z",
+          "description": "A nitrogen leak has led to the deaths of two people in a TV factory run by South Korean firm LG.",
+          "headline": "Two dead in LG TV factory accident",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/80205000/jpg/_80205132_460835156.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/80205000/jpg/_80205132_460835156.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/technology-30777830",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Two people were killed during a nitrogen leak accident at an LG factory in South Korea (P8 factory in Paju city north of Seoul) while carrying out routine maintenance. Four other workers were affected by the leak.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "South Korea",
+          "Paju"
+        ],
+        "ORGANIZATION": [
+          "LG",
+          "BBC News"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "LG TV factory accident"
+        ],
+        "OTHER": [
+          "nitrogen leak",
+          "LCD screens",
+          "OLED TVs"
+        ]
+      },
+      "score_e5": 0.7415271714086947
+    },
+    {
+      "titre": "16 Lg Washing Machine Stock Videos, Footage, & 4K Video ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/videos/lg-washing-machine",
+      "image_url": "https://media.gettyimages.com/id/456537804/video/an-employee-assists-a-customer-in-the-white-goods-department-inside-a-house-home-furniture.jpg?s=640x640&k=20&c=Y1Xm4WyX7NERCGoOlD6Q5GFj31402Vy_IbyqzOrz2vE=",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHxGS4Vv3-Epg9Jjq0Pr5zPKbI-v1kHOTxEZAHhhVUuhuuzBH",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "16 Lg Washing Machine Stock Videos, Footage, & 4K Video ...",
+        "link": "https://www.gettyimages.com/videos/lg-washing-machine",
+        "source": "Getty Images",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ5xwpxMjOWdRpeKcuUn7JhahFZ4hhmNbtqmKf3pALagxfrcJ3szbXgDI4uNfsYrQp-5B4_Mj1HyK3y1xuTL8lmjvzucq8uG9K5D7rtkG1hijwRZSjf9wxM",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHxGS4Vv3-Epg9Jjq0Pr5zPKbI-v1kHOTxEZAHhhVUuhuuzBH",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://media.gettyimages.com/id/456537804/video/an-employee-assists-a-customer-in-the-white-goods-department-inside-a-house-home-furniture.jpg?s=640x640&k=20&c=Y1Xm4WyX7NERCGoOlD6Q5GFj31402Vy_IbyqzOrz2vE=",
+        "image_width": 432,
+        "image_height": 768
+      },
+      "webpage": {
+        "text": "Getty Images\n\nMichael Fitzsimmons\n\n627453756\n\nUser validation",
+        "metadata": {
+          "title": "Getty Images",
+          "description": "Getty Images. Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Getty Images stock videos, footage, and 4K video related to LG washing machines, featuring Michael Fitzsimmons.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Fitzsimmons"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images",
+          "LG"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "washing machine"
+        ]
+      },
+      "score_e5": 0.7422251627782802
+    },
+    {
+      "titre": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม ...",
+      "source": "the standard",
+      "lien": "https://thestandard.co/lg-vietnam/",
+      "image_url": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd1CN9RjJVny1oW-eY-wQ7Z_Stv4y-QtjAZ7Q9fkM16Syvyo4N",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม ...",
+        "link": "https://thestandard.co/lg-vietnam/",
+        "source": "the standard",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRN74laOFEDl_Z3p39m8NuJAbxVxcnYNL4E_XAB8xvDvVe_cGWyT9CNiPoyVIipPioEtWy6TJuhY5qfm7tm9Bio_b9m_QcdFtenkzY272QV42p_VA",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd1CN9RjJVny1oW-eY-wQ7Z_Stv4y-QtjAZ7Q9fkM16Syvyo4N",
+        "thumbnail_width": 171,
+        "thumbnail_height": 295,
+        "image": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+        "image_width": 660,
+        "image_height": 1140
+      },
+      "webpage": {
+        "text": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม – THE STANDARD\n\nล่าสุดบริษัทเครื่องใช้ไฟฟ้าระดับโลกแบรนด์ ‘LG’ เปิดสองโครงการขนาดใหญ่มูลค่ากว่า 1.5 พันล้านเหรียญ หรือราว 5 หมื่นล้านบาทในเขตอุตสาหกรรมไฮฟอง ประเทศเวียดนาม ตอกย้ำภาพการย้ายฐานการผลิตจากประเทศไทย\n\nนายกรัฐมนตรีเหงียน ซวน ฟุก ของเวียดนาม เดินทางไปเป็นประธานเปิดสองโครงการใหญ่ของ LG ด้วยตนเองที่เขตอุตสาหกรรมไฮฟอง ซึ่งเป็นเมืองท่าที่สำคัญของประเทศ ประกอบด้วยโรงงานผลิตจอ OLED มูลค่า 1.5 พันล้านเหรียญสหรัฐ หรือราว 4.9 หมื่นล้านบาท และเส้นทางต่างระดับเหงียน บิน เคียม ที่ LG ควักเงินสร้างเองเพื่ออำนวยความสะดวกทางด้านโลจิสติกส์ในพื้นที่มูลค่า 41.8 ล้านเหรียญสหรัฐ หรือราว 1.3 พันล้านบาท รวมมูลค่าการลงทุนกว่า 5 หมื่นล้านบาท\n\nสำหรับโรงงานใหม่นี้จะเน้นผลิตจอ OLED สำหรับสมาร์ทโฟน สมาร์ทวอตช์ และแท็บเล็ต คาดว่าจะสร้างงานได้ถึง 6,000 ตำแหน่ง และจะสร้างมูลค่าทางเศรษฐกิจในพื้นที่ไฮฟองได้ถึง 3 พันล้านเหรียญสหรัฐ หรือราว 1 แสนล้านบาท และโครงการนี้เป็นการเปิดโรงงาน OLED นอกประเทศครั้งแรกของแบรนด์ LG ด้วย\n\nผู้นำของเวียดนามเชื่อว่าโครงการขนาดใหญ่ระดับนี้ของ LG จะช่วยสร้างภาพลักษณ์ของไฮฟองให้เป็นศูนย์กลางการผลิตสินค้าอิเล็กทรอนิกส์ของภูมิภาคได้ ซึ่งถือเป็นยุทธศาสตร์ที่สำคัญของเวียดนาม เนื่องจากไฮฟองเป็นเมืองท่าสำคัญที่ส่งออกสินค้ามากกว่าปีละ 92 ล้านตัน และ 90% ของสินค้าที่ผลิตทางตอนเหนือของพื้นที่จะใช้เส้นทางของทางยกระดับเหงียน บิน เคียมนี้ด้วย\n\nนับตั้งแต่ปี 2557 ที่ผ่านมา LG เริ่มย้ายฐานการผลิตธุรกิจโทรทัศน์จากประเทศไทยไปที่เวียดนามด้วยสาเหตุสำคัญเรื่องค่าจ้างแรงงาน เพราะสินค้าประเภทนี้ margin ต่ำมาก จึงต้องอาศัยการประหยัดต่อขนาด (Economy of Scale) อย่างมาก ทางออกที่เป็นรูปธรรมคือการย้ายไปผลิตในประเทศที่ต้นทุนถูกกว่า ขณะที่โรงงานที่จังหวัดระยองยังผลิตเครื่องซักผ้า เครื่องปรับอากาศ และเครื่องใช้ไฟฟ้าขนาดเล็ก การเปิดโรงงานมูลค่าหลายหมื่นล้านบาทในเวียดนามแทนที่จะเป็นไทย เป็นการส่งสัญญาณให้ผู้ประกอบการและภาคอุตสาหกรรมไทยต้องคิดทบทวนอย่างหนักทีเดียว\n\nอ้างอิง:\n\n * www.prachachat.net/news_detail.php?newsid=1421903417\n * vietnamnews.vn/economy/418796/pm-opens-two-projects-in-hai-phong.html#cATHYtdw5wK9ejCG.97\\\n\nTAGS:  \n\n----------------------------------------",
+        "metadata": {
+          "title": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม &#8211; THE STANDARD",
+          "Keywords": "Vietnam, LG, ",
+          "description": "ล่าสุดบริษัทเครื่องใช้ไฟฟ้าระดับโลกแบรนด์ ‘LG’ เปิดสองโครงการขนาดใหญ่มูลค่ากว่า 1.5 พันล้านเหรียญ หรือราว 5 หมื่นล้านบาทในเขตอุตสาหกรรมไฮฟอง",
+          "og:locale": "th_TH",
+          "og:type": "article",
+          "og:title": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม",
+          "og:description": "ล่าสุดบริษัทเครื่องใช้ไฟฟ้าระดับโลกแบรนด์ ‘LG’ เปิดสองโครงการขนาดใหญ่มูลค่ากว่า 1.5 พันล้านเหรียญ หรือราว 5 หมื่นล้านบาทในเขตอุตสาหกรรมไฮฟอง",
+          "og:url": "https://thestandard.co/lg-vietnam/",
+          "og:site_name": "THE STANDARD",
+          "article:publisher": "https://www.facebook.com/thestandardth",
+          "article:published_time": "2017-12-06T04:15:35+00:00",
+          "og:image": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+          "og:image:width": "1140",
+          "og:image:height": "660",
+          "og:image:type": "image/jpeg",
+          "author": "รพีพรรณ เกตุสมพงษ์",
+          "fb:pages": "109552337467130",
+          "fb:article_style": "TSD2022",
+          "fb:op-recirculation-ads": "enable=true placement_id=2008251812663248_2008251825996580"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://thestandard.co/lg-vietnam/#article",
+              "isPartOf": {
+                "@id": "https://thestandard.co/lg-vietnam/"
+              },
+              "author": {
+                "name": "รพีพรรณ เกตุสมพงษ์",
+                "@id": "https://thestandard.co/#/schema/person/5eb64395dde74996689921612bc39406"
+              },
+              "headline": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม",
+              "datePublished": "2017-12-06T04:15:35+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://thestandard.co/lg-vietnam/"
+              },
+              "wordCount": 34,
+              "commentCount": 0,
+              "publisher": {
+                "@id": "https://thestandard.co/#organization"
+              },
+              "image": {
+                "@id": "https://thestandard.co/lg-vietnam/#primaryimage"
+              },
+              "thumbnailUrl": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+              "keywords": [
+                "Vietnam",
+                "LG"
+              ],
+              "articleSection": [
+                "Business"
+              ],
+              "inLanguage": "th",
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://thestandard.co/lg-vietnam/#respond"
+                  ]
+                }
+              ],
+              "copyrightYear": "2017",
+              "copyrightHolder": {
+                "@id": "https://thestandard.co/#organization"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://thestandard.co/lg-vietnam/",
+              "url": "https://thestandard.co/lg-vietnam/",
+              "name": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม &#8211; THE STANDARD",
+              "isPartOf": {
+                "@id": "https://thestandard.co/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://thestandard.co/lg-vietnam/#primaryimage"
+              },
+              "image": {
+                "@id": "https://thestandard.co/lg-vietnam/#primaryimage"
+              },
+              "thumbnailUrl": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+              "datePublished": "2017-12-06T04:15:35+00:00",
+              "description": "ล่าสุดบริษัทเครื่องใช้ไฟฟ้าระดับโลกแบรนด์ ‘LG’ เปิดสองโครงการขนาดใหญ่มูลค่ากว่า 1.5 พันล้านเหรียญ หรือราว 5 หมื่นล้านบาทในเขตอุตสาหกรรมไฮฟอง",
+              "breadcrumb": {
+                "@id": "https://thestandard.co/lg-vietnam/#breadcrumb"
+              },
+              "inLanguage": "th",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://thestandard.co/lg-vietnam/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "th",
+              "@id": "https://thestandard.co/lg-vietnam/#primaryimage",
+              "url": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+              "contentUrl": "https://thestandard.co/wp-content/uploads/2017/12/LG_cover_.jpg",
+              "width": 1140,
+              "height": 660
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://thestandard.co/lg-vietnam/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://thestandard.co/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "ย้ายฐานแล้ว! LG หนีเปิดโรงงานใหญ่ 5 หมื่นล้านในเวียดนาม"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://thestandard.co/#website",
+              "url": "https://thestandard.co/",
+              "name": "THE STANDARD",
+              "description": "สำนักข่าวออนไลน์ นำเสนอข้อมูลข่าวสารเชิงสร้างสรรค์ ให้ความรู้ ความคิด และแรงบันดาลใจ.",
+              "publisher": {
+                "@id": "https://thestandard.co/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://thestandard.co/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "th"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://thestandard.co/#organization",
+              "name": "The Standard",
+              "url": "https://thestandard.co/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "th",
+                "@id": "https://thestandard.co/#/schema/logo/image/",
+                "url": "https://thestandard.co/wp-content/uploads/2017/11/logo.jpg",
+                "contentUrl": "https://thestandard.co/wp-content/uploads/2017/11/logo.jpg",
+                "width": 1211,
+                "height": 637,
+                "caption": "The Standard"
+              },
+              "image": {
+                "@id": "https://thestandard.co/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/thestandardth",
+                "https://x.com/thestandardth",
+                "https://www.youtube.com/@TheStandardNews"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://thestandard.co/#/schema/person/5eb64395dde74996689921612bc39406",
+              "name": "รพีพรรณ เกตุสมพงษ์",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "th",
+                "@id": "https://thestandard.co/wp-content/uploads/2019/09/รพีพรรณ-เกตุสมพงษ์--300x300.jpg",
+                "url": "https://thestandard.co/wp-content/uploads/2019/09/รพีพรรณ-เกตุสมพงษ์--300x300.jpg",
+                "contentUrl": "https://thestandard.co/wp-content/uploads/2019/09/รพีพรรณ-เกตุสมพงษ์--300x300.jpg",
+                "caption": "รพีพรรณ เกตุสมพงษ์"
+              },
+              "description": "เว็บมาสเตอร์ประจำสำนักข่าว THE STANDARD ที่ชื่นชอบ และสนับสนุนวงการ T-POP",
+              "url": "https://thestandard.co/author/rapeejune/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "LG ouvre deux grands projets d'une valeur de plus de 1,5 milliard de dollars (environ 50 milliards de bahts) dans la zone industrielle de Haiphong au Vietnam, incluant une usine de fabrication d'écrans OLED et une route surélevée. Le Premier ministre vietnamien Nguyen Xuan Phuc a présidé l'ouverture. LG déplace sa production de téléviseurs et d'autres activités (l'usine de Rayong en Thaïlande continuant de produire des machines à laver, des climatiseurs et des petits appareils électroménagers) en raison du coût de la main-d'œuvre.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nguyen Xuan Phuc"
+        ],
+        "LOCATION": [
+          "Vietnam",
+          "Thailand",
+          "Haiphong",
+          "Rayong"
+        ],
+        "ORGANIZATION": [
+          "LG",
+          "THE STANDARD"
+        ],
+        "DATE": [
+          "2557"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "OLED",
+          "washing machine",
+          "air conditioner"
+        ]
+      },
+      "score_e5": 0.7240410617203806
+    },
+    {
+      "titre": "LG Genuine OEM MFT62346514 Refrigerator Name Plate Plastic ...",
+      "source": "Walmart",
+      "lien": "https://www.walmart.com/ip/LG-Genuine-OEM-MFT62346514-Refrigerator-Name-Plate/1844725233",
+      "image_url": "https://i5.walmartimages.com/seo/LG-Genuine-OEM-MFT62346514-Refrigerator-Name-Plate_532be6f8-53a2-4fd0-9156-29320eb2eb05.fca1d4f486246763cce036f5ae10a453.jpeg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu27j9Ie3xMgZxl3_dOqY9a1ZQA4H4yZ_WhIjMHKUnjY1Z0AHe",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "LG Genuine OEM MFT62346514 Refrigerator Name Plate Plastic ...",
+        "link": "https://www.walmart.com/ip/LG-Genuine-OEM-MFT62346514-Refrigerator-Name-Plate/1844725233",
+        "source": "Walmart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+        "rating": 5.0,
+        "reviews": 1,
+        "price": {
+          "value": "$31*",
+          "extracted_value": 31.0,
+          "currency": "$"
+        },
+        "in_stock": true,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu27j9Ie3xMgZxl3_dOqY9a1ZQA4H4yZ_WhIjMHKUnjY1Z0AHe",
+        "thumbnail_width": 157,
+        "thumbnail_height": 322,
+        "image": "https://i5.walmartimages.com/seo/LG-Genuine-OEM-MFT62346514-Refrigerator-Name-Plate_532be6f8-53a2-4fd0-9156-29320eb2eb05.fca1d4f486246763cce036f5ae10a453.jpeg",
+        "image_width": 1464,
+        "image_height": 3000
+      },
+      "webpage": {
+        "text": "Robot or human?\n\nActivate and hold the button to confirm that you’re human. Thank You!",
+        "metadata": {
+          "title": "Robot or human?"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "LG Genuine OEM MFT62346514 Refrigerator Name Plate Plastic available on Walmart.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "LG",
+          "Walmart"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Refrigerator Name Plate"
+        ]
+      },
+      "score_e5": 0.6981649421932025
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Justin Sullivan"
+    ],
+    "LOCATION": [
+      "Winchester",
+      "Virginia"
+    ],
+    "ORGANIZATION": [
+      "General Electric",
+      "Getty Images"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "light bulbs"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "South Korea",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paju",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vietnam",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Thailand",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Haiphong",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rayong",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LG",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Samsung",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "THE STANDARD",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Walmart",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Fitzsimmons",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nguyen Xuan Phuc",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2557",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "LG TV factory accident",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "washing machine",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "nitrogen leak",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LCD screens",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "OLED TVs",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "air conditioner",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Refrigerator Name Plate",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T11:17:52.141057"
+  }
+}

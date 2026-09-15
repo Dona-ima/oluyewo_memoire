@@ -1,0 +1,922 @@
+{
+  "id_rumeur": 398870,
+  "id_image": 239575,
+  "caption": "Midwest marvel Parallel rows of clouds line up in the skies over Willoughby Ohio The photo was submitted to USA TODAY via Your Take at yourtakeusatodaycom",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756727/oluyewo_benchmark/styauvlvzzi6oyzdu9ya.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Space shuttle history",
+      "source": "AJC.com",
+      "lien": "https://www.ajc.com/news/national/space-shuttle-history/yJ2he4wuxSpyXTM2Wr43dM/",
+      "image_url": "https://images.ajc.com/resizer/v2/UZRYVWA6QRXVGGUMZVHRKEKYSA.jpg?auth=ebde7bfc44f5b7a1ccd68bb83e355cb1714ea32c5f44e4cecc1cc8ca9b06f888&width=3840&height=2880&smart=true",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuidlarX6O7CCaZZGDuLqJHdLP4wvWpdLz4CObOkmcyJAUvRD",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Space shuttle history",
+        "link": "https://www.ajc.com/news/national/space-shuttle-history/yJ2he4wuxSpyXTM2Wr43dM/",
+        "source": "AJC.com",
+        "source_icon": "https://serpapi.com/searches/6a8f00b7e9639b2b21c94d8d/images/0lsw1pK3240SrQrPdKHSRmuN8dJ-EAtNPYfLbJ_nwpw.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuidlarX6O7CCaZZGDuLqJHdLP4wvWpdLz4CObOkmcyJAUvRD",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://images.ajc.com/resizer/v2/UZRYVWA6QRXVGGUMZVHRKEKYSA.jpg?auth=ebde7bfc44f5b7a1ccd68bb83e355cb1714ea32c5f44e4cecc1cc8ca9b06f888&width=3840&height=2880&smart=true",
+        "image_width": 2880,
+        "image_height": 3840
+      },
+      "webpage": {
+        "text": "Space shuttle history\n\nNation & World News\n\nNASA's 30-year shuttle program begins its final mission on Friday, July 8, 2011, with mission 135 by the space shuttle Atlantis.\n\nThe space shuttle Atlantis is set to lift off July 8 on the final flight of the shuttle program -- a 12-day mission to the International Space Station. This will be Atlantis' 32nd flight. At the conclusion of this mission, the orbiter will have traveled around the Earth more than 4,600 times, and about 125 million total miles. Here's a look back at the space program's 30 years in flight.",
+        "metadata": {
+          "title": "Space shuttle history",
+          "description": "NASA's 30-year shuttle program begins its final mission on Friday, July 8, 2011, with mission 135 by the space shuttle Atlantis.",
+          "og:title": "Space shuttle history",
+          "og:description": "NASA's 30-year shuttle program begins its final mission on Friday, July 8, 2011, with mission 135 by the space shuttle Atlantis.",
+          "og:url": "https://www.ajc.com/news/national/space-shuttle-history/yJ2he4wuxSpyXTM2Wr43dM/",
+          "og:site_name": "ajc",
+          "og:image": "https://images.ajc.com/resizer/v2/PI733AQLPNAVX3WTJMLW3QRIRU.jpg?auth=a482c9d5fe086364b5349dfdc1f00ddd21bb37096a76bdd99f73df29b1685d88&width=1200&height=630&smart=true",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "website",
+          "twitter:title": "Space shuttle history",
+          "twitter:description": "NASA's 30-year shuttle program begins its final mission on Friday, July 8, 2011, with mission 135 by the space shuttle Atlantis."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.ajc.com/#publisher",
+          "name": "The Atlanta Journal-Constitution",
+          "alternateName": [
+            "AJC"
+          ],
+          "url": "https://www.ajc.com/",
+          "foundingDate": "1868-06-16",
+          "publishingPrinciples": "https://www.ajc.com/who-we-are/what-we-stand-for",
+          "ethicsPolicy": "https://www.ajc.com/about-us/newsroom-ethics-code/JA6O7M7N5RACXLLUN22HD2FFMQ/",
+          "masthead": "https://www.ajc.com/newsroom/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://images.ajc.com/resizer/v2/74CDOHUZKZAUJMMZC2DEALA6B4.png?auth=c418a342a2f4c04932fec3c26752acd04b7cddf4c1c789b1201c5e564eaed1e7&width=1200&height=630&smart=true",
+            "width": 1200,
+            "height": 630,
+            "contentUrl": "https://images.ajc.com/resizer/v2/74CDOHUZKZAUJMMZC2DEALA6B4.png?auth=c418a342a2f4c04932fec3c26752acd04b7cddf4c1c789b1201c5e564eaed1e7&width=1200&height=630&smart=true",
+            "creditText": "The Atlanta Journal-Constitution"
+          },
+          "sameAs": [
+            "https://facebook.com/ajc",
+            "https://x.com/ajc",
+            "https://www.instagram.com/ajcnews",
+            "https://www.youtube.com/@ajcvideo",
+            "https://www.linkedin.com/company/atlanta-journal-constitution"
+          ],
+          "subOrganization": [
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.uatl.com/",
+              "name": "UATL",
+              "url": "https://www.uatl.com/"
+            },
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.dawgnation.com/",
+              "name": "Dawgnation",
+              "url": "https://www.dawgnation.com/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le programme de navettes spatiales de la NASA, vieux de 30 ans, commence sa mission finale le vendredi 8 juillet 2011 avec la mission 135 de la navette spatiale Atlantis à destination de la Station spatiale internationale. Il s'agit du 32e vol d'Atlantis. À l'issue de cette mission, l'orbiteur aura fait plus de 4 600 tours de la Terre et parcouru environ 125 millions de miles.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Earth",
+          "International Space Station"
+        ],
+        "ORGANIZATION": [
+          "NASA",
+          "Atlantis"
+        ],
+        "DATE": [
+          "Friday, July 8, 2011",
+          "July 8",
+          "30-year"
+        ],
+        "EVENT": [
+          "mission 135"
+        ],
+        "OTHER": [
+          "space shuttle",
+          "orbiter"
+        ]
+      },
+      "score_e5": 0.6576882435844685
+    },
+    {
+      "titre": "20 years later, Mark Kelly reflects on the space shuttle ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=9aRX0NwKrtQ",
+      "image_url": "https://i.ytimg.com/vi/9aRX0NwKrtQ/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrn64-yljH_X4_FLFLIIW-Wg9ik49OEiUAGB0N3e5R3lK6C55a",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "20 years later, Mark Kelly reflects on the space shuttle ...",
+        "link": "https://www.youtube.com/watch?v=9aRX0NwKrtQ",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrn64-yljH_X4_FLFLIIW-Wg9ik49OEiUAGB0N3e5R3lK6C55a",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/9aRX0NwKrtQ/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "20 years later, Mark Kelly reflects on the space shuttle Columbia disaster\n\nPBS NewsHour\n\nWednesday marks 20 years since the space shuttle Columbia disintegrated on its way home. The tragedy not only killed all seven astronauts on board but also w...",
+        "metadata": {
+          "title": "20 years later, Mark Kelly reflects on the space shuttle Columbia disaster",
+          "description": "Wednesday marks 20 years since the space shuttle Columbia disintegrated on its way home. The tragedy not only killed all seven astronauts on board but also w...",
+          "keywords": "columbia space shuttle accident, columbia space shuttle disaster, columbia space shuttle launch, spaceshuttle columbia",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=9aRX0NwKrtQ",
+          "og:title": "20 years later, Mark Kelly reflects on the space shuttle Columbia disaster",
+          "og:image": "https://i.ytimg.com/vi/9aRX0NwKrtQ/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Wednesday marks 20 years since the space shuttle Columbia disintegrated on its way home. The tragedy not only killed all seven astronauts on board but also w...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=9aRX0NwKrtQ&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=9aRX0NwKrtQ&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=9aRX0NwKrtQ&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/9aRX0NwKrtQ",
+          "og:video:secure_url": "https://www.youtube.com/embed/9aRX0NwKrtQ",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "spaceshuttle columbia",
+          "fb:app_id": "87741124305",
+          "twitter:title": "20 years later, Mark Kelly reflects on the space shuttle Columbia disaster",
+          "twitter:description": "Wednesday marks 20 years since the space shuttle Columbia disintegrated on its way home. The tragedy not only killed all seven astronauts on board but also w..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vingt ans plus tard, Mark Kelly revient sur la catastrophe de la navette spatiale Columbia. Vingt ans se sont écoulés depuis que la navette Columbia s'est désintégrée sur le chemin du retour, une tragédie qui a tué les sept astronautes à bord.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mark Kelly"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "PBS NewsHour"
+        ],
+        "DATE": [
+          "20 years later"
+        ],
+        "EVENT": [
+          "space shuttle Columbia disaster"
+        ],
+        "OTHER": [
+          "space shuttle Columbia"
+        ]
+      },
+      "score_e5": 0.6722788760512983
+    },
+    {
+      "titre": "Columbia is lost,' and the nation watched and mourned, again ...",
+      "source": "The Patriot-News",
+      "lien": "https://www.pennlive.com/life/2020/02/columbia-is-lost-and-the-nation-watched-and-mourned-again.html",
+      "image_url": "https://www.pennlive.com/resizer/v2/45T3ZDMIEBCSRDOPCWG2BTT7P4.jpg?auth=56d041814a53f2c36832a234f49aee632226019a316056ca605322cf15376a18&width=1280&smart=true&quality=90",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfpYL0SUeW1mzsuXquid8mI-Zt7ifuvr8TbyY5Rlo1i-wDcVKP",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Columbia is lost,' and the nation watched and mourned, again ...",
+        "link": "https://www.pennlive.com/life/2020/02/columbia-is-lost-and-the-nation-watched-and-mourned-again.html",
+        "source": "The Patriot-News",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSRLHDRN2wWgePHDri5CK192YFKN6K8hbcBxSv_8etTRZeb27v7e19jPlNx0_UNnwrq1Loz-IgGs_C7eHnh6iLTEJ9GZhZnOWIF6gJmiL-TtDjZZGV_",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfpYL0SUeW1mzsuXquid8mI-Zt7ifuvr8TbyY5Rlo1i-wDcVKP",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.pennlive.com/resizer/v2/45T3ZDMIEBCSRDOPCWG2BTT7P4.jpg?auth=56d041814a53f2c36832a234f49aee632226019a316056ca605322cf15376a18&width=1280&smart=true&quality=90",
+        "image_width": 960,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "‘Columbia is lost,’ and the nation watched and mourned, again\n\nBy\n\n * Deb Kiner | dkiner@pennlive.com\n\nThe nation watched and mourned. Again.\n\nHeadlines proclaimed, “Columbia is lost.”\n\nSpace Shuttle Columbia launched Jan. 16, 2003.\n\nWhile in space the astronauts were performing science experiments 24 hours a day in two shifts.\n\nDuring launch, a piece of foam insulation broke off from the external fuel tank and hit the edge of the shuttle's left wing.\n\nThe left wing began having sensor failures and other problems a half hour before it was supposed to land. When the shuttle was re-entering Earth's atmosphere and just minutes away from landing on Feb. 1, 2003, it broke apart, killing the seven astronauts.\n\nThis was part of a timeline printed in The Patriot-News on Feb. 2, 2003:\n\n“8:15 a.m.: The space shuttle Columbia fires its thrusters to leave orbit and land at Kennedy Space Center in Florida.\n\nCommunications between the ground and the shuttle routinely are lost during the fiery re-entry through Earth’s atmosphere. Contact with Columbia briefly was re-established shortly before 9 a.m., when Mission Control radioed the crew about a pressure warning for the shuttle’s landing gear.\n\n9 a.m.: The shuttle Columbia was at an altitude of about 203,000 feet over north-central Texas, traveling at 12,500 mph, when Mission Control in Houston lost all contact and tracking data. Silent video of the Mission Control Center, shown on NASA TV, showed workers sitting in front of their computer terminals, hands on their keyboards, but apparently doing little work. Residents of Texas, Arkansas and Louisiana report hearing “a big bang” and seeing flames in the sky. Louisiana State Police in Bossier City, 182 miles east of Dallas, got so many calls that one trooper had to be assigned just to answer the phone.\n\n9:16 a.m.: As the countdown clock at the landing site in Florida reached zero with no sign of the shuttle, flaming debris began falling in Texas.”\n\nThe damage caused to the left wing when the insulation broke off was determined to be the cause of the explosion. Heat shield panels on the wing were damaged.\n\nFrom history.com, Ten minutes after the shuttle re-entered Earth’s atmosphere, \"... as the shuttle was 231,000 feet above The California coastline traveling at 23 times the speed of sound--that the first indications of trouble began. Because the heat-resistant tiles covering the left wing’s leading edge had been damaged or were missing, wind and heat entered the wing and blew it apart.\n\nThe first debris began falling to the ground in West Texas near Lubbock at 8:58 a.m. One minute later, the last communication from the crew of five men and two women was heard, and at 9 a.m. the shuttle disintegrated over northeast Texas, near Dallas.\n\nResidents in the area heard a loud boom and saw streaks of smoke in the sky. Debris and the remains of the crew were found in more than 2,000 locations across East Texas, Arkansas and Louisiana.\"\n\nAccording to space.com, in 2008, NASA released a crew survival report that determined, “The astronauts probably survived the initial breakup of Columbia, but lost consciousness in seconds after the cabin lost pressure and then died as it disintegrated.”\n\nThe crew members were:\n\nMichael P. Anderson, 43, payload commander\n\nDavid M. Brown, 46, mission specialist\n\nKalpana Chawla, 41, mission specialist\n\nLaurel B. Clark, 41, mission specialist\n\nWilliam C. McCool, 41, shuttle pilot\n\nRick D. Husband, 45, shuttle commander\n\nIlan Ramon, 48, payload specialist\n\nThanks for visiting PennLive. Quality local journalism has never been more important. We need your support. Not a subscriber yet? Please consider supporting our work.\n\nDeb Kiner has worked at PennLive.com/The Patriot-News since 1987 having served in a variety of positions including reporter, copy editor and weekly editor. Since 2014 she has coordinated the annual PA Media...",
+        "metadata": {
+          "isArticleBeta": "true",
+          "fb:admins": "100000302287435",
+          "fb:app_id": "102085263174170",
+          "title": "‘Columbia is lost,’ and the nation watched and mourned, again",
+          "og:title": "‘Columbia is lost,’ and the nation watched and mourned, again",
+          "og:url": "https://www.pennlive.com/life/2020/02/columbia-is-lost-and-the-nation-watched-and-mourned-again.html",
+          "og:site_name": "pennlive",
+          "og:type": "article",
+          "article:published_time": "2020-02-01T12:00:53.843Z",
+          "article:modified_time": "2020-02-01T12:00:53.843Z",
+          "article:section": "Life & Culture",
+          "article:tag": "@topstories,space-shuttle-columbia,nasa",
+          "twitter:title": "‘Columbia is lost,’ and the nation watched and mourned, again",
+          "Description": "Space Shuttle Columbia disintegrated over Texas on Feb. 1, 2003.",
+          "og:description": "Space Shuttle Columbia disintegrated over Texas on Feb. 1, 2003.",
+          "twitter:description": "Space Shuttle Columbia disintegrated over Texas on Feb. 1, 2003.",
+          "og:image": "https://www.pennlive.com/resizer/v2/IZHYMA3B4FFXZECOTX77RHQERI.jpg?auth=e178dcf13d631b817eccac22009823d35f172584f626e0120e223368df8930c3&width=1280&smart=true&quality=90",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "article:author": "https://www.facebook.com/debkiner",
+          "article_author": "Deb Kiner | dkiner@pennlive.com",
+          "mrf:tags": "rg_product:cal;page_type:article;arc_categories:Science;arc_categories:Science>Space and Astronomy;arc_categories:Science>Geography;arc_categories:Science>Weather;arc_categories:Business and Finance;arc_categories:Business and Finance>Industries>Media Industry;arc_categories:Travel>Travel Type>Air Travel;arc_categories:Business and Finance>Business;arc_categories:Science>Physics;arc_categories:Sensitive Topics>Debated Sensitive Social Issues;arc_entities:Space Shuttle|MeanOfTransportation,Rocket;arc_entities:Michael P. Anderson|Agent,Person,Astronaut;arc_entities:Space Shuttle Columbia|MeanOfTransportation,SpaceShuttle;arc_entities:Kalpana Chawla|Agent,Person,Astronaut;arc_entities:Christopher C. Kraft Jr. Mission Control Center|Place,ArchitecturalStructure,Building;arc_entities:Laurel Clark|Agent,Person,Astronaut;arc_entities:David M. Brown|Agent,Person,Astronaut;arc_entities:Kennedy Space Center|Place,Agent,Organisation,GovernmentAgency;arc_entities:NASA|Agent,Organisation,GovernmentAgency;arc_entities:NASA TV|Agent,Organisation,Broadcaster,TelevisionStation;arc_ccat_uid:cat0214;arc_ccat_uid:cat0011;author_id:dkiner;channel:Life and Culture;site_name:pennlive.com;entry_id:CPCZGYO4RRH6FGNQ4WKHL6R224;entry_tags:@topstories;entry_tags:space-shuttle-columbia;entry_tags:nasa",
+          "mrf:sections": "life",
+          "sailthru.title": "‘Columbia is lost,’ and the nation watched and mourned, again",
+          "sailthru.author": "dkiner",
+          "sailthru.description": "Space Shuttle Columbia disintegrated over Texas on Feb. 1, 2003.",
+          "trackonomics.author": "Deb Kiner",
+          "trackonomics.author_id": "dkiner"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "La navette spatiale Columbia a été lancée le 16 janvier 2003. Pendant le lancement, un morceau de mousse isolante s'est détaché du réservoir de carburant externe et a heurté le bord de l'aile gauche. Alors que la navette rentrait dans l'atmosphère terrestre et s'apprêtait à atterrir le 1er février 2003, elle s'est brisée, tuant les sept astronautes. Des débris ont commencé à tomber au Texas, en Arkansas et en Louisiane.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Deb Kiner"
+        ],
+        "LOCATION": [
+          "Kennedy Space Center",
+          "Florida",
+          "Texas",
+          "north-central Texas",
+          "Arkansas",
+          "Louisiana",
+          "Bossier City",
+          "Dallas",
+          "West Texas",
+          "Lubbock",
+          "northeast Texas",
+          "East Texas",
+          "California"
+        ],
+        "ORGANIZATION": [
+          "The Patriot-News",
+          "NASA",
+          "Louisiana State Police"
+        ],
+        "DATE": [
+          "Jan. 16, 2003",
+          "Feb. 1, 2003",
+          "Feb. 2, 2003",
+          "8:15 a.m.",
+          "9 a.m.",
+          "9:16 a.m.",
+          "8:58 a.m.",
+          "2003",
+          "2008",
+          "24 hours a day"
+        ],
+        "EVENT": [
+          "Columbia is lost"
+        ],
+        "OTHER": [
+          "Space Shuttle Columbia",
+          "NASA TV"
+        ]
+      },
+      "score_e5": 0.6728265078322001
+    },
+    {
+      "titre": "WHOA!! 😳 Lot of Space Debris falling over the Caribbean ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/TornadoIntercept/posts/whoa-lot-of-space-debris-falling-over-the-caribbean-this-evening-after-a-spacex-/1176259410523577/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3826095250945591&get_thumbnail=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfzNbeDUbHu8pDr5nyrNNLSqhL9miKX2bw1_k6HiAXytwpZG1q",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "WHOA!! 😳 Lot of Space Debris falling over the Caribbean ...",
+        "link": "https://www.facebook.com/TornadoIntercept/posts/whoa-lot-of-space-debris-falling-over-the-caribbean-this-evening-after-a-spacex-/1176259410523577/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfzNbeDUbHu8pDr5nyrNNLSqhL9miKX2bw1_k6HiAXytwpZG1q",
+        "thumbnail_width": 299,
+        "thumbnail_height": 169,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3826095250945591&get_thumbnail=1",
+        "image_width": 848,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "WHOA!! 😳 Lot of Space Debris... - Storm Chaser Stephen Jones\n\nStorm Chaser Stephen Jones\n\n2025. 1. 16. ·\n\n\nWHOA!! 😳 Lot of Space Debris falling over the Caribbean this evening after a SpaceX Starship EXPLODES 💥\n\n\n602개\n\n178개\n\n114회",
+        "metadata": {
+          "title": "WHOA!! 😳 Lot of Space Debris... - Storm Chaser Stephen Jones | Facebook",
+          "og:type": "video.other",
+          "og:title": "Storm Chaser Stephen Jones",
+          "og:description": "WHOA!! 😳 Lot of Space Debris falling over the Caribbean this evening after a SpaceX Starship EXPLODES 💥",
+          "og:url": "https://www.facebook.com/TornadoIntercept/posts/whoa-lot-of-space-debris-falling-over-the-caribbean-this-evening-after-a-spacex-/1176259410523577/",
+          "og:image:alt": "Storm Chaser Stephen Jones",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1176259363856915",
+          "og:locale": "en_US",
+          "description": "WHOA!! 😳 Lot of Space Debris falling over the Caribbean this evening after a SpaceX Starship EXPLODES 💥",
+          "twitter:title": "Storm Chaser Stephen Jones",
+          "twitter:description": "WHOA!! 😳 Lot of Space Debris falling over the Caribbean this evening after a SpaceX Starship EXPLODES 💥"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des débris spatiaux tombent sur les Caraïbes après l'explosion d'un SpaceX Starship.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Stephen Jones"
+        ],
+        "LOCATION": [
+          "Caribbean"
+        ],
+        "ORGANIZATION": [
+          "SpaceX"
+        ],
+        "DATE": [
+          "2025. 1. 16",
+          "evening"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "SpaceX Starship"
+        ]
+      },
+      "score_e5": 0.7361673437335385
+    },
+    {
+      "titre": "'The Columbia is lost. There are no survivors': The 20th ...",
+      "source": "PennLive.com",
+      "lien": "https://www.pennlive.com/nation-world/2023/02/the-columbia-is-lost-there-are-no-survivors-the-20th-anniversary-of-the-loss-of-the-space-shuttle.html",
+      "image_url": "https://www.pennlive.com/resizer/D8N0tWNONj678asjzbd3j7hZ9l4=/arc-anglerfish-arc2-prod-advancelocal/public/45T3ZDMIEBCSRDOPCWG2BTT7P4.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBnazPRUmYvnWxNE3Y5E_56sR4nHOjBn53qfVLtQ2ILhsF9a85",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "'The Columbia is lost. There are no survivors': The 20th ...",
+        "link": "https://www.pennlive.com/nation-world/2023/02/the-columbia-is-lost-there-are-no-survivors-the-20th-anniversary-of-the-loss-of-the-space-shuttle.html",
+        "source": "PennLive.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSRLHDRN2wWgePHDri5CK192YFKN6K8hbcBxSv_8etTRZeb27v7e19jPlNx0_UNnwrq1Loz-IgGs_C7eHnh6iLTEJ9GZhZnOWIF6gJmiL-TtDjZZGV_",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBnazPRUmYvnWxNE3Y5E_56sR4nHOjBn53qfVLtQ2ILhsF9a85",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.pennlive.com/resizer/D8N0tWNONj678asjzbd3j7hZ9l4=/arc-anglerfish-arc2-prod-advancelocal/public/45T3ZDMIEBCSRDOPCWG2BTT7P4.jpg",
+        "image_width": 1500,
+        "image_height": 2000
+      },
+      "webpage": {
+        "text": "‘The Columbia is lost. There are no survivors’: The 20th anniversary of the loss of the space shuttle\n\nAs Space Shuttle Columbia traveled 12,500 mph toward its landing in Florida, residents of three states began to see debris raining down from the sky.\n\nThe bulk of it appeared to be over Texas.\n\nColumbia was scheduled to land at 9:16 a.m. on Feb. 1, 2003 - 20 years ago. At 9:29 a.m, on that day, NASA declared an emergency.\n\nThat afternoon, President George W. Bush addressed the nation. “The Columbia is lost. There are no survivors.”\n\nColumbia was returning from a 17-day mission with a crew of seven performing 80 scientific experiments, day and night, working in shifts. Columbia had successfully lifted off from Kennedy Space Center in Florida on Jan. 16, 2003.\n\nThe damage that caused the disintegration of Columbia happened before those experiments even started.\n\nAccording to NASA.gov, “During routine analysis of launch films, engineers noted that at about 82 seconds into the flight, a piece of foam insulation released from the Shuttle’s External Tank (ET) appeared to strike Columbia’s left wing.\n\nOn Jan. 23, the mission’s eighth day, Flight Director J. Steve Stich from Mission Control notified [Rick] Husband [shuttle commander] and [William] McCool [shuttle pilot] of the foam strike via an email, including a video clip of the impact, but assured them that because the phenomenon had occurred on previous missions, it caused no concern for damage to the vehicle or for reentry.\n\nHusband informed the rest of the crew. However, engineers on the ground continued to assess the impact of the foam strike, requesting high-resolution imaging of the affected area to complete a more thorough analysis, but ultimately managers turned down the request.”\n\nOn Jan. 31, the crew finished their last “science sessions” and began preparations for reentry.\n\nAs Columbia soared high above the United States, residents of Texas, Arkansas and Louisiana reported hearing a “big bang” and seeing debris fall from the sky.\n\nColumbia’s crew of seven included the first Israeli astronaut, Ilan Ramon, a payload specialist. At 48, he also was the oldest member of the crew. The others were:\n\nRick D. Husband, 45, shuttle commander\n\nWilliam C. McCool, 41, shuttle pilot\n\nMichael P. Anderson, 43, payload commander\n\nDavid M. Brown, 46, mission specialist\n\nKalpana Chawla, 41, mission specialist\n\nLaurel B. Clark, 41, mission specialist\n\nAbout a half hour before it was supposed to land, Columbia began having sensor failures and other issues. The last transmission from the crew came at 9 a.m. When the shuttle was re-entering Earth’s atmosphere, it broke apart.\n\nThis was part of a timeline printed in The Patriot-News on Feb. 2, 2003:\n\n“8:15 a.m.: The space shuttle Columbia fires its thrusters to leave orbit and land at Kennedy Space Center in Florida.\n\nCommunications between the ground and the shuttle routinely are lost during the fiery reentry through Earth’s atmosphere. Contact with Columbia briefly was reestablished shortly before 9 a.m., when Mission Control radioed the crew about a pressure warning for the shuttle’s landing gear.\n\n9 a.m.: The shuttle Columbia was at an altitude of about 203,000 feet over north-central Texas, traveling at 12,500 mph, when Mission Control in Houston lost all contact and tracking data. Silent video of the Mission Control Center, shown on NASA TV, showed workers sitting in front of their computer terminals, hands on their keyboards, but apparently doing little work. Residents of Texas, Arkansas and Louisiana report hearing “a big bang” and seeing flames in the sky. Louisiana State Police in Bossier City, 182 miles east of Dallas, got so many calls that one trooper had to be assigned just to answer the phone.\n\n9:16 a.m.: As the countdown clock at the landing site in Florida reached zero with no sign of the shuttle, flaming debris began falling in Texas.”\n\nThe damage caused to the left wing when the insulation broke off was determined to be the cause of the explosion. Heat shield panels on the wing were damaged.\n\nFrom history.com, Ten minutes after the shuttle re-entered Earth’s atmosphere, “... as the shuttle was 231,000 feet above the California coastline traveling at 23 times the speed of sound - the first indications of trouble began. Because the heat-resistant tiles covering the left wing’s leading edge had been damaged or were missing, wind and heat entered the wing and blew it apart.\n\nThe first debris began falling to the ground in West Texas near Lubbock at 8:58 a.m. One minute later, the last communication from the crew of five men and two women was heard, and at 9 a.m. the shuttle disintegrated over northeast Texas, near Dallas.\n\nResidents in the area heard a loud boom and saw streaks of smoke in the sky. Debris and the remains of the crew were found in more than 2,000 locations across East Texas, Arkansas and Louisiana.”\n\nAccording to space.com, in 2008, NASA released a crew survival report that determined, “The astronauts probably survived the initial breakup of Columbia, but lost consciousness in seconds after the cabin lost pressure and then died as it disintegrated.”\n\nColumbia’s crew was honored and remembered on NASA’s annual Day of Remembrance on Jan. 26, 2023, along with the crew of Challenger and Apollo 1.\n\nREAD MORE: ‘Pained to the core’: The 37th anniversary of the Space Shuttle Challenger tragedy.",
+        "metadata": {
+          "isArticleBeta": "true",
+          "fb:admins": "100000302287435",
+          "fb:app_id": "102085263174170",
+          "title": "‘The Columbia is lost. There are no survivors’: The 20th anniversary of the loss of the space shuttle ",
+          "og:title": "‘The Columbia is lost. There are no survivors’: The 20th anniversary of the loss of the space shuttle ",
+          "og:url": "https://www.pennlive.com/nation-world/2023/02/the-columbia-is-lost-there-are-no-survivors-the-20th-anniversary-of-the-loss-of-the-space-shuttle.html",
+          "og:site_name": "pennlive",
+          "og:type": "article",
+          "article:published_time": "2023-02-01T11:00:05.640Z",
+          "article:modified_time": "2023-02-01T11:01:20.330Z",
+          "article:section": "Nation & World News",
+          "article:tag": "@topstories,space-shuttle-columbia,nasa,20th-anniversary,@sub-group-c,@sub-group-b,@subscriberexclusive",
+          "twitter:title": "‘The Columbia is lost. There are no survivors’: The 20th anniversary of the loss of the space shuttle ",
+          "Description": "NASA's Space Shuttle Columbia disintegrated on Feb. 1, 2003, as it reentered Earth's atmosphere after a 17-day mission. The seven members of the crew were killed.",
+          "og:description": "NASA's Space Shuttle Columbia disintegrated on Feb. 1, 2003, as it reentered Earth's atmosphere after a 17-day mission. The seven members of the crew were killed.",
+          "twitter:description": "NASA's Space Shuttle Columbia disintegrated on Feb. 1, 2003, as it reentered Earth's atmosphere after a 17-day mission. The seven members of the crew were killed.",
+          "og:image": "https://www.pennlive.com/resizer/v2/45T3ZDMIEBCSRDOPCWG2BTT7P4.jpg?auth=56d041814a53f2c36832a234f49aee632226019a316056ca605322cf15376a18&width=1280&smart=true&quality=90",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "article:author": "https://www.facebook.com/debkiner",
+          "article_author": "Deb Kiner | dkiner@pennlive.com",
+          "mrf:tags": "rg_product:cal;page_type:article;arc_categories:Science;arc_categories:Science>Weather;arc_categories:Science>Geography;arc_categories:Science>Space and Astronomy;arc_entities:Space Shuttle Columbia|MeanOfTransportation,SpaceShuttle;arc_entities:Space Shuttle|MeanOfTransportation,Rocket;arc_entities:Space Shuttle Challenger|MeanOfTransportation,SpaceShuttle;arc_entities:NASA|Agent,Organisation,GovernmentAgency;arc_entities:Apollo 1|Event,SocietalEvent,SpaceMission;arc_entities:Ilan Ramon|Agent,Person,Astronaut;arc_entities:Christopher C. Kraft Jr. Mission Control Center|Place,ArchitecturalStructure,Building;arc_entities:Rick Husband|Agent,Person,Astronaut;arc_entities:William C. McCool|Agent,Person,Astronaut;arc_entities:Kennedy Space Center|Place,Agent,Organisation,GovernmentAgency;arc_ccat_uid:cat0011;author_id:dkiner;channel:News;site_name:pennlive.com;entry_id:PNI6VKKX4RBWVJK7TVLXLK7MLM;entry_tags:@subscriberexclusive;entry_tags:@topstories;entry_tags:@sub-group-c;entry_tags:@sub-group-b;entry_tags:space-shuttle-columbia;entry_tags:nasa;entry_tags:20th-anniversary",
+          "mrf:sections": "nation-world",
+          "sailthru.title": "‘The Columbia is lost. There are no survivors’: The 20th anniversary of the loss of the space shuttle ",
+          "sailthru.author": "dkiner",
+          "sailthru.description": "NASA's Space Shuttle Columbia disintegrated on Feb. 1, 2003, as it reentered Earth's atmosphere after a 17-day mission. The seven members of the crew were killed.",
+          "trackonomics.author": "Deb Kiner",
+          "trackonomics.author_id": "dkiner"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Le 20e anniversaire de la perte de la navette spatiale Columbia, qui s'est désintégrée lors de sa rentrée atmosphérique le 1er février 2003, tuant ses sept membres d'équipage. La navette revenait d'une mission de 17 jours après un lancement réussi le 16 janvier 2003 depuis le Kennedy Space Center en Floride. Un morceau de mousse isolante s'était détaché du réservoir externe lors du lancement et avait frappé l'aile gauche de la navette.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "George W. Bush",
+          "J. Steve Stich",
+          "Rick Husband",
+          "William McCool",
+          "Ilan Ramon",
+          "Rick D. Husband",
+          "William C. McCool",
+          "Michael P. Anderson",
+          "David M. Brown",
+          "Kalpana Chawla",
+          "Laurel B. Clark"
+        ],
+        "LOCATION": [
+          "Florida",
+          "Texas",
+          "Arkansas",
+          "Louisiana",
+          "Kennedy Space Center",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "NASA",
+          "The Patriot-News"
+        ],
+        "DATE": [
+          "Feb. 1, 2003",
+          "9:16 a.m.",
+          "9:29 a.m.",
+          "Jan. 16, 2003",
+          "Jan. 23",
+          "Jan. 31",
+          "Feb. 2, 2003",
+          "8:15 a.m.",
+          "9 a.m."
+        ],
+        "EVENT": [
+          "loss of the space shuttle Columbia"
+        ],
+        "OTHER": [
+          "Space Shuttle Columbia"
+        ]
+      },
+      "score_e5": 0.6816614269254518
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Midwest",
+      "Willoughby Ohio"
+    ],
+    "ORGANIZATION": [
+      "USA TODAY",
+      "Your Take"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Kelly",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Deb Kiner",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Stephen Jones",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "George W. Bush",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "J. Steve Stich",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rick Husband",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "William McCool",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ilan Ramon",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Michael P. Anderson",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David M. Brown",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kalpana Chawla",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Laurel B. Clark",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Earth",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "International Space Station",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kennedy Space Center",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "north-central Texas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Arkansas",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Louisiana",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bossier City",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dallas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Texas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lubbock",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "northeast Texas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Texas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Caribbean",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NASA",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Atlantis",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PBS NewsHour",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Patriot-News",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Louisiana State Police",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SpaceX",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday, July 8, 2011",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 8",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30-year",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "20 years later",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 16, 2003",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Feb. 1, 2003",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Feb. 2, 2003",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8:15 a.m.",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9 a.m.",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9:16 a.m.",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8:58 a.m.",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2003",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "24 hours a day",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025. 1. 16",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "evening",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9:29 a.m.",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 23",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 31",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "mission 135",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "space shuttle Columbia disaster",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "space shuttle",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "orbiter",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Space Shuttle Columbia",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "NASA TV",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SpaceX Starship",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T16:48:23.965095"
+  }
+}

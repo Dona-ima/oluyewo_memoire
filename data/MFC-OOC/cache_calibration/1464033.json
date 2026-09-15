@@ -1,0 +1,616 @@
+{
+  "id_rumeur": 1464033,
+  "id_image": 1464033,
+  "caption": "The Scottish government backed the Scotland Bill but said it had been bypassed by events",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748762/oluyewo_benchmark/b5ltiokpyuw58skmbaei.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Whats the first thing that comes to mind when you see the ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/Edinburgh/comments/1ea386d/whats_the_first_thing_that_comes_to_mind_when_you/",
+      "image_url": "https://i.redd.it/91syqqc4i8ed1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWUPukP2-8rGsjQx_mScavKA45iwOYdnFPvOaOx_MC5BFrnSCK",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Whats the first thing that comes to mind when you see the ...",
+        "link": "https://www.reddit.com/r/Edinburgh/comments/1ea386d/whats_the_first_thing_that_comes_to_mind_when_you/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWUPukP2-8rGsjQx_mScavKA45iwOYdnFPvOaOx_MC5BFrnSCK",
+        "thumbnail_width": 193,
+        "thumbnail_height": 260,
+        "image": "https://i.redd.it/91syqqc4i8ed1.jpeg",
+        "image_width": 761,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "Discussion sur Reddit concernant le bâtiment du Parlement écossais à Édimbourg.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Edinburgh"
+        ],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7223491287029555
+    },
+    {
+      "titre": "Scottish Parliament hit by brute-force cyber attack - Business ...",
+      "source": "Scottish Business Insider",
+      "lien": "https://www.insider.co.uk/news/scottish-parliament-hit-brute-force-11003367",
+      "image_url": "https://i2-prod.dailyrecord.co.uk/incoming/article11003398.ece/ALTERNATES/s1200d/JS111115884.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2KZJtj04Hfxqh586lB-9RXgL94_bLKDcTyV33aSNaMVLseSGn",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Scottish Parliament hit by brute-force cyber attack - Business ...",
+        "link": "https://www.insider.co.uk/news/scottish-parliament-hit-brute-force-11003367",
+        "source": "Scottish Business Insider",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAANlBMVEXXGCrXFynWECPXFSj2ys752t3WDiHmbHfpfoj87e_ZHzDaJjfbKzzvoKfxrLL40dX74uTtl5_vmpnMAAAAQElEQVQYlWNgwAHY2FD5TOwcDIxIfEYmFk4uZmQVzNw8KHxGJl4-RlQt_ALMaGaw0kAAwxZBXhR3AD3DxIADAACqtwE865LiZwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2KZJtj04Hfxqh586lB-9RXgL94_bLKDcTyV33aSNaMVLseSGn",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i2-prod.dailyrecord.co.uk/incoming/article11003398.ece/ALTERNATES/s1200d/JS111115884.jpg",
+        "image_width": 673,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Scottish Parliament hit by brute-force cyber attack\n\nThe Scottish Parliament has come under a brute-force cyber attack similar to the attack on email accounts at Westminster in June.\n\nStaff and MSPs at Holyrood were warned earlier this week that hackers were attempting to access various email accounts via repeated efforts to crack their passwords.\n\nOfficials have warned that the attack could continue for a number of days, though there has yet to be any evidence that the attack has breached IT system defences.\n\nStaff from Holyrood's IT office are said to be working “closely” with the National Cyber Security Centre to put extra defences in place. Analysis is underway to trace the origin of the attack.\n\nThe attack follows a sustained assault on computers at Westminster, which security officials blamed on the Russian government. In that incident, as many as 90 email accounts with weak passwords were accessed.\n\nStaff and MSPs at Holyrood have been told to update their passwords with longer and stronger combinations of letters, numbers and special characters. A sweep of passwords used found too many were too simple, making it easier to unpick them through a sustained attack.\n\nScottish Business Insider is holding a Cyber Security Business Breakfast on August 24 at The Studio in Hope Street, Glasgow. For more information please click here.\n\nStory Saved\n\nYou can find this story in  My Bookmarks.Or by navigating to the user icon in the top right.",
+        "metadata": {
+          "title": "Scottish Parliament hit by brute-force cyber attack - Business Insider",
+          "description": "\n Staff and MSPs at Holyrood warned hackers are bidding to access email accounts in similar attack to one on Westminster in June\n ",
+          "keywords": "Scottish Parliament,Scottish Government,Science & Technology",
+          "news_keywords": "Scottish Parliament,Scottish Government,Science & Technology",
+          "author": "Kristy Dorsey",
+          "fb:app_id": "64368537493",
+          "fb:pages": "94491814431",
+          "og:site_name": "businessInsider",
+          "og:language": "en",
+          "og:type": "article",
+          "og:title": "Scottish Parliament hit by brute-force cyber attack",
+          "og:url": "http://www.insider.co.uk/news/scottish-parliament-hit-brute-force-11003367",
+          "og:description": "Staff and MSPs at Holyrood warned hackers are bidding to access email accounts in similar attack to one on Westminster in June",
+          "og:image": "https://i2-prod.dailyrecord.co.uk/incoming/article11003398.ece/ALTERNATES/s1200/JS111115884.jpg",
+          "og:locale": "en_GB",
+          "og:section": "News",
+          "article:tag": "Science & Technology",
+          "article:author": "http://www.facebook.com/kristy.dorsey.3114",
+          "article:published_time": "2017-08-17T10:33:21Z",
+          "article:modified_time": "2017-08-17T10:37:45Z",
+          "article:expiration_time": "2017-09-16T10:37:45Z",
+          "article:section": "News",
+          "article:id": "businessInsider-11003367"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Parlement écossais (Holyrood) a subi une cyberattaque par force brute ciblant des comptes de messagerie, similaire à une attaque précédente à Westminster. Les responsables de Holyrood travaillent avec le National Cyber Security Centre pour renforcer la sécurité. L'événement est rapporté par Scottish Business Insider qui organise également un petit-déjeuner d'affaires sur la cybersécurité le 24 août au Studio à Hope Street, Glasgow.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Holyrood",
+          "Westminster",
+          "Hope Street",
+          "Glasgow"
+        ],
+        "ORGANIZATION": [
+          "Scottish Parliament",
+          "National Cyber Security Centre",
+          "Scottish Business Insider",
+          "The Studio"
+        ],
+        "DATE": [
+          "June",
+          "August 24"
+        ],
+        "EVENT": [
+          "brute-force cyber attack",
+          "Cyber Security Business Breakfast"
+        ],
+        "OTHER": [
+          "IT system"
+        ]
+      },
+      "score_e5": 0.7338102473376804
+    },
+    {
+      "titre": "Scotland Parliament Building - From the outset, the building ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DJYqeVssUIJ/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3627836287936023187",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVeh1a20gDqG7Da1M1zV4hF7NKDo1g71JztIOR0gX08YZ1wsq",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Scotland Parliament Building - From the outset, the building ...",
+        "link": "https://www.instagram.com/p/DJYqeVssUIJ/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8eff71f05275e0a49f090a/images/gqghbFAWo-hs5Jo72-9AXyN-6MmeCOJXrwoydvN7i1E.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVeh1a20gDqG7Da1M1zV4hF7NKDo1g71JztIOR0gX08YZ1wsq",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3627836287936023187",
+        "image_width": 810,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram concernant le bâtiment du Parlement écossais.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7164233691259274
+    },
+    {
+      "titre": "Scottish Parliament Building - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Scottish_Parliament_Building",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Edinburgh_,_Scottish_Parliament_Building_-_geograph.org.uk_-_4960201.jpg/250px-Edinburgh_,_Scottish_Parliament_Building_-_geograph.org.uk_-_4960201.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccrwiCqLvopccVeeROUk9EbGRvaPGNtwDJDTca0hD-ECB5tJf",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Scottish Parliament Building - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Scottish_Parliament_Building",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccrwiCqLvopccVeeROUk9EbGRvaPGNtwDJDTca0hD-ECB5tJf",
+        "thumbnail_width": 167,
+        "thumbnail_height": 250,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Edinburgh_,_Scottish_Parliament_Building_-_geograph.org.uk_-_4960201.jpg/250px-Edinburgh_,_Scottish_Parliament_Building_-_geograph.org.uk_-_4960201.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "image_width": 167,
+        "image_height": 250
+      },
+      "webpage": {
+        "text": "Scottish Parliament Building\n\nHome of the Scottish Parliament at Holyrood, Edinburgh\nNot to be confused with Parliament House, Edinburgh.\n\n\nScottish Parliament Building\nScottish Gaelic: Pàrlamaid na h-Alba;[1]\nScots: Scots Pairlament Biggin\nFrontage and public entrance of the Scottish Parliament\nBuilding\nInteractive map of the Scottish Parliament Building area\nAlternative names      Holyrood\nGeneral information\nType                   Seat of the national parliament of Scotland\nArchitectural style    Post-modern\nLocation               The Scottish Parliament\n                       Edinburgh\n                       EH99 1SP, Scotland\nCoordinates            55°57′08″N 3°10′29″W﻿ / ﻿55.9522°N 3.1747°W﻿ / 55.9522;\n                       -3.1747\nCurrent tenants        The Scottish Government and Members of the Scottish\n                       Parliament\nConstruction started   June 1999\nInaugurated            9 October 2004\nCost                   £414 million[2]\nDesign and construction\nArchitects             Enric Miralles, Benedetta Tagliabue\nArchitecture firm      EMBT, RMJM (Scotland) Ltd\nStructural engineer    Ove Arup & Partners\nMain contractor        Bovis Lend Lease\nAwards                 2005 Stirling Prize\nWebsite\nwww.parliament.scot/index.aspx\n\nThe Scottish Parliament Building[a] is the home of the Scottish Parliament at Holyrood in central Edinburgh.[3] Construction of the building commenced in June 1999 and the Members of the Scottish Parliament (MSPs) held their first debate in the new building on 7 September 2004. The formal opening by Queen Elizabeth II took place on 9 October 2004.[4] Enric Miralles, the controversial Spanish architect who designed the building, died before its completion.[5]\n\nFrom 1999 until the opening of the new building in 2004, committee rooms and the debating chamber of the Scottish Parliament were housed in the General Assembly Hall of the Church of Scotland located on The Mound in Edinburgh. Office and administrative accommodation in support of the Parliament were provided in buildings leased from the City of Edinburgh Council.[6] The new Scottish Parliament Building brought together these different elements into one purpose-built parliamentary complex, housing 129 MSPs and more than 1,000 staff and civil servants.[7]\n\nFrom the outset, the building and its construction have been controversial.[8] The choices of location, architect, design and construction company were all criticised by politicians, the media and the Scottish public. Scheduled to open in 2001,[9] it did so in 2004, more than three years late with an estimated final cost of £414 million, many times higher than initial estimates of between £10m and £40m. A major public inquiry into the handling of the construction, chaired by the former Lord Advocate, Lord Fraser of Carmyllie, was established in 2003.[9] The inquiry concluded in September 2004, and criticised the management of the whole project from the realisation of cost increases, down to the way in which major design changes were implemented.[10] The original lintel from Parliament House which housed the Parliament of Scotland until 1707 was installed above the debating chamber in the new parliament building.[11]\n\nDespite these criticisms and a mixed public reaction, the building was welcomed by architectural academics and critics. The building aimed to achieve a poetic union between the Scottish landscape, its people, its culture and the city of Edinburgh. The Parliament Building won numerous awards including the 2005 Stirling Prize and has been described by landscape architect Charles Jencks as \"a tour de force of arts and crafts and quality without parallel in the last 100 years of British architecture\".[12][13]\n\n\nHistory\n\n\nPre–1707\n\nMain articles: Parliament of Scotland and Parliament House, Edinburgh\n\nFrom c. 1235 to 1707, the Parliament of Scotland served as the national legislature of the Kingdom of Scotland, except for a period during the Wars of the Three Kingdoms. For most of its existence, Scotland's Parliament did not have a regular meeting place; between 1438 and 1561, it usually met at the Old Tolbooth, Edinburgh and from 1538 onwards in St Giles' Cathedral. By the 1630's, the Cathedral was becoming inadequate due to the increasing number of Scottish MPs, resulting in the construction of the Parliament House, Edinburgh, which served as Parliament's meeting place until the Acts of Union 1707. The act unified the kingdoms of Scotland and England into the Kingdom of Great Britain, dissolving the Scottish and English parliaments and established the Parliament of Great Britain, which was based in London like its English predecessor. As per the terms of the treaty, Scotland sent 16 Scottish representative peers to the House of Lords and 45 MPs to the House of Commons.[14]\n\n\nScottish devolution\n\nMain article: 1997 Scottish devolution referendum\n\nOn 11 September 1997, amidst an increase in Scottish nationalism, a devolution referendum was held in Scotland which approved the establishment of a directly elected Scottish Parliament to legislate on most domestic affairs.[15] Following this, the Scottish Office, led by the then Secretary of State for Scotland, Donald Dewar, decided that a new purpose-built facility would be constructed in Edinburgh, to house the Scottish Parliament. Dewar was appointed as the inaugural first minister of the country, serving in the position until his death in October 2000, and subsequently began being referred to as the \"Father of the Nation\" for his work in achieving Scottish devolution.[16]\n\n\nDesign\n\nFollowing on from the site selection, the Scottish Office announced that an international competition would be held to find a designer for a new building to house the Parliament.[17] A design committee was appointed under the chairmanship of Dewar, and was tasked with choosing from a shortlist of designs. Proposals were submitted from internationally renowned architects such as Rafael Viñoly, Michael Wilford and Richard Meier.[7] Twelve designs were selected in March 1998, which were whittled down to five by the following May. The five final designs were put on public display throughout Scotland in June 1998. Feedback from the public displays showed that the designs of the Spanish architect Enric Miralles were amongst the most popular.[18] The design team took account of public opinion on the designs and invited all five shortlisted entrants to make presentations on their proposed designs before announcing a winner.[18]\n\nOn 6 July 1998, it was declared that the design of Enric Miralles was chosen, with work being awarded to EMBT/RMJM (Scotland) Ltd, a Spanish-Scottish joint venture design company created for the project.[19] Construction, which was undertaken by Bovis Lend Lease,[20] commenced in June 1999, with the demolition of the Scottish and Newcastle brewery and the beginning of foundation work to support the structure of the building.[20] Miralles sought to design a parliament building that could represent and present a national identity. This intractably difficult question was tackled by displacing the question of identity onto the landscape of Scotland. In a characteristically poetic approach, he talked about slotting the building into the land \"in the form of a gathering situation: an amphitheatre, coming out from Arthur's Seat\", where the building would reflect a dialogue between the landscape and the act of people sitting.[13] An early goal of the design was to open the building and its public spaces, not just to Edinburgh but to a more general concept of the Scottish landscape. Miralles intended to use the parliament to help build the end of Canongate—\"not just another building on the street...it should reinforce the existing qualities of the site and its surroundings. In a subtle game of cross views and political implications.\"[21]\n\nThe result was a non-hierarchical, organic collection of low-lying buildings intended to allow views of, and blend in with, the surrounding rugged scenery, and symbolise the connection between nature and the Scottish people.[7][22] As a consequence, the building has many features connected to nature and land, such as the leaf shaped motifs of the roof in the Garden Lobby of the building, and the large windows of the debating chamber, committee rooms and the Tower Buildings, which face the broad expanse of Holyrood Park, Arthur's Seat and Salisbury Crags.[23] Inside the buildings, the connection to the land is reinforced by the use of Scottish rock, such as gneiss and granite in the flooring and walls, and the use of oak and sycamore in the construction of the furniture.[7]\n\n\nConstruction\n\nInitially, three sites in and around Edinburgh were considered as possible locations for the building, including St Andrew's House (St Andrews House being the home of the Scottish Office—later the Scottish Government); New Parliament House (better known as the imposing former Old Royal High School, Calton Hill); Victoria Quay at Leith docks (adjacent to the major Scottish Office building there) and Haymarket on the vacant railway goods yard, in the west end of the city.[18] The Holyrood site was not entered into the picture until after the official closure date of the competition between the three sites. The date for announcing the winner overran and on the date of the expected announcement instead it was announced that they were going to \"rethink their decision\"[24] (implying that indeed a decision had been made) and add the Holyrood Brewery site into the running (which had only just closed).[25] However negotiations with the brewing company Scottish and Newcastle, who owned the land, resulted in the company indicating that they would be able to vacate the site in early 1999.[25] As a consequence, the Secretary of State for Scotland agreed that the Holyrood site merited inclusion on the shortlist of proposed locations.[18][25] The Scottish Office commissioned feasibility studies of the specified areas in late 1997 and in January 1998, the Holyrood site was selected from the shortlist.[26]\n\nAs part of the construction process, archaeologists conducted excavations of the site. These investigations found several phases of use of the site before it became the parliamentary complex including some evidence of prehistoric use of the area but not significant amounts, and evidence that a boundary ditch for Canongate was the first major structure in the area and then later plots were created by Holyrood Abbey to gather rents. In these plots various activities took place such as gardening and leather tanning. As royal patronage of Holyrood Abbey continued to rise the area saw more high-status properties with gardens appear in the area. Further evidence suggested activity during the post-medieval period (1580–1707). With the construction of Holyrood Palace, the area became very prestigious and many of the properties were brought up to form larger townhouses, one of which became Queensberry House. The archaeologists found evidence that Charles Maitland, Lord Hatton may have converted the kitchen of Queensberry House into a workshop to illegally skim money from the Royal mint, Lord Hatton was a Master of the Scottish Mint. During the early modern period (1707–1825), with the opening of the New Town, there was an exodus of the wealthy from the area and it went into decline. From 1825 until construction started on the new parliament building, the eastern half of the site became a brewery and Queensberry House was converted to a barracks and later to a House of Refuge.[27]\n\nMSPs began to move into the building complex in the summer of 2004, with the official opening by the Queen taking place in October of the same year.[20][28]\n\n\nParliamentary complex\n\n\nLocation\n\nComprising an area of 1.6 ha (4 acres), with a perimeter of 480 m (1570 ft),[29] the Scottish Parliament Building is located 1 km (0.6 mi) east of Edinburgh city centre on the edge of the Old Town.[30] The large site previously housed the headquarters of the Scottish and Newcastle brewery which were demolished to make way for the building. The boundary of the site is marked by the Canongate stretch of the Royal Mile on its northern side, Horse Wynd on its eastern side, where the public entrance to the building is, and Reid's Close on its western side.[31] Reid's Close connects the Canongate and Holyrood Road on the southwestern side of the complex. The south eastern side of the complex is bounded by the Our Dynamic Earth visitor attraction which opened in July 1999, and Queen's Drive which fringes the slopes of Salisbury Crags.[32]\n\nIn the immediate vicinity of the building is the Palace of Holyroodhouse, which is bordered by the broad expanse of Holyrood Park.[31] To the south of the parliamentary complex are the steep slopes of Salisbury Crags and Arthur's Seat. The Holyrood and Dumbiedykes areas, to the west of the site, have been extensively redeveloped since 1998, with new retail, hotel and office developments, including Barclay House, the new offices of The Scotsman Publications Ltd.[7]\n\n\nParliament grounds\n\n> We don't want to forget that the Scottish Parliament will be in Edinburgh, but will belong to Scotland, to the Scottish land. The Parliament should be able to reflect the land it represents. The building should arise from the sloping base of Arthur's Seat and arrive into the city almost surging out of the rock.\n\n— Enric Miralles, 1999[23]\n\nThe Parliament is actually a campus of several buildings, reflecting different architectural styles, with a total floor area of 31,000 square metres (312,000 sq ft),[33] providing accommodation for MSPs, their researchers and parliamentary staff. The buildings have a variety of features, with the most distinctive external characterisation being the roof of the Tower Buildings, said to be reminiscent of upturned boats on the shoreline.[34] The inspiration had come from Edwin Lutyens' sheds, made from upturned herring busses (boats), which Miralles saw on a visit to Lindisfarne in Northumberland.[35] It is said that in the first design meeting, Miralles, armed with some twigs and leaves, thrust them onto a table and declared \"This is the Scottish Parliament\",[36] reinforcing the unique and abstract nature of the parliamentary campus.[36]\n\nThe north-western boundaries of the site, the MSPs' building, Queensberry House and the Canongate Building reinforce the existing medieval street patterns \"expressing intimacy with the city and its citizens\".[7] The south-eastern aspect of the complex is extensively landscaped.[32] Concrete \"branches\", covered in turf and wild grass extend from the parliamentary buildings, and provide members of the public with somewhere to sit and relax.[7] Indigenous Scottish wildflowers and plants cover much of the area, blending the Parliament's grounds with the nearby Holyrood Park and Salisbury Crags.[32] Oak, Rowan, Lime and Cherry trees have also been planted in the grounds.[32] Adjacent to the landscaped area of the complex, where it meets Horse Wynd, there is an open plan piazza, with bike racks, seating and external lighting shaped like rocks incorporated into concrete paving. Three distinctive water features provide the centrepiece for this area.[32]\n\nReferences to Scottish culture are also reflected in the building and particularly on some of the building's elevations. There are a series of \"trigger panels\", constructed out of timber or granite. Not to everyone's taste,[37] these have been said to represent anvils, hairdryers, guns, question marks or even the hammer and sickle. Shortly after the official opening of the building, Enric Miralles' widow, Benedetta Tagliabue, revealed that the design is simply that of a window curtain pulled back.[38] Her late husband however, enjoying the use of ambiguous forms with multiple meanings, had previously said he would love the profile to evoke an icon of Scottish culture, the painting of The Reverend Robert Walker Skating on Duddingston Loch.[21] The architectural critic Charles Jencks finds this a particularly apt metaphor for balanced movement and democratic debate and also notes the irony that Miralles too was skating on ice with his designs for the building.[13] Elsewhere, in the public area beneath the debating chamber, the curved concrete vaults carry various stylised Saltires. Here the architect intends another metaphor; by setting the debating chamber directly above the public area, he seeks to remind MSPs whilst sitting in the chamber that their power derives from the people below them.[7]\n\nThe Scottish Parliament Building is open to visitors all year round. On non-sitting days, normally Mondays, Fridays and weekends as well as during parliamentary recess periods, visitors are able to view the Main Hall of the building and can access the public galleries of the debating chamber and main committee rooms. Guided tours are also available on non-sitting days and these allow visitors access to the floor of the chamber, the Garden Lobby, Queensberry House and committee rooms in the company of a parliamentary guide. On sitting days, members of the public must obtain tickets for the public galleries of both the chamber and committee rooms.[39]\n\n\nSustainability\n\nThe Scottish Parliament Building was designed with a number of sustainability features in mind. The decision to build the Parliament on a brownfield site, and its proximity to hubs of public transport are seen as sustainable, environmentally friendly features. All of the electricity purchased for the building comes from renewable sources and solar panels on the Canongate Building are used for heating water in the complex.[40]\n\nA high level of insulation was used to keep the building warm during the winter months. This approach, however, brings with it the potential problem of overheating during the summer due to solar heat gains through the glazing, body heat and the use of computers and electric lighting. Standard solutions to the problem usually involve using energy intensive HVAC systems. The Scottish Parliament Building, however, reduces the requirements for such systems to only 20% of the accommodation by a variety of strategies. Natural ventilation is used wherever possible. A computerised management system senses the temperature in different parts of the Parliament and automatically opens windows to keep the building cool. During summer months, the building opens the windows during the night time when it is unoccupied and permits the heavy concrete floors and structure to cool and rid themselves of heat absorbed during the day. This then helps to keep the building temperature down during the day by absorbing the excess heat from the glazing, occupants and electrical equipment. Some of the concrete floors are further cooled by water from 25 metres (80 ft) deep bore holes beneath the parliamentary campus which also provide water for the toilet facilities. The building achieves the highest rating in the Building Research Establishment's Environmental Assessment Method (BREEAM).[13]\n\n\nDebating chamber\n\nThe debating chamber contains a shallow elliptical horseshoe of seating for the MSPs, with the governing party or parties sitting in the middle of the semicircle and opposition parties on either side, similar to other European legislatures. Such a layout is intended to blur political divisions and principally reflects the desire to encourage consensus amongst elected members.[41] This is in contrast to the \"adversarial\" layout reminiscent of other Westminster style national legislatures, including the House of Commons, where government and opposition sit apart and facing one another.[42] There are 131 desks and chairs on the floor of the chamber for all the elected members of the Scottish Parliament and members of the Scottish Government. The desks are constructed out of oak and sycamore and are fitted with a lectern, a microphone and in-built speakers as well as the electronic voting e",
+        "metadata": {
+          "title": "Scottish Parliament Building - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Holyrood_Parliament_Edinburgh_%286096619764%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "og:image:width": "1200",
+          "og:image:height": "733",
+          "og:title": "Scottish Parliament Building - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Scottish Parliament Building",
+          "url": "https://en.wikipedia.org/wiki/Scottish_Parliament_Building",
+          "sameAs": "http://www.wikidata.org/entity/Q2746031",
+          "mainEntity": "http://www.wikidata.org/entity/Q2746031",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2004-09-21T00:37:57Z",
+          "dateModified": "2026-07-17T16:44:30Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Holyrood_Parliament_Edinburgh_%286096619764%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "home of the Scottish Parliament at Holyrood, Edinburgh"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Scottish Parliament Building, situé à Holyrood dans le centre d'Édimbourg, est le siège du Parlement écossais. Sa construction a débuté en juin 1999 et les députés (MSP) y ont tenu leur premier débat le 7 septembre 2004, avec une inauguration officielle par la reine Élisabeth II le 9 octobre 2004. Conçu par l'architecte espagnol Enric Miralles et la firme EMBT avec RMJM (Scotland) Ltd, le projet a connu des retards et des controverses sur son coût final s'élevant à 414 millions de livres sterling. Une enquête publique a été menée sous la direction de Lord Fraser of Carmyllie en 2003. Avant 2004, le Parlement siégeait dans la General Assembly Hall de l'Église d'Écosse sur The Mound.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Enric Miralles",
+          "Benedetta Tagliabue",
+          "Queen Elizabeth II",
+          "Lord Fraser of Carmyllie"
+        ],
+        "LOCATION": [
+          "Holyrood",
+          "Edinburgh",
+          "Scotland",
+          "The Mound"
+        ],
+        "ORGANIZATION": [
+          "Scottish Parliament",
+          "The Scottish Government",
+          "EMBT",
+          "RMJM (Scotland) Ltd",
+          "Ove Arup & Partners",
+          "Bovis Lend Lease",
+          "Church of Scotland",
+          "City of Edinburgh Council"
+        ],
+        "DATE": [
+          "June 1999",
+          "7 September 2004",
+          "9 October 2004",
+          "2004",
+          "1999",
+          "2001",
+          "2003",
+          "September 2004",
+          "1707"
+        ],
+        "EVENT": [
+          "Stirling Prize"
+        ],
+        "OTHER": [
+          "Scottish Parliament Building",
+          "Parliament House"
+        ]
+      },
+      "score_e5": 0.7328658798462371
+    },
+    {
+      "titre": "The Scottish Parliament Building, Holyrood, Edinburgh ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/UrbanHell/comments/1e0m6uv/the_scottish_parliament_building_holyrood/",
+      "image_url": "https://preview.redd.it/the-scottish-parliament-building-holyrood-edinburgh-v0-j3x1gg7lfvbd1.jpg?width=1024&format=pjpg&auto=webp&s=5df81647e5386ee81db493869e890393fd3d8934",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4yK8UBFf3Sf6eEJCmpfchRYLYNZNEiF-qBuF6zKXWwc18Xpjd",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "The Scottish Parliament Building, Holyrood, Edinburgh ...",
+        "link": "https://www.reddit.com/r/UrbanHell/comments/1e0m6uv/the_scottish_parliament_building_holyrood/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4yK8UBFf3Sf6eEJCmpfchRYLYNZNEiF-qBuF6zKXWwc18Xpjd",
+        "thumbnail_width": 193,
+        "thumbnail_height": 260,
+        "image": "https://preview.redd.it/the-scottish-parliament-building-holyrood-edinburgh-v0-j3x1gg7lfvbd1.jpg?width=1024&format=pjpg&auto=webp&s=5df81647e5386ee81db493869e890393fd3d8934",
+        "image_width": 761,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur le subreddit UrbanHell concernant le bâtiment du Parlement écossais à Holyrood, Édimbourg.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Holyrood",
+          "Edinburgh"
+        ],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "The Scottish Parliament Building"
+        ]
+      },
+      "score_e5": 0.7223011489435912
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Scotland"
+    ],
+    "ORGANIZATION": [
+      "Scottish government"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Scotland Bill"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Edinburgh",
+      "rangs": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Holyrood",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Westminster",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hope Street",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Glasgow",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Scottish Parliament",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Cyber Security Centre",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Scottish Business Insider",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Studio",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 24",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "brute-force cyber attack",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Cyber Security Business Breakfast",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IT system",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Enric Miralles",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Benedetta Tagliabue",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Queen Elizabeth II",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lord Fraser of Carmyllie",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "The Mound",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Scottish Government",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "EMBT",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "RMJM (Scotland) Ltd",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ove Arup & Partners",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bovis Lend Lease",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Church of Scotland",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "City of Edinburgh Council",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 1999",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "7 September 2004",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9 October 2004",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2004",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1999",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2001",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2003",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2004",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1707",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Stirling Prize",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Scottish Parliament Building",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Parliament House",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T13:05:22.354410"
+  }
+}

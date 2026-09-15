@@ -1,0 +1,900 @@
+{
+  "id_rumeur": 232040,
+  "id_image": 232040,
+  "caption": "A photograph by Univision Florida Central shows first responders at the scene of a shooting at Pulse Nightclub in Orlando Fla on Sunday June 12 2016",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748433/oluyewo_benchmark/curr7emgwqvrviqfvlpg.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/news/us-news/special-report-around-20-dead-orlando-mass-shooting-n590451",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2016_23/1575146/160612-orlando-0654.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9Y5jfcp5biD_l0LT1LvVlTYEx4SA64zw5Di03NJ5gE0LW7n6",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+        "link": "https://www.nbcnews.com/news/us-news/special-report-around-20-dead-orlando-mass-shooting-n590451",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8efb13f73e4d3c48f4b5c6/images/a4V1WYia5np-OnJ7uCsyY7IzyFob_RQRKY25wj9D_TA.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9Y5jfcp5biD_l0LT1LvVlTYEx4SA64zw5Di03NJ5gE0LW7n6",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2016_23/1575146/160612-orlando-0654.jpg",
+        "image_width": 845,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "Special Report: Around 20 Dead in Orlando Mass Shooting\n\nIE 11 is not supported. For an optimal experience visit our site on another browser.\n\n\nSPECIAL REPORT\n\nU.S. news\n\n\nSpecial Report: Around 20 Dead in Orlando Mass Shooting\n\nPolice confirmed that approximately 20 people are dead and many others wounded after a gunman opened fire and took hostages at a gay nightclub in Orlando, Florida.\n\nWe apologize, this video has expired.\n\n\n * Add to Google\n\nPolice Hold Press Conference on Orlando Nightclub Shooting\n\n17:59\n\nGet more newson\n\nAdd to Google\n\nJune 12, 2016, 8:05 AM EDT / Updated June 12, 2016, 8:48 AM EDT\n\nAdd to Google",
+        "metadata": {
+          "title": "Live",
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "description": "Police confirmed that approximately 20 people are dead and many others wounded after a gunman opened fire and took hostages at a gay nightclub in Orlando, Florida.",
+          "og:url": "https://www.nbcnews.com/news/us-news/special-report-around-20-dead-orlando-mass-shooting-n590451",
+          "og:title": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+          "og:description": "Police confirmed that approximately 20 people are dead and many others wounded after a gunman opened fire and took hostages at a gay nightclub in Orlando, Florida.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_23/1575146/160612-orlando-0654.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_23/1575146/160612-orlando-0654.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+          "branch:deeplink:description": "Police confirmed that approximately 20 people are dead and many others wounded after a gunman opened fire and took hostages at a gay nightclub in Orlando, Florida.",
+          "twitter:title": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+          "twitter:description": "Police confirmed that approximately 20 people are dead and many others wounded after a gunman opened fire and took hostages at a gay nightclub in Orlando, Florida.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2016-06-12T12:48:47.000Z",
+          "article:modified_time": "2016-06-12T12:48:47.000Z"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+          "url": "https://www.nbcnews.com/news/us-news/special-report-around-20-dead-orlando-mass-shooting-n590451",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2016_23/1575146/160612-orlando-0654.jpg",
+          "alternativeHeadline": "Special Report: Around 20 Dead in Orlando Mass Shooting",
+          "articleBody": "",
+          "dateModified": "2016-06-12T12:48:47.000Z",
+          "datePublished": "2016-06-12T12:05:17.000Z",
+          "articleSection": "news",
+          "articleId": "ncna590451",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna590451"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2016_23/1575146/160612-orlando-0654.jpg",
+            "caption": "A handout photograph made available by Univision Florida Central showing a view of the general scene of a shooting at Pulse Nightclub in Orlando, Florida, USA, 12 June 2016.",
+            "height": 1127,
+            "width": 2000
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "Police confirmed that approximately 20 people are dead and many others wounded after a gunman opened fire and took hostages at a gay nightclub in Orlando, Florida.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/news/us-news/special-report-around-20-dead-orlando-mass-shooting-n590451"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un rapport spécial de NBC News indique qu'environ 20 personnes sont mortes et de nombreuses autres ont été blessées après qu'un homme armé a ouvert le feu et pris des otages dans une boîte de nuit gay à Orlando, en Floride. La police a confirmé l'incident lors d'une conférence de presse le 12 juin 2016.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Orlando",
+          "Florida"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Google",
+          "Police"
+        ],
+        "DATE": [
+          "June 12, 2016",
+          "8:05 AM EDT",
+          "8:48 AM EDT"
+        ],
+        "EVENT": [
+          "Orlando Mass Shooting",
+          "Orlando Nightclub Shooting"
+        ],
+        "OTHER": [
+          "IE 11"
+        ]
+      },
+      "score_e5": 0.8075706027359865
+    },
+    {
+      "titre": "Scene of mass shooting more than 'just another gay club'",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/news/nation/2016/06/12/pulse-more-than-just-another-gay-club/85785762/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/eb941f679be4b4800091a3ce01920540dbfd2b9b/c=0-0-1021-577/local/-/media/2016/06/12/USATODAY/USATODAY/636013105058686594-AX082-09C7-9.JPG?width=1200&disable=upscale&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxfzkAH5A_FCyhkSwv9yYvCWt9TSzNw5NkmdMcaBM4mfo6SUip",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Scene of mass shooting more than 'just another gay club'",
+        "link": "https://www.usatoday.com/story/news/nation/2016/06/12/pulse-more-than-just-another-gay-club/85785762/",
+        "source": "USA Today",
+        "source_icon": "https://serpapi.com/searches/6a8efb13f73e4d3c48f4b5c6/images/QwlHH3tXmKUwTAqqNGv-9HB_Hbp3XZkRooIim6qQelU.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxfzkAH5A_FCyhkSwv9yYvCWt9TSzNw5NkmdMcaBM4mfo6SUip",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.usatoday.com/gcdn/-mm-/eb941f679be4b4800091a3ce01920540dbfd2b9b/c=0-0-1021-577/local/-/media/2016/06/12/USATODAY/USATODAY/636013105058686594-AX082-09C7-9.JPG?width=1200&disable=upscale&format=pjpg&auto=webp",
+        "image_width": 577,
+        "image_height": 1021
+      },
+      "webpage": {
+        "text": "Scene of mass shooting more than 'just another gay club'\n\nOne of the owners of the Orlando nightclub where 50 people were shot dead early Sunday started it to promote awareness of the area's lesbian, gay, bisexual and transgender community. Her brother died from AIDS. \n\nBarbara Poma opened Pulse on Orange Avenue with friend and co-founder Ron Legler in 2004. It hosts nightly themed performances as well as a monthly program of LGBT-related educational events.  \n\n“Like everyone in the country, I am devastated about the horrific events that have taken place today,” Poma said in a statement. “Pulse, and the men and women who work there, have been my family for nearly 15 years. From the beginning, Pulse has served as place of love and acceptance for the LGBTQ community.”\n\nPulse refers to itself as \"not just another gay club.\" Saturday night was Latin night.  \n\n“I want to express my profound sadness and condolences to all who have lost loved ones,” she said in the statement. “Please know that my grief and heart are with you.”\n\nOrlando nightclub shooting: What we know\n\nOrlando police said 50 people were killed and 53 wounded by a lone assailant who was shot dead at the scene by a police SWAT team.\n\n\"Being raised in a strict Italian family, being gay was frowned upon. However, when John came out to his family and friends, the family dynamic transitioned from a culture of strict tradition to one of acceptance and love,\" the club's website says of Poma's brother.    \n\n\"It was important to create an atmosphere that embraced the gay lifestyle with décor that would make John proud. Most importantly, (we) coined the name Pulse for John’s heartbeat — as a club that is John’s inspiration, where he is kept alive in the eyes of his friends and family.\"\n\nPolice: Mass shooting at Orlando gay nightclub\n\nAccording to Poma's LinkedIn profile, she works for RB Management, a company that operates three establishments: Wildside Bar & Grille restaurants, Pacino's Italian Ristorante and Pulse Orlando. Legler is the president of the Florida Theatrical Association. \n\nKenya Michaels, a drag queen from Puerto Rico, was scheduled to appear at Pulse on Saturday evening along with another entertainer called Jasmine International, according to Michaels' Facebook page, which displayed a flyer for the show. Yara Sofia, another Puerto Rican drag queen and reality television personality, said Michaels was safe. \n\n\"She got out with manager Neema,\" Sofia said on Facebook.\n\nAngelica Jones of Orlando, Pulse's resident entertainer, also posted a message on Facebook early Sunday: \"God's good. I made it out safe. Thank you for your prayers.\"\n\nPulse is described on the GayCities website as having \"three different areas to mix it up, including an outdoor patio. Don't miss the club's ultra lounge — all white and LED lighting (think Halo in DC or Miami). Dancers and drag shows round out the party.\"\n\nAn online review of Pulse on the same website by a user called jetdc74 said an evening at the club on Aug. 5, 2012, \"kinda started off slow but the night picked up. Nice bartenders. Small dance floor, however the music was good.\"   \n\nOrlando wrapped up its annual week-long Gay Days festival on June 6. As many as 150,000 in the LGBT community attend area theme parks, gay nightclubs and special events. It was the 25th anniversary of Gay Days, one of the largest gay pride events in the world.\n\nContributing: Florida Today's Jennifer Sangalang-Meesey",
+        "metadata": {
+          "title": "Scene of mass shooting more than 'just another gay club'"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La fusillade de masse a eu lieu dans une boîte de nuit gay d'Orlando appelée Pulse, située sur Orange Avenue et cofondée en 2004 par Barbara Poma et Ron Legler. L'attaque de la nuit de samedi, qui était une soirée latine, a fait 50 morts et 53 blessés selon la police d'Orlando, l'assaillant ayant été abattu par une équipe SWAT. Des artistes et personnalités tels que Kenya Michaels, Jasmine International, Yara Sofia, Neema et Angelica Jones sont mentionnés en lien avec l'établissement.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Barbara Poma",
+          "Ron Legler",
+          "John",
+          "Kenya Michaels",
+          "Jasmine International",
+          "Yara Sofia",
+          "Neema",
+          "Angelica Jones",
+          "jetdc74"
+        ],
+        "LOCATION": [
+          "Orlando",
+          "Orange Avenue",
+          "Puerto Rico",
+          "DC",
+          "Miami"
+        ],
+        "ORGANIZATION": [
+          "USA Today",
+          "Pulse",
+          "SWAT team",
+          "RB Management",
+          "Wildside Bar & Grille",
+          "Pacino's Italian Ristorante",
+          "Pulse Orlando",
+          "Florida Theatrical Association",
+          "Facebook",
+          "GayCities"
+        ],
+        "DATE": [
+          "Sunday",
+          "2004",
+          "15 years",
+          "Saturday",
+          "Aug. 5, 2012"
+        ],
+        "EVENT": [
+          "mass shooting",
+          "Orlando nightclub shooting",
+          "Latin night"
+        ],
+        "OTHER": [
+          "LinkedIn",
+          "LED lighting",
+          "Halo"
+        ]
+      },
+      "score_e5": 0.7930338510578754
+    },
+    {
+      "titre": "YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=qST2203TGIU",
+      "image_url": "https://i.ytimg.com/vi/qST2203TGIU/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM7yFmtPOJxtuStQR6gqtJRcX6ncTVNnUctrS3o4KRFS2u_DcN",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "YouTube",
+        "link": "https://www.youtube.com/watch?v=qST2203TGIU",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM7yFmtPOJxtuStQR6gqtJRcX6ncTVNnUctrS3o4KRFS2u_DcN",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/qST2203TGIU/hqdefault.jpg",
+        "image_width": 360,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "50 dead in Orlando gay club shooting suspect is Omar Mateen - BBC News\n\nBBC News\n\nThe death toll in a shooting in a gay nightclub in Orlando, Florida, has risen to 50, the mayor says, the deadliest mass shooting in recent US history.Please...",
+        "metadata": {
+          "title": "50 dead in Orlando gay club shooting suspect is Omar Mateen - BBC News",
+          "description": "The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen to 50, the mayor says, the deadliest mass shooting in recent US history.Please...",
+          "keywords": "Omar Mateen, bbc, news, bbc news, Orlando gay club, orlando, orlando shooting, shooting orlando, shooting, gay club shooting, orlando nightclub shooting, pulse, orlando pulse shooting, Florida, pulse shooting, youtube, video, breaking news, mass shooting, killed, pulse dead",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=qST2203TGIU",
+          "og:title": "50 dead in Orlando gay club shooting suspect is Omar Mateen - BBC News",
+          "og:image": "https://i.ytimg.com/vi/qST2203TGIU/hqdefault.jpg",
+          "og:image:width": "480",
+          "og:image:height": "360",
+          "og:description": "The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen to 50, the mayor says, the deadliest mass shooting in recent US history.Please...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=qST2203TGIU&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=qST2203TGIU&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=qST2203TGIU&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/qST2203TGIU",
+          "og:video:secure_url": "https://www.youtube.com/embed/qST2203TGIU",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "pulse dead",
+          "fb:app_id": "87741124305",
+          "twitter:title": "50 dead in Orlando gay club shooting suspect is Omar Mateen - BBC News",
+          "twitter:description": "The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen to 50, the mayor says, the deadliest mass shooting in recent US history.Please..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Selon BBC News sur YouTube, le bilan d'une fusillade dans une boîte de nuit gay à Orlando, en Floride, est monté à 50 morts, d'après le maire, constituant la fusillade de masse la plus meurtrière de l'histoire récente des États-Unis. Le suspect est identifié comme étant Omar Mateen.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Omar Mateen"
+        ],
+        "LOCATION": [
+          "Orlando",
+          "Florida",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "BBC News"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "shooting in a gay nightclub in Orlando"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7765527361865091
+    },
+    {
+      "titre": "Scene of mass shooting more than 'just another gay club ...",
+      "source": "ABC10",
+      "lien": "https://www.abc10.com/article/news/nation-now/scene-of-mass-shooting-more-than-just-another-gay-club/103-240568115",
+      "image_url": "http://content.tegna-media.com/photo/2016/06/12/636013105058686594-AX082-09C7-9_2928701_ver1.0.JPG",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZIq0KMqS2lMzyI4EILni1LbXLiuGZfaV7z2tng5jK2sRJbx2W",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Scene of mass shooting more than 'just another gay club ...",
+        "link": "https://www.abc10.com/article/news/nation-now/scene-of-mass-shooting-more-than-just-another-gay-club/103-240568115",
+        "source": "ABC10",
+        "source_icon": "https://serpapi.com/searches/6a8efb13f73e4d3c48f4b5c6/images/d6RezfAZupo67LncXl4ujVJKrQuCGQB0EQDu8tkWirU.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZIq0KMqS2lMzyI4EILni1LbXLiuGZfaV7z2tng5jK2sRJbx2W",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "http://content.tegna-media.com/photo/2016/06/12/636013105058686594-AX082-09C7-9_2928701_ver1.0.JPG",
+        "image_width": 577,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Scene of mass shooting more than 'just another gay club'\n\nOne of the owners of the Orlando nightclub where 50 people were shot dead early Sunday started it to promote awareness of the area's lesbian, gay, bisexual and transgender community. Her brother died from AIDS. \n\nOne of the owners of the Orlando nightclub where 50 people were shot dead early Sunday started it to promote awareness of the area's lesbian, gay, bisexual and transgender community. Her brother died from AIDS. \n\nBarbara Poma opened Pulse on Orange Avenue with friend and co-founder Ron Legler in 2004. It hosts nightly themed performances as well as a monthly program of LGBT-related educational events.  \n\n“Like everyone in the country, I am devastated about the horrific events that have taken place today,” Poma said in a statement. “Pulse, and the men and women who work there, have been my family for nearly 15 years. From the beginning, Pulse has served as place of love and acceptance for the LGBTQ community.”\n\nPulse refers to itself as \"not just another gay club.\" Saturday night was Latin night.  \n\n“I want to express my profound sadness and condolences to all who have lost loved ones,” she said in the statement. “Please know that my grief and heart are with you.”\n\nOrlando police said 50 people were killed and 53 wounded by a lone assailant who was shot dead at the scene by a police SWAT team.\n\n\"Being raised in a strict Italian family, being gay was frowned upon. However, when John came out to his family and friends, the family dynamic transitioned from a culture of strict tradition to one of acceptance and love,\" the club's website says of Poma's brother.    \n\n\"It was important to create an atmosphere that embraced the gay lifestyle with décor that would make John proud. Most importantly, (we) coined the name Pulse for John’s heartbeat — as a club that is John’s inspiration, where he is kept alive in the eyes of his friends and family.\"\n\nAccording to Poma's LinkedIn profile, she works for RB Management, a company that operates three establishments: Wildside Bar & Grille restaurants, Pacino's Italian Ristorante and Pulse Orlando. Legler is the president of the Florida Theatrical Association. \n\nKenya Michaels, a drag queen from Puerto Rico, was scheduled to appear at Pulse on Saturday evening along with another entertainer called Jasmine International, according to Michaels' Facebook page, which displayed a flyer for the show. Yara Sofia, another Puerto Rican drag queen and reality television personality, said Michaels was safe. \n\n\"She got out with manager Neema,\" Sofia said on Facebook.\n\nAngelica Jones of Orlando, Pulse's resident entertainer, also posted a message on Facebook early Sunday: \"God's good. I made it out safe. Thank you for your prayers.\"\n\nPulse is described on the GayCities website as having \"three different areas to mix it up, including an outdoor patio. Don't miss the club's ultra lounge — all white and LED lighting (think Halo in DC or Miami). Dancers and drag shows round out the party.\"\n\nAn online review of Pulse on the same website by a user called jetdc74 said an evening at the club on Aug. 5, 2012, \"kinda started off slow but the night picked up. Nice bartenders. Small dance floor, however the music was good.\"   \n\nOrlando wrapped up its annual week-long Gay Days festival on June 6. As many as 150,000 in the LGBT community attend area theme parks, gay nightclubs and special events. It was the 25th anniversary of Gay Days, one of the largest gay pride events in the world.\n\nContributing: Florida Today's Jennifer Sangalang-Meesey",
+        "metadata": {
+          "title": "Scene of mass shooting more than &#x27;just another gay club&#x27; | abc10.com",
+          "og:url": "https://www.abc10.com/article/news/nation-now/scene-of-mass-shooting-more-than-just-another-gay-club/103-240568115",
+          "og:title": "Scene of mass shooting more than 'just another gay club'",
+          "og:description": "One of the owners of the Orlando ...",
+          "og:type": "article",
+          "og:image": "http://content.tegna-media.com/photo/2016/06/12/636013105058686594-AX082-09C7-9_2928701_ver1.0.JPG",
+          "og:image:width": "1920",
+          "og:image:height": "1080",
+          "og:article:published_time": "6/12/2016 4:03:48 PM",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:section": "abc10,news,nation-now",
+          "twitter:title": "Scene of mass shooting more than 'just another gay club'",
+          "twitter:description": "One of the owners of the Orlando ...",
+          "description": "<p><img assetid=\"85785976\" assettype=\"image\" credit=\"EPA\" src=\"http://www.gannett-cdn.com/media/2016/06/12/USATODAY/USATODAY/636013105058686594-AX082-09C7-9.JPG\" title=\"orlando_shooting [image : 85785976]\"/></p><p>One of the owners of the Orlando nightclub where 50 people were shot dead early Sunday started it to promote awareness of the area's lesbian, gay, bisexual and transgender community. Her brother died from AIDS. </p>",
+          "fb:app_id": "164639104298854",
+          "og:site_name": "abc10.com",
+          "og:locale": "en_US"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une fusillade de masse a fait 50 morts et 53 blessés tôt un dimanche dans la boîte de nuit gay Pulse sur Orange Avenue à Orlando, ouverte en 2004 par Barbara Poma et Ron Legler. La police d'Orlando a indiqué que l'assaillant solitaire a été abattu par une équipe SWAT. Des artistes comme Kenya Michaels, Jasmine International, Yara Sofia, Neema et Angelica Jones sont mentionnés.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Barbara Poma",
+          "Ron Legler",
+          "John",
+          "Kenya Michaels",
+          "Jasmine International",
+          "Yara Sofia",
+          "Neema",
+          "Angelica Jones"
+        ],
+        "LOCATION": [
+          "Orlando",
+          "Orange Avenue",
+          "Puerto Rico",
+          "DC",
+          "Miami"
+        ],
+        "ORGANIZATION": [
+          "ABC10",
+          "Pulse",
+          "SWAT",
+          "RB Management",
+          "Wildside Bar & Grille",
+          "Pacino's Italian Ristorante",
+          "Pulse Orlando",
+          "Florida Theatrical Association",
+          "Facebook",
+          "GayCities"
+        ],
+        "DATE": [
+          "Sunday",
+          "2004",
+          "15 years",
+          "Saturday"
+        ],
+        "EVENT": [
+          "mass shooting",
+          "Latin night"
+        ],
+        "OTHER": [
+          "LinkedIn",
+          "LED lighting"
+        ]
+      },
+      "score_e5": 0.8087458898913112
+    },
+    {
+      "titre": "Inside Orlando Nightmare: Mateen's Bathroom Rampage Raises ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/inside-the-orlando-hostage-nightmare-1466988897",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-OQ848_SHOTCL_M_20160626130815.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2vGtSvNdRj6IieugrbyGI71zOEPzk6cVyygFw6TaSapk9xKC",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Inside Orlando Nightmare: Mateen's Bathroom Rampage Raises ...",
+        "link": "https://www.wsj.com/articles/inside-the-orlando-hostage-nightmare-1466988897",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2vGtSvNdRj6IieugrbyGI71zOEPzk6cVyygFw6TaSapk9xKC",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-OQ848_SHOTCL_M_20160626130815.jpg",
+        "image_width": 853,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "Article du Wall Street Journal concernant la prise d'otages et la fusillade à Orlando impliquant Mateen dans une salle de bains.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mateen"
+        ],
+        "LOCATION": [
+          "Orlando"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Orlando Nightmare",
+          "hostage nightmare"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8066330925204525
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Orlando",
+      "Florida"
+    ],
+    "ORGANIZATION": [
+      "Univision Florida Central"
+    ],
+    "DATE": [
+      "Sunday June 12 2016"
+    ],
+    "EVENT": [
+      "Pulse Nightclub shooting"
+    ],
+    "OTHER": [
+      "Pulse Nightclub"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Orlando",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Police",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 12, 2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8:05 AM EDT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8:48 AM EDT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Orlando Mass Shooting",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Orlando Nightclub Shooting",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IE 11",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barbara Poma",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ron Legler",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kenya Michaels",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jasmine International",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Yara Sofia",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Neema",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Angelica Jones",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "jetdc74",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orange Avenue",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Puerto Rico",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "DC",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Miami",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA Today",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pulse",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SWAT team",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "RB Management",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wildside Bar & Grille",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pacino's Italian Ristorante",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pulse Orlando",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Florida Theatrical Association",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "GayCities",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2004",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "15 years",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Aug. 5, 2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Latin night",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LinkedIn",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LED lighting",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Halo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Omar Mateen",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC10",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SWAT",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Orlando Nightmare",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "hostage nightmare",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T22:54:57.519494"
+  }
+}

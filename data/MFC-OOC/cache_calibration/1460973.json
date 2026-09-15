@@ -1,0 +1,726 @@
+{
+  "id_rumeur": 1460973,
+  "id_image": 1460973,
+  "caption": "Buildings in Gaza City have been destroyed by Israeli air strikes",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748726/oluyewo_benchmark/wrnp5oy5pki25nsbwngs.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Israel warns 100,000 Gazans to flee their homes as air ...",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/news/world/article/1555375/israel-warns-100000-gazans-flee-their-homes-air-campaign-intensifies",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/2014/07/16/topshots-palestinian-israel-conflict-gaza_hms711_44385939.jpg?itok=UjZ6neAM",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXKoJNEM8nFEi7B8zytQvJZ2KgHC39FutRJnjmJlDMSWEEqg-q",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Israel warns 100,000 Gazans to flee their homes as air ...",
+        "link": "https://www.scmp.com/news/world/article/1555375/israel-warns-100000-gazans-flee-their-homes-air-campaign-intensifies",
+        "source": "South China Morning Post",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcEz-_v7-_v7-_v7-_v7_ygL___8AGVQAAEv_45aWmqyVmqux_VYvAAAABXRSTlMA7oD2d5l5iZ4AAAA4SURBVDiNY2AYOYCFmRELYGaBK2BiwwqYkBRwskIBGxs7BHBwEVLATbEJowpoE9QEoptgghn-AAD_Hwk3Zp2AlAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXKoJNEM8nFEi7B8zytQvJZ2KgHC39FutRJnjmJlDMSWEEqg-q",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/2014/07/16/topshots-palestinian-israel-conflict-gaza_hms711_44385939.jpg?itok=UjZ6neAM",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Israel warns 100,000 Gazans to flee their homes as air campaign intensifies\n\nIsrael on Wednesday warned 100,000 Gazans to leave their homes, as the military intensified its nine-day air campaign after Hamas snubbed an Egyptian ceasefire effort.\n\nAs the punishing Israeli military operation resumed pace, Palestinian leader Mahmud Abbas was to travel to Egypt and Turkey in search of regional support for an immediate end to the fighting after an earlier attempt at a truce collapsed.\n\nSo far, the Israeli air campaign has killed 205 Palestinians, while Gaza militant groups have fired more than 1,200 rockets at southern and central Israel, which on Tuesday claimed its first Israeli life.\n\nIsrael’s Prime Minister Benjamin Netanyahu has vowed the army would “expand and intensify” its operations after Hamas dismissed an Egyptian ceasefire proposal, firing scores of rockets over the border, despite the army holding its fire for six hours.\n\nOvernight, Israeli warplanes struck about 40 sites across Gaza, among them political targets, including the home of senior Hamas figure Mahmud al-Zahar in Gaza City as well as those of three others in the movement’s political leadership. There were no reports of casualties.",
+        "metadata": {
+          "description": "Israel on Wednesday warned 100,000 Gazans to leave their homes, as the military intensified its nine-day air campaign after Hamas snubbed an Egyptian ceasefire effort.",
+          "fb:app_id": "282931841805811",
+          "og:title": "Israel warns 100,000 Gazans to flee their homes as air campaign intensifies",
+          "og:description": "Israel on Wednesday warned 100,000 Gazans to leave their homes, as the military intensified its nine-day air campaign after Hamas snubbed an Egyptian ceasefire effort.",
+          "og:url": "https://www.scmp.com/news/world/article/1555375/israel-warns-100000-gazans-flee-their-homes-air-campaign-intensifies",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/2014/07/16/topshots-palestinian-israel-conflict-gaza_hms711_44385939.jpg?itok=mly_tbgs",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "news_keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "article:section": "World",
+          "article:published_time": "2014-07-16T17:31:05+08:00",
+          "article:modified_time": "2014-07-16T18:40:13+08:00",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/2014/07/16/topshots-palestinian-israel-conflict-gaza_hms711_44385939.jpg?itok=CTNmlTzW",
+          "al:ios:url": "scmp://news/world/article/1555375/israel-warns-100000-gazans-flee-their-homes-air-campaign-intensifies?entity=node&type=article&id=1555375",
+          "al:android:url": "scmp://news/world/article/1555375/israel-warns-100000-gazans-flee-their-homes-air-campaign-intensifies?entity=node&type=article&id=1555375"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Israel warns 100,000 Gazans to flee their homes as the military intensifies its nine-day air campaign after Hamas snubs an Egyptian ceasefire effort. Palestinian leader Mahmud Abbas is to travel to Egypt and Turkey. The Israeli air campaign has killed 205 Palestinians, while Gaza militant groups have fired over 1,200 rockets at southern and central Israel. Israeli Prime Minister Benjamin Netanyahu vows to expand and intensify operations. Overnight, Israeli warplanes strike about 40 sites across Gaza, including the home of Mahmud al-Zahar in Gaza City.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mahmud Abbas",
+          "Benjamin Netanyahu",
+          "Mahmud al-Zahar"
+        ],
+        "LOCATION": [
+          "Israel",
+          "Gaza",
+          "Egypt",
+          "Turkey",
+          "Gaza City"
+        ],
+        "ORGANIZATION": [
+          "South China Morning Post",
+          "Hamas"
+        ],
+        "DATE": [
+          "Wednesday",
+          "nine-day"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8263763682206703
+    },
+    {
+      "titre": "Israel & Hamas agree Gaza humanitarian aid truce ...",
+      "source": "Luxembourg Times",
+      "lien": "https://www.luxtimes.lu/luxembourg/israel-hamas-agree-gaza-humanitarian-aid-truce/1259437.html",
+      "image_url": "https://img.luxtimes.lu/public/luxembourg/f7mklp-topshots-palestinian-firefighters-and-residents-try-to-extinguish-fire-at-a-house-destroyed-by-an-overnight-israeli-air-strike-on-july-16-2014-in-gaza-city.-new-israeli-air-and-tank-strikes-in-gaza/alternates/SIXTEEN_NINE_1200/TOPSHOTS Palestinian firefighters and residents try to extinguish fire at a house destroyed by an overnight Israeli air strike on July 16 2014 in Gaza City. New Israeli air and tank strikes in Gaza",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lF2FT7AwJ5oeKcwied5fiawAy1HPMlizyWeoAoKQQal-TbXy",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Israel & Hamas agree Gaza humanitarian aid truce ...",
+        "link": "https://www.luxtimes.lu/luxembourg/israel-hamas-agree-gaza-humanitarian-aid-truce/1259437.html",
+        "source": "Luxembourg Times",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEX_vwQiIiKQcBPHlwtpVBdfTRmeehBYSBolJCHxtQU6Mx7Sngn3uQTorgabeBHKmQvYowiyiA1DORxQQxopJyC3jA0wLB_BkwtbShqBZRQ8r2-hAAAAjElEQVQ4je2QXQ-CMAxFewfSlY9NBHT8_z9qpwkMWTC--MR5aZOe3CaX6OQHfKFcdWmKFZ8IpgbKXpebHZhHWGa2SCMMIHHWMabEJYbZNhEqvP1Ai0BBMsKUCFNOoETY8E9Bui-C6_OCFhUrou7-0AIwfJzbSqsewzxry43XNDi_EcSsiHsNt3tycswTai8EIUB--6UAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lF2FT7AwJ5oeKcwied5fiawAy1HPMlizyWeoAoKQQal-TbXy",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://img.luxtimes.lu/public/luxembourg/f7mklp-topshots-palestinian-firefighters-and-residents-try-to-extinguish-fire-at-a-house-destroyed-by-an-overnight-israeli-air-strike-on-july-16-2014-in-gaza-city.-new-israeli-air-and-tank-strikes-in-gaza/alternates/SIXTEEN_NINE_1200/TOPSHOTS Palestinian firefighters and residents try to extinguish fire at a house destroyed by an overnight Israeli air strike on July 16 2014 in Gaza City. New Israeli air and tank strikes in Gaza",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Israel and Hamas agree Gaza humanitarian aid truce.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Gaza"
+        ],
+        "ORGANIZATION": [
+          "Luxembourg Times",
+          "Israel",
+          "Hamas"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7549288098272556
+    },
+    {
+      "titre": "mai yaghi for afp, Author at UCA News, journalist | UCA News",
+      "source": "UCA News",
+      "lien": "https://www.ucanews.com/author/mai-yaghi-for-afp",
+      "image_url": "https://i.ucanews.com/ucanews/uploads/2014/07/1405504969.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWCrwr7Djyb_sAuuRvuY57s5NHmuYVmfG9DWRee9jFlvgoIHAc",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "mai yaghi for afp, Author at UCA News, journalist | UCA News",
+        "link": "https://www.ucanews.com/author/mai-yaghi-for-afp",
+        "source": "UCA News",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQhoIr8Gk3-reMlyFjkbwQbLsWECSbQ9FSzJmy3YD0rKYDZRQOfOj4RKHNqqdiJWaxf-xFK450QeMjagB6ZSX6yJavJfrybgagTC8oB4qZVPjcJb88",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWCrwr7Djyb_sAuuRvuY57s5NHmuYVmfG9DWRee9jFlvgoIHAc",
+        "thumbnail_width": 184,
+        "thumbnail_height": 275,
+        "image": "https://i.ucanews.com/ucanews/uploads/2014/07/1405504969.jpg",
+        "image_width": 311,
+        "image_height": 465
+      },
+      "webpage": {
+        "text": "mai yaghi for afp, Author at UCA News, journalist\n\nIsrael warns Gazans to flee as campaign intensifies\n\nJuly 16, 2014\n\nThree Palestinians killed in latest round of bombings as ground forces prepare for possible incursion\n\n",
+        "metadata": {
+          "title": "mai yaghi for afp, Author at UCA News, journalist | UCA News",
+          "keywords": "mai yaghi for afp",
+          "description": "mai yaghi for afp",
+          "searchtitle": "Catholic Church News",
+          "og:title": "mai yaghi for afp, Author at UCA News, journalist | UCA News",
+          "author": "ucanews.com",
+          "twitter:title": "mai yaghi for afp, Author at UCA News, journalist | UCA News"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Mai Yaghi for AFP, author and journalist at UCA News, reports that Israel warns Gazans to flee as campaign intensifies. Three Palestinians are killed in the latest round of bombings as ground forces prepare for a possible incursion.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mai Yaghi"
+        ],
+        "LOCATION": [
+          "Israel",
+          "Gazans"
+        ],
+        "ORGANIZATION": [
+          "AFP",
+          "UCA News"
+        ],
+        "DATE": [
+          "July 16, 2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.824978168242765
+    },
+    {
+      "titre": "Middle East conflict: Hamas says it will disarm only if ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=z_u_D0jko0U",
+      "image_url": "https://i.ytimg.com/vi/z_u_D0jko0U/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf0fUBVciCbAFoyu2MbubxYsbV3Z08nAwVGtrJsav-tVSDB53R",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Middle East conflict: Hamas says it will disarm only if ...",
+        "link": "https://www.youtube.com/watch?v=z_u_D0jko0U",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf0fUBVciCbAFoyu2MbubxYsbV3Z08nAwVGtrJsav-tVSDB53R",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/z_u_D0jko0U/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Middle East conflict: Hamas says it will disarm only if Israel complies with terms of deal\n\nCNA\n\nUS President Donald Trump has announced a \"historic deal\" to end the war in Gaza, which would involve a phased disarming of militant groups including Hamas -...",
+        "metadata": {
+          "title": "Middle East conflict: Hamas says it will disarm only if Israel complies with terms of deal",
+          "description": "US President Donald Trump has announced a \"historic deal\" to end the war in Gaza, which would involve a phased disarming of militant groups including Hamas -...",
+          "keywords": "Donald Trump, Gaza, militant groups, Hamas, disarm, Israel, complete pullout",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=z_u_D0jko0U",
+          "og:title": "Middle East conflict: Hamas says it will disarm only if Israel complies with terms of deal",
+          "og:image": "https://i.ytimg.com/vi/z_u_D0jko0U/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "US President Donald Trump has announced a \"historic deal\" to end the war in Gaza, which would involve a phased disarming of militant groups including Hamas -...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=z_u_D0jko0U&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=z_u_D0jko0U&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=z_u_D0jko0U&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/z_u_D0jko0U",
+          "og:video:secure_url": "https://www.youtube.com/embed/z_u_D0jko0U",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "complete pullout",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Middle East conflict: Hamas says it will disarm only if Israel complies with terms of deal",
+          "twitter:description": "US President Donald Trump has announced a \"historic deal\" to end the war in Gaza, which would involve a phased disarming of militant groups including Hamas -..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Middle East conflict: Hamas says it will disarm only if Israel complies with terms of a deal. US President Donald Trump has announced a historic deal to end the war in Gaza, involving a phased disarming of militant groups including Hamas.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Donald Trump"
+        ],
+        "LOCATION": [
+          "Middle East",
+          "Gaza"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "CNA",
+          "Hamas",
+          "Israel"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7899626605760502
+    },
+    {
+      "titre": "Israel Says It Has Hit More Than 2,500 Terror Targets",
+      "source": "VOA",
+      "lien": "https://www.voanews.com/a/arab-leaders-call-for-cease-fire-amid-deadly-israeli-strikes/7341914.html",
+      "image_url": "https://gdb.voanews.com/01000000-c0a8-0242-76d4-08dbddfa427e_w1080_h608_s.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG7J5wuWURy_HgkacXC-xJM2LObq-G98X3yQTvtWcKAW7QJswA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Israel Says It Has Hit More Than 2,500 Terror Targets",
+        "link": "https://www.voanews.com/a/arab-leaders-call-for-cease-fire-amid-deadly-israeli-strikes/7341914.html",
+        "source": "VOA",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSdTnsTkzgK0wZvs8WK_D7MS5UoIN1WkBRgwExo71oJUqq44DoY0Xgb-7bqCJAMx6ruz4knW1YWngIov0q2cA1TcqzjIABZXhh2MI_9XBzPVz3MbAg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG7J5wuWURy_HgkacXC-xJM2LObq-G98X3yQTvtWcKAW7QJswA",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://gdb.voanews.com/01000000-c0a8-0242-76d4-08dbddfa427e_w1080_h608_s.jpg",
+        "image_width": 608,
+        "image_height": 1080
+      },
+      "webpage": {
+        "text": "Israel Says It Has Hit More Than 2,500 Terror Targets \n\nLatest developments:\n\n * U.S. Secretary of State Antony Blinken makes a surprise visit to Israeli-occupied West Bank.\n * Israel says it has hit more than 2,500 terror targets since launching its offensive on Hamas.\n * The World Health Organization documents 102 attacks on health care in the Gaza Strip since October 7.\n * Netanyahu seeks to distance himself from minister who said dropping a nuclear bomb on Gaza was a possibility.\n * Former Australian and British prime ministers in Israel to show their “solidarity” with Israel.\n * More than 30 Palestinians were killed and many more wounded in an airstrike on the Al-Maghazi refugee camp late Saturday. Earlier, the Palestinian news agency WAFA reported 51 Palestinians were killed in the strike.\n * Israeli strikes kill civilians at shelters in Gaza combat zone, as U.S. Secretary of State Antony Blinken seeks more aid.\n * Arab foreign ministers press Blinken for a cease-fire during meetings in Amman.\n * \"The whole region is sinking in a sea of hatred that will define generations to come,\" Jordanian foreign minister says.\n * Israel strikes a U.N.-run shelter, killing at least 15 people.\n\nU.S. Secretary of State Antony Blinken made a surprise visit Sunday to the Israeli-occupied West Bank, where he met with Mahmoud Abbas, president of the Palestinian Authority.\n\n\nBlinken’s unannounced visit to the West Bank city of Ramallah followed his meeting Saturday with Arab leaders in Amman, Jordan. He was also expected to visit Turkey.\n\nIsrael said Sunday that since it launched war on Hamas on October 7, “over 2,500 terror targets have been struck.”\n\nThe targets were hit, Israel said, with “the combined activities” of Israel’s ground, air and naval forces.\n\nThe Israeli military said in the statement posted on its Telegram channel, “Overnight, IDF troops directed aircraft to strike a Hamas military compound containing command and control centers, observation posts, and additional terrorist infrastructure.”\n\nThe campaign against Hamas was launched after the surprise Hamas attack that killed more than 1,400 Israelis and more than 200 people were taken hostage.\n\nThe World Health Organization said in a post on social media that since October 7, it has documented 102 attacks on health care in the Gaza Strip, resulting in “504 fatalities, 459 injuries, damage to 39 facilities and affected 31 ambulances.”\n\nThe U.N. agency said more than half the health attacks and over half of the targeted hospitals were in Gaza City.\n\nSeparately, the Associated Press and other media are reporting that Israeli Prime Minister Benjamin Netanyahu is suspending Heritage Minister Amihai Eliyahu from Cabinet meetings after Eliyahu said dropping a nuclear bomb on Gaza would be a possibility.\n\nNetanyahu said on social media that Eliyahu’s comments were “not based in reality.”\n\nEliyahu is not a participant in Israel’s wartime security Cabinet.\n\nMeanwhile, the former prime ministers of Australia and Britain, Scott Morrison and Boris Johnson, were in Israel to show their “solidarity” with Israel and its people.\n\nMorrison said Sunday, “I am thankful for the opportunity to join former Prime Minister Johnson to come to Israel as a demonstration of solidarity with the people and state of Israel and the Jewish community throughout the world.”\n\nOn Saturday, Turkish President Recep Tayyip Erdogan said, \"We want to see Gaza as a peaceful region that is a part of an independent Palestinian state, in line with 1967 borders, with territorial integrity, and with East Jerusalem as its capital,\" according to broadcaster Haberturk and others.\n\nAnkara also said Saturday it was recalling its ambassador to Israel. Israel recalled its envoys to Turkey last month after Erdogan described Hamas as freedom fighters and said he does not view the group as a terrorist organization, unlike the United States, Britain and others in the West.\n\nThe developments came ahead of Blinken’s scheduled visit to Turkey.\n\nOn Saturday, in Blinken’s meeting with Arab leaders in Amman, Jordan, he was pressed on the need for an immediate cease-fire in Gaza as Israel's military struck a U.N. shelter and school, killing civilians.\n\nBlinken met with his counterparts from Jordan, Saudi Arabia, the United Arab Emirates, Egypt, and Qatar, as well as the secretary-general of the Palestine Liberation Organization's executive committee and Lebanon's caretaker prime minister, Najib Mikati.\n\nJordanian Foreign Minister Ayman Safadi told reporters Saturday that although he condemned the Hamas attacks of October 7 and that \"nobody in their right mind\" would belittle the pain felt by Israel that day, the war in Gaza could not be allowed to continue.\n\n\"The whole region is sinking in a sea of hatred that will define generations to come,\" Safadi said after meeting with Blinken and Egyptian Foreign Minister Sameh Shoukry.\n\nThe Jordanian and Egyptian foreign ministers asked for an immediate cease-fire between Israel and Hamas, but Blinken said that would be counterproductive. He indicated he could support a pause to allow humanitarian supplies to be delivered and get civilians out of Gaza.\n\nIsrael Prime Minister Benjamin Netanyahu has said that will happen only if Israeli hostages are freed.\n\n\"It is our view now that a cease-fire would simply leave Hamas in place, able to regroup and repeat what it did on October 7,\" Blinken said, in reference to Hamas' attack on southern Israel that triggered the latest Gaza war.\n\nProtests, critical of Israel’s assault on Gaza, took place in cities around the world, including Ankara, Berlin, Istanbul, London, Paris and Washington Saturday. Demonstrators called for a cease-fire in Gaza.\n\nIsraeli airstrikes\n\nMeanwhile, a Palestinian news agency reported that 51 Palestinians were killed late Saturday when Israel bombarded the Maghazi refugee camp in the central Gaza Strip. The Reuters news agency could not independently verify the WAFA report. The Israeli military did not immediately respond to a request for comment.\n\nSuch strikes have leveled large areas of northern Gaza neighborhoods. About 300,000 of the area's residents are sheltering in U.N. facilities, one of which was hit Saturday, killing at least 15 people and wounding dozens of others.\n\nThe al-Fakhoura school in the Jabaliya district was housing thousands of evacuees when it was hit, Juliette Touma, director of communications for UNRWA, told Reuters.\n\n\"I was standing here when three bombings happened; I carried a body and another decapitated body with my own hands,\" a young boy said in video obtained by Reuters, crying in despair. \"God will take my vengeance.\"\n\n\nNearby, a resident comforted a woman in shock.\n\nThe health ministry in Hamas-ruled Gaza says at least 231 people were killed in the past day, bringing the death toll to at least 9,488 since the war began between Israel and the Palestinian militants.\n\nThe armed wing of the Palestinian militant faction Hamas said Saturday that more than 60 hostages were missing after Israeli airstrikes hit Gaza.\n\nAbu Ubaida, the spokesperson for the Izz ad-Din al Qassam Brigades, said on Hamas' Telegram channel that 23 bodies of the 60 missing Israeli hostages were trapped under the rubble.\n\nReuters could not immediately verify the statement.\n\nDeath and hunger\n\nIn besieged Gaza, Israel opened a three-hour window for Palestinians to move south, but few if any did.\n\n\"We don't trust them,\" said Mohamed Abed, who sheltered with his wife and children on the grounds of Shifa hospital, one of thousands of Palestinians seeking safety at medical centers in the north.\n\nPalestinians say the trickle of humanitarian aid coming through the southern Rafah crossing cannot keep up with the needs of the population.\n\nA rising number of bakeries also have stopped operating due to the fuel and water shortages as well as airstrike damage.\n\nWael Abu Omar, a spokesperson for the Rafah crossing, said that in recent days the trucks have contained far more body bags than canned food. He said that recently delivered biscuits had expired and were inedible.\n\nLynn Hastings, a senior U.N. official based in Jerusalem, said she was aware of the reports of expired food but could not independently confirm they were the World Food Program's shipments.\n\nThe WFP has warned that widespread food insecurity across Gaza was quickly becoming a crisis.\n\n\"There is a real threat of malnutrition and people starving,\" said Alia Zaki, a spokesperson for the WFP. \"There is some food that's still available, but people can't reach it. The situation is catastrophic.\"\n\nRoughly 1,100 people have left the Gaza Strip through the Rafah crossing since Wednesday under an apparent agreement among the United States, Egypt, Israel and Qatar, which mediates with Hamas.\n\nSome information for this story came from The Associated Press, Reuters and Agence France-Presse.",
+        "metadata": {
+          "title": "Israel Says It Has Hit More Than 2,500 Terror Targets&#xA0;",
+          "description": " Blinken makes surprise visit to West Bank ",
+          "keywords": "Middle East, Gaza, Israel, Jordan,  Antony Blinken, Israel-Hamas war",
+          "fb:pages": "36235438073",
+          "apple-mobile-web-app-title": "VOA",
+          "og:title": "Israel Says It Has Hit More Than 2,500 Terror Targets ",
+          "og:description": " Blinken makes surprise visit to West Bank ",
+          "og:type": "article",
+          "og:url": "https://www.voanews.com/a/arab-leaders-call-for-cease-fire-amid-deadly-israeli-strikes/7341914.html",
+          "og:site_name": "Voice of America",
+          "article:publisher": "https://www.facebook.com/voiceofamerica",
+          "og:image": "https://gdb.voanews.com/af3415a9-bb8e-4ebe-be59-15a64c616074.jpg",
+          "fb:app_id": "362002700549372",
+          "Author": "VOA News",
+          "twitter:title": "Israel Says It Has Hit More Than 2,500 Terror Targets ",
+          "twitter:description": " Blinken makes surprise visit to West Bank "
+        },
+        "jsonld": {
+          "articleSection": "Middle East",
+          "isAccessibleForFree": true,
+          "headline": "Israel Says It Has Hit More Than 2,500 Terror Targets ",
+          "inLanguage": "en-US",
+          "keywords": "Middle East, Gaza, Israel, Jordan,  Antony Blinken, Israel-Hamas war",
+          "author": {
+            "@type": "Person",
+            "url": "https://www.voanews.com/author/voa-news/oumqq",
+            "description": "The Voice of America provides news and information in more than 40 languages to an estimated weekly audience of over 326 million people. Stories with the VOA News byline are the work of multiple VOA journalists and may contain information from wire service reports.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://gdb.voanews.com/cd99ecc6-573b-4c64-b391-287fd7831f73.jpg"
+            },
+            "name": "VOA News"
+          },
+          "datePublished": "2023-11-05 00:14:50Z",
+          "dateModified": "2023-11-05 13:24:59Z",
+          "publisher": {
+            "logo": {
+              "width": 512,
+              "height": 220,
+              "@type": "ImageObject",
+              "url": "https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png"
+            },
+            "@type": "NewsMediaOrganization",
+            "url": "https://www.voanews.com",
+            "sameAs": [
+              "https://www.facebook.com/VOANews",
+              "https://twitter.com/voanews",
+              "https://www.youtube.com/user/VOAvideo",
+              "https://www.instagram.com/voanews/"
+            ],
+            "name": "Voice of America (VOA News)",
+            "alternateName": ""
+          },
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.voanews.com/a/arab-leaders-call-for-cease-fire-amid-deadly-israeli-strikes/7341914.html",
+          "url": "https://www.voanews.com/a/arab-leaders-call-for-cease-fire-amid-deadly-israeli-strikes/7341914.html",
+          "description": " Blinken makes surprise visit to West Bank ",
+          "image": {
+            "width": 1080,
+            "height": 608,
+            "@type": "ImageObject",
+            "url": "https://gdb.voanews.com/af3415a9-bb8e-4ebe-be59-15a64c616074_w1080_h608.jpg"
+          },
+          "name": "Israel Says It Has Hit More Than 2,500 Terror Targets "
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Israel says it has hit more than 2,500 terror targets since launching its offensive on Hamas. U.S. Secretary of State Antony Blinken makes a surprise visit to the Israeli-occupied West Bank and meets with Palestinian Authority President Mahmoud Abbas in Ramallah, following meetings with Arab leaders in Amman, Jordan. More than 30 Palestinians are killed in an airstrike on the Al-Maghazi refugee camp. The World Health Organization documents 102 attacks on health care in the Gaza Strip since October 7. Israeli Prime Minister Benjamin Netanyahu suspends Heritage Minister Amihai Eliyahu from Cabinet meetings after Eliyahu's comments about dropping a nuclear bomb on Gaza. Former prime ministers of Australia and Britain are in Israel to show solidarity.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Antony Blinken",
+          "Mahmoud Abbas",
+          "Benjamin Netanyahu",
+          "Amihai Eliyahu"
+        ],
+        "LOCATION": [
+          "West Bank",
+          "Gaza Strip",
+          "Ramallah",
+          "Amman",
+          "Jordan",
+          "Al-Maghazi",
+          "Gaza City",
+          "Gaza",
+          "Australia",
+          "Britain",
+          "Israel"
+        ],
+        "ORGANIZATION": [
+          "VOA",
+          "World Health Organization",
+          "WAFA",
+          "Associated Press",
+          "Hamas",
+          "IDF"
+        ],
+        "DATE": [
+          "October 7",
+          "Saturday",
+          "Sunday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Telegram"
+        ]
+      },
+      "score_e5": 0.8118436363866613
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Gaza City",
+      "Israel"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Israeli air strikes",
+      "Buildings"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Mahmoud Abbas",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Benjamin Netanyahu",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mahmud al-Zahar",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Israel",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Egypt",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Turkey",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza City",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South China Morning Post",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hamas",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "nine-day",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Luxembourg Times",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mai Yaghi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gazans",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UCA News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 16, 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle East",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Antony Blinken",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Amihai Eliyahu",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Bank",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza Strip",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ramallah",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Amman",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jordan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Al-Maghazi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "VOA",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Health Organization",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WAFA",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IDF",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 7",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Telegram",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T12:12:45.880481"
+  }
+}

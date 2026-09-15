@@ -1,0 +1,893 @@
+{
+  "id_rumeur": 487771,
+  "id_image": 204940,
+  "caption": "A refugee child takes a jumper from a pile of clothes at the main railway station in Hamburg Germany",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747848/oluyewo_benchmark/dw2t3ug2jjboy76j8ctv.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Dalai Lama arrives in New York on trip for medical treatment ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/world/us/dalai-lama-arrives-new-york-trip-medical-treatment-2024-06-23/",
+      "image_url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LHVB5JRZVJKLNDMQRK2KBMNWXQ.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3zJMfnRVBE7frKc2k70iXMZJq5ZER0-Xe_7ykH1JNh4UoL2zK",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Dalai Lama arrives in New York on trip for medical treatment ...",
+        "link": "https://www.reuters.com/world/us/dalai-lama-arrives-new-york-trip-medical-treatment-2024-06-23/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3zJMfnRVBE7frKc2k70iXMZJq5ZER0-Xe_7ykH1JNh4UoL2zK",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LHVB5JRZVJKLNDMQRK2KBMNWXQ.jpg",
+        "image_width": 3268,
+        "image_height": 4900
+      },
+      "webpage": null,
+      "texte_contexte": "Le Dalaï-Lama arrive à New York pour un voyage lié à des soins médicaux.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dalai Lama"
+        ],
+        "LOCATION": [
+          "New York",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [
+          "2024-06-23"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7437449246117479
+    },
+    {
+      "titre": "The Dalai Lama announces plans for a successor, signaling ...",
+      "source": "OPB",
+      "lien": "https://www.opb.org/article/2025/07/02/the-dalai-lama-announces-plans-for-a-successor/",
+      "image_url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/GT2QEGGLPZMBROXQ2AAYKXWEII.jpg?auth=8488567cfa771d0cb10de695779405ca62b53ce933b57e4ad76dda6e3293ccd9&width=786",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSluy63HfxHhaREtN9o4yTpYMrE-eRsX_f7or7qtACBcdege6xw",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "The Dalai Lama announces plans for a successor, signaling ...",
+        "link": "https://www.opb.org/article/2025/07/02/the-dalai-lama-announces-plans-for-a-successor/",
+        "source": "OPB",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAAAD___8FBggBAQB1dXV8fn1HR0dCRETl5-agoqH6_Pvy9PPp6-oQExN2eXhoamm6vLo6PDwuMTEdICAiJCNQUlEKDAs4OjljZWQYGhmLj43CxMNGSkmZnJvb3dzQ0tGChoVbXVysrq3W2NaAarmuAAAA5klEQVQ4je2Sy5KDIBBF6YujxreoYMxoYub__3EugrtUZRazzFlAlxzaW10o_Qb14Y9oPbZJ0nNmQ3IwWa1dKOcrJ2mXQshtQCaBPMNXLMtvqDXW2_UUpKoplHnOm3cokWKdmkpkoXCxMJvIRKEFDLt54QHAFVJ5geVFZKbwcK4RWb0w8ivuIrvIcxwnNuvPDDfrBeOFn0MIdAgZSt6wyi8AD7cYslxrhAy2Yxzloy5Prg2Fru8NdS80w2D431m1Z18bQyIIgcIo7Lnvu1i8EKodHLV2aVZzq9PUxJc6pgcOn0f7f_wCe0IL5b41EkEAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSluy63HfxHhaREtN9o4yTpYMrE-eRsX_f7or7qtACBcdege6xw",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/GT2QEGGLPZMBROXQ2AAYKXWEII.jpg?auth=8488567cfa771d0cb10de695779405ca62b53ce933b57e4ad76dda6e3293ccd9&width=786",
+        "image_width": 524,
+        "image_height": 786
+      },
+      "webpage": {
+        "text": "The Dalai Lama announces plans for a successor, signaling China won’t have a say\n\nDays ahead of his 90th birthday, Tibetan Buddhism’s top spiritual leader said the institution of the Dalai Lama will continue.\n\nThe Dalai Lama made the statement in a pre-recorded video that aired at the start of a three-day religious conference in Dharamshala, the Himalayan town in India where he has lived in exile since China thwarted an uprising in the Tibetan capital Lhasa in 1959. The elderly leader looked frail; he read slowly and paused often while reading out the statement in Tibetan.\n\nThe English translation published on his website said the search for his successor will be carried out by The Gaden Phodrang Trust, a religious body of Buddhist monks who are part of the office of the Dalai Lama in India.\n\nIn what appears to be a nod to China, the statement adds that “no one else has any such authority to interfere in the matter.” China has stated that it alone has the authority to appoint the next leader of Tibetan Buddhism. Tibet is an autonomous region controlled by China.\n\nTibetan Buddhists believe that the Dalai Lama is reincarnated after his death. Originally named Lhamo Thondup, the current Dalai Lama is the 14th in the line of leaders, and was born in a family of farmers in 1935. When he was 2 years old, a search party of the Tibetan government identified him as the reincarnation after showing him several possessions that belonged to the 13th Dalai Lama.\n\n“In every case, the infant correctly identified those belonging to the 13th Dalai Lama, saying, ‘It’s mine. It’s mine,’” his official website says. “This more or less convinced the search party that they had found the new incarnation.”\n\nIt is unclear when the search for his successor will start, though the process can take several years. The Dalai Lama has only said it would be “in accordance with tradition.”\n\nThe Tibetan spiritual leader had previously speculated that his successor might be an adult, could be an “attractive” woman, or there might not be one at all. In his recently released book Voice for the Voiceless, he said that the new Dalai Lama will be born “in the free world” and outside of China.\n\n\nChina attempts to control the succession plan\n\nChina’s government considers the Dalai Lama, in the words of China Foreign Ministry spokesperson Mao Ning, as a “political exile engaged in separatist activities under the guise of religion.” Mao says the spiritual leader “has absolutely no right to represent the people” of Tibet.\n\nAt a press conference, Mao commented that reincarnations of high-ranking lamas must have “approval by the central government, follow religious rituals and historical customs, and be handled in accordance with national laws and regulations.”\n\nChina passed legislation in 2007 that says the search for reincarnated lamas must take place within China, and that the government has the final say in recognizing them. It insists on the use of a ritual in which the names of final candidates for the Dalai Lama’s are put in a golden urn, and whoever’s lot is drawn from the urn is then considered the reincarnation.\n\nBut Tibetans argue that not all Dalai Lamas have been born in China, and not all have been selected using the urn.\n\nChina claims authority to approve the selection of clerics in other religions as well. And it points to areas of historical continuity.\n\nFor example, some Manchu emperors of China’s final dynasty, the Qing (1644-1912), chose Tibetan lamas as their spiritual teachers and portrayed themselves as patrons of Tibetan Buddhism, to assert authority over large swathes of Tibet, Mongolia, and current-day Russia, while largely leaving these distant regions to govern themselves.\n\n“If you realize that Lhasa is 1,500 miles from Beijing and that it’s separated by the highest plateau in the world, it makes sense,” notes Gray Tuttle, Leila Hadley Luce Assistant Professor of Modern Tibetan Studies in the Department of East Asian Languages and Cultures at Columbia University.\n\n“This is how empires work. They allow the local elite to rule their own region under the framework of an empire,” he says.\n\nBut in Tibetan Buddhism, “the basic idea is that these leaders, unlike the rest of us, can control where and when they reincarnate,” says Cameron Warner, an associate professor of anthropology at Aarhus University in Denmark, and chairperson of the Leadership and Reincarnation of the Dalai Lamas Research Network.\n\n“So in that sense,” he says, “if the Dalai Lama, who’s alive now, says, I’m not going to reincarnate in China, from a religious sense, there’s nothing China can do about it.”\n\nOnce the Dalai Lama dies, a search team of high-ranking lamas, often under the supervision of a regent, searches for the “soul child” with the aid of omens, dreams and apparitions. Regents and tutors oversee the child’s education and training to become a spiritual leader.\n\nIf this process produces two competing incarnations of the Dalai Lama, one backed by the Tibetan government in exile and another by China’s government, it would not be an entirely new situation.\n\nTibetan Buddhists believe that high-ranking lamas can have multiple “emanations” or reincarnations at the same time. The Dalai Lama himself is believed by his followers to be an emanation of Avalokiteshvara, the Buddhist god of compassion.\n\nThere are multiple claimants to the Panchen Lama and the Karmapa Lama, the second- and third-highest ranking clerics, respectively, in Tibetan Buddhism.\n\nIn 1995, the Dalai Lama announced the discovery of a 6-year-old boy as the reincarnation of the Panchen Lama. China felt the Dalai Lama’s announcement had challenged its authority. Days later, authorities took custody of the Dalai’s pick for Panchen Lama, and Beijing later chose its own.\n\nChina’s government insists that the Panchen Lama will play a key role in picking the next Dalai Lama. Tibetan exiles say the Panchen Lama has input into the selection, but is not the sole decider.\n\nFor Tibetans, dealing with rival claimants to spiritual authority, “is a matter of faith. It’s something personal, something deep from your heart,” says Lobsang Sangay, a senior visiting fellow at Harvard Law School, and former Sikyong, or president, of the Tibetan government-in-exile.\n\n“So, yes, the Chinese government will have a fake Panchen Lama appointing a fake Dalai Lama and Tibetans will see that boy — unfortunately a Tibetan — as a fake one,” Sangay says.\n\nBut most Tibetans and foreigners, Sangay argues, will recognize and respect the reincarnation selected according to the current Dalai Lama’s instructions.\n\n“In some sense, it’s not that big of a deal because most of the religious leaders for the Buddhists in Tibet are all living outside of Tibet already” in exile, says Aarhus University’s Cameron Warner.\n\nBut he also notes that in their poems and songs, Tibetans express profound sadness that their spiritual leaders are absent from Tibet, creating a spiritual void, as if the sun and the moon were missing from the sky.\n\n\nA delicate time for the Tibetan community\n\nThe announcement of the Dalai Lama’s succession plan comes at a delicate time for the Tibetan community. President Trump’s cuts to USAID slashed support to the Tibetan government-in-exile by more than a third.\n\nThere are concerns around the health of the Dalai Lama. And there seems to be no resolution in sight of the Tibet dispute: the exiled Tibetan leaders and China haven’t had formal talks since 2010.\n\nInstead, China intensified patrolling around the borders following the 2008 Tibetan unrest, squeezing the flow of Tibetan refugees coming to India every year to a trickle. It also built a network of border villages and moved millions of Han Chinese into them, which critics say is an attempt to change Tibet’s ethnic makeup. Geopolitical analysts say the villages are meant to double up as China’s eyes and ears.\n\nPempa Tsering is the current Sikyong, or president, of the exiled government.\n\n“When I visit different countries, I jokingly ask them, do you have good brain surgeons? If you have one, we will bring Chinese leaders one by one, do surgery, put common sense and send them back,” he told NPR in an interview in April. “That’s all they need.”\n\nThe succession plan has also prompted a reckoning of the middle-ground policy adopted by the Dalai Lama starting the 1980s, which called for Tibetan autonomy from China instead of complete independence.\n\nNamgyal Dolkar Lhagyari, a member of the Tibetan parliament, said the conciliatory approach has led to China taking them “for granted.”\n\n“I believe that it’s time the Sikyong becomes much more vigorous and let them know that if you don’t respond to the memorandum of Tibetan autonomy within the timeframe, we will take a decision where it won’t continue to be that. It will change to self-determination,” she says.\n\n\nExiled Tibetans prepare to celebrate\n\nEven as they jostle with the bigger questions, the exiled Tibetan community is gearing up to celebrate the Dalai Lama’s 90th birthday. In Dharamshala, his followers have put up posters and billboards along the streets.\n\nTens of thousands are expected to attend the days of cultural events the community plans to hold this week. This includes Buddhist leaders of various sects, prominent politicians from India’s ruling Hindu nationalist party and longtime devotees like actor Richard Gere.\n\nAt the marketplace outside the Dalai Lama temple, hawkers like Sonam Tsomu have stocked their carts with Tibetan trinkets: bangles and necklaces made of colorful beads and bobbleheads of little Lamas. But on the Dalai Lama’s birthday, she says she will shut her shop and go to the temple.\n\n“I will wear new clothes and attend prayers, like every year,” she says. “After all he is our mother, father, everything.”\n\nSonam is among the generations of Tibetans who have found refuge in Dharamshala. In the decades after the Tibetan uprising in 1959, tens of thousands of Tibetans braved frostbite and Himalayan avalanches to live in the proximity of the 14th Dalai Lama.\n\n“Back in the day, most Tibetans who came in worked as mountain porters or at road construction sites,” says Tenzin Tsundue, a prominent Tibetan activist in Dharamshala. “It’s what my mother did too.”\n\nOver the years, the Indian government helped Tibetans settle in two mountain towns: Dharamshala in the north and Kollengel in the south. Today, the community of more than 50,000runs schools and hospitals, sells Tibetan food and art, elects their own lawmakers and president.\n\nSome like Tsundue have dedicated their lives to advocating for freedom and a safe return to their homeland.\n\n“I knew early on that I wouldn’t make a lot of money,” he says. “So I simplified everything in my life. I own two pairs of clothes, two shirts, two shorts, two jeans. I am a vegetarian because it’s cheaper. I have no drinking habits, no smoking habits, no gambling, no disco.”",
+        "metadata": {
+          "title": "The Dalai Lama announces plans for a successor, signaling China won’t have a say - OPB",
+          "og:url": "https://www.opb.org/article/2025/07/02/the-dalai-lama-announces-plans-for-a-successor/",
+          "og:title": "The Dalai Lama announces plans for a successor, signaling China won’t have a say",
+          "og:image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/GT2QEGGLPZMBROXQ2AAYKXWEII.jpg?auth=8488567cfa771d0cb10de695779405ca62b53ce933b57e4ad76dda6e3293ccd9&width=1200&height=675&smart=true",
+          "og:description": "The Dalai Lama said he will be reincarnated after he dies, and no one can interfere with the matter of succession. The Chinese government, however, claims authority over his succession.",
+          "og:site_name": "opb",
+          "og:type": "article",
+          "twitter:title": "The Dalai Lama announces plans for a successor, signaling China won’t have a say",
+          "twitter:description": "The Dalai Lama said he will be reincarnated after he dies, and no one can interfere with the matter of succession. The Chinese government, however, claims authority over his succession.",
+          "page-type": "Article",
+          "fb:app_id": "1635670063409263",
+          "fb:pages": "17790154938",
+          "apple-mobile-web-app-title": "OPB",
+          "keywords": "Religion | World | Asia"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.opb.org/article/2025/07/02/the-dalai-lama-announces-plans-for-a-successor/"
+          },
+          "headline": "The Dalai Lama announces plans for a successor, signaling China won’t have a say",
+          "description": "The Dalai Lama said he will be reincarnated after he dies, and no one can interfere with the matter of succession. The Chinese government, however, claims authority over his succession.",
+          "datePublished": "2025-07-02T18:30:24.236Z",
+          "dateModified": "2025-07-02T18:30:24.422Z",
+          "author": {
+            "@type": "Person",
+            "name": "Omkar Khandekar | Anthony Kuhn"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "OPB",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.opb.org/pf/resources/images/opb/opb-jsonld.png",
+              "width": 182,
+              "height": 60
+            }
+          },
+          "image": [
+            "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/GT2QEGGLPZMBROXQ2AAYKXWEII.jpg?auth=8488567cfa771d0cb10de695779405ca62b53ce933b57e4ad76dda6e3293ccd9&width=1200&height=675&smart=true",
+            "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/GT2QEGGLPZMBROXQ2AAYKXWEII.jpg?auth=8488567cfa771d0cb10de695779405ca62b53ce933b57e4ad76dda6e3293ccd9&width=1440&height=810&smart=true"
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Dalaï-Lama annonce des projets concernant son successeur dans une vidéo préenregistrée diffusée lors d'une conférence religieuse de trois jours à Dharamshala, en India. Il indique que la recherche de son successeur sera menée par The Gaden Phodrang Trust, affirmant que personne d'autre n'a l'autorité d'intervenir, tandis que la Chine revendique l'autorité d'appointer le prochain leader.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dalai Lama",
+          "Lhamo Thondup",
+          "Mao Ning",
+          "13th Dalai Lama"
+        ],
+        "LOCATION": [
+          "China",
+          "Dharamshala",
+          "India",
+          "Lhasa",
+          "Tibet"
+        ],
+        "ORGANIZATION": [
+          "OPB",
+          "The Gaden Phodrang Trust",
+          "China Foreign Ministry",
+          "Tibetan government"
+        ],
+        "DATE": [
+          "2025-07-02",
+          "1959",
+          "1935",
+          "2007"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6580939599490229
+    },
+    {
+      "titre": "Thousands welcome Dalai Lama's arrival in US for knee ...",
+      "source": "Radio Free Asia",
+      "lien": "https://www.rfa.org/english/news/tibet/dalai-lama-us-arrival-06232024153527.html",
+      "image_url": "https://www.rfa.org/resizer/v2/FJ5DOQ3HN5WM3I4JJUSGA3YS3A.jpg?auth=fe8ea46cb52eefc67e5aef4deee8844efb1ebc5878efe47293f959982a5a33f1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXzeyUcUYP8ZRVFD1fGZafpK6zAO_vKH-TIR0bZFtwKBMIMtjg",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Thousands welcome Dalai Lama's arrival in US for knee ...",
+        "link": "https://www.rfa.org/english/news/tibet/dalai-lama-us-arrival-06232024153527.html",
+        "source": "Radio Free Asia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwAxAsAxAwAwwoAwwoAxAoAxAsAxA4AwwoAxAsAxQwAwwoAwwoAwwoAwwsAxAsAwwoAwwq_OnEqAAAAEXRSTlMATCWa5oUWBvc5EMHPrFpt3YstWf8AAADgSURBVDiNhVNbAsMgCPNFfaBtuf9l51ZrFXXNbwIEJUL0sBJSdGRQH94KjiC1oxsmqaEYH_qEjZcrMJV2yXPa-tSW8-5CeKRnOoz2VFNPRktuYIOGzxZO3e9o95N6ONxbhULicLFR2N0NAiJ8Ng1pwjunq1NlJoK8jKwTpjyRDkUAC0FUfyz8UGxucSUom64F8CYoLt87jA9dcFyCoFeC8lL2WPDmvis_f2qqn7GYUf8it-D38kXzm9nFZAi2lx9gOJkou6sMvAdKdvpd7nIyxuTk5N7ZyPSYnKuN8hl9aD4MwifqpcjbhQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXzeyUcUYP8ZRVFD1fGZafpK6zAO_vKH-TIR0bZFtwKBMIMtjg",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.rfa.org/resizer/v2/FJ5DOQ3HN5WM3I4JJUSGA3YS3A.jpg?auth=fe8ea46cb52eefc67e5aef4deee8844efb1ebc5878efe47293f959982a5a33f1",
+        "image_width": 1000,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "Thousands welcome Dalai Lama’s arrival in US for knee surgery – Radio Free Asia\n\nIt’s the 88-year-old leader of Tibetan Buddhism’s first overseas trip since 2018.\n\n\nUPDATED at 6:40 P.M. ET on 06-23-2024\n\nThe Dalai Lama was greeted by a large crowd of chanting and flag-waving Tibetans and other supporters upon his arrival Sunday in the United States for knee surgery.\n\nIt was the first trip to the United States for the 88-year-old Tibetan Buddhist spiritual leader in seven years and his first overseas trip since November 2018, before the coronavirus pandemic. He lives in exile in Dharamsala, northern India.\n\nAfter landing at Teterboro Airport, in New Jersey, he was greeted by people holding traditional khata white scarves, chanting, singing, waving flags and wishing him a quick recovery from the operation on his right knee.\n\n\n“It’s a moment of profound joy and spiritual fulfillment for us,” said Tsering Dickey, who traveled from New York with her family to see him at the airport. “Seeing His Holiness in person after such a long time brings hope and inspiration to our community and we hope and pray that his knee surgery goes well.”\n\nThe Dalai Lama then traveled by car to New York, where thousands of well-wishers awaited him outside the Park Hyatt, lining up along 57th Street in Manhattan, where he will be staying.\n\nNo public talks or engagements are currently planned for his visit.\n\nThe doctor suggested that successful right knee surgery would help his left knee function better as well, and that he may be able to walk properly within three weeks, Sikyong Pempa Tsering, the head of the Central Tibetan Administration, told RFA.\n\nThe Dalai Lama enjoys strong support in the United States, where prominent lawmakers have spoken out about human rights issues in Tibet, though China considers him a separatist and has criticized those who meet with him.\n\nThe well-wishers included Tibetans and people from Himalayan regions, Mongolia, India, Vietnam, Bhutan and Nepal, as well as individuals from across the United States.\n\n“The presence of His Holiness here in the United States is a spiritual boon, as he is visiting after seven years,” said Tashi Kyiloe from New York. “It is a great opportunity for older people like me to receive his blessing.”\n\nThe visit comes after the recent passage of a bill in the U.S. Congress that urges the Chinese government to engage in dialogue with the Dalai Lama or his representatives, or democratically elected Tibetan leaders, to resolve the China-Tibet dispute.\n\nThe Promoting a Resolution to the Tibet-China Dispute Act, also known as the Resolve Tibet Act, calls on China to cease its propagation of disinformation about the history of Tibet, the Tibetan people and the Dalai Lama.\n\nAdditional reporting by Nordhey Dolma, Jolep Chophel, Yeshi Tashi and Tashi Wangchuk for RFA Tibetan. Edited by Malcolm Foster.",
+        "metadata": {
+          "title": "Thousands welcome Dalai Lama’s arrival in US for knee surgery – Radio Free Asia",
+          "description": "It’s the 88-year-old leader of Tibetan Buddhism’s first overseas trip since 2018.",
+          "twitter:description": "It’s the 88-year-old leader of Tibetan Buddhism’s first overseas trip since 2018.",
+          "og:description": "It’s the 88-year-old leader of Tibetan Buddhism’s first overseas trip since 2018.",
+          "og:title": "Thousands welcome Dalai Lama’s arrival in US for knee surgery",
+          "twitter:title": "Thousands welcome Dalai Lama’s arrival in US for knee surgery",
+          "og:image": "https://www.rfa.org/resizer/v2/FJ5DOQ3HN5WM3I4JJUSGA3YS3A.jpg?smart=true&auth=fe8ea46cb52eefc67e5aef4deee8844efb1ebc5878efe47293f959982a5a33f1&width=1200&height=630",
+          "og:image:alt": "The Dalai Lama arrives at his hotel in New York, June 23, 2024.",
+          "og:type": "article",
+          "og:site_name": "Radio Free Asia",
+          "og:url": "https://www.rfa.org/english/news/tibet/dalai-lama-us-arrival-06232024153527.html"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des milliers de personnes accueillent le Dalaï-Lama à son arrivée aux États-Unis pour une chirurgie du genou. C'est son premier voyage à l'étranger depuis novembre 2018. Il est accueilli à l'aéroport de Teterboro dans le New Jersey avant de se rendre à Manhattan à New York.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dalai Lama",
+          "Tsering Dickey",
+          "Pempa Tsering",
+          "Tashi Kyiloe",
+          "Nordhey Dolma",
+          "Jolep Chophel",
+          "Yeshi Tashi",
+          "Tashi Wangchuk",
+          "Malcolm Foster"
+        ],
+        "LOCATION": [
+          "US",
+          "Dharamsala",
+          "India",
+          "Teterboro Airport",
+          "New Jersey",
+          "New York",
+          "Manhattan",
+          "Mongolia",
+          "Vietnam",
+          "Bhutan",
+          "Nepal",
+          "China",
+          "Tibet"
+        ],
+        "ORGANIZATION": [
+          "Radio Free Asia",
+          "Central Tibetan Administration",
+          "U.S. Congress",
+          "RFA Tibetan"
+        ],
+        "DATE": [
+          "06-23-2024",
+          "2018",
+          "November 2018"
+        ],
+        "EVENT": [
+          "coronavirus pandemic"
+        ],
+        "OTHER": [
+          "Resolve Tibet Act"
+        ]
+      },
+      "score_e5": 0.7122950118298603
+    },
+    {
+      "titre": "Over the nearly seven decades since the Dalai Lama led his ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DLCbxiSu4gG/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3657607901175001755",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHYRbQJz1yTiTs0_KzH4mQRQJC8visD9vPjKBY6F0P5xgORUCc",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Over the nearly seven decades since the Dalai Lama led his ...",
+        "link": "https://www.instagram.com/p/DLCbxiSu4gG/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHYRbQJz1yTiTs0_KzH4mQRQJC8visD9vPjKBY6F0P5xgORUCc",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3657607901175001755",
+        "image_width": 1350,
+        "image_height": 1080
+      },
+      "webpage": null,
+      "texte_contexte": "Mention de la période d'environ sept décennies depuis que le Dalaï-Lama a mené ses actions.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dalai Lama"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7213902466133102
+    },
+    {
+      "titre": "Dalai Lama turns 90, gets global support in challenge for China",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/world/china/dalai-lama-turns-90-gets-global-support-challenge-china-rcna217094",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-07/250706-dalai-lama-02-aa-c433f1.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToCXUkiqD4KfYRYSnm2XmH0p53DppJ4dZtarzYH_wizbB4LZQD",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Dalai Lama turns 90, gets global support in challenge for China",
+        "link": "https://www.nbcnews.com/world/china/dalai-lama-turns-90-gets-global-support-challenge-china-rcna217094",
+        "source": "NBC News",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyWp3RniHyHhmsHqTc5zb-2kjWkrLCZsS4XIQDq4LyYjZZFgl28s2SLJv0sjnlurLyd_DkqQ68o0jFa67Yi2vGiBvh9RuoNzUth5Y_SALQ4ivHWHM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToCXUkiqD4KfYRYSnm2XmH0p53DppJ4dZtarzYH_wizbB4LZQD",
+        "thumbnail_width": 173,
+        "thumbnail_height": 291,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-07/250706-dalai-lama-02-aa-c433f1.jpg",
+        "image_width": 894,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "Dalai Lama turns 90, gets global support in challenge for China\n\nThe spiritual leader of Tibetan Buddhists, the Dalai Lama, turned 90 on Sunday after a week of celebrations by followers during which he riled China again and spoke about his hope to live beyond 130 and reincarnate after dying.\n\nThe Nobel laureate is regarded as one of the world’s most influential religious leaders, with a following that extends well beyond Buddhism, but not by Beijing, which calls him a separatist and has sought to bring the faith under its control.\n\nFleeing his native Tibet in 1959 in the wake of a failed uprising against Chinese rule, the 14th Dalai Lama, along with hundreds of thousands of Tibetans, took shelter in India and has since advocated for a peaceful “Middle Way” to seek autonomy and religious freedom for the Tibetan people.\n\nDressed in his traditional yellow and burgundy robe, the Dalai Lama arrived at a temple to smiles and claps from thousands of monks and followers who had gathered on a rainy morning in the small Indian hill town of Dharamshala, where he lives. He waved and greeted them as he walked slowly to the stage with support from monks.\n\n“As far as I am concerned, I have a human life and as humans it is quite natural for us to love and help one another,” the Dalai Lama said, speaking after a Tibetan cultural performance that included songs for his long life.\n\n“I live my life in the service of other sentient beings,” he said, flanked on the stage with long-time supporters including western diplomats, Indian federal ministers, Hollywood star Richard Gere and a monk who is expected to lead the search for his successor.\n\nIn a sign of solidarity, Taiwan’s president Lai Ching-te, leaders of Indian states bordering Tibet, and three former U.S. presidents sent greetings to the Dalai Lama, including Barack Obama, George W. Bush, and Bill Clinton, whose video messages were played during the event.\n\nIn the preceding week of celebrations, the Dalai Lama had said he would reincarnate as the leader of the faith upon his death and that his non-profit institution, the Gaden Phodrang Trust, had the sole authority to recognize his successor.\n\nChina has said that the succession will have to be approved by its leaders, and the United States has called on Beijing to cease what it describes as interference in the succession of the Dalai Lama and other Tibetan Buddhist Lamas.\n\nAfter about two hours, the Dalai Lama left the venue abruptly after eating a piece of his birthday cake. A source earlier said he had not been feeling too well.\n\nGuests gathered at the ceremony took turns to speak, including Indian Parliamentary and Minority Affairs Minister Kiren Rijiju, a practicing Buddhist, who had earlier made a rare statement contradicting China by backing the Dalai Lama’s position on his successor.\n\nHe later clarified that the statement was made in his personal capacity as China warned New Delhi against interfering in its domestic affairs at the expense of bilateral relations.\n\nOn Sunday, Rijiju said the Dalai Lama was India’s “most honored guest. ... We feel blessed for his presence here in our country.”\n\nHe said he has always held the view that there was a need to contribute significantly towards the cause of the Tibetan people, and added that, as a devotee, “We will follow the directions and the guidelines to be issued from the institution of the Dalai Lama.”\n\nCultural performances were held throughout the morning, including from Bollywood playback singers, while messages from global leaders were read out.\n\n“I join 1.4 billion Indians in extending our warmest wishes to His Holiness the Dalai Lama on his 90th birthday. He has been an enduring symbol of love, compassion, patience and moral discipline,” Indian Prime Minister Narendra Modi wrote on X.\n\nU.S. Secretary of State Marco Rubio also sent a message that said the Dalai Lama continued to inspire people by embodying a message of “unity, peace, and compassion.”\n\n“The United States remains firmly committed to promoting respect for the human rights and fundamental freedoms of Tibetans. We support efforts to preserve Tibetans’ distinct linguistic, cultural, and religious heritage, including their ability to freely choose and venerate religious leaders without interference,” he said, according to a State Department readout.",
+        "metadata": {
+          "title": "Live",
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "Reuters",
+          "description": "The spiritual leader of Tibetan Buddhists, the Dalai Lama, turned 90 on Sunday after a week of celebrations by followers during which he riled China again and spoke about his hope to live beyond 130 and reincarnate after dying",
+          "og:url": "https://www.nbcnews.com/world/china/dalai-lama-turns-90-gets-global-support-challenge-china-rcna217094",
+          "og:title": "Dalai Lama turns 90, gets global support in challenge for China",
+          "og:description": "The Nobel laureate is regarded as one of the world’s most influential religious leaders, with a following that extends well beyond Buddhism, but Beijing calls him a separatist.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250706-dalai-lama-02-aa-c433f1.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250706-dalai-lama-02-aa-c433f1.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Dalai Lama turns 90, gets global support in challenge for China",
+          "branch:deeplink:description": "The Nobel laureate is regarded as one of the world’s most influential religious leaders, with a following that extends well beyond Buddhism, but Beijing calls him a separatist.",
+          "twitter:title": "Dalai Lama turns 90, gets global support in challenge for China",
+          "twitter:description": "The Nobel laureate is regarded as one of the world’s most influential religious leaders, with a following that extends well beyond Buddhism, but Beijing calls him a separatist.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2025-07-06T08:00:05.933Z",
+          "article:modified_time": "2025-07-06T23:42:12.536Z",
+          "branch:deeplink:authorThumbnail1": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2024_21/3649017/reuters-live-blog-byline-image_1.png",
+          "branch:deeplink:authorName1": "Reuters"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Dalai Lama turns 90, gets global support in challenge for China",
+          "url": "https://www.nbcnews.com/world/china/dalai-lama-turns-90-gets-global-support-challenge-china-rcna217094",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2025-07/250706-dalai-lama-02-aa-c433f1.jpg",
+          "alternativeHeadline": "Dalai Lama turns 90, gets global support in challenge for China",
+          "articleBody": "The spiritual leader of Tibetan Buddhists, the Dalai Lama, turned 90 on Sunday after a week of celebrations by followers during which he riled China again and spoke about his hope to live beyond 130 and reincarnate after dying. The Nobel laureate is regarded as one of the world’s most influential religious leaders, with a following that extends well beyond Buddhism, but not by Beijing, which calls him a separatist and has sought to bring the faith under its control. Fleeing his native Tibet in 1959 in the wake of a failed uprising against Chinese rule, the 14th Dalai Lama, along with hundreds of thousands of Tibetans, took shelter in India and has since advocated for a peaceful “Middle Way” to seek autonomy and religious freedom for the Tibetan people. Dressed in his traditional yellow and burgundy robe, the Dalai Lama arrived at a temple to smiles and claps from thousands of monks and followers who had gathered on a rainy morning in the small Indian hill town of Dharamshala, where he lives. He waved and greeted them as he walked slowly to the stage with support from monks. “As far as I am concerned, I have a human life and as humans it is quite natural for us to love and help one another,” the Dalai Lama said, speaking after a Tibetan cultural performance that included songs for his long life. “I live my life in the service of other sentient beings,” he said, flanked on the stage with long-time supporters including western diplomats, Indian federal ministers, Hollywood star Richard Gere and a monk who is expected to lead the search for his successor. In a sign of solidarity, Taiwan’s president Lai Ching-te, leaders of Indian states bordering Tibet, and three former U.S. presidents sent greetings to the Dalai Lama, including Barack Obama, George W. Bush, and Bill Clinton, whose video messages were played during the event. In the preceding week of celebrations, the Dalai Lama had said he would reincarnate as the leader of the faith upon his death and that his non-profit institution, the Gaden Phodrang Trust, had the sole authority to recognize his successor. China has said that the succession will have to be approved by its leaders, and the United States has called on Beijing to cease what it describes as interference in the succession of the Dalai Lama and other Tibetan Buddhist Lamas. After about two hours, the Dalai Lama left the venue abruptly after eating a piece of his birthday cake. A source earlier said he had not been feeling too well. Guests gathered at the ceremony took turns to speak, including Indian Parliamentary and Minority Affairs Minister Kiren Rijiju, a practicing Buddhist, who had earlier made a rare statement contradicting China by backing the Dalai Lama’s position on his successor. He later clarified that the statement was made in his personal capacity as China warned New Delhi against interfering in its domestic affairs at the expense of bilateral relations. On Sunday, Rijiju said the Dalai Lama was India’s “most honored guest. ... We feel blessed for his presence here in our country.” He said he has always held the view that there was a need to contribute significantly towards the cause of the Tibetan people, and added that, as a devotee, “We will follow the directions and the guidelines to be issued from the institution of the Dalai Lama.” Cultural performances were held throughout the morning, including from Bollywood playback singers, while messages from global leaders were read out. “I join 1.4 billion Indians in extending our warmest wishes to His Holiness the Dalai Lama on his 90th birthday. He has been an enduring symbol of love, compassion, patience and moral discipline,” Indian Prime Minister Narendra Modi wrote on X. U.S. Secretary of State Marco Rubio also sent a message that said the Dalai Lama continued to inspire people by embodying a message of “unity, peace, and compassion.” “The United States remains firmly committed to promoting respect for the human rights and fundamental freedoms of Tibetans. We support efforts to preserve Tibetans’ distinct linguistic, cultural, and religious heritage, including their ability to freely choose and venerate religious leaders without interference,” he said, according to a State Department readout.",
+          "dateModified": "2025-07-06T08:00:05.933Z",
+          "datePublished": "2025-07-06T08:00:05.933Z",
+          "articleSection": "world",
+          "articleId": "rcna217094",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "rcna217094"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-07/250706-dalai-lama-02-aa-c433f1.jpg",
+            "caption": "The 14th Dalai Lama performs prayers to celebrate his 90th birthday at Tsuglagkhang, the Dalai Lama Temple in Dharamsala, India. ",
+            "height": 2085,
+            "width": 3500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Reuters",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2024_21/3649017/reuters-live-blog-byline-image_1.png",
+              "jobTitle": null,
+              "description": "Reuters"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "The spiritual leader of Tibetan Buddhists, the Dalai Lama, turned 90 on Sunday after a week of celebrations by followers during which he riled China again and spoke about his hope to live beyond 130 and reincarnate after dying",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/world/china/dalai-lama-turns-90-gets-global-support-challenge-china-rcna217094"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Dalaï-Lama célèbre ses 90 ans à Dharamshala en Inde, soutenu par des fidèles, des diplomates occidentaux, des ministres fédéraux indiens et Richard Gere. Des messages de félicitations sont envoyés par le président taïwanais Lai Ching-te et d'anciens présidents américains.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dalai Lama",
+          "Richard Gere",
+          "Lai Ching-te",
+          "Barack Obama",
+          "George W. Bush",
+          "Bill Clinton",
+          "Kiren Rijiju"
+        ],
+        "LOCATION": [
+          "China",
+          "Tibet",
+          "India",
+          "Dharamshala",
+          "Taiwan",
+          "New Delhi",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Gaden Phodrang Trust"
+        ],
+        "DATE": [
+          "Sunday",
+          "1959"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6668769396712299
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Hamburg",
+      "Germany"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "refugee child",
+      "main railway station"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Dalai Lama",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024-06-23",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lhamo Thondup",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mao Ning",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "13th Dalai Lama",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dharamshala",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lhasa",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tibet",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "OPB",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Gaden Phodrang Trust",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "China Foreign Ministry",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tibetan government",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025-07-02",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1959",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1935",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tsering Dickey",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pempa Tsering",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tashi Kyiloe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nordhey Dolma",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jolep Chophel",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Yeshi Tashi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tashi Wangchuk",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Malcolm Foster",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Teterboro Airport",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Jersey",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Manhattan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mongolia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vietnam",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bhutan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nepal",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Radio Free Asia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Central Tibetan Administration",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Congress",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "RFA Tibetan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "06-23-2024",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 2018",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "coronavirus pandemic",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Resolve Tibet Act",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Richard Gere",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lai Ching-te",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "George W. Bush",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bill Clinton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kiren Rijiju",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Taiwan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Delhi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T12:37:00.177730"
+  }
+}

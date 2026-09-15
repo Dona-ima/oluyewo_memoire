@@ -1,0 +1,591 @@
+{
+  "id_rumeur": 1457187,
+  "id_image": 1457187,
+  "caption": "The DUP wants a referendum on the UK s EU membership",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756546/oluyewo_benchmark/ktnpqifch4q9uz4dekje.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "EU referendum: What would a Brexit mean for NI economy ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-northern-ireland-36305016",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/179C7/production/_89711769_euflag.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9AZUTMCkBaityL8TYw8JWf2xSwN3MzZMUXemxQG-m--ByAk1g",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "EU referendum: What would a Brexit mean for NI economy ...",
+        "link": "https://www.bbc.com/news/uk-northern-ireland-36305016",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9AZUTMCkBaityL8TYw8JWf2xSwN3MzZMUXemxQG-m--ByAk1g",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/179C7/production/_89711769_euflag.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "EU referendum: What would a Brexit mean for NI economy?\n\nThis study, external does not attempt to quantify longer-term impacts, saying they will be decided by political factors that economic modelling cannot predict.\n\nBut it does assess that a UK decision to leave the EU would cause short-term disruption to trade.\n\nIt also echoes Oxford Economics by saying that the structure of the Northern Ireland economy means it faces a \"disproportionate risk\" from a Brexit.\n\nUsing official data, it shows the EU is a more important export market for Northern Ireland than it is for the rest of the UK.\n\nFood, beverages and agricultural products make up 35% of Northern Ireland's exports to the EU, while for the rest of the UK the sector makes up only 10%.\n\nNeri says food is a sector that \"could be more vulnerable to trade barriers\", particularly around the issue of product standards.\n\nThe report also points to the importance of cross-border trade for the Northern Ireland retail sector and cautions that a disruption to this trade \"may cause significant uncertainty and possible job losses\".",
+        "metadata": {
+          "description": "What impact do economic studies suggest the UK leaving the EU would have on Northern Ireland's economy?",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "What impact do economic studies suggest the UK leaving the EU would have on Northern Ireland's economy?",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1E1F/production/_89711770_euflag.jpg",
+          "og:image:alt": "An EU flag",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "EU referendum: What would a Brexit mean for NI economy?",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-northern-ireland-36305016",
+          "article:section": "Northern Ireland",
+          "twitter:description": "What impact do economic studies suggest the UK leaving the EU would have on Northern Ireland's economy?",
+          "twitter:title": "EU referendum: What would a Brexit mean for NI economy?"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-northern-ireland-36305016",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-05-17T05:23:56.000Z",
+          "dateModified": "2016-05-17T05:23:56.000Z",
+          "description": "What impact do economic studies suggest the UK leaving the EU would have on Northern Ireland's economy?",
+          "headline": "EU referendum: What would a Brexit mean for NI economy?",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1E1F/production/_89711770_euflag.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1E1F/production/_89711770_euflag.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-northern-ireland-36305016",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "John Campbell"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un article de la BBC analyse l'impact potentiel du Brexit sur l'économie de l'Irlande du Nord. Une étude indique qu'une décision du Royaume-Uni de quitter l'UE provoquerait des perturbations à court terme dans le commerce, soulignant que l'économie nord-irlandaise fait face à un risque disproportionné. L'UE représente un marché d'exportation plus important pour l'Irlande du Nord que pour le reste du Royaume-Uni, notamment pour l'alimentation, les boissons et les produits agricoles. Le rapport met également en garde contre les incertitudes et les pertes d'emplois potentielles liées à la perturbation du commerce transfrontalier pour le secteur de la vente au détail.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Northern Ireland",
+          "United Kingdom",
+          "EU"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Oxford Economics",
+          "Neri"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Brexit",
+          "EU referendum"
+        ],
+        "OTHER": [
+          "Food",
+          "beverages",
+          "agricultural products"
+        ]
+      },
+      "score_e5": 0.7466583334731797
+    },
+    {
+      "titre": "🇪🇺 Forged by war, the European Union flag turns 70 today ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DSDfbjeDZ5Q/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3784006344874237520",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVDCNl7N2FzR58X6dzYVmx_cQJmIeUT-baBwAaib_gGJZGaO3v",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "🇪🇺 Forged by war, the European Union flag turns 70 today ...",
+        "link": "https://www.instagram.com/p/DSDfbjeDZ5Q/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8f000350d43eac59aafed3/images/Z-vWRuV4yqBsOwkPtDktEQwwlS4js2-gFLVVNeeESXU.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVDCNl7N2FzR58X6dzYVmx_cQJmIeUT-baBwAaib_gGJZGaO3v",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3784006344874237520",
+        "image_width": 489,
+        "image_height": 870
+      },
+      "webpage": null,
+      "texte_contexte": "Une publication sur Instagram indique que le drapeau de l'Union européenne fête ses 70 ans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram",
+          "European Union"
+        ],
+        "DATE": [
+          "70 years"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "European Union flag"
+        ]
+      },
+      "score_e5": 0.7630372510864182
+    },
+    {
+      "titre": "Strategic Autonomy, Anyone?” Charting Europe's Shifting ...",
+      "source": "Institute for Security & Development Policy",
+      "lien": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/",
+      "image_url": "https://www.isdp.eu/wp-content/uploads/2020/03/EU-flag-cover.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjWzkai_Rdyt3PBeEWj9zK0v_wxXY5aSkvH7oQgLx3xFNp9Xkz",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Strategic Autonomy, Anyone?” Charting Europe's Shifting ...",
+        "link": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/",
+        "source": "Institute for Security & Development Policy",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTsM0AYXBcC1VwdYPvV0Qhmtbb5cNwovlajJeVzXc7pM3Pb8JUc7HW7S9HCcPlTIN1ghWMjPNjgtclzd0jYLjpMNHziX31z8K_707W-3UH9uA",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjWzkai_Rdyt3PBeEWj9zK0v_wxXY5aSkvH7oQgLx3xFNp9Xkz",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.isdp.eu/wp-content/uploads/2020/03/EU-flag-cover.jpg",
+        "image_width": 405,
+        "image_height": 720
+      },
+      "webpage": {
+        "text": "“Strategic Autonomy, Anyone?” Charting Europe’s Shifting Security Debates and 2024-2029 Priorities\n\nExecutive Summary\n\n * Policymakers are preparing for the 2024-2029 EU legislative period in a dramatically changing geopolitical landscape. With escalating wars and humanitarian crises on its borders, shifting trade dynamics, deindustrialization threats, and a more confrontational U.S. administration, the EU faces pressing challenges that raise fundamental questions about its identity and future. In this context, the debate on Strategic Autonomy is resurfacing as a key issue, with a focus on how EU member-states can unite to address these challenges.\n * This Special Paper explores the evolution of the Strategic Autonomy concept—from its early development (2013-2016) and politicization (2017-2019) to its expanded interpretations and shifting engagement (2020-2024). By synthesizing these insights, it identifies key challenges and opportunities for the EU’s 2024-2029 legislative period, offering recommendations for policymakers seeking to engage constructively in future Strategic Autonomy discussions.\n * Originally an uncontroversial term originating in the post-Cold War drive for greater EU defense capabilities and greater autonomy addressing security hotspots in Europe’s near-abroad, Strategic Autonomy has undergone significant change and contestation.\n * The early Strategic Autonomy debates, starting in 2013, can be understood as a convergence of several immediate priorities: addressing transnational defense industry needs, easing tensions in transatlantic relations, and presenting a more pragmatic EU-centered foreign policy agenda.\n * By the late 2010s, the concept of Strategic Autonomy expanded to encompass not only the pursuit of greater defense capabilities but also, more actively and controversially, autonomy from external actors. While a lowest-common-denominator approach emerged, and defense initiatives proliferated, the concept was fraught with concerns that it could catalyze other outcomes, such as U.S. disengagement, defense federalism, anti-integration backlash, or an undesirable strategic shift.\n * Amid the multi-pronged crises of the early 2020s, the Strategic Autonomy concept evolved. No longer solely focused on developing autonomous capabilities for the distant future, it increasingly emphasized internal resilience and navigating global tensions, such as U.S.-China competition and rising unilateralism. A slogan for a more assertive EU, it quickly expanded into broader policy areas, while its original, more contentious defense policy focus receded.\n * In the realm of trade, the Strategic Autonomy concept was repurposed as Open Strategic Autonomy, aiming to balance the EU’s competing economies priorities, including industrial policy, free trade, and supply chain security. This broader application of the concept marks a shift for many previously reticent member-states. An increasing number of governments now seek to actively shape Strategic Autonomy discussions to their own preferences, rather than merely resist undesirable developments.\n * In defense affairs, the concept has been largely sidelined, especially after the U.S. Biden administration’s rise to power. The collective response to Russia’s invasion of Ukraine has highlighted both successes and limitations of the EU’s defense integration, as well as exposed internal divisions.\n * These disagreements underscore the EU’s challenges in operationalizing the Common Foreign and Security Policy (CFSP). However, proponents and sceptics of Strategic Autonomy increasingly agree that EU defense projects do not inherently undermine NATO.\n * Discussions on Strategic Autonomy have regained momentum in 2025, fueled by the second Trump administration’s markedly more adversarial approach towards the EU. EU institutions and member-states are once again compelled to confront these difficult questions, as European voters have grown more supportive of a more autonomous EU in international affairs compared to the previous decade.\n * Recognizing the political and institutional constraints of coordinating 27 member-states, this paper offers the following recommendations:\n    Member-states should reassess whether avoiding the divisive question of autonomy still serves their interests as they transition to the 2024-2029 EU legislative period, particularly given the increasingly antagonistic transatlantic relationship. Without meaningful progress in narrowing the collective divergence in strategic frameworks, claims about the EU’s supposed geopolitical nature or emerging assertiveness will ring hollow.\n    Member-states should continue to prioritize internal coalition building and strategic deliberation to define clearer visions and redlines, while resisting external efforts to bilateralize or marginalize EU relations. More than capability gaps, it is increasingly political choices—particularly around prioritizing, financing, and activating\n   initiatives—that lie at the center of the EU’s core challenges.\n    Member-states should recognize the complex trade-offs inherent within various Strategic Autonomy agendas, such as the balance between protectionism and trade diversification, industrial policy and fairness, and self-sufficiency versus interdependence. While they are not binary choices, pursuing one often involves compromising the other.\n    Member-states need to determine an appropriate level of ambition and urgency for EU-linked defense ambitions. If, as in 2020, Europe’s security problem and autonomy aspirations are deemed insurmountable without the U.S., this perception could again undermine serious efforts to act, even as the risk of shifting U.S. commitments looms large. Conversely, downplaying the security problem could hinder the collective resolve needed to break from the status quo, while an approach solely centered on appeasing the Trump administration would yield only fleeting accomplishments.\n * After recent years’ preoccupation with Europe’s internal challenges, EU institutions should scale up their diplomatic and economic engagement with external partners. The EU cannot afford to turn its back on the world, as several strategic agendas can only be achieved in collaboration with others. In this context, the Commission’s reported plans to significantly reduce the size of EEAS delegations due to budgetary constraints are particularly concerning.\n\nThis site uses cookies to improve your user experience. You accept the use of cookies as per our Cookie Policy and Privacy Policy by closing or dismissing this notice, by scrolling this page, by clicking a link or button or by continuing to browse otherwise\nAcceptLearn More\n\nPrivacy & Cookie Policy",
+        "metadata": {
+          "title": "“Strategic Autonomy, Anyone?” Charting Europe’s Shifting Security Debates and 2024-2029 Priorities - Institute for Security and Development Policy",
+          "description": "This special paper identifies key challenges and opportunities for the EU’s 2024-2029 legislative period, offering recommendations.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "“Strategic Autonomy, Anyone?” Charting Europe’s Shifting Security Debates and 2024-2029 Priorities - Institute for Security and Development Policy",
+          "og:description": "This special paper identifies key challenges and opportunities for the EU’s 2024-2029 legislative period, offering recommendations.",
+          "og:url": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/",
+          "og:site_name": "Institute for Security and Development Policy",
+          "article:publisher": "https://www.facebook.com/ISDPSweden",
+          "article:modified_time": "2025-12-10T08:59:51+00:00",
+          "og:image": "https://www.isdp.eu/wp-content/uploads/2020/03/EU-flag-cover.jpg",
+          "og:image:width": "720",
+          "og:image:height": "405",
+          "og:image:type": "image/jpeg"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/",
+              "url": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/",
+              "name": "“Strategic Autonomy, Anyone?” Charting Europe’s Shifting Security Debates and 2024-2029 Priorities - Institute for Security and Development Policy",
+              "isPartOf": {
+                "@id": "https://www.isdp.eu/#website"
+              },
+              "datePublished": "2025-03-27T10:22:21+00:00",
+              "dateModified": "2025-12-10T08:59:51+00:00",
+              "description": "This special paper identifies key challenges and opportunities for the EU’s 2024-2029 legislative period, offering recommendations.",
+              "breadcrumb": {
+                "@id": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.isdp.eu/publication/strategic-autonomy-anyone-charting-europes-shifting-security-debates-and-2024-2029-priorities/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.isdp.eu/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Publications",
+                  "item": "https://www.isdp.eu/publication/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "“Strategic Autonomy, Anyone?” Charting Europe’s Shifting Security Debates and 2024-2029 Priorities"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.isdp.eu/#website",
+              "url": "https://www.isdp.eu/",
+              "name": "Institute for Security and Development Policy",
+              "description": "ISDP is a Stockholm-based non-profit and non-partisan research and policy organization, dedicated to expanding understanding of international affairs",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.isdp.eu/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un document de l'Institute for Security & Development Policy examine le concept d'autonomie stratégique de l'Europe, les priorités législatives de l'UE pour 2024-2029, et l'évolution des débats sur la sécurité face aux crises géopolitiques, aux tensions commerciales, aux menaces de désindustrialisation et à une administration américaine plus conflictuelle. Le document retrace l'évolution de l'autonomie stratégique depuis ses débuts entre 2013 et 2016 jusqu'à la période 2020-2024, abordant également le commerce et l'autonomie stratégique ouverte.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Europe",
+          "U.S."
+        ],
+        "ORGANIZATION": [
+          "Institute for Security & Development Policy",
+          "EU"
+        ],
+        "DATE": [
+          "2024-2029",
+          "2013-2016",
+          "2017-2019",
+          "2020-2024",
+          "post-Cold War"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Strategic Autonomy",
+          "Open Strategic Autonomy"
+        ]
+      },
+      "score_e5": 0.7211848050591373
+    },
+    {
+      "titre": "Tensions rise between E.U. regulators and U.S. tech giants",
+      "source": "Axios",
+      "lien": "https://www.axios.com/2017/12/15/tensions-rise-between-eu-regulators-and-us-tech-giants-1513303240",
+      "image_url": "https://images.axios.com/t2_-i5O5p_0wYcHWSW0hlqBIj0w=/1600x1200/smart/2017/12/15/1513303240621.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr2b8OlBn5m9cNAH2iuAX0ZDDWYRpoSqsYS3mJ54wchM8-AZJu",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Tensions rise between E.U. regulators and U.S. tech giants",
+        "link": "https://www.axios.com/2017/12/15/tensions-rise-between-eu-regulators-and-us-tech-giants-1513303240",
+        "source": "Axios",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTufId4PaR1SZCwTQv6K7lqoQMeNO0hbjTu9VoMW647ZMX4wBaGcgMD9Pr2Z0ClkFP5LY-BzR87929gUDB-bTKxzaiuERPfvDUtrtzKxzpBQHPk",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr2b8OlBn5m9cNAH2iuAX0ZDDWYRpoSqsYS3mJ54wchM8-AZJu",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://images.axios.com/t2_-i5O5p_0wYcHWSW0hlqBIj0w=/1600x1200/smart/2017/12/15/1513303240621.jpg",
+        "image_width": 1200,
+        "image_height": 1600
+      },
+      "webpage": null,
+      "texte_contexte": "Un article d'Axios aborde la montée des tensions entre les régulateurs de l'Union européenne et les géants technologiques américains.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "U.S.",
+          "E.U."
+        ],
+        "ORGANIZATION": [
+          "Axios"
+        ],
+        "DATE": [
+          "2017/12/15"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7569626592982672
+    },
+    {
+      "titre": "EU regulators hit US wall in quest for private credit data ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/legal/government/eu-regulators-hit-us-wall-quest-private-credit-data-2026-07-10/",
+      "image_url": "https://www.reuters.com/resizer/v2/CBEKPN7K7VPERHGT5BX3CQHA4M.jpg?auth=2c5610a0bf591acff7861a8abb3fc0d068c17884df01d41448c0c5aa9f7e8b0d",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIS8xfO2cpvWipBG1aoh0JQo8-Pcvf_npTdCukEpuRnTTMH0lV",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "EU regulators hit US wall in quest for private credit data ...",
+        "link": "https://www.reuters.com/legal/government/eu-regulators-hit-us-wall-quest-private-credit-data-2026-07-10/",
+        "source": "Reuters",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTNHh6oiaXzUIwxZSM0gUOrc7N7g2N8RKkqbWOzXvOso5vcZ8DTO8KL450TYRQU_6wWHhohpQncTnHivZOyNKNUZXHsNglCx-gji29ZNZahhZ4HRxc",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIS8xfO2cpvWipBG1aoh0JQo8-Pcvf_npTdCukEpuRnTTMH0lV",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://www.reuters.com/resizer/v2/CBEKPN7K7VPERHGT5BX3CQHA4M.jpg?auth=2c5610a0bf591acff7861a8abb3fc0d068c17884df01d41448c0c5aa9f7e8b0d",
+        "image_width": 3007,
+        "image_height": 4812
+      },
+      "webpage": null,
+      "texte_contexte": "Un article de Reuters rapporte que les régulateurs de l'UE se heurtent à un obstacle américain dans leur quête de données sur le crédit privé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "US",
+          "EU"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [
+          "2026-07-10"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7609002793244308
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "UK"
+    ],
+    "ORGANIZATION": [
+      "DUP"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "EU"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Northern Ireland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "European Union",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Oxford Economics",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Neri",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Brexit",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "EU referendum",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Food",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "beverages",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "agricultural products",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "70 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "European Union flag",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Institute for Security & Development Policy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024-2029",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013-2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017-2019",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020-2024",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "post-Cold War",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Strategic Autonomy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Open Strategic Autonomy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Axios",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017/12/15",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026-07-10",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T15:20:49.994519"
+  }
+}

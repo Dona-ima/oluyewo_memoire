@@ -1,0 +1,834 @@
+{
+  "id_rumeur": 381264,
+  "id_image": 381264,
+  "caption": "Apple ad for new iPhone 7",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748054/oluyewo_benchmark/gtywu83byjgreupbgudg.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Apple - Introducing iPhone 7 (Official Trailer, 2017) - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=9ONRyjkjcuY",
+      "image_url": "https://i.ytimg.com/vi/9ONRyjkjcuY/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtF7Y4fsCF207bqqs5wA_bDTg_GaCCwV6F3Gq2OCTDYI15DkUi",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Apple - Introducing iPhone 7 (Official Trailer, 2017) - YouTube",
+        "link": "https://www.youtube.com/watch?v=9ONRyjkjcuY",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtF7Y4fsCF207bqqs5wA_bDTg_GaCCwV6F3Gq2OCTDYI15DkUi",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/9ONRyjkjcuY/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Apple - Introducing iPhone 7 (Official Trailer, 2017)\n\nMarketing The Rainbow\n\nThe official video for the introduction of the Apple iPhone 7 and 7 PLUS included a few scenes with a gay couple.Read my article about Apple for Marketing th...",
+        "metadata": {
+          "title": "Apple - Introducing iPhone 7 (Official Trailer, 2017)",
+          "description": "The official video for the introduction of the Apple iPhone 7 and 7 PLUS included a few scenes with a gay couple.Read my article about Apple for Marketing th...",
+          "keywords": "LGBT, GLBT, Marketing the Rainbow, Gay commercial, Lesbian commercial",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=9ONRyjkjcuY",
+          "og:title": "Apple - Introducing iPhone 7 (Official Trailer, 2017)",
+          "og:image": "https://i.ytimg.com/vi/9ONRyjkjcuY/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "The official video for the introduction of the Apple iPhone 7 and 7 PLUS included a few scenes with a gay couple.Read my article about Apple for Marketing th...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=9ONRyjkjcuY&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=9ONRyjkjcuY&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=9ONRyjkjcuY&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/9ONRyjkjcuY",
+          "og:video:secure_url": "https://www.youtube.com/embed/9ONRyjkjcuY",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "Lesbian commercial",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Apple - Introducing iPhone 7 (Official Trailer, 2017)",
+          "twitter:description": "The official video for the introduction of the Apple iPhone 7 and 7 PLUS included a few scenes with a gay couple.Read my article about Apple for Marketing th..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vidéo officielle de présentation (trailer) de l'Apple iPhone 7 et 7 Plus sortie en 2017, incluant des scènes avec un couple gay.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Apple",
+          "YouTube"
+        ],
+        "DATE": [
+          "2017"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPhone 7",
+          "iPhone 7 Plus"
+        ]
+      },
+      "score_e5": 0.8346131055306678
+    },
+    {
+      "titre": "Apple includes gay couple in iPhone 7 ad",
+      "source": "Washington Blade",
+      "lien": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/",
+      "image_url": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAZCwcSwrgbv625DFP8DxyNEkUhu05-VtKB-Er2MIawJGmPwi8",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Apple includes gay couple in iPhone 7 ad",
+        "link": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/",
+        "source": "Washington Blade",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAPFBMVEUAAAD___8BAQFERER3d3f-_v4RERG7u7vMzMxmZmbu7u5VVVUzMzNCQkJGRkaHh4ciIiKqqqqYmJjd3d2lEGp9AAAAe0lEQVQYlUWOixKFIAgFOSSiVnYf__-vgVgyjsoOCxDoUK3kwXZg7wakyCgiwMr5nGAipi5IvAi_yut0AzmpXp9V8W2AQGoUGQCKFru3YTqwzbgCGj0Ev_FRID-LDTeJO3Oskws4pvK3Us4NjZ-mZe-7jfFecMVHOs6EGyMgAoq28WsrAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAZCwcSwrgbv625DFP8DxyNEkUhu05-VtKB-Er2MIawJGmPwi8",
+        "thumbnail_width": 227,
+        "thumbnail_height": 222,
+        "image": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+        "image_width": 470,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Apple includes gay couple in iPhone 7 ad\n\nThe world knows Eric Anderson as Billy Porter’s partner. In Rehoboth Beach, Del., he has a life — and a story — entirely his own.\n\nMy first time with Eric Anderson was hot — very hot. Before he arrived, I sat waiting, overthinking everything. When he finally appeared in a loose-fitting T-shirt and purple shorts, I understood why he attracts attention. Eric is the kind of man who changes the energy of a room simply by entering it.\n\nAfter a quick hello, we got right to it. Techno pulsed through the room as Eric told me how to move, where to place my hands, when to breathe. My heart pounded. My muscles ached. I bent, twisted, and stretched while sweat ran down my back and burned my eyes. I didn’t bother wiping it away.\n\nTo be clear, Eric and I were not alone. Five other people were with us — and the yoga studio at SoulFire Collective in Rehoboth Beach was heated to 87 degrees.\n\n“If you are always racing toward the next moment, what happens to the one you’re in?” Eric asked, opening his power yoga class and inviting us to leave whatever had followed us through the door and surrender to the present. Surrender did not come easily. At 58, I’ve done enough yoga to know the difference between discomfort and imminent death. Halfway through Eric’s relentless flow, the distinction began to blur.\n\nA playlist of techno and remixed pop — including “Live Like You Were Dying” — carried us from one demanding pose to the next. Eric moved among the mats with the energy of a nightclub DJ and the calm of someone who trusted our bodies to go further than our minds believed possible. Nearly an hour later, when the music softened and I collapsed onto my back in savasana, he laid a cool cloth across my forehead. I exhaled — relieved, and maybe a little disappointed, that my first time with Eric was over.\n\nAt the end of my mat, a handwritten note congratulated me on my first class and invited me back — a small benediction after the storm. Then Eric closed the class by repeating the question with which he’d opened. For a man whose relationship with actor and singer Billy Porter has drawn him unexpectedly into the public eye, it sounded less like a yoga mantra than a personal creed.\n\nThe next time I meet Eric, there is air conditioning and caffeine. We are at Starbucks, where I deliberately order the largest drinks available, as though volume alone might buy me more time. He chooses a matcha, and I order herbal tea. My heart is pounding again, faster than the soft rock drifting from the speakers above us. Although I’ve already spent more than an hour with Eric, I know almost nothing about the man I’m about to interview.\n\nNeither, it seems, does anyone else.\n\nCelebrity outlets offer a handful of biographical details: a Rehoboth Beach teacher and yoga instructor with a master’s degree from Columbia University. Gay publications have been less restrained. One introduced him as Billy Porter’s “total hot stud,” called him “a snacc,” and praised his ability to “rock a Speedo.” Queerty distilled Eric’s identity to five words: “Porter is dating a teacher.”\n\nAll of it tells me how the world sees him. None of it tells me who he is.\n\nI know from our text exchanges that Eric is slammed for time. He is scheduled to travel to New York later that day and fly to WorldPride Amsterdam the following afternoon. Billy is among the headliners for the opening-night Unity Concert and is also slated to perform at the Wedding Party XXL alongside KI/KI, Bimini, and the Vengaboys. Eric still has to pack. This, I’m beginning to understand, is part of loving someone famous: there is almost always an itinerary, another city, and a specific time and place Billy needs to be. Even here, with two untouched drinks between us, the clock is ticking.\n\n\nAs soon as we sit down, I open my laptop, ready to get to work. My mind is focused on the list of questions I’ve prepared, and I’ve already anticipated the shape of most of his responses. Then I look up and see Eric sitting perfectly still, smiling, and taking in the moment. He hasn’t even taken a sip of his matcha yet.\n\nI quietly close my laptop and breathe.\n\nWithin minutes, the interview softens into a conversation.\n\nEric earned a bachelor’s degree in history from the University of Delaware and a master’s in public school leadership from Teachers College, Columbia University. He began his career teaching mathematics before moving into school administration, eventually serving as vice president of the Charter School of Wilmington and head of school at Sussex Academy. Today, he teaches mathematics and social studies in the Cape Henlopen School District. He also coaches soccer and leads yoga classes at SoulFire Collective in Rehoboth Beach.\n\nHis return to the classroom was deliberate. Eric knows some people assumed there must be a story behind his leaving administration—that he had done something wrong or that teaching represented a demotion.\n\n“I want to make it clear that I went back to teaching by choice,” he says.\n\nAs a child, Eric played school. Teaching has always felt natural to him, less like an occupation than an expression of who he is. Administration was different.\n\n“It felt like work,” he says. “It wasn’t where my passion was, and it didn’t bring me joy. Going back into the classroom was simply me choosing joy.”\n\nThe more Eric talks, the clearer it becomes that teaching is not merely a job but a vocation. His mother is white and his father is Black, and growing up biracial was not always easy. “I saw the best and the worst of both,” he tells me. Those experiences helped shape his desire to become a teacher — to be the kind of person who could make a meaningful difference in a young person’s life.\n\nJust then, Eric glances over his shoulder and locks eyes with someone across the room. He waves and flashes what is quickly becoming his signature smile. My first thought is that someone has recognized him as Billy Porter’s partner.\n\nI’m wrong. It’s one of his former students.\n\nInevitably, our conversation turns to love — and to Billy. I’ve made it clear that I’m here to write about Eric, not Billy Porter. But separating the two entirely would be as artificial as defining Eric only by their relationship. Billy is now an essential part of his story.\n\nEric met Billy at a Christmas party hosted by mutual friends who had been trying to introduce them all night. It wasn’t easy — the party was crowded, and the two men never quite crossed paths. Eric stayed for the afterparty, where a friend nudged him and nodded toward the room: Billy was looking his way. Romance never crossed his mind.\n\nEventually, they started talking. Eric has never had much patience for small talk, and he wasn’t interested in cataloging which celebrities Billy knew. He skipped it entirely and went straight for the deeper questions — what Billy believed, how he saw the world, what mattered to him. They ended up at the kitchen table, trading life philosophies until 5 a.m.\n\nWhat struck Eric most wasn’t the conversation’s length. It was its depth. Billy wasn’t who he expected. Neither was the conversation. By the time the sun was coming up, Eric was less surprised that they’d talked all night than by how much, it turned out, they had in common.\n\nThey had dinner the following evening, and Billy invited Eric to spend the weekend with him in New York. There, Billy took him to see Nicole Scherzinger in “Sunset Boulevard.” Right before the show started, he casually introduced Eric to a friend named Katy. Back in their seats, Eric asked how Billy knew her.\n\n“BITCH,” Billy replied, “that is Miss K-A-T-Y P-E-R-R-Y!”\n\nFor all the glamour surrounding their courtship, Eric describes the foundation of their relationship in decidedly spiritual terms. His favorite book is don Miguel Ruiz’s The Mastery of Love, which explores how fear, expectation, and the need for approval can distort relationships. Its philosophy closely resembles Eric’s own.\n\nOn the surface, Eric and Billy inhabit different worlds. Eric is a deeply spiritual teacher rooted in a small coastal Delaware town. Billy is a celebrated actor and performer whose larger-than-life persona commands stages around the world. But when I ask Eric how the relationship works, he doesn’t hesitate.\n\n“I know that I can be my authentic self with him, and he can be his with me,” he says. “We love each other unconditionally.”\n\nThe words could sound rehearsed. Coming from Eric, they don’t.\n\nThe red carpets, famous faces, and international travel are not what matter most.\n\n“It’s all about the people,” he explains. “I love Billy’s family and friends, and he loves mine.”\n\nAuthenticity surfaces repeatedly in our conversation — not as an abstract ideal, but as Eric’s determination to trust what feels right for him, even when other people may not understand it. I tell him about growing up in Pittsburgh and spending much of my life trying to fit the person I was into the person the world expected me to be. Eric listens intently, then pauses before responding.\n\n“Fuck the system.”\n\nIt is blunt, funny, and entirely consistent with the man sitting across from me. Dating Billy may have dramatically increased the number of strangers who have opinions about Eric, but it hasn’t increased the number whose opinions matter to him. He is remarkably unconcerned with what people he doesn’t know think — or say — about him. The attention is new. His response to it is not.\n\nFor Eric, authenticity isn’t about asking the world for permission to be yourself. It’s about deciding that permission was never the world’s to give.\n\nThat instinct—to look inward rather than outward for permission — predates Billy.\n\nEric initially turned to yoga for a practical reason: he wanted to improve his physical performance on the soccer field. It didn’t take long for him to realize that something else was happening. Yoga was strengthening his body, but it was also grounding him.\n\nOver time, the physical practice became inseparable from the mental one. The poses, the heat, even the strength required to hold his body in place became less important than learning how to quiet the noise around him, stay present, and listen to himself. The man who had pushed me through an hour of sweat and discomfort wasn’t simply teaching people how to move their bodies. He was asking them to practice something he had learned to do himself.\n\nThat sense of being grounded has become particularly important in a relationship that often requires two people to live very different lives. Eric is quick to point out that he and Billy have separate careers, separate ambitions, and goals entirely their own. Neither expects the other to abandon an individual life simply because they have chosen to build a relationship together.\n\nWhen Billy left for London to star in “Cabaret,” distance became part of their routine. They FaceTimed every day, a practice they continue whenever they are apart.\n\n“I tell Billy everything,” Eric says.\n\nBeing authentic with Billy doesn’t require the two men to become more alike. If anything, the opposite seems true. They are comfortable following their own career paths, living separate lives when circumstances require it, and giving each other the freedom to pursue what matters individually. Then they come back together — not because either has put his own life on hold, but because they have chosen to share those lives with each other.\n\nWhen we finally look at the time, nearly 90 minutes have passed. Eric still needs to pack. New York is waiting, Amsterdam after that, and somewhere there is undoubtedly an itinerary telling Billy exactly where he needs to be and when.\n\nBut for a while, neither of us was racing toward the next moment.\n\nWe were fully inside the one we were in.",
+        "metadata": {
+          "title": "Apple includes gay couple in iPhone 7 ad",
+          "og:type": "article",
+          "og:image": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+          "og:url": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/",
+          "og:title": "Apple includes gay couple in iPhone 7 ad",
+          "og:description": "Apple announced the launch of the iPhone 7 on Thursday along with a commercial that features a gay couple.",
+          "twitter:title": "Apple includes gay couple in iPhone 7 ad",
+          "twitter:description": "keynote featured performance of 'The Greatest' by Sia     ",
+          "description": "Apple announced the launch of the iPhone 7 on Thursday along with a commercial that features a gay couple.",
+          "og:locale": "en_US",
+          "og:site_name": "Washington Blade: LGBTQ News, Politics, LGBTQ Rights, Gay News",
+          "article:publisher": "http://www.facebook.com/WashingtonBlade",
+          "article:published_time": "2016-09-09T13:34:48+00:00",
+          "og:image:width": "460",
+          "og:image:height": "470",
+          "og:image:type": "image/jpeg",
+          "author": "Mariah Cooper"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#article",
+              "isPartOf": {
+                "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/"
+              },
+              "author": {
+                "name": "Mariah Cooper",
+                "@id": "https://www.washingtonblade.com/#/schema/person/8ae3553b1afe772dadcbb18f78233b4c"
+              },
+              "headline": "Apple includes gay couple in iPhone 7 ad",
+              "datePublished": "2016-09-09T13:34:48+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/"
+              },
+              "wordCount": 134,
+              "commentCount": 83415,
+              "publisher": {
+                "@id": "https://www.washingtonblade.com/#organization"
+              },
+              "image": {
+                "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+              "keywords": [
+                "Apple",
+                "iPhone 7",
+                "Sia",
+                "The Greatest",
+                "Tim Cook"
+              ],
+              "articleSection": [
+                "Arts &amp; Entertainment"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/",
+              "url": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/",
+              "name": "Apple includes gay couple in iPhone 7 ad",
+              "isPartOf": {
+                "@id": "https://www.washingtonblade.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+              "datePublished": "2016-09-09T13:34:48+00:00",
+              "description": "Apple announced the launch of the iPhone 7 on Thursday along with a commercial that features a gay couple.",
+              "breadcrumb": {
+                "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#primaryimage",
+              "url": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+              "contentUrl": "https://www.washingtonblade.com/content/files/2016/09/iPhone_7_Gay_Couple_Screenshot_460_by_470.jpg",
+              "width": 460,
+              "height": 470
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.washingtonblade.com/2016/09/09/apple-includes-gay-couple-iphone-7-ad/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.washingtonblade.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Apple includes gay couple in iPhone 7 ad"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.washingtonblade.com/#website",
+              "url": "https://www.washingtonblade.com/",
+              "name": "Washington Blade: LGBTQ News, Politics, LGBTQ Rights, Gay News",
+              "description": "America&#039;s Leading LGBT News Source",
+              "publisher": {
+                "@id": "https://www.washingtonblade.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.washingtonblade.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.washingtonblade.com/#organization",
+              "name": "Washington Blade",
+              "url": "https://www.washingtonblade.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.washingtonblade.com/#/schema/logo/image/",
+                "url": "https://www.washingtonblade.com/content/files/2023/01/Wash_Blade_logo.svg_.png",
+                "contentUrl": "https://www.washingtonblade.com/content/files/2023/01/Wash_Blade_logo.svg_.png",
+                "width": 1200,
+                "height": 484,
+                "caption": "Washington Blade"
+              },
+              "image": {
+                "@id": "https://www.washingtonblade.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "http://www.facebook.com/WashingtonBlade",
+                "https://x.com/WashBlade"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.washingtonblade.com/#/schema/person/8ae3553b1afe772dadcbb18f78233b4c",
+              "name": "Mariah Cooper",
+              "sameAs": [
+                "http://washingtonblade.com"
+              ],
+              "url": "https://www.washingtonblade.com/author/mcooper/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article du Washington Blade abordant l'inclusion d'un couple gay dans une publicité pour l'iPhone 7 d'Apple et évoquant différentes personnalités et lieux liés à un entretien avec Eric Anderson, partenaire de Billy Porter, ainsi que des séances de yoga à Rehoboth Beach.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Eric Anderson",
+          "Billy Porter"
+        ],
+        "LOCATION": [
+          "Rehoboth Beach"
+        ],
+        "ORGANIZATION": [
+          "Apple",
+          "Washington Blade",
+          "SoulFire Collective",
+          "Columbia University",
+          "Starbucks"
+        ],
+        "DATE": [
+          "2016-09-09"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPhone 7"
+        ]
+      },
+      "score_e5": 0.8117877355395967
+    },
+    {
+      "titre": "성적 소수자가 등장하는 글로벌 기업들의 광고 9가지 : 네이버 ...",
+      "source": "네이버 블로그 - NAVER",
+      "lien": "https://m.blog.naver.com/designpress2016/221030544566",
+      "image_url": "https://mblogthumb-phinf.pstatic.net/MjAxNzA2MTZfMTA0/MDAxNDk3NTc5OTEzNjY2.4DAqGtNlMxhd3FtesBIPmrumdmb3qawaYIZSlWFJAq8g.LqxkOgEWivBKWuITsfTSMPoO0s6cdtDfeKDPkX1UgiYg.JPEG.designpress2016/apple.jpeg?type=w800",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQn3OfisWcao4uakRaPV6xV366_iY75fGsE0DJDsBPFMnDzXl",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "성적 소수자가 등장하는 글로벌 기업들의 광고 9가지 : 네이버 ...",
+        "link": "https://m.blog.naver.com/designpress2016/221030544566",
+        "source": "네이버 블로그 - NAVER",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEUAAAADzV0CajACZS4Do0kDz14Dx1oDslEDylsBHQ0AEggBWSkDqEwCkEIDn0gCgTsBTSMCYSwALhUBPBwDmEUBUyYCiD4AIxACjD8Dw1gDs1EBSCECdTWpNVjbAAAAl0lEQVQ4jd2SyxKCMAxFG_Cmwb4AURH9_-8UwRU2dOFK7yaZzpmmp60x_5zmWAAO1WbBWet2gRqo9gGi-mug64P34aQC4oWIBEEDWGCjJUbSgEXDgblRRgxLEwTdrsUZctEslqaFjMqI9fhp3Spr0c61n-tVAZhiGpgx5jUht9c9CaLJAs5O98cE8e8X-QC2KQLFL_dbeQK4jgS0oD3bZAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQn3OfisWcao4uakRaPV6xV366_iY75fGsE0DJDsBPFMnDzXl",
+        "thumbnail_width": 170,
+        "thumbnail_height": 297,
+        "image": "https://mblogthumb-phinf.pstatic.net/MjAxNzA2MTZfMTA0/MDAxNDk3NTc5OTEzNjY2.4DAqGtNlMxhd3FtesBIPmrumdmb3qawaYIZSlWFJAq8g.LqxkOgEWivBKWuITsfTSMPoO0s6cdtDfeKDPkX1UgiYg.JPEG.designpress2016/apple.jpeg?type=w800",
+        "image_width": 440,
+        "image_height": 768
+      },
+      "webpage": {
+        "text": "성적 소수자가 등장하는 글로벌 기업들의 광고 9가지 : 네이버 블로그\n\n글로벌 기업들, LGBT를 당당하게 다루다\n\n애플 아이폰7 광고에 동성 연인이 등장했다.\n\n6월은 ‘LGBT*프라이드의 달 (LGBT Pride Month)'이다. 1969년 6월 뉴욕 그리니치 빌리지에서 발생한 스톤월 항쟁 Stonewall riots을 기념하면서 유래한 것으로, 지금 미국 각지에서는 성적 소수자의 권리와 자긍심을 주장하는 행진이 열리고 있다. LGBT 프라이드의 달을 기념해 공개적으로 성 소수자를 포용해 눈길을 끈 글로벌 기업들의 광고들을 모았다.* LGBT\n 레즈비언Lesbian, 게이Gay, 바이섹슈얼Bisexual, 트랜스젠더Transgender의 머리글자를 따 이들을 통칭하는 단어\n \n\n\n2016년, 애플 아이폰7 광고에 뉴욕 지하철 안에서 새로운 스마트폰을 갖고 노는 동성 연인이 등장했다. 애플이 직접 크리에이티브 디렉팅을 맡았다.  같은 해 애플 CEO 팀 쿡은 젊은 LGBT 사람들에게 힘을 실어주기 위해 자신의 지위를 이용하겠다고 선언하면서 “한 사람이라도 도울 수 있다면 그만한 가치가 있을 것”이라고 말한 바 있다.  \n\nApple – Introducing iPhone 7 (본문 언급 내용은 1분 49초부터)\n\n2017년, 구글은 자사의 인공 지능 스피커 ‘구글 홈’ 광고에 두 남성으로 이뤄진 부부를 등장시켰다. 자녀에게 아침을 먹이고 출근을 준비하는 바쁜 부모의 일상을 구글 홈이 도와준다는 33초짜리 영상에는 평범한 한 가족의 모습이 물 흐르듯지극히 자연스럽게 그려진다.\n\nCarpool | Google Home now supports multiple users\n\n다양성과 포용에 대해 진보적인 관점을 드러내온 코카콜라의 2017 광고. 상의를 시원하게 드러낸 채 건강한 남성미를 뽐내는 수영장 관리 청년을 두고 남매가 서로 콜라를 가져다 주겠다며 몸싸움을 벌인다. 남매 중 소년은 게이의 색으로 표현되곤 하는 분홍색 티셔츠를 입고 있다.\n\n2016년 연말, 영국 공영방송 BBC가 다양성을 강조하는 연휴 광고를 영국 전역에 내보냈다. 따뜻한 온기를 나누는 사람들을 나열한 가운데 겨우살이 나무 아래에서 입 맞추는 두 남성의 모습이 눈길을 끈다.\n\nBBC One Christmas Advert 2016 (본문 언급 내용은 36초부터)\n\n2015년 공개된, 티파니 역사상 최초의 동성 광고. 성적 소수자를 지지하는 기업의 태도를 한 장의 사진에 담아냈다. 세계적인 패션 사진 거장 피터 린더버그Peter Lindbergh가 촬영을 맡았다.\n\nTiffany and co - Will you\n\n> 러쉬 – Better together\n\n지난 해 2월 밸런타인 데이를 맞아 러쉬가 공식 인스타그램에 게시한 사진. 레즈비언 연인의 행복한 순간을 담았다. 러쉬는 #게이도 괜찮아Gay is Okay를 카피로 내세워 비누를 출시하고 오프라인 및 SNS 상에서 동명의 캠페인을 진행한 바 있다.\n \n\n\n> 노르드스톰 – Homecoming\n\n미국의 전통 있는 백화점 체인 노르드스톰의 TV 광고. 집에 돌아오다Homecoming는 제목의 이 광고에서 집에 막 돌아온 남성이 노르드스톰 쇼핑백을 내려놓고 그를 반기는 강아지와 인사하며 다른 남자와 입맞춤을 한다. 100년이 넘는 역사를 가진 노르드스톰은 2016년 미국인들이 가장 사랑하는 패션 소매 브랜드로 뽑혔을 만큼 대중적이며 보수적인 이미지를 가지고 있었으나 최근 광고에서 노선을 바꾼 것으로 보인다.\n\nHome. Heart. Holiday. \"The Homecoming\"\n\n> 볼보 - Introducing the New Volvo XC60\n\n2017년 3월 볼보의 XC60 광고. 초원, 도로, 도심에 흩어진 사람들의 일상을 클로즈업하는 가운데 다정한 시간을 보내는 동성의 연인이 등장한다. 포드와 닛산 역시 LGBT가 등장하는 광고를 발표한 바 있다.\n \n\nIntroducing The New Volvo XC60 (본문 언급 내용은 1분 25초부터)\n\n글 | 디자인프레스 에디터 개화기소녀",
+        "metadata": {
+          "title": "성적 소수자가 등장하는 글로벌 기업들의 광고 9가지 : 네이버 블로그",
+          "og:title": "성적 소수자가 등장하는 글로벌 기업들의 광고 9가지",
+          "og:image": "https://blogthumb.pstatic.net/MjAxNzA2MTZfMTA0/MDAxNDk3NTc5OTEzNjY2.4DAqGtNlMxhd3FtesBIPmrumdmb3qawaYIZSlWFJAq8g.LqxkOgEWivBKWuITsfTSMPoO0s6cdtDfeKDPkX1UgiYg.JPEG.designpress2016/apple.jpeg?type=w2",
+          "og:description": "글로벌 기업들, LGBT를 당당하게 다루다6월은 ‘LGBT* 프라이드의 달 (LGBT Pride Month)'이...",
+          "og:url": "https://blog.naver.com/designpress2016/221030544566",
+          "me:feed:serviceId": "blog",
+          "og:type": "article",
+          "og:article:author": "네이버 디.. | 블로그",
+          "og:site_name": "네이버 블로그 | 네이버 디자인",
+          "naverblog:nickname": "디자인프레스",
+          "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjZfMjQw/MDAxNTc3MzQxNDk2MzY4.MSvr11dAnKZIgzFNBJnafBHx62V0LWruw9EMreTKBOsg.xXpAr8l-O6DhiDGalzYqnyMaC7M-Qj6nlO8mh6nHnjUg.PNG.designpress2016/%25B4%25EB%25C7%25A5%25C7%25C1%25B7%25CE%25C7%25CAci%2528%25BA%25B8%25B6%25F3%25BB%25F6%252C%25C8%25F2%25BB%25F6%2529%2B%25282020%2529-02.png?type=s1"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de blog Naver présentant neuf publicités de grandes entreprises mondiales mettant en scène des minorités sexuelles (LGBT), incluant des campagnes de marques telles qu'Apple (iPhone 7), Google, Coca-Cola, BBC, Tiffany & Co, Lush, Nordstrom et Volvo.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Peter Lindbergh",
+          "팀 쿡"
+        ],
+        "LOCATION": [
+          "뉴욕"
+        ],
+        "ORGANIZATION": [
+          "네이버",
+          "애플",
+          "구글",
+          "코카콜라",
+          "BBC",
+          "티파니",
+          "러쉬",
+          "노르드스톰",
+          "볼보",
+          "포드",
+          "닛산"
+        ],
+        "DATE": [
+          "1969",
+          "2016",
+          "2017"
+        ],
+        "EVENT": [
+          "스톤월 항쟁",
+          "LGBT 프라이드의 달"
+        ],
+        "OTHER": [
+          "아이폰7",
+          "구글 홈",
+          "XC60"
+        ]
+      },
+      "score_e5": 0.8032246849569871
+    },
+    {
+      "titre": "Gay Couple Cuddles Up in Latest iPhone 7 Ad | Out.com",
+      "source": "Out Magazine",
+      "lien": "https://www.out.com/tech/2016/9/08/gay-couple-cuddles-latest-iphone-7-ad",
+      "image_url": "https://www.out.com/media-library/apple-iphone-7-ad.png?id=32790224&width=300",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaW_KuPFHJRHS8g2j8G3Y_uRf7DB9oyjazybNMvQQ4CtDT-a-",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Gay Couple Cuddles Up in Latest iPhone 7 Ad | Out.com",
+        "link": "https://www.out.com/tech/2016/9/08/gay-couple-cuddles-latest-iphone-7-ad",
+        "source": "Out Magazine",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSRKR3jk_mWe1OyEuqWC6gJ9lDNpnYc20ERa9ohGvldpyoRMUVsPm643gQeyJ-6zQvb5RYCJjwx-kYsk0HwLkQln1sbygjAokWkBnJjbFF2Dw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaW_KuPFHJRHS8g2j8G3Y_uRf7DB9oyjazybNMvQQ4CtDT-a-",
+        "thumbnail_width": 173,
+        "thumbnail_height": 292,
+        "image": "https://www.out.com/media-library/apple-iphone-7-ad.png?id=32790224&width=300",
+        "image_width": 178,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "Gay Couple Cuddles Up in Latest iPhone 7 Ad\n\nThe couple that selfies together, stays together, according to the latest Apple commerical for the iPhone 7.\n\nThe tech giant announced the latest generation of best-selling smartphones during an annual news conference Wednesday. Openly gay CEO Tim Cook introduced the new features of the phone, including an improved camera, water-resistant casing, and wireless headphones.\n\n----------------------------------------\n\nHowever, what caught most Apple fans' eyes Thursday morning was a new ad for the phone that features a particularly cuddly same-sex couple.\n\nThe two young men are shown sitting close together on a subway train as they browse the web and take pictures.\n\nCook and Apple have developed more LGBT-friendly outreach both as a company and a brand. The CEO told The Washington Post that he wanted to help show others when he came out in 2015 that being gay \"is not a limiter.\"\n\nWatch the full ad below (skip to 1:53 for a glimpse at the couple).",
+        "metadata": {
+          "title": "Gay Couple Cuddles Up in Latest iPhone 7 Ad | Out.com",
+          "fb:app_id": "759613565080790",
+          "og:type": "article",
+          "article:section": "Tech",
+          "og:url": "https://www.out.com/tech/2016/9/08/gay-couple-cuddles-latest-iphone-7-ad",
+          "og:site_name": "Out Magazine",
+          "og:image": "https://www.out.com/media-library/apple-iphone-7-ad.png?id=32790224&width=1200&height=600&coordinates=0%2C0%2C0%2C72",
+          "og:image:width": "1200",
+          "og:image:height": "600",
+          "og:title": "Gay Couple Cuddles Up in Latest iPhone 7 Ad",
+          "og:description": "Apple, led by out CEO Tim Cook, is stepping up its diversity game with latest commercial.",
+          "description": "Apple, led by out CEO Tim Cook, is stepping up its diversity game with latest commercial.",
+          "article:published_time": "2016-09-08T10:49:00+00:00",
+          "article:modified_time": "2024-11-04T15:55:43+00:00",
+          "article:author": "https://www.facebook.com/19799718480",
+          "mrf:tags": "layout:Post_Layout",
+          "fb:pages": "19799718480"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "id": "https://www.out.com/",
+              "item": "https://www.out.com/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "id": "https://www.out.com/tech",
+              "item": "https://www.out.com/tech",
+              "name": "Tech",
+              "position": 2
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article d'Out Magazine sur la publicité de l'iPhone 7 d'Apple mettant en scène un couple d'hommes sur une rame de métro, présenté lors de la conférence annuelle par le PDG Tim Cook.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tim Cook"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Out Magazine",
+          "Apple",
+          "The Washington Post"
+        ],
+        "DATE": [
+          "2015",
+          "2016-09-08"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "iPhone 7"
+        ]
+      },
+      "score_e5": 0.8397799370274649
+    },
+    {
+      "titre": "Micro-montage of LGBT couples in Apple ads - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=oiYH9GLcaNE",
+      "image_url": "https://i.ytimg.com/vi/oiYH9GLcaNE/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHBOzySSMP3_iqdcVUo81FxX9Y-2xzl0pmOEl-59cMrN3iDLMz",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Micro-montage of LGBT couples in Apple ads - YouTube",
+        "link": "https://www.youtube.com/watch?v=oiYH9GLcaNE",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHBOzySSMP3_iqdcVUo81FxX9Y-2xzl0pmOEl-59cMrN3iDLMz",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/oiYH9GLcaNE/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Micro-montage of LGBT couples in Apple ads\n\niconredesign\n\nHappy Pride Day everyone.https://discord.gg/ZZnETMX and https://www.patreon.com/iconredesign",
+        "metadata": {
+          "title": "Micro-montage of LGBT couples in Apple ads",
+          "description": "Happy Pride Day everyone.https://discord.gg/ZZnETMX and https://www.patreon.com/iconredesign",
+          "keywords": "8-16-17, Apple, icon, iconredesign, apple, apple supercuts, iphone, ac, watch, mac",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=oiYH9GLcaNE",
+          "og:title": "Micro-montage of LGBT couples in Apple ads",
+          "og:image": "https://i.ytimg.com/vi/oiYH9GLcaNE/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "Happy Pride Day everyone.https://discord.gg/ZZnETMX and https://www.patreon.com/iconredesign",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=oiYH9GLcaNE&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=oiYH9GLcaNE&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=oiYH9GLcaNE&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/oiYH9GLcaNE",
+          "og:video:secure_url": "https://www.youtube.com/embed/oiYH9GLcaNE",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "mac",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Micro-montage of LGBT couples in Apple ads",
+          "twitter:description": "Happy Pride Day everyone.https://discord.gg/ZZnETMX and https://www.patreon.com/iconredesign"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vidéo sur YouTube intitulée 'Micro-montage of LGBT couples in Apple ads' publiée pour le Pride Day par iconredesign.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "Apple",
+          "iconredesign"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Pride Day"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8084931754051365
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Apple"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "iPhone 7"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Eric Anderson",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Billy Porter",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Peter Lindbergh",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tim Cook",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rehoboth Beach",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Apple",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Washington Blade",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SoulFire Collective",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Columbia University",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Starbucks",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Naver",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Coca-Cola",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tiffany",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lush",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nordstrom",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Volvo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ford",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nissan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Out Magazine",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Washington Post",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "iconredesign",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-09-09",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1969",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-09-08",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Stonewall Riots",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "LGBT Pride Month",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Pride Day",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPhone 7",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "iPhone 7 Plus",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Google Home",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "XC60",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:03:31.753555"
+  }
+}

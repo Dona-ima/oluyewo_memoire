@@ -1,18 +1,29 @@
-from typing import TypedDict, List, Dict, Any
+from typing import TypedDict, List, Dict, Any, Optional
 
-class AgentState(TypedDict):
+class AgentState(TypedDict, total=False):
     rumor_text: str
-    rumor_image: str
+    rumor_image: Optional[str]
+
+    # --- OOC
     current_date: str
-    image_description: str
-    lens_results: str         
-    sub_questions: List[str]
-    search_history: List[str]
-    evidence_gathered: List[str]
-    confidence_score: float
-    sources_collectees: List[Dict[str, Any]]
-    iterations: int
-    verdict: str
+    classe_ooc: Optional[str]
+    s_ooc: Optional[float]
+    s_sem_ooc: Optional[float]
+    s_ent_ooc: Optional[float]
+    entites_rumeur_ooc: Dict[str, List[str]]
+    entites_dominantes_ooc: Dict[str, List[str]]
+    comparaison_entites_ooc: Dict[str, Any]
+    nombre_resultats: int
+    resultats: List[Dict[str, Any]]
+
+    # --- Coherence visuelle
+    classe_visual: Optional[str]
+    s_visual: Optional[float]
+
+
+    # --- Justification et rapport final (Nœud 2)
+    #verdict: Optional[str]
     justification_json: Dict[str, Any]
+
+    # --- Métriques de performance 
     performance_metrics: Dict[str, Any]
-    journal_agents: List[Dict[str, Any]]

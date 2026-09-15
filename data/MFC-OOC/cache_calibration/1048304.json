@@ -1,0 +1,987 @@
+{
+  "id_rumeur": 1048304,
+  "id_image": 1048304,
+  "caption": "Firefighters working at the scene of a bus accident in Campo Alegre state of Santa Catarina southern Brazil",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748297/oluyewo_benchmark/pgmx07ywosdbltgv17mh.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Up to 51 Dead After Bus Crash in Southern Brazil",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/news/latin-america/51-dead-after-bus-crash-southern-brazil-n323686",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_11/931841/mvd6672608.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcoaqjV6cypVIpdfF05YLy60_Hy6bBbIrIJIlUrB6Z0D8_Ep3H",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+        "link": "https://www.nbcnews.com/news/latin-america/51-dead-after-bus-crash-southern-brazil-n323686",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8ef9eafda607cd5c7eb9a9/images/HlgjdeVBJFgSkF_8m_RMSA6401WTos2N3602uAk0-kg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcoaqjV6cypVIpdfF05YLy60_Hy6bBbIrIJIlUrB6Z0D8_Ep3H",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_11/931841/mvd6672608.jpg",
+        "image_width": 979,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "Up to 51 Dead After Bus Crash in Southern Brazil\n\nRIO DE JANEIRO — As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.\n\nThe bus, en route from the neighboring state of Parana, swerved off a curve and fell dozens of meters before crashing in a wooded area. Rescue crews were still trying to rescue survivors and recover the bodies of the victims late in the day.\n\nInitially, police had reported 32 killed, but later said recovery crews believed an additional 19 were dead. Police did not know how many passengers in all were aboard the bus or whether the driver was one of the victims, but said that at least six survivors were being treated for injuries.\n\nThe bus was about 6 miles from its destination in the city of Joinville when it crashed. Highway and weather conditions at the time were good, a police spokesman said. Though no immediate cause for the crash had been determined, police said it appeared the brakes on the bus failed.\n\nBrazil has some of Latin America's deadliest roads. The country averages more than 18 highway deaths per 100,000 people per year, compared with only about 10 in high-income countries, according to a report by the Inter-American Development Bank. The tolls in nearby Argentina, Colombia and Chile average only about 13.\n\n— Reuters",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "description": "A passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "og:url": "https://www.nbcnews.com/news/latin-america/51-dead-after-bus-crash-southern-brazil-n323686",
+          "og:title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "og:description": "A passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_11/931841/mvd6672608.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2015_11/931841/mvd6672608.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "branch:deeplink:description": "A passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "twitter:title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "twitter:description": "A passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2015-03-15T05:13:47.000Z",
+          "article:modified_time": "2015-06-11T00:00:00.000Z"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "url": "https://www.nbcnews.com/news/latin-america/51-dead-after-bus-crash-southern-brazil-n323686",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/newscms/2015_11/931841/mvd6672608.jpg",
+          "alternativeHeadline": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "articleBody": "RIO DE JANEIRO — As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said. The bus, en route from the neighboring state of Parana, swerved off a curve and fell dozens of meters before crashing in a wooded area. Rescue crews were still trying to rescue survivors and recover the bodies of the victims late in the day. Initially, police had reported 32 killed, but later said recovery crews believed an additional 19 were dead. Police did not know how many passengers in all were aboard the bus or whether the driver was one of the victims, but said that at least six survivors were being treated for injuries. The bus was about 6 miles from its destination in the city of Joinville when it crashed. Highway and weather conditions at the time were good, a police spokesman said. Though no immediate cause for the crash had been determined, police said it appeared the brakes on the bus failed. Brazil has some of Latin America's deadliest roads. The country averages more than 18 highway deaths per 100,000 people per year, compared with only about 10 in high-income countries, according to a report by the Inter-American Development Bank. The tolls in nearby Argentina, Colombia and Chile average only about 13.  — Reuters",
+          "dateModified": "2015-03-15T05:13:47.000Z",
+          "datePublished": "2015-03-15T04:08:59.000Z",
+          "articleSection": "news",
+          "articleId": "ncna323686",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "ncna323686"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2015_11/931841/mvd6672608.jpg",
+            "caption": "Firefighters are seen working at the scene of the bus accident in Campo Alegre in the state of Santa Catarina, Brazil, in this photo released by Agencia RBS.",
+            "height": 2676,
+            "width": 4099
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "NewsMediaOrganization",
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "A passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/news/latin-america/51-dead-after-bus-crash-southern-brazil-n323686"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un accident de bus s'est produit un samedi dans l'État de Santa Catarina, au sud du Brésil, lorsqu'un car transportant des passagers en provenance de l'État voisin du Parana a fait une chute de plusieurs dizaines de mètres dans une zone boisée après avoir quitté la route dans un virage. Le bilan s'élève à 51 morts, et au moins six survivants ont été traités pour des blessures. L'accident a eu lieu à environ 6 miles de la destination du bus, dans la ville de Joinville.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Rio de Janeiro",
+          "Santa Catarina",
+          "Parana",
+          "Joinville",
+          "Brazil",
+          "Argentina",
+          "Colombia",
+          "Chile",
+          "Latin America"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Inter-American Development Bank",
+          "Reuters"
+        ],
+        "DATE": [
+          "Saturday"
+        ],
+        "EVENT": [
+          "Bus Crash in Southern Brazil"
+        ],
+        "OTHER": [
+          "passenger bus"
+        ]
+      },
+      "score_e5": 0.8176430221320234
+    },
+    {
+      "titre": "Up to 51 Dead After Bus Crash in Southern Brazil - Khmer Times",
+      "source": "Khmer Times",
+      "lien": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/",
+      "image_url": "https://www.khmertimeskh.com/wp-content/uploads/2015/03/files+news+9681+1426428786.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv9RiX47ilOYR4RLkoY8fdEjVtrQX47FQ_IukRHEJOehmJc7mG",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Up to 51 Dead After Bus Crash in Southern Brazil - Khmer Times",
+        "link": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/",
+        "source": "Khmer Times",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExfY2dfY2heYmhfY2hfY2hfY2hfYmhfY2hfY2hfY2heYmhfY2hLdvrHAAAADHRSTlMAK6UPy06GQ-ly81yP6INFAAAA4ElEQVQ4ja1TWw7DIAyD8AiP3P-8I7QBQttNmuqPChGXOMYY8yqcxRDQuqdy9Ikako_2pmyBFsCFYgsppI2RVRV9-2T1v_7bOO63nGGTquNxZJmMqc-3Oa3swU2DsWdc0yGGxDuCqURxcgWr9ELeicQi_VeXQcxAopr18eIN9kUgCqxjJ_T9ubgqHQQ8tC2MrUUTCXraTWQbs2g_tjG5UPtCEaZRxtHJHSoBu33jtuRiFkujmpvjlDfTdaj4PsEdIw-o0LHVviqCitwZqgIjOuUa6x-xZ8p8OI9v6_vT-xMffsYRIhWPnuoAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv9RiX47ilOYR4RLkoY8fdEjVtrQX47FQ_IukRHEJOehmJc7mG",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://www.khmertimeskh.com/wp-content/uploads/2015/03/files+news+9681+1426428786.jpg",
+        "image_width": 522,
+        "image_height": 800
+      },
+      "webpage": {
+        "text": "Up to 51 Dead After Bus Crash in Southern Brazil\n\nRIO DE JANEIRO (Reuters) –  As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.\n\nThe bus, en route from the neighboring state of Parana, swerved off a curve and fell dozens of meters before crashing in a wooded area. Rescue crews were still trying to rescue survivors and recover the bodies of the victims late in the day.\n\nInitially, police had reported 32 killed, but later said recovery crews believed an additional 19 were dead. Police did not know how many passengers in all were aboard the bus or whether the driver was one of the victims, but said that at least six survivors were being treated for injuries.\n\nThe bus was about 10 km (6 miles) from its destination in the city of Joinville when it crashed. Highway and weather conditions at the time were good, a police spokesman said.\n\nThough no immediate cause for the crash had been determined, police said it appeared the brakes on the bus failed. Brazil has some of Latin America’s deadliest roads.\n\nDespite nearly a decade of sustained economic growth that only slowed in recent years, the country has done little to improve or expand its creaky infrastructure.\n\nThe country averages more than 18 highway deaths per 100,000 people per year, compared with only about 10 in high-income countries, according to a report by the Inter-American Development Bank.\n\nThe tolls in nearby Argentina, Colombia and Chile average only about 13.",
+        "metadata": {
+          "title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "description": "As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "author": "6EvQp2310oHv4Pumk5UwQfv6k7r5Yq",
+          "og:locale": "en_US",
+          "og:site_name": "Khmer Times - Insight into Cambodia",
+          "og:type": "article",
+          "og:title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "og:description": "As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+          "og:url": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/",
+          "og:image": "https://www.khmertimeskh.com/wp-content/uploads/2015/03/files+news+9681+1426428786.jpg",
+          "og:image:secure_url": "https://www.khmertimeskh.com/wp-content/uploads/2015/03/files+news+9681+1426428786.jpg",
+          "og:image:width": "800",
+          "og:image:height": "522",
+          "article:published_time": "2015-03-14T17:00:00+00:00",
+          "article:modified_time": "2015-03-14T17:00:00+00:00",
+          "twitter:title": "Up to 51 Dead After Bus Crash in Southern Brazil",
+          "twitter:description": "As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#article",
+              "name": "Up to 51 Dead After Bus Crash in Southern Brazil",
+              "headline": "Up to 51 Dead After Bus Crash in Southern Brazil",
+              "author": {
+                "@id": "https://www.khmertimeskh.com/author/b0quctgzt66ctf7s0cwqqjvqwbo/#author"
+              },
+              "publisher": {
+                "@id": "https://www.khmertimeskh.com/#organization"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://www.khmertimeskh.com/wp-content/uploads/2015/03/files+news+9681+1426428786.jpg",
+                "width": 800,
+                "height": 522
+              },
+              "datePublished": "2015-03-15T00:00:00+07:00",
+              "dateModified": "2015-03-15T00:00:00+07:00",
+              "inLanguage": "en-US",
+              "mainEntityOfPage": {
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#webpage"
+              },
+              "isPartOf": {
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#webpage"
+              },
+              "articleSection": "International"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://www.khmertimeskh.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.khmertimeskh.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://www.khmertimeskh.com/category/international/#listItem",
+                    "name": "International"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://www.khmertimeskh.com/category/international/#listItem",
+                  "position": 2,
+                  "name": "International",
+                  "item": "https://www.khmertimeskh.com/category/international/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#listItem",
+                    "name": "Up to 51 Dead After Bus Crash in Southern Brazil"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://www.khmertimeskh.com#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#listItem",
+                  "position": 3,
+                  "name": "Up to 51 Dead After Bus Crash in Southern Brazil",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://www.khmertimeskh.com/category/international/#listItem",
+                    "name": "International"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.khmertimeskh.com/#organization",
+              "name": "Khmer Times",
+              "description": "Insight into Cambodia",
+              "url": "https://www.khmertimeskh.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.khmertimeskh.com/wp-content/uploads/2021/05/KHMER-TIMES.jpg",
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#organizationLogo",
+                "width": 813,
+                "height": 234
+              },
+              "image": {
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#organizationLogo"
+              },
+              "sameAs": [
+                "https://x.com/",
+                "https://instagram.com/",
+                "https://pinterest.com/",
+                "https://youtube.com/",
+                "https://linkedin.com/in/"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.khmertimeskh.com/author/b0quctgzt66ctf7s0cwqqjvqwbo/#author",
+              "url": "https://www.khmertimeskh.com/author/b0quctgzt66ctf7s0cwqqjvqwbo/",
+              "name": "6EvQp2310oHv4Pumk5UwQfv6k7r5Yq"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#webpage",
+              "url": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/",
+              "name": "Up to 51 Dead After Bus Crash in Southern Brazil",
+              "description": "As many as 51 people died on Saturday when a passenger bus drove off a cliff in the southern Brazilian state of Santa Catarina, police said.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.khmertimeskh.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#breadcrumblist"
+              },
+              "author": {
+                "@id": "https://www.khmertimeskh.com/author/b0quctgzt66ctf7s0cwqqjvqwbo/#author"
+              },
+              "creator": {
+                "@id": "https://www.khmertimeskh.com/author/b0quctgzt66ctf7s0cwqqjvqwbo/#author"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://www.khmertimeskh.com/wp-content/uploads/2015/03/files+news+9681+1426428786.jpg",
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#mainImage",
+                "width": 800,
+                "height": 522
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.khmertimeskh.com/55124/up-to-51-dead-after-bus-crash-in-southern-brazil/#mainImage"
+              },
+              "datePublished": "2015-03-15T00:00:00+07:00",
+              "dateModified": "2015-03-15T00:00:00+07:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.khmertimeskh.com/#website",
+              "url": "https://www.khmertimeskh.com/",
+              "name": "Khmer Times",
+              "description": "Insight into Cambodia",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://www.khmertimeskh.com/#organization"
+              }
+            }
+          ]
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Un bus de transport de passagers est sorti de la route dans un virage pour chuter de plusieurs dizaines de mètres dans une zone boisée dans l'État de Santa Catarina, dans le sud du Brésil, un samedi. Le véhicule provenait de l'État voisin du Parana et se trouvait à environ 10 km de sa destination dans la ville de Joinville. L'accident a causé la mort de 51 personnes, et au moins six survivants ont été pris en charge pour des blessures.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Rio de Janeiro",
+          "Santa Catarina",
+          "Parana",
+          "Joinville",
+          "Brazil",
+          "Argentina",
+          "Colombia",
+          "Chile",
+          "Latin America"
+        ],
+        "ORGANIZATION": [
+          "Khmer Times",
+          "Reuters",
+          "Inter-American Development Bank"
+        ],
+        "DATE": [
+          "Saturday"
+        ],
+        "EVENT": [
+          "Up to 51 Dead After Bus Crash in Southern Brazil"
+        ],
+        "OTHER": [
+          "passenger bus"
+        ]
+      },
+      "score_e5": 0.8114987719733182
+    },
+    {
+      "titre": "Eight young children among victims of Brazil bus crash",
+      "source": "Irish Examiner",
+      "lien": "https://www.irishexaminer.com/world/arid-30667638.html",
+      "image_url": "https://www.irishexaminer.com/cms_media/module_img/837/418733_1_seoimage1x1_bn-667638_d6cd2ac0e0c14605b7b66710091f3bf3.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxK64DfVqnKE5Q6DFQmCM4AF3A4z1AStWVC67UjpKbjRKloY4e",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Eight young children among victims of Brazil bus crash",
+        "link": "https://www.irishexaminer.com/world/arid-30667638.html",
+        "source": "Irish Examiner",
+        "source_icon": "https://serpapi.com/searches/6a8ef9eafda607cd5c7eb9a9/images/9Qvl2L4heOtnukpVmjBRGzdivdZ7b6IqI8vpqXnmMD0.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxK64DfVqnKE5Q6DFQmCM4AF3A4z1AStWVC67UjpKbjRKloY4e",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://www.irishexaminer.com/cms_media/module_img/837/418733_1_seoimage1x1_bn-667638_d6cd2ac0e0c14605b7b66710091f3bf3.jpg",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Eight young children among victims of Brazil bus crash\n\nPolice have renewed a search for victims of a bus accident in southern Brazil that has killed 49 people.\n\nThe government of Santa Catarina state said the victims include eight young children, three adolescents, 24 women and 14 men.\n\nThe bus plunged 1,300 feet down a mountain near the city of Joinville. Ten people are being treated at nearby hospitals.\n\nOfficials said that the death toll could rise because more bodies could be found under the bus and in the woods.\n\nThe cause of the accident is under investigation although authorities suspect the driver may have lost control on a curve.\n\nThe group was travelling from Uniao da Vitoria for a religious event near the coast in Parana state.\n\nCONNECT WITH US TODAY\n\nBe the first to know the latest news and updates",
+        "metadata": {
+          "title": "Eight young children among victims of Brazil bus crash",
+          "keywords": "Courts,Heathrow,Mexico,bus crash",
+          "news_keywords": "Courts,Heathrow,Mexico,bus crash",
+          "description": "Police have renewed a search for victims of a bus accident in southern Brazil that has killed 49 people.",
+          "og:type": "article",
+          "og:image": "https://www.irishexaminer.com/cms_media/module_img/837/418733_1_org_bn-667638_d6cd2ac0e0c14605b7b66710091f3bf3.jpg",
+          "og:url": "https://www.irishexaminer.com/world/arid-30667638.html",
+          "og:title": "Eight young children among victims of Brazil bus crash",
+          "og:site_name": "Irish Examiner",
+          "og:description": "Police have renewed a search for victims of a bus accident in southern Brazil that has killed 49 people.",
+          "article:published_time": "2015-03-15T13:32:00+00:00",
+          "article:publisher": "https://www.facebook.com/irishexaminer",
+          "article:section": "IE-Main/WORLD",
+          "article:tag": "IE-Main/WORLD",
+          "fb:app_id": "297058297106710",
+          "twitter:title": "Eight young children among victims of Brazil bus crash",
+          "twitter:description": "Police have renewed a search for victims of a bus accident in southern Brazil that has killed 49 people."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un accident de bus dans le sud du Brésil a fait 49 morts, parmi lesquels huit jeunes enfants, trois adolescents, 24 femmes et 14 hommes. Le bus a chuté de 1 300 pieds le long d'une montagne près de la ville de Joinville. Dix personnes reçoivent des soins dans des hôpitaux voisins. Le groupe voyageait depuis Uniao da Vitoria pour assister à un événement religieux près de la côte dans l'État de Parana.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brazil",
+          "Santa Catarina",
+          "Joinville",
+          "Uniao da Vitoria",
+          "Parana"
+        ],
+        "ORGANIZATION": [
+          "Irish Examiner"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Brazil bus crash"
+        ],
+        "OTHER": [
+          "bus"
+        ]
+      },
+      "score_e5": 0.8181018056208449
+    },
+    {
+      "titre": "Brazil Bus Crash Death Toll Rises to 49 - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/brazil-police-bus-plunges-into-ravine-killing-at-least-40-1426392725",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-HK333_brbusc_AM_20150315094933.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzEyeZqZo-jpFXj1tVTBv9maAqGAM6zq7EKMpTcltiqwIQNIFm",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Brazil Bus Crash Death Toll Rises to 49 - WSJ",
+        "link": "https://www.wsj.com/articles/brazil-police-bus-plunges-into-ravine-killing-at-least-40-1426392725",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzEyeZqZo-jpFXj1tVTBv9maAqGAM6zq7EKMpTcltiqwIQNIFm",
+        "thumbnail_width": 220,
+        "thumbnail_height": 220,
+        "image": "https://s.wsj.net/public/resources/images/BN-HK333_brbusc_AM_20150315094933.jpg",
+        "image_width": 220,
+        "image_height": 220
+      },
+      "webpage": null,
+      "texte_contexte": "Article du Wall Street Journal concernant un accident de bus au Brésil où un véhicule de transport s'est précipité dans un ravin.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brazil"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "bus"
+        ]
+      },
+      "score_e5": 0.8295868442984362
+    },
+    {
+      "titre": "Más de 40 muertos en un accidente de autobús en Brasil",
+      "source": "La Vanguardia",
+      "lien": "https://www.lavanguardia.com/sucesos/20150315/54428167492/actualizacion-autoridades-reducen-a-49-cifra-de-muertos-en-accidente-de-autobus-en-brasil.html",
+      "image_url": "https://www.lavanguardia.com/files/image_449_220/uploads/2015/03/15/5fa3eb86a7f99.jpeg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf6jigQi1l7cI1XaWXBvWPr1CHPU7vazuXPOtYhlcIiopqqyqG",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Más de 40 muertos en un accidente de autobús en Brasil",
+        "link": "https://www.lavanguardia.com/sucesos/20150315/54428167492/actualizacion-autoridades-reducen-a-49-cifra-de-muertos-en-accidente-de-autobus-en-brasil.html",
+        "source": "La Vanguardia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEUBFk3___8ADEpAR2kAADsAAEYAD0oAADkAFEwAAEEAEkwAAD0AAD-rrroAAEMlL1k7QmaMkaLx8vTi5OlZX3vBw8wXJVUhLVrT1douOGC2uMIAADZscYl9gpbc3eF2e5ChpbLLzdTt7_EAAC9ITnDWJOgxAAAA-UlEQVQ4jdVR23aDIBBkCCB4QWNuahJjUv__G7ugOTER2seeztMuO8xehrF_g5RPUD5Ti3iul5sZ7lVVPqwWDLnFhDqjLNv5eJctJKzc09PhKLTLxKlB0Yr3IZKO_p_1lBjA8o8x-YYkLnLqeEWXrxZJeqARz7D6FKBvN5Jo3eS8RZOsT6FNDRSGIlM8e73DDCRhNdM56lwHCKokwlUyecFgAnVa_w70CRMNjipI8McaZYm7CNZpvQfQnQfsbYRgnSVf9SMJjeiQKmcItjEBxvLO2ZimUQIfqR6wYTEmGTKubXiBfOxjO3po4275E9RJxXackf5S_xN8A3jgCU1WEbk5AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf6jigQi1l7cI1XaWXBvWPr1CHPU7vazuXPOtYhlcIiopqqyqG",
+        "thumbnail_width": 157,
+        "thumbnail_height": 321,
+        "image": "https://www.lavanguardia.com/files/image_449_220/uploads/2015/03/15/5fa3eb86a7f99.jpeg",
+        "image_width": 220,
+        "image_height": 449
+      },
+      "webpage": {
+        "text": "Más de 40 muertos en un accidente de autobús en Brasil\n\nREDACCIÓN\n\n15/03/2015 08:31 Actualizado a 15/03/2015 12:58\n\nRío de Janeiro. (EFE).- Las autoridades brasileñas han reducido esta madrugada de 55 a 49 la cifra de muertos al precipitarse por un barranco un autobús el sábado en una carretera del estado de Santa Catarina, en el sur del país, informaron medios locales.\n\nSegún el coordinador regional de la Defensa Civil, Antonio Edival Pereira, 48 personas murieron en el lugar del suceso y otra falleció en un hospital, según el diario \"A Noticia\".\n\nAdemás, dos personas continúan aprisionadas entre los hierros en la cabina del autobús, el conductos y su hijo, y una decena de heridos que han sido trasladados a varios hospitales con múltiples fracturas.\n\nLas autoridades locales habían informado con anterioridad de que 55 personas habían muerto en el accidente.\n\nEl autobús se precipitó por un barranco de 400 metros de profundidad cuando circulaba por una zona de sierra en la carretera SC-418 a la altura del municipio de Campo Alegre, situado a 235 kilómetros al norte de Florianópolis, la capital regional, según fuentes de la Policía de Carreteras del estado.\n\nLa secretaría de desarrollo de la región de Joinville (Santa Catarina) había informado con anterioridad de que el número de muertos era de 32.\n\nSegún \"A Notícia\", los pasajeros pertenecían una comunidad evangélica y se dirigían a la ciudad de Guaratuba, en el estado de Paraná, para participar en un acto religioso.\n\nEl accidente ocurrió en una curva cerrada de la Sierra Dona Francisca, una región turística del norte de Santa Catarina.\n\nLas tareas de rescate, en las que participan un centenar de personas, se retrasaron porque el lugar donde cayó el autobús es una zona de difícil acceso y porque no hay cobertura de telefonía móvil.\n\nNumerosas ambulancias y vehículos de la Policía y del cuerpo de bomberos, además de un helicóptero, colaboran en la búsqueda y rescate de las víctimas.",
+        "metadata": {
+          "page-rfr": "yes",
+          "title": "Más de 40 muertos en un accidente de autobús en Brasil",
+          "description": "(Actualiza la cifra de muertos) Río de Janeiro, 15 mar (EFE).- Las autoridades brasileñas han reducido esta madrugada de 55 a 49 la cifra de muertos al",
+          "Keywords": "más, 40, muertos, accidente, autobús, brasil",
+          "news_keywords": "más, 40, muertos, accidente, autobús, brasil",
+          "cms_creationDate": "2020-11-14T12:18:16Z",
+          "cms_creator": "migracion_lv  ",
+          "first_historical_creator": "migracion_lv  ",
+          "article:modified_time": "2015-03-15T11:58:24Z",
+          "article:section": "Sucesos",
+          "twitter:title": "Más de 40 muertos en un accidente de autobús en Brasil",
+          "twitter:description": "(Actualiza la cifra de muertos) Río de Janeiro, 15 mar (EFE).- Las autoridades brasileñas han reducido esta madrugada de 55 a 49 la cifra de muertos al",
+          "twitter:account_id": "15748165",
+          "og:url": "https://www.lavanguardia.com/sucesos/20150315/54428167492/actualizacion-autoridades-reducen-a-49-cifra-de-muertos-en-accidente-de-autobus-en-brasil.html",
+          "og:title": "Más de 40 muertos en un accidente de autobús en Brasil",
+          "og:type": "article",
+          "og:site_name": "La Vanguardia",
+          "og:description": "(Actualiza la cifra de muertos) Río de Janeiro, 15 mar (EFE).- Las autoridades brasileñas han reducido esta madrugada de 55 a 49 la cifra de muertos al",
+          "og:image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2015/03/15/5fa3eb86a7f99.jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "og:article:published_time": "2015-03-15T07:31:00Z",
+          "fb:app_id": "308114232627941",
+          "fb:pages": "156552584408339, 771277509704459, 958861534247204, 926823234046883, 212415508953697, 291917499474",
+          "mrf:tags": "cms:xalok",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:location": "region:ESP",
+          "article:tag": "Social Issues"
+        },
+        "jsonld": {
+          "@type": "ReportageNewsArticle",
+          "@context": "https://schema.org",
+          "headline": "Más de 40 muertos en un accidente de autobús en Brasil",
+          "alternativeHeadline": "El vehículo se precipitó por un barranco en una carretera del estado de Santa Catarina, en el sur del país",
+          "datePublished": "2015-03-15T08:31:00+0100",
+          "dateModified": "2015-03-15T12:58:24+0100",
+          "publisher": {
+            "@type": "Organization",
+            "id": "#organization",
+            "name": "La Vanguardia",
+            "url": "https://www.lavanguardia.com",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "#logoImage",
+              "url": "https://www.lavanguardia.com/files/logo_microformat/bundles/lavanguardiacms/images/logo-lv.png",
+              "height": 60,
+              "width": 326
+            },
+            "sameAs": "https://es.wikipedia.org/wiki/La_Vanguardia",
+            "diversityPolicy": "https://www.lavanguardia.com/diversidad-e-inclusion.html",
+            "ethicsPolicy": "https://www.lavanguardia.com/codigo-conducta-vanguardia.html",
+            "foundingDate": "1881-02-01",
+            "publishingPrinciples": "https://www.lavanguardia.com/normas-publicacion.html"
+          },
+          "description": "Río de Janeiro. (EFE).- Las autoridades brasileñas han reducido esta madrugada de 55 a 49 la cifra de muertos al precipitarse por un barranco un autobús el sábado en una carretera del estado de Santa Catarina, en el sur del país, informaron medios locales.",
+          "keywords": "más, 40, muertos, accidente, autobús, brasil",
+          "articleSection": "Sucesos",
+          "articleBody": "Río de Janeiro. (EFE).- Las autoridades brasileñas han reducido esta madrugada de 55 a 49 la cifra de muertos al precipitarse por un barranco un autobús el sábado en una carretera del estado de Santa Catarina, en el sur del país, informaron medios locales. Según el coordinador regional de la Defensa Civil, Antonio Edival Pereira, 48 personas murieron en el lugar del suceso y otra falleció en un hospital, según el diario \"A Noticia\". Además, dos personas continúan aprisionadas entre los hierros en la cabina del autobús, el conductos y su hijo, y una decena de heridos que han sido trasladados a varios hospitales con múltiples fracturas. Las autoridades locales habían informado con anterioridad de que 55 personas habían muerto en el accidente. El autobús se precipitó por un barranco de 400 metros de profundidad cuando circulaba por una zona de sierra en la carretera SC-418 a la altura del municipio de Campo Alegre, situado a 235 kilómetros al norte de Florianópolis, la capital regional, según fuentes de la Policía de Carreteras del estado. La secretaría de desarrollo de la región de Joinville (Santa Catarina) había informado con anterioridad de que el número de muertos era de 32. Según \"A Notícia\", los pasajeros pertenecían una comunidad evangélica y se dirigían a la ciudad de Guaratuba, en el estado de Paraná, para participar en un acto religioso. El accidente ocurrió en una curva cerrada de la Sierra Dona Francisca, una región turística del norte de Santa Catarina. Las tareas de rescate, en las que participan un centenar de personas, se retrasaron porque el lugar donde cayó el autobús es una zona de difícil acceso y porque no hay cobertura de telefonía móvil. Numerosas ambulancias y vehículos de la Policía y del cuerpo de bomberos, además de un helicóptero, colaboran en la búsqueda y rescate de las víctimas.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.lavanguardia.com/sucesos/20150315/54428167492/actualizacion-autoridades-reducen-a-49-cifra-de-muertos-en-accidente-de-autobus-en-brasil.html"
+          },
+          "author": [
+            {
+              "@type": "Person",
+              "name": "REDACCIÓN",
+              "id": "#author"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2015/03/15/5fa3eb86a7f99.jpeg",
+              "width": 1200,
+              "height": 675,
+              "id": "#openingImage"
+            }
+          ],
+          "video": [],
+          "audio": [],
+          "isAccessibleForFree": true,
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "La Vanguardia",
+            "productID": "lavanguardia.com:showcase"
+          },
+          "citation": [],
+          "copyrightHolder": {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.lavanguardia.com/#copyrightHolder",
+            "name": "La Vanguardia",
+            "url": "https://www.lavanguardia.com",
+            "diversityPolicy": "https://www.lavanguardia.com/diversidad-e-inclusion.html",
+            "ethicsPolicy": "https://www.lavanguardia.com/codigo-conducta-vanguardia.html",
+            "foundingDate": "1881-02-01",
+            "sameAs": "https://es.wikipedia.org/wiki/La_Vanguardia",
+            "publishingPrinciples": "https://www.lavanguardia.com/normas-publicacion.html",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.lavanguardia.com/files/logo_microformat/bundles/lavanguardiacms/images/logo-lv.png",
+              "height": "60",
+              "width": "326"
+            }
+          },
+          "sourceOrganization": {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.lavanguardia.com/#sourceOrganization",
+            "name": "La Vanguardia",
+            "url": "https://www.lavanguardia.com",
+            "diversityPolicy": "https://www.lavanguardia.com/diversidad-e-inclusion.html",
+            "ethicsPolicy": "https://www.lavanguardia.com/codigo-conducta-vanguardia.html",
+            "foundingDate": "1881-02-01",
+            "sameAs": "https://es.wikipedia.org/wiki/La_Vanguardia",
+            "publishingPrinciples": "https://www.lavanguardia.com/normas-publicacion.html",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.lavanguardia.com/files/logo_microformat/bundles/lavanguardiacms/images/logo-lv.png",
+              "height": "60",
+              "width": "326"
+            }
+          },
+          "copyrightYear": 2015,
+          "inLanguage": "es"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les autorités brésiliennes ont établi à 49 le nombre de morts après qu'un bus s'est précipité dans un ravin de 400 mètres de profondeur un samedi sur la route SC-418, à hauteur de la municipalité de Campo Alegre, dans le nord de l'État de Santa Catarina. Les passagers, appartenant à une communauté évangélique, se dirigeaient vers la ville de Guaratuba dans l'État de Paraná pour participer à un événement religieux. Les opérations de sauvetage ont impliqué une centaine de personnes, des ambulances, des véhicules de police, des pompiers et un hélicoptère.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Antonio Edival Pereira"
+        ],
+        "LOCATION": [
+          "Rio de Janeiro",
+          "Brazil",
+          "Santa Catarina",
+          "Campo Alegre",
+          "Florianópolis",
+          "Guaratuba",
+          "Paraná",
+          "Sierra Dona Francisca"
+        ],
+        "ORGANIZATION": [
+          "La Vanguardia",
+          "EFE",
+          "A Noticia",
+          "Defensa Civil"
+        ],
+        "DATE": [
+          "15/03/2015",
+          "Saturday"
+        ],
+        "EVENT": [
+          "accidente de autobús en Brasil"
+        ],
+        "OTHER": [
+          "autobús"
+        ]
+      },
+      "score_e5": 0.8216331756675664
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Campo Alegre",
+      "Santa Catarina",
+      "Brazil"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "bus accident"
+    ],
+    "OTHER": [
+      "Firefighters"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Antonio Edival Pereira",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rio de Janeiro",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Santa Catarina",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Parana",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Joinville",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Argentina",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Colombia",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chile",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Latin America",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uniao da Vitoria",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Campo Alegre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florianópolis",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Guaratuba",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sierra Dona Francisca",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Inter-American Development Bank",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Khmer Times",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Irish Examiner",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "La Vanguardia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "EFE",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "A Noticia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Defensa Civil",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "15/03/2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Bus Crash in Southern Brazil",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Brazil bus crash",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "accidente de autobús en Brasil",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "passenger bus",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "bus",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "autobús",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T20:23:54.534396"
+  }
+}

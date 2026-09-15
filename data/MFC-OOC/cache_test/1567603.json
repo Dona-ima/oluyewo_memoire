@@ -1,0 +1,418 @@
+{
+  "id_rumeur": "1654990",
+  "id_image": "1567603",
+  "caption": "Heavy traffic affected motorists on the M4 at Newport and Cardiff before and after the game",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122948/1567603.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "A14 toll road between Huntingdon and Cambridge outlined - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-cambridgeshire-24007800",
+      "image_url": "http://news.bbcimg.co.uk/media/images/69735000/jpg/_69735263_69731105.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrhc2rvkqfawGfGcozdRX5fA9CkEZiE3H8H6wkCMGUeRKqCF6v",
+      "rang_lens": 1,
+      "brut": {
+        "title": "A14 toll road between Huntingdon and Cambridge outlined - BBC News",
+        "source": "BBC",
+        "link": "https://www.bbc.com/news/uk-england-cambridgeshire-24007800",
+        "imageUrl": "http://news.bbcimg.co.uk/media/images/69735000/jpg/_69735263_69731105.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrhc2rvkqfawGfGcozdRX5fA9CkEZiE3H8H6wkCMGUeRKqCF6v"
+      },
+      "webpage": {
+        "text": "A14 toll road between Huntingdon and Cambridge outlined\n\nLinda Sewell, whose Brampton farm borders the A14, said she was concerned about the loss of valuable farmland.\n\n\"It's not the land they use to build the road, it's what they waste at the sides,\" she said.\n\n\"As we hear every day, our population's rising and we've got to be fed, yet they keep covering everything with concrete.\"\n\nAsked whether the toll charge would be dropped once £300m had been raised, Mr Hammond said there was no way of telling at the moment when that might happen.\n\n\"There are always on-going maintenance costs and we also have not put in place what the level is to be, and who is to administer it,\" he said.\n\n\"I am not going to prejudice a decision about when it may stop.\"\n\nNeil Greig, director of policy and research at the Institute of Advanced Motorists, welcomed the improvements to \"one of the busiest and most congested roads in England\".\n\nBut he added: \"We have major concerns about the impact of tolling such a key east-west artery.\n\n\"With the current high cost of motoring a major concern for drivers, being asked to pay more for the promise of lower journey times and a better service are unlikely to be enough for tolling to be welcomed by many.\"",
+        "metadata": {
+          "description": "A senior government minister says he cannot give any guarantees about the price of a suggested A14 toll.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A senior government minister says he cannot give any guarantees about the price of a suggested A14 toll.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/69735000/jpg/_69735263_69731105.jpg",
+          "og:image:alt": "Traffic on the A14 in Cambridgeshire",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "A14 toll road between Huntingdon and Cambridge outlined",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-cambridgeshire-24007800",
+          "article:section": "Cambridgeshire",
+          "twitter:description": "A senior government minister says he cannot give any guarantees about the price of a suggested A14 toll.",
+          "twitter:title": "A14 toll road between Huntingdon and Cambridge outlined"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-cambridgeshire-24007800",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2013-09-09T05:30:08.000Z",
+          "dateModified": "2013-09-09T20:54:42.000Z",
+          "description": "A senior government minister says he cannot give any guarantees about the price of a suggested A14 toll.",
+          "headline": "A14 toll road between Huntingdon and Cambridge outlined",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/69735000/jpg/_69735263_69731105.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/69735000/jpg/_69735263_69731105.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-cambridgeshire-24007800",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Discussion autour du projet de route à péage A14 entre Huntingdon et Cambridge, incluant les préoccupations concernant la perte de terres agricoles et le coût pour les automobilistes, avec des déclarations de Linda Sewell, M. Hammond et Neil Greig.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Linda Sewell",
+          "M. Hammond",
+          "Neil Greig"
+        ],
+        "LOCATION": [
+          "Huntingdon",
+          "Cambridge",
+          "England"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Institute of Advanced Motorists"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "A14"
+        ]
+      },
+      "score_e5": 0.7659868409275937
+    },
+    {
+      "titre": "How maths and driverless cars could spell the end of traffic jams",
+      "source": "The Conversation",
+      "lien": "https://theconversation.com/how-maths-and-driverless-cars-could-spell-the-end-of-traffic-jams-63462",
+      "image_url": "https://images.theconversation.com/files/135193/original/image-20160823-30257-1dos8k6.jpg?ixlib=rb-4.1.1&q=50&auto=format&w=768&h=512&fit=crop&dpr=2",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkOvHZvNF8i4pe0qbBFiNJuJvXSeO44-qgdXvktXYecLhxkpUd",
+      "rang_lens": 2,
+      "brut": {
+        "title": "How maths and driverless cars could spell the end of traffic jams",
+        "source": "The Conversation",
+        "link": "https://theconversation.com/how-maths-and-driverless-cars-could-spell-the-end-of-traffic-jams-63462",
+        "imageUrl": "https://images.theconversation.com/files/135193/original/image-20160823-30257-1dos8k6.jpg?ixlib=rb-4.1.1&q=50&auto=format&w=768&h=512&fit=crop&dpr=2",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkOvHZvNF8i4pe0qbBFiNJuJvXSeO44-qgdXvktXYecLhxkpUd"
+      },
+      "webpage": {
+        "text": "How maths and driverless cars could spell the end of traffic jams\n\nBeing stuck in miles of halted traffic is not a relaxing way to start or finish a summer holiday. And as we crawl along the road, our views blocked by by slow-moving roofboxes and caravans, many of us will fantasise about a future free of traffic jams.\n\nAs a mathematician and motorist, I view traffic as a complex system, consisting of many interacting agents including cars, lorries, cyclists and pedestrians. Sometimes these agents interact in a free-flowing way and at other (infuriating) times they simply grind to a halt. All scenarios can be examined – and hopefully improved – using mathematical modelling, a way of describing the world in the language of maths.\n\nMathematical models tell us for instance that if drivers kept within the variable speed limits sometimes displayed on a motorway, traffic would flow consistently at, say, 50mph. Instead we tend to drive more aggressively, accelerating as soon as the opportunity arises – and being forced to brake moments later. The result is greater fuel consumption and a longer overall journey time. Cooperative driving seems to go against human nature when we get behind the wheel. But could this change if our roads were taken over by driverless cars?\n\nIncorporating driverless cars into mathematical traffic models will prove key to improving traffic flow and assessing the various conditions in which traffic reaches a traffic jam threshold, or “jamming density”. The chances of reaching this point are affected by changes such as road layout, traffic volume and traffic light systems. And crucially, they are affected by whoever is in control of the vehicles.\n\nIn mathematical analysis, dense traffic can be treated as a flow and modelled using differential equations which describe the movement of fluids. Queuing models consider individual vehicles on a network of roads and the expected time they spend both in motion and waiting at junctions.\n\nAnother type of model consists of a grid in which cars’ positions are updated, according to certain rules, from one grid cell to the next. These rules can be based on their current velocity, acceleration and deceleration due to other vehicles and random events. This random deceleration is included to account for situations caused by something other than other vehicles – a pedestrian crossing the road for example, or a driver distracted by a passenger.\n\nAdaptations to such models can take into account factors such as traffic light synchronisation or road closures, and they will need to be adapted further to take into account the movement of driverless cars.\n\nIn theory, autonomous cars will typically drive within the speed limits, have faster reaction times allowing them to drive closer together and will behave less randomly than humans, who tend to overreact in certain situations. On a tactical level, choosing the optimum route, accounting for obstacles and traffic density, driverless cars will behave in a more rational way, as they can communicate with other cars and quickly change route or driving behaviour.\n\n\nIt all adds up\n\nSo driverless cars may well make the mathematician’s job easier. Randomness is often introduced into models in order to incorporate unpredictable human behaviour. A system of driverless cars should be simpler to model than the equivalent human-driven traffic because there is less uncertainty. We could predict exactly how individual vehicles respond to events.\n\nIn a world with only driverless cars on the roads, computers would have full control of traffic. But for the time being, to avoid traffic jams we need to understand how autonomous and human-driven vehicles will interact together.\n\nOf course, even with the best modelling, cooperative behaviour from driverless cars is not guaranteed. Different manufacturers might compete to come up with the best traffic-controlling software to ensure their cars get from A to B faster than their rivals. And, like the behaviour of individual human drivers, this could negatively affect everyone’s journey time.\n\nBut even supposing we managed to implement rules that optimised traffic flow for everyone, we could still get to the point where there are simply too many cars on the road, and jamming density is reached. Yet there is still potential for self-driving cars to help in this scenario.\n\nSome car makers expect that eventually we will stop viewing cars as possessions and instead simply treat them as a transport service. Again, by applying mathematical techniques and modelling, we could optimise how this shared autonomous vehicle service could operate most efficiently, reducing the overall number of cars on the road. So while driverless cars alone might not rid us of traffic jams completely by themselves, an injection of mathematics into future policy could help navigate a smoother journey ahead.",
+        "metadata": {
+          "title": "How maths and driverless cars could spell the end of traffic jams",
+          "fb:app_id": "127105130696839",
+          "description": "If computers ruled the roads, we might be out of a jam.",
+          "news_keywords": "Cars, Driverless cars, Mathematics, Traffic, Traffic jam",
+          "author": "Lorna Wilson",
+          "og:site_name": "The Conversation",
+          "og:title": "How maths and driverless cars could spell the end of traffic jams",
+          "og:description": "If computers ruled the roads, we might be out of a jam.",
+          "og:type": "article",
+          "og:image": "https://images.theconversation.com/files/135193/original/image-20160823-30257-1dos8k6.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=1356&h=668&fit=crop",
+          "og:updated_time": "2026-03-12T15:40:27Z",
+          "og:url": "https://theconversation.com/how-maths-and-driverless-cars-could-spell-the-end-of-traffic-jams-63462",
+          "article:publisher": "https://facebook.com/ConversationUK",
+          "fb:pages": "148546898646992",
+          "apple-mobile-web-app-title": "The Conversation"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Analyse mathématique de la circulation routière et du rôle potentiel des voitures autonomes et des modèles mathématiques pour réduire les embouteillages et améliorer la fluidité du trafic.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Conversation"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7527300888827013
+    },
+    {
+      "titre": "Is it illegal to drive a car without road tax? |",
+      "source": "the-sun.com",
+      "lien": "https://www.the-sun.com/motors/7538633/sun-illegal-drive-car-without-road-tax/",
+      "image_url": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/europe-united-kingdom-england-surrey-926805460.jpg?quality=80&strip=all&w=1920&h=1440&crop=1",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcBAYceZ5hSoEsaSRZ9cM6l_L0_bzqTebRSo0XQuseeGklraDD",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Is it illegal to drive a car without road tax? |",
+        "source": "the-sun.com",
+        "link": "https://www.the-sun.com/motors/7538633/sun-illegal-drive-car-without-road-tax/",
+        "imageUrl": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/europe-united-kingdom-england-surrey-926805460.jpg?quality=80&strip=all&w=1920&h=1440&crop=1",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcBAYceZ5hSoEsaSRZ9cM6l_L0_bzqTebRSo0XQuseeGklraDD"
+      },
+      "webpage": {
+        "text": "Is it illegal to drive a car without road tax?\n\nPAYING road tax is essential for driving legally in the UK.\n\nFailing to comply can result in your car being clamped or even towed away. Here’s everything you need to know about the legalities of driving without car tax.\n\n\nIs it illegal to drive without car tax?\n\nIt’s illegal to drive on the road with an untaxed vehicle, but there are certain situations where it is allowed.\n\nIf you’re taking your car to a pre-booked MOT test, you can drive your vehicle on a road without it being taxed.\n\nBut you must be going directly to the test centre and must not make any unnecessary stops or additional trips along the way.\n\nThe law states a vehicle licence must be renewed on an annual or six-monthly basis.\n\n\nRead more about road laws\n\n\nEven motors which have a nil rate of vehicle tax, meaning they do not attract a fee, must apply for tax with the DVLA.\n\nThis helps the agency maintain accurate vehicle records, which is important for road safety purposes and traceability.\n\n\nRead more on motors\n\n\nAre there any exemptions to road tax?\n\nThe DVLA allows tax exemptions for certain situations.\n\nDisabled drivers and those using disabled passenger vehicles don’t pay a road tax fee.\n\nCars classified as “historic”, made before January 1, 1983, are exempt.\n\nElectric vehicles also don’t have to pay vehicle tax but the electricity must come from an external source or an electric storage battery not connected to any source of power when the vehicle is moving to be exempt.\n\nCertain agricultural vehicles are also exempt.\n\n\nWhat happens if I have no road tax?\n\nPolice use Automatic Number Plate Recognition (ANPR) technology to detect cars without tax.\n\nIf you are caught driving an untaxed vehicle, you could be fined up to £1,000.\n\nThe DVLA also clamps vehicles on the street without a valid licence, and will impound them in some cases.\n\nWhen DVLA clamps an untaxed vehicle the motorist is charged a £100 release fee.\n\nIf you can’t show that the vehicle has been taxed when it’s released you will have to pay a surety fee of £160 – but it’s refunded if you can show the vehicle has been taxed within 15 days.\n\nIf the release fee is not paid within 24 hours, DVLA impounds the vehicle and the fee rises to £200, and there is also a storage charge of £21 per day.\n\nAgain, a surety fee of £160 must be paid if you can’t show that the vehicle has been taxed.\n\n\nDo I need to tax my car if I’m not driving it?\n\nAny vehicle being kept on a public road must be taxed, even if it’s parked there and not being driven.\n\nIf you are keeping a registered vehicle in a garage or on private land and not using it, it must be given a Statutory Off Road Notification (SORN).\n\nYou can apply for a SORN online for free, but you must cancel it if you wish to drive the vehicle again.\n\nDriving a vehicle with a current SORN notification could see you fined up to £2,500.\n\nThe DVLA launched an advertising campaign in 2019 to warn drivers of the consequences of evading vehicle tax.\n\nTim Burton, DVLA Head of Enforcement, said at the time: “It’s never been easier to tax your car, so there really is no excuse.\n\n“We would rather not have to clamp or remove vehicles, but this campaign highlights the consequences of not taxing a vehicle.\n\n“Having your vehicle clamped is expensive and inconvenient – and you could end up losing your car.”\n\n\nCan I keep an untaxed car on my drive?\n\nNo – it’s an offence to keep an untaxed car on a driveway or in a garage.\n\nOnly cars that are registered with the DVLA with a Statutory Off-Road Notification (SORN) can be kept uninsured and untaxed.\n\n\nREAD MORE IN THE SUN\n\n\n>\n\nIf police see an untaxed car, even if it’s on your driveway, they could give you an instant £100 fine, and your car could be impounded or destroyed.\n\nIf it goes to court, you could wind up with a £1,000 fine, points on your licence and even disqualification.\n\n\nTen things YOU should know as a car owner\n\n\n * When is your MOT due? Find out here\n * When is your car tax due? Find out here\n * Is it illegal to drive barefoot?\n * How many units can you drink and drive?\n * What do dashboard warning lights mean?\n * Is it illegal to drive without road tax?\n * Can you be fined for breaking the highway code?\n * How to change the address on your driving licence\n * What does MOT stand for?\n * Is it illegal to park across someone’s driveway?",
+        "metadata": {
+          "title": "Is it illegal to drive a car without road tax? |",
+          "sailthru.title": "Is it illegal to drive a car without road tax?",
+          "sailthru.description": "PAYING road tax is essential for driving legally in the UK. Failing to comply can result in your car being clamped or even towed away. Here’s everything you need to...",
+          "keywords": "DVLA,EVG,Explainers,Road Laws,Tax",
+          "article:opinion": "false",
+          "og:type": "article",
+          "og:title": "Here's what happens when you don't tax your car",
+          "og:url": "https://www.the-sun.com/motors/7538633/sun-illegal-drive-car-without-road-tax/",
+          "og:description": "PAYING road tax is essential for driving legally in the UK. Failing to comply can result in your car being clamped or even towed away. Here’s everything you need to know about the legalities …",
+          "article:published_time": "2024-08-22T10:55:47+00:00",
+          "article:modified_time": "2024-08-22T15:21:24+00:00",
+          "og:site_name": "The US Sun",
+          "og:image:width": "1920",
+          "og:image:height": "1080",
+          "og:locale": "en_GB",
+          "twitter:text:title": "Is it illegal to drive a car without road tax?",
+          "og:image:type": "image/jpeg",
+          "og:image": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/europe-united-kingdom-england-surrey-926805460.jpg?quality=80&strip=all&w=1920&h=1080&crop=1",
+          "article:publisher": "161385360554578",
+          "article:tag": "DVLA, EVG, Explainers, Road Laws, Tax",
+          "fb:app_id": "144647118961553",
+          "article:author": "161385360554578",
+          "fb:pages": "161385360554578"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Règles légales concernant la taxe routière au Royaume-Uni (UK), les exceptions possibles (comme les tests MOT, les véhicules électriques ou historiques), les sanctions en cas de non-conformité, l'utilisation de la technologie ANPR par la police et les notifications SORN.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Tim Burton"
+        ],
+        "LOCATION": [
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "DVLA"
+        ],
+        "DATE": [
+          "January 1, 1983",
+          "2019"
+        ],
+        "EVENT": [
+          "MOT test"
+        ],
+        "OTHER": [
+          "Automatic Number Plate Recognition",
+          "SORN",
+          "Statutory Off Road Notification"
+        ]
+      },
+      "score_e5": 0.741580286053915
+    },
+    {
+      "titre": "Medium Wave Transport added a new... - Medium Wave Transport",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/MediumWaveTransport/photos/494660010641821/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=494660010641821",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoF3-voKePfYpc7iCaXY7se_o5bLElQR4R3H6fFpkUBmOjO_t2",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Medium Wave Transport added a new... - Medium Wave Transport",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/MediumWaveTransport/photos/494660010641821/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=494660010641821",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoF3-voKePfYpc7iCaXY7se_o5bLElQR4R3H6fFpkUBmOjO_t2"
+      },
+      "webpage": {
+        "text": "Medium Wave Transport added a new...\n\nFacebook\n\nOpen app\n\n6 of 8\n\n\nTransport & Traveling Photos\nMedium Wave Transport\nOct 20, 2013 ·\n\n\nLoading...\n\nTry again\nCancel\nLoading...\n\n\nLoading...",
+        "metadata": {
+          "title": "Medium Wave Transport added a new... - Medium Wave Transport",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "app-id=284882215",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "app-id=284882215",
+          "og:type": "article",
+          "og:title": "Medium Wave Transport added a new... - Medium Wave Transport",
+          "og:description": "Medium Wave Transport added a new photo.",
+          "og:url": "https://www.facebook.com/photo.php?fbid=494660010641821&set=a.488378164603339&id=100054415122235",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=494660010641821",
+          "og:locale": "en_US",
+          "description": "Medium Wave Transport added a new photo.",
+          "twitter:title": "Medium Wave Transport added a new... - Medium Wave Transport",
+          "twitter:description": "Medium Wave Transport added a new photo."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication de photos de transport et de voyage par Medium Wave Transport sur Facebook en octobre 2013.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Medium Wave Transport",
+          "Facebook"
+        ],
+        "DATE": [
+          "Oct 20, 2013"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7553272676571535
+    },
+    {
+      "titre": "A14 upgrade to be toll road paid for by motorists - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-18913663",
+      "image_url": "http://news.bbcimg.co.uk/media/images/61687000/jpg/_61687747_a14_pa.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5LX5qtR4BhR-289PMX8lwNvdupusV3logCrKzzCsKt_VPmwu_",
+      "rang_lens": 5,
+      "brut": {
+        "title": "A14 upgrade to be toll road paid for by motorists - BBC News",
+        "source": "BBC",
+        "link": "https://www.bbc.com/news/uk-england-18913663",
+        "imageUrl": "http://news.bbcimg.co.uk/media/images/61687000/jpg/_61687747_a14_pa.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5LX5qtR4BhR-289PMX8lwNvdupusV3logCrKzzCsKt_VPmwu_"
+      },
+      "webpage": {
+        "text": "A14 upgrade to be toll road paid for by motorists\n\nIn tough times, if it's going to happen it can't just be paid for by the government - people who are using the road will have to dig into their pockets.\n\n\"The A14 has stopped Cambridge from growing and it's an impediment day by day to people going about their business,\" he added.\n\nThe plan to upgrade this vital artery through the region will cost up to £1.5 billion.\n\nMore then 100,000 vehicles a day travel through Cambridgeshire, a quarter of them heavy good vehicles.\n\nDelays frustrate motorists and cost businesses a fortune.\n\nJohn Bridge from Cambridgeshire Chamber of Commerce, external gave the plan a cautious thumbs up.\n\nHe said: \"The business community is somewhat concerned about tolling but I think we believe it's a necessary evil if it is the only way we can get the road upgraded.\"\n\nWhile the local MP for Huntingdon, Jonathan Djanogly, external (Con) had warmer words: \"The east of England needs this road to develop the area and without it, particularly as the economy picks up, it's going to be an increasing problem, so it's important we get on with it.\"",
+        "metadata": {
+          "description": "The government announces plans to introduce a toll road to upgrade part of the A14 through Cambridgeshire to ease congestion.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The government announces plans to introduce a toll road to upgrade part of the A14 through Cambridgeshire to ease congestion.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/61687000/jpg/_61687747_a14_pa.jpg",
+          "og:image:alt": "A14 traffic",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "A14 upgrade to be toll road paid for by motorists",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-18913663",
+          "article:section": "England",
+          "twitter:description": "The government announces plans to introduce a toll road to upgrade part of the A14 through Cambridgeshire to ease congestion.",
+          "twitter:title": "A14 upgrade to be toll road paid for by motorists"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-18913663",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2012-07-19T15:16:56.000Z",
+          "dateModified": "2012-07-19T15:16:56.000Z",
+          "description": "The government announces plans to introduce a toll road to upgrade part of the A14 through Cambridgeshire to ease congestion.",
+          "headline": "A14 upgrade to be toll road paid for by motorists",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/61687000/jpg/_61687747_a14_pa.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/61687000/jpg/_61687747_a14_pa.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-18913663",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Deborah McGurran",
+              "sameAs": [
+                "https://www.bbc.co.uk/news/correspondents/deborahmcgurran"
+              ]
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Projet de modernisation de la route A14 en route à péage financée par les usagers pour un coût pouvant aller jusqu'à 1,5 milliard de livres, avec des réactions de la communauté des affaires et du député local Jonathan Djanogly.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Bridge",
+          "Jonathan Djanogly"
+        ],
+        "LOCATION": [
+          "Cambridgeshire",
+          "Huntingdon",
+          "east of England"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Cambridgeshire Chamber of Commerce"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "A14"
+        ]
+      },
+      "score_e5": 0.7380096143465311
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "M4",
+      "Newport",
+      "Cardiff"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "game"
+    ],
+    "OTHER": [
+      "Heavy traffic"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Huntingdon"
+    ],
+    "ORGANIZATION": [
+      "BBC"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "A14"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7659868409275937,
+  "S_ent": 0.0,
+  "S_OOC": 0.38299342046379686,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "EVENT",
+    "OTHER"
+  ]
+}

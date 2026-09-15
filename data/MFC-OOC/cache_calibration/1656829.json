@@ -1,0 +1,607 @@
+{
+  "id_rumeur": 1656829,
+  "id_image": 1656829,
+  "caption": "Afghan security forces are attempting to maintain control of Kunduz",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747918/oluyewo_benchmark/j1ohtcatceqipdyd1obo.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Afghan air strike: Kunduz MSF clinic workers killed - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-asia-34432471",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/11416/production/_85887607_ca9fc331-6748-459c-a726-893685d2d4d2.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPSQ3HMGJkqskPmPxtejWqj2lL6QMlXbdUUZL0HzrWi1BiYEb8",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Afghan air strike: Kunduz MSF clinic workers killed - BBC News",
+        "link": "https://www.bbc.com/news/world-asia-34432471",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPSQ3HMGJkqskPmPxtejWqj2lL6QMlXbdUUZL0HzrWi1BiYEb8",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/11416/production/_85887607_ca9fc331-6748-459c-a726-893685d2d4d2.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Afghan air strike: Kunduz MSF clinic workers killed\n\nMedecins Sans Frontieres (MSF) said, external its clinic was hit several times during \"sustained bombing and was very badly damaged\" at 02:10 local time (22:40 GMT) on Saturday.\n\nMany patients and staff remain unaccounted for, it said.\n\nThe organisation says that all parties to the conflict, including Kabul and Washington, had been told the precise GPS co-ordinates of the hospital in Kunduz on many occasions.\n\nThe bombing continued for more than 30 minutes after US and Afghan officials were informed of the proximity to the hospital, the charity tweeted, external.\n\nA spokesman for US forces in Afghanistan, Col Brian Tribus, said: \"US forces conducted an air strike in Kunduz city at 02:15 (local time)... against individuals threatening the force.\n\n\"The strike may have resulted in collateral damage to a nearby medical facility.\"\n\nThe incident is being investigated, he added.\n\n * In pictures: How Kunduz 'recapture' unfolded\n\n * Residents' tales of fighting in Kunduz\n\n * Crucial capture: Taliban's biggest victory since 2001\n\n * Taliban selfies: The militants posing for pictures as they seized the city\n\nThe operating theatre and emergency department were among the parts of the hospital complex hit, according to Adil Akbar, a doctor who spoke to AP.\n\n\"I managed to escape after [the] attack but I know that most of the staff and even some of the patients are missing,\" he said.",
+        "metadata": {
+          "description": "An air strike hits a clinic in the Afghan city of Kunduz, killing at least nine medical staff, as Nato admits US forces may have been involved.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "An air strike hits a clinic in the Afghan city of Kunduz, killing at least nine medical staff, as Nato admits US forces may have been involved.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6BBA/production/_85887572_kunduzgrabfire_bbc.jpg",
+          "og:image:alt": "Grab from a video of the damage to the MSF Kunduz facility (3 October 2015)",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Afghan air strike: Kunduz MSF clinic workers killed",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-asia-34432471",
+          "article:section": "Asia",
+          "twitter:description": "An air strike hits a clinic in the Afghan city of Kunduz, killing at least nine medical staff, as Nato admits US forces may have been involved.",
+          "twitter:title": "Afghan air strike: Kunduz MSF clinic workers killed"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-asia-34432471",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-10-03T04:07:15.000Z",
+          "dateModified": "2015-10-03T09:51:54.000Z",
+          "description": "An air strike hits a clinic in the Afghan city of Kunduz, killing at least nine medical staff, as Nato admits US forces may have been involved.",
+          "headline": "Afghan air strike: Kunduz MSF clinic workers killed",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6BBA/production/_85887572_kunduzgrabfire_bbc.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6BBA/production/_85887572_kunduzgrabfire_bbc.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-asia-34432471",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une frappe aérienne a touché une clinique de Médecins Sans Frontières (MSF) à Kundus à 02:10 heure locale samedi, causant de graves dommages et tuant des travailleurs ainsi que des patients, tandis que de nombreuses personnes restent introuvables. Les coordonnées GPS précises de l'hôpital avaient été communiquées aux différentes parties au conflit, y compris Kaboul et Washington. Les bombardements se sont poursuivis pendant plus de 30 minutes après que les autorités américaines et afghanes ont été informées de la proximité de l'hôpital. Un porte-parole des forces américaines en Afghanistan, le colonel Brian Tribus, a déclaré qu'une frappe aérienne avait été menée à Kundus city à 02:15 contre des individus menaçant la force et que celle-ci aurait pu causer des dommages collatéraux à une installation médicale voisine, un incident actuellement en cours d'enquête.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Brian Tribus",
+          "Adil Akbar"
+        ],
+        "LOCATION": [
+          "Kundus",
+          "Kabul",
+          "Washington",
+          "Afghanistan"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Medecins Sans Frontieres",
+          "US forces"
+        ],
+        "DATE": [
+          "Saturday",
+          "02:10",
+          "22:40 GMT",
+          "02:15",
+          "2001"
+        ],
+        "EVENT": [
+          "Afghan air strike: Kunduz MSF clinic workers killed"
+        ],
+        "OTHER": [
+          "GPS"
+        ]
+      },
+      "score_e5": 0.7739347179734604
+    },
+    {
+      "titre": "Member Afghan Security Forces Stands Near Editorial Stock ...",
+      "source": "Shutterstock",
+      "lien": "https://www.shutterstock.com/editorial/image-editorial/member-afghan-security-forces-stands-near-armoured-8424741a",
+      "image_url": "https://www.shutterstock.com/editorial/image-editorial/O5DfQ547MeT6I90dMzMwMg==/member-afghan-security-forces-stands-near-armoured-440nw-8424741a.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSysleSi8gaeoaLTSEgdn7XeLwUlrSCP-OcL6FGcLRw3DSr4CFm",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Member Afghan Security Forces Stands Near Editorial Stock ...",
+        "link": "https://www.shutterstock.com/editorial/image-editorial/member-afghan-security-forces-stands-near-armoured-8424741a",
+        "source": "Shutterstock",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEX3ZUD____3ZD_3Yj33aUX6qJP8wLH5iWz3aET92tH_9_X7u6r6ooz8w7T3bEn6oIn-6-b5jXL6ln37taP4c1H939j5hWj6m4P4fF34cE75kXb7s6H90cb8yLv4gWP7qpb-8u_91csbJj-EAAABBklEQVQ4jZWSyXKEMAxEkbzAeMMMBhOWwPz_Twa7OEpJ5R24qAt1y900_wFFhRd8DU6pvg3cvHtb770eB_4Xf6wQYVXbpgbJSdodCub4RtrCOL0qk6IFjQyyEiTnIeVz_MUDtq_Hw0KuwDSB2bWfAA5yh8gAo0RMB1wztUQ4AFfuNGtN5hSDgXjmNnWCS2mrxXjkQCswuD2aIrL0Ie42dKntbQSzUiZxPvtQTPYAJ5lCgXGlU3caRQrmCJd1bosQ6efEd6ynhqunYza4bMfnc9iWmZcYjZQd27lOeV3xmVHkx8O0MrfG5fT77l1i5rX1z4cxMaiCY1M0i7Na2z6xAhR4w9WB4QeShgxAJ3gvdwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSysleSi8gaeoaLTSEgdn7XeLwUlrSCP-OcL6FGcLRw3DSr4CFm",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.shutterstock.com/editorial/image-editorial/O5DfQ547MeT6I90dMzMwMg==/member-afghan-security-forces-stands-near-armoured-440nw-8424741a.jpg",
+        "image_width": 307,
+        "image_height": 460
+      },
+      "webpage": null,
+      "texte_contexte": "Un membre des forces de sécurité afghanes se tient près d'un véhicule blindé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Shutterstock",
+          "Afghan Security Forces"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8223372213080254
+    },
+    {
+      "titre": "Suicide bomb blast near Afghan ministry kills civilians ...",
+      "source": "Al Jazeera",
+      "lien": "https://www.aljazeera.com/news/2018/7/15/suicide-bomb-blast-near-afghan-ministry-kills-civilians",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2018/07/707ef8d0f6254c2685ab14ea69681720_18.jpeg?resize=770,513&quality=80",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7aZPBzokYRbouTN0by01tM7kGDQZ4qA7FoU_b7ABq2KW8gPlE",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Suicide bomb blast near Afghan ministry kills civilians ...",
+        "link": "https://www.aljazeera.com/news/2018/7/15/suicide-bomb-blast-near-afghan-ministry-kills-civilians",
+        "source": "Al Jazeera",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEX6kAD6jQD6iwD6jgD8w3b916P8vGb8wXH-4rz6iQD6mxn8v2v7rED9zY392Kb93rP6lxD91Jz-7NT8yIH7qDj7oin8tVb8umH7r0j7niL-8d7-58n7pDL926z7s1D9yYX90ZT_____9-v-5cL-7df8t1oeeSrwAAABGUlEQVQ4ja2SzYKDIAyE-QcRJYIoolKr7fu_4h72VtEednPlYyaZBKH_Lkq_AKDvCWy-AER-A-qa3FuEFPAdQA2b4dqkirOfmvZSgi6Wewvqsg0cVVev7eSWsgYlC-cssyar8jt6qJ5tser6TRZMKNgGhW0FMAyOQlyUe039w4MIbcPYSYL2q466acIA8pnCCp8AkQMyw8gogp374M3nIETGSNgyykm_tdPvUxYkzs9RIptGC_Najf4ToNr1XEy7AXO4qdrOALIu5dgxwl9GhT2fk6jF27D4aNOExmM_rxQLqAYV8-as2p8FARq6wc7D5jk_uuK2cJxTzpILoKS8TYyACZFM7i9PChvr9tuzxkFef_9t9cL-L_UD328RgUEn6xwAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7aZPBzokYRbouTN0by01tM7kGDQZ4qA7FoU_b7ABq2KW8gPlE",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.aljazeera.com/wp-content/uploads/2018/07/707ef8d0f6254c2685ab14ea69681720_18.jpeg?resize=770,513&quality=80",
+        "image_width": 513,
+        "image_height": 770
+      },
+      "webpage": {
+        "text": "Suicide bomb blast near Afghan ministry kills civilians | News\n\nAt least seven people were killed in an explosion outside the Ministry of Rural Rehabilitation and Development building.\n\nA suicide bomber has detonated his explosives at the gate of government building in the Afghan capital, Kabul, killing at least seven people, according to police.\n\nMore than 15 others were wounded in Sunday’s attack, which occured during the evening rush hour as employees were leaving the Ministry of Rural Rehabilitation and Development (MRRD).\n\nHashmat Stanekzai, Kabul police spokesman, said those killed in the attack were staff members of the MRRD.\n\nThere was no immediate claim of responsibility.\n\nThe ministry was also targeted just over a month ago in a suicide bomb attack that killed at least 13 people and wounded 31 others.\n\nAccording to figures released on Sunday by the UN Assistance Mission in Afghanistan (UNAMA), 1,692 civilians were killed during the first six months of 2018 – the most recorded in the period over the last decade since the agency began documentation.\n\nIn less than two weeks, three separate attacks in Nangarhar province’s capital Jalalabad have killed at least 41 people, with the latest one on July 11 targeting an office of the education department.",
+        "metadata": {
+          "title": "Suicide bomb blast near Afghan ministry kills civilians",
+          "description": "At least seven people were killed in an explosion outside the Ministry of Rural Rehabilitation and Development building.",
+          "keywords": "News, Afghanistan, Asia",
+          "pageTitle": "Suicide bomb blast near Afghan ministry kills civilians",
+          "og:title": "Suicide bomb blast near Afghan ministry kills civilians",
+          "og:description": "At least seven people were killed in an explosion outside the Ministry of Rural Rehabilitation and Development building.",
+          "og:url": "https://www.aljazeera.com/news/2018/7/15/suicide-bomb-blast-near-afghan-ministry-kills-civilians",
+          "og:type": "article",
+          "og:image": "https://www.aljazeera.com/wp-content/uploads/2018/07/707ef8d0f6254c2685ab14ea69681720_18.jpeg?resize=1200%2C675",
+          "og:site_name": "Al Jazeera",
+          "og:image:alt": "Suicide bomb blast near Afghan ministry kills civilians",
+          "twitter:title": "Suicide bomb blast near Afghan ministry kills civilians",
+          "twitter:description": "At least seven people were killed in an explosion outside the Ministry of Rural Rehabilitation and Development building."
+        },
+        "jsonld": {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.aljazeera.com#Organization",
+          "foundingDate": "2006-11-15",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com",
+          "logo": "https://www.aljazeera.com/images/logo_aje.png",
+          "sameAs": [
+            "https://www.facebook.com/aljazeera",
+            "https://twitter.com/ajenglish",
+            "https://www.youtube.com/aljazeeraenglish",
+            "https://www.instagram.com/aljazeeraenglish/?hl=en"
+          ],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Al Jazeera Media Network",
+            "alternateName": "شبكة الجزيرة الإعلامية"
+          },
+          "@context": "https://schema.org"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un attentat suicide a eu lieu près du bâtiment du Ministère du Développement rural et de la réhabilitation (MRRD) à Kaboul, tuant au moins sept personnes, des membres du personnel du MRRD, et en blessant plus de 15 autres lors de l'heure de pointe du soir. La mission d'assistance des Nations Unies en Afghanistan (UNAMA) a indiqué que 1 692 civils ont été tués au cours des six premiers mois de 2018. En outre, trois attaques distinctes à Jalalabad, capitale de la province de Nangarhar, ont tué au moins 41 personnes en moins de deux semaines, dont une le 11 juillet ciblant un bureau du département de l'éducation.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hashmat Stanekzai"
+        ],
+        "LOCATION": [
+          "Kabul",
+          "Jalalabad",
+          "Nangarhar"
+        ],
+        "ORGANIZATION": [
+          "Al Jazeera",
+          "Ministry of Rural Rehabilitation and Development",
+          "UN Assistance Mission in Afghanistan"
+        ],
+        "DATE": [
+          "2018",
+          "Sunday",
+          "July 11",
+          "first six months of 2018",
+          "last decade"
+        ],
+        "EVENT": [
+          "Suicide bomb blast near Afghan ministry kills civilians"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.749757309941111
+    },
+    {
+      "titre": "Member Afghan Security Forces Stands Near Editorial Stock ...",
+      "source": "Shutterstock",
+      "lien": "https://www.shutterstock.com/editorial/image-editorial/member-afghan-security-forces-stands-near-armoured-8424741e",
+      "image_url": "https://www.shutterstock.com/editorial/image-editorial/OcD4Qc45M7T3M5zaNzE0NQ==/member-afghan-security-forces-stands-near-armoured-440nw-8424741e.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBpMdnXJ02_jrSksJDHJ7whq_WfN4EyRv7lV1miTik4Frct62S",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Member Afghan Security Forces Stands Near Editorial Stock ...",
+        "link": "https://www.shutterstock.com/editorial/image-editorial/member-afghan-security-forces-stands-near-armoured-8424741e",
+        "source": "Shutterstock",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEX3ZUD____3ZD_3Yj33aUX6qJP8wLH5iWz3aET92tH_9_X7u6r6ooz8w7T3bEn6oIn-6-b5jXL6ln37taP4c1H939j5hWj6m4P4fF34cE75kXb7s6H90cb8yLv4gWP7qpb-8u_91csbJj-EAAABBklEQVQ4jZWSyXKEMAxEkbzAeMMMBhOWwPz_Twa7OEpJ5R24qAt1y900_wFFhRd8DU6pvg3cvHtb770eB_4Xf6wQYVXbpgbJSdodCub4RtrCOL0qk6IFjQyyEiTnIeVz_MUDtq_Hw0KuwDSB2bWfAA5yh8gAo0RMB1wztUQ4AFfuNGtN5hSDgXjmNnWCS2mrxXjkQCswuD2aIrL0Ie42dKntbQSzUiZxPvtQTPYAJ5lCgXGlU3caRQrmCJd1bosQ6efEd6ynhqunYza4bMfnc9iWmZcYjZQd27lOeV3xmVHkx8O0MrfG5fT77l1i5rX1z4cxMaiCY1M0i7Na2z6xAhR4w9WB4QeShgxAJ3gvdwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBpMdnXJ02_jrSksJDHJ7whq_WfN4EyRv7lV1miTik4Frct62S",
+        "thumbnail_width": 178,
+        "thumbnail_height": 283,
+        "image": "https://www.shutterstock.com/editorial/image-editorial/OcD4Qc45M7T3M5zaNzE0NQ==/member-afghan-security-forces-stands-near-armoured-440nw-8424741e.jpg",
+        "image_width": 289,
+        "image_height": 460
+      },
+      "webpage": null,
+      "texte_contexte": "Un membre des forces de sécurité afghanes se tient près d'un véhicule blindé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Shutterstock",
+          "Afghan Security Forces"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8223372213080254
+    },
+    {
+      "titre": "Afghanistan - Überreste deutscher Entwicklungshilfe",
+      "source": "Deutschlandfunk",
+      "lien": "https://www.deutschlandfunk.de/afghanistan-ueberreste-deutscher-entwicklungshilfe-100.html",
+      "image_url": "https://bilder.deutschlandfunk.de/FI/LE/_e/58/FILE_e58437a573f5539ec4bbb15e41166497/62270867-jpg-100-1280x720.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThe6NzCFrxG6f8JuQHeXl98rEVqj-1e2oYC3Mg1VUVypTNBdgA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Afghanistan - Überreste deutscher Entwicklungshilfe",
+        "link": "https://www.deutschlandfunk.de/afghanistan-ueberreste-deutscher-entwicklungshilfe-100.html",
+        "source": "Deutschlandfunk",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACLElEQVRYhcWXv2sUQRTHPzM7e7t3OTlFiKQR_wYhjZVNsIqgFmn8A8TCVvwPRCztrBT8AWprhEhQG0lhIYogLETFxuRiUMjdyd7tWMwdYjIzt-Mt7rdaWPbN9733fd83KxZu6Aw4Qj3YVcA8cKgmArEE8poOB8hljYcDoHwv-znogGCRhCSqgIDWJtip49AICPi9Dx-7IMWMBAoNbQWPV6AZlw_26jMs34O5gG-sBISAvIBbG9BJywf7sD2WdQCsBKSAX0O4uga6KB8siqCpzLcTJMrowqUlZwsSBdeXoJOUJ4Cl92sZrG9C6pC7U4QNCZcXoR1CwIKfA1jNAgmAKVm3Bw3voE7HXm4tjJ9AJKE_hJVHoGa0qp0etDxT4a6AhmwnzIhsiKQ_CacIWzHcOQ_zczMyGOPac3j95aCvOEUoBZxcgKOtagh0EpPYfng7PBj63obBdvhUAiE2PA2RYxTcTjiCK0-Ns1WB91vG3EoREAKGI3j4zl26MmgqMwF6_BzLg1PlnIJUwc0zcDhgGe3H7TdmPU9Wui0X5xTEEi4tui20DJ5lpvS-O4W9BcBIw8ZXONbm39xIwI-BW3xeAlKaETz3IOxsJf6u2KSVwQT0ONjpE3blurC9B2-__claCP8ichIoCkgTuHsB2o3yBF5-grP3K7iSSWFacPEJpAGX0m4vXLROHxhpeLFpJqJ0MBnWMieBCXx7vCrU_mckgf-QpxOxArao7wd19zdOc4rMRsOPzwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThe6NzCFrxG6f8JuQHeXl98rEVqj-1e2oYC3Mg1VUVypTNBdgA",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://bilder.deutschlandfunk.de/FI/LE/_e/58/FILE_e58437a573f5539ec4bbb15e41166497/62270867-jpg-100-1280x720.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Afghanistan\n\nEin kleiner Junge ruft zum Gebet, lässt seine Stimme über die Dächer von Kundus schallen, ein Junge als Muezzin. Symbol der Hoffnung und des Neuanfangs? Oder lediglich Zeichen dafür, dass auch Kinder überall mithelfen müssen, damit die Dinge wieder funktionieren?\n\nVor wenigen Monaten erst, im Oktober 2015, überrannten Taliban die Stadt und hielten sie tagelang besetzt. Nur durch US-geführte Luftangriffe und Verstärkungen aus Kabul konnten die Angreifer wieder vertrieben werden.\n\nIm Zentrum ist davon zunächst nichts zu erkennen. Beigefarbene Häuserzeilen, im Erdgeschoss winzige Friseurläden oder Kebab-Bratereien, die Straßen überfüllt von Autos und Händlern, die ihre Karren zu einem der vielen kleinen Märkte schieben. Alles scheint wie vor dem Angriff – auf den ersten Blick. Doch der Schein trügt, sagt ein Beamter vom städtischen Flüchtlingsbüro: Wer mit eigenen Augen sehen wolle, welche Spuren die schweren Gefechte vom Oktober 2015 hier zurückgelassen haben, der müsse im wahrsten Sinn des Wortes hinter die Fassaden schauen.\n\nUntergebracht bei Verwandten oder Stammesangehörigen\n\nEtwa 13.000 Familien, erklärt er, sind durch die Kämpfe vertrieben worden aus unterschiedlichen Distrikten der Provinz Kundus. Untergebracht sind sie aber nicht, für die Öffentlichkeit sichtbar, in Zeltstädten oder in Wohncontainern, sondern bei Verwandten oder Stammesangehörigen. Der Mann vom Flüchtlingsamt führt uns zu einer solchen Unterkunft.\n\nWie viele der hier üblichen Wohnhäuser, besteht auch dieses aus drei einstöckigen Lehmbauten, die sich hufeisenförmig um einen kleinen Wirtschaftshof gruppieren.\n\nDer Gästeflügel ist eigentlich dazu gedacht, dass die Freunde des Hausherrn sich gegenüber sitzen, Tee trinken und miteinander sprechen. Jetzt aber drängen sich in dem schlauchartigen Raum Dutzende Vertriebener, mehrköpfige Familien samt Großeltern und Kindern. Eine etwa 30-jährige Frau hat ihr Baby mit einer Wolldecke umwickelt und versucht, es so gegen die Winterkälte zu schützen.\n\n\"Viele Menschen aus unserem Dorf sind durch die Kämpfe umgekommen, unsere Nutztiere wurden getötet. Es ist, als ob wir zwischen zwei Mühlsteinen zerrieben werden, den Regierungskräften und den Taliban. Zu Hause haben wir keine Sicherheit und nichts zu essen.\"\n\nIn den Raumecken dienen Gaskocher als behelfsmäßige Herde. Der etwa 50-jährige Abderrahman bereitet sich Tee und wärmt zugleich seine Hände an der kleinen Flamme. Auf absehbare Zeit wird er wohl nicht die Ernte einbringen können, sagt er – nicht mal als Arbeitskraft bei anderen.\n\n\"Ich wurde von einem Artillerieschrapnell getroffen, wahrscheinlich abgeschossen von den Regierungskräften. Als die Granate einschlug, war ich gerade auf meinem Feld. Die Splitter stecken mir immer noch im Rücken.\"\n\nEin junger Mann bittet um Telefonnummern und Adressen in Deutschland.\n\n\"Ich will lieber früher als später von hier weg und nach Deutschland gehen. Ich will dort einfach nur in Frieden leben. Leute aus unserem Dorf sind bereits nach Deutschland gereist, illegal durch den Iran und die Türkei. Einige sind unterwegs gestorben, einige haben überlebt. Die haben uns angerufen und von Deutschland nur das Beste erzählt. \"\n\nDoch auch, wenn er das gerne möchte, wie alle anderen hier, leisten kann er sich den Trip nicht. 10.000 Dollar, sagt er, das sei das gängige Startkapital. Soviel brauche man, um sich überhaupt erst auf den Weg machen zu können.\n\nVorwürfe gegen deutsche Entwicklungshilfe\n\nDie deutlichsten Spuren haben die Kämpfe vom Oktober 2015 im Distrikt von Schahardarah hinterlassen. Die Mauern der Polizeiwache stehen zwar noch, aber die meisten Räume sind ausgebrannt und unbenutzbar. Abu Sairas, der Distriktchef, geht durch die Trümmerwüste voran.\n\nDer Boden ist mit Schrapnells und anderen Kampfrückständen übersät. Nur in der ehemaligen Küche, wie vom Wechsel der Zeiten unbeschadet, prangt noch, an einer Schublade die säuberliche Aufschrift \"KARTOFFELN\", irgendwann mal angebracht von einem Koch der Bundeswehr. Apropos Deutschland. Auf der Stirn des Distriktchefs zeigt sich eine Zornesfalte. In seinem Büro zeigt er auf eine Karte der Provinz.\n\n\"Deutschland hat die lange geplante Verbindungsstraße zwischen Kundus und Mazar-e Sharif nicht gebaut. Wäre die fertig gewesen, hätte das unsere Sicherheit wesentlich verbessert. Dann hätten Verstärkungen unsere bedrängten Armee- und Polizeieinheiten in Kundus wesentlich schneller erreicht. Der Grund, weshalb die Taliban hier so stark sind, ist ganz einfach. Unsere Jugendlichen haben keine Arbeit, sie brauchen Geld und die Taliban geben es ihnen. Wenn wir Fabriken hätten, Betriebe, Unternehmen, wäre ein großer Teil des Problems gelöst. Wir haben zum Beispiel Fabrikanlagen, wir könnten sie entwickeln und dort viele Arbeitsplätze schaffen, alles was wir brauchen ist eine Anschubfinanzierung. Deutschland hat das alles versprochen, aber nun kommt nichts.\"\n\nGIZ hat Mitarbeiter aus Kundus abgezogen\n\nHat die Bundesregierung Kundus wirklich im Stich gelassen? Das Büro der GIZ, der staatlichen deutschen Gesellschaft für Internationale Zusammenarbeit, liegt in einem ruhigen Villenviertel am Stadtrand von Kundus. Nach langem Klopfen öffnet sich schließlich eine Luke. Der Wächter ist kurz angebunden. Alle Deutschen seien weg, die afghanischen Mitarbeiter nicht zu sprechen.\n\nAuf Nachfrage bestätigt die GIZ in der Nachbarprovinz Baghlan, dass ihre deutschen Mitarbeiter auf unbestimmte Zeit aus Kundus abgezogen wurden. Was noch ausstehende Projekte angehe, so gelte die Devise: Erst müsse die Regierung Sicherheit garantieren. Sicherheit sei die Voraussetzung für plangemäßen Aufbau. Mohammed Safi sieht das ganz anders.\n\n\"Es gibt seit Langem eine gewaltige Lücke zwischen dem, was Deutschland uns versprochen hatte und was es wirklich eingehalten hat.\"\n\nDer Mittfünfziger mit dem tiefschwarzen Schnurrbart war bis zum Überfall der Taliban im Oktober 2015 Gouverneur von Kundus. Dann setzte Präsident Ashraf Ghani ihn ab. Offiziell deshalb, weil Safi dem Angriff der Taliban nicht vorgebeugt habe. Dabei, so betont der Ex-Gouverneur, habe gerade er immer wieder vor genau so einem Angriff gewarnt. Gewarnt habe er auch die Deutschen. Aber statt durch kontinuierliche Hilfe Kundus stabil zu machen, hätten die seit dem Bundeswehrabzug 2013 ein Vorhaben nach dem anderen auf Eis gelegt.\n\n\"Die Deutschen haben mir offen mitgeteilt: Wir setzen die meisten unserer Projekte deshalb aus, weil die Sicherheit so schlecht ist. Mein Gegenargument war: Je weniger Deutschland Hilfe leistet, desto unsicherer wird es, desto mehr Flüchtlinge werden wir im eigenen Land bekommen und desto mehr Afghanen werden sich auf den Weg nach Europa machen.\"\n\nEin Gegenargument, das sich aus heutiger Sicht schwer widerlegen lässt.",
+        "metadata": {
+          "title": "Afghanistan - Überreste deutscher Entwicklungshilfe",
+          "description": "Nachdem die Taliban vergangenes Jahr Kundus überrannten und erst nach tagelangen Kämpfen wieder vertrieben werden konnten, sind 13.000 Familien Flüchtlinge im eigenen Land. Offizielle deutsche Entwicklungshilfe gibt es hier derzeit nicht - immer mehr machen sich deshalb auf den Weg nach Europa.",
+          "og:title": "Afghanistan - Überreste deutscher Entwicklungshilfe",
+          "og:description": "Nachdem die Taliban vergangenes Jahr Kundus überrannten und erst nach tagelangen Kämpfen wieder vertrieben werden konnten, sind 13.000 Familien Flüchtlinge im eigenen Land. Offizielle deutsche Entwicklungshilfe gibt es hier derzeit nicht - immer mehr machen sich deshalb auf den Weg nach Europa.",
+          "og:type": "article",
+          "og:locale": "de_DE",
+          "og:site_name": "Deutschlandfunk",
+          "og:url": "https://www.deutschlandfunk.de/afghanistan-ueberreste-deutscher-entwicklungshilfe-100.html",
+          "author": "deutschlandfunk.de",
+          "publisher": "deutschlandfunk.de"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "En octobre 2015, les talibans ont envahi la ville de Kundus et l'ont occupée pendant des jours, avant d'être chassés par des frappes aériennes dirigées par les États-Unis et des renforts de Kaboul. Environ 13 000 familles ont été déplacées de différents districts de la province de Kundus en raison des combats, trouvant refuge non pas dans des camps de tentes mais chez des proches ou des membres de tribus, vivant dans des conditions difficiles dans des habitations traditionnelles en pisé. Un habitant nommé Abderrahman témoigne avoir été blessé par un éclat d'obus d'artillerie, probablement tiré par les forces gouvernementales.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abderrahman"
+        ],
+        "LOCATION": [
+          "Kundus",
+          "Kabul",
+          "Germany"
+        ],
+        "ORGANIZATION": [
+          "Deutschlandfunk",
+          "Taliban"
+        ],
+        "DATE": [
+          "October 2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7807903051961019
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Kunduz"
+    ],
+    "ORGANIZATION": [
+      "Afghan security forces"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Brian Tribus",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Adil Akbar",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hashmat Stanekzai",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abderrahman",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kunduz",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kabul",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jalalabad",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nangarhar",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Medecins Sans Frontieres",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US forces",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shutterstock",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Afghan Security Forces",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al Jazeera",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ministry of Rural Rehabilitation and Development",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN Assistance Mission in Afghanistan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Deutschlandfunk",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taliban",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "02:10",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "22:40 GMT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "02:15",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2001",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 11",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "first six months of 2018",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last decade",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Afghan air strike: Kunduz MSF clinic workers killed",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Suicide bomb blast near Afghan ministry kills civilians",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "GPS",
+      "rangs": [
+        1
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T13:13:18.280682"
+  }
+}

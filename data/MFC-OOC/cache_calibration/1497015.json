@@ -1,0 +1,1162 @@
+{
+  "id_rumeur": 1497015,
+  "id_image": 1497015,
+  "caption": "Lorries were left queuing in Kent last week after strikers blockaded Calais",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757217/oluyewo_benchmark/la90tnbstqgcazxxpr1f.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Operation Stack on M20 in Kent lifted after Calais strike ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-kent-33266784",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1416C/production/_83848228_83823675.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-zXNgodPoanXSfJk9PjnJTlHlgmPQH3MLOwNErcdVOvdYUN_3",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Operation Stack on M20 in Kent lifted after Calais strike ...",
+        "link": "https://www.bbc.com/news/uk-england-kent-33266784",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-zXNgodPoanXSfJk9PjnJTlHlgmPQH3MLOwNErcdVOvdYUN_3",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1416C/production/_83848228_83823675.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Operation Stack on M20 in Kent lifted after Calais strike\n\nAnother seven suspected migrants were arrested after climbing out of lorries at a service area on the M1 in Bedfordshire.\n\nDavid Cameron described the scenes at the French port as \"totally unacceptable\".\n\nThe Prime Minister said Britain was considering the possibility of sending more UK officers and sniffer dog teams to Calais, and more fences were being installed at the port as well as around the entrance to the Channel Tunnel.\n\nThe Foreign Office has warned travellers to keep their car doors locked in slow-moving traffic heading back to the UK.",
+        "metadata": {
+          "description": "An emergency measure which shut parts of the M20 in Kent is lifted 36 hours after it was introduced following disruption in Calais.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "An emergency measure which shut parts of the M20 in Kent is lifted 36 hours after it was introduced following disruption in Calais.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28AC/production/_83821401_83821396.jpg",
+          "og:image:alt": "Operation Stack",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Operation Stack on M20 in Kent lifted after Calais strike",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-kent-33266784",
+          "article:section": "Kent",
+          "twitter:description": "An emergency measure which shut parts of the M20 in Kent is lifted 36 hours after it was introduced following disruption in Calais.",
+          "twitter:title": "Operation Stack on M20 in Kent lifted after Calais strike"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-kent-33266784",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-06-25T07:41:41.000Z",
+          "dateModified": "2015-06-25T07:41:41.000Z",
+          "description": "An emergency measure which shut parts of the M20 in Kent is lifted 36 hours after it was introduced following disruption in Calais.",
+          "headline": "Operation Stack on M20 in Kent lifted after Calais strike",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28AC/production/_83821401_83821396.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28AC/production/_83821401_83821396.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-kent-33266784",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Operation Stack on the M20 in Kent was lifted following a strike in Calais. Seven suspected migrants were arrested after leaving lorries at a service area on the M1 in Bedfordshire. David Cameron described the scenes at the French port as totally unacceptable, mentioning potential deployment of more UK officers and sniffer dog teams, installation of additional fences at the port and Channel Tunnel entrance. The Foreign Office warned travelers to keep car doors locked in slow-moving traffic heading to the UK.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Cameron"
+        ],
+        "LOCATION": [
+          "Kent",
+          "Calais",
+          "Bedfordshire",
+          "Britain",
+          "France",
+          "Channel Tunnel"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Foreign Office"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Operation Stack",
+          "Calais strike"
+        ],
+        "OTHER": [
+          "M20",
+          "M1"
+        ]
+      },
+      "score_e5": 0.8260232261507364
+    },
+    {
+      "titre": "UK Is Not Ready for No Dea' Brexit: Report - Business Insider",
+      "source": "Business Insider",
+      "lien": "https://www.businessinsider.com/uk-is-not-ready-for-no-dea-brexit-report-2019-6",
+      "image_url": "https://i.insider.com/5d0218874cf2703c4a619dd1?width=700",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-k-aZAEz3JzgKydOzADVeioKAQ4BLY-g4IzTelW-OBWS3ON1",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "UK Is Not Ready for No Dea' Brexit: Report - Business Insider",
+        "link": "https://www.businessinsider.com/uk-is-not-ready-for-no-dea-brexit-report-2019-6",
+        "source": "Business Insider",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEUAJf____8AGv8AIv8AA_-9wf8AD_-ytf9xd_9MWP-UmP_m6P-ip_8rPv_y9P98hv8PI8ujAAAAiUlEQVQ4jeWSyQ7DIAxEHS-AWZr__9vgwKFFdbi3c7EtP6ExGoD_EpnehnWNQ8w4J1r2x9BLNECQ3sXwFeg6Az8DB7pAzdFKcgHge-UDZ8rmk589lOZ7GIcm_4qaqxV1gcZsJqILaNPSi-w-Km-AsjlTkG5APgCgNKTIBKjWLYmYecD54JqHn9cF4xoEc0Ed_D8AAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-k-aZAEz3JzgKydOzADVeioKAQ4BLY-g4IzTelW-OBWS3ON1",
+        "thumbnail_width": 159,
+        "thumbnail_height": 318,
+        "image": "https://i.insider.com/5d0218874cf2703c4a619dd1?width=700",
+        "image_width": 350,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "UK Is Not Ready for No Dea' Brexit: Report\n\nThe UK is nowhere near ready for a no-deal Brexit, new figures reveal\n\nLONDON — Many UK firms are \"not even close to being ready for a no-deal Brexit,\" according to newly released figures seen by the BBC.\n\nThe government in February launched the Transitional Simplified Procedures (TSP) Scheme, which would ease the flow of imports if the UK left the EU without a deal in October.\n\nBut less than 10% of the firms estimated to need the status have applied for it as of May 26, a BBC Newsnight investigation found.\n\nSeveral candidates vying to replace Theresa May as prime minister in July, including frontrunner Boris Johnson, have said they will take Britain out of the EU in October with no deal if parliament fails to approve one.\n\nThe TSP scheme would allow British firms to import goods from maintain Europe without the need to fill out customs declarations at the border.\n\nCurrently, the UK is a member of the EU's customs union, meaning goods coming into the country do not require firms to fill out any paperwork.\n\nBut only 17,800 firms had applied to the TSP by May 26, out of an estimated 240,000 who need the status by October 31, when the UK is scheduled to leave the EU.\n\n\"If it really is this low we're far, far away from being day one no-deal Brexit ready - it's a very low number,\" Mike Spicer from the British Chambers of Commerce told the BBC.\n\nMatt Griffith, a member of the Bristol Chamber of Commerce told the BBC: \"The top level lesson is that most small firms are not even close to being ready for a No Deal scenario.\"\n\nA leaked Cabinet note also revealed this week that it would take \"at least four to five months\" to make traders ready for new border checks that would be required.\n\nThe note also warned that it would take \"six to eight months\" to build up supplies of medicines in such a scenario.\n\nBoris Johnson has drawn criticism for his insistence that the UK will leave the EU on October 31 if he becomes prime minister, regardless of whether he has secured a deal with parliament's approval.\n\nSpeaking at his launch, he said it was impossible to \"unite this country\" until \"we have delivered on the primary request of the people; the one big thing they have asked us to do.\"\n\n\"After three years and two missed deadlines, we must leave the EU on October 31,\" he said.\n\nOur Brexit Insider Facebook group is the best place for up-to-date news and analysis about Britain’s departure from the EU, direct from Business Insider’s political reporters. Join here.\n\n\nRead next\n\n\nThomas was a former senior political reporter based at parliament in London. He joined in 2016, during which time he covered Brexit, one leadership contest, two general elections, and much else besides. He also covered European and US politics. Previously, he was on Business Insider's finance desk and wrote about property, cryptocurrency, and fintech. His writing has also appeared in The Independent, The Evening Standard, Yahoo News, MSN, and on the World Economic Forum.",
+        "metadata": {
+          "title": "The UK is nowhere near ready for a no-deal Brexit, new figures reveal",
+          "news_keywords": "Politics",
+          "description": "New figures show the UK is \"not even close to being ready for a no-deal Brexit,\" according to industry leaders.",
+          "author": "Thomas Colson",
+          "article:publisher": "businessinsider",
+          "og:title": "The UK is nowhere near ready for a no-deal Brexit, new figures reveal",
+          "og:description": "New figures show the UK is \"not even close to being ready for a no-deal Brexit,\" according to industry leaders.",
+          "og:type": "article",
+          "og:url": "https://www.businessinsider.com/uk-is-not-ready-for-no-dea-brexit-report-2019-6",
+          "og:image": "https://i.insider.com/5b13bd9f7708e914cc352cc5?width=1200&format=jpeg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "600",
+          "og:site_name": "Business Insider",
+          "fb:pages": "20446254070",
+          "mrf:sections": "Politics",
+          "mrf:tags": "Page Type:story",
+          "apple-mobile-web-app-title": "Business Insider"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Reports indicate the UK is not ready for a no-deal Brexit, with many firms unprepared according to figures seen by the BBC. The government launched the Transitional Simplified Procedures (TSP) scheme in February to ease import flows if the UK left the EU without a deal in October, but less than 10% of estimated firms applied by May 26. Boris Johnson and other candidates vying to replace Theresa May as prime minister stated they would take Britain out of the EU in October without a deal if parliament fails to approve one. The TSP scheme would allow British firms to import goods without customs declarations, but only 17,800 firms applied out of an estimated 240,000 needed by October 31. Officials from the British Chambers of Commerce and Bristol Chamber of Commerce commented on the low readiness of small firms, and leaked Cabinet notes warned of delays for border checks and medicine supplies.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Theresa May",
+          "Boris Johnson",
+          "Mike Spicer",
+          "Matt Griffith",
+          "Thomas"
+        ],
+        "LOCATION": [
+          "UK",
+          "London",
+          "Britain",
+          "Europe",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "Business Insider",
+          "BBC",
+          "Transitional Simplified Procedures Scheme",
+          "British Chambers of Commerce",
+          "Bristol Chamber of Commerce",
+          "Cabinet",
+          "Facebook",
+          "The Independent",
+          "Evening Standard",
+          "Yahoo News",
+          "MSN",
+          "World Economic Forum"
+        ],
+        "DATE": [
+          "February",
+          "May 26",
+          "July",
+          "October",
+          "October 31",
+          "three years",
+          "2016"
+        ],
+        "EVENT": [
+          "Brexit",
+          "general elections"
+        ],
+        "OTHER": [
+          "TSP"
+        ]
+      },
+      "score_e5": 0.7414497782742508
+    },
+    {
+      "titre": "Nice Terror attack – Page 2 – POLITICO",
+      "source": "Politico EU",
+      "lien": "https://www.politico.eu/tag/nice-terror-attack/page/2/",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=480,height=320,quality=80,onerror=redirect,format=auto/wp-content/uploads/2016/07/GettyImages-478179064.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNMTt6Z5JGje6-JiLwAtn5y8s2kQZgyLPINrlt11vPbvn7066-",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Nice Terror attack – Page 2 – POLITICO",
+        "link": "https://www.politico.eu/tag/nice-terror-attack/page/2/",
+        "source": "Politico EU",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEXXGSD____ysrXYHiXaLDLeQkfwqKriVVvfR03--PjunJ_kZWn42Nn--_ziW2Dmb3P76Oj0wMLtlprcOD7529z87-_lam_xra_zubv2y8zaLTPpgoXZJiyda5RMAAAAeElEQVQ4jd3SSQ6AIBBEUUpEwREHnO9_Tgka46Jtt8a_rZcQCEL8q-gsyyUNcFXoF4CyegBaKaXrArAbDY7DZQO0HBAd0LNAWBgWSAPHggFoOFA5YKBB4hv9LTER-_2h5oUFbqXmAPLUp-g5gPhp-wzwv436Bf9oB0XNAzGS_XdsAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNMTt6Z5JGje6-JiLwAtn5y8s2kQZgyLPINrlt11vPbvn7066-",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.politico.eu/cdn-cgi/image/width=480,height=320,quality=80,onerror=redirect,format=auto/wp-content/uploads/2016/07/GettyImages-478179064.jpg",
+        "image_width": 320,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Nice Terror attack – Page 2 – POLITICO\n\nFrench government to offer aid to Nice businesses\n\nEconomy Minister Emmanuel Macron says tourism in the South of France has been hit hard.\n\nJuly 20, 2016 12:59 pm CET\n\n\nFrench national assembly votes to extend state of emergency\n\nExtra police powers were due to expire July 26 but have been extended after Bastille Day attack in Nice.\n\nJuly 20, 2016 8:39 am CET\n\n\nFrench opposition pushes back on state of emergency\n\nGovernment says it is willing to discuss conservative proposals in order to build consensus.\n\nJuly 19, 2016 2:32 pm CET\n\n\nGerman police shoot Afghan teenager after ax rampage on train\n\nFour people seriously injured in what authorities describe as a ‘probable’ terror attack.\n\nJuly 18, 2016 11:30 pm CET\n\n\nNice attacker googled Orlando, Dallas and ‘horrible accident’ videos: prosecutor\n\nMohamed Lahouaiej Bouhlel came to the scene several times before the attack to take pictures.\n\nJuly 18, 2016 6:58 pm CET\n\n\nNice upends French politics\n\nPrevious solidarity in wake of terrorism disappears as presidential contenders stake out positions.\n\nJuly 18, 2016 6:14 pm CET\n\n\nFrench don’t trust government on terrorism: poll\n\nFrench Prime Minister Manuel Valls and Interior Minister Bernard Cazeneuve forced to defend government’s counter-terrorism record.\n\nJuly 18, 2016 10:23 am CET\n\n\nBoris Johnson: UK won’t abandon ‘leading role’ in Europe\n\nBritish foreign secretary called for ‘moderation and restraint on all sides’ after failed Turkey coup.\n\nJuly 18, 2016 9:07 am CET\n\n\nNice attacker sent SMS before the Bastille Day assault\n\nHe also took selfies while driving the truck he drove into the crowd.\n\nJuly 17, 2016 7:59 pm CET\n\n\nHealth minister: 18 victims of Nice attack between life and death\n\nFrench state will give financial compensation to victims of the attack, a government official says.\n\nJuly 17, 2016 1:36 pm CET\n\n\nTwo more arrests in Nice terror attacks\n\nIt’s still unclear if Nice attacker had ‘jihadi past,’ but his attack plan matches some ISIL orders, French PM says.\n\nJuly 17, 2016 11:25 am CET\n\n\nMarine Le Pen: Nice attacks proof of Islamic fundamentalism’s rise\n\nThe right-wing politician called on interior minister to resign and urged government to declare war on extremism.\n\nJuly 16, 2016 6:10 pm CET\n\n\nNice attacker radicalized quickly: French interior minister\n\nMohamed Lahouaiej Bouhlel was a petty criminal who was not on intelligence services’ radar.\n\nJuly 16, 2016 2:57 pm CET\n\n\nISIL claims responsibility for Bastille Day attack in Nice\n\nIslamic State says they are responsible for the Thursday’s attack in Nice in which 84 have been killed and 202 have been wounded, according to an AP …\n\nJuly 16, 2016 10:53 am CET\n\n\nFour people arrested after attack in Nice: report\n\nFrench police conducting a robust investigation of the truck attack on Bastille Day.\n\nJuly 16, 2016 10:13 am CET\n\n\nNice promenade turns into memorial to Bastille Day attack victims\n\nOutpouring of grief on Promenade des Anglais day after carnage.\n\nJuly 16, 2016 9:35 am CET\n\n\nNice attacker was ‘a salsa-dancing bodybuilder,’ not a jihadi\n\n‘He would drink alcohol and not talk about religion,’ says a family friend and former neighbor.\n\nJuly 15, 2016 11:25 pm CET\n\n\nTerror on the Riviera\n\nHow France’s southern shore became a terrorism breeding ground.\n\nJuly 15, 2016 11:21 pm CET\n\n\nObama rebukes Gingrich’s Muslim deportation plan as ‘repugnant’\n\nPresident Barack Obama on Friday implicitly rebuked former House Speaker Newt Gingrich, calling his newly announced plan to deport Muslims who believe in sharia law “repugnant” and …\n\nJuly 15, 2016 10:52 pm CET\n\n\nNice attacker: A lone wolf inspired by extremists, says terrorism expert\n\nISIL and Al Qaeda have urged followers to crash a vehicle into a crowd.\n\nJuly 15, 2016 3:23 pm CET\n\n\nEU foreign ministers cancel Sunday dinner with Boris Johnson\n\nInformal gathering ahead of new UK foreign secretary’s first Council meeting was deemed ‘inappropriate.’\n\nJuly 15, 2016 2:59 pm CET",
+        "metadata": {
+          "title": "Nice Terror attack – Page 2 – POLITICO",
+          "apple-mobile-web-app-title": "POLITICO Europe",
+          "description": "Latest politics and policy news on Nice Terror attack",
+          "article:publisher": "https://www.facebook.com/POLITICOeu",
+          "og:type": "website",
+          "og:title": "Nice Terror attack – Page 2 – POLITICO",
+          "og:url": "https://www.politico.eu/tag/nice-terror-attack/page/2/",
+          "og:site_name": "POLITICO",
+          "og:image": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "og:locale": "en_GB",
+          "twitter:text:title": "Nice Terror attack – Page 2 – POLITICO"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "headline": "Tagged - Nice Terror attack",
+          "url": "https://www.politico.eu/tag/nice-terror-attack/page/2/",
+          "description": "Latest politics and policy news on Nice Terror attack"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Following the Bastille Day attack in Nice where 84 people were killed and 202 wounded, the French national assembly voted to extend the state of emergency. Economy Minister Emmanuel Macron stated tourism in the South of France was hit hard, and the French government planned to offer aid and financial compensation to businesses and victims. The attacker, Mohamed Lahouaiej Bouhlel, was identified as a petty criminal who radicalized quickly and sent an SMS and took selfies while driving the truck into the crowd. ISIL claimed responsibility for the attack. Other related events included German police shooting an Afghan teenager after an ax rampage on a train, and British foreign secretary Boris Johnson calling for moderation and restraint after the failed Turkey coup.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Emmanuel Macron",
+          "Mohamed Lahouaiej Bouhlel",
+          "Manuel Valls",
+          "Bernard Cazeneuve",
+          "Boris Johnson",
+          "Marine Le Pen"
+        ],
+        "LOCATION": [
+          "Nice",
+          "South of France",
+          "France",
+          "Orlando",
+          "Dallas",
+          "Turkey",
+          "Promenade des Anglais"
+        ],
+        "ORGANIZATION": [
+          "Politico EU",
+          "French national assembly",
+          "ISIL",
+          "Islamic State",
+          "AP"
+        ],
+        "DATE": [
+          "July 20, 2016",
+          "July 26",
+          "Bastille Day",
+          "July 19, 2016",
+          "July 18, 2016",
+          "July 17, 2016",
+          "July 16, 2016"
+        ],
+        "EVENT": [
+          "Nice Terror attack",
+          "Bastille Day attack",
+          "Turkey coup"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7383113976510595
+    },
+    {
+      "titre": "Calais strike: Travel delays expected on M20 while Eurostar ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/news/world/europe/calais-strike-travel-delays-expected-on-m20-while-eurostar-and-ferry-services-resume-10341114.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/24/09/cars-getty.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgFnUv68Mt-XAeWhE6BkobKALn00PSZejW04G-gWWdKNtmiaks",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Calais strike: Travel delays expected on M20 while Eurostar ...",
+        "link": "https://www.independent.co.uk/news/world/europe/calais-strike-travel-delays-expected-on-m20-while-eurostar-and-ferry-services-resume-10341114.html",
+        "source": "The Independent",
+        "source_icon": "https://serpapi.com/searches/6a8f02a21dcfe2b2c8d9d6a6/images/ysYfGtkqn54k6e3185oHrSip1SN1QaLWx_Gy1YqHsnw.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgFnUv68Mt-XAeWhE6BkobKALn00PSZejW04G-gWWdKNtmiaks",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/24/09/cars-getty.jpg",
+        "image_width": 1536,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Calais strike: Travel delays expected on M20 while Eurostar and ferry services resume | The Independent\n\nMotorists have been warned to expect delays as the aftermath of French ferry workers’ strike in Calais continued to be felt in and around Dover.\n\nHere’s a quick break-down of what services are running if you are travelling today.\n\nTrain\n\nA Eurostar spokesperson confirmed that trains are running a “normal” service, with the first having already left Paris this morning. The company expects to sweep up many of the remaining passengers – a significant number of whom were stranded overnight – today.\n\nPassengers travelling on the service today, which are all fully booked, are warned to leave at least 45 minutes for check in.\n\nFerry\n\nFollowing MyFerryLink workers’ strike, services have now resumed. The first service of the day was solely for freight vehicle, but the operator has confirmed they are now operating “mixed” ferries.\n\n\nP&O ferries have also resumed service, but the operator has warned that although there are still spaces available travellers should anticipate heavy delays in and around Calais as the roads are heavily congested.\n\nMotorways\n\nKent Police have confirmed that Operation Stack is still in place and will enter the second phase today. It will remain in place until the backlog of lorries has been cleared. The Highways Agency will be listing any updates here.\n\nThe M20 motorway is closed between Junctions eight (Hollingbourne) and nine (Ashford West), with the Highways Agency advising “non-HGV traffic” to use the M2 and A2 to Dover.\n\n\nThe Euro Tunnel shuttle service for freight vehicles has resumed operating four services an hour, but owing to heavy traffic estimates a waiting time of 90 minutes. On the French side the situation is much worse with an estimated wait of up to six hours. Latest updates can be found here.",
+        "metadata": {
+          "fb:app_id": "235586169789578",
+          "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+          "description": "Kent Police have kept 'Operation Stack' in place as backlog of lorries is cleared",
+          "og:updated_time": "2015-06-24T08:29:12.000Z",
+          "article:published_time": "2015-06-24T08:29:12.000Z",
+          "article:modified_time": "2015-06-24T08:29:12.000Z",
+          "date": "2015-06-24T08:29:12.000Z",
+          "og:site_name": "The Independent",
+          "article:section": "News",
+          "article:subsection": "World",
+          "article:category": "News",
+          "article:author_name": "Rose Troup Buchanan",
+          "article:content_type": "story",
+          "article:word_count": "373",
+          "article:image_count": "3",
+          "article:embed_count": "1",
+          "article:video_count": "0",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "2",
+          "og:title": "What you need to know if you're travelling to France by ferry or Eurostar today",
+          "twitter:title": "What you need to know if you're travelling to France by ferry or Eurostar today",
+          "og:url": "https://www.independent.co.uk/news/world/europe/calais-strike-travel-delays-expected-on-m20-while-eurostar-and-ferry-services-resume-10341114.html",
+          "og:type": "article",
+          "og:description": "Kent Police have kept 'Operation Stack' in place as backlog of lorries is cleared",
+          "twitter:description": "Kent Police have kept 'Operation Stack' in place as backlog of lorries is cleared",
+          "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/24/09/lorries2-getty.jpg?width=1200&height=800&crop=1200:800",
+          "og:image:secure_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/24/09/lorries2-getty.jpg?width=1200&height=800&crop=1200:800",
+          "og:locale": "en_GB"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.independent.co.uk/img/logo.png",
+            "width": 504,
+            "height": 60
+          },
+          "sameAs": [
+            "https://twitter.com/Independent",
+            "https://www.facebook.com/TheIndependentOnline",
+            "https://www.youtube.com/theindependent"
+          ],
+          "@id": "independent.co.uk"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Travel delays were expected on the M20 in Kent following the aftermath of French ferry workers' strike in Calais and Dover. Eurostar confirmed trains were running normal service, while MyFerryLink and P&O ferries resumed services with heavy delays and congestion. Kent Police confirmed Operation Stack phase two remained in place until the lorry backlog was cleared, with the M20 closed between Junctions 8 and 9. The Euro Tunnel shuttle service for freight resumed with waiting times.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "M20",
+          "Kent",
+          "Calais",
+          "Dover",
+          "Paris",
+          "Ashford West",
+          "Hollingbourne"
+        ],
+        "ORGANIZATION": [
+          "The Independent",
+          "Eurostar",
+          "MyFerryLink",
+          "P&O Ferries",
+          "Kent Police",
+          "Highways Agency"
+        ],
+        "DATE": [
+          "today"
+        ],
+        "EVENT": [
+          "Calais strike",
+          "Operation Stack"
+        ],
+        "OTHER": [
+          "M2",
+          "A2",
+          "Euro Tunnel"
+        ]
+      },
+      "score_e5": 0.835015341694282
+    },
+    {
+      "titre": "Reality Check: How could customs union deal work? - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/business-38654147",
+      "image_url": "http://c.files.bbci.co.uk/17E6F/production/_93630979_dover_getty.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSER4pnUtFQ4lt4NoRBK3ZbNlVuw4uwuIbc7o38RNsyJl5Rh-JY",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Reality Check: How could customs union deal work? - BBC News",
+        "link": "https://www.bbc.com/news/business-38654147",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSER4pnUtFQ4lt4NoRBK3ZbNlVuw4uwuIbc7o38RNsyJl5Rh-JY",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/17E6F/production/_93630979_dover_getty.jpg",
+        "image_width": 1152,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Reality Check: How could customs union deal work?\n\nThe claim: The UK could negotiate an agreement that gives some of the benefits of customs union membership while still allowing other trade deals to be negotiated.\n\nReality Check verdict: Turkey has a deal for partial membership of the customs union so it is possible, but the terms are not favourable to Turkey. The prime minister says she does not want to replicate any existing agreements. There is a limit to what the government will be able to achieve in the negotiations if it is not prepared to impose the EU's tariffs on non-EU countries.\n\nPrime Minister Theresa May announced on Tuesday that the UK would definitely not continue to be a full member of the customs union because that would prevent trade deals being negotiated with non-EU countries.\n\nBut she said that she did want to reach some sort of customs agreement with the EU.\n\n\"Whether that means we must reach a completely new customs agreement, become an associate member of the customs union in some way or remain a signatory to some elements of it, I hold no preconceived position,\" she said.\n\nThe EU customs union, external is a trade agreement between European countries that they will not impose tariffs (taxes on imports) on each other's goods and agree to impose common external tariffs on goods from other countries outside the customs union.\n\nIt means that once a product is inside the customs zone it can be transported without customs checks to any other country in the union.\n\nMrs May specified that there were two parts of the customs union that she could not accept.\n\nOne of them was the common external tariff, because having to impose the tariff would get in the way of free trade agreements outside the EU.\n\nThe other was the common commercial policy, which is the part of the EU treaties that sets out the principles for EU trade, including that it is the EU that sets external tariffs and negotiates trade deals, rather than individual member states.\n\nThe customs union is made up of the 28 EU members states and Monaco.\n\nThe EU also has separate customs union agreements with Turkey, external, Andorra and San Marino.\n\nTurkey's agreement covers industrial products and processed agricultural products.\n\nThat means Turkey has to impose the common external tariff and meet EU regulations on its industrial products, but not its unprocessed agricultural ones.\n\nSo when Turkey negotiates trade agreements with other countries, it still has to impose the EU's external tariff on industrial products and processed agricultural products (unless those countries also have trade deals with the EU).\n\nIt's also a one-sided agreement, with non-EU countries that have free trade agreements with the EU automatically getting access to Turkish markets although Turkey does not get access to theirs.\n\nAnd it means that on the products covered by the agreement, Turkey must keep to EU regulations.\n\nClearly the EU regulations would not currently be a problem for UK companies, which already follow them, but a Turkey-style deal would mean being bound by future changes to the regulations without having any say in them.\n\nThe question is whether the UK, which has stressed it does not want to replicate any existing agreements, could negotiate a deal with the EU that would allow tariff-free access for some industries to the customs union without getting in the way of the UK's trade agreements with other countries.\n\nTheresa May said she wanted the UK's trade with the EU to be \"as frictionless as possible\", without specifying what benefits she would like to keep.\n\nBut there is a limit to what the UK can secure in the negotiations without agreeing to the EU's tariffs on non-EU countries, because that would mean that other countries could get a back-door, tariff-free route into the EU.",
+        "metadata": {
+          "description": "Theresa May says she wants an agreement with the customs union but not full membership.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Theresa May says she wants an agreement with the customs union but not full membership.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17E6F/production/_93630979_dover_getty.jpg",
+          "og:image:alt": "Cars and lorries queuing at Dover",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Reality Check: How could customs union deal work?",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/business-38654147",
+          "article:section": "Business",
+          "twitter:description": "Theresa May says she wants an agreement with the customs union but not full membership.",
+          "twitter:title": "Reality Check: How could customs union deal work?"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/business-38654147",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2017-01-17T16:33:20.000Z",
+          "dateModified": "2017-01-17T16:33:20.000Z",
+          "description": "Theresa May says she wants an agreement with the customs union but not full membership.",
+          "headline": "Reality Check: How could customs union deal work?",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17E6F/production/_93630979_dover_getty.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17E6F/production/_93630979_dover_getty.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/business-38654147",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Prime Minister Theresa May announced that the UK would not continue as a full member of the EU customs union because it would prevent negotiating trade deals with non-EU countries, specifically rejecting the common external tariff and common commercial policy. Turkey has a partial customs union agreement covering industrial and processed agricultural products, which requires it to impose the EU's common external tariff and meet EU regulations on those products, while operating as a one-sided agreement where non-EU countries with EU free trade deals automatically access Turkish markets without Turkey gaining reciprocal access.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Theresa May"
+        ],
+        "LOCATION": [
+          "UK",
+          "Monaco",
+          "Turkey",
+          "Andorra",
+          "San Marino"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "EU"
+        ],
+        "DATE": [
+          "Tuesday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "EU customs union"
+        ]
+      },
+      "score_e5": 0.7177009433098472
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Kent",
+      "Calais"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "last week"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "strikers"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "David Cameron",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kent",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Calais",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bedfordshire",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Channel Tunnel",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Foreign Office",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Operation Stack",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Calais strike",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "M20",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "M1",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Theresa May",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Boris Johnson",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mike Spicer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matt Griffith",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Thomas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Business Insider",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Transitional Simplified Procedures Scheme",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Chambers of Commerce",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bristol Chamber of Commerce",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cabinet",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Evening Standard",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yahoo News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MSN",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Economic Forum",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 26",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 31",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "three years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Brexit",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "general elections",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "TSP",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Emmanuel Macron",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mohamed Lahouaiej Bouhlel",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Manuel Valls",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bernard Cazeneuve",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marine Le Pen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nice",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South of France",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orlando",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dallas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Turkey",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Promenade des Anglais",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Politico EU",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "French national assembly",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIL",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 20, 2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 26",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Bastille Day",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 19, 2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 18, 2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 17, 2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 16, 2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Nice Terror attack",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Bastille Day attack",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Turkey coup",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dover",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ashford West",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hollingbourne",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Eurostar",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MyFerryLink",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "P&O Ferries",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kent Police",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Highways Agency",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "today",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "M2",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "A2",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Euro Tunnel",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Monaco",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Andorra",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Marino",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Union",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "EU customs union",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T21:15:02.368872"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "id_rumeur": 329043,
+  "id_image": 329043,
+  "caption": "Moodlighting bathes a Delta Air Lines Boeing 737900 jet in Atlanta on April 29 2016",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756528/oluyewo_benchmark/whokiifaqgxt5soy4vhi.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Delta Reports First Loss in Five Years - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/delta-reports-first-loss-in-five-years-11587553260",
+      "image_url": "https://images.wsj.net/im-178989/?width=700&height=467",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSEcC0tvyucc0S2J9pYpltJs8WgmGgN5uZyIzlAt1b1zW7ls_",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Delta Reports First Loss in Five Years - WSJ",
+        "link": "https://www.wsj.com/articles/delta-reports-first-loss-in-five-years-11587553260",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSEcC0tvyucc0S2J9pYpltJs8WgmGgN5uZyIzlAt1b1zW7ls_",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://images.wsj.net/im-178989/?width=700&height=467",
+        "image_width": 467,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "Article du Wall Street Journal rapportant que Delta enregistre sa première perte en cinq ans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Delta",
+          "WSJ"
+        ],
+        "DATE": [
+          "five years"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7797277391876908
+    },
+    {
+      "titre": "How Airlines can maximize revenues by 3–5% incrementally ...",
+      "source": "Medium",
+      "lien": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+      "image_url": "https://miro.medium.com/1*Ow-H2_qAl1XeENtl8ldp1A.jpeg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3n-e_KlQFzq25hBin6TN2F0cWiwmc3Y18_HQgK6p8dEjA_N_T",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "How Airlines can maximize revenues by 3–5% incrementally ...",
+        "link": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+        "source": "Medium",
+        "source_icon": "https://serpapi.com/searches/6a8efff13c99baa4225e8a65/images/alR8tNuYHq8CaZh1kMI6WQOn4HJVEhOMjc5rl4jtGdw.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3n-e_KlQFzq25hBin6TN2F0cWiwmc3Y18_HQgK6p8dEjA_N_T",
+        "thumbnail_width": 163,
+        "thumbnail_height": 308,
+        "image": "https://miro.medium.com/1*Ow-H2_qAl1XeENtl8ldp1A.jpeg",
+        "image_width": 543,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Medium\n\nHow Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals?\n\n\nI am sure most of the industry folks might have been bombarded with the terms like Digital transformation, Machine learning, Artificial Intelligence, NDC etc and why it is the NOW or NEVER situation to join the #MeToo bandwagon to stay relevant by implementing these advanced technologies. While it is true that implementing these will help Airlines in big time, but, WHEN to implement varies from one carrier to another and highly depends on their current state of affairs. I opine, before even thinking about implementing these technologies, one must assess how their FUNDAMENTALS are. Because sound fundamentals build a strong base of Airlines’ business and help in the successful implementation of advanced technologies. In this article, I will share my thoughts on how Airlines can improve their revenues by 3–5% incrementally by just focussing on fundamentals. Yes, I mean it! Just fundamentals. Do not worry about NDC, ancillary, Artificial Intelligence, Machine Learning and all those buzz words for now.\n\nWhat is the core product of commercial airlines? Inevitably, the seat. Right from the early days of aviation to till the date, airlines make a maximum buck by selling seats. Though the share of #ancillary services is picking up, I believe, the proportion of seat revenue will still have the larger pie at least for the next 15–20 years. In one of the recent reports, it is mentioned that ancillary contributes to 30% of total revenue whereas seat revenues contributing by about 70%. This article talks about how to increase the value of this 70%.\n\nLet us look at how the Revenue planning works inside an Airline. The heart of Airlines is #Revenue #management (RM) department. They are the custodians of Revenue getting generated and responsible for maximizing overall revenue. During the annual planning process, which is generally done in the middle of the year for the next year, RM sets the revenue targets using sophisticated methods such as Linear programming after looking at past performance and the estimated future demand. Other factors such as capacity and routes they operate will also be factored in, which comes from Network planning team. These targets are for the commercial team to achieve at various levels such as Network, region, country, POS, monthly, quarterly, yearly etc.\n\nNow, biggest challenge most of the airlines facing is to monitor the future forecasted revenue and identify the problem from the macro level (Network) to micro level (Agent/POS) and take proactive decisions. Some of the questions that need answers are:\n\n- How are we doing with our Revenue targets? Doing good or bad?\n\n- Going with the current trend, whether we can achieve our targets in future or not?\n\n- If not, can we see where will be the issue? Is it in any region/country/POS level?\n\n- Which class/OD/compartment is having the issue?\n\n- Which ODs should we focus to increase the revenue?\n\n- Is my market share going down or up? What my competition is doing differently?\n\n- Who are the agents favourable to us and non-favourable?\n\n- Why market share of your competitors is growing with certain agents while your market share is dwindling?\n\n- Which action should I take to make non-favourable agents to favourable?\n\n- What campaigns should I run and when and at which route?\n\n- What is happening to sales distribution channel?\n\nNot having answers to these questions will result in\n\n1. Not meeting revenue targets\n\n2. Losing out market share to your competition\n\n3. Ineffective marketing and promotional campaigns\n\nThe key reason why most of the airlines are not having answers is — siloed data. The disparate systems that are built over time work in siloes and make it hard to get ‘single version of the truth’. The need of the hour is to have a solution which connects this siloed data such as Revenue Accounting, Reservation, Revenue Management system, Market Intelligence Systems (MIDT, DDS, Infare and BSP) and brings out the information on future revenue, yield, and passengers at a Network/Region/POS/Territory, Sales Executive and agent level. This will power the commercial and revenue management teams in maximizing the revenue and make it stand out from the rest. One of the leading legacy airlines where this solution is implemented witnessed a 5% of incremental revenue as per the head of Revenue management of the Airlines.\n\nThank you for reading this article, and please feel free to share your comments. And, reach out to me to know more about this solution.",
+        "metadata": {
+          "al:ios:app_name": "Medium",
+          "al:ios:app_store_id": "828256236",
+          "al:android:package": "com.medium.reader",
+          "al:android:app_name": "Medium",
+          "fb:app_id": "542599432471018",
+          "og:site_name": "Medium",
+          "og:type": "article",
+          "article:published_time": "2019-01-28T12:23:52.897Z",
+          "title": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals? | by Prakash Devara | Medium",
+          "og:title": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals?",
+          "al:android:url": "medium://p/1daddcd97493",
+          "al:ios:url": "medium://p/1daddcd97493",
+          "description": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals? I am sure most of the industry folks might have been bombarded with the terms like Digital transformation …",
+          "og:description": "I am sure most of the industry folks might have been bombarded with the terms like Digital transformation, Machine learning, Artificial…",
+          "og:url": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+          "al:web:url": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+          "og:image": "https://miro.medium.com/v2/resize:fit:1024/1*Ow-H2_qAl1XeENtl8ldp1A.jpeg",
+          "article:author": "https://medium.com/@prakashbabu.devara",
+          "author": "Prakash Devara",
+          "twitter:title": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals?",
+          "twitter:description": "I am sure most of the industry folks might have been bombarded with the terms like Digital transformation, Machine learning, Artificial…"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+          "@type": "SocialMediaPosting",
+          "image": [
+            "https://miro.medium.com/1*Ow-H2_qAl1XeENtl8ldp1A.jpeg"
+          ],
+          "url": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+          "dateCreated": "2019-01-28T12:14:28Z",
+          "datePublished": "2019-01-28T12:14:28Z",
+          "dateModified": "2019-01-28T12:23:52Z",
+          "headline": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals?",
+          "name": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals?",
+          "description": "How Airlines can maximize revenues by 3–5% incrementally just by focusing on fundamentals? I am sure most of the industry folks might have been bombarded with the terms like Digital transformation …",
+          "identifier": "1daddcd97493",
+          "author": {
+            "@context": "https://schema.org",
+            "@id": "https://medium.com/@prakashbabu.devara",
+            "@type": "Person",
+            "identifier": "prakashbabu.devara",
+            "name": "Prakash Devara",
+            "url": "https://medium.com/@prakashbabu.devara"
+          },
+          "creator": {
+            "@context": "https://schema.org",
+            "@id": "https://medium.com/@prakashbabu.devara",
+            "@type": "Person",
+            "identifier": "prakashbabu.devara",
+            "name": "Prakash Devara",
+            "url": "https://medium.com/@prakashbabu.devara"
+          },
+          "publisher": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://medium.com",
+            "name": "Medium",
+            "url": "https://medium.com",
+            "logo": {
+              "@type": "ImageObject",
+              "width": 500,
+              "height": 110,
+              "url": "https://miro.medium.com/v2/resize:fit:500/7%2AV1_7XP4snlmqrc_0Njontw.png"
+            }
+          },
+          "mainEntityOfPage": "https://medium.com/@prakashbabu.devara/how-airlines-can-maximize-revenues-by-3-5-incrementally-just-by-focusing-on-fundamentals-1daddcd97493",
+          "isAccessibleForFree": true
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Article de Medium sur la manière dont les compagnies aériennes peuvent maximiser leurs revenus de manière incrémentale en se concentrant sur les fondamentaux, la gestion des revenus et les ventes de sièges.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Medium"
+        ],
+        "DATE": [
+          "next 15–20 years"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Digital transformation",
+          "Machine learning",
+          "Artificial Intelligence",
+          "NDC",
+          "Revenue management"
+        ]
+      },
+      "score_e5": 0.7702569512646061
+    },
+    {
+      "titre": "United's got an awesome new feature on 100+ planes, coming ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/Cyg6JsfsKug/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3957045359812748475",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdn-whNPZn01ngTDw_0B58FAbucg9nlx4_DWgfA_P9Jpvs6dtx",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "United's got an awesome new feature on 100+ planes, coming ...",
+        "link": "https://www.instagram.com/reel/Cyg6JsfsKug/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdn-whNPZn01ngTDw_0B58FAbucg9nlx4_DWgfA_P9Jpvs6dtx",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3957045359812748475",
+        "image_width": 3072,
+        "image_height": 4096
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram concernant une nouvelle fonctionnalité sur plus de 100 avions d'United.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram",
+          "United"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8016897918544053
+    },
+    {
+      "titre": "Why Empty Planes Keep Flying Through the Pandemic - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/why-empty-planes-keep-flying-through-the-pandemic-11588771233",
+      "image_url": "https://images.wsj.net/im-183701/?width=700&height=467",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlCBF5RiKIsAPapzko59BKahw7Pgt1pd2J0nnsqXoBN1mXpevW",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Why Empty Planes Keep Flying Through the Pandemic - WSJ",
+        "link": "https://www.wsj.com/articles/why-empty-planes-keep-flying-through-the-pandemic-11588771233",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlCBF5RiKIsAPapzko59BKahw7Pgt1pd2J0nnsqXoBN1mXpevW",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://images.wsj.net/im-183701/?width=700&height=467",
+        "image_width": 467,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "Article du Wall Street Journal expliquant pourquoi des avions vides continuent de voler pendant la pandémie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Pandemic"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7796272626913955
+    },
+    {
+      "titre": "EGYPTAIR newest B737-800 NG at #Boeing Field Airport in ...",
+      "source": "x.com",
+      "lien": "https://x.com/EGYPTAIR/status/807602833717657600",
+      "image_url": "https://pbs.twimg.com/media/CzUuJYwWEAAvGp2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNCIc2_JhuYQhIVfQBeg4WxNrVbRFa7cny_PbIFWIEoKXE5Ja",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "EGYPTAIR newest B737-800 NG at #Boeing Field Airport in ...",
+        "link": "https://x.com/EGYPTAIR/status/807602833717657600",
+        "source": "x.com",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSofvqtbDtdUTZsANJSe_PTSgsuDSmzMNykD5ePbsMk3EyTY0EoF56jNp_rHuufm9BtNpZYsFhp9M6u-DLxqcg2x-FRa41-OCrNmA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNCIc2_JhuYQhIVfQBeg4WxNrVbRFa7cny_PbIFWIEoKXE5Ja",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://pbs.twimg.com/media/CzUuJYwWEAAvGp2.jpg",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur x.com concernant le plus récent B737-800 NG d'EGYPTAIR à l'aéroport de Boeing Field.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Boeing Field Airport"
+        ],
+        "ORGANIZATION": [
+          "EGYPTAIR",
+          "x.com",
+          "Boeing"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "B737-800 NG"
+        ]
+      },
+      "score_e5": 0.7906107619888137
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Atlanta"
+    ],
+    "ORGANIZATION": [
+      "Delta Air Lines"
+    ],
+    "DATE": [
+      "April 29 2016"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Boeing 737-900"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Delta",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "five years",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Medium",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next 15–20 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Digital transformation",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Machine learning",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Artificial Intelligence",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "NDC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Revenue management",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "United",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Pandemic",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Boeing Field Airport",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "EGYPTAIR",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "x.com",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boeing",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "B737-800 NG",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T15:13:54.879343"
+  }
+}

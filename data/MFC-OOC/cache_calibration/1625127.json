@@ -1,0 +1,913 @@
+{
+  "id_rumeur": 1625127,
+  "id_image": 1591470,
+  "caption": "Thousands of Iraqi Shia have responded to calls to take up arms and defend their country",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748709/oluyewo_benchmark/jw45ulptfov29e9x5eh2.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Misiri ishaka kuvana abanyagihugu bayo muri Libya - BBC News ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/gahuza/amakuru/2015/02/150213_egypt_sisi",
+      "image_url": "http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/02/13/150213132234_egypt_libya_copt_512x288_reuters_nocredit.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTY6N5wSnC436dCQAkNZ-gMUKIWOtxUuu1-i1iJS5VAzwWkZqmo",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Misiri ishaka kuvana abanyagihugu bayo muri Libya - BBC News ...",
+        "link": "https://www.bbc.com/gahuza/amakuru/2015/02/150213_egypt_sisi",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTY6N5wSnC436dCQAkNZ-gMUKIWOtxUuu1-i1iJS5VAzwWkZqmo",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/02/13/150213132234_egypt_libya_copt_512x288_reuters_nocredit.jpg",
+        "image_width": 288,
+        "image_height": 512
+      },
+      "webpage": {
+        "text": "Misiri ishaka kuvana abanyagihugu bayo muri Libya\n\nInyandiko gusa\n\nYatangajwe 13 Ukwa kabiri 2015\n\nIvyo perezida Sisi yabimenyesheje inyuma y'aho umurwi w'abarwanyi bavuga ko begamiye idini rya islamu bafatiye ingwati abakirisu b'aba Coptes 21 bo mu Misiri.\n\nAmasanamu yakwiragijwe kuri internet yerekana abo bantu mu mwambaro usa n'umucungwe, bashorewe n'ababafashe bambaye ivyirabura bihishe mu maso.\n\nUrubuga rwa internet ruvugira abo barwanyi ba Islamic State, ruvuga ko abo banya Misiri ari aba Coptes bari baje mu ntambara yo gucengeza idini ryabo.\n\nUrwo rubuga ruvuga ko bafashwe mu ntumbero yo kwihora amabi abo mw'ishengero ry'aba Coptes mu Misiri bakorera abagore b'aba Islamu.\n\nUbushikiranganji bw'imigenderanire mu Misiri bwongeye gusubiriramwo abanyagihugu impanuro bwama bubaha ko bakwiye kwirinda gutemberera muri Libya.",
+        "metadata": {
+          "apple-mobile-web-app-title": "BBC News Gahuza",
+          "description": "Perezida wa Misiri Abdul Fattah al-Sisi, yemeye ko ashobora gukura abanyagihugu biwe n'indege muri Libya, aho abagera ku 21 bafashwe ingwati.",
+          "fb:app_id": "1609039196070050",
+          "og:description": "Perezida wa Misiri Abdul Fattah al-Sisi, yemeye ko ashobora gukura abanyagihugu biwe n'indege muri Libya, aho abagera ku 21 bafashwe ingwati.",
+          "og:image": "https://ichef.bbci.co.uk/news/1200/branded_gahuza/worldservice/live/assets/images/2015/02/13/150213132234_egypt_libya_copt_144x81_reuters_nocredit.jpg",
+          "og:image:alt": "Perezida Sisi yemeye gukura muri Libya abanya Misiri, akoresheje indege ",
+          "og:locale": "rw-RW",
+          "og:site_name": "BBC News Gahuza",
+          "og:title": "Misiri ishaka kuvana abanyagihugu bayo muri Libya - BBC News Gahuza",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/gahuza/amakuru/2015/02/150213_egypt_sisi",
+          "twitter:description": "Perezida wa Misiri Abdul Fattah al-Sisi, yemeye ko ashobora gukura abanyagihugu biwe n'indege muri Libya, aho abagera ku 21 bafashwe ingwati.",
+          "twitter:title": "Misiri ishaka kuvana abanyagihugu bayo muri Libya - BBC News Gahuza",
+          "article:author": "https://www.facebook.com/bbcnews"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "url": "https://www.bbc.com/gahuza/amakuru/2015/02/150213_egypt_sisi",
+              "publisher": {
+                "@type": "NewsMediaOrganization",
+                "name": "BBC News Gahuza",
+                "publishingPrinciples": "https://www.bbc.com/gahuza/institutional-49283343",
+                "logo": {
+                  "@type": "ImageObject",
+                  "width": 1024,
+                  "height": 576,
+                  "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/gahuza/images/metadata/poster-1024x576.png"
+                }
+              },
+              "thumbnailUrl": "https://ichef.bbci.co.uk/news/1024/branded_gahuza/worldservice/live/assets/images/2015/02/13/150213132234_egypt_libya_copt_144x81_reuters_nocredit.jpg",
+              "image": {
+                "@type": "ImageObject",
+                "width": 1024,
+                "height": 576,
+                "url": "https://ichef.bbci.co.uk/news/1024/branded_gahuza/worldservice/live/assets/images/2015/02/13/150213132234_egypt_libya_copt_144x81_reuters_nocredit.jpg"
+              },
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.bbc.com/gahuza/amakuru/2015/02/150213_egypt_sisi",
+                "name": "Misiri ishaka kuvana abanyagihugu bayo muri Libya"
+              },
+              "headline": "Misiri ishaka kuvana abanyagihugu bayo muri Libya",
+              "description": "Perezida wa Misiri Abdul Fattah al-Sisi, yemeye ko ashobora gukura abanyagihugu biwe n'indege muri Libya, aho abagera ku 21 bafashwe ingwati.",
+              "datePublished": "2015-02-13T13:59:40.000Z",
+              "dateModified": "2015-02-13T13:59:40.000Z",
+              "inLanguage": {
+                "@type": "Language",
+                "name": "Kinyarwanda",
+                "alternateName": "rw"
+              },
+              "author": {
+                "@type": "NewsMediaOrganization",
+                "name": "BBC News Gahuza",
+                "logo": {
+                  "@type": "ImageObject",
+                  "width": 1024,
+                  "height": 576,
+                  "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/gahuza/images/metadata/poster-1024x576.png"
+                },
+                "noBylinesPolicy": "https://www.bbc.com/gahuza/institutional-49283343#authorexpertise"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le gouvernement de l'Égypte souhaite évacuer ses citoyens de la Libye après l'enlèvement de 21 chrétiens coptes égyptiens par un groupe armé affilié à l'État islamique. Les otages sont présentés dans des images avec des vêtements orange et les ravisseurs en noir. Le ministère égyptien des Affaires étrangères renouvelle ses conseils d'évitement des voyages vers la Libye.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sisi"
+        ],
+        "LOCATION": [
+          "Libye",
+          "Égypte"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Islamic State",
+          "Ubushikiranganji b'imigenderanire mu Misiri"
+        ],
+        "DATE": [
+          "13 Ukwa kabiri 2015",
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Coptes"
+        ]
+      },
+      "score_e5": 0.7135260037409583
+    },
+    {
+      "titre": "Egypt ready for Libya evacuations as IS hostage photos ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-middle-east-31452875",
+      "image_url": "http://news.bbcimg.co.uk/media/images/80982000/jpg/_80982357_coptic.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwcnAFPHCg0NI0rbuPLzqMuRs9T1EVp9fHBfsrMTBRd3ZDhg-z",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Egypt ready for Libya evacuations as IS hostage photos ...",
+        "link": "https://www.bbc.com/news/world-middle-east-31452875",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwcnAFPHCg0NI0rbuPLzqMuRs9T1EVp9fHBfsrMTBRd3ZDhg-z",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/80982000/jpg/_80982357_coptic.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Egypt ready for Libya evacuations as IS hostage photos emerge\n\nEgypt has offered to evacuate its citizens from Libya after Islamic State (IS) released photos which it says show 21 Coptic Egyptians kidnapped there.\n\nPresident Abdul Fattah al-Sisi said Egyptians would be airlifted out of Libya, state-run news agency Mena said.\n\nIt came as a relative of one of those kidnapped told the BBC the victim's family had \"collapsed emotionally\".\n\nA number of Egyptian Coptic Christians were kidnapped in two raids in Sirte, Libya, in December and January.\n\nThe pictures released by IS were published in the latest online edition of the group's magazine Dabiq.\n\nA statement from the office of Egyptian President Abdul Fattah al-Sisi said a special committee was closely following events in order to \"clarify the situation and learn the truth\".\n\nIn Cairo, the families of the 21 hostages, who were working in Libya, have staged a protest accusing the president of not doing enough for them.\n\nSpeaking on Friday, an uncle of one of the kidnapped men said there was \"an atmosphere of complete devastation\" in his village following the publication of the pictures.\n\n\"We urge the president to exert his utmost efforts to bring our children back home,\" said Bashir Zaki. \"We elected him and love him, he shouldn't neglect us.\"",
+        "metadata": {
+          "description": "Egypt says it is ready to evacuate its citizens from Libya after IS militants release images apparently showing Egyptian Christians seized there.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Egypt says it is ready to evacuate its citizens from Libya after IS militants release images apparently showing Egyptian Christians seized there.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/80982000/jpg/_80982357_coptic.jpg",
+          "og:image:alt": "Families of Coptic Christian workers kidnapped in Libya demonstrated in front of the UN office in Cairo last month",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Egypt ready for Libya evacuations as IS hostage photos emerge",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-middle-east-31452875",
+          "article:section": "Middle East",
+          "twitter:description": "Egypt says it is ready to evacuate its citizens from Libya after IS militants release images apparently showing Egyptian Christians seized there.",
+          "twitter:title": "Egypt ready for Libya evacuations as IS hostage photos emerge"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-middle-east-31452875",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-02-13T11:12:26.000Z",
+          "dateModified": "2015-02-13T22:08:38.000Z",
+          "description": "Egypt says it is ready to evacuate its citizens from Libya after IS militants release images apparently showing Egyptian Christians seized there.",
+          "headline": "Egypt ready for Libya evacuations as IS hostage photos emerge",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/80982000/jpg/_80982357_coptic.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/80982000/jpg/_80982357_coptic.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-middle-east-31452875",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Égypte propose d'évacuer ses citoyens de la Libye après que l'État islamique a publié des photos montrant 21 Égyptiens coptes enlevés à Syrte en décembre et janvier. Le président Abdel Fattah al-Sisi annonce que les Égyptiens seront rapatriés par pont aérien, tandis qu'un comité spécial suit la situation. Des familles de 21 otages ont manifesté au Caire.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abdul Fattah al-Sisi",
+          "Bashir Zaki"
+        ],
+        "LOCATION": [
+          "Libye",
+          "Egypt",
+          "Sirte",
+          "Cairo"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Islamic State",
+          "Mena",
+          "Dabiq"
+        ],
+        "DATE": [
+          "December",
+          "January",
+          "Friday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Coptic Egyptians"
+        ]
+      },
+      "score_e5": 0.728134817990714
+    },
+    {
+      "titre": "Islamic State video shows beheadings of Egyptian Christians ...",
+      "source": "The Sydney Morning Herald",
+      "lien": "https://www.smh.com.au/world/islamic-state-video-shows-beheadings-of-egyptian-christians-taken-hostage-in-libya-20150216-13fkic.html",
+      "image_url": "https://static.ffx.io/images/w_800,h_450,c_fill,g_auto:faces/q_86,f_auto/t_metro_no_label_social_wm/l_text:PT Sans_25_bold_italic: from ,g_north_west,y_7,x_30,co_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55: 2015 ,g_north_west,y_32,x_20,co_rgb:0a1633/50a4add246166ea1dda5336d5daab91c63b3cc21",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMunepUYasaFEZPAGhlC7PQ2BQ_D_w-dEZOty8XgD4q_WtEBNi",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Islamic State video shows beheadings of Egyptian Christians ...",
+        "link": "https://www.smh.com.au/world/islamic-state-video-shows-beheadings-of-egyptian-christians-taken-hostage-in-libya-20150216-13fkic.html",
+        "source": "The Sydney Morning Herald",
+        "source_icon": "https://serpapi.com/searches/6a8eff15b8b4a53c719afaab/images/8J_UsqDwwCOCWi-1xOYgx_FDFqqD12PBvSEvxwstvj0.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMunepUYasaFEZPAGhlC7PQ2BQ_D_w-dEZOty8XgD4q_WtEBNi",
+        "thumbnail_width": 162,
+        "thumbnail_height": 311,
+        "image": "https://static.ffx.io/images/w_800,h_450,c_fill,g_auto:faces/q_86,f_auto/t_metro_no_label_social_wm/l_text:PT Sans_25_bold_italic: from ,g_north_west,y_7,x_30,co_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55: 2015 ,g_north_west,y_32,x_20,co_rgb:0a1633/50a4add246166ea1dda5336d5daab91c63b3cc21",
+        "image_width": 628,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Islamic State video shows beheadings of Egyptian Christians taken hostage in Libya\n\nThis was published 11 years ago\n\nDavid Kirkpatrick\n\nUpdated February 16, 2015 — 4:24pm,first published February 16, 2015 — 8:37am\n\nCairo: A video released by the Islamic State appeared to show the mass beheading of a group of Egyptian Christians by fighters in a recently formed Libyan arm of the militant group.\n\nIdentical in style and details to earlier execution videos released by IS, this was the first video the group has released depicting a killing outside of its core territory in Syria and Iraq. It appeared to show much closer communication and collaboration between IS and its far-flung satellite groups than Western officials previously believed.\n\nConcern is already growing in Libya and the West that IS might capitalise on the chaos that has engulfed the country to establish and expand a base of operations there. At least three groups of Libyan fighters have already pledged loyalty to IS, one in each of the country's three regions – Barqa in the east, Fezzan in the south, and Tripolitania in the west.\n\nIn Cairo, where the military-backed government has been working to defeat the Islamist factions in neighbouring Libya, supporters of the government cited the video released on Sunday as new evidence that those factions pose a growing threat to Egypt's own security.\n\nConfirming that those killed in the video were Egyptian Christians taken hostage in Libya weeks ago, Egyptian President Abdel-Fattah al-Sisi announced seven days of national mourning. In a televised address, he said Egypt would chose the \"necessary means and timing to avenge the criminal killings.\"\n\nThe White House offered support to Egypt's government and condolences to the victims' families, condemning the \"despicable and cowardly\" killings.\n\nIS promoted the video last week with a photograph from the scene that appeared in its English-language online magazine Dabiq.\n\nThe main difference from other execution videos it has released is that the new one appears to have taken place on the southern shore of the Mediterranean, on a rocky beach said by militants in the video to be in western Libya, much closer to Europe than sites previously depicted.\n\nFighters under the banner of the Tripolitania Province of the Islamic State announced last month they were holding about 20 Coptic Christians. A similar number of Egyptian Christians in Libya seeking work had disappeared in the mid-coastal city of Sirt. Officials of the Egyptian government and the Coptic Church confirmed that captives seen in a photograph with the announcement were the missing Egyptian Christians, and on Sunday confirmed they were killed in the video.\n\nIn the video, titled \"A message signed with blood to the nation of the cross\", masked fighters identified as from the Tripolitania province of IS, dressed in black with machetes at their chests, parade along a rocky beach towards the camera with a row of bound captives in orange jumpsuits.\n\nThe only sound is that of the crashing waves. The captives are made to kneel, and then one by one they are beheaded.\n\nThe lead executioner, who wears a brown mask over his face, thrusts his dagger at the camera. \"O people, recently you have seen us on the hills of al-Sham and Dabiq's plain, chopping off the heads that have been carrying the cross for a long time,\" he says in fluent English with an American accent. \"And today, we are on the south of Rome, on the land of Islam, Libya, sending another message.\"\n\nThe high-quality video, which bears the logo of al-Hayat, the official publishing arm of IS, is in stark contrast to the footage released in the past by affiliates of the group. The footage in those videos was shaky and grainy, suggesting an amateur production. By contrast, the five-minute clip released on Sunday is professional and cinematic, and is filmed in the same style as previous IS videos, including one that showed the mass beheading of captured Syrian soldiers last year.\n\nNew York Times, agencies\n\n\nFrom our partners",
+        "metadata": {
+          "description": "Islamic State has released a video that appears to show the beheading of a group of Egyptian Christians kidnapped in Libya.",
+          "title": "Islamic State video shows beheadings of Egyptian Christians taken hostage in Libya",
+          "article:section": "islamic-state-video-shows-beheadings-of-egyptian-christians-taken-hostage-in-libya-20150216-13fkic.html",
+          "article:published_time": "2015-02-15T21:37:58.358+00:00",
+          "article:modified_time": "2015-02-16T05:24:06.531+00:00",
+          "og:description": "Islamic State has released a video that appears to show the beheading of a group of Egyptian Christians kidnapped in Libya.",
+          "og:image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202015%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/50a4add246166ea1dda5336d5daab91c63b3cc21",
+          "og:image:alt": "The Sydney Morning Herald logo",
+          "og:image:width": "800",
+          "og:image:height": "450",
+          "og:image:secure_url": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202015%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/50a4add246166ea1dda5336d5daab91c63b3cc21",
+          "og:locale": "en_AU",
+          "og:site_name": "The Sydney Morning Herald",
+          "og:title": "Islamic State video shows beheadings of Egyptian Christians taken hostage in Libya",
+          "og:url": "https://www.smh.com.au/world/islamic-state-video-shows-beheadings-of-egyptian-christians-taken-hostage-in-libya-20150216-13fkic.html",
+          "twitter:description": "Islamic State has released a video that appears to show the beheading of a group of Egyptian Christians kidnapped in Libya.",
+          "twitter:title": "Islamic State video shows beheadings of Egyptian Christians taken hostage in Libya",
+          "author": "David Kirkpatrick"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "dateModified": "2015-02-16T05:24:06.531Z",
+          "datePublished": "2015-02-15T21:37:58.358Z",
+          "description": "Islamic State has released a video that appears to show the beheading of a group of Egyptian Christians kidnapped in Libya.",
+          "headline": "Islamic State video shows beheadings of Egyptian Christians taken hostage in Libya",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "David Kirkpatrick"
+            }
+          ],
+          "mainEntityOfPage": {
+            "@id": "https://www.smh.com.au/world/islamic-state-video-shows-beheadings-of-egyptian-christians-taken-hostage-in-libya-20150216-13fkic.html",
+            "@type": "WebPage"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "height": "1322.6666666666665",
+            "url": "https://static.ffx.io/images/w_744%2Ch_419%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/50a4add246166ea1dda5336d5daab91c63b3cc21",
+            "width": "744"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": [
+            {
+              "@type": "WebPageElement",
+              "isAccessibleForFree": false,
+              "cssSelector": ".paywall"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "The Sydney Morning Herald",
+            "logo": {
+              "@type": "ImageObject",
+              "height": "628",
+              "url": "https://www.smh.com.au/metro-assets/assets/static/smh.png",
+              "width": "1200"
+            },
+            "url": "https://www.smh.com.au"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Sydney Morning Herald",
+            "productID": "smh.com.au:webonly"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une vidéo publiée par l'État islamique montre la décapitation de masse de chrétiens coptes égyptiens pris en otage en Libye par une branche libyenne du groupe militant. C'est la première vidéo d'exécution hors de la Syrie et de l'Irak. Le président égyptien Abdel-Fattah al-Sisi annonce sept jours de deuil national. Les captifs en combinaison orange ont été promenés sur une plage rocheuse de l'ouest de la Libye par des combattants masqués de la province de Tripolitaine de l'État islamique.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Kirkpatrick",
+          "Abdel-Fattah al-Sisi"
+        ],
+        "LOCATION": [
+          "Libya",
+          "Syria",
+          "Iraq",
+          "Barqa",
+          "Fezzan",
+          "Tripolitania",
+          "Egypt",
+          "Mediterranean",
+          "Sirt"
+        ],
+        "ORGANIZATION": [
+          "The Sydney Morning Herald",
+          "Islamic State",
+          "White House",
+          "Dabiq",
+          "Coptic Church"
+        ],
+        "DATE": [
+          "February 16, 2015",
+          "11 years ago",
+          "Sunday",
+          "last week",
+          "last month"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Egyptian Christians"
+        ]
+      },
+      "score_e5": 0.7275308813833045
+    },
+    {
+      "titre": "L-Eġittu jrid jevakwa niesu mil-Libja",
+      "source": "Newsbook",
+      "lien": "https://newsbook.com.mt/l-egittu-jrid-jevakwa-niesu-mil-libja/",
+      "image_url": "https://cdn.newsbook.com.mt/wp-content/uploads/2018/05/Egittu-Kopti-protesta.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1GV7TGp9gb_8JxKKoJmzkAbCmokLtkLkFKkEbOu5xlu08fVH",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "L-Eġittu jrid jevakwa niesu mil-Libja",
+        "link": "https://newsbook.com.mt/l-egittu-jrid-jevakwa-niesu-mil-libja/",
+        "source": "Newsbook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSD7bEbWLWJ7ZBPsqSSDhPIJoFgKsF90fkVlknGsUr0nmuSytvzObYkLtWTox-sErv08o77ylgfsQScadOvIywM1jRnWdKd52mxUI-0HsAzpQCDTaI",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1GV7TGp9gb_8JxKKoJmzkAbCmokLtkLkFKkEbOu5xlu08fVH",
+        "thumbnail_width": 175,
+        "thumbnail_height": 288,
+        "image": "https://cdn.newsbook.com.mt/wp-content/uploads/2018/05/Egittu-Kopti-protesta.jpg",
+        "image_width": 351,
+        "image_height": 576
+      },
+      "webpage": {
+        "text": "L-Eġittu jrid jevakwa niesu mil-Libja\n\nL-Eġittu qed joffri li jevakwa ċ-ċittadini tiegħu mil-Libja wara li l-militanti tal-Istat Iżlamiku ddikjaraw li għandhom 21 Nisrani Kopti f’idejhom.\nIl-President Eġizzjan Abdul Fattah al-Sisi qal li se jkun hemm titjiriet apposta biex joħorġu l-Eġizzjani mil-Libja waqt li saħaq li l-Eġittu qed isegwi mill-qrib l-aħbar tal-ħtif taċ-ċittadini tiegħu biex jistabilixxi l-verità.\nFil-Kajr, il-familji tal-21 ostaġġ organizzaw protesta għax saħqu li l-President mhux qed jagħmel biżżejjed għalihom.",
+        "metadata": {
+          "title": "L-Eġittu jrid jevakwa niesu mil-Libja",
+          "og:image": "https://cdn.newsbook.com.mt/wp-content/uploads/2018/05/Egittu-Kopti-protesta.jpg",
+          "og:image:secure_url": "https://cdn.newsbook.com.mt/wp-content/uploads/2018/05/Egittu-Kopti-protesta.jpg",
+          "og:image:width": "576",
+          "og:image:height": "351",
+          "og:locale": "en_GB",
+          "og:type": "article",
+          "og:title": "L-Eġittu jrid jevakwa niesu mil-Libja",
+          "og:description": "L-Eġittu qed joffri li jevakwa ċ-ċittadini tiegħu mil-Libja wara li l-militanti tal-Istat Iżlamiku ddikjaraw li għandhom 21 Nisrani Kopti f’idejhom.",
+          "og:url": "https://newsbook.com.mt/l-egittu-jrid-jevakwa-niesu-mil-libja/",
+          "og:site_name": "Newsbook",
+          "article:publisher": "https://www.facebook.com/newsbook.com.mt/",
+          "article:published_time": "2015-02-13T15:37:00+00:00",
+          "author": "Marion Zammit",
+          "twitter:title": "L-Eġittu jrid jevakwa niesu mil-Libja",
+          "twitter:description": "L-Eġittu qed joffri li jevakwa ċ-ċittadini tiegħu mil-Libja wara li l-militanti tal-Istat Iżlamiku ddikjaraw li għandhom 21 Nisrani Kopti f’idejhom."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Égypte offre d'évacuer ses citoyens de la Libye après que les militants de l'État islamique ont déclaré détenir 21 chrétiens coptes. Le président égyptien Abdul Fattah al-Sisi annonce des vols spéciaux pour rapatrier les Égyptiens et suit de près l'affaire. Au Caire, les familles des 21 otages ont organisé une protestation.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abdul Fattah al-Sisi"
+        ],
+        "LOCATION": [
+          "Libja",
+          "L-Eġittu",
+          "Il-Kajr"
+        ],
+        "ORGANIZATION": [
+          "Newsbook",
+          "Istat Iżlamiku"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Nisrani Kopti"
+        ]
+      },
+      "score_e5": 0.7291907411241076
+    },
+    {
+      "titre": "Egypt: 10 years on, is its revolution an unfulfilled dream ...",
+      "source": "The Africa Report",
+      "lien": "https://www.theafricareport.com/60797/egypt-10-years-on-is-its-revolution-an-unfulfilled-dream-of-the-arab-spring/",
+      "image_url": "https://prod.cdn-medias.theafricareport.com/medias/2021/01/RTX1UVEH.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT52RUFURr7FmztmYz6ijpVkUXQN_UQMY32qryK9TJrpiLZtEwJ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Egypt: 10 years on, is its revolution an unfulfilled dream ...",
+        "link": "https://www.theafricareport.com/60797/egypt-10-years-on-is-its-revolution-an-unfulfilled-dream-of-the-arab-spring/",
+        "source": "The Africa Report",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCkB1i6gLowtdpRxeqHBXa_XlMVRBVX2l7PLM5OWWd_cVlL4Yk2BjhTpLJToss369ev02v2UhFHbhZz9ZoKZq1LilV4YEH86Y8-r6HcMVmZO7uSESV4q5fwiuHYQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT52RUFURr7FmztmYz6ijpVkUXQN_UQMY32qryK9TJrpiLZtEwJ",
+        "thumbnail_width": 170,
+        "thumbnail_height": 297,
+        "image": "https://prod.cdn-medias.theafricareport.com/medias/2021/01/RTX1UVEH.jpg",
+        "image_width": 419,
+        "image_height": 731
+      },
+      "webpage": {
+        "text": "Egypt: 10 years on, is its revolution an unfulfilled dream of the Arab Spring?\n\nPublished on January 22, 2021 at 16:00 pm (GMT +1)\n\nOn the 25 January each year, the family of Mostafa Ragab visit his grave in Suez. Killed by several bullets to the chest and head, Ragab, 21 and who worked in a cement factory, was the first casualty among hundreds of civilian protesters shot by the police in Egypt during the 2011 Arab Spring revolution.\n\n> “Now the situation is even worse. I wish he never joined.”\n\nHis family commemorates his legacy by putting flowers on his grave and giving bread to the poor. However, his family and friends say that he died for nothing. Survived by four sisters and his mother, he became the breadwinner of the family after his father died when he was 14.\n\nREAD MORE Egypt: 100 years of emancipation, women still fighting for change\n\n“He only wanted to demand a better life. He and his friends heard that there will be protests to demand jobs and better living conditions, so he joined,” his sister tells The Africa Report. “Now the situation is even worse. I wish he never joined.”\n\nThe 2011 revolution saw for the first time in decades millions of Egyptians from all political and religious affiliations not only protesting police brutality, corruption, poverty and nepotism but also demanding a halt to former president Hosni Mubarak’s 30-year presidency and stopping any attempt to pass on the power to his son. After 18 days of demonstrations, Mubarak resigned and delegated his powers to the Supreme Council of the Armed Forces, ending a major chapter in Egypt’s modern history.\n\n\nDied for nothing\n\nRagab’s family lives in the slums of Suez. His relatives say they like to think their son died for a good cause, but Egypt’s neoliberal economic policies since 2013 have struck a harsh blow on them and millions of others living under the poverty line.\n\n“Ten years after the revolution, the government is enslaving the people, and no one can raise their voice to complain. Most of the families that managed to live on a low budget are now literally living on charity,” his sister adds.  “It is as if his blood spelled for nothing.”\n\nIn the slums of Talbiyah in Giza, lives Mohamed Awad, 40, a school teacher who actively participated in the protests as part of the 6 April Youth revolutionary movement.\n\n“Currently, politics is a privilege. One has to work 24/7 to support his family,” says Awad, who also works as a deliveryman and cleaner to support his family.\n\n“The revolution seems now like a romantic dream and quickly vanished, and we woke up to the harsh reality that nothing had changed,” adds Awad, who lost two friends during the protests.\n\n> “It is as if his blood spelled for nothing.”\n\n“Hundreds have died and thousands went to prison. For what? The poor are getting poorer and the rich continue to become richer.”\n\nREAD MORE Egypt’s doctors arrested during Covid after criticising government\n\nAwad is yet to turn the page on 2011 and what he calls revolutionary dreams. “I am still haunted by those 18 days. We have failed the ongoing generations, just like our parents’ generation failed us. But at least we tried.”\n\n\nA vendetta that never died\n\nAt least 846 protesters were killed during the 2011 revolution, which extended throughout the country. But Egypt’s security forces have continued to deny any responsibility. Although dozens of officers were arrested for the cold-blooded murder of protesters, all of them were released, and later reinstated.\n\nOne of the slain protesters was Mohamed Mahmoud, an 18-year-old technical education student who protested in Alexandria, joining dozens of his friends. He died of a bullet in the head.\n\n> “We have failed the ongoing generations, just like our parents’ generation failed us. But at least we tried.”\n\nHis father has lost all hope of justice to be served. “We know the officer who shot him and others. We filed dozens of complaints and lawsuits,” the tearing-up father tells The Africa Report while looking at a picture of his son.\n\nREAD MORE Will Italy’s charges against Egypt shed light on state-run disappearances?\n\n“The officer was in jail for one month and was released for lack of evidence,” the father says, vowing that he will not accept any condolences until the security officer is brought to justice.\n\nCurrently in Suez, posters in the main Arbain Square where the deadly violence between the police and protesters took place, leaving dozens killed, celebrate National Police Day, also on 25 January.\n\n\nLiving with the legacy\n\nThe 2011 violence left a lot of antagonisms that remain to this day. In 2013 and 2019, Suez also witnessed deadly clashes between young protesters and police forces, leading to hundreds of arrests.\n\n“Till now, the police cannot forget that we made them abandon their positions and run away,” argues Essmat, an online salesman from Suez who participated in the 2011 revolution when he was 20.\n\nREAD MORE Egypt – UAE: Has Libya come between the longtime allies?\n\n“They have become more violent with the common people. However, there are whole neighbourhoods that have a vendetta from the police. When they want to arrest someone, they do not dare come at day[time]. They either come at dawn or come in armoured military cars,” Essmat adds.\n\nThe same antagonism remains with the police in several working-class areas all over the country, despite continuous PR campaigns showing a more human side of the security forces. Many describe them as ‘the regime’s bodyguards’.\n\n> “The police cannot forget that we made them abandon their positions and run away.”\n\n\nPost-2011 dreams crushed\n\nEgypt’s short-lived democratic experienced lasted one year, starting in 2012 with the presidential election victory of the Muslim Brotherhood’s Mohamed Morsi.\n\nMorsi clashed with the military, leading to a military coup in 2013. This signalled the start of a monstrous wave of counterrevolution led by President Abdel Fattah Al-Sisi, where the opposition was legally crushed and the public sphere militarised.\n\nTen years on, activist Esraa Abdel Fattah, one of the first young faces to post a video of herself encouraging people to demonstrate for “bread, freedom and social justice” remains in prison after she was arrested in 2019 for allegedly spreading false news.\n\nREAD MORE Egypt and Ethiopia blame Sudan for latest impasse in GERD talks\n\nDozens of other prominent activists who launched the youth movement that directed the protests were also imprisoned, like Alaa Abdel Fattah, Ahmed Maher, Khaled Dawoud and Ahmed Douma.\n\nA friend of Abdel Fattah who requests anonymity tells The Africa Report: “For Esraa to be in prison while Mubarak, his sons and ministers, and security apparatus walk free is a clear message from Sisi’s regime that the January revolution was a mistake.”\n\n“Currently Mubarak era ministers are enjoying the free air while thousands of civilian activists remain in prisons under sham trials by a highly politicised judiciary,” adds the friend.\n\n\nPolitical prisoners\n\nThe Egyptian authorities regularly use unfounded “terrorism”-related charges to imprison human rights defenders and to subject them to punitive measures without trial, according to Amnesty International. According to some estimates, around 60,000 political prisoners are currently being detained.\n\nDespite the obvious triumph of the counterrevolution, the current regime is still attempting to erase any positive memory related to the revolution.\n\nIn several public speeches and press interviews, Sisi, who led the military intelligence apparatus during in 2011, described the revolution as a conspiracy by Islamists and enemies of Egypt to spread chaos and divide the country.\n\nREAD MORE Africa’s growing criminalisation of the opposition\n\nIn a 2018 speech, Sisi said: “What happened seven or eight years ago will never happen again in Egypt […] What failed at the time will not succeed now.”\n\nSisi has a militarised grip over the press, unions, politics and society, but protests and dissent continue to take place. In September 2020, dozens of protests led by apolitical civilians demanded the fall of the regime and more economic reforms in favour of the masses. Thousands were arrested in a matter of two months.\n\nKareem Sayed, 37, a construction engineer who participated in the revolution, predicts that effective dissent will take place through the action of angry masses driven by social and economic reasons, not by political objectives.\n\n“No political player is strong enough to invite people to protests, but poverty, police brutality and house demolitions will be the fuel,” argues Sayed.\n\n\nNo margin of freedoms\n\nSayed says that Mubarak at least enabled a “margin of freedoms”, which allowed for the mobilisation of youth movements and organisation among professional syndicates. “But Sisi is determined to monopolise all aspects of the public sphere, leaving the masses to either radicalised ideologies or violent spontaneous protests.”\n\n> “Despite all my negativity, those 18 days are the only ones where I felt I mattered and that I had a voice and say regarding my life.”\n\nDespite growing poverty – 27.8% of the population in 2015 versus 32.5% in 2017/2018 – a water crisis on the way due to the building of the Grand Ethiopian Renaissance Dam and an active insurgency in North Sinai, Egypt is currently focusing on building megacities and highways, beaches and amusement parks, ignoring different signs of dissatisfaction among the masses.\n\nREAD MORE Egyptian farmers living in the shadow of Ethiopia’s dam\n\nIn the posh streets of the Zamalek district of Cairo, Salma, 34, a dentist turned graphic designer who participated in the 18 days of the revolution, asserts that the revolution has been overrun.\n\n“Despite all my negativity, those 18 days are the only ones where I felt I mattered and that I had a voice and say regarding my life,” concludes Salma.\n\n * Abir Sorour",
+        "metadata": {
+          "title": "Egypt: 10 years on, is its revolution an unfulfilled dream of the Arab Spring?",
+          "description": "Many involved affected by the 2011 Arab Spring revolution in Egypt have been left disappointed as Cairo has clamped down on freedoms and squeezed poor families.",
+          "og:locale": "en",
+          "og:type": "article",
+          "og:site_name": "The Africa Report",
+          "og:url": "https://www.theafricareport.com/60797/egypt-10-years-on-is-its-revolution-an-unfulfilled-dream-of-the-arab-spring/",
+          "og:title": "Egypt: 10 years on, is its revolution an unfulfilled dream of the Arab Spring?",
+          "og:description": "Many involved affected by the 2011 Arab Spring revolution in Egypt have been left disappointed as Cairo has clamped down on freedoms and squeezed poor families.",
+          "twitter:title": "Egypt: 10 years on, is its revolution an unfulfilled dream of the Arab Spring?",
+          "twitter:description": "Many involved affected by the 2011 Arab Spring revolution in Egypt have been left disappointed as Cairo has clamped down on freedoms and squeezed poor families.",
+          "og:image": "https://prod.cdn-medias.theafricareport.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=731,height=419,fit=cover/https://prod.cdn-medias.theafricareport.com/medias/2021/01/RTX1UVEH.jpg",
+          "og:image:width": "731",
+          "og:image:height": "419",
+          "og:image:type": "image/jpeg",
+          "fb:pages": "10750083165",
+          "article:published_time": "2021-01-22T15:00:03+00:00",
+          "article:modified_time": "2021-01-22T18:36:37+00:00",
+          "article:author": "Abir Sorour",
+          "article:section": "Politics,Politics news",
+          "article:tag": "Analysis",
+          "keywords": "Politics,Politics news,Egypt,Analysis"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Dix ans après la révolution égyptienne du Printemps arabe de 2011, la famille de Mostafa Ragab, premier civil tué par la police à Suez, commémore sa mémoire. La révolution de 2011 avait conduit à la démission du président Hosni Mubarak après 18 jours de manifestations contre la pauvreté, la corruption et la brutalité policière. Des militants comme Mohamed Awad expriment leur déception face à la situation socio-économique actuelle.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mostafa Ragab",
+          "Hosni Mubarak",
+          "Mohamed Awad"
+        ],
+        "LOCATION": [
+          "Suez",
+          "Egypt",
+          "Talbiyah",
+          "Giza"
+        ],
+        "ORGANIZATION": [
+          "The Africa Report",
+          "Supreme Council of the Armed Forces",
+          "6 April Youth"
+        ],
+        "DATE": [
+          "January 22, 2021",
+          "25 January",
+          "2011",
+          "14",
+          "30-year",
+          "18 days",
+          "2013",
+          "Ten years after the revolution",
+          "2011"
+        ],
+        "EVENT": [
+          "Arab Spring revolution"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7192603308800378
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Iraq"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Iraqi Shia"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Abdel Fattah al-Sisi",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bashir Zaki",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Kirkpatrick",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mostafa Ragab",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hosni Mubarak",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mohamed Awad",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Libye",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Égypte",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sirte",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Le Caire",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syrie",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Irak",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Barqa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fezzan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tripolitaine",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Méditerranée",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Suez",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Talbiyah",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gizeh",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ubushikiranganji b'imigenderanire mu Misiri",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mena",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Dabiq",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Sydney Morning Herald",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "White House",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Coptic Church",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Newsbook",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Africa Report",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Supreme Council of the Armed Forces",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "6 April Youth",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "13 Ukwa kabiri 2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 16, 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "11 years ago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last week",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last month",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 22, 2021",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "25 January",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2011",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "14",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30-year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "18 days",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Ten years after the revolution",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Arab Spring revolution",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Coptes",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T11:49:12.909386"
+  }
+}

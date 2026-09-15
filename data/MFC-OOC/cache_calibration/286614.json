@@ -1,0 +1,628 @@
+{
+  "id_rumeur": 286614,
+  "id_image": 1614854,
+  "caption": "NASA s Orion spacecraft sits on the launch pad in Cape Canaveral Fla after several launch delays on Dec 4 2014",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748183/oluyewo_benchmark/gqtdp6kkmzjbyok8lyub.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Tata production at Port Talbot reaches record high - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-wales-south-west-wales-23941086",
+      "image_url": "http://news.bbcimg.co.uk/media/images/64748000/png/_64748735_vlcsnap-2012-12-13-16h06m29s141.png",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQyO-KTfVUVwOr0YbaJqznc785xLg05euUrANLWHXwxxtm5-QD",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Tata production at Port Talbot reaches record high - BBC News",
+        "link": "https://www.bbc.com/news/uk-wales-south-west-wales-23941086",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQyO-KTfVUVwOr0YbaJqznc785xLg05euUrANLWHXwxxtm5-QD",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/64748000/png/_64748735_vlcsnap-2012-12-13-16h06m29s141.png",
+        "image_width": 261,
+        "image_height": 464
+      },
+      "webpage": {
+        "text": "Tata production at Port Talbot reaches record high\n\nProduction at Tata Steel's Port Talbot plant has hit a record monthly high in August, the company said.\n\nThe furnaces produced an average of 84,500 tonnes of iron per week - with the newly-built £185m No 4 furnace which opened in February producing almost half of that amount.\n\nThe last record for the strip products business was 82,800 tonnes in 2007.\n\nSuccess at Port Talbot has also created demand at the Llanwern site with records being broken there too.\n\n\"We have the best performing blast furnaces in Europe,\" outgoing hub director Jon Ferriman said.\n\n\"Critically, the steel plant and the casters also broke production records.\n\n\"This means that we have re-established the efficient production process which has been our goal since the blast furnace No 4 rebuild last year.\"\n\nHe added: \"The increase in productivity is of course very welcome. However, following extremely challenging times the business has much catching up to do.\n\n\"We're operating in highly competitive markets. As we introduce new added-value products for diverse, demanding applications, we are focused on turning productivity into sound profitability.\"\n\nMr Ferriman also said there had been a reduction in dust emissions from the site.",
+        "metadata": {
+          "description": "Production at Tata Steel's Port Talbot plant hits a record monthly high in August helped by its new furnace, the company says.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Production at Tata Steel's Port Talbot plant hits a record monthly high in August helped by its new furnace, the company says.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/64748000/png/_64748735_vlcsnap-2012-12-13-16h06m29s141.png",
+          "og:image:alt": "Blast furnace number four being rebuilt at Tata's Port Talbot steelworks",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Tata production at Port Talbot reaches record high",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-wales-south-west-wales-23941086",
+          "article:section": "South West Wales",
+          "twitter:description": "Production at Tata Steel's Port Talbot plant hits a record monthly high in August helped by its new furnace, the company says.",
+          "twitter:title": "Tata production at Port Talbot reaches record high"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-wales-south-west-wales-23941086",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2013-09-03T14:15:55.000Z",
+          "dateModified": "2013-09-03T14:15:55.000Z",
+          "description": "Production at Tata Steel's Port Talbot plant hits a record monthly high in August helped by its new furnace, the company says.",
+          "headline": "Tata production at Port Talbot reaches record high",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/64748000/png/_64748735_vlcsnap-2012-12-13-16h06m29s141.png"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/64748000/png/_64748735_vlcsnap-2012-12-13-16h06m29s141.png",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-wales-south-west-wales-23941086",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La production à l'usine Tata Steel de Port Talbot a atteint un record mensuel élevé en août, avec une moyenne de 84 500 tonnes de fer produites par semaine. Le nouveau haut fourneau n° 4, d'un coût de 185 millions de livres sterling et ouvert en février, a produit près de la moitié de ce montant. Le précédent record de l'activité des produits laminés était de 82 800 tonnes en 2007. Ce succès a également stimulé la demande et battu des records sur le site de Llanwern. Le directeur sortant du pôle, Jon Ferriman, a indiqué que les hauts fourneaux, l'aciérie et les couloirs avaient battu des records de production, et qu'une réduction des émissions de poussières du site avait été enregistrée.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jon Ferriman"
+        ],
+        "LOCATION": [
+          "Port Talbot",
+          "Llanwern",
+          "Europe"
+        ],
+        "ORGANIZATION": [
+          "Tata",
+          "Tata Steel",
+          "BBC News",
+          "BBC"
+        ],
+        "DATE": [
+          "August",
+          "2007",
+          "last year",
+          "February"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "No 4 furnace"
+        ]
+      },
+      "score_e5": 0.691233317218679
+    },
+    {
+      "titre": "Tecnicas - Tecnicas Reunidas entering Finland with 270 ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/trssc/photos/tecnicas-reunidas-entering-finland-with-270-million-contract-the-engineering-com/998887050186200/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=998887050186200",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIQOQRsFZKnB1jxVZ4i3JcsbwMl0xV5nBpnS3rUdaPK83qg6AB",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Tecnicas - Tecnicas Reunidas entering Finland with 270 ...",
+        "link": "https://www.facebook.com/trssc/photos/tecnicas-reunidas-entering-finland-with-270-million-contract-the-engineering-com/998887050186200/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIQOQRsFZKnB1jxVZ4i3JcsbwMl0xV5nBpnS3rUdaPK83qg6AB",
+        "thumbnail_width": 177,
+        "thumbnail_height": 285,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=998887050186200",
+        "image_width": 420,
+        "image_height": 674
+      },
+      "webpage": {
+        "text": "Facebook\n\nExplore the things you love.\n\nLog into Facebook\nEmail or mobile number\n\nPassword\n\nForgot password?\n\nCreate new account\n\n\n----------------------------------------\n\n----------------------------------------\n\nEnglish (US)\nEspañol\nFrançais (France)\n中文(简体)\nالعربية\nPortuguês (Brasil)\nItaliano\nMore languages…\n\nLog In\nMessenger\nFacebook Lite\nVideo\nMeta Pay\nMeta Store\nMeta Quest\nRay-Ban Meta\nMeta AI\nInstagram\nThreads\nPrivacy Policy\nPrivacy Center\nAbout\nCreate ad\nCreate Page\nDevelopers\nCareers\nCookies\nAd choices\nTerms\nHelp\nContact Uploading & Non-Users",
+        "metadata": {
+          "title": "Facebook"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de connexion et exploration de la plateforme Facebook, incluant des liens vers divers services Meta tels que Messenger, Instagram, Threads, Meta Pay, et des options linguistiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Facebook",
+          "Meta",
+          "Instagram",
+          "Threads",
+          "Tecnicas Reunidas"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Messenger",
+          "Meta Pay",
+          "Meta Store",
+          "Meta Quest",
+          "Ray-Ban Meta",
+          "Meta AI"
+        ]
+      },
+      "score_e5": 0.693177730066443
+    },
+    {
+      "titre": "Mark Fjosne, P.E. - Tower Crane Operations Manager ...",
+      "source": "LinkedIn",
+      "lien": "https://www.linkedin.com/in/mark-fjosne-p-e-a6b0b551",
+      "image_url": "https://media.licdn.com/dms/image/v2/D5622AQHvro6zcefpkA/feedshare-shrink_800/feedshare-shrink_800/0/1687191386857?e=2147483647&v=beta&t=optLJQ-nSulS8SZjVGrdkhyvB0oBlLi9M2bFMI5WAqw",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-FaUrUuB4MFeKsRVCee8oaimNGioipMCGqK6oAaJaGlpvf7iL",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Mark Fjosne, P.E. - Tower Crane Operations Manager ...",
+        "link": "https://www.linkedin.com/in/mark-fjosne-p-e-a6b0b551",
+        "source": "LinkedIn",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB20lEQVRYhWP8__8_w0ACpgG1nYGBgQXGaNh106Jx160lDAwMyjS28269m1pMg5v6CQYGBgZGWBQwlmy-QwfL4Y743-OrwsCAGgX0shzFLhZcKjzURRnSLRUYGBgYGGYef8Cw4-ZrmrgEqwM81EUZtqdawPkBOhIMnrNP0MQRWHMBzOeExGjmAHoCrA6YefwBUWLUAFjTwI6brxk8Z58YuEQIcwSplioIcjKIcLMxvPn6i-HJxx8Mf_4RLuZxOuB_jy8Kn7FkM4b4gbtvGTxnn2Aod1JhyLFWZBDhZoPL_fj9l2HFhWcMlduuM7z4_JN0BxADeNiYGXanWzDYKApjyHGwMjMkmMoyWMgLMlhOOszw4ccfrGZQlAtMZAWwWo4MNMR4GLKtFXHKUy0bvvn6i-HBu28MX35i-jRETxKnPoqigIGBgeHPv38MqasuMiw484SBgYGBQYCDhWF9oimDg7IIXI2OJC9O_RSHwJSjD-CWMzAwMHz48Yehdc9tFDUsTLitodgBK88_xRC78-Yr0fopdgC2LPbh-2_6OeDB---YDsCR5WjiAErBqANGHYDcLKdrF-l_jy8jA8MgCAFkB9ylo71wu-AOqHdTi6GTI-7uz7SMgHEYR3zvGABAiZoIrctOXgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-FaUrUuB4MFeKsRVCee8oaimNGioipMCGqK6oAaJaGlpvf7iL",
+        "thumbnail_width": 230,
+        "thumbnail_height": 219,
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHvro6zcefpkA/feedshare-shrink_800/feedshare-shrink_800/0/1687191386857?e=2147483647&v=beta&t=optLJQ-nSulS8SZjVGrdkhyvB0oBlLi9M2bFMI5WAqw",
+        "image_width": 840,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Profil LinkedIn de Mark Fjosne, P.E., exerçant en tant que Tower Crane Operations Manager.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mark Fjosne"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "LinkedIn"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Tower Crane Operations Manager"
+        ]
+      },
+      "score_e5": 0.7142710857077847
+    },
+    {
+      "titre": "Project Completion Success – A Proud Milestone We are proud ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DXCCziLDQPH/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3873670084304955595",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3AfHuuej4I4iAMDiq04G9RGlQuRDeXCGGyrxmXsWCTc1geysG",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Project Completion Success – A Proud Milestone We are proud ...",
+        "link": "https://www.instagram.com/p/DXCCziLDQPH/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef8e83d06ea39f7eb4d15/images/t7ep2ziRtvpdj_l087Pn5qP1XLf8FmGzfjNtqVJOcqI.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3AfHuuej4I4iAMDiq04G9RGlQuRDeXCGGyrxmXsWCTc1geysG",
+        "thumbnail_width": 224,
+        "thumbnail_height": 225,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3873670084304955595",
+        "image_width": 1439,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram intitulée 'Project Completion Success – A Proud Milestone We are proud'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7442371752685839
+    },
+    {
+      "titre": "The proof is in the lift - Liebherr",
+      "source": "Liebherr",
+      "lien": "https://www.liebherr.com/en-int/group/latest-news/exhibitions-events/conexpo/news/magazine/the-proof-is-in-the-lift-8716501",
+      "image_url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/images/events/2026/conexpo/magazine/the-proof-is-in-the-lift/liebherr_conexpo_magazine_the_proof_is_in_the_lift_05-1920x1080_w736.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDJqCwCg0O-GKUfg3jOa6I7fk5RELpd3mo2h492z7MToWNGsUr",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "The proof is in the lift - Liebherr",
+        "link": "https://www.liebherr.com/en-int/group/latest-news/exhibitions-events/conexpo/news/magazine/the-proof-is-in-the-lift-8716501",
+        "source": "Liebherr",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABlBMVEX___8AAABVwtN-AAAAHElEQVQ4jWNgGESAEQ5GFYwqoK4CHMqGhIIBBAAV1gEV-2puDwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDJqCwCg0O-GKUfg3jOa6I7fk5RELpd3mo2h492z7MToWNGsUr",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/images/events/2026/conexpo/magazine/the-proof-is-in-the-lift/liebherr_conexpo_magazine_the_proof_is_in_the_lift_05-1920x1080_w736.jpg",
+        "image_width": 414,
+        "image_height": 736
+      },
+      "webpage": {
+        "text": "The proof is in the lift\n\nSaying “yes” to the most demanding lifts across the United States, Bay Crane trusts Liebherr’s mobile and crawler cranes to enhance its fleet. With incredible power and precision engineering, these machines enable Bay Crane to deliver high-quality service while meeting tough challenges head-on.\n\nSince its founding in 1939, Bay Crane has grown from a local New York crane outfit into a national leader in the United States. That growth has always depended on pairing the right people with the right equipment — and nowhere is that partnership clearer than in Bay Crane’s long reliance on Liebherr. With over 100 crawler cranes and 161 all-terrain cranes company-wide, Bay Crane counts on Liebherr to transform engineering ambition into a safe, efficient reality.\n\n> This range of machinery means that we can tailor the crane to the project while keeping the operating experience, rigging approach, and service support consistent company wide.\n\nBay Crane‘s crawler lineup spans heavyweights including the LR 11000 and LR 1750/2 crawler cranes, versatile workhorses such as the LR 1600/2 and LR 1400/2, and nimble models like the LR 1300 SX, LR 1250, LR 1200, LR 1160, and LR 1100 crawler cranes. “This range of machinery means that we can tailor the crane to the project while keeping the operating experience, rigging approach, and service support consistent company wide,” noted Kenneth Bernardo of Bay Crane. “It also means that we can scale from congested urban sites to wind applications and industrial megaprojects without skipping a beat.”\n\nBay Crane‘s confidence in Liebherr’s crawler cranes isn’t theoretical — it comes from real jobs where performance and reliability matter most. From steel mills to infrastructure sites and industrial projects, Bay Crane consistently puts its fleet of Liebherr cranes to the test, and they continue to deliver. Three recent projects demonstrate why Liebherr crawlers are the backbone of Bay‘s heavy-lift fleet.\n\n\nStrength in steel\n\nProviding heavy lifting at a local steel mill, Bay Crane utilized the Liebherr LR 11000 crawler crane to take on a new challenge: installing a 584,000 lbs (265 t) door machine assembly inside a dense and confined industrial footprint. The crane was required to pick, swing, rotate, and even travel with the load, all while clearing conveyors, pipe racks, and stacks. It was a masterclass in the advantages of crawler cranes, showcasing the ability to reconfigure counterweights, maintain stability while traveling, and thread massive equipment into tight spaces. The success of this lift highlighted why Liebherr’s engineering and Bay Crane’s field expertise form such a reliable pairing.\n\nThen there are lifts where reach and height are the defining challenge. For a recent duct installation project, Bay Crane deployed the Liebherr LR 1750/2 crawler crane in a heavy configuration with luffing jib. With a 225 ft (69 m) lift radius and full 360-degree swing clearance, the crane handled a 97,500 lbs (44 t) load at just 57 % of its capacity. This project showcased the LR 1750/2’s ability to work comfortably at extreme radius and height. Even at a distance, the crane had ample margin showcasing Liebherr’s machines combine reach, efficiency, and safety without compromise.\n\nLastly, Bay Crane handled a 520,000 lbs (236 t) stator component that demanded a combination of lifting and specialized transport. Using gantries and the Liebherr LR 1600/2 crawler crane, the load was carefully lifted and prepared for transport. From there, it traveled by 12-line THP hydraulic platform trailer to the next jobsite, where it was transferred to rail for shipment. For the next stage of this project, Bay utilized the Liebherr LTM 1500-8.1 and LTM 1650-8.1 all-terrain cranes to work in tandem to offload the component before it was again secured on 12-line THP for final delivery to the customer. This exemplifies Bay Crane’s ability to orchestrate multi-modal heavy haul and lifting solutions with Liebherr cranes at the center of every critical handoff.\n\n\nTrusted partners\n\nBay Crane’s diverse projects demonstrate the range of challenges that they tackle and why they turn to Liebherr cranes as a trusted solution for getting the job done. Whether it’s chart-edge lifts at long radius, ultra-heavy components maneuvered through confined industrial sites, or high-reach installations where efficiency and margin matter, Liebherr cranes have proven they can handle the extremes.\n\n“Our relationship with Liebherr is rooted in shared standards. Their engineering gives us predictable charts and precise handling; our engineers and field teams turn that into productive lifts,” said Bernardo. “Over decades, that cycle has built trust. Liebherr continues to refine machines that reflect how contractors actually work, and Bay Crane continues to invest in a fleet that’s ready on day one for complex, multi-crane picks, tight urban staging, and long-reach assembly in renewables and heavy industry.”\n\nFor Bay Crane, that reliability translates into more than just completed lifts — it means confidence for its clients, safer jobsites, and the ability to say “yes” to projects that others might turn away. After more than eight decades of growth, the Bay Crane team notes one thing that has remained constant, “when the job calls for power, reach, and precision, we know that we can count on Liebherr.”\n\n\nExperience the variety",
+        "metadata": {
+          "description": "Saying “yes” to the most demanding lifts across the United States, Bay Crane trusts Liebherr’s mobile and crawler cranes to enhance its fleet. With",
+          "keywords": "Conexpo2026",
+          "og:title": "The proof is in the lift - Liebherr",
+          "twitter:title": "The proof is in the lift - Liebherr",
+          "og:description": "Saying “yes” to the most demanding lifts across the United States, Bay Crane trusts Liebherr’s mobile and crawler cranes to enhance its fleet. With",
+          "twitter:description": "Saying “yes” to the most demanding lifts across the United States, Bay Crane trusts Liebherr’s mobile and crawler cranes to enhance its fleet. With"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "https://www.liebherr.com/en-int/group/start-page-3935069",
+          "logo": "https://www-assets.liebherr.com/media/global/global-media/liebherr_logos/logo_ci_liebherr.svg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Bay Crane utilise les grues mobiles et sur chenilles de Liebherr aux États-Unis pour répondre à des demandes de levage exigeantes. Fondée en 1939, l'entreprise possède une flotte comprenant plus de 100 grues sur chenilles et 161 grues tout-terrain Liebherr, incluant des modèles tels que les LR 11000, LR 1750/2, LR 1600/2, LR 1400/2, LR 1300 SX, LR 1250, LR 1200, LR 1160 et LR 1100. Parmi les projets récents, une grue Liebherr LR 11000 a été utilisée dans une aciérie locale pour installer une machine de porte de 265 t (584 000 lbs), et une grue Liebherr LR 1750/2 a été déployée pour un projet d'installation de gaines.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kenneth Bernardo"
+        ],
+        "LOCATION": [
+          "United States",
+          "New York"
+        ],
+        "ORGANIZATION": [
+          "Bay Crane",
+          "Liebherr"
+        ],
+        "DATE": [
+          "1939"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "LR 11000",
+          "LR 1750/2",
+          "LR 1600/2",
+          "LR 1400/2",
+          "LR 1300 SX",
+          "LR 1250",
+          "LR 1200",
+          "LR 1160",
+          "LR 1100"
+        ]
+      },
+      "score_e5": 0.7024963214509771
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Cape Canaveral"
+    ],
+    "ORGANIZATION": [
+      "NASA"
+    ],
+    "DATE": [
+      "Dec 4 2014"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Orion"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Jon Ferriman",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Fjosne",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kenneth Bernardo",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Port Talbot",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Llanwern",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tata",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tata Steel",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Meta",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Threads",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tecnicas Reunidas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LinkedIn",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bay Crane",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Liebherr",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1939",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "No 4 furnace",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Messenger",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta Pay",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta Store",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta Quest",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ray-Ban Meta",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Meta AI",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tower Crane Operations Manager",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 11000",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1750/2",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1600/2",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1400/2",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1300 SX",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1250",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1200",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1160",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LR 1100",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T18:20:55.836035"
+  }
+}

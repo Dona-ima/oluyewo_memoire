@@ -1,0 +1,661 @@
+{
+  "id_rumeur": 332656,
+  "id_image": 332656,
+  "caption": "Workers position the space shuttle Endeavour inside a hangar at the California Science Center in Los Angeles",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748260/oluyewo_benchmark/vuai3yf9o1uozwknbzve.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Moving the space shuttle Endeavour",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/picture-gallery/tech/2012/10/14/moving-the-space-shuttle-endeavour/1626769/",
+      "image_url": "https://www.usatoday.com/gcdn/media/USATODAY/USATODAY/2012/10/15/shuttle1015004-16_9.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFkjQS7yYT9cHXsD4NLJ-bWM0h6HHTG6otEpz6Rk8Uu9fJSvh",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Moving the space shuttle Endeavour",
+        "link": "https://www.usatoday.com/picture-gallery/tech/2012/10/14/moving-the-space-shuttle-endeavour/1626769/",
+        "source": "USA Today",
+        "source_icon": "https://serpapi.com/searches/6a8ef9868ffd7bba7339ab20/images/VmV8kxqAYbJ6B0nfiTE274TDpjgGLCd9UpCSTKGZ-Dc.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFkjQS7yYT9cHXsD4NLJ-bWM0h6HHTG6otEpz6Rk8Uu9fJSvh",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.usatoday.com/gcdn/media/USATODAY/USATODAY/2012/10/15/shuttle1015004-16_9.jpg",
+        "image_width": 1157,
+        "image_height": 2050
+      },
+      "webpage": {
+        "text": "Moving the space shuttle Endeavour\n\nApple at 50 🍎 AWS turns 20 🥳 Want the lowest ping? 🎮 Get shopping texts 🛍️\n\n\nTECH\n\n\nMoving the space shuttle Endeavour\n\nOct. 11, 2012Updated Oct. 15, 2012, 9:14 a.m. ET\n\n\nFeatured Weekly Ad\n\nAbout Us Newsroom Staff Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Request a Correction Media Room Accessibility Sitemap Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Help Center Manage Account Give Feedback Get Home Delivery eNewspaper USA TODAY Shop USA TODAY Print Editions Licensing & Reprints Advertise Your Business Careers Internships Support Local Business\nNews Tips Submitting letters to the editor Podcasts Newsletters Mobile Apps Facebook X Instagram LinkedIn Threads YouTube Reddit Flipboard\nReal Estate 10BEST USA TODAY Store Shopping Deals Cashback Best-selling Booklist Southern Kitchen Jobs Sports Betting Sports Weekly Studio Gannett Classifieds Blueprint WITNESS (True Crime) Home Internet Services Branded Stories Hub\n© 2026 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+        "metadata": {
+          "title": "Moving the space shuttle Endeavour"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Déplacement de la navette spatiale Endeavour en octobre 2012, couvert par USA Today.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "USA Today",
+          "Gannett Satellite Information Network, LLC"
+        ],
+        "DATE": [
+          "Oct. 11, 2012",
+          "Oct. 15, 2012",
+          "2026"
+        ],
+        "EVENT": [
+          "Moving the space shuttle Endeavour"
+        ],
+        "OTHER": [
+          "Endeavour"
+        ]
+      },
+      "score_e5": 0.8034557677882953
+    },
+    {
+      "titre": "Simulated SSMEs on Endeavour | It is too bad NASA could not ...",
+      "source": "Flickr",
+      "lien": "https://www.flickr.com/photos/bobsjets/8051361452",
+      "image_url": "https://live.staticflickr.com/8175/8051361452_daf5e891e4_b.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuLHzWcvpcnrkryIjykh2wYj0JIiZf8CNUg7CrLL1nBexPWk-w",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Simulated SSMEs on Endeavour | It is too bad NASA could not ...",
+        "link": "https://www.flickr.com/photos/bobsjets/8051361452",
+        "source": "Flickr",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgUlEQVRYhe2VzXGCUBRGz9UGKEFGC6AESkgFSipQ9nGCo1nHVJBnKkgJdBAKiAMlUEDwZgEiRgR1JuOGs3vMO3z3_XCBjo6OjjsjtU-92ILMBRkAFmiEGX1e-lIlsKDvgDigFhBBFgpB2l7AOJ4iGuTBRySIvmGG6-bwlynU-ZKAGuFpcb6AyfYdxGsKAFmzsf368NUrMGv21Qjzx_2oVz4fx8_t4QA6w9uehOQrbwsHEE9ZlfPyHfBiC9UvYND-AgBSRGyMXZ6psoyLO3OZz48tBGmxA5l7RTjk5-tUwt0rwgu_70J5BOI0TD7DruLc4ucL6LXN-m-KAjS6Qa04t_hElQL6IXDSJBpIMHZ4GGbRdb4kkIWHAoydIrpoMP74-nY0zDvc5T67zb4rHjei8bdBepPWcDOs_d6V5Rpk2hyuG2Hu7UfHl_Bj5BU7kdSYKaL-uXAAYT4DfNB6H_xqeO7U4cUW4BafWlpcuKjaeNpQlg-AA5LmBdX_jDo6Ojruzi_cQH6mK1i4cwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuLHzWcvpcnrkryIjykh2wYj0JIiZf8CNUg7CrLL1nBexPWk-w",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://live.staticflickr.com/8175/8051361452_daf5e891e4_b.jpg",
+        "image_width": 682,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Simulated SSMEs on Endeavour | It is too bad NASA could not …\n\nSimulated SSMEs on Endeavour\n\n\nIt is too bad NASA could not leave the engines on Endeavour. These simulated engines look a little bare to me. However, NASA will actually re-use the SSMEs that were removed from all the shuttles. I guess that's good....",
+        "metadata": {
+          "og:site_name": "Flickr",
+          "og:updated_time": "2026-09-06T18:32:43.496Z",
+          "al:ios:app_name": "Flickr",
+          "al:ios:app_store_id": "328407587",
+          "twitter:app:name:iphone": "Flickr",
+          "twitter:app:id:iphone": "328407587",
+          "twitter:app:name:ipad": "Flickr",
+          "twitter:app:id:ipad": "328407587",
+          "twitter:app:name:googleplay": "Flickr",
+          "twitter:app:id:googleplay": "com.flickr.android",
+          "twitter:site": "@flickr",
+          "description": "It is too bad NASA could not leave the engines on Endeavour. These simulated engines look a little bare to me. However, NASA will actually re-use the SSMEs that were removed from all the shuttles. I guess that's good....",
+          "title": "Simulated SSMEs on Endeavour",
+          "og:title": "Simulated SSMEs on Endeavour",
+          "og:description": "It is too bad NASA could not leave the engines on Endeavour. These simulated engines look a little bare to me. However, NASA will actually re-use the SSMEs that were removed from all the shuttles. I guess that's good....",
+          "og:type": "article",
+          "og:url": "https://www.flickr.com/photos/bobsjets/8051361452/",
+          "og:image": "https://live.staticflickr.com/8175/8051361452_daf5e891e4_b.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "682",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://live.staticflickr.com/8175/8051361452_daf5e891e4_b.jpg",
+          "twitter:description": "It is too bad NASA could not leave the engines on Endeavour. These simulated engines look a little bare to me. However, NASA will actually re-use the SSMEs that were removed from all the shuttles. I guess that's good....",
+          "twitter:app:url:iphone": "flickr://flickr.com/photos/bobsjets/8051361452/",
+          "twitter:app:url:ipad": "flickr://flickr.com/photos/bobsjets/8051361452/",
+          "twitter:app:url:googleplay": "https://www.flickr.com/photos/bobsjets/8051361452/",
+          "al:ios:url": "flickr://flickr.com/photos/bobsjets/8051361452"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Moteurs principaux de navette spatiale (SSME) simulés sur Endeavour, la NASA réutilisant les véritables SSME retirés des navettes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Flickr",
+          "NASA"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Endeavour",
+          "SSME"
+        ]
+      },
+      "score_e5": 0.7798982592979448
+    },
+    {
+      "titre": "Discovery landing at sunrise 35 years ago. In the morning ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DPpB1y0ldan/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3958033650498671959",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4cgdFW-wp6kj32QLVr6vPBtVS5O8i0O-dA5z2OG65cmPaKqwq",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Discovery landing at sunrise 35 years ago. In the morning ...",
+        "link": "https://www.instagram.com/p/DPpB1y0ldan/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef9868ffd7bba7339ab20/images/QiYh7q8kZl1bQqRXTxxmhug_k3zb9N3mLz0W2UnWFEk.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4cgdFW-wp6kj32QLVr6vPBtVS5O8i0O-dA5z2OG65cmPaKqwq",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3958033650498671959",
+        "image_width": 2304,
+        "image_height": 3072
+      },
+      "webpage": null,
+      "texte_contexte": "Atterrissage de Discovery au lever du soleil il y a 35 ans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [
+          "35 years ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Discovery"
+        ]
+      },
+      "score_e5": 0.7761211389311053
+    },
+    {
+      "titre": "The government of science | Opinions | Al Jazeera",
+      "source": "Al Jazeera",
+      "lien": "https://www.aljazeera.com/opinions/2013/1/27/the-government-of-science",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2013/01/2013125161759561734_20.jpeg?resize=770,513&quality=80",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHF3gQoOkTENipr-QBSB8CYcNatYn_bffmiJ0hBlbzfu53RrYu",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "The government of science | Opinions | Al Jazeera",
+        "link": "https://www.aljazeera.com/opinions/2013/1/27/the-government-of-science",
+        "source": "Al Jazeera",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEX6kAD6jQD6iwD6jgD8w3b916P8vGb8wXH-4rz6iQD6mxn8v2v7rED9zY392Kb93rP6lxD91Jz-7NT8yIH7qDj7oin8tVb8umH7r0j7niL-8d7-58n7pDL926z7s1D9yYX90ZT_____9-v-5cL-7df8t1oeeSrwAAABGUlEQVQ4ja2SzYKDIAyE-QcRJYIoolKr7fu_4h72VtEednPlYyaZBKH_Lkq_AKDvCWy-AER-A-qa3FuEFPAdQA2b4dqkirOfmvZSgi6Wewvqsg0cVVev7eSWsgYlC-cssyar8jt6qJ5tser6TRZMKNgGhW0FMAyOQlyUe039w4MIbcPYSYL2q466acIA8pnCCp8AkQMyw8gogp374M3nIETGSNgyykm_tdPvUxYkzs9RIptGC_Najf4ToNr1XEy7AXO4qdrOALIu5dgxwl9GhT2fk6jF27D4aNOExmM_rxQLqAYV8-as2p8FARq6wc7D5jk_uuK2cJxTzpILoKS8TYyACZFM7i9PChvr9tuzxkFef_9t9cL-L_UD328RgUEn6xwAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHF3gQoOkTENipr-QBSB8CYcNatYn_bffmiJ0hBlbzfu53RrYu",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.aljazeera.com/wp-content/uploads/2013/01/2013125161759561734_20.jpeg?resize=770,513&quality=80",
+        "image_width": 513,
+        "image_height": 770
+      },
+      "webpage": {
+        "text": "The government of science | Opinions\n\nWe give huge amounts to science through our taxes. Isn’t it about time we had some say in what the money was used for?\n\nIn my first two pieces for Al Jazeera this year I wrote about the related matters of communication and money. Recent events have made it clear that democratic control of the economy requires a much greater degree of public participation in monetary policy. But it is also clear that the current organisation of knowledge in the major media makes this participation impossible in practical terms.\n\nThough the origins and nature of money are not uncanny or complicated, the media contrive to make them a matter of deep mystery. This fact alone makes reform of the systems of communication an urgent priority.\n\nTo communication and credit we should add a third area where unaccountable power has hidden behind both real and invented complexity. In the decades since the Second World War states and their corporate lieutenants have made science into a valuable instrument for the pursuit of their interests. In the process they have denied the rest of us important opportunities to shape the world in which we live.\n\nThe money spent on science has an impact on economic development that is only rivalled by bank-created credit. In a previous column I quoted Harvey Brooks, who explained in his book The Government of Science that the 2 percent of GDP the government gave to scientists had “disproportionate social and economic leverage, since the whole thrust of the economy is determined by scientific and technical research”.\n\nBrooks was writing in the 1960s but science continues to receive huge subsidies from taxpayers. And we still have almost no say in how this money is spent. In the United States the military controls much of the science budget directly, but even when the science is nominally civilian, the National Science and Technology Council seeks to “orient science and technology toward achieving national goals”.\n\nThese national goals are not widely publicised, much less debated. And while the details differ, other countries that spend significant amounts on science take a similar approach. Committees of senior scientists, industry representatives and government officials make the decisions behind closed doors and a veil of complicated jargon.\n\n NASA’s Curiosity rover lands on Mars\n\nThe consequences surround us. The consumer economy is littered with the fruits of military research, from the silicon chip to the internet, by way of mass air transit and satellite communications. And if the engine of progress isn’t raison d’état it is profit.\n\nDrug companies spend public subsidies testing new molecules that can be patented. The proliferation of questionable treatments for more or less fictitious disorders has nothing to do with any serious assessment of the public good, yet the sector continues to receive billions in direct and indirect subsidies, no questions asked.\n\nOther science perspectives\n\nIn the social sciences too money talks. As long ago as the 1930s the economist and politician Harold Laski warned of the influence of the industrial foundations on the university: “it is merely the fact that a fund is in reach which permeates everything. The college develops along the lines that the foundation approves. The dependence is merely implicit, but it is in fact quite final.”\n\n“Indeed while economists insist that their discipline bears comparison with the natural sciences, their complicity in the debt bubble gives their pretensions a farcical quality.“\n\nMore recently the financial sector has, in the words of Philip Augar, “wrapped its tentacles around the relevant parts of the academic world”.\n\nThe interests of the funders have a pervasive effect on the distribution of prestige in the social sciences. Media studies and sociology, which constantly intrude on matters that the powerful wish to keep under wraps, are treated with derision in the wider culture.\n\nMainstream economics, which reliably tells a story that suits the powerful, is held up as the pinnacle of the social sciences, for all its manifest failings. Indeed while economists insist that their discipline bears comparison with the natural sciences, their complicity in the debt bubble gives their pretensions a farcical quality.\n\nIt is as though the world’s most prestigious physicists had spent their days manhandling elephants up the stairs of their departments and throwing them off the roofs, only to express surprise and disappointment at the consequences. Meanwhile those economists who saw the economic crisis coming still struggle to secure a fair hearing. Though their ideas have proven predictive power they remain on the fringes.\n\nWhat thinkers forsee \n\nFor the most part the self-declared champions of science pay little attention to this state and corporate domination. Richard Dawkins, the late Christopher Hitchens and many others have had tremendous fun warning us that the light-filled city built by reason is under siege from the armies of darkness.\n\n“Even quite small sums could have an important effect, through creating new opportunities for scientists to do work that does not meet with state or corporate approval.“\n\nAn unlikely alliance of the New Age and the Old Testament, in Francis Wheen’s phrase, is out to get us, they tell us, repeatedly. It is all very JRR Tolkien and, like Tolkien, appeals to a certain kind of male adolescent imagination.\n\nBut while, despite Peter Jackson’s recent efforts, I remain very fond of The Hobbit, it is not a particularly helpful model for understanding the threats to reason in the real world. The present constitution of science is riddled with conflicts of interest, corruption and abuse. The enemies of free inquiry that really matter, in other words, are already inside the gates.\n\nAs in the realms of communication and credit the solution can only be found in greater public participation. We are not all scientists or engineers, any more than we are all journalists or bankers. But one way or another we are paying for science as we are paying for journalism and finance.\n\nThough the details of particular processes may be beyond the understanding of the public, we have every right to a say in setting the objectives of science. In order to do that we must exercise some direct control over how funds are distributed. Even quite small sums could have an important effect, through creating new opportunities for scientists to do work that does not meet with state or corporate approval.\n\nTaken together communication, subsidy and credit do much to shape the nature of our shared world. They determine what becomes practically possible and what remains an idle or wistful dream. They determine who is feted and admired, who is ignored or despised.\n\nAt present too often these great mechanisms join together in a kind of Sadean clockwork that exalts the contemptible and crushes the magnificent. I wonder if we are generous and wise enough to take control of this fever of gears and pulleys, and put it in the service of another world.\n\nThese then are the areas in which we must assert ourselves as a sovereign public through the acquisition and exercise of new powers. Next week I turn to the world of work, and the arrangements necessary if we are to take on the labour of government, the only sure means of securing our freedom.\n\nDan Hind is the prize-winning author of The Threat to Reason and The Return of the Public. Last year he published two online essays, “Common Sense” and “Maximum Republic”.\n\nFollow him on Twitter: @danhind",
+        "metadata": {
+          "title": "The government of science",
+          "description": "In order to have a say in objectives of science, we must exercise some direct control over how funds are distributed.",
+          "keywords": "Opinions, United States, US & Canada",
+          "displayAuthors": "Dan Hind",
+          "pageTitle": "The government of science",
+          "author": "Dan Hind",
+          "og:title": "The government of science",
+          "og:description": "In order to have a say in objectives of science, we must exercise some direct control over how funds are distributed.",
+          "og:url": "https://www.aljazeera.com/opinions/2013/1/27/the-government-of-science",
+          "og:type": "article",
+          "og:image": "https://www.aljazeera.com/wp-content/uploads/2013/01/2013125161759561734_20.jpeg?resize=1200%2C675",
+          "og:site_name": "Al Jazeera",
+          "og:image:alt": "The government of science",
+          "twitter:title": "The government of science",
+          "twitter:description": "In order to have a say in objectives of science, we must exercise some direct control over how funds are distributed.",
+          "pageAuthors": "Dan Hind"
+        },
+        "jsonld": {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.aljazeera.com#Organization",
+          "foundingDate": "2006-11-15",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com",
+          "logo": "https://www.aljazeera.com/images/logo_aje.png",
+          "sameAs": [
+            "https://www.facebook.com/aljazeera",
+            "https://twitter.com/ajenglish",
+            "https://www.youtube.com/aljazeeraenglish",
+            "https://www.instagram.com/aljazeeraenglish/?hl=en"
+          ],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Al Jazeera Media Network",
+            "alternateName": "شبكة الجزيرة الإعلامية"
+          },
+          "@context": "https://schema.org"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article d'opinion sur le gouvernement de la science, les dépenses publiques et la recherche scientifique, mentionnant des personnalités comme Harvey Brooks, le Conseil national de la science et de la technologie américain, et l'atterrissage du rover Curiosity de la NASA sur Mars.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Harvey Brooks"
+        ],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Al Jazeera",
+          "National Science and Technology Council",
+          "NASA"
+        ],
+        "DATE": [
+          "Second World War",
+          "1960s",
+          "2013",
+          "January 27, 2013"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Curiosity"
+        ]
+      },
+      "score_e5": 0.7433212033287814
+    },
+    {
+      "titre": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home",
+      "source": "Space",
+      "lien": "https://www.space.com/18059-space-shuttle-endeavour-museum-arrival.html",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:75,cw:1130,ch:848,q:80,w:1130/3oxyjKUdUMRxdemqJLPqXe.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFXOu7I9gcZLNX7CFP92EVqd8tVBTn_RyN45nJGGzMXDObkKEt",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home",
+        "link": "https://www.space.com/18059-space-shuttle-endeavour-museum-arrival.html",
+        "source": "Space",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEUAAAD____r6-v09PTw8PAaGhrk5OSysrLR0dGenp6Li4sqKirg4OBbW1twcHCioqJ3d3e2traDg4OYmJhRUVFdXV1lZWW8vLw-Pj7a2tqSkpIMDAzKysr5-fl0dHQWFhZERESpqanH7drmAAAAvklEQVQ4jc2S2xaCIBBFRUhAzRsmdlHz_38yUQp0hl7rvMCasxdzYaLo31SUnJfVKWTXxCppMDsbiBM9Q4CSnYCvtnjMthMmSUyYm1uzXAXM4L87UqRGPLGntYekDQPC9lcXAeDiOhQVSkh_Th1GdMxDUvSRTrtx94FSenXdAB3uJ8vXmcO4-0ADMADERH4FzKDozSzTfa3icfC5LX54__d4AIr9upAclDAJ34c9LHrqjy8x36hNZz4rZGF_qxeCsQWJRUxGPAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFXOu7I9gcZLNX7CFP92EVqd8tVBTn_RyN45nJGGzMXDObkKEt",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:75,cw:1130,ch:848,q:80,w:1130/3oxyjKUdUMRxdemqJLPqXe.jpg",
+        "image_width": 848,
+        "image_height": 1130
+      },
+      "webpage": {
+        "text": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home\n\nLOS ANGELES — Space shuttle Endeavour has come to its final stop — finally.\n\nThe iconic black and white orbiter, which flew 25 times to space over the past two decades, arrived at the California Science Center (CSC) Sunday afternoon (Oct. 14) to begin its new mission as a museum exhibit.\n\nEndeavour had been scheduled to pull up at the CSC on Saturday night (Oct. 13), but natural and utility obstacles, as well as the need for maintenance of its transporters, slowed the pace of the shuttle's parade and delayed its arrival by a day.\n\nNot that many of the spectators who came out to see the shuttle roll by seemed to mind.\n\n\"I walked most of the route, and I can tell you that over a million people were so positive, so encouraging,\" said science center president Jeffrey Rudolph. \"All we heard was 'Wow! Thank you!' and young people saying, 'I want to be an astronaut.'\" [Photos: Shuttle Endeavour's Street Parade]\n\n\"What a phenomenal three days,\" he added. \"I may need some sleep, but it was a great three days.\"\n\nArriving at Exposition Park at 11:30 a.m. PDT (2:30 p.m. EDT; 1830 GMT), Endeavour crossed the finish line of its extended three-day, 12-mile (19 kilometers) road trip from Los Angeles International Airport (LAX) by cutting across the grass on a plank-lined path to enter the CSC's Samuel Oschin Space Shuttle Display Pavilion.\n\nEndeavour reached the threshold of the hangar at about 2 p.m. PDT (5:00 p.m. EDT; 2100 GMT), where it was set to enter through the building's temporarily removed rear wall. Inside the display pavilion, Endeavour will remain atop the modified NASA overland transporter that served as the shuttle's chariot during its traverse of Los Angeles and Inglewood streets.\n\n\"Nothing like this has ever been attempted before, and nothing like this will ever be attempted again,\" L.A. mayor Antonio Villaraigosa said in a press conference Sunday. \"This was not just a once-in-a-lifetime event, this was a once event, and I'm heartened and we're all heartened at the reception that all Angelenos have given it.\"\n\n\"Getting the space shuttle from LAX to the science center was no small feat. But you made the Endeavour's final mission a success,\" the mayor added. \"Mission 26, mission accomplished.\"\n\nThe science center plans to open Endeavour's display to the public beginning Oct. 30.\n\nMission complete\n\nEndeavour's transition to the science center got underway last year when NASA awarded the orbiter to the institution and subsequently signed over its ownership. [Shuttle Endeavour: 6 Surprising Facts]\n\nShuttle technicians, who previously readied Endeavour to launch again, instead worked to transform the shuttle from a space-worthy vehicle to a museum-ready display. They removed hazardous materials and also saved some of the orbiter's propulsion system hardware to be possibly reused on future launch vehicles.\n\nLast month, Endeavour crossed the country, flying piggyback from NASA's Kennedy Space Center in Florida to Los Angeles atop a modified Boeing 747 jumbo jet. The orbiter was then loaded onto the transporter and underwent a few final display preparations while temporarily sheltered in a United Airlines hangar at LAX.\n\nEarly Friday morning (Oct. 12), Endeavour left the hangar at the airport and began its slow journey to the CSC. The road trip proceeded mostly on schedule until Saturday, when the narrow clearances around street corners, signs, buildings and trees on Crenshaw Boulevard resulted in a series of very slow precision moves.\n\nDropping well below the 2 mph (3.2 kph) top speed of Endeavour's four computer-driven, self-propelled vehicles for the vast majority of the trip, the trek was also extended by needing to reconfigure the vehicles to straddle the medians on the wider roads along the shuttle's route.\n\nThe four multi-wheeled vehicles were used for the vast majority of the journey. The exception was a brief spell on Friday evening (Oct. 12), when the shuttle was towed by a Toyota Tundra pickup truck to rebalance the weight before crossing over the 405 freeway.\n\nIn addition to the crowd that gathered to see its arrival at Exposition Park, Endeavour was welcomed by two public celebrations on Saturday: a formal ceremony held at The Forum sports arena in Inglewood, and a dance tribute at the intersection of Crenshaw and Martin Luther King, Jr. boulevards that was choreographed by Debbie Allen.\n\nDue to the delay, the performance proceeded well before Endeavour entered the intersection.\n\nGoing back up\n\nAlthough Endeavour will never fly into space again, it will return to a launch pad of sorts.\n\nThe California Science Center plans to build the Samuel Oschin Air and Space Center, which by 2017 will replace the display pavilion as Endeavour's permanent home. In the new facility, Endeavour will be hoisted vertical and exhibited with a pair of solid rocket boosters and a replica external fuel tank to re-create how the space shuttle looked before liftoff.\n\nThe temporary hangar and future center were named after the late entrepreneur and philanthropist Samuel Oschin, whose family foundation donated a \"transformational gift\" toward the $200 million the science center says it needs to complete Endeavour's exhibit.\n\nToyota, through an existing partnership with the science center, has pledged to donate up to $500,000 through a \"tweet-drive\" on its Tundra Endeavour Project website.\n\nThe CSC is also inviting its members and supporters to become a part of \"Team Endeavour\" by sponsoring one or several of the thousands of heat shield tiles that line the shuttle's underbelly. Those who donate $1,000 or more will receive a patch that was packed aboard Endeavour during its ferry flight to California, among other benefits.\n\nThe science center is not charging an admission fee to see Endeavour when the pavilion opens. However, due to the volume of visitors anticipated for its debut, the CSC is requiring a timed entry ticket that carries a service charge of $2. The tickets can be reserved through the science center's website.\n\nEditor's Note:If you snapped any photos of Endeavour during its trip through L.A.'s streets and want to share them with SPACE.com, send the pictures, comments and location info to managing editor Tariq Malik at tmalik@space.com.\n\nSee shuttles.collectspace.com for continuing coverage of the delivery and display of NASA's retired space shuttles.\n\nFollow collectSPACE on Facebook and Twitter @collectSPACE and editor Robert Pearlman @robertpearlman. Copyright 2012 collectSPACE.com. All rights reserved.\n\nRobert Pearlman is a space historian, journalist and the founder and editor of collectSPACE.com, a daily news publication and community devoted to space history with a particular focus on how and where space exploration intersects with pop culture. Pearlman is also a contributing writer for Space.com and co-author of \"Space Stations: The Art, Science, and Reality of Working in Space” published by Smithsonian Books in 2018.\n\nIn 2009, he was inducted into the U.S. Space Camp Hall of Fame in Huntsville, Alabama. In 2021, he was honored by the American Astronautical Society with the Ordway Award for Sustained Excellence in Spaceflight History. In 2023, the National Space Club Florida Committee recognized Pearlman with the Kolcum News and Communications Award for excellence in telling the space story along the Space Coast and throughout the world.",
+        "metadata": {
+          "title": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home | Space",
+          "description": "NASA's youngest space shuttle arrived at the California Science Center Sunday afternoon after a three-day trek from Los Angeles International Airport.",
+          "og:site_name": "Space",
+          "og:locale": "en_US",
+          "og:image": "https://cdn.mos.cms.futurecdn.net/3oxyjKUdUMRxdemqJLPqXe-1280-80.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "848",
+          "og:image:alt": "Shuttle Endeavour Comes Home",
+          "og:type": "article",
+          "article:publisher": "https://www.facebook.com/spacecom",
+          "og:title": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home",
+          "og:url": "https://www.space.com/18059-space-shuttle-endeavour-museum-arrival.html",
+          "article:published_time": "2012-10-14T23:25:51Z",
+          "article:section": "Space Shuttle",
+          "article:author": "https://www.space.com/author/robert-z-pearlman",
+          "article:tag": "space shuttle",
+          "mrf:authors": "Robert Z. Pearlman",
+          "mrf:tags": "region:US;articleType:News;control:serversidehawk;control:videoarticle;category:Space Shuttle;category:Space Exploration;category:Missions;freeform:space shuttle;unindexedFreeform:csc;unindexedFreeform:space shuttle program;unindexedFreeform:endeavour museum;unindexedFreeform:space shuttle endeavour;unindexedFreeform:endeavour arrival;unindexedFreeform:shuttle endeavour;unindexedFreeform:california science center;unindexedFreeform:space shuttle retirement;unindexedFreeform:NASA;unindexedFreeform:collectspace.com;source:collectspace.com",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@SPACEdotcom",
+          "twitter:title": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home",
+          "twitter:creator": "@SPACEdotcom",
+          "twitter:image": "https://cdn.mos.cms.futurecdn.net/3oxyjKUdUMRxdemqJLPqXe-1200-80.jpg",
+          "apple-news-title": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home",
+          "twitter:account_id": "9696142"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "name": "Space Shuttle Endeavour Arrives at Its New L.A. Museum Home | Space",
+          "url": "https://www.space.com/18059-space-shuttle-endeavour-museum-arrival.html",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://cdn.mos.cms.futurecdn.net/3oxyjKUdUMRxdemqJLPqXe.jpg",
+            "caption": "Shuttle Endeavour Comes Home"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La navette spatiale Endeavour arrive au California Science Center pour sa nouvelle mission d'exposition au musée, après un voyage de 12 miles depuis l'aéroport international de Los Angeles (LAX) en passant par Los Angeles et Inglewood.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jeffrey Rudolph",
+          "Antonio Villaraigosa"
+        ],
+        "LOCATION": [
+          "Los Angeles",
+          "California",
+          "Inglewood",
+          "Exposition Park"
+        ],
+        "ORGANIZATION": [
+          "Space",
+          "California Science Center",
+          "NASA",
+          "Kennedy Space Center"
+        ],
+        "DATE": [
+          "Sunday",
+          "Oct. 14",
+          "Oct. 13",
+          "Oct. 30",
+          "last year",
+          "last month"
+        ],
+        "EVENT": [
+          "Mission 26"
+        ],
+        "OTHER": [
+          "Endeavour",
+          "Samuel Oschin Space Shuttle Display Pavilion",
+          "LAX"
+        ]
+      },
+      "score_e5": 0.8268524291661146
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "California Science Center",
+      "Los Angeles"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Endeavour"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Harvey Brooks",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jeffrey Rudolph",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Antonio Villaraigosa",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Los Angeles",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Inglewood",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Exposition Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA Today",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gannett Satellite Information Network, LLC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flickr",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NASA",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al Jazeera",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Science and Technology Council",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Space",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "California Science Center",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kennedy Space Center",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Oct. 11, 2012",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Oct. 15, 2012",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "35 years ago",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Second World War",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1960s",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 27, 2013",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Oct. 14",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Oct. 13",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Oct. 30",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last month",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Moving the space shuttle Endeavour",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Mission 26",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Endeavour",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SSME",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Discovery",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Curiosity",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Samuel Oschin Space Shuttle Display Pavilion",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LAX",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T19:35:12.634963"
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "id_rumeur": "54617",
+  "id_image": "54617",
+  "caption": "View Photo Gallery GOP presidential candidates prepare for the New Hampshire primary",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122868/54617.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Photos of the Day: Jan. 5 - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/SB10001424052970203471004577142890821786500",
+      "image_url": "https://s.wsj.net/public/resources/images/OB-RG484_010512_H_20120105140216.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDmM_KERV_WkVoowkE6HaMe7lZA7-i5v_-kEj0lJjrDCKg7Hng",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Photos of the Day: Jan. 5 - WSJ",
+        "source": "WSJ",
+        "link": "https://www.wsj.com/articles/SB10001424052970203471004577142890821786500",
+        "imageUrl": "https://s.wsj.net/public/resources/images/OB-RG484_010512_H_20120105140216.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDmM_KERV_WkVoowkE6HaMe7lZA7-i5v_-kEj0lJjrDCKg7Hng"
+      },
+      "webpage": null,
+      "texte_contexte": "Photos of the Day: Jan. 5 - WSJ",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [
+          "Jan. 5"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.774600290722147
+    },
+    {
+      "titre": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online | HuffPost Latest News",
+      "source": "HuffPost",
+      "lien": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965",
+      "image_url": "https://img.huffingtonpost.com/asset/5bb82bde26000036008381ef.jpeg?ops=scalefit_500_noupscale",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK8yUEnXkYpF4stSRReyEbwiohb_HktJQWM5rbXPBTY1RlKgDH",
+      "rang_lens": 2,
+      "brut": {
+        "title": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online | HuffPost Latest News",
+        "source": "HuffPost",
+        "link": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965",
+        "imageUrl": "https://img.huffingtonpost.com/asset/5bb82bde26000036008381ef.jpeg?ops=scalefit_500_noupscale",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK8yUEnXkYpF4stSRReyEbwiohb_HktJQWM5rbXPBTY1RlKgDH"
+      },
+      "webpage": {
+        "text": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online\n\nWASHINGTON, D.C. -- The oft-discussed 200-page opposition research book compiled by John McCain's presidential campaign in 2008 against fellow candidate Mitt Romney has made its way online, courtesy of BuzzFeed's Andrew Kaczynski.\n\nThe entire thing is worth a thorough read if only for an exploration of how little the current Republican field has scratched the surface with respect to Romney-related attacks.\n\nThe document also seriously undercuts McCain's current position –- as an endorser of Romney for president in 2012 –- that attacks on the former governor's Bain Capital days are anti-capitalism. There are 399 mentions of Bain in McCain's Mitt Romney oppo book.\n\nAfter looking through the material, tell us what you find.\n\nRelated\n\nmitt-romney-bain-capitalmitt-romney-john-mccainbain capitalPoliticsMitt Romney",
+        "metadata": {
+          "title": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online | HuffPost Latest News",
+          "description": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+          "keywords": "mitt-romney-bain-capital,mitt-romney-john-mccain,bain capital,Politics,Mitt Romney,Video,John McCain,Mitt Romney 2012",
+          "fb:app_id": "46744042133",
+          "og:title": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+          "og:type": "article",
+          "og:image": "https://img.huffingtonpost.com/asset/default-entry.jpg?ops=1200_630",
+          "og:image:url": "https://img.huffingtonpost.com/asset/default-entry.jpg?ops=1200_630",
+          "og:image:type": "image/jpeg",
+          "og:url": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965",
+          "og:site_name": "HuffPost",
+          "og:locale": "en_US",
+          "og:description": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+          "article:tag": "mitt-romney-bain-capital,mitt-romney-john-mccain,bain capital,Politics,Mitt Romney,Video,John McCain,Mitt Romney 2012",
+          "article:section": "Politics",
+          "twitter:title": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+          "twitter:description": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+          "article:published_time": "2012-01-18T02:53:34Z",
+          "article:modified_time": "2017-12-07T03:00:33Z",
+          "al:ios:url": "huffpostnews:///?editionID=us&entryID=us_5bb82bdee4b0877500e169d7",
+          "al:ios:app_store_id": "306621789",
+          "al:ios:app_name": "HuffPost"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsMediaOrganization",
+              "name": "HuffPost",
+              "foundingDate": "2005-05-09",
+              "url": "https://www.huffpost.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://img.huffingtonpost.com/asset/6813a4f21500001b00c3cbf6.png?ops=scalefit_700",
+                "width": 700,
+                "height": 120
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "email": "correction@huffpost.com",
+                "url": "https://www.huffpost.com/static/contact-us"
+              },
+              "sameAs": [
+                "https://www.facebook.com/HuffPost/",
+                "https://x.com/HuffPost",
+                "https://www.instagram.com/huffpost/",
+                "https://www.linkedin.com/company/huffpost/",
+                "https://www.youtube.com/@huffpost",
+                "https://en.wikipedia.org/wiki/HuffPost"
+              ],
+              "publishingPrinciples": [
+                "https://www.huffpost.com/static/user-agreement",
+                "https://www.huffpost.com/static/comment-policy",
+                "https://www.huffpost.com/static/huffpost-dmca-copyright-policy",
+                "https://www.huffpost.com/static/privacy-policy",
+                "https://www.huffpost.com/static/accessibility-statement"
+              ],
+              "ethicsPolicy": "https://www.huffpost.com/static/about-us",
+              "correctionsPolicy": "https://www.huffpost.com/static/contact-us",
+              "masthead": "https://www.huffpost.com/static/about-us",
+              "@id": "https://www.huffpost.com#organization"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.huffpost.com#website",
+              "name": "HuffPost",
+              "url": "https://www.huffpost.com",
+              "publisher": {
+                "@id": "https://www.huffpost.com#organization"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965#webpage",
+              "url": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965",
+              "publisher": {
+                "@id": "https://www.huffpost.com#organization"
+              },
+              "isPartOf": {
+                "@id": "https://www.huffpost.com#website"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@context": "https://schema.org",
+              "author": {
+                "@context": "https://schema.org",
+                "@type": "Person",
+                "description": "Sam Stein is Politico's deputy managing editor for politics. He was the senior politics editor at HuffPost. Previously he has worked for Newsweek magazine, the New York Daily News and the investigative journalism group Center for Public Integrity. He has a master's from the Columbia University Graduate School of Journalism and is a graduate of Dartmouth College.",
+                "jobTitle": "Politico deputy managing editor for politics",
+                "name": "Sam Stein",
+                "url": "https://www.huffpost.com/author/sam-stein"
+              },
+              "dateCreated": "2012-01-18T02:53:34Z",
+              "dateModified": "2017-12-07T03:00:33Z",
+              "datePublished": "2012-01-18T02:53:34Z",
+              "description": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+              "headline": "John McCain's 200-Page Mitt Romney Opposition Research Book From '08 Found Online",
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://img.huffingtonpost.com/asset/default-entry.jpg?ops=1778_1000",
+                "width": 1778,
+                "height": 1000
+              },
+              "inLanguage": "en-US",
+              "keywords": [
+                "mitt-romney-bain-capital",
+                "mitt-romney-john-mccain",
+                "bain-capital",
+                "politics",
+                "mitt-romney",
+                "video",
+                "john-mccain",
+                "mitt-romney-2012",
+                "type: news"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965#webpage"
+              },
+              "publisher": {
+                "@id": "https://www.huffpost.com#organization"
+              },
+              "thumbnailUrl": "https://img.huffingtonpost.com/asset/default-entry.jpg?ops=200_150",
+              "url": "https://www.huffpost.com/entry/john-mccains-200-page-romney-research-book_n_1211965",
+              "@type": "NewsArticle",
+              "articleSection": "Politics",
+              "speakable": {
+                "@type": "SpeakableSpecification",
+                "cssSelector": [
+                  ".entry__header .headline",
+                  ".entry__header .dek",
+                  ".entry__content-list"
+                ]
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "John McCain's 200-page opposition research book from 2008 against Mitt Romney was found online, courtesy of BuzzFeed's Andrew Kaczynski. The document discusses Mitt Romney's days at Bain Capital.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John McCain",
+          "Mitt Romney",
+          "Andrew Kaczynski"
+        ],
+        "LOCATION": [
+          "WASHINGTON, D.C."
+        ],
+        "ORGANIZATION": [
+          "HuffPost",
+          "BuzzFeed",
+          "Bain Capital"
+        ],
+        "DATE": [
+          "'08",
+          "2008",
+          "2012"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7594512361228133
+    },
+    {
+      "titre": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/video/opinion-sen-ron-johnson-on-whether-mitt-can-win/CC849431-79BD-44AD-B99C-B3DD7075D986",
+      "image_url": "https://m.wsj.net/video/20121017/101712opinionjohnson/101712opinionjohnson_16x9still.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSda4-04ygT9sDohuL46bRdM_UwXJtzDZyBySLpc54uc_YtTpGg",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win",
+        "source": "WSJ",
+        "link": "https://www.wsj.com/video/opinion-sen-ron-johnson-on-whether-mitt-can-win/CC849431-79BD-44AD-B99C-B3DD7075D986",
+        "imageUrl": "https://m.wsj.net/video/20121017/101712opinionjohnson/101712opinionjohnson_16x9still.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSda4-04ygT9sDohuL46bRdM_UwXJtzDZyBySLpc54uc_YtTpGg"
+      },
+      "webpage": {
+        "text": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win \n\nOpinion: Sen. Ron Johnson on Whether Mitt Can Win\n\nWisconsin Senator Ron Johnson on Republican prospects of winning the Badger State this November. Photos: Getty Images\n\nBy\n\nWall Street Journal\n\nOctober 17, 2012\n\n5:09",
+        "metadata": {
+          "title": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win",
+          "description": "Wisconsin Senator Ron Johnson on Republican prospects of winning the Badger State this November. Photos: Getty Images",
+          "keywords": "Ron Johnson",
+          "twitter:title": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win ",
+          "twitter:description": "Wisconsin Senator Ron Johnson on Republican prospects of winning the Badger State this November. Photos: Getty Images",
+          "fb:app_id": "155657961232951",
+          "og:locale": "en_US",
+          "og:type": "video",
+          "og:site_name": "WSJ",
+          "og:url": "https://www.wsj.com/video/opinion-sen-ron-johnson-on-whether-mitt-can-win/CC849431-79BD-44AD-B99C-B3DD7075D986",
+          "og:description": "Wisconsin Senator Ron Johnson on Republican prospects of winning the Badger State this November. Photos: Getty Images",
+          "og:image": "http://m.wsj.net/video/20121017/101712opinionjohnson/101712opinionjohnson_1280x720.jpg",
+          "og:image:secure_url": "https://m.wsj.net/video/20121017/101712opinionjohnson/101712opinionjohnson_1280x720.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:title": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win ",
+          "cXenseParse:wsj-keywords": "ron johnson,commentary/opinion"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "name": "Opinion: Sen. Ron Johnson on Whether Mitt Can Win ",
+          "description": "Wisconsin Senator Ron Johnson on Republican prospects of winning the Badger State this November. Photos: Getty Images",
+          "uploadDate": "2012-10-17T22:32:51Z",
+          "duration": "PT5M9S",
+          "isAccessibleForFree": true,
+          "embedUrl": "https://video-api.wsj.com/api-video/player/v3/iframe.html?guid=CC849431-79BD-44AD-B99C-B3DD7075D986",
+          "thumbnailUrl": "https://m.wsj.net/video/20121017/101712opinionjohnson/101712opinionjohnson_1280x720.jpg",
+          "contentUrl": "https://m.wsj.net/video/20121017/101712opinionjohnson/hls/manifest-hd-wifi.m3u8",
+          "potentialAction": {
+            "@type": "SeekToAction",
+            "target": "https://www.wsj.com/video/opinion-sen-ron-johnson-on-whether-mitt-can-win/CC849431-79BD-44AD-B99C-B3DD7075D986?startPosition={seek_to_second_number}",
+            "startOffset-input": "required name=seek_to_second_number"
+          }
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Opinion piece featuring Wisconsin Senator Ron Johnson discussing Republican prospects of winning the Badger State in November.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ron Johnson",
+          "Mitt"
+        ],
+        "LOCATION": [
+          "Wisconsin",
+          "Badger State"
+        ],
+        "ORGANIZATION": [
+          "WSJ",
+          "Wall Street Journal",
+          "Getty Images"
+        ],
+        "DATE": [
+          "October 17, 2012",
+          "November"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.763655188706229
+    },
+    {
+      "titre": "McCain Endorses Romney in New Hampshire",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/video/mccain-endorses-romney-in-new-hampshire/BA4C7B0C-C0BE-4338-B37C-3A2910547F75",
+      "image_url": "http://m.wsj.net/video/20120104/010412foxnewsmccainromney/010412foxnewsmccainromney_1280x720.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOd5ak-rVXmq3_2xAc43DUZJczs0nvitVcspGaBslwgAuxyTYZ",
+      "rang_lens": 4,
+      "brut": {
+        "title": "McCain Endorses Romney in New Hampshire",
+        "source": "WSJ",
+        "link": "https://www.wsj.com/video/mccain-endorses-romney-in-new-hampshire/BA4C7B0C-C0BE-4338-B37C-3A2910547F75",
+        "imageUrl": "http://m.wsj.net/video/20120104/010412foxnewsmccainromney/010412foxnewsmccainromney_1280x720.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOd5ak-rVXmq3_2xAc43DUZJczs0nvitVcspGaBslwgAuxyTYZ"
+      },
+      "webpage": null,
+      "texte_contexte": "McCain Endorses Romney in New Hampshire",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "McCain",
+          "Romney"
+        ],
+        "LOCATION": [
+          "New Hampshire"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.794812346701323
+    },
+    {
+      "titre": "Romney IL campaign revels in Iowa win - WBEZ Chicago",
+      "source": "WBEZ Chicago",
+      "lien": "https://www.wbez.org/politics/2012/01/04/romneys-illinois-campaign-celebrates-narrow-iowa-victory",
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/95ee1f9/2147483647/strip/false/crop/400x300+0+0/resize/400x300!/quality/90/?url=https://chorus-production-cst-web.s3.us-east-1.amazonaws.com/brightspot/90/e3/92ce6fa75b74ba12a2f44682c974/ap100605023405.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR40gXQtVUbXBl0jhywIOHCIp0OIvg0fVy-zk10mB0s4tXhXeqv",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Romney IL campaign revels in Iowa win - WBEZ Chicago",
+        "source": "WBEZ Chicago",
+        "link": "https://www.wbez.org/politics/2012/01/04/romneys-illinois-campaign-celebrates-narrow-iowa-victory",
+        "imageUrl": "https://cst.brightspotcdn.com/dims4/default/95ee1f9/2147483647/strip/false/crop/400x300+0+0/resize/400x300!/quality/90/?url=https://chorus-production-cst-web.s3.us-east-1.amazonaws.com/brightspot/90/e3/92ce6fa75b74ba12a2f44682c974/ap100605023405.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR40gXQtVUbXBl0jhywIOHCIp0OIvg0fVy-zk10mB0s4tXhXeqv"
+      },
+      "webpage": {
+        "text": "Romney IL campaign revels in Iowa win\n\nRomney's Illinois campaign celebrates narrow Iowa victory\n\n[month] [day], [year], [hour]:[minute][ampm] [timezone]\n\nMitt Romney’s campaign in Illinois is celebrating the former Massachusetts governor’s narrow victory in the Iowa caucuses. Dan Rutherford, chairman of Romney’s campaign in Illinois and the Republican state treasurer, is calling Romney’s eight vote-victory in Iowa a success.\n\n“Coming in first, second or third would’ve been defined as a success,” Rutherford said Wednesday. “Obviously coming in first is a better success.”\n\nTo get on the Illinois primary ballot, presidential candidates and their delegates have until Friday afternoon to file petitions. So far, Mitt Romney’s Illinios campaign has filed paperwork for far and away the most delegates.\n\nRutherford said the presidential campaign could be drawn out and Illinois’ March 20th primary could matter.\n\n“If you’re not prepared in advance, you can’t just rely on Iowa and New Hampshire,” he said.\n\nMeantime, an organizer for Ron Paul would not comment other than to say he was on his way to Springfield to file petitions to get Paul on the ballot.",
+        "metadata": {
+          "title": "Romney IL campaign revels in Iowa win - WBEZ Chicago",
+          "og:title": "Romney's Illinois campaign celebrates narrow Iowa victory",
+          "og:url": "https://www.wbez.org/politics/2012/01/04/romneys-illinois-campaign-celebrates-narrow-iowa-victory",
+          "og:image": "https://cst.brightspotcdn.com/dims4/default/a827374/2147483647/strip/true/crop/400x228+0+36/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fe3%2F92ce6fa75b74ba12a2f44682c974%2Fap100605023405.jpg",
+          "og:image:url": "https://cst.brightspotcdn.com/dims4/default/a827374/2147483647/strip/true/crop/400x228+0+36/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fe3%2F92ce6fa75b74ba12a2f44682c974%2Fap100605023405.jpg",
+          "og:image:width": "1461",
+          "og:image:height": "834",
+          "og:image:type": "text/html",
+          "og:image:alt": "Romney's Illinois campaign celebrates narrow Iowa victory",
+          "og:site_name": "WBEZ",
+          "og:type": "article",
+          "article:author": "https://www.wbez.org/author/tony-arnold",
+          "article:published_time": "2012-01-05T02:10:00Z",
+          "article:modified_time": "2024-05-20T22:28:01.758Z",
+          "article:section": "Politics",
+          "twitter:title": "Romney's Illinois campaign celebrates narrow Iowa victory",
+          "fb:app_id": "425672421661236",
+          "parsely-title": "Romney's Illinois campaign celebrates narrow Iowa victory",
+          "parsely-author": "Tony Arnold",
+          "keywords": "dan rutherford,Mitt Romney,Ron Paul"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "articleSection": "Politics",
+          "url": "https://www.wbez.org/politics/2012/01/04/romneys-illinois-campaign-celebrates-narrow-iowa-victory",
+          "dateModified": "2024-05-20T22:28:01.758Z",
+          "datePublished": "2012-01-05T02:10:00Z",
+          "image": [
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 300,
+              "url": "https://cst.brightspotcdn.com/dims4/default/95ee1f9/2147483647/strip/false/crop/400x300+0+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fe3%2F92ce6fa75b74ba12a2f44682c974%2Fap100605023405.jpg",
+              "width": 400
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 675,
+              "url": "https://cst.brightspotcdn.com/dims4/default/48bfc0d/2147483647/strip/false/crop/400x225+0+38/resize/1200x675!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fe3%2F92ce6fa75b74ba12a2f44682c974%2Fap100605023405.jpg",
+              "width": 1200
+            }
+          ],
+          "isBasedOn": "https://www.wbez.org/politics/2012/01/04/romneys-illinois-campaign-celebrates-narrow-iowa-victory",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.wbez.org/politics/2012/01/04/romneys-illinois-campaign-celebrates-narrow-iowa-victory"
+          },
+          "author": [
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "affiliation": {
+                "@context": "http://schema.org",
+                "@type": "Organization"
+              },
+              "description": "Tony Arnold covers Illinois state politics for WBEZ. His investigations have ranged from a sprawling federal corruption probe into Commonwealth Edison's lobbying activities to multiple Legionnaires’ disease outbreaks at the Quincy veterans’ home that resulted in the deaths of more than a dozen residents. He’s also covered Illinois' unprecedented two-year state budget impasse, Chicago mayoral elections, national political conventions, and he’s edited the daily news desk. He’s won numerous local and national awards for his reporting. Tony has a B.A. in American Studies from Miami University. He previously worked at WNIJ in DeKalb, IL and WMUB in Oxford, OH. His first job in journalism was as a stringer, recording stats for local high school sports.",
+              "email": "tarnold@wbez.org",
+              "image": {
+                "@context": "http://schema.org",
+                "@type": "ImageObject",
+                "url": "https://cst.brightspotcdn.com/9e/1e/78ce71464987b0aab5f83a9b7bc8/tony-arnold.jpeg"
+              },
+              "jobTitle": "Editor, government & politics",
+              "name": "Tony Arnold",
+              "url": "https://www.wbez.org/author/tony-arnold"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "WBEZ",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://cst.brightspotcdn.com/76/9a/93bf26c94cf28fc304cadf87cd8e/wbez-logo-white-red.svg"
+            }
+          },
+          "name": "Romney IL campaign revels in Iowa win - WBEZ Chicago",
+          "headline": "Romney IL campaign revels in Iowa win"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Mitt Romney's Illinois campaign is celebrating the former Massachusetts governor's narrow victory in the Iowa caucuses. Dan Rutherford, chairman of Romney's campaign in Illinois and the Republican state treasurer, commented on the victory. Ron Paul is also involved in the process.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mitt Romney",
+          "Dan Rutherford",
+          "Ron Paul"
+        ],
+        "LOCATION": [
+          "Illinois",
+          "Iowa",
+          "Massachusetts",
+          "New Hampshire",
+          "Springfield"
+        ],
+        "ORGANIZATION": [
+          "WBEZ Chicago"
+        ],
+        "DATE": [
+          "Wednesday",
+          "Friday",
+          "March 20th"
+        ],
+        "EVENT": [
+          "Iowa caucuses"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7717014519806821
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "New Hampshire"
+    ],
+    "ORGANIZATION": [
+      "GOP"
+    ],
+    "DATE": [],
+    "EVENT": [
+      "New Hampshire primary"
+    ],
+    "OTHER": [
+      "Photo Gallery"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [
+      "John McCain",
+      "Mitt Romney"
+    ],
+    "LOCATION": [
+      "New Hampshire"
+    ],
+    "ORGANIZATION": [
+      "WSJ"
+    ],
+    "DATE": [
+      "2012"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.794812346701323,
+  "S_ent": 0.16666666666666666,
+  "S_OOC": 0.4807395066839948,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "PERSON",
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE",
+    "EVENT",
+    "OTHER"
+  ]
+}

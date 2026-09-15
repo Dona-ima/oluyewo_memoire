@@ -1,0 +1,312 @@
+{
+  "id_rumeur": "340503",
+  "id_image": "399290",
+  "caption": "Toyota RAV4 had a power tailgate and navigation",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122842/399290.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "GM recalls Chevy Cruze for axle problem",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/money/cars/2014/03/28/gm-dealers-stop-selling-some-chevy-cruzes/7003579/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/9fa4a0050ea33798cc5a6b92ab7cb696e264fab6/c=510-744-2634-1944/local/-/media/USATODAY/USATODAY/2014/03/28//1396016499000-XXX-2014-Chevrolet-Cruze-TD-019.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVccApnBo1TBmoT0GKIEGVEFs-zY2yFVIX7uCFD7hiG6qMQjf",
+      "rang_lens": 1,
+      "brut": {
+        "title": "GM recalls Chevy Cruze for axle problem",
+        "source": "USA Today",
+        "link": "https://www.usatoday.com/story/money/cars/2014/03/28/gm-dealers-stop-selling-some-chevy-cruzes/7003579/",
+        "imageUrl": "https://www.usatoday.com/gcdn/-mm-/9fa4a0050ea33798cc5a6b92ab7cb696e264fab6/c=510-744-2634-1944/local/-/media/USATODAY/USATODAY/2014/03/28//1396016499000-XXX-2014-Chevrolet-Cruze-TD-019.jpg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVccApnBo1TBmoT0GKIEGVEFs-zY2yFVIX7uCFD7hiG6qMQjf"
+      },
+      "webpage": {
+        "text": "GM recalls Chevy Cruze for axle problem\n\nGM has explained Thursday's mysterious notice to dealers to stop delivering Chevrolet Cruze compacts with 1.4-liter turbo engines: GM has recalled those Cruze models for a potentially defective right front axle shaft that \"can fracture and separate without warning\" while underway.\n\nGM said its warranty data shows at least several dozen vehicles have had the problem, but it is not aware of any related crashes or injuries.\n\nThe company says that if the half-shaft breaks while driving, brakes and steering would continue to function but the car would lose power to the wheels without warning and coast to a stop.\n\nThe recall covers about 172,000 Cruze 1.4 turbo sedans from the 2013 and 2014 model year.\n\nIt includes the 3,031 Cruze with the 1.4 engine and manual transmissions from the 2013 and 2014 model year that were recalled in September for the same problem, which was blamed then on the supplier. Their replacement shafts will be repaired again.\n\nWhen GM issued the stop order on Thursday, it did not give more details and left dealers scrambling for answers for Cruze buyers who want to know why the can't get their cars immediately.\n\nThe delivery halt means dealers can sell the cars, but can't hand them over to buyers until the recall issue is fixed.\n\nIn addition to the Cruze recall, GM also recalled in the past few days about 172,000 of its newest pickup trucks and SUVs for a loose oil line that could be a fire hazard and added 907,700 vehicles to its recall for defective ignition switches.\n\nThe latest recalls come as GM CEO Mary Barra is scheduled to testify before Congressional committees on Tuesday and Wednesday to explain GM's actions in its expanded switch recall of 2.53 million vehicles.\n\nIn those cars, faulty ignition switches can shut off the engine and disable the airbags. GM says it knows of 31 accidents and 12 deaths linked to the switches.\n\nThe cars recalled for the switch are the 2005-10 Chevrolet Cobalt, 2007-10 Pontiac G5, 2003-10 Saturn Ion, 2006-11 Chevrolet HHR, 2006-10 Pontiac Solstice and 2007-10 Saturn Sky.\n\nGM says its engineers say the cars are safe to drive if drivers use only the ignition key with nothing attached, not even the key fob.",
+        "metadata": {
+          "title": "GM recalls Chevy Cruze for axle problem"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "GM a rappelé environ 172 000 modèles Chevrolet Cruze de 2013 et 2014 équipés de moteurs turbo de 1,4 litre en raison d'un problème d'arbre d'essieu avant droit potentiellement défectueux qui peut se fracturer et se séparer sans avertissement. De plus, GM a rappelé environ 172,000 camions et SUV pour un problème de conduite de carburant et 907,700 véhicules pour des commutateurs d'allumage défectueux. Mary Barra, PDG de GM, doit témoigner devant des comités du Congrès.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mary Barra"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "USA Today",
+          "GM",
+          "Chevrolet",
+          "Chevy"
+        ],
+        "DATE": [
+          "2014",
+          "March 28, 2014",
+          "Thursday",
+          "2013",
+          "September",
+          "Tuesday",
+          "Wednesday",
+          "2005-10",
+          "2007-10",
+          "2003-10",
+          "2006-11",
+          "2006-10"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Chevy Cruze",
+          "Chevrolet Cruze",
+          "Chevrolet Cobalt",
+          "Pontiac G5",
+          "Saturn Ion",
+          "Chevrolet HHR",
+          "Pontiac Solstice",
+          "Saturn Sky"
+        ]
+      },
+      "score_e5": 0.7304542983816998
+    },
+    {
+      "titre": "Common Problems with the Chevy Cruze | Advance Auto Parts",
+      "source": "Advance Auto Parts",
+      "lien": "https://shop.advanceautoparts.com/r/advice/car-maintenance/common-problems-with-the-chevy-cruze",
+      "image_url": "https://shop.advanceautoparts.com/r/sites/default/files/2014-Chevy_Cruze_GM-Media-800x450.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTld7qiSylgQZvGSJjzaxTxXnW8XpbmDGCHbrHmLshZDvhFI9Kf",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Common Problems with the Chevy Cruze | Advance Auto Parts",
+        "source": "Advance Auto Parts",
+        "link": "https://shop.advanceautoparts.com/r/advice/car-maintenance/common-problems-with-the-chevy-cruze",
+        "imageUrl": "https://shop.advanceautoparts.com/r/sites/default/files/2014-Chevy_Cruze_GM-Media-800x450.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTld7qiSylgQZvGSJjzaxTxXnW8XpbmDGCHbrHmLshZDvhFI9Kf"
+      },
+      "webpage": {
+        "text": "Common Problems with the Chevy Cruze\n\nSo, you bought a Chevy Cruze. While it was recently discontinued, the Cruze has some positives, with high fuel efficiency, a quiet and comfortable interior, and some unique options for its class. That said, Consumer Reports listed the reliability of the Cruze as 20th out of 21 among compact cars, meaning you're going to have to do some maintenance. Here's what to expect and how to fix it.\n\nIntroduced to the US as a subcompact sedan in 2010, the Cruze lasted two generations until 2019. During that time it sold reasonably well, over a quarter-million units in 2014 alone, and picked up cool options.\n\nUnusual for a modern Chevy, the Cruze gained a five-door hatchback configuration to better compete with the Ford Focus. Even more unique, the Cruze scored turbodiesel power, with a 2.0L in 2014 (paired with an automatic transmission), and a 1.6L (auto or stick) for 2018. Throw in the optional Watts link rear suspension, and the Cruze could be everything from bland econobox to funky VW Golf competitor. Also like a VW, the Cruze's check engine light is probably going to flicker to life during your ownership. The most common Chevy Cruze problems are:\n\n * Thermostat\n * Valve cover\n * Water pump\n * Transmission problems\n * Sunroof weather-stripping\n * Trunk release\n\nHere are the details on fixing your Cruze.\n\n\nThermostat\n\nBefore replacing your thermostat, do a bit of quick maintenance. Check the coolant level, and the drive belt tension. If both are good and you're still getting symptoms of a failing thermostat, it's time to replace it. You'll need a new thermostat and fresh coolant. This is a pretty easy task on the 1.4L and 1.8L engines, with similar steps.\n\n 1. Starting with a completely cooled engine, disconnect the battery. Drain the cooling system.\n 2. Disconnect the air intake ducting after the filter housing. On 1.4L engines, pull the PCV vent from the turbocharger. On 1.8L engines, remove the throttle body coolant hose and heater hose from the thermostat housing. Remove the radiator hose retaining clip with pliers, and pull the hose off the housing. Pro tip - These clamps leave an imprint in the hose, which can act as a visual guide for reassembly in the correct position, which reduces the chance of a leak.\n 3. Remove the three thermostat housing bolts. The thermostat will come free after knocking the housing free with a tap.\n 4. Before installing a new thermostat, thoroughly clean the mating surfaces in the housing and cover. Use a new gasket placed in the housing.\n 5. Reinstallation is the reverse of removal but torque the housing bolts to 71 inch-pounds. Refill the coolant and bleed the system.\n\n\nValve cover\n\nThe Cruze has an issue with the valve cover, common enough for Chevy to issue a technical service bulletin. Unlike the Nissan Altima's valve cover that just leaks oil, the Cruze valve cover also leaks air, which hides its symptoms without the obvious oil slick. Owners report symptoms of a valve cover air leak include oil consumption, a burning oil smell, rough engine idle, and hesitation when accelerating. A check engine light means you should connect your code reader, displaying codes P015B and P0171, indicating a lean condition caused by unmetered air entering the engine.\n\n 1. To get started, disconnect the negative battery cable from the terminal. Remove the plastic engine cover by pulling straight up.\n 2. The rectangle piece running down the center of the valve cover is the ignition coil pack assembly. Disconnect the electrical connector by the oil fill cap.\n 3. Remove the two mounting bolts and pull straight up on the coil pack unit. Then detach the PCV hose. Pro tip - it's probably time to replace the PCV valve, a cheap and very quick preventative maintenance task.\n 4. At this point, the 1.4L needs six sensors unclipped from the valve cover before you can push aside the wiring harness, while the 1.8L just needs the harness unclipped before setting it aside.\n 5. On the 1.4L, remove the dipstick. Then remove all the external Torx bolts around the valve cover perimeter. Use a mallet or other soft head hammer to tap on the valve cover, breaking the gasket seal.\n\nReassembly\n\n 1. Installation is the reverse, with several notes. First, clean the gasket mating surfaces before reassembly. The repair manual recommends shop towels and brake cleaner.\n 2. Then lay the gasket in the valve cover groove, and only use RTV sealant where the timing chain cover and cylinder head meet (1.4L), or around the center bolt near the timing belt cover (1.8L).\n 3. Finally, really consider purchasing a repair manual for this task, especially with the 1.4L engine. The 15 bolts on the valve cover are an unusual tightening pattern, while for the 1.8L, start at the center bolts and work outward.\n\n\nWater pump\n\nThe Cruze doesn't really have a water pump issue more so than other vehicles, but the first generation has reached the age and mileage where water pumps start to fail. This is another one where you'll want a completely cold engine.\n\n 1. Disconnect the negative battery cable, and remove the air filter housing. Raise the front of the car and remove the front passenger side wheel.\n 2. Drain the cooling system, and remove the accessory drive belt (1.8L remove water pump pulley bolts first).\n 3. On the 1.4L, remove the passenger side engine mount, then remove the water pump pulley bolts. Remove the thermostat (above steps). Hopefully, you didn't just replace that.\n 4. Disconnect the heater hose from the water pump by squeezing the hose clamp with pliers and sliding it back.\n 5. Remove the 10 water pump bolts, then remove the water pump and gasket from the timing chain cover. You may have to use a screwdriver to gently pry the water pump off.\n\nReassembly\n\n 1. Reassembly is nearly the opposite of tear-down. Like the valve cover job, you'll need all the surfaces clean and clear of gasket material, corrosion, or sealant.\n 2. Apply the new gasket to the timing cover, not the pump, and then install the bolts hand tight.\n 3. Tighten bolts in a crisscross pattern (like wheel lug nuts), to 71 in-lbs for 1.4L and 1.8L engines. Note that the 1.4L pump should include two new pump bolts, while the 1.8L has a new o-ring. Use these included parts instead of reusing the old ones.\n\n\nTransmission problems\n\nThe first-generation Cruze suffered from problems with the 6T30/6T40 automatic transmission. The main issue stems from leaking transmission seals that seep out a few drips here and there, so most owners never see transmission oil puddles before they notice the common symptom of shifting problems. Unfortunately, like many modern cars, the Cruze doesn't have a transmission dipstick for you to easily check the oil level. The factory recommends changing the transmission oil every 45,000 miles, but owners on Cruzetalk.com like 30,000 miles to keep fluid topped up. It's a simple drain and refill procedure, no flush needed. You'll need six quarts of ATF, but you won't quite use it all. Note that there is no serviceable filter. Unlike the above steps, you'll want a warmed up car here.\n\n 1. The first step in the repair manual is to safely jack up the front of the car, use jack stands, and remove the driver's side front wheel. However, you have to then use a level and adjust the car's height to get the transmission fluid even inside the transmission case (or have access to a lift). Owners found an alternative to jacking/leveling by parking on a flat surface and just cranking the steering wheel all the way right to gain access to the transmission drain plug. If following the manual, use a screwdriver or trim tool to remove the clips on the plastic engine splash shield.\n 2. Look for an 11mm bolt sticking out from the silver transmission case. Place a drain pan underneath, and loosen the drain plug.\n 3. Hitting the “easy button\" here, the simple path is to measure the amount of fluid that came out - let's say four quarts - and add that amount of new fluid back into the filler port. However, the manual says that once the draining stops, add back the drain plug, then locate the fluid level indicator (which is simply another 11mm bolt located higher on the transmission).\n 4. You'll find the transmission fill the hole on the driver's side of the engine bay. Look for a black plastic cap in between the engine and battery, and add fluid using a funnel. With the bottom drain plug in, add fluid until ATF runs out the level indicator hole.\n\n\nSunroof weather-stripping\n\nEver seen an old car with a cracked weather strip, or had yours stick to the window when it's icy out? That's a weather stripping issue, and the Cruze's most common sign is a wet headliner, caused by a leaking sunroof weather seal. Your owner's manual states to use dielectric grease or weather strip conditioning grease. You can get it straight from GM, but any brand dielectric grease or silicone grease will do the job. When the weather strip seals are clean, like after a proper car wash, it's time to apply. Apply a good amount using a paper towel or microfiber cloth, and work it into the rubber seal as if you are waxing paint. Then remove any excess drips with another cloth. If it's too late, and your seal is cracked and leaking, it's time to replace it.\n\n 1. With the engine off and the parking brake on, open the sunroof. Remove the rubber seal by pulling on one corner and continuing around the sunroof opening.\n 2. Since you want the new seal to stick to the car instead of dirt, use an all-purpose car wash or general cleaner/degreaser in the sunroof seal track.\n 3. Once completely dry, apply a small bead of weather-strip adhesive. All of these products are similar, but follow the brand's specific instructions on drying time.\n 4. Then apply the new weather seal around the sunroof, making sure there are no air bubbles or gaps. Give it a few days before using the sunroof or pressure washing the vehicle.\n\n\nTrunk release switch\n\nSometimes the Cruze has an issue with the truck release switch, where pressing the open button on the key fob, or the car's trunk release button, doesn't get you any result. This one is annoying until it's fixed, but it is safe to keep driving with the issue. Before you start replacing pricier parts, check the condition of the fuse and relay. Under the dash to the left of the steering wheel is an access panel. Behind that panel is a block of fuses and a few relays. The red 10A fuse is on the right, third one down. The top left relay is linked to the trunk release. Check both for damage and replace as needed.\n\nIf the trunk release on the car doesn't work, but the key fob opens the trunk, then the problem is with the trunk switch.\n\n 1. Use a 7mm socket to remove the inside trunk handle, then use a trim tool or flat screwdriver to remove the plastic clips holding the liner to the trunk lid. Then pull off the latch cover, and then the trunk lid liner.\n 2. Disconnect the green cable and follow it to a grommet in the trunk lid. Remove the four 10mm bolts (two on each side) near the grommet.\n 3. On the outside of the trunk lid, pop off the chrome trim bar containing the reverse lights. You're working between chrome and paint, so use a plastic trim tool here. The switch in the center of the trim just pops out, and the new one should click into place.\n\nPro Tip: This switch fails due to its exposure to the weather and lack of weather protection. After sliding the new switch in place, apply a bead of weatherproof silicone to the inside seam for a longer-lasting switch.\n\nThat wraps up the most common Chevy Cruze problems. If you're an owner, have you seen any other issues? Let us know in the comments below.",
+        "metadata": {
+          "title": "Common Problems with the Chevy Cruze | Advance Auto Parts",
+          "description": "The Chevy Cruze is available as both a sedan and a hatchback. If you own one, it's worth knowing what the common problems are.",
+          "og:site_name": "Advance Auto Parts",
+          "og:type": "article",
+          "og:url": "http://shop.advanceautoparts.com/r/advice/car-maintenance/common-problems-with-the-chevy-cruze",
+          "og:title": "Common Problems with the Chevy Cruze"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La Chevrolet Cruze, introduite aux États-Unis en tant que berline sous-compacte en 2010 et récemment discontinuée après deux générations jusqu'en 2019, présente une haute efficacité énergétique et un intérieur confortable, mais souffre de problèmes de fiabilité selon Consumer Reports. Les problèmes les plus courants concernent le thermostat, le couvre-culasse, la pompe à eau, la transmission, les joints d'étanchéité du toit ouvrant et le déverrouillage du coffre.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Advance Auto Parts",
+          "Chevy",
+          "Consumer Reports",
+          "Ford",
+          "Volkswagen",
+          "Nissan"
+        ],
+        "DATE": [
+          "2010",
+          "2019",
+          "2014",
+          "2018"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Chevy Cruze",
+          "Cruze",
+          "Ford Focus",
+          "VW Golf",
+          "Nissan Altima"
+        ]
+      },
+      "score_e5": 0.7255360281035672
+    },
+    {
+      "titre": "2011 Chevrolet Cruze: Love/Hate | Cars.com",
+      "source": "Cars.com",
+      "lien": "https://www.cars.com/articles/2011-chevrolet-cruze-love-hate-1420663175891/",
+      "image_url": "https://images.cars.com/cldstatic/wp-content/uploads/1079671495-1425510144652.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX77rQDXqHYRBNxwnYudeXMsXFkif_Xb1W_YHE99d3DZlvOsZv",
+      "rang_lens": 3,
+      "brut": {
+        "title": "2011 Chevrolet Cruze: Love/Hate | Cars.com",
+        "source": "Cars.com",
+        "link": "https://www.cars.com/articles/2011-chevrolet-cruze-love-hate-1420663175891/",
+        "imageUrl": "https://images.cars.com/cldstatic/wp-content/uploads/1079671495-1425510144652.jpeg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX77rQDXqHYRBNxwnYudeXMsXFkif_Xb1W_YHE99d3DZlvOsZv"
+      },
+      "webpage": {
+        "text": "2011 Chevrolet Cruze: Love/Hate\n\nIf you’re in the market for a roomy and safe entry-level sedan, the new Chevrolet Cruze should meet your needs. The Cruze does so many things right that it’s a shame there’s only one really big thing it does wrong.\n\nLove: Everything about the interior\n\nFrom the front seat, the Cruze feels much bigger than its compact-car designation would lead you to believe.  The two-tone cloth seats in our 1.8-liter LS base model are comfortable and stylish. The controls are all large and easy to find, and the modest display screen is the perfect size to give you all the radio or climate control information you’d need without overwhelming the center stack. If you have to spend a lot of commuting time staring at the inside of a sub-$20,000 car, the Cruze should be on your short list.\n\nHate: Exterior styling\n\nThere’s no way to put this gently. The Chevy Cruze is one boring-looking car. At a time when Ford and even Buick are making really eye-catching sedans, there’s just nothing modern, fresh or interesting about the Cruze’s silhouette.  The Cruze is a great addition to GM’s compact-car lineup and a massive step up from the cheaper Chevy Aveo, as long as you don’t look at it once you get out of the car.",
+        "metadata": {
+          "title": "2011 Chevrolet Cruze: Love/Hate | Cars.com",
+          "og:site_name": "Cars.com",
+          "og:type": "website",
+          "og:title": "2011 Chevrolet Cruze: Love/Hate | Cars.com",
+          "og:url": "https://www.cars.com/articles/2011-chevrolet-cruze-love-hate-1420663175891/",
+          "og:image": "https://assets.carsdn.co/image/upload/f_auto,q_auto/v1685047778/Cars-PD_OG-IMG.webp",
+          "fb:app_id": "290349283473",
+          "twitter:title": "2011 Chevrolet Cruze: Love/Hate | Cars.com"
+        },
+        "jsonld": {
+          "name": "Cars.com",
+          "url": "https://www.cars.com/",
+          "@type": "WebSite",
+          "@context": "http://www.schema.org"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "La Chevrolet Cruze 2011 est présentée comme une berline d'entrée de gamme spacieuse et sûre, saluée pour son intérieur confortable et ses sièges de base LS de 1,8 litre, mais critiquée pour son style extérieur terne et sans relief, comparé aux autres modèles de Ford et Buick.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Cars.com",
+          "Chevrolet",
+          "Ford",
+          "Buick",
+          "GM",
+          "Chevy"
+        ],
+        "DATE": [
+          "2011"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Chevrolet Cruze",
+          "Cruze",
+          "Chevy Aveo"
+        ]
+      },
+      "score_e5": 0.7113404184993015
+    },
+    {
+      "titre": "2015-chevrolet-cruze-turbo-diesel-rear-2 | Automotive Addicts",
+      "source": "Automotive Addicts",
+      "lien": "https://www.automotiveaddicts.com/53907/2015-chevrolet-cruze-turbo-diesel-review-test-drive/2015-chevrolet-cruze-turbo-diesel-rear-2",
+      "image_url": "https://www.automotiveaddicts.com/wp-content/uploads/2015/05/2015-chevrolet-cruze-turbo-diesel-rear-2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtnM_DE-Coto65xqGwUopoSMOQFTz6qtU1S_0G6SW5IUxVxEA",
+      "rang_lens": 4,
+      "brut": {
+        "title": "2015-chevrolet-cruze-turbo-diesel-rear-2 | Automotive Addicts",
+        "source": "Automotive Addicts",
+        "link": "https://www.automotiveaddicts.com/53907/2015-chevrolet-cruze-turbo-diesel-review-test-drive/2015-chevrolet-cruze-turbo-diesel-rear-2",
+        "imageUrl": "https://www.automotiveaddicts.com/wp-content/uploads/2015/05/2015-chevrolet-cruze-turbo-diesel-rear-2.jpg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtnM_DE-Coto65xqGwUopoSMOQFTz6qtU1S_0G6SW5IUxVxEA"
+      },
+      "webpage": {
+        "text": "2015-chevrolet-cruze-turbo-diesel-rear-2\n\nWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyze our traffic. By using this Site or clicking \"OK\", you consent to our use of cookies.",
+        "metadata": {
+          "title": "2015-chevrolet-cruze-turbo-diesel-rear-2 |  Automotive Addicts",
+          "og:title": "2015-chevrolet-cruze-turbo-diesel-rear-2",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:url": "https://www.automotiveaddicts.com/53907/2015-chevrolet-cruze-turbo-diesel-review-test-drive/2015-chevrolet-cruze-turbo-diesel-rear-2",
+          "og:site_name": "Automotive Addicts"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page contenant un avis relatif à l'utilisation de cookies et à l'amélioration de l'expérience de navigation, liée à la Chevrolet Cruze Turbo Diesel.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Automotive Addicts"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Chevrolet Cruze Turbo Diesel"
+        ]
+      },
+      "score_e5": 0.7386170976335301
+    },
+    {
+      "titre": "2015 Chevrolet Cruze Photo Gallery (19 Photos) | Cars.com",
+      "source": "Cars.com",
+      "lien": "https://www.cars.com/articles/2015-chevrolet-cruze-photo-gallery-19-photos-1420668887265/",
+      "image_url": "https://images.cars.com/cldstatic/wp-content/uploads/1747352898-1425511282384.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGuFGVYWPeLFVDouGmm1DI7MmHvjvOt0RKe87iMSojSR2GEA7",
+      "rang_lens": 5,
+      "brut": {
+        "title": "2015 Chevrolet Cruze Photo Gallery (19 Photos) | Cars.com",
+        "source": "Cars.com",
+        "link": "https://www.cars.com/articles/2015-chevrolet-cruze-photo-gallery-19-photos-1420668887265/",
+        "imageUrl": "https://images.cars.com/cldstatic/wp-content/uploads/1747352898-1425511282384.jpeg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGuFGVYWPeLFVDouGmm1DI7MmHvjvOt0RKe87iMSojSR2GEA7"
+      },
+      "webpage": null,
+      "texte_contexte": "Galerie de photos de la Chevrolet Cruze 2015.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Cars.com"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Chevrolet Cruze"
+        ]
+      },
+      "score_e5": 0.7154611282276163
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Toyota"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "RAV4",
+      "power tailgate",
+      "navigation"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "GM",
+      "Chevrolet",
+      "Chevy",
+      "Ford",
+      "Cars.com"
+    ],
+    "DATE": [
+      "2014"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Chevrolet Cruze"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7386170976335301,
+  "S_ent": 0.0,
+  "S_OOC": 0.36930854881676506,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "ORGANIZATION",
+    "DATE",
+    "OTHER"
+  ]
+}

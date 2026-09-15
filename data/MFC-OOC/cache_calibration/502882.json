@@ -1,0 +1,575 @@
+{
+  "id_rumeur": 502882,
+  "id_image": 1490786,
+  "caption": "British Airways and Iberia will continue to fly under their own brands",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756982/oluyewo_benchmark/apvqogc1iodjbhdcrfy6.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Week in pictures: 23-29 January 2016 - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/in-pictures-35418849",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6EEA/production/_87949382_india.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvxJAIhbS9yFGH6NLUY_m2mRyEWj3mATw1I5SYbcQPCZ2UEDxH",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Week in pictures: 23-29 January 2016 - BBC News",
+        "link": "https://www.bbc.com/news/in-pictures-35418849",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvxJAIhbS9yFGH6NLUY_m2mRyEWj3mATw1I5SYbcQPCZ2UEDxH",
+        "thumbnail_width": 176,
+        "thumbnail_height": 286,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6EEA/production/_87949382_india.jpg",
+        "image_width": 600,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Week in pictures: 23-29 January 2016\n\nOur selection of some of the best news photographs taken around the world this week.",
+        "metadata": {
+          "description": "A selection of the best news photographs from around the world taken over the past week.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A selection of the best news photographs from around the world taken over the past week.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15F31/production/_87950998_zeta.jpg",
+          "og:image:alt": "Actress Catherine Zeta-Jones speaks with war veterans",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Week in pictures: 23-29 January 2016",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/in-pictures-35418849",
+          "article:section": "In Pictures",
+          "twitter:description": "A selection of the best news photographs from around the world taken over the past week.",
+          "twitter:title": "Week in pictures: 23-29 January 2016"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/in-pictures-35418849",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-01-30T02:43:20.000Z",
+          "dateModified": "2016-01-30T02:43:20.000Z",
+          "description": "A selection of the best news photographs from around the world taken over the past week.",
+          "headline": "Week in pictures: 23-29 January 2016",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15F31/production/_87950998_zeta.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15F31/production/_87950998_zeta.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/in-pictures-35418849",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Sélection de photographies de l'actualité mondiale prises au cours de la semaine du 23 au 29 janvier 2016.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC News"
+        ],
+        "DATE": [
+          "23-29 January 2016",
+          "2016"
+        ],
+        "EVENT": [
+          "Week in pictures: 23-29 January 2016"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6910922774616625
+    },
+    {
+      "titre": "228 Photos & High Res Pictures - Getty Images",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/editorial-images/news/event/india-celebrates-67th-republic-day/601998025",
+      "image_url": "https://media.gettyimages.com/id/506833222/photo/topshot-india-republic-day.jpg?s=594x594&w=gi&k=20&c=k9PsjAsOHbg-_vMyONyE18OSMAOaoadm1hCLgJKrc1c=",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn2jPDk5mee2ufckmA3y718sChxVg3frqWAlW5La19a_XDvwBw",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "228 Photos & High Res Pictures - Getty Images",
+        "link": "https://www.gettyimages.com/editorial-images/news/event/india-celebrates-67th-republic-day/601998025",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUzMzP___9xcXH5-fnt7e05OTnl5eXz8_Obm5vT09NQUFDJycmGhoZ4eHi5ubnZ2dlFRUVVVVWkpKTBwcFlZWWhoaFsbGyqqqqwsLBbW1uOjo4_Pz-4uLiAgIBhYWFaWlpkXRWsAAABAElEQVQ4jb2S2ZaCMAyGu9gFWoSCFgYQ3v8tJWEUpqk3XkwuODn5v5KVsX-18l4bbpxXLDrDqW75r-kevkQf-F9L9QqC8mo7VG38SYF6C1_C5tzk5t1JggbeeXShAk2ABYBwJFMpECAa0R2zgDJb1IE3aaiGpGAtvHOiFFAtHygw1acZyJICrCkOvcrozJuXPOfe4yZq6x_VQho42pyy0m4PADoRmk_A-q7QaNeLTBrLz6ZvlBCXMyHXRFZXPIe2nQuJxJwAuOO9wmmUmYWb9zmwfS8pAH9tX-lg6F0C4Krmagnl6tFP2xDJTY-ky6jPYxB0DEyJvoBRmGKIGfl7ewLKAgiUEUNA0gAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn2jPDk5mee2ufckmA3y718sChxVg3frqWAlW5La19a_XDvwBw",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://media.gettyimages.com/id/506833222/photo/topshot-india-republic-day.jpg?s=594x594&w=gi&k=20&c=k9PsjAsOHbg-_vMyONyE18OSMAOaoadm1hCLgJKrc1c=",
+        "image_width": 388,
+        "image_height": 594
+      },
+      "webpage": null,
+      "texte_contexte": "Images éditoriales couvrant l'événement de l'Inde célébrant sa 67e Journée de la République.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "India"
+        ],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [
+          "67th"
+        ],
+        "EVENT": [
+          "India celebrates 67th Republic Day"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6990813018853503
+    },
+    {
+      "titre": "India marks Republic Day with motorbike stunts, parade ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/ChinaGlobalTVNetwork/posts/india-marks-republic-day-with-motorbike-stunts-paradedaredevil-motorbike-riders-/2111850092189133/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2111848172189325",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu0ftE5PpmYRZgjcdNbDxMqCavG-4lxyWrimxcIvykFze31YqH",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "India marks Republic Day with motorbike stunts, parade ...",
+        "link": "https://www.facebook.com/ChinaGlobalTVNetwork/posts/india-marks-republic-day-with-motorbike-stunts-paradedaredevil-motorbike-riders-/2111850092189133/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu0ftE5PpmYRZgjcdNbDxMqCavG-4lxyWrimxcIvykFze31YqH",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2111848172189325",
+        "image_width": 1152,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "CGTN - India marks Republic Day with motorbike stunts,...\n\nIndia marks Republic Day with motorbike stunts, parade Daredevil motorbike riders performed stunts as they roared through New Delhi on Friday as part of a parade marking India’s 69th Republic Day.",
+        "metadata": {
+          "title": "CGTN - India marks Republic Day with motorbike stunts,... | Facebook",
+          "og:type": "video.other",
+          "og:title": "CGTN",
+          "og:description": "India marks Republic Day with motorbike stunts, parade\n\nDaredevil motorbike riders performed stunts as they roared through New Delhi on Friday as part of a parade marking India’s 69th Republic Day.",
+          "og:url": "https://www.facebook.com/ChinaGlobalTVNetwork/posts/india-marks-republic-day-with-motorbike-stunts-paradedaredevil-motorbike-riders-/2111850092189133/",
+          "og:image:alt": "CGTN",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2111848172189325",
+          "og:locale": "en_US",
+          "description": "India marks Republic Day with motorbike stunts, parade\n\nDaredevil motorbike riders performed stunts as they roared through New Delhi on Friday as part of...",
+          "twitter:title": "CGTN",
+          "twitter:description": "India marks Republic Day with motorbike stunts, parade\n\nDaredevil motorbike riders performed stunts as they roared through New Delhi on Friday as part of a parade marking India’s 69th Republic Day."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Inde marque sa Journée de la République avec des cascades à moto et un défilé à New Delhi, où des motards casse-cou ont réalisé des cascades dans le cadre d'un défilé marquant le 69e Jour de la République de l'Inde.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "India",
+          "New Delhi"
+        ],
+        "ORGANIZATION": [
+          "CGTN",
+          "China Global TV Network"
+        ],
+        "DATE": [
+          "Friday",
+          "69th"
+        ],
+        "EVENT": [
+          "Republic Day"
+        ],
+        "OTHER": [
+          "motorbike"
+        ]
+      },
+      "score_e5": 0.6795550342258183
+    },
+    {
+      "titre": "Indian Soldiers Perform Bike Stunts During Editorial Stock Photo",
+      "source": "Shutterstock",
+      "lien": "https://www.shutterstock.com/editorial/image-editorial/indian-soldiers-perform-bike-stunts-during-republic-9335427a",
+      "image_url": "https://www.shutterstock.com/editorial/image-editorial/O5TbQcweM1z8Yb21MDQ1Nw==/indian-soldiers-perform-bike-stunts-during-republic-550nw-9335427a.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtfI38cECl9hlQQgysUuG0aMUfbiKFBR_MYXtwHYMgZ80McUVN",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Indian Soldiers Perform Bike Stunts During Editorial Stock Photo",
+        "link": "https://www.shutterstock.com/editorial/image-editorial/indian-soldiers-perform-bike-stunts-during-republic-9335427a",
+        "source": "Shutterstock",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQwdI3sb1idjasgpEajuGBarrfMhFwWbJceP1HmKLp9LB8NKtpVfuUo17r2zkDPmlw6QrBqa5Pauk8AHMTKtOxo2mv157Swt5427ca_0tkvot_JzOuLv-zNkQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtfI38cECl9hlQQgysUuG0aMUfbiKFBR_MYXtwHYMgZ80McUVN",
+        "thumbnail_width": 195,
+        "thumbnail_height": 258,
+        "image": "https://www.shutterstock.com/editorial/image-editorial/O5TbQcweM1z8Yb21MDQ1Nw==/indian-soldiers-perform-bike-stunts-during-republic-550nw-9335427a.jpg",
+        "image_width": 417,
+        "image_height": 550
+      },
+      "webpage": null,
+      "texte_contexte": "Photographie de stock éditoriale montrant des soldats indiens effectuant des cascades à moto pendant la Journée de la République.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "India"
+        ],
+        "ORGANIZATION": [
+          "Shutterstock"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Republic Day"
+        ],
+        "OTHER": [
+          "bike"
+        ]
+      },
+      "score_e5": 0.713822499343808
+    },
+    {
+      "titre": "Gearing up for the big bash called Republic Day - Rediff.com",
+      "source": "Rediff",
+      "lien": "https://m.rediff.com/news/report/pix-gearing-up-for-republic-day/20170118.htm",
+      "image_url": "https://im.rediff.com/news/2017/jan/17rday2.jpg?w=450&h=450",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqHkJ3-BwiMgFO_zmdxwEupHftMIfkoJd-JiAdT5Y8N9ASTh7V",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Gearing up for the big bash called Republic Day - Rediff.com",
+        "link": "https://m.rediff.com/news/report/pix-gearing-up-for-republic-day/20170118.htm",
+        "source": "Rediff",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS8Ku1gb32RobZB4nuUnD7qiI_4DzScbEAa3QJ-QMrwwJvi-VMVq6LjQWHYMcPHRhPDOSwH51vKCv8HvMlPV_ZgpLoiDA696qu5dDpJUdjYJkU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqHkJ3-BwiMgFO_zmdxwEupHftMIfkoJd-JiAdT5Y8N9ASTh7V",
+        "thumbnail_width": 227,
+        "thumbnail_height": 222,
+        "image": "https://im.rediff.com/news/2017/jan/17rday2.jpg?w=450&h=450",
+        "image_width": 450,
+        "image_height": 440
+      },
+      "webpage": {
+        "text": "Gearing up for the big bash called Republic Day\n\nPreparations are on in full swing for the 68th Republic Day celebrations in New Delhi.\n\nAltogether, there will be 23 tableaux -- 17 from different states and six from the ministries, apart from those of the armed forces. Besides this, over 600 boys and girls are participating in this year's celebrations.\n\nIndia's military prowess and its cultural diversity is bound to leave the chief guest, Abu Dhabi Crown Prince Sheikh Mohammed bin Zayed Al Nahyan, spellbound.\n\nHere are some glimpses from the rehearsal:\n\n\nMembers of the naval band practice for the Beating Retreat ceremony at Raisina Hill. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nNational Security Guards commandos, who will make their debut in the Republic Day parade, stroll down Rajpath. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe Daredevils show why they are best showstoppers at the parade year after year. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe dance performances are expected to convey how our national flag has been a witness to the glorious tales of our freedom fighters, formation of Indian democracy, the endless affection of Indians and women empowerment. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nMembers of the naval band tune up for the Beating Retreat gala. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe presidential guard in full regalia. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe K9 squad of the Indo-Tibetan Border Police is ready for a stroll down Rajpath. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe imposing Border Security Force camel contingent gives a salute. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe Indian Navy contingent walks down Rajpath. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nThe Akash missile regiment rolls down Rajpath. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nA marching contingent moves in rhythm. Photograph: Ministry of Defence\n\n----------------------------------------\n\n\nOne can't resist another glimpse of the 'Daredevils'. Photograph: Ministry of Defence",
+        "metadata": {
+          "title": "Gearing up for the big bash called Republic Day - Rediff.com India News",
+          "keywords": "Ministry of Defence, Rajpath, Sheikh Mohammed bin Zayed Al Nahyan, Daredevils, Indian Navy, Indo-Tibetan Border Police, National Security Guards, Border Security Force, Abu Dhabi, New Delhi, Raisina Hill, India",
+          "description": "India's military prowess and its cultural diversity is bound to leave the chief guest, Abu Dhabi Crown Prince Sheikh Mohammed bin Zayed Al Nahyan, spellbound.",
+          "news_keywords": "Ministry of Defence, Rajpath, Sheikh Mohammed bin Zayed Al Nahyan, Daredevils, Indian Navy, Indo-Tibetan Border Police, National Security Guards, Border Security Force, Abu Dhabi, New Delhi",
+          "og:title": "Gearing up for the big bash called Republic Day",
+          "og:type": "article",
+          "og:url": "https://www.rediff.com/news/report/pix-gearing-up-for-republic-day/20170118.htm",
+          "og:site_name": "Rediff",
+          "og:description": "India's military prowess and its cultural diversity is bound to leave the chief guest, Abu Dhabi Crown Prince Sheikh Mohammed bin Zayed Al Nahyan, spellbound.",
+          "og:image": "https://im.rediff.com/1200-630/news/2017/jan/17rday.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Préparations en cours pour les célébrations de la 68e Journée de la République à New Delhi, incluant des tableaux d'états, de ministères et des forces armées, ainsi que des répétitions pour la cérémonie du Beating Retreat à Raisina Hill avec la participation de la fanfare de la marine, des commandos des National Security Guards, des 'Daredevils', du service de garde présidentiel, de l'escadrop K9 de l'Indo-Tibetan Border Police, du contingent de chameaux de la Border Security Force, du contingent de la marine indienne et du régiment de missiles Akash sur Rajpath, en présence du prince héritier d'Abou Dhabi Sheikh Mohammed bin Zayed Al Nahyan.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sheikh Mohammed bin Zayed Al Nahyan"
+        ],
+        "LOCATION": [
+          "New Delhi",
+          "India",
+          "Abu Dhabi",
+          "Raisina Hill",
+          "Rajpath"
+        ],
+        "ORGANIZATION": [
+          "Rediff.com",
+          "Ministry of Defence",
+          "National Security Guards",
+          "Indo-Tibetan Border Police",
+          "Border Security Force",
+          "Indian Navy"
+        ],
+        "DATE": [
+          "68th",
+          "20170118"
+        ],
+        "EVENT": [
+          "Republic Day",
+          "Beating Retreat ceremony"
+        ],
+        "OTHER": [
+          "Akash missile regiment",
+          "K9 squad"
+        ]
+      },
+      "score_e5": 0.7054119918168559
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "British Airways",
+      "Iberia"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Sheikh Mohammed bin Zayed Al Nahyan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Delhi",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Abu Dhabi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Raisina Hill",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rajpath",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CGTN",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "China Global TV Network",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shutterstock",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rediff.com",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ministry of Defence",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Security Guards",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Indo-Tibetan Border Police",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Border Security Force",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Indian Navy",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "23-29 January 2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "67th",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "69th",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "68th",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "20170118",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Week in pictures: 23-29 January 2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "India celebrates 67th Republic Day",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Republic Day",
+      "rangs": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Beating Retreat ceremony",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "motorbike",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "bike",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Akash missile regiment",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "K9 squad",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T18:28:38.277228"
+  }
+}

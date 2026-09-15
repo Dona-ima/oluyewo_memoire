@@ -1,0 +1,797 @@
+{
+  "id_rumeur": 483442,
+  "id_image": 127763,
+  "caption": "Ferrandelli said he was sick of people abroad associating Sicily with the mafia and nothing else",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747238/oluyewo_benchmark/w1heg9klqkmxgrz42hkm.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Nos telhados de Havana há uma cidade pendurada no ar ...",
+      "source": "Público",
+      "lien": "https://www.publico.pt/2015/03/23/mundo/noticia/nos-telhados-de-havana-uma-cidade-pendurada-no-ar-1689979",
+      "image_url": "https://imagens.publico.pt/imagens.aspx/911124?tp=UH&db=IMAGENS&type=JPG&w=320&act=resize",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScxyvo3vXNbXb1p3Q24isSH_od6LQOIv_sQUA0DBOgLZ9nOzqh",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Nos telhados de Havana há uma cidade pendurada no ar ...",
+        "link": "https://www.publico.pt/2015/03/23/mundo/noticia/nos-telhados-de-havana-uma-cidade-pendurada-no-ar-1689979",
+        "source": "Público",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB60lEQVRYhe3XMWhTURTG8V9qOyjUpd1EiyIRV7GDOFghW7W7IC04GN5YJzOIBYc66FwzCS5dBKEBcVBwEKemILpUQqHN4GBw0CGrw7uhaUnfuzYJHey3vAzfPef_zn25557CrWTR8kr1Cm7qX7_wB1vYqSTlVt6C0fCcw-MBAEA7PJvLK9VNbGCtkpQ3eplPFKevKa3Xz-MyTmHsHxK9w1u0UMBEWD8Wfl_CDOZL6_WJ0nr954fpqz-6g4xAJSm_xHXM43skwHvcqyTlB5WkPIc7qB3gPYlFrIbt3gsQIFqVpPwaq5EAje49DiVesrsFvVTcDzHSw7QdCdBLO2jmeIq4mwVwaIWKbEZYZztVGChAUCPCU8SFYQH8jvRNDQsgVuNHDeCoAbaHBXA6wtPGl2EBXIzwNKVnxmABlleqk9LzP09PO6fooCtwG2dzPDVdPWM0wxit8OYzeChtPFnJl7p7SF8AIfECbqCUkbwt7Z5L--8F_VZgBk8iEr9BrdcNqV-Aj3iEM_Z-_Q18lf7VMq9mfQGEwM_7ifFfH8XHAMcABwJMRa6N6Xq5KoTZcBLnpPPhfemlMU9tvMBnbB00euWpU4EFfMKzyOTsTjuv9Jh4YtU5CcdDwKypJkt5LTgXYA3fDhskaOcwi_4C7fJ_R0Ap6IwAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScxyvo3vXNbXb1p3Q24isSH_od6LQOIv_sQUA0DBOgLZ9nOzqh",
+        "thumbnail_width": 179,
+        "thumbnail_height": 282,
+        "image": "https://imagens.publico.pt/imagens.aspx/911124?tp=UH&db=IMAGENS&type=JPG&w=320&act=resize",
+        "image_width": 203,
+        "image_height": 320
+      },
+      "webpage": null,
+      "texte_contexte": "Article publié par Público avec le titre 'Nos telhados de Havana há uma cidade pendurada no ar'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Havana"
+        ],
+        "ORGANIZATION": [
+          "Público"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7517297251981241
+    },
+    {
+      "titre": "Cuba restores power grid, president vows 'impregnable ...",
+      "source": "Seeking Alpha",
+      "lien": "https://seekingalpha.com/news/4565662-cuba-restores-power-grid-president-responds-to-trump",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2262447176/image_2262447176.jpg?io=getty-c-crop-4-3",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS64MIhOH7DJGUEKs8KKAYelUAapDDjr7IOt8slzwpxZz8LUCm0",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Cuba restores power grid, president vows 'impregnable ...",
+        "link": "https://seekingalpha.com/news/4565662-cuba-restores-power-grid-president-responds-to-trump",
+        "source": "Seeking Alpha",
+        "source_icon": "https://serpapi.com/searches/6a8edba7bde979397ec3ea5c/images/lsW7m-FrAKFB4zNgLrTrxkqyW6yyHfKnvjdeMT4rpVw.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS64MIhOH7DJGUEKs8KKAYelUAapDDjr7IOt8slzwpxZz8LUCm0",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2262447176/image_2262447176.jpg?io=getty-c-crop-4-3",
+        "image_width": 1024,
+        "image_height": 1365
+      },
+      "webpage": {
+        "text": "Cuba restores power grid, president vows 'impregnable resistance' to U.S. pressure\n\n\nMar 18, 2026, 7:23 AM ETHerzfeld Credit Income Fund, Inc. (HERZ)By: Jessica Kuruthukulangara, SA News Editor21 Comments\n\nCuba reconnected its electricity grid by Tuesday evening, ending a nationwide blackout that lasted more than 29 hours, but outages are expected to continue as a result of ongoing fuel shortages and the island's aging power plants.\n\nOver 10M Cubans were",
+        "metadata": {
+          "title": "Cuba restores power grid, president vows &#x27;impregnable resistance&#x27; to U.S. pressure | Seeking Alpha",
+          "apple-mobile-web-app-title": "SeekingAlpha",
+          "fb:app_id": "159723149420031",
+          "fb:pages": "224867310939090",
+          "al:ios:app_name": "SeekingAlpha",
+          "al:ios:app_store_id": "552799694",
+          "al:android:app_name": "SeekingAlpha",
+          "al:android:package": "com.seekingalpha.webwrapper",
+          "og:locale": "en_US",
+          "og:site_name": "Seeking Alpha",
+          "og:type": "article",
+          "og:title": "Cuba restores power grid, president vows 'impregnable resistance' to U.S. pressure",
+          "og:description": "Cuba restores power after a 29-hour blackout, but fuel shortages mean more outages ahead.",
+          "og:url": "https://seekingalpha.com/news/4565662-cuba-restores-power-grid-president-responds-to-trump",
+          "og:image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2262447176/image_2262447176.jpg?io=getty-c-w630",
+          "article:author": "Jessica Kuruthukulangara, SA News Editor",
+          "article:published_time": "2026-03-18T07:23:59-04:00",
+          "twitter:title": "Cuba restores power grid, president vows 'impregnable resistance' to U.S. pressure | Seeking Alpha",
+          "description": "Cuba restores power after a 29-hour blackout, but fuel shortages mean more outages ahead.",
+          "twitter:description": "Cuba restores power after a 29-hour blackout, but fuel shortages mean more outages ahead."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://seekingalpha.com/news/4565662-cuba-restores-power-grid-president-responds-to-trump"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jessica Kuruthukulangara",
+            "url": "https://seekingalpha.com/user/55510976/bio"
+          },
+          "publisher": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "244 5th Ave",
+              "addressLocality": "New York",
+              "addressRegion": "NY",
+              "postalCode": "10001",
+              "addressCountry": "US"
+            },
+            "alternateName": [
+              "SeekingAlpha",
+              "SA"
+            ],
+            "brand": [
+              {
+                "@type": "Brand",
+                "name": "Seeking Alpha Premium",
+                "url": "https://seekingalpha.com/subscriptions/premium"
+              },
+              {
+                "@type": "Brand",
+                "name": "Seeking Alpha PRO",
+                "url": "https://seekingalpha.com/subscriptions"
+              },
+              {
+                "@type": "Brand",
+                "name": "Alpha Picks",
+                "url": "https://seekingalpha.com/alpha-picks/subscribe"
+              },
+              {
+                "@type": "Brand",
+                "name": "Investing Groups by Seeking Alpha",
+                "url": "https://seekingalpha.com/marketplace/directory"
+              }
+            ],
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "+1-347-509-6837",
+              "email": "subscriptions@seekingalpha.com"
+            },
+            "description": "Founded in 2004, Seeking Alpha is an industry-leading financial research platform powered by one of the world's largest investing communities. We bridge the gap between financial information and actionable insight by providing unrivaled coverage on all asset classes and access to best-in-class tools. From in-depth analysis on thousands of stocks to timely investment ideas and market-beating Quant ratings*, Seeking Alpha is an essential resource for millions of investors globally.",
+            "email": "subscriptions@seekingalpha.com",
+            "image": "https://seekingalpha.com/samw/static/images/OrganizationLogo.2198c7b91.png",
+            "foundingDate": "2004",
+            "legalName": "Seeking Alpha",
+            "logo": {
+              "@type": "ImageObject",
+              "height": 60,
+              "url": "https://seekingalpha.com/samw/static/images/PublisherLogo.bd8d52dd0.png",
+              "width": 360
+            },
+            "name": "Seeking Alpha",
+            "sameAs": [
+              "https://www.facebook.com/Seekingalpha",
+              "https://www.youtube.com/channel/UC9ZGkLwawKeG5C0Dt9FS-lQ",
+              "https://www.linkedin.com/company/seeking-alpha/",
+              "https://www.wikidata.org/wiki/Q3477676",
+              "https://www.instagram.com/seekingalpha/",
+              "https://x.com/SeekingAlpha",
+              "https://www.tiktok.com/@seekingalphaofficial",
+              "https://open.spotify.com/show/05uLjJxkVgQsRk8LWLCLpx",
+              "https://podcasts.apple.com/us/podcast/wall-street-breakfast/id1358381502"
+            ],
+            "slogan": "Inform. Empower. Invest.",
+            "telephone": "+1-347-509-6837",
+            "url": "https://seekingalpha.com"
+          },
+          "datePublished": "2026-03-18T11:23:59.000Z",
+          "dateModified": "2026-03-18T11:24:47.000Z",
+          "description": "Cuba restores power after a 29-hour blackout, but fuel shortages mean more outages ahead.",
+          "headline": "Cuba restores power grid, president vows 'impregnable resistance' to U.S. pressure",
+          "about": [
+            {
+              "@type": "Corporation",
+              "name": "Herzfeld Credit Income Fund, Inc.",
+              "tickerSymbol": "NASDAQ HERZ",
+              "url": "https://seekingalpha.com/symbol/HERZ"
+            }
+          ],
+          "image": [
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2262447176/image_2262447176.jpg?io=getty-c-w1280",
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2262447176/image_2262447176.jpg?io=getty-c-crop-16-9",
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2262447176/image_2262447176.jpg?io=getty-c-crop-4-3"
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Cuba a rétabli son réseau électrique le mardi soir, mettant fin à une panne nationale de plus de 29 heures, bien que des pannes persistent en raison de pénuries de carburant et de centrales vieillissantes. Plus de 10 millions de Cubains sont concernés, et le président cubain promet une résistance imprenable face à la pression des États-Unis. Article publié sur Seeking Alpha par Jessica Kuruthukulangara.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jessica Kuruthukulangara",
+          "Trump"
+        ],
+        "LOCATION": [
+          "Cuba",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Seeking Alpha",
+          "Herzfeld Credit Income Fund, Inc."
+        ],
+        "DATE": [
+          "Mar 18, 2026",
+          "Tuesday evening"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "HERZ"
+        ]
+      },
+      "score_e5": 0.6665281282357038
+    },
+    {
+      "titre": "Cuba defiant after Trump says island to receive no more ...",
+      "source": "Arizona Daily Sun",
+      "lien": "https://azdailysun.com/cuba-defiant-after-trump-says-island-to-receive-no-more-venezuelan-oil-or-money/article_10f74f79-8a8f-5f7e-ac9c-ec5ddde18f9b.html",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/9/b8/9b875dda-bf9c-5f05-a026-c9fb185fe5d7/696400b7b5d9d.image.jpg?resize=741,500",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHaAEJAEWMY4aulue5pFNvcT25PIU_UmcTZPcA3AVNI86IEsED",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Cuba defiant after Trump says island to receive no more ...",
+        "link": "https://azdailysun.com/cuba-defiant-after-trump-says-island-to-receive-no-more-venezuelan-oil-or-money/article_10f74f79-8a8f-5f7e-ac9c-ec5ddde18f9b.html",
+        "source": "Arizona Daily Sun",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0dIiAdHx8kKDQsJCYxJycfLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Kzc3Nzc3Ljc3Nzc3NTctN__AABEIACAAIAMBIgACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAEBQYHAf_EAC8QAAIBAgQBCgcBAAAAAAAAAAECAwQRAAUhQTEGEhMUIlFhcaHBIzJSgYKR8Af_xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB_8QAHREAAgICAwEAAAAAAAAAAAAAAQIAEQMSEzFBBP_aAAwDAQACEQMRAD8A26SRI1LOwUDc4CfNYwbJGzDvOmAKuoaolJv2QbKML6yp6ut9BoSWbgAMQ5vq0BPkpx4NjUfx5pExs6MvjxwcjrIoZCCDuMZPJnGaTuauCvjpze8FFJBdHTYu3zKzcfDS-Kzkrn8WYQ9KgaNlbmVFOx1if-4HcYamVqBbqLZFshZL5tTRVcLZjnEbySzG1DTF2UU6bPpbtniTtcDAseZVDUZpK89bjUfDdzZvJ9O0P1fe-L2q5G5bWsHrJq6aQCwY1LLb7LYemFVX_ncWrZdm1VCdkqFWZPZvXBcNijALttamRjEsxZjck3J78cpp58ur0zCjHOcDmTRX0mj7vMbHFLHyIzhJbTPRSR_XHIwJ_Er74fUfI2g6EdciPSd8crWxoQ9RIDA3P__Z.jpeg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHaAEJAEWMY4aulue5pFNvcT25PIU_UmcTZPcA3AVNI86IEsED",
+        "thumbnail_width": 184,
+        "thumbnail_height": 273,
+        "image": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/9/b8/9b875dda-bf9c-5f05-a026-c9fb185fe5d7/696400b7b5d9d.image.jpg?resize=741,500",
+        "image_width": 500,
+        "image_height": 741
+      },
+      "webpage": {
+        "text": "Cuba defiant after Trump says island to receive no more Venezuelan oil or money |\n\n* Jan 11, 2026\n * Jan 11, 2026\n * 0\n\n * 3 min to read\n\nA view shows part of Havana as U.S.-Cuba tensions rise after U.S. President Donald Trump vowed to stop Venezuelan oil and money from reaching Cuba and suggested the communist-run island to strike a deal with Washington, in Havana, Cuba, January 11, 2026. REUTERS/Norlys Perez\n\nNew subscriber benefit!\n\nShare this article paywall-free\n\n * Email\n * Copy Link\n\nBy Dave Sherwood and Marianna ‌Parraga\n\nHAVANA/HOUSTON, Jan 11 (Reuters) - U.S. President Donald Trump on Sunday said no more Venezuelan oil or money will go to Cuba and suggested the Communist-run island should strike a deal with Washington, ramping up pressure on the long-time U.S. nemesis and provoking defiant words from the island's leadership.\n\n\nTrending\n\n\n×\n\n\nStay Updated in Minutes\n\nSign up for our flagship newsletter covering all the local news to keep you informed.\n\nPlease enter a valid email.\n\nThank you for subscribing!\n\nI'm not interested",
+        "metadata": {
+          "title": "Cuba defiant after Trump says island to receive no more Venezuelan oil or money | | azdailysun.com",
+          "keywords": "cuba, venezuela, fidel castro, economy of cuba, cuban revolution, international relations, politics, petroleum, havana, foreign policy, pdvsa, mexico",
+          "news_keywords": "cuba, venezuela, fidel castro, economy of cuba, cuban revolution, international relations, politics, petroleum, havana, foreign policy, pdvsa, mexico",
+          "description": "By Dave Sherwood and Marianna ‌Parraga",
+          "og:type": "article",
+          "og:url": "https://azdailysun.com/cuba-defiant-after-trump-says-island-to-receive-no-more-venezuelan-oil-or-money/article_10f74f79-8a8f-5f7e-ac9c-ec5ddde18f9b.html",
+          "og:image": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/9/b8/9b875dda-bf9c-5f05-a026-c9fb185fe5d7/696400b7b5d9d.image.jpg?crop=800%2C420%2C0%2C60",
+          "og:image:width": "800",
+          "og:image:height": "420",
+          "og:title": "Cuba defiant after Trump says island to receive no more Venezuelan oil or money",
+          "og:description": "By Dave Sherwood and Marianna ‌Parraga",
+          "og:site_name": "Arizona Daily Sun",
+          "fb:app_id": "479417083504967",
+          "article:publisher": "https://www.facebook.com/ArizonaDailySun",
+          "fb:pages": "62585235168",
+          "tncms:subs": "5.0",
+          "tncms:ads": "smart,lazyload"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vue d'une partie de La Havane alors que les tensions entre les États-Unis et Cuba augmentent, le président américain Donald Trump ayant déclaré le 11 janvier 2026 que Cuba ne recevrait plus de pétrole ni d'argent du Venezuela et suggérant à l'île de passer un accord avec Washington.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Donald Trump",
+          "Norlys Perez",
+          "Dave Sherwood",
+          "Marianna Parraga"
+        ],
+        "LOCATION": [
+          "Havana",
+          "Cuba",
+          "United States",
+          "Venezuela",
+          "Washington"
+        ],
+        "ORGANIZATION": [
+          "Arizona Daily Sun",
+          "Reuters"
+        ],
+        "DATE": [
+          "January 11, 2026",
+          "Jan 11, 2026",
+          "Sunday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.6801710751111553
+    },
+    {
+      "titre": "Support for the Cuban People Travel in 2026: An Explainer",
+      "source": "CAYOS | Cuba Travel Experts",
+      "lien": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/",
+      "image_url": "https://cayostravel.com/wp-content/uploads/2023/09/IMG_3234-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xtWLhrvDBRBtpTmvCvePx0TOKuHJrkfOUEFWWNrfh4qfn7ny",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Support for the Cuban People Travel in 2026: An Explainer",
+        "link": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/",
+        "source": "CAYOS | Cuba Travel Experts",
+        "source_icon": "https://serpapi.com/searches/6a8edba7bde979397ec3ea5c/images/Ks43xz2_HTFJkailtfO23AsGXMcZKGofDo1QxLQ6fWc.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xtWLhrvDBRBtpTmvCvePx0TOKuHJrkfOUEFWWNrfh4qfn7ny",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cayostravel.com/wp-content/uploads/2023/09/IMG_3234-scaled.jpg",
+        "image_width": 1365,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Support for the Cuban People Travel in 2026: An Explainer\n\nCuba is a natural destination for U.S. travelers. Its multifaceted culture, fascinating history, and stunning landscapes reveal a land both foreign and familiar.\n\nHowever, for U.S. citizens, planning a trip to Cuba involves navigating certain legal restrictions. Understanding the rules and regulations surrounding travel to Cuba is essential to ensure fun, safe trip that complies with U.S. law.\n\nIn this guide, we explain everything you need to know about traveling to Cuba under the Support for the Cuban People category. We’ll outline the steps necessary to plan a trip that adheres to the guidelines laid out by the regulations.\n\n\nWhat is the Support for the Cuban People category?\n\n\nThe Support for the Cuban People category is one of the 12 categories of legal travel to Cuba authorized by the U.S. government. Under this category, travelers are required to engage in activities that support Cubans and promote independence from Cuban government institutions.\n\nThis can include activities such as staying in private accommodations (like hotels and casas particulares), dining at privately-owned restaurants (also known as paladares), and engaging in activities led by Cuban citizens, like guided tours, or lessons in dance, cooking, language, art, and more.\n\nThe Support for the Cuban People category aims to encourage interaction between U.S. travelers and the Cuban people, fostering cultural exchange and supporting the growth of independent private enterprise in Cuba. By engaging in activities that directly benefit the Cuban people, you’ll contribute to positive social and economic development on the island while complying with U.S. regulations.\n\nYou can plan a trip on your own, or get help from our expert team to make sure your itinerary meets the requirements for legal travel to Cuba and directly supports local private enterprise in the process.\n\n\nSupport our Project\n\n\nCayos Travel is a reader supported website. Please consider leaving a tip if you appreciate our content.\n\n\nWhat is the “General License” for Travel to Cuba?\n\n\nIn the past, U.S. citizens were required to obtain a specific license from the U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) to travel to Cuba legally. However, in recent years, most authorized travel to Cuba is conducted under a “general license.”\n\nA general license allows eligible travelers to engage in certain categories of authorized travel to Cuba without the need to apply for a specific license from OFAC. The Support for the Cuban People category falls under this general license, provided travelers adhere to the specified requirements and restrictions.\n\nUnder the general license, travelers must maintain a full-time schedule of activities that support the Cuban people, which may include educational exchanges, humanitarian projects, or support for private businesses. It’s essential to keep detailed records of these activities to demonstrate compliance with U.S. regulations.\n\n\nThe 12 Travel Categories of Authorized Travel\n\n\nIn addition to Support for the Cuban People, there are 11 other categories of authorized travel to Cuba. These categories include family visits, official government business, journalistic activity, and humanitarian projects, among others. While travel to Cuba for tourism purposes remains prohibited, travelers can still visit Cuba under any of these authorized categories.\n\nEach category has its own set of requirements and restrictions, so it’s important to carefully review the guidelines provided by the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) before planning your trip.\n\n\nCreating a Legal Itinerary\n\n\nWhen planning a trip to Cuba under the Support for the Cuban People category, you’ll need to create an itinerary that demonstrates a commitment to engaging with the Cuban people and supporting independent economic activity. This can include activities such as visiting local markets, attending cultural events, and interacting with Cuban artists, entrepreneurs, and community members. Keeping a detailed record of your itinerary and any interactions with Cuban citizens will help ensure compliance with U.S. regulations.\n\nIn addition, you’ll need to avoid any businesses designated as a “restricted entity” by the U.S (mainly hotels that are owned by the Cuban government). Luckily there are lots of great of privately owned hotels, B&Bs, and vacation rentals that can be easily booked online.\n\n\nTravel to Cuba, Support Locals\n\nOur mission is to make Cuba travel more accessible. Our tools support Cuba’s private sector + conform with U.S. travel rules.\n\n\nGetting a Cuban eVisa/Tourist Card\n\n\nBefore traveling to Cuba, U.S. citizens are required to obtain a Cuban tourist visa (also known as a tourist card). The visa allows travelers to enter Cuba for up to 90 days. Paper cards can be acquired through your airline, but there is now a convenient eVisa process that allows you to purchase it online in advance of your trip through an authorized vendor like Easy Tourist Card.\n\n\nWhat to Expect When Leaving and Re-entering the U.S.\n\n\nThe departure process for U.S.-Cuba flights is no different than the process for any foreign flight. There may be differing weight restrictions for luggage, so if you are planning to bring extra suitcases or donated items, it’s important to check the rules ahead of time.\n\nWhen returning to the U.S. from Cuba, travelers are typically treated the same as anyone returning from a foreign country. In some cases, customs officials will ask about the purpose of your trip. If this is the case, providing a physical copy of your itinerary to show that you’ve properly documented your activities in Cuba will more than suffice.\n\nYou may also be asked about goods you are bringing back from Cuba. While most items are allowed, importing Cuban alcohol and tobacco products is prohibited, even for personal use.\n\n\nThe Bottom Line\n\n\nTraveling to Cuba under the Support for the Cuban People category offers a unique opportunity to engage with the Cuban people and support independent economic activity on the island. By understanding the legal restrictions surrounding travel to Cuba and following the guidelines outlined in this guide, travelers can ensure a smooth and enjoyable trip while remaining in compliance with U.S. law.\n\nAs you plan your trip to Cuba, be sure to thoroughly research the requirements and guidelines provided by the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) to ensure that your trip complies with all relevant regulations. By taking the time to plan carefully and document your activities, you can enjoy all that Cuba has to offer while contributing positively to the local community.\n\nSo pack your bags, brush up on your Spanish, and get ready to experience the vibrant culture and warmth of the Cuban people firsthand. With careful planning and preparation, your trip to Cuba is sure to be an unforgettable adventure.",
+        "metadata": {
+          "title": "Support for the Cuban People Travel in 2026: An Explainer",
+          "description": "We outline all the intricacies related to Support for the Cuban People travel: legal requirements, necessary steps, practical considerations, and documentation.",
+          "author": "Admin",
+          "og:locale": "en_US",
+          "og:site_name": "Cayos | Cuba Travel Experts",
+          "og:type": "article",
+          "og:title": "Support for the Cuban People Travel in 2026: An Explainer",
+          "og:description": "We outline all the intricacies related to Support for the Cuban People travel: legal requirements, necessary steps, practical considerations, and documentation.",
+          "og:url": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/",
+          "og:image": "https://cayostravel.com/wp-content/uploads/2023/09/IMG_3234-scaled.jpg",
+          "og:image:secure_url": "https://cayostravel.com/wp-content/uploads/2023/09/IMG_3234-scaled.jpg",
+          "og:image:width": "2048",
+          "og:image:height": "1365",
+          "article:published_time": "2024-01-29T19:30:27+00:00",
+          "article:modified_time": "2026-02-27T03:05:08+00:00",
+          "twitter:title": "Support for the Cuban People Travel in 2026: An Explainer",
+          "twitter:description": "We outline all the intricacies related to Support for the Cuban People travel: legal requirements, necessary steps, practical considerations, and documentation."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BlogPosting",
+              "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#blogposting",
+              "name": "Support for the Cuban People Travel in 2026: An Explainer",
+              "headline": "Support for the Cuban People Travel in 2026: An Explainer",
+              "author": {
+                "@id": "https://cayostravel.com/author/brianhowtogotocuba-com/#author"
+              },
+              "publisher": {
+                "@id": "https://cayostravel.com/#organization"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://cayostravel.com/wp-content/uploads/2023/09/IMG_3234-scaled.jpg",
+                "width": 2048,
+                "height": 1365
+              },
+              "datePublished": "2024-01-29T19:30:27+00:00",
+              "dateModified": "2026-02-27T03:05:08+00:00",
+              "inLanguage": "en-US",
+              "mainEntityOfPage": {
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#webpage"
+              },
+              "isPartOf": {
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#webpage"
+              },
+              "articleSection": "Cuba, home, Logistics"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://cayostravel.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://cayostravel.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://cayostravel.com/category/travel/#listItem",
+                    "name": "Travel"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://cayostravel.com/category/travel/#listItem",
+                  "position": 2,
+                  "name": "Travel",
+                  "item": "https://cayostravel.com/category/travel/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://cayostravel.com/category/travel/cuba/#listItem",
+                    "name": "Cuba"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://cayostravel.com#listItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://cayostravel.com/category/travel/cuba/#listItem",
+                  "position": 3,
+                  "name": "Cuba",
+                  "item": "https://cayostravel.com/category/travel/cuba/",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#listItem",
+                    "name": "Support for the Cuban People Travel in 2026: An Explainer"
+                  },
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://cayostravel.com/category/travel/#listItem",
+                    "name": "Travel"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#listItem",
+                  "position": 4,
+                  "name": "Support for the Cuban People Travel in 2026: An Explainer",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://cayostravel.com/category/travel/cuba/#listItem",
+                    "name": "Cuba"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://cayostravel.com/#organization",
+              "name": "Cayos Travel",
+              "description": "Cuba Travel Experts",
+              "url": "https://cayostravel.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://cayostravel.com/wp-content/uploads/2023/09/cropped-Untitled-6-2.png",
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#organizationLogo",
+                "width": 616,
+                "height": 598,
+                "caption": "globe style map of earth with Cuba at the center, showing tourist arrival data from different regions"
+              },
+              "image": {
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#organizationLogo"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "https://cayostravel.com/author/brianhowtogotocuba-com/#author",
+              "url": "https://cayostravel.com/author/brianhowtogotocuba-com/",
+              "name": "Admin"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#webpage",
+              "url": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/",
+              "name": "Support for the Cuban People Travel in 2026: An Explainer",
+              "description": "We outline all the intricacies related to Support for the Cuban People travel: legal requirements, necessary steps, practical considerations, and documentation.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://cayostravel.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#breadcrumblist"
+              },
+              "author": {
+                "@id": "https://cayostravel.com/author/brianhowtogotocuba-com/#author"
+              },
+              "creator": {
+                "@id": "https://cayostravel.com/author/brianhowtogotocuba-com/#author"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://cayostravel.com/wp-content/uploads/2023/09/IMG_3234-scaled.jpg",
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#mainImage",
+                "width": 2048,
+                "height": 1365
+              },
+              "primaryImageOfPage": {
+                "@id": "https://cayostravel.com/travel/cuba/support-for-the-cuban-people-travel-in-2024-an-explainer/#mainImage"
+              },
+              "datePublished": "2024-01-29T19:30:27+00:00",
+              "dateModified": "2026-02-27T03:05:08+00:00"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://cayostravel.com/#website",
+              "url": "https://cayostravel.com/",
+              "name": "Cayos Travel",
+              "description": "Cuba Travel Experts",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://cayostravel.com/#organization"
+              }
+            }
+          ]
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Guide sur les voyages 'Support for the Cuban People' en 2026, expliquant les réglementations du gouvernement américain et de l'OFAC permettant aux citoyens américains de voyager à Cuba sous licence générale en participant à des activités soutenant le peuple cubain et les entreprises privées indépendantes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Cuba",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "CAYOS Cuba Travel Experts",
+          "Cayos Travel",
+          "U.S. Treasury Department",
+          "Office of Foreign Assets Control"
+        ],
+        "DATE": [
+          "2026"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Support for the Cuban People"
+        ]
+      },
+      "score_e5": 0.6979336274949948
+    },
+    {
+      "titre": "Uncovering the beauty of Tripoli ✨ 📸 @oneclick.lebanon ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DZFzSUPDV5y/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3910757087884670708",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe6c9RNov8zOJxxDoA8GPxzcBz1r_zjy9S5Und7KHTN6k07_P2",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Uncovering the beauty of Tripoli ✨ 📸 @oneclick.lebanon ...",
+        "link": "https://www.instagram.com/p/DZFzSUPDV5y/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8edba7bde979397ec3ea5c/images/unUFYIUH_UqmAqtOZp0liFOFJ7NonWP96n6vCLINnYI.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe6c9RNov8zOJxxDoA8GPxzcBz1r_zjy9S5Und7KHTN6k07_P2",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3910757087884670708",
+        "image_width": 4096,
+        "image_height": 3072
+      },
+      "webpage": null,
+      "texte_contexte": "Publication Instagram intitulée 'Uncovering the beauty of Tripoli' par @oneclick.lebanon.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Tripoli"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "@oneclick.lebanon"
+        ]
+      },
+      "score_e5": 0.7265415559894451
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Ferrandelli"
+    ],
+    "LOCATION": [
+      "Sicily"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "mafia"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Havana",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Público",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jessica Kuruthukulangara",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cuba",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Seeking Alpha",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Herzfeld Credit Income Fund, Inc.",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Mar 18, 2026",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday evening",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "HERZ",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Norlys Perez",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dave Sherwood",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marianna Parraga",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Venezuela",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Arizona Daily Sun",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 11, 2026",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CAYOS Cuba Travel Experts",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cayos Travel",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Treasury Department",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Office of Foreign Assets Control",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Support for the Cuban People",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tripoli",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "@oneclick.lebanon",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T02:30:55.505104"
+  }
+}

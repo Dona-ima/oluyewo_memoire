@@ -1,0 +1,935 @@
+{
+  "id_rumeur": 1546327,
+  "id_image": 581050,
+  "caption": "Not all Hong Kong lawmakers attended the meeting to discuss political reform in China",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747879/oluyewo_benchmark/k8tr3onjb0dduq6mpem5.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Japan | World | The Guardian",
+      "source": "Japan | World | The Guardian",
+      "lien": "https://www.theguardian.com/world/japan/2010/aug/30",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=300&quality=85&auto=format&fit=max&s=e1cc9e8ce01729623060db7f7899eb60",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSuFQqlGbq3WWBjhy6_Gdc_1s6EGqXVTlEas-ffXAxAXeW19L",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Japan | World | The Guardian",
+        "link": "https://www.theguardian.com/world/japan/2010/aug/30",
+        "source": "Japan | World | The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSuFQqlGbq3WWBjhy6_Gdc_1s6EGqXVTlEas-ffXAxAXeW19L",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=300&quality=85&auto=format&fit=max&s=e1cc9e8ce01729623060db7f7899eb60",
+        "image_width": 180,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "Japan | World\n\nGlobal markets fall as investors are braced for poor US economic results\n\n\nNations fear US is heading for a double-dip recession with poor US employment figures expected on Friday",
+        "metadata": {
+          "title": "Japan | World | The Guardian",
+          "apple-mobile-web-app-title": "Guardian",
+          "og:url": "http://www.theguardian.com/world/japan",
+          "al:ios:url": "gnmguardian://world/japan?contenttype=list&source=applinks",
+          "fb:app_id": "180444840287",
+          "og:type": "website",
+          "al:ios:app_store_id": "409128287",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "fb:pages": "516977308337360"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Japan World The Guardian: Global markets fall as investors are braced for poor US economic results. Nations fear US is heading for a double-dip recession with poor US employment figures expected on Friday.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Japan",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "August 30, 2010",
+          "Friday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7091331710817563
+    },
+    {
+      "titre": "Global economy + Business | Page 263 of 327 | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/global-economy+business?page=263",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=465&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQglVUrF9lxlCEGHQ7pTMlMApMeDoQuGFI1CexH_apgw01Kyb1e",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Global economy + Business | Page 263 of 327 | The Guardian",
+        "link": "https://www.theguardian.com/business/global-economy+business?page=263",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQglVUrF9lxlCEGHQ7pTMlMApMeDoQuGFI1CexH_apgw01Kyb1e",
+        "thumbnail_width": 201,
+        "thumbnail_height": 251,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=465&dpr=1&s=none&crop=5:4",
+        "image_width": 276,
+        "image_height": 345
+      },
+      "webpage": {
+        "text": "Global economy + Business | Page 263 of 327\n\nSeptember 2010\n\n\n * We're all counting on eastern promise\n   \n   Liam Byrne\n\n\n * Gold hits new record high\n   \n   \n\n\n * Gold prices – the highs and lows since 1971\n   \n   \n\n\n * Double-dip recession: bulls and bears diverge over future economic prospects\n   \n   \n\n\n * Getting capitalism right\n   \n   Ha-Joon Chang\n\n\n * World Bank invests record sums in coal\n   \n   \n\n\n * The Gulf's credit crunch survivors\n   \n   Raymond Barrett\n\n\n * Unctad calls for rethink on export-led growth for developing countries\n   \n   \n\n\n * Deloitte Touche Tohmatsu to add 50,000 staff over next five years\n   \n   \n\n\n * IMF warns of the 'human cost' of public spending cuts\n   \n   \n\n\n * Alibaba leads the charge for China's internet expansion overseas\n   \n   \n\n * Economics viewpoint\n   \n   Financial markets are still ruled by instant gratification\n   \n   Larry Elliott, Economics editor\n\n\n * OECD cautions over cuts as global slowdown continues\n   \n   \n\n\n * This is George Osborne's chance to back away from austerity\n   \n   \n\n\n * OECD cuts global economic growth forecasts\n   \n   \n\n\n * Child poverty fight threatened by west's cost cuts, says Unicef\n   \n   \n\n * Economics viewpoint\n   \n   Right-wing dogma has had its day\n   \n   Larry Elliott\n\n\n * US jobless figures offer brief reprieve for Obama\n   \n   \n\n\n * Rise in US industrial output drives markets higher\n   \n   \n\n\n * Australian economy surges 1.2% in second quarter\n   \n   \n\nAbout 6,530 results for Global economy + Business",
+        "metadata": {
+          "title": "Global economy + Business | Page 263 of 327 | The Guardian",
+          "description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Global economy and Business articles from The Guardian, September 2010, covering topics such as gold prices, double-dip recession, World Bank investments, IMF warnings, Alibaba, OECD forecasts, child poverty, and economic growth in Australia.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Liam Byrne",
+          "Ha-Joon Chang",
+          "Raymond Barrett",
+          "Larry Elliott",
+          "George Osborne"
+        ],
+        "LOCATION": [
+          "China",
+          "Australia"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "World Bank",
+          "Unctad",
+          "Deloitte Touche Tohmatsu",
+          "IMF",
+          "Alibaba",
+          "OECD",
+          "Unicef"
+        ],
+        "DATE": [
+          "September 2010",
+          "1971",
+          "next five years"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7233497815810267
+    },
+    {
+      "titre": "Global slowdown predicted after deluge of bad economic data ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/2012/sep/20/global-slowdown-predicted",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=220&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTElGGKRb_ZmA78C4Ly7isMGnqDuwMnbLazwmoNznjJ9PS3JFGT",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Global slowdown predicted after deluge of bad economic data ...",
+        "link": "https://www.theguardian.com/business/2012/sep/20/global-slowdown-predicted",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTElGGKRb_ZmA78C4Ly7isMGnqDuwMnbLazwmoNznjJ9PS3JFGT",
+        "thumbnail_width": 176,
+        "thumbnail_height": 220,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=220&dpr=1&s=none&crop=5:4",
+        "image_width": 176,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "Global slowdown predicted after deluge of bad economic data | Global recession\n\nThe prospect of a synchronised recession across the global economy loomed larger on Thursday after news that China's factory output shrank for an 11th straight month, Europe's recession intensified and the manufacturing sector in the US had its weakest quarter in three years.\n\nFour years after the collapse of Lehman Brothers triggered the biggest slump since the 1930s, a range of gloomy data highlighted the struggle of policymakers to boost activity.\n\nAnalysts said Europe's sovereign debt crisis, high commodity prices, the legacy of the financial collapse and tension between the world's three biggest economies had soured the economic environment since the start of 2012.\n\nJapan, involved in a territorial row with China over disputed islands, reported a drop in exports for a fourth month, leaving the country on course in 2012 to run a trade deficit for a second year. Meanwhile, a flash estimate of US industry in the third quarter from Markit showed that output has barely been rising over the summer. The purchasing managers index stood at 51.5 in September, down from 54.2 in June and the weakest since September 2009.\n\n\"Manufacturing isn't looking good,\" said David Sloan, economist at 4Cast in New York. \"The global situation is a restraint on the US economy.\n\n\"Certainly, there is not going to be much growth in Europe. Growth in Asia, and China in particular, is slowing down, so US growth is going to have to be domestically generated.\"\n\nMarkit chief economist, Chris Williamson, said: \"With output growing at the slowest pace since the recovery began, the manufacturing sector may have even acted as a slight drag on the economy in the third quarter.\"\n\nA separate report from the US labour department showed initial claims for unemployment aid edged down only 3,000 to a seasonally adjusted 382,000 last week.\n\nEconomists had attributed a spike in claims in the prior week to hurricane Isaac, but the minimal improvement in the latest reading pointed to fundamental weakness and will add to the nervousness of Barack Obama's team in the remaining weeks of the US presidential election campaign.\n\nWith jobs and growth seen as vital by both Democrats and Republicans in the race for the White House, the four-week moving average for new claims rose 2,000 to 377,750 – the highest level since June and the fifth consecutive weekly increase.\n\nPressure is also mounting on Beijing for a fresh economic stimulus after the broad-based weakening in global demand continued to dampen export demand from China's factories, and left the economy on course in 2012 to post its first sub-8% growth since 1999. Despite an easing of credit conditions and higher spending on infrastructure spending, analysts warned there was little sign of an end to the slowdown in the world's second biggest economy. \"We are now approaching the one-year anniversary of this index dropping below 50 and a recovery is still not in sight,\" said Mark Williams, chief Asia economist at Capital Economics.\n\nThe flash estimate of manufacturing from HSBC/Markit showed the purchasing managers' index at 47.8, little changed from the 47.6 recorded in August and below the cut off point of 50 that separates a contracting from expanding sector.\n\nMeanwhile, a European commission report showed eurozone consumer confidence falling for the fourth consecutive month in September to a 40-month low amid signs that activity across the 17-nation single currency zone is heading for a second quarter of decline, meeting the technical definition of recession. Markit's composite PMI for the eurozone dropped from 46.3 to 45.9 in September, its lowest level in three years.\n\nAnalysts were particularly worried about the big fall recorded in France, seeing it as confirmation that even Europe's biggest economies were not immune from the knock-on effects of the debt crisis. Although Germany put in a stronger than expected performance, financial markets are braced for official growth figures to show that the eurozone contracted by 0.3-0.4% in the third quarter. The EC's consumer confidence index sank to -25.9 in September from -24.6 in August, while Ireland reported that gross domestic product was flat in the second quarter owing to falling consumer spending and much lower investment spending.\n\nMartin van Vliet, economist at ING, said: \"Today's PMI figures confirm that the Eurozone economy as a whole remains stuck in recession, despite the tentative signs of stabilisation in Germany. We can only hope that the improved sentiment on financial markets in the wake of the latest actions by the central banks will spill over to the real economy – not just in Germany – and help foster a gradual recovery in the fourth quarter. But with the fiscal squeeze across the region intensifying, we cannot rely on it. Indeed, further macroeconomic stimulus – including a weaker euro and an ECB rate cut – is likely to be needed to put the region on a path of sustained growth and hence ensure the survival of EMU.\"",
+        "metadata": {
+          "title": "Global slowdown predicted after deluge of bad economic data | Global recession | The Guardian",
+          "description": "<p>Prospect of synchronised recession across Europe, China and US looms four years after Lehman collapse triggered slump</p>",
+          "og:url": "http://www.theguardian.com/business/2012/sep/20/global-slowdown-predicted",
+          "article:author": "https://www.theguardian.com/profile/larryelliott",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Admin/BkFill/Default_image_group/2012/9/20/1348162396943/China--010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTIucG5n&enable=upscale&s=0803c79cdbf50704721320adc4a44ed2",
+          "al:ios:url": "gnmguardian://business/2012/sep/20/global-slowdown-predicted?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Global slowdown predicted as China records 11th month of recession",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-01T14:19:59.000Z",
+          "og:image:height": "720",
+          "og:description": "Prospect of synchronised recession across Europe, China and US looms four years after Lehman collapse triggered slump",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Business",
+          "article:published_time": "2012-09-20T17:33:50.000Z",
+          "article:tag": "Global recession,Economics,Global economy,Business,China,Asia Pacific,World news,US news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Global slowdown predicted after a deluge of bad economic data in 2012, including shrinking factory output in China, an intensified European recession, weak US manufacturing, territorial rows between Japan and China, US unemployment claims, and pressure on Beijing for economic stimulus.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David Sloan",
+          "Chris Williamson",
+          "Isaac",
+          "Barack Obama"
+        ],
+        "LOCATION": [
+          "China",
+          "Europe",
+          "US",
+          "Japan",
+          "Asia",
+          "New York",
+          "Beijing",
+          "White House"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Lehman Brothers",
+          "Markit",
+          "4Cast",
+          "US labour department",
+          "Democrats",
+          "Republicans"
+        ],
+        "DATE": [
+          "Thursday",
+          "2012",
+          "1930s",
+          "start of 2012",
+          "third quarter",
+          "September",
+          "June",
+          "September 2009",
+          "last week",
+          "prior week",
+          "1999"
+        ],
+        "EVENT": [
+          "US presidential election campaign",
+          "hurricane Isaac"
+        ],
+        "OTHER": [
+          "purchasing managers index"
+        ]
+      },
+      "score_e5": 0.746077170858825
+    },
+    {
+      "titre": "US economy + Economics | Page 139 of 156 | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/useconomy+economics?page=139",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=120&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEFDWXRhsYHt__SoBEfXkMY2elobTfiLRgg70jTAKo-rnwx44L",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "US economy + Economics | Page 139 of 156 | The Guardian",
+        "link": "https://www.theguardian.com/business/useconomy+economics?page=139",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEFDWXRhsYHt__SoBEfXkMY2elobTfiLRgg70jTAKo-rnwx44L",
+        "thumbnail_width": 96,
+        "thumbnail_height": 120,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/8/30/1283194514838/japan-markets-005.jpg?width=120&dpr=1&s=none&crop=5:4",
+        "image_width": 96,
+        "image_height": 120
+      },
+      "webpage": {
+        "text": "US economy + Economics | Page 139 of 158\n\nOctober 2010\n\n\n * US job figures worse than expected\n   \n   \n\n\n * World Bank calls for co-operation to halt full-scale currency war\n   \n   \n\n\n * The wrong way for the Fed to go about regaining face\n   \n   Joseph Stiglitz\n\n\n * Indiana still awaits Obama's promised green recovery\n   \n   \n\n\n * Bank of England split over calls for QE\n   \n   \n\n\n * Prospects for US economy either 'fairly bad' or 'very bad', warns Goldman Sachs\n   \n   \n\n * Economics viewpoint\n   \n   Global recovery's weakness raises possibility of trade war\n   \n   Larry Elliott Economics editor\n\n\nSeptember 2010\n\n\n * US politics is angry, polarised, and gridlocked. Can it be reformed?\n   \n   Timothy Garton Ash in Stanford\n\n * William Keegan's in my view\n   \n   Coalition's cutting edge blunted by lessons of Thatcher era\n   \n   William Keegan\n\n\n * As cheap money fails to lift US home sales, Spain tries austerity\n   \n   \n\n\n * World economy: The billion-pound punt\n   \n   \n\n * Viewpoint column\n   \n   Warren Buffett backtracks over US economy\n   \n   Nils Pratley\n\n\n * The 'rightwing backlash' that never was\n   \n   Mark Weisbrot\n\n\n * OECD predicts America will escape double-dip recession\n   \n   \n\n * Open thread\n   \n   Taxes: to cut or to hike?\n\n\n * Warren Buffett: No double-dip in US\n   \n   \n\n\n * The US economy: why it matters what sort of crisis we're in\n   \n   Dean Baker\n\n\n * A better way to fix the US housing crisis\n   \n   Joseph Stiglitz\n\n\n * Hedge fund Paulson & Co's bet on strong US recovery goes sour\n   \n   \n\n\n * The wholly fallible Ben Bernanke\n   \n   Dean Baker\n\nAbout 3,143 results for US economy + Economics",
+        "metadata": {
+          "title": "US economy + Economics | Page 139 of 158 | The Guardian",
+          "description": "Latest news, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "US economy and economics articles from The Guardian, October and September 2010, discussing US job figures, currency war, Federal Reserve, green recovery in Indiana, Bank of England, Goldman Sachs, trade war, US politics, Thatcher era, Spanish austerity, Warren Buffett, and Ben Bernanke.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Joseph Stiglitz",
+          "Obama",
+          "Timothy Garton Ash",
+          "William Keegan",
+          "Thatcher",
+          "Warren Buffett",
+          "Nils Pratley",
+          "Mark Weisbrot",
+          "Dean Baker",
+          "Paulson",
+          "Ben Bernanke"
+        ],
+        "LOCATION": [
+          "US",
+          "Indiana",
+          "Spain",
+          "America",
+          "Stanford"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "World Bank",
+          "Fed",
+          "Bank of England",
+          "Goldman Sachs",
+          "OECD",
+          "Paulson & Co"
+        ],
+        "DATE": [
+          "October 2010",
+          "September 2010"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7149331793619106
+    },
+    {
+      "titre": "Japanese worker's pay docked for taking lunch 3 minutes ...",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/news/asia/east-asia/article/2151783/japanese-workers-pay-docked-taking-lunch-3-minutes-early",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/images/methode/2018/06/21/b505a4a2-7512-11e8-aa4d-d2a0e82fc143_1280x720_132307.JPG?itok=4FAC8PG8",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKD1KxXcC3e4XzIVlEsHmaDLgWRbcfvFPJv3g_dCzgGKYl9sA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Japanese worker's pay docked for taking lunch 3 minutes ...",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/2151783/japanese-workers-pay-docked-taking-lunch-3-minutes-early",
+        "source": "South China Morning Post",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQfTGzmwZAXIdZshMmmFVqa_M9l-R-spfTaqiKOIdaxsPIJgDJdab9rJg6az9tb8mMjxAc8qtZiJESAKp2NBfThVc1Wq4qt8EDQrqjxGi_q4FY",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKD1KxXcC3e4XzIVlEsHmaDLgWRbcfvFPJv3g_dCzgGKYl9sA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/images/methode/2018/06/21/b505a4a2-7512-11e8-aa4d-d2a0e82fc143_1280x720_132307.JPG?itok=4FAC8PG8",
+        "image_width": 680,
+        "image_height": 1020
+      },
+      "webpage": {
+        "text": "Japanese worker’s pay docked for taking lunch 3 minutes early\n\nA Japanese city official has been reprimanded and fined for repeatedly leaving his desk during work hours – but only for around three minutes to buy lunch.\n\nThe official, who works at the waterworks bureau in the western city of Kobe, began his designated lunch break early 26 times over the space of seven months, according to a city spokesman.\n\n“The lunch break is from noon to 1pm. He left his desk before the break,” the spokesman said on Thursday.\n\nThe official, 64, had half a day’s pay docked as punishment and the bosses called a news conference to apologise.\n\n“It’s deeply regrettable that this misconduct took place. We’re sorry,” a bureau official told reporters, bowing deeply.\n\nThe worker was in violation of a public service law stating that officials have to concentrate on their jobs, according to the bureau.",
+        "metadata": {
+          "description": "The worker was reportedly in violation of a public service law stating that officials have to concentrate on their jobs",
+          "fb:app_id": "282931841805811",
+          "og:title": "Japanese worker’s pay docked for taking lunch 3 minutes early",
+          "og:description": "The worker was reportedly in violation of a public service law stating that officials have to concentrate on their jobs",
+          "og:url": "https://www.scmp.com/news/asia/east-asia/article/2151783/japanese-workers-pay-docked-taking-lunch-3-minutes-early",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/images/methode/2018/06/21/1e3bb0c0-7512-11e8-aa4d-d2a0e82fc143_image_hires_132307.JPG?itok=HTTxm6eO&v=1529558589",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "Japan, lunch\\, Kobe",
+          "news_keywords": "Japan, lunch\\, Kobe",
+          "article:section": "East Asia",
+          "article:tag": "Japan",
+          "article:published_time": "2018-06-21T13:23:10+08:00",
+          "article:modified_time": "2018-06-21T21:00:03+08:00",
+          "cXenseParse:author": "Agence France-Presse",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2018/06/21/1e3bb0c0-7512-11e8-aa4d-d2a0e82fc143_image_hires_132307.JPG?itok=xjRc-tfk&v=1529558589",
+          "al:ios:url": "scmp://news/asia/east-asia/article/2151783/japanese-workers-pay-docked-taking-lunch-3-minutes-early?entity=node&type=article&id=2151783",
+          "al:android:url": "scmp://news/asia/east-asia/article/2151783/japanese-workers-pay-docked-taking-lunch-3-minutes-early?entity=node&type=article&id=2151783"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A 64-year-old Japanese city official working at the waterworks bureau in Kobe had his pay docked and bosses apologized in a news conference after he left his desk 26 times over seven months for about three minutes to buy lunch before the designated break time.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Kobe"
+        ],
+        "ORGANIZATION": [
+          "South China Morning Post",
+          "waterworks bureau"
+        ],
+        "DATE": [
+          "Thursday",
+          "seven months"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7732320336820415
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Hong Kong",
+      "China"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "US",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 30, 2010",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Liam Byrne",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ha-Joon Chang",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Raymond Barrett",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Larry Elliott",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "George Osborne",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Bank",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Unctad",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Deloitte Touche Tohmatsu",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IMF",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alibaba",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "OECD",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Unicef",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2010",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1971",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next five years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Sloan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Williamson",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Isaac",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Asia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beijing",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "White House",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lehman Brothers",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Markit",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "4Cast",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US labour department",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Democrats",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Republicans",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1930s",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "start of 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "third quarter",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2009",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last week",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "prior week",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1999",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "US presidential election campaign",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "hurricane Isaac",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "purchasing managers index",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joseph Stiglitz",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Obama",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Timothy Garton Ash",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "William Keegan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Thatcher",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Warren Buffett",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nils Pratley",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Weisbrot",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dean Baker",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Paulson",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ben Bernanke",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Indiana",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "America",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Stanford",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Fed",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bank of England",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Goldman Sachs",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Paulson & Co",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2010",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kobe",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South China Morning Post",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "waterworks bureau",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "seven months",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T12:48:57.814296"
+  }
+}

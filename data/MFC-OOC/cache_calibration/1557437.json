@@ -1,0 +1,1014 @@
+{
+  "id_rumeur": 1557437,
+  "id_image": 1557437,
+  "caption": "Kintyre now has a cable linking it to Ayrshire",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747044/oluyewo_benchmark/i8mcravrsnw5dwcasvvi.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "New power link for Arran and Kintyre - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-scotland-glasgow-west-35764858",
+      "image_url": "http://c.files.bbci.co.uk/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAmyW5cvJ1w4APhL2lJp42TyC1lz8PU41UwC_8AszwocWk6P6",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "New power link for Arran and Kintyre - BBC News",
+        "link": "https://www.bbc.com/news/uk-scotland-glasgow-west-35764858",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAmyW5cvJ1w4APhL2lJp42TyC1lz8PU41UwC_8AszwocWk6P6",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "New power link for Arran and Kintyre\n\nPearse Murray, transmission director, for SP Energy Networks said it was a \"highly complex\" project which had been delivered ahead of time.\n\n\"As well as increasing security of electricity supply supplies, the new link will also provide new capacity and ensure that renewable energy generated in Kintyre can be transmitted to areas of demand in south and central Scotland and beyond.\"\n\nMore than 1,500 homes on the Isle of Arran and in Kintyre, Argyll and Bute, were left without power for a week after the storm on 22 March 2013.\n\nParts of Arran were cut off for 10 days.\n\nStuart Irvine, chairman of the East Kintyre Community Council, said it was reassuring that storms this winter had resulted in just the \"tiniest flicker\" to the lights, with no outage.",
+        "metadata": {
+          "description": "A major new power line serving Arran and Kintyre is completed, three years after snow storms left thousands of homes in the area without electricity.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A major new power line serving Arran and Kintyre is completed, three years after snow storms left thousands of homes in the area without electricity.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+          "og:image:alt": "Cable laying vessel",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "New power link for Arran and Kintyre",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-scotland-glasgow-west-35764858",
+          "article:section": "Glasgow & West Scotland",
+          "twitter:description": "A major new power line serving Arran and Kintyre is completed, three years after snow storms left thousands of homes in the area without electricity.",
+          "twitter:title": "New power link for Arran and Kintyre"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-scotland-glasgow-west-35764858",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-03-10T01:30:22.000Z",
+          "dateModified": "2016-03-10T01:30:22.000Z",
+          "description": "A major new power line serving Arran and Kintyre is completed, three years after snow storms left thousands of homes in the area without electricity.",
+          "headline": "New power link for Arran and Kintyre",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-scotland-glasgow-west-35764858",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un nouveau câble d'alimentation sous-marin et terrestre complexe, d'une valeur de 200 millions de livres, a été mis en service entre Arran et Kintyre. Porté par SP Energy Networks et Scottish Hydro Electric Transmission, il permet d'améliorer la sécurité de l'approvisionnement en électricité et de transmettre l'énergie renouvelable produite à Kintyre vers le sud et le centre de l'Écosse. Ce projet fait suite aux pannes d'électricité majeures provoquées par une tempête le 22 mars 2013.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Pearse Murray",
+          "Stuart Irvine"
+        ],
+        "LOCATION": [
+          "Arran",
+          "Kintyre",
+          "Argyll and Bute",
+          "East Kintyre",
+          "Scotland",
+          "Isle of Arran"
+        ],
+        "ORGANIZATION": [
+          "SP Energy Networks",
+          "BBC",
+          "East Kintyre Community Council"
+        ],
+        "DATE": [
+          "35764858",
+          "22 March 2013",
+          "this winter"
+        ],
+        "EVENT": [
+          "storm on 22 March 2013"
+        ],
+        "OTHER": [
+          "New power link for Arran and Kintyre"
+        ]
+      },
+      "score_e5": 0.79009740588311
+    },
+    {
+      "titre": "Estonian Defence Minister: EU May Introduce Baltic Sea Tax ...",
+      "source": "The Gaze",
+      "lien": "https://thegaze.media/news/estonian-defence-minister-eu-may-introduce-baltic-sea-tax-to-fund-underwater-cable-protection",
+      "image_url": "https://thegaze.media/storage/app/media/2025/January-25/06-01-25/Sea-electric-cable-12-3-26-eleringAS.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6iULW7uaPrZO7tqxO5n7FQ2hwHubdotNt9c2NMxTIbpvuAmBQ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Estonian Defence Minister: EU May Introduce Baltic Sea Tax ...",
+        "link": "https://thegaze.media/news/estonian-defence-minister-eu-may-introduce-baltic-sea-tax-to-fund-underwater-cable-protection",
+        "source": "The Gaze",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUVFRX___8AAAAQEBAsLCzy8vJtbW2wsLD29vYMDAxLS0vJycm1tbXk5ORDQ0MwMDB9fX0hISGOjo5oaGgbGxuqqqqkpKRAQECdnZ1YWFjd3d2VlZU5OTnBwcGFhYXs7OwkJCTnpph-AAAAuElEQVQ4jd2SyRKDIAxAIWiJUsGFutC6_P9XFkdnBIX23L4LM-QFQgIh_0YGHtd4fnNp9FmAB3VBxdxsC7SekCaOoHNLd48KLCkQMV3PLYo0KOy7XBKi-qiADZSU1iDniDAAGLsAdBgWRAW2TgHbe0M1mFzXz-ol4kXScSpHvDbqEDZm60xuq8-CWAyV7rCYQl8AxmXmCku7ttnwnRrYadgMFKX9h69AMokDsOv-gVaBNP-WL_Hf5g0VwAgKvnILGQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6iULW7uaPrZO7tqxO5n7FQ2hwHubdotNt9c2NMxTIbpvuAmBQ",
+        "thumbnail_width": 179,
+        "thumbnail_height": 281,
+        "image": "https://thegaze.media/storage/app/media/2025/January-25/06-01-25/Sea-electric-cable-12-3-26-eleringAS.jpg",
+        "image_width": 691,
+        "image_height": 1080
+      },
+      "webpage": {
+        "text": "Estonian Defence Minister: EU May Introduce Baltic Sea Tax to Fund Underwater Cable Protection\n\nPhoto: Estonian Defence Minister: EU May Introduce Baltic Sea Tax to Fund Underwater Cable Protection. Source: eleringAS\n\nThe European Union may introduce a tax on the use of the Baltic Sea for shipping companies to cover the cost of protecting critical infrastructure submarine cables.\n\nThis was stated by Estonian Defence Minister Hanno Pevkur, Reuters reports.\n\n‘One day, we may see that companies will have to pay a certain amount when passing through the Danish straits,’ Hanno Pevkur said.\n\nIn essence, the tax will be an ‘insurance fee for possible damage’ to seabed infrastructure. As an example, the Estonian defence minister cited airports that charge passengers a landing fee that is included in the ticket price. \n\nOther measures to protect underwater infrastructure are also being considered. In particular, the installation of sensors to detect anchors that are ‘dragged’ by the bottom and the construction of protective structures around cables, the Estonian Minister of Defence noted.\n\nHowever, all these measures are too expensive. As a result, consumers will have to pay more through higher taxes or utility bills. Instead, a tax on Baltic shipping could help avoid this. EU countries will have to make a decision on this issue in the near future, Pevkur added.\n\nOver the past few months, the Baltic Sea has seen many incidents of external deliberate damage to cables in the interests of Russia. As a result, the NATO fleet has stepped up patrols in the region.\n\nIn November 2024, Finland reported damage to a submarine telecommunications cable that runs through the Baltic Sea with Germany. At the same time, cables between Sweden and Lithuania were reported to have been broken.\n\nIn December, there were two new breaks in the internet cable on land in Espoo and Vihti between Sweden and Finland. In the same period, the Estlink 2 submarine cable connecting Finland and Estonia was damaged. The Central Criminal Police Office suspects that the damage to Estlink 2 in the Gulf of Finland, which connects Finland and Estonia, was most likely caused by the anchor of the Eagle S tanker, which is believed to be involved in Russia's shadow fleet.\n\nIn January 2025, the Helsinki District Court arrested a tanker suspected of damaging cables in the Baltic Sea. The crew of the tanker accused of cutting cables in the Baltic Sea planned to further damage cables and pipelines, said Risto Lohi, head of investigation at the Finnish National Bureau of Investigation. The crew of the tanker posed a threat to Estlink 1, another power line between Finland and Estonia, as well as to the BalticConnector gas pipeline.",
+        "metadata": {
+          "author": "Kitsoft",
+          "description": "The European Union may introduce a tax on the use of the Baltic Sea for shipping companies to cover the cost of protecting critical infrastructure submarine cables",
+          "title": "Estonian Defence Minister: EU May Introduce Baltic Sea Tax to Fund Underwater Cable Protection",
+          "twitter:title": "Estonian Defence Minister: EU May Introduce Baltic Sea Tax to Fund Underwater Cable Protection",
+          "twitter:description": "The European Union may introduce a tax on the use of the Baltic Sea for shipping companies to cover the cost of protecting critical infrastructure submarine cables",
+          "og:url": "https://thegaze.media/news/estonian-defence-minister-eu-may-introduce-baltic-sea-tax-to-fund-underwater-cable-protection",
+          "og:title": "Estonian Defence Minister: EU May Introduce Baltic Sea Tax to Fund Underwater Cable Protection",
+          "og:description": "The European Union may introduce a tax on the use of the Baltic Sea for shipping companies to cover the cost of protecting critical infrastructure submarine cables",
+          "og:image": "https://thegaze.media/storage/app/media/2025/January-25/06-01-25/Sea-electric-cable-12-3-26-eleringAS.jpg",
+          "twitter:image": "https://thegaze.media/storage/app/media/2025/January-25/06-01-25/Sea-electric-cable-12-3-26-eleringAS.jpg",
+          "og:image:width": "520",
+          "og:image:height": "315"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Union européenne pourrait introduire une taxe sur l'utilisation de la mer Baltique pour les compagnies maritimes afin de financer la protection des câbles sous-marins et des infrastructures critiques, selon le ministre estonien de la Défense Hanno Pevkur. Cette mesure intervient après plusieurs incidents de dommages survenus sur des câbles sous-marins et des gazoducs dans la région (entre la Finlande et l'Allemagne, la Suède et la Lituanie, ainsi que le câble Estlink 2), attribués par les autorités à des actes de sabotage ou à l'ancre du pétrolier Eagle S lié à la flotte fantôme russe.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hanno Pevkur",
+          "Risto Lohi"
+        ],
+        "LOCATION": [
+          "Baltic Sea",
+          "Danish straits",
+          "Germany",
+          "Sweden",
+          "Lithuania",
+          "Espoo",
+          "Vihti",
+          "Finland",
+          "Estonia",
+          "Gulf of Finland"
+        ],
+        "ORGANIZATION": [
+          "The Gaze",
+          "eleringAS",
+          "Reuters",
+          "NATO",
+          "Central Criminal Police Office",
+          "Helsinki District Court",
+          "Finnish National Bureau of Investigation"
+        ],
+        "DATE": [
+          "November 2024",
+          "December",
+          "January 2025",
+          "Over the past few months"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Eagle S",
+          "Estlink 2",
+          "Estlink 1",
+          "BalticConnector"
+        ]
+      },
+      "score_e5": 0.7088586469128576
+    },
+    {
+      "titre": "Nexans – stolt leverandør til Skagerrak 4 | Nexans",
+      "source": "NTB Kommunikasjon",
+      "lien": "https://kommunikasjon.ntb.no/pressemelding/6280680/nexans-stolt-leverandor-til-skagerrak-4?publisherId=89316",
+      "image_url": "https://kommunikasjon.ntb.no/data/images/00735/1041e208-06db-4d0c-a3c7-77e555c667c0.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_nFc8kKCzlYOPFJ4UUZn51hpGdri8igF3fmxOcTYXfGtxUwQJ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Nexans – stolt leverandør til Skagerrak 4 | Nexans",
+        "link": "https://kommunikasjon.ntb.no/pressemelding/6280680/nexans-stolt-leverandor-til-skagerrak-4?publisherId=89316",
+        "source": "NTB Kommunikasjon",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTa2nVb2fHyy3nlDNp7pTfd_VCbn_Sr7yY3J8IEps50tp_MCcnn-YmeIg08iSI60ypPaxc5Z3r12x0K3uPXKc9MYh5M9GtafmM79X4wwSHRvK7Ek_UMNkAEew",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_nFc8kKCzlYOPFJ4UUZn51hpGdri8igF3fmxOcTYXfGtxUwQJ",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://kommunikasjon.ntb.no/data/images/00735/1041e208-06db-4d0c-a3c7-77e555c667c0.jpg",
+        "image_width": 2832,
+        "image_height": 4256
+      },
+      "webpage": {
+        "text": "Nexans – stolt leverandør til Skagerrak 4\n\n12.3.2015 15:39:39 CET | Nexans | Pressemelding\n\nDel\n\n– Vi i Nexans er stolt leverandør av Skagerrak 4- kraftforbindelsen som i dag ble offisielt åpnet av kronprins Haakon og kronprins Fredrik. Skagerrak 4 bidrar til økt forsyningssikkerhet, mer fornybar kraftproduksjon og et mer klimavennlig energisystem i Norge og Danmark, sier kommunikasjonsdirektør Trude Larstad.\n\nTil prosjektet har Nexans produsert 140 km høyspent sjøkabel, som er lagt på havbunnen av Nexans’ eget kabelleggingsfartøy, C/S Nexans Skagerrak, mellom Bulberg nord for Limfjorden på Jylland til Fugleviksundet ved Kristiansand. I tillegg har Nexans også produsert og installert den 12km lange norske landkabelen.\n\nNexans har levert alle de fire Skagerrak-kablene\n\nNexans installerte de to første HVDC-sjøkablene over Skagerrak (SK 1–2) mellom 1976 og 1977 i et banebrytende prosjekt: De var på dette tidspunktet de lengste DC-kablene som noen gang var blitt installert. Kablene, som er beregnet på 250 kV, har i godt over 30 år gitt effektiv og pålitelig sammenkobling med en kapasitet på 500 MW mellom Danmark og Norge. I 1993 ble sammenkoblingen oppgradert med en tredje kabel fra Nexans (SK 3).\n\nKapasiteten var 1000MW med Skagerrak 1,2 og 3 til sammen. Med Skagerrak 4 koblet sammen med Skagerrak 3 økes den totale kapasiteten til 1700MW.\n\n\nKontakter\n\n\nTrude LarstadKommunikasjonsdirektør\n\nTel:+47 936 67 742trude.larstad@nexans.com\n\n\nBilder\n\n\nLenker\n\n * http://www.nexans.no\n\n\nOm Nexans\n\nOm Nexans Nexans tilfører verden energi gjennom et omfattende utvalg av kabler og kablingsløsninger som gir økt ytelse for kunder over hele verden. Nexans' ansatte bruker en tilnærming som er basert på partnersamarbeid, og som støtter kunder innenfor fire sentrale forretningsområder: kraftoverføring og -distribusjon (sjø og land), kraftressurser (olje og gass, gruvedrift og fornybar energi), transport (veg-, jernbane-, luft- og sjøtransport) og bygg (næringsbygg, boliger og datasentre). Nexans' strategi er basert på løpende innovasjon innenfor produkter, løsninger og tjenester, personalutvikling, kundeopplæring og lansering av trygge industriprosesser med minst mulig miljøpåvirkning. I 2013 opprettet Nexans – som første kabelaktør – en stiftelse for å iverksette bærekraftige tiltak som gir underprivilegerte lokalsamfunn over hele verden tilgang til kraft. Vi driver kommersiell virksomhet over hele verden, har produksjon i 40 land, sysselsetter nærmere 26 000 medarbeidere og hadde en omsetning på nesten 6,4 milliarder euro i 2014. Selskapet er notert på børsen i Paris. Du finner flere opplysninger på: www.nexans.com Om Nexans Norway Nexans Norway AS er ledende leverandør av kraft-, tele-, installasjons- og varmekabler i Norge, og er blant verdens ledende innen offshore-kontrollkabler og høyspente sjøkabler. Selskapet har hovedkontor i Oslo, produksjonsanlegg på Rognan, Namsos, Langhus, Karmøy og Halden. Selskapet har omlag 1 600 ansatte og er organisert i tre divisjoner: Market Lines, Hybrid Underwater Cable og Submarine High Voltage. Du finner flere opplysninger hvis du klikker deg inn på www.nexans.no.",
+        "metadata": {
+          "title": "World Globe",
+          "description": "– Vi i Nexans er stolt leverandør av Skagerrak 4- kraftforbindelsen som i dag ble offisielt åpnet av kronprins Haakon og kronprins Fredrik. Skagerrak 4 bidrar til økt forsyningssikkerhet, mer fornybar kraftproduksjon og et mer klimavennlig energisystem i Norge og Danmark, sier kommunikasjonsdirektør Trude Larstad.",
+          "og:type": "article",
+          "og:title": "Nexans – stolt leverandør til Skagerrak 4 | Nexans",
+          "og:description": "– Vi i Nexans er stolt leverandør av Skagerrak 4- kraftforbindelsen som i dag ble offisielt åpnet av kronprins Haakon og kronprins Fredrik. Skagerrak 4 bidrar til økt forsyningssikkerhet, mer fornybar kraftproduksjon og et mer klimavennlig energisystem i Norge og Danmark, sier kommunikasjonsdirektør Trude Larstad.",
+          "og:url": "https://kommunikasjon.ntb.no/pressemelding/6280680/nexans-stolt-leverandor-til-skagerrak-4?publisherId=89316",
+          "og:image": "https://kommunikasjon.ntb.no/data/images/00735/1041e208-06db-4d0c-a3c7-77e555c667c0-w_960.jpg",
+          "og:image:secure_url": "https://kommunikasjon.ntb.no/data/images/00735/1041e208-06db-4d0c-a3c7-77e555c667c0-w_960.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La liaison par câble à haute tension Skagerrak 4 a été officiellement inaugurée par le kronprins Haakon et le kronprins Fredrik. Réalisée par Nexans qui a fourni 140 km de câble sous-marin posé par le navire C/S Nexans Skagerrak et 12 km de câble terrestre, cette liaison relie Bulberg (Danemark) à Fugleviksundet près de Kristiansand (Norvège). Ce projet vise à accroître la sécurité d'approvisionnement et le partage d'énergie renouvelable entre les deux pays, en augmentant la capacité totale combinée à 1700 MW avec Skagerrak 3.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Trude Larstad",
+          "Haakon",
+          "Fredrik"
+        ],
+        "LOCATION": [
+          "Norge",
+          "Danmark",
+          "Bulberg",
+          "Limfjorden",
+          "Jylland",
+          "Fugleviksundet",
+          "Kristiansand",
+          "Oslo",
+          "Rognan",
+          "Namsos",
+          "Langhus",
+          "Karmøy",
+          "Halden",
+          "Paris"
+        ],
+        "ORGANIZATION": [
+          "NTB Kommunikasjon",
+          "Nexans",
+          "Nexans Norway AS"
+        ],
+        "DATE": [
+          "12.3.2015",
+          "1976",
+          "1977",
+          "30 år",
+          "1993",
+          "2013",
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Skagerrak 4",
+          "C/S Nexans Skagerrak",
+          "Skagerrak 1,2 and 3"
+        ]
+      },
+      "score_e5": 0.7271508908310744
+    },
+    {
+      "titre": "Finnish authorities have seized a ship carrying Russian oil ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/rnznewzealand/posts/finnish-authorities-have-seized-a-ship-carrying-russian-oil-in-the-baltic-sea-on/1024692929696655/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1004505148191313",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUDLyHeozmW6-ynxMfp0LMFefsxpzzaJhkda-n90Iio-uj1cxF",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Finnish authorities have seized a ship carrying Russian oil ...",
+        "link": "https://www.facebook.com/rnznewzealand/posts/finnish-authorities-have-seized-a-ship-carrying-russian-oil-in-the-baltic-sea-on/1024692929696655/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUDLyHeozmW6-ynxMfp0LMFefsxpzzaJhkda-n90Iio-uj1cxF",
+        "thumbnail_width": 178,
+        "thumbnail_height": 283,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1004505148191313",
+        "image_width": 800,
+        "image_height": 1268
+      },
+      "webpage": {
+        "text": "RNZ - Finnish authorities have seized a ship carrying...\n\nFinnish authorities have seized a ship carrying Russian oil in the Baltic Sea on suspicion it caused the outage of an undersea power cable connecting Finland and Estonia a day earlier, and that it... Lihat lainnya\n\nRNZ.CO.NZ\n\nFinland boards oil tanker suspected of causing internet, power cable outages\n\nThe ship is suspected of causing the outage of an undersea power cable in the Baltic Sea connecting Finland and Estonia, and damaging four internet lines.",
+        "metadata": {
+          "title": "RNZ - Finnish authorities have seized a ship carrying... | Facebook",
+          "og:type": "video.other",
+          "og:title": "RNZ",
+          "og:description": "Finnish authorities have seized a ship carrying Russian oil in the Baltic Sea on suspicion it caused the outage of an undersea power cable connecting Finland and Estonia a day earlier, and that it...",
+          "og:url": "https://www.facebook.com/rnznewzealand/posts/finnish-authorities-have-seized-a-ship-carrying-russian-oil-in-the-baltic-sea-on/1024692929696655/",
+          "og:image:alt": "RNZ",
+          "og:image": "https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/4917767028094099181?url=https%3A%2F%2Fmedia.rnztools.nz%2Frnz%2Fimage%2Fupload%2Fs--u-zibXxn--%2Ft_tohu-badge-facebook%2Fv1735261244%2F4KEIL0C_finland_russia_crop_jpg%3F_a%3DBACCd2AD&fb_obo=1&utld=rnztools.nz&dfr=1&_nc_sid=867500&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-jpg_e15_p600x600_q65_tt6&ccb=18-1&_nc_gid=s1OdGDoWJWkA0Dj0hfF7fA&_nc_zt=3&oh=06_Q3_DAVv6gJOtTWuEWIIZmm8KHlgTjX0lfpbFmNozhqpybYhy&oe=6A9EA4F7",
+          "og:locale": "en_US",
+          "description": "Finnish authorities have seized a ship carrying Russian oil in the Baltic Sea on suspicion it caused the outage of an undersea power cable connecting...",
+          "twitter:title": "RNZ",
+          "twitter:description": "Finnish authorities have seized a ship carrying Russian oil in the Baltic Sea on suspicion it caused the outage of an undersea power cable connecting Finland and Estonia a day earlier, and that it..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les autorités finlandaises ont arraisonné dans la mer Baltique un navire transportant du pétrole russe, soupçonné d'avoir provoqué la panne d'un câble électrique sous-marin reliant la Finlande et l'Estonie ainsi que des dommages sur quatre lignes Internet.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Baltic Sea",
+          "Finland",
+          "Estonia"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "RNZ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7000528819568428
+    },
+    {
+      "titre": "Loidhne ùr dealain deiseil - Naidheachdan a' BhBC",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/naidheachdan/35772282",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQEqKCmAXoHdLs365M0cqWBb5p2UvGnNnpxLaeVZMqCzfQOHDd",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Loidhne ùr dealain deiseil - Naidheachdan a' BhBC",
+        "link": "https://www.bbc.com/naidheachdan/35772282",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQEqKCmAXoHdLs365M0cqWBb5p2UvGnNnpxLaeVZMqCzfQOHDd",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Loidhne ùr dealain deiseil\n\nThathas air crìoch a chur air loidhne dealain ùr do dh'Eilean Arainn is Cinn Tìre trì bliadhna an dèidh mar a thug stoirmean crainn-dealain a-nuas, a' fàgail nam mìltean às aonais dealain.\n\nTha 25 mìle den loidhne ùr fon mhuir, a' ceangal Cinn Tìre le tìr-mòr Shiorrachd Àir.\n\nMar a bha dùil chosg am pròiseact £200m, agus chaidh crìoch a chur air a rèir a' chlàr-ama leis an dà chompanaidh air a chùlaibh, Electric Transmission Hydro na h-Alba agus SP Energy Networks.\n\nBha ìmpidh a bharrachd air ri linn 's gun robh leasachadh tuath-gaoithe ann an Cinn Tìre feumach ceangal ris a' ghriod.\n\nTha na companaidhean air a chùlaibh ag ràdh gum bi an loidhne ùr nas seasmhachd ann an droch shìde, agus tha na companaidhean cumhachd ag ràdh gum bi seirbheis nas earbsaich aca dha muinntir na sgìre.\n\nChur comhairlichean fàilte air an naidheachd cuideachd, ag ràdh gu bheil iad an dòchas nach tèid dachaighean fhàgail gun dealan a-rithist mar a thachair ann an 2013.",
+        "metadata": {
+          "description": "Loidhne ùr dealain fo Linne Chluaidh eadar Siorrachd Àir, Arainn is Cinn Tìre air a chrìochnachadh, an dèidh mar a thug stoirm crainn-dealain a-nuas ann an 2013.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Loidhne ùr dealain fo Linne Chluaidh eadar Siorrachd Àir, Arainn is Cinn Tìre air a chrìochnachadh, an dèidh mar a thug stoirm crainn-dealain a-nuas ann an 2013.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_naidheachdan/1200/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+          "og:image:alt": "Soitheach a' cur càbaill fon mhuir",
+          "og:locale": "gd_GB",
+          "og:site_name": "Naidheachdan a' BhBC",
+          "og:title": "Loidhne ùr dealain deiseil",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/naidheachdan/35772282",
+          "article:section": "Dachaigh",
+          "twitter:description": "Loidhne ùr dealain fo Linne Chluaidh eadar Siorrachd Àir, Arainn is Cinn Tìre air a chrìochnachadh, an dèidh mar a thug stoirm crainn-dealain a-nuas ann an 2013.",
+          "twitter:title": "Loidhne ùr dealain deiseil"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/naidheachdan/35772282",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Naidheachdan a' BhBC",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/naidheachdan/images/metadata/poster-1024x576.3371acbf18.png"
+            }
+          },
+          "datePublished": "2016-03-10T14:59:47.000Z",
+          "dateModified": "2016-03-10T14:59:47.000Z",
+          "description": "Loidhne ùr dealain fo Linne Chluaidh eadar Siorrachd Àir, Arainn is Cinn Tìre air a chrìochnachadh, an dèidh mar a thug stoirm crainn-dealain a-nuas ann an 2013.",
+          "headline": "Loidhne ùr dealain deiseil",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_naidheachdan/1200/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_naidheachdan/1200/cpsprodpb/09F2/production/_88664520_cablelayingvesselskagerrak-medium.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/naidheachdan/35772282",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "Naidheachdan a' BhBC",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/naidheachdan/images/metadata/poster-1024x576.3371acbf18.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une nouvelle ligne électrique de 25 milles sous la mer reliant Kintyre à la terre ferme du comté d'Ayr a été achevée pour l'île d'Arran, trois ans après que des tempêtes ont détruit les infrastructures et privé des milliers de personnes d'électricité. D'un coût de 200 millions de livres, le projet a été mené à bien par Scottish Hydro Electric Transmission et SP Energy Networks afin de répondre aux besoins d'un parc éolien terrestre à Kintyre et d'assurer un service plus résistant face aux intempéries.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Eilean Arainn",
+          "Cinn Tìre",
+          "Shiorrachd Àir"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Electric Transmission Hydro",
+          "SP Energy Networks"
+        ],
+        "DATE": [
+          "2013"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7987389230160635
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Kintyre",
+      "Ayrshire"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "cable"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Pearse Murray",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Stuart Irvine",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Arran",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kintyre",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Argyll and Bute",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Kintyre",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Isle of Arran",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SP Energy Networks",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "East Kintyre Community Council",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "35764858",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "22 March 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "this winter",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "storm on 22 March 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "New power link for Arran and Kintyre",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hanno Pevkur",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Risto Lohi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Baltic Sea",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Danish straits",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sweden",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lithuania",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Espoo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vihti",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Finland",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Estonia",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gulf of Finland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Gaze",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "eleringAS",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NATO",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Central Criminal Police Office",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Helsinki District Court",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Finnish National Bureau of Investigation",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 2024",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 2025",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Over the past few months",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Eagle S",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Estlink 2",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Estlink 1",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "BalticConnector",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Trude Larstad",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Haakon",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Fredrik",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Norway",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Denmark",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bulberg",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Limfjorden",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jylland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fugleviksundet",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kristiansand",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oslo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rognan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Namsos",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Langhus",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Karmøy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Halden",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NTB Kommunikasjon",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nexans",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nexans Norway AS",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12.3.2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1976",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1977",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30 år",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1993",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Skagerrak 4",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "C/S Nexans Skagerrak",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Skagerrak 1,2 and 3",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "RNZ",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Eilean Arainn",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cinn Tìre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shiorrachd Àir",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Electric Transmission Hydro",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T00:56:00.570714"
+  }
+}

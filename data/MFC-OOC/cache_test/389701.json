@@ -1,0 +1,508 @@
+{
+  "id_rumeur": "389701",
+  "id_image": "389701",
+  "caption": "A motorist right who abandoned a vehicle walks through stopped traffic on northbound Interstate 85 during a winter storm in Durham NC",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122822/389701.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Photos: In 2014, a Valentine's Day snowpocalypse paralyzed the Triangle - AOL",
+      "source": "AOL.com",
+      "lien": "https://www.aol.com/photos-2014-valentine-day-snowpocalypse-175932714.html",
+      "image_url": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/7398e00cfeab509c9a82fd1afeb37777",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Br-BeQ9QOChoW9xANQN090svxWHL4_dq7lUxVDQDpDngpRFP",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Photos: In 2014, a Valentine's Day snowpocalypse paralyzed the Triangle - AOL",
+        "source": "AOL.com",
+        "link": "https://www.aol.com/photos-2014-valentine-day-snowpocalypse-175932714.html",
+        "imageUrl": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/7398e00cfeab509c9a82fd1afeb37777",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Br-BeQ9QOChoW9xANQN090svxWHL4_dq7lUxVDQDpDngpRFP"
+      },
+      "webpage": {
+        "text": "Photos: In 2014, a Valentine’s Day snowpocalypse paralyzed the Triangle\n\nTue, February 13, 2024 at 5:59 PM UTC\n\n\nTake a look back at the storm with photos from The News & Observer archive.\n\nTen years ago the Triangle was all but paralyzed by a perfect storm of freezing rain and snow.\n\nOn Feb. 12, 13 and 14, 2014, drivers abandoned their cars as roads became snarled with traffic and impassable for many.\n\nHere's a look back at the storm from The News & Observer photo archives.",
+        "metadata": {
+          "title": "Photos: In 2014, a Valentine’s Day snowpocalypse paralyzed the Triangle - AOL",
+          "description": "Take a look back at the storm with photos from The News & Observer archive.",
+          "author": "AOL",
+          "fb:app_id": "183146218394780",
+          "og:title": "Photos: In 2014, a Valentine’s Day snowpocalypse paralyzed the Triangle - AOL",
+          "og:description": "Take a look back at the storm with photos from The News & Observer archive.",
+          "og:url": "https://www.aol.com/news/photos-2014-valentine-day-snowpocalypse-175932714.html",
+          "og:site_name": "AOL.com",
+          "og:image": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/7398e00cfeab509c9a82fd1afeb37777",
+          "og:image:height": "547",
+          "og:image:width": "820",
+          "og:type": "article",
+          "twitter:title": "Photos: In 2014, a Valentine’s Day snowpocalypse paralyzed the Triangle - AOL",
+          "twitter:description": "Take a look back at the storm with photos from The News & Observer archive.",
+          "al:ios:app_name": "Aol App",
+          "al:ios:app_store_id": "646100661",
+          "al:android:app_name": "Aol App",
+          "al:android:package": "com.aol.mobile.aolapp"
+        },
+        "jsonld": {
+          "@type": "NewsArticle",
+          "@context": "http://schema.org",
+          "articleSection": null,
+          "headline": "Photos: In 2014, a Valentine’s Day snowpocalypse paralyzed the Triangle",
+          "datePublished": "2024-02-13T17:59:32+00:00",
+          "dateModified": "2024-02-13T17:59:32+00:00",
+          "mainEntityOfPage": "https://www.aol.com/news/photos-2014-valentine-day-snowpocalypse-175932714.html",
+          "keywords": [],
+          "description": "Take a look back at the storm with photos from The News & Observer archive.",
+          "publisher": null,
+          "author": {
+            "@type": "Person",
+            "name": "Scott Sharpe",
+            "url": "",
+            "jobTitle": ""
+          },
+          "creator": {
+            "@type": "Person",
+            "name": "Scott Sharpe",
+            "url": "",
+            "jobTitle": ""
+          },
+          "provider": {
+            "@type": "Organization",
+            "name": "Raleigh News and Observer",
+            "url": "https://www.newsobserver.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://hermes.media.static.aol.com/logos/96x96/aol_raleigh_news_and_observer_mcclatchy_356.png",
+              "width": null,
+              "height": null
+            }
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/7398e00cfeab509c9a82fd1afeb37777",
+            "width": null,
+            "height": null
+          },
+          "thumbnailUrl": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/7398e00cfeab509c9a82fd1afeb37777"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "En février 2014, une tempête hivernale de verglas et de neige (Snowpocalypse de la Saint-Valentin) a paralysé la région du Triangle les 12, 13 et 14 février 2014, provoquant des embouteillages monstres et forçant les automobilistes à abandonner leurs véhicules, d'après les archives photographiques de The News & Observer.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Triangle"
+        ],
+        "ORGANIZATION": [
+          "AOL",
+          "The News & Observer"
+        ],
+        "DATE": [
+          "2014",
+          "February 13, 2024",
+          "Ten years ago",
+          "Feb. 12, 13 and 14, 2014"
+        ],
+        "EVENT": [
+          "Valentine's Day snowpocalypse"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7654760389951365
+    },
+    {
+      "titre": "暴雪狂風豪雨英美同日受難| 張凱耀| 新聞- 風傳媒",
+      "source": "風傳媒",
+      "lien": "https://www.storm.mg/article/27316",
+      "image_url": "https://images.storm.mg/cloud/0e8b55f8cdf12a0314d6fa10a8f67043701feaff.webp?url=s3://new-storm-public-resource/gallery/1658378/20141219-092801_M27512_087e.jpg&g=sm&h=675&resize=fill&w=1200&wm_opacity=1&wm_position=soea&wm_scale=0.2&wm_x=26&wm_y=26&wmu=https://image.cache.storm.mg/logo/logo_white.svg&format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyOQUStCg08N5XG5hOp11RgBKqYUTb_MJx0yB5tzVlIX_Xmd2",
+      "rang_lens": 2,
+      "brut": {
+        "title": "暴雪狂風豪雨英美同日受難| 張凱耀| 新聞- 風傳媒",
+        "source": "風傳媒",
+        "link": "https://www.storm.mg/article/27316",
+        "imageUrl": "https://images.storm.mg/cloud/0e8b55f8cdf12a0314d6fa10a8f67043701feaff.webp?url=s3://new-storm-public-resource/gallery/1658378/20141219-092801_M27512_087e.jpg&g=sm&h=675&resize=fill&w=1200&wm_opacity=1&wm_position=soea&wm_scale=0.2&wm_x=26&wm_y=26&wmu=https://image.cache.storm.mg/logo/logo_white.svg&format=webp",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyOQUStCg08N5XG5hOp11RgBKqYUTb_MJx0yB5tzVlIX_Xmd2"
+      },
+      "webpage": {
+        "text": "暴雪狂風豪雨 英美同日受難 | 張凱耀 | 新聞\n\n冬季一向溫暖的美國南方12日受到暴風雪侵襲，災情慘重。頻繁的車禍及惡劣天氣已造成11死，公路與航空交通大亂，數十萬戶人家電力供應中斷。兩星期前才被風暴肆虐的南方商業重鎮亞特蘭大，再度面臨嚴峻考驗。歐巴馬總統已宣布南卡羅萊納州與喬治亞州部分地區為災區，提供聯邦援助。\n\n美國南部各州交通嚴重受到影響，德州一輛救護車因路面濕滑，衝出路面並引發火燒車，3人死於車內。南、北卡羅萊納州的民眾爭相趕回家中避雪，使得交通嚴重回堵，大批車輛受困風雪之中，許多民眾索性棄車步行回家。空中交通亦呈現癱瘓狀態，約有3300個航班因暴雪取消，2000個航班受到延誤。\n\n傾倒的路樹已危及電力供應，喬治亞州有20萬戶停電。南卡羅萊納州及路易斯安納州亦有數萬戶家庭失去電力。喬治亞電力公司（Georgia Power）發言人芬克表示，喬治亞州部分地區可能要一個星期後才能恢復電力供應，「暴風雪的影響威力，遠遠超乎原先預期。」\n\n遠在大西洋另一側的英國也同患難，12日再度受到新一波風暴襲擊，預估泰晤士河水位將會突破60年新高，嚴重威脅倫敦西側城鎮。除了強降雨，這一波氣流的風勢同樣驚人，每小時160公里的風速已屬颶風等級，英國氣象局已針對南部的威爾斯（Wales）及英格蘭西北部地區發布最高級別的紅色預警。\n\n威爾特郡（Wiltshire）一名男子試圖搬移路上傾倒樹枝時，不幸遭到垂落的電線電擊而死。強風破壞了威爾斯地區的電力系統，造成近15萬戶停電。強降雨也讓泰晤士河躁動擺尾，自從1月29日以來，河畔沿岸約有1100座建物泡水。\n\n英國氣象預報估計，英格蘭西南部地區14日降雨量將達70公釐，恐再釀更大災情。遭批救災不利的英國政府不敢大意，已調派2000名軍人投入救災工作。英國首相卡麥隆指示，「不計成本，全力救災。」",
+        "metadata": {
+          "title": "暴雪狂風豪雨 英美同日受難 | 張凱耀 | 新聞 - 風傳媒",
+          "fb:app_id": "917307478388825",
+          "author": "張凱耀",
+          "description": "冬季一向溫暖的美國南方12日受到暴風雪侵襲，災情慘重。頻繁的車禍及惡劣天氣已造成11死，公路與航空交通大亂，數十萬戶人家電力供應中斷。兩星期前才被風暴肆虐的南方商業重鎮亞特蘭大，再度面臨嚴峻考驗。歐巴馬總統已宣布南卡羅萊納州與喬治亞州部分地區為災區，提供聯邦援助。",
+          "og:title": "暴雪狂風豪雨 英美同日受難 | 張凱耀 | 新聞",
+          "og:description": "冬季一向溫暖的美國南方12日受到暴風雪侵襲，災情慘重。頻繁的車禍及惡劣天氣已造成11死，公路與航空交通大亂，數十萬戶人家電力供應中斷。兩星期前才被風暴肆虐的南方商業重鎮亞特蘭大，再度面臨嚴峻考驗。歐巴馬總統已宣布南卡羅萊納州與喬治亞州部分地區為災區，提供聯邦援助。",
+          "og:url": "https://www.storm.mg/article/27316",
+          "og:image": "https://images.storm.mg/cloud/0e8b55f8cdf12a0314d6fa10a8f67043701feaff.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1658378%2F20141219-092801_M27512_087e.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+          "og:type": "article",
+          "twitter:title": "暴雪狂風豪雨 英美同日受難 | 張凱耀 | 新聞",
+          "twitter:description": "冬季一向溫暖的美國南方12日受到暴風雪侵襲，災情慘重。頻繁的車禍及惡劣天氣已造成11死，公路與航空交通大亂，數十萬戶人家電力供應中斷。兩星期前才被風暴肆虐的南方商業重鎮亞特蘭大，再度面臨嚴峻考驗。歐巴馬總統已宣布南卡羅萊納州與喬治亞州部分地區為災區，提供聯邦援助。",
+          "keywords": "停電,暴風雪,強降雨",
+          "article:section": "新聞",
+          "article:author": "https://www.facebook.com/stormmedia",
+          "news_keywords": "停電,暴風雪,強降雨",
+          "fb:pages": "100069746205440"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.storm.mg/article/27316#article",
+              "articleBody": "冬季一向溫暖的美國南方12日受到暴風雪侵襲，災情慘重。頻繁的車禍及惡劣天氣已造成11死，公路與航空交通大亂，數十萬戶人家電力供應中斷。兩星期前才被風暴肆虐的南方商業重鎮亞特蘭大，再度面臨嚴峻考驗。歐巴馬總統已宣布南卡羅萊納州與喬治亞州部分地區為災區，提供聯邦援助。 美國南部各州交通嚴重受到影響，德州一輛救護車因路面濕滑，衝出路面並引發火燒車，3人死於車內。南、北卡羅萊納州的民眾爭相趕回家中避雪，使得交通嚴重回堵，大批車輛受困風雪之中，許多民眾索性棄車步行回家。空中交通亦呈現癱瘓狀態，約有3300個航班因暴雪取消，2000個航班受到延誤。 傾倒的路樹已危及電力供應，喬治亞州有20萬戶停電。南卡羅萊納州及路易斯安納州亦有數萬戶家庭失去電力。喬治亞電力公司（Georgia Power）發言人芬克表示，喬治亞州部分地區可能要一個星期後才能恢復電力供應，「暴風雪的影響威力，遠遠超乎原先預期。」 遠在大西洋另一側的英國也同患難，12日再度受到新一波風暴襲擊，預估泰晤士河水位將會突破60年新高，嚴重威脅倫敦西側城鎮。除了強降雨，這一波氣流的風勢同樣驚人，每小時160公里的風速已屬颶風等級，英國氣象局已針對南部的威爾斯（Wales）及英格蘭西北部地區發布最高級別的紅色預警。 威爾特郡（Wiltshire）一名男子試圖搬移路上傾倒樹枝時，不幸遭到垂落的電線電擊而死。強風破壞了威爾斯地區的電力系統，造成近15萬戶停電。強降雨也讓泰晤士河躁動擺尾，自從1月29日以來，河畔沿岸約有1100座建物泡水。 英國氣象預報估計，英格蘭西南部地區14日降雨量將達70公釐，恐再釀更大災情。遭批救災不利的英國政府不敢大意，已調派2000名軍人投入救災工作。英國首相卡麥隆指示，「不計成本，全力救災。」",
+              "articleSection": "新聞",
+              "author": {
+                "@type": "Person",
+                "@id": "https://www.storm.mg/author/2416#person",
+                "name": "張凱耀",
+                "url": "https://www.storm.mg/author/2416"
+              },
+              "dateCreated": "2014-02-13T11:15:27+08:00",
+              "dateModified": "2025-01-17T12:42:06+08:00",
+              "datePublished": "2014-02-13T11:15:27+08:00",
+              "description": "冬季一向溫暖的美國南方12日受到暴風雪侵襲，災情慘重。頻繁的車禍及惡劣天氣已造成11死，公路與航空交通大亂，數十萬戶人家電力供應中斷。兩星期前才被風暴肆虐的南方商業重鎮亞特蘭大，再度面臨嚴峻考驗。歐巴馬總統已宣布南卡羅萊納州與喬治亞州部分地區為災區，提供聯邦援助。",
+              "headline": "暴雪狂風豪雨 英美同日受難",
+              "image": {
+                "@type": "ImageObject",
+                "height": "900",
+                "url": "https://images.storm.mg/cloud/0e8b55f8cdf12a0314d6fa10a8f67043701feaff.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1658378%2F20141219-092801_M27512_087e.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+                "width": "1600"
+              },
+              "keywords": [
+                "停電",
+                "暴風雪",
+                "強降雨"
+              ],
+              "publisher": {
+                "@id": "https://www.storm.mg/#organization",
+                "@type": "NewsMediaOrganization",
+                "url": "https://www.storm.mg"
+              },
+              "thumbnailUrl": "https://images.storm.mg/cloud/0e8b55f8cdf12a0314d6fa10a8f67043701feaff.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1658378%2F20141219-092801_M27512_087e.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+              "url": "https://www.storm.mg/article/27316"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le 12 février, le sud des États-Unis et le Royaume-Uni ont été frappés par de violentes intempéries (tempêtes, tempête de neige, fortes pluies). Aux États-Unis, la tempête a causé 11 morts, des accidents, des pannes de courant (200 000 foyers en Géorgie) et des perturbations majeures des transports (fermeture de l'aéroport, annulation de 3 300 vols, abandon de véhicules), touchant notamment l'Atlanta, la Géorgie, la Caroline du Sud, la Caroline du Nord, le Texas et la Louisiane. Le président Obama a déclaré des zones sinistrées en Caroline du Sud et en Géorgie. Au Royaume-Uni, des vents de force d'ouragan et des pluies torrentielles ont provoqué la crue de la Tamise, des inondations (1 100 bâtiments touchés depuis le 29 janvier), la mort d'un homme dans le Wiltshire électrocuté par un câble, des pannes de courant pour 150 000 foyers au pays de Galles, et le déploiement de 2 000 militaires pour les secours ordonnés par le Premier ministre David Cameron.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "张凯耀",
+          "歐巴馬",
+          "芬克",
+          "卡麥隆"
+        ],
+        "LOCATION": [
+          "美國",
+          "英國",
+          "亞特蘭大",
+          "南卡羅萊納州",
+          "喬治亞州",
+          "德州",
+          "南卡羅萊納州",
+          "北卡羅萊納州",
+          "路易斯安納州",
+          "泰晤士河",
+          "倫敦",
+          "威爾斯",
+          "英格蘭",
+          "威爾特郡",
+          "英格蘭西南部"
+        ],
+        "ORGANIZATION": [
+          "風傳媒",
+          "喬治亞電力公司",
+          "英國氣象局",
+          "英國政府"
+        ],
+        "DATE": [
+          "12日",
+          "两星期前",
+          "1月29日",
+          "14日"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7302467164975399
+    },
+    {
+      "titre": "Winter Storm Pax 2014 | Pictures | PS Celebrity",
+      "source": "Popsugar",
+      "lien": "https://www.popsugar.com/celebrity/winter-storm-pax-2014-pictures-34023784",
+      "image_url": "https://media1.popsugar-assets.com/files/thumbor/pHRPZxR1KU7M_8NF4onxQ1rOPVk=/fit-in/792x513/top/filters:format_auto():upscale()/2014/02/13/769/n/1922398/aec4b5c05e90f544_469039855_10.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_r7ZTapFQpX81u9LcPggxa0gnrF0fFB2n0JH3MFIsjeMJtu4p",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Winter Storm Pax 2014 | Pictures | PS Celebrity",
+        "source": "Popsugar",
+        "link": "https://www.popsugar.com/celebrity/winter-storm-pax-2014-pictures-34023784",
+        "imageUrl": "https://media1.popsugar-assets.com/files/thumbor/pHRPZxR1KU7M_8NF4onxQ1rOPVk=/fit-in/792x513/top/filters:format_auto():upscale()/2014/02/13/769/n/1922398/aec4b5c05e90f544_469039855_10.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_r7ZTapFQpX81u9LcPggxa0gnrF0fFB2n0JH3MFIsjeMJtu4p"
+      },
+      "webpage": {
+        "text": "Winter Storm Pax 2014 | Pictures\n\nIs This the Craziest Winter Storm Yet?\n\nCan you believe there's even more wild Winter weather? People across the South have taken to Instagram to share crazy pictures of Winter Storm Pax, and now the effects are hitting areas like NYC and Washington DC, too. The storm forecast shows that more snow is expected across the Southeast, but the storm should slow down late Thursday. In the meantime, icy conditions have left more than half a million people without power, traffic jams have forced people to abandon their cars on snowy highways, and windy, blizzard-like weather is making for extreme conditions in parts of the Northeast. Bundle up, and take a look at some of the craziest pictures from this week's storm.\n\nDurham, NC, saw dangerous traffic jams, with some people forced to abandon their cars.\n\nParts of DC were hit with up to 12 inches of snow, and some people took advantage of the heavy snowfall by sledding near the US Capitol.\n\nPeople were encouraged to stay off the roads in Raleigh, NC, where a state of emergency was declared.",
+        "metadata": {
+          "title": "Winter Storm Pax 2014 | Pictures | PS Celebrity",
+          "keywords": "popsugar, laura marie meyers, celebrity, news, weather",
+          "description": "PS makes wellness more accessible through real-life stories, first-person perspectives, and expert-backed information. Our staff of journalists and subject-matter experts research, report, and produce articles, videos, and social content that help people feel good about their well-being choices, no matter what they are. Via our core verticals — Health, Fitness, Beauty, Balance, Identity, and Shopping — we help our audience proceed with confidence. ",
+          "article:publisher": "https://www.facebook.com/PopSugar",
+          "article:author": "Laura Marie Meyers",
+          "author": "Laura Marie Meyers",
+          "article:published_time": "2014-02-13T17:27:45.000Z",
+          "article:modified_time": "2014-02-13T18:50:29.000Z",
+          "parsely-title": "Is This the Craziest Winter Storm Yet?",
+          "parsely-author": "Laura Marie Meyers",
+          "fb:pages": "112402358796244",
+          "fb:app_id": "175338224756",
+          "og:site_name": "Popsugar",
+          "og:url": "https://www.popsugar.com/celebrity/winter-storm-pax-2014-pictures-34023784",
+          "og:type": "article",
+          "og:title": "Is This the Craziest Winter Storm Yet?",
+          "og:description": "PS makes wellness more accessible through real-life stories, first-person perspectives, and expert-backed information. Our staff of journalists and subject-matter experts research, report, and produce articles, videos, and social content that help people feel good about their well-being choices, no matter what they are. Via our core verticals — Health, Fitness, Beauty, Balance, Identity, and Shopping — we help our audience proceed with confidence. ",
+          "og:image": "https://media1.popsugar-assets.com/files/thumbor/gd9mO4rc5zvufg4b1cVXc9t3GHo=/fit-in/4748x3248/top/filters:format_auto():quality(85):upscale()/2014/02/13/769/n/1922398/f15cf394000e50e6_469154199_10.jpg",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@Popsugar",
+          "twitter:image": "https://media1.popsugar-assets.com/files/thumbor/gd9mO4rc5zvufg4b1cVXc9t3GHo=/fit-in/4748x3248/top/filters:format_auto():quality(85):upscale()/2014/02/13/769/n/1922398/f15cf394000e50e6_469154199_10.jpg",
+          "twitter:description": "PS makes wellness more accessible through real-life stories, first-person perspectives, and expert-backed information. Our staff of journalists and subject-matter experts research, report, and produce articles, videos, and social content that help people feel good about their well-being choices, no matter what they are. Via our core verticals — Health, Fitness, Beauty, Balance, Identity, and Shopping — we help our audience proceed with confidence. ",
+          "twitter:title": "Is This the Craziest Winter Storm Yet?",
+          "twitter:url": "https://www.popsugar.com/celebrity/winter-storm-pax-2014-pictures-34023784",
+          "placeholder:1": "ph",
+          "placeholder:2": "ph",
+          "placeholder:3": "ph",
+          "placeholder:4": "ph",
+          "placeholder:5": "ph",
+          "placeholder:6": "ph",
+          "placeholder:7": "ph",
+          "placeholder:8": "ph",
+          "placeholder:9": "ph"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La tempête hivernale Winter Storm Pax en 2014 a provoqué des conditions météorologiques extrêmes, notamment des tempêtes de neige et du verglas dans le Sud, à New York et à Washington D.C., laissant plus d'un demi-million de personnes sans électricité. À Durham (NC), des automobilistes ont dû abandonner leurs voitures. À Washington D.C., les chutes de neige ont atteint 12 pouces, permettant à des personnes de faire de la luge près du Capitole américain. Un état d'urgence a été déclaré à Raleigh (NC).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "South",
+          "NYC",
+          "Washington DC",
+          "Southeast",
+          "Northeast",
+          "Durham, NC",
+          "US Capitol",
+          "Raleigh, NC"
+        ],
+        "ORGANIZATION": [
+          "Popsugar"
+        ],
+        "DATE": [
+          "2014",
+          "Thursday",
+          "this week"
+        ],
+        "EVENT": [
+          "Winter Storm Pax 2014"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7729018437816668
+    },
+    {
+      "titre": "Stream Underdawg Studios music | Listen to songs, albums, playlists for free on SoundCloud",
+      "source": "SoundCloud",
+      "lien": "https://soundcloud.com/user-90441010",
+      "image_url": "https://i1.sndcdn.com/artworks-000455644608-4yi1we-t240x240.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0zJoZ1WeEeHtPvmmvg45WHzazPHWX98FvuffGY8q34X2uLWTB",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Stream Underdawg Studios music | Listen to songs, albums, playlists for free on SoundCloud",
+        "source": "SoundCloud",
+        "link": "https://soundcloud.com/user-90441010",
+        "imageUrl": "https://i1.sndcdn.com/artworks-000455644608-4yi1we-t240x240.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0zJoZ1WeEeHtPvmmvg45WHzazPHWX98FvuffGY8q34X2uLWTB"
+      },
+      "webpage": {
+        "text": "Stream Underdawg Studios music\n\nYour current browser isn't compatible with SoundCloud.\nPlease download one of our supported browsers. Need help?",
+        "metadata": {
+          "title": "Stream Underdawg Studios music | Listen to songs, albums, playlists for free on SoundCloud",
+          "keywords": "record, sounds, share, sound, audio, tracks, music, soundcloud",
+          "fb:app_id": "19507961798",
+          "og:site_name": "SoundCloud",
+          "twitter:site": "SoundCloud",
+          "twitter:app:name:iphone": "SoundCloud",
+          "twitter:app:id:iphone": "336353151",
+          "twitter:app:name:ipad": "SoundCloud",
+          "twitter:app:id:ipad": "336353151",
+          "twitter:app:name:googleplay": "SoundCloud",
+          "twitter:app:id:googleplay": "com.soundcloud.android",
+          "description": "Play Underdawg Studios and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+          "twitter:app:url:googleplay": "soundcloud://users:302664433",
+          "twitter:app:url:iphone": "soundcloud://users:302664433",
+          "twitter:app:url:ipad": "soundcloud://users:302664433",
+          "twitter:title": "Underdawg Studios",
+          "twitter:image": "https://i1.sndcdn.com/avatars-000360724328-9wltaw-t500x500.jpg",
+          "twitter:description": "Music production studio located in Durham NC",
+          "twitter:card": "player",
+          "twitter:player:height": "450",
+          "twitter:player:width": "435",
+          "twitter:player": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2Fsoundcloud%253Ausers%253A302664433&auto_play=false&show_artwork=true&visual=true&origin=twitter",
+          "twitter:url": "https://soundcloud.com/user-90441010",
+          "al:ios:app_name": "SoundCloud",
+          "al:ios:app_store_id": "336353151",
+          "al:android:app_name": "SoundCloud",
+          "al:android:package": "com.soundcloud.android",
+          "og:type": "music.musician",
+          "og:url": "https://soundcloud.com/user-90441010",
+          "og:title": "Underdawg Studios",
+          "og:image": "https://i1.sndcdn.com/avatars-000360724328-9wltaw-t500x500.jpg",
+          "og:image:width": "500",
+          "og:image:height": "500",
+          "og:description": "Music production studio located in Durham NC",
+          "og:locality": "Durham",
+          "og:country-name": "United States",
+          "al:ios:url": "soundcloud://users:302664433",
+          "al:android:url": "soundcloud://users:302664433",
+          "al:web:should_fallback": "false",
+          "soundcloud:sound_count": "21",
+          "soundcloud:follower_count": "18"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de la plateforme SoundCloud pour écouter la musique, les chansons, albums et playlists d'Underdawg Studios, avec un avertissement sur la compatibilité du navigateur.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "SoundCloud",
+          "Underdawg Studios"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7065038507776967
+    },
+    {
+      "titre": "2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=BvJgCbbmavE",
+      "image_url": "https://i.ytimg.com/vi/I_sYc0CeL9o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBK4vuCrhBEq9qD_Nt9MgKrU7uasA",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzcMbCKIfvDuim1LbTlaOPVR88VrDBAoVgJ50hh8g-cKCAM50",
+      "rang_lens": 5,
+      "brut": {
+        "title": "2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange - YouTube",
+        "source": "YouTube",
+        "link": "https://www.youtube.com/watch?v=BvJgCbbmavE",
+        "imageUrl": "https://i.ytimg.com/vi/I_sYc0CeL9o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBK4vuCrhBEq9qD_Nt9MgKrU7uasA",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzcMbCKIfvDuim1LbTlaOPVR88VrDBAoVgJ50hh8g-cKCAM50"
+      },
+      "webpage": {
+        "text": "2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange\n\nTrans Canada Phil\n\nThis video is about Winnipeg - Winter 2015",
+        "metadata": {
+          "title": "2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange",
+          "description": "This video is about Winnipeg - Winter 2015",
+          "keywords": "Winnipeg, Pembina, Exchange District, Portage Ave",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=BvJgCbbmavE",
+          "og:title": "2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange",
+          "og:image": "https://i.ytimg.com/vi/BvJgCbbmavE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLAkmu_D80iY_WyFdHy91n3l4KsNcQ",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "This video is about Winnipeg - Winter 2015",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=BvJgCbbmavE&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=BvJgCbbmavE&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=BvJgCbbmavE&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/BvJgCbbmavE",
+          "og:video:secure_url": "https://www.youtube.com/embed/BvJgCbbmavE",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "Portage Ave",
+          "fb:app_id": "87741124305",
+          "twitter:title": "2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange",
+          "twitter:description": "This video is about Winnipeg - Winter 2015"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Vidéo YouTube intitulée '2015.Season - E02 - Winnipeg - Winter 2015 - Disraeli Freeway - Pembina - Exchange' publiée par Trans Canada Phil, montrant l'hiver 2015 à Winnipeg avec des lieux comme Disraeli Freeway, Pembina et Exchange.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Trans Canada Phil"
+        ],
+        "LOCATION": [
+          "Winnipeg",
+          "Disraeli Freeway",
+          "Pembina",
+          "Exchange"
+        ],
+        "ORGANIZATION": [
+          "YouTube"
+        ],
+        "DATE": [
+          "2015",
+          "Winter 2015"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7442913195204348
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Interstate 85",
+      "Durham",
+      "NC"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "winter storm"
+    ],
+    "OTHER": [
+      "motorist",
+      "vehicle"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "United States"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "2014"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7729018437816668,
+  "S_ent": 0.25,
+  "S_OOC": 0.5114509218908334,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "DATE",
+    "EVENT",
+    "OTHER"
+  ]
+}

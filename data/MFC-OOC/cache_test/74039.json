@@ -1,0 +1,724 @@
+{
+  "id_rumeur": "1048678",
+  "id_image": "74039",
+  "caption": "The Fat Face store at Bluewater shopping centre in Dartford Kent",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122927/74039.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S. - The Washington Post",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/news/business/wp/2015/08/27/primark-seller-of-10-jeans-and-3-50-t-shirts-is-coming-to-the-u-s/",
+      "image_url": "https://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYCqgiDldD6lrckbg0FZqmxvCId-DmlATVtKKlkypmnBqirBlN",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S. - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/news/business/wp/2015/08/27/primark-seller-of-10-jeans-and-3-50-t-shirts-is-coming-to-the-u-s/",
+        "imageUrl": "https://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYCqgiDldD6lrckbg0FZqmxvCId-DmlATVtKKlkypmnBqirBlN"
+      },
+      "webpage": {
+        "text": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.\n\nDemocracy Dies in Darkness\n\n\nPrimark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.\n\nAugust 27, 2015More than 11 years ago\n\n\nForever 21, H&M and Zara have been rapidly gobbling up more space and shopping dollars in American malls as teens and millennials flock to their stores full of uber-trendy clothes at rock-bottom prices.\n\n----------------------------------------",
+        "metadata": {
+          "title": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S. - The Washington Post",
+          "description": "The arrival of the U..K.'s answer to Forever 21 will serve as a test of whether our appetite for wear-it-today, trash-it-tomorrow clothing is anywhere near satiated.",
+          "og:site_name": "The Washington Post",
+          "og_site_name": "The Washington Post",
+          "og:type": "article",
+          "og_type": "article",
+          "og:url": "https://www.washingtonpost.com/news/business/wp/2015/08/27/primark-seller-of-10-jeans-and-3-50-t-shirts-is-coming-to-the-u-s/",
+          "og_url": "https://www.washingtonpost.com/news/business/wp/2015/08/27/primark-seller-of-10-jeans-and-3-50-t-shirts-is-coming-to-the-u-s/",
+          "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg&w=1440",
+          "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg&w=1440",
+          "og:title": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.",
+          "og_title": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.",
+          "og:description": "The arrival of the U..K.'s answer to Forever 21 will serve as a test of whether our appetite for wear-it-today, trash-it-tomorrow clothing is anywhere near satiated.",
+          "og_description": "The arrival of the U..K.'s answer to Forever 21 will serve as a test of whether our appetite for wear-it-today, trash-it-tomorrow clothing is anywhere near satiated.",
+          "twitter:title": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.",
+          "twitter:description": "The arrival of the U..K.'s answer to Forever 21 will serve as a test of whether our appetite for wear-it-today, trash-it-tomorrow clothing is anywhere near satiated.",
+          "article:published_time": "2015-08-27T12:00:19.000Z",
+          "article_published_time": "2015-08-27T12:00:19.000Z",
+          "article:modified_time": "2021-10-23T06:24:13.532Z",
+          "article_modified_time": "2021-10-23T06:24:13.532Z",
+          "article:section": "Business",
+          "article_section": "Business",
+          "article:content_tier": "metered",
+          "article_content_tier": "metered",
+          "og_author": "Sarah Halzack"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.washingtonpost.com/news/business/wp/2015/08/27/primark-seller-of-10-jeans-and-3-50-t-shirts-is-coming-to-the-u-s/",
+          "headline": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.",
+          "alternativeHeadline": "Primark — seller of $10 jeans and $3.50 T-shirts — is coming to the U.S.",
+          "dateModified": "2021-10-23T06:24:13.532Z",
+          "datePublished": "2015-08-27T12:00:19.000Z",
+          "description": "The arrival of the U..K.'s answer to Forever 21 will serve as a test of whether our appetite for wear-it-today, trash-it-tomorrow clothing is anywhere near satiated.",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Halzack",
+            "url": ""
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Washington Post",
+            "productID": "washingtonpost.com:basic",
+            "description": "Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+            "sku": "https://subscribe.washingtonpost.com",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+            "brand": {
+              "@type": "brand",
+              "name": "The Washington Post"
+            },
+            "offers": {
+              "@type": "offer",
+              "url": "https://subscribe.washingtonpost.com/acquisition?promo=o26"
+            }
+          },
+          "publisher": {
+            "@id": "washingtonpost.com",
+            "@type": "NewsMediaOrganization",
+            "name": "The Washington Post"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "cssSelector": ".meteredContent",
+            "isAccessibleForFree": false
+          },
+          "keywords": "bizpage, primark, forever 21, h&m, zara, fast fashion",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg&w=1600&h=900",
+              "height": 900,
+              "width": 1600
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg&w=1800&h=1800",
+              "height": 1800,
+              "width": 1800
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/business/wp-content/uploads/sites/8/2015/08/204038512-1024x683.jpg&w=800&h=600",
+              "height": 800,
+              "width": 600
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'article du Washington Post du 27 août 2015 indique que l'enseigne Primark, connue pour ses jeans à 10 $ et ses T-shirts à 3,50 $, s'apprête à s'implanter aux États-Unis, alors que des enseignes comme Forever 21, H&M et Zara se développent déjà rapidement dans les centres commerciaux américains auprès des jeunes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "U.S."
+        ],
+        "ORGANIZATION": [
+          "Primark",
+          "The Washington Post",
+          "Forever 21",
+          "H&M",
+          "Zara"
+        ],
+        "DATE": [
+          "August 27, 2015",
+          "More than 11 years ago"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7439529187762974
+    },
+    {
+      "titre": "Fast-fashion' retailer Primark set to open first US store in Boston - The Boston Globe",
+      "source": "The Boston Globe",
+      "lien": "https://www.bostonglobe.com/business/2015/09/08/primark-set-open-thursday-downtown-crossing/3l0r5IwjpI43OMJRJIIjnJ/story.html",
+      "image_url": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/7Y4J65SWKII6LOXWFBKSJH6PWM.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj_tlkNYhitB7DTVf4FaOdNuY3700rOBmHjkRZ9JdGXRpT_mmA",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Fast-fashion' retailer Primark set to open first US store in Boston - The Boston Globe",
+        "source": "The Boston Globe",
+        "link": "https://www.bostonglobe.com/business/2015/09/08/primark-set-open-thursday-downtown-crossing/3l0r5IwjpI43OMJRJIIjnJ/story.html",
+        "imageUrl": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/7Y4J65SWKII6LOXWFBKSJH6PWM.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj_tlkNYhitB7DTVf4FaOdNuY3700rOBmHjkRZ9JdGXRpT_mmA"
+      },
+      "webpage": {
+        "text": "‘Fast-fashion’ retailer Primark set to open first US store in Boston\n\nThe Irish retailer Primark on Thursday will open a 77,000-square-foot department store in Downtown Crossing, serving as the anchor of a major development project and filling a longstanding hole in the urban shopping scene.\n\nPrimark occupies four floors in the Burnham Building with affordable, in-the-moment fashions for men, women, and children.\n\nThe building, at Summer and Washington streets, was once home to the flagship Filene’s department store and the original Filene’s Basement, Boston’s famous discount retail store that closed in 2007. Part of the site was demolished the following year, but its reconstruction stalled during the recession, leaving an idle redevelopment zone in the center of the city.\n\n“It’s a significant moment, and there’s no question about it,” said Rosemarie Sansone, president of the Downtown Boston Business Improvement District. “Years ago we were talking about the hole in the ground and whether it was ever going to get filled. Now we’re having a major international retailer go into this very famous, iconic retail building.”\n\nGet Power Play\n\nA twice-weekly dive into the power players and moves driving business in Massachusetts, authored by long-time business columnists Shirley Leung and Jon Chesto.\n\nIn its day, Filene’s was an important retail engine in downtown Boston, and its basement outlet — initially part of the larger store and later an independent company — was famous for steep discounts on designer goods. Primark promises to bring cachet and budget-friendly shopping back to Boston’s city center, but in a different way.\n\nThe company started in Ireland, where its stores are known as “Penneys,” in 1969. It now operates more than 291 stores in nine countries. Based in Dublin, it’s known as a “fast-fashion” retailer, selling high volumes of popular styles at extremely low prices.\n\nPrimark sells clothing manufactured specifically for its stores, often reproducing popular fashions of the moment. The chain buys the goods in large quantities and sells them at a slim markup, while emphasizing its ability to deliver the hottest disposable fashions. It plans to truck in hundreds of new items from a distribution center in Pennsylvania to the Boston store each day.\n\n\nAnalysts have compared Primark to other fast-fashion retailers, such as Sweden’s H&M, Zara of Spain, and Forever 21, based in Los Angeles, all of which operate stores in Boston.\n\nAt $10 for skinny jeans and $5 for a pair of flats, Primark is cheaper than the old Filene’s Basement and most of its current competition.\n\nJohn Barros, Boston’s chief of economic development, said he’s impressed by how quickly the company reacts to changing consumer tastes.\n\n“They want to know what their customers want to buy, and they want to be the quickest to bring it to market,” said Barros, a longtime Filene’s Basement fan. “That kind of response from the retail sector is where retail is going. I’m excited about them bringing that to Boston.”\n\nThe store, Primark’s first in the United States, is a state-of-the-art retail space, with each floor offering lounge areas equipped with smartphone charging stations and televisions, screens that display Primark advertisements, and spacious dressing rooms.\n\nIn preparation for Thursday’s opening, it’s packed with fall fashions styled on some 513 mannequins. It’s stocked with shoes for men, women, and children, women’s lingerie, fitness apparel, home goods, and racks of accessories. The vibrantly colored and modern space features an open, four-floor atrium lined with escalators.\n\nIt’s no surprise that Primark is making a statement with the high-end design and size of the new store, said Michael Tesler, a retail professor at Bentley University in Waltham.\n\n“This isn’t just an opportunity to do business in Downtown Crossing and be part of the revitalization of downtown Boston. They are using that location as a marketing venue to help the additional locations they plan to have very quickly,” Tesler said.\n\nThe Boston site is the first of eight locations planned to open in the United States by the end of 2016; the list includes stores at South Shore Plaza in Braintree and at the Burlington Mall.\n\n“The uniqueness of Downtown Crossing is that it will be the only one of the stores in a downtown location,” said Jose Luis Martinez de Larramendi, president of Primark US Corp. “We are confident and very excited about the project.”\n\n\n----------------------------------------\n\nTaryn Luna can be reached at taryn.luna@globe.com. Follow her on Twitter @TarynLuna.",
+        "metadata": {
+          "title": "‘Fast-fashion’ retailer Primark set to open first US store in Boston - The Boston Globe",
+          "description": "In two days, Bostonians will be able to shop four floors of budget-friendly fashion at the new Downtown Crossing store.",
+          "keywords": "primark,downtown crossing,primark us,primark thursday,primark open Boston,Primark Boston",
+          "fb:admins": "507486035",
+          "fb:app_id": "103933749691726",
+          "fb:pages": "5637143257",
+          "og:site_name": "BostonGlobe.com",
+          "og:type": "article",
+          "og:title": "‘Fast-fashion’ retailer Primark set to open first US store in Boston - The Boston Globe",
+          "og:url": "https://www.bostonglobe.com/business/2015/09/08/primark-set-open-thursday-downtown-crossing/3l0r5IwjpI43OMJRJIIjnJ/story.html",
+          "og:description": "In two days, Bostonians will be able to shop four floors of budget-friendly fashion at the new Downtown Crossing store.",
+          "og:image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/GGLTIQCWKMI6LOXWFBKSJH6PWM.jpg?auth=8abdada65e62b4b3b2ae285867dfaa089046aad4615d01312801a3dce51139d9&width=1440",
+          "og:pixelID": "884869448226452",
+          "article:opinion": "false",
+          "twitter:account_id": "95431448",
+          "twitter:title": "‘Fast-fashion’ retailer Primark set to open first US store in Boston - The Boston Globe",
+          "twitter:description": "In two days, Bostonians will be able to shop four floors of budget-friendly fashion at the new Downtown Crossing store.",
+          "article:publisher": "https://www.facebook.com/globe",
+          "article:content_tier": "free",
+          "section": "Business"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "isAccessibleForFree": false,
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.bostonglobe.com/business/2015/09/08/primark-set-open-thursday-downtown-crossing/3l0r5IwjpI43OMJRJIIjnJ/story.html"
+          },
+          "headline": "‘Fast-fashion’ retailer Primark set to open first US store in Boston",
+          "image": [
+            "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/GGLTIQCWKMI6LOXWFBKSJH6PWM.jpg?auth=8abdada65e62b4b3b2ae285867dfaa089046aad4615d01312801a3dce51139d9&width=1200&height=672"
+          ],
+          "datePublished": "2015-09-08T18:34:00Z",
+          "dateModified": "2015-09-08T18:34:00Z",
+          "author": {
+            "@type": "Person",
+            "name": [
+              "Taryn Luna"
+            ]
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "The Boston Globe",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=698",
+              "width": 639,
+              "height": 335
+            }
+          },
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".paywalled_content"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Boston Globe",
+            "productID": "bostonglobe.com:eglobe"
+          },
+          "articleSection": "Business",
+          "description": "In two days, Bostonians will be able to shop four floors of budget-friendly fashion at the new Downtown Crossing store."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le détaillant de fast-fashion irlandais Primark ouvre son premier magasin américain de 77 000 pieds carrés à Boston dans le Downtown Crossing, occupant quatre étages du Burnham Building (ancien emplacement du magasin Filene's et de Filene's Basement). Fondée à Dublin en 1969 sous le nom de 'Penneys', l'entreprise gère plus de 291 magasins dans neuf pays et propose des vêtements à très bas prix.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rosemarie Sansone",
+          "John Barros",
+          "Shirley Leung",
+          "Jon Chesto"
+        ],
+        "LOCATION": [
+          "Boston",
+          "Ireland",
+          "Dublin",
+          "Pennsylvania",
+          "Sweden",
+          "Spain",
+          "Los Angeles",
+          "North America"
+        ],
+        "ORGANIZATION": [
+          "Primark",
+          "The Boston Globe",
+          "Filene's",
+          "Filene's Basement",
+          "Downtown Boston Business Improvement District",
+          "H&M",
+          "Zara",
+          "Forever 21",
+          "Penneys"
+        ],
+        "DATE": [
+          "Thursday",
+          "2007",
+          "2008",
+          "1969"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Burnham Building"
+        ]
+      },
+      "score_e5": 0.7512844963401147
+    },
+    {
+      "titre": "Primark Recalls Men's Flip-Flops After Concerns of a Cancer-Causing Chemical | Allure",
+      "source": "Allure",
+      "lien": "https://www.allure.com/story/primark-recall-mens-flip-flops-cancer-chemical",
+      "image_url": "https://media.allure.com/photos/596e136d377eca26ac0307d3/16:9/w_1280,c_limit/primark-social-crop.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuvGbjuXVPlcpOT-PIHOHeY59eEK5paEVd0XbfJbhMMo0rknsP",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Primark Recalls Men's Flip-Flops After Concerns of a Cancer-Causing Chemical | Allure",
+        "source": "Allure",
+        "link": "https://www.allure.com/story/primark-recall-mens-flip-flops-cancer-chemical",
+        "imageUrl": "https://media.allure.com/photos/596e136d377eca26ac0307d3/16:9/w_1280,c_limit/primark-social-crop.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuvGbjuXVPlcpOT-PIHOHeY59eEK5paEVd0XbfJbhMMo0rknsP"
+      },
+      "webpage": {
+        "text": "Primark Recalls Men's Flip-Flops After Concerns of a Cancer-Causing Chemical\n\nPrimark is reportedly recalling a style of men's flip-flops in three colors (blue, khaki, and black) due to concerns over a cancer-causing chemical. According to the BBC, the shoes contained chrysene — a substance that is often found in dark-colored dyes. A spokesperson from the company confirmed to the outlet that the flip-flops contained low levels of chrysene, and that there was minimal risk to customers. However, because the levels of the chemical were above the 1.0 mg/kg requirement, they still needed to be recalled.\n\nThe affected shoes were reportedly sold in stores located in the U.K. and Northern Europe (Germany, Netherlands, Austria and Belgium) between January 4 and June 2 of this year. Customers are being told to return the flip-flops to any Primark location — with or without a proof of purchase — where they will be given a full refund.\n\nA spokesperson for Primark issued the following statement: \"We take the safety of our customers and the quality of our products very seriously, which is why we have chosen to recall three men’s flip-flops from our Cedar Wood State range. All new orders with this factory have been suspended while we carry out a thorough investigation. A full refund is being offered to all customers.\"\n\nPrimark has also posted information about the recall on their website, along with product numbers and photos of the specific flip-flop styles. If you think you might have purchased these shoes, be sure to head to Primark.com for more information.\n\n----------------------------------------\n\nMore articles about footwear:\n\n * Your Favorite Flip-Flop Brand Was Just SOLD For More than $1 Billion\n * You Can Now Buy Kate Middleton's Favorite Shoes\n * The Fall 2017 Shoe Trend You Can Totally Skip\n\n----------------------------------------\n\n4 Genius Beauty Hacks:\n\nFollow De Elizabeth on Twitter and Instagram.",
+        "metadata": {
+          "title": "Primark Recalls Men&#x27;s Flip-Flops After Concerns of a Cancer-Causing Chemical | Allure",
+          "author": "De Elizabeth",
+          "description": "Primark is reportedly recalling three colors of men's flip-flops after concerns arise over a cancer-causing chemical.",
+          "keywords": "primark,flip flops,recall",
+          "news_keywords": "primark,flip flops,recall",
+          "og:description": "Here's what you need to know.",
+          "og:image": "https://media.allure.com/photos/596e136d377eca26ac0307d3/16:9/w_1280,c_limit/primark-social-crop.jpg",
+          "og:image:secure_url": "https://media.allure.com/photos/596e136d377eca26ac0307d3/16:9/w_1280,c_limit/primark-social-crop.jpg",
+          "og:locale": "en_US",
+          "og:site_name": "Allure",
+          "og:title": "Primark Is Recalling Three Kinds of Flip-Flops Over Concerns of a Cancer-Causing Chemical",
+          "og:type": "article",
+          "og:url": "https://www.allure.com/story/primark-recall-mens-flip-flops-cancer-chemical",
+          "article:content_tier": "free",
+          "article:opinion": "false",
+          "article:section": "tags",
+          "article:published_time": "2017-07-18T14:00:20.452Z",
+          "article:modified_time": "2017-07-18T14:00:20.452Z",
+          "article:author": "De Elizabeth",
+          "twitter:card": "summary_large_image",
+          "twitter:creator": "@Allure_magazine",
+          "twitter:description": "Here's what you need to know.",
+          "twitter:domain": "https://www.allure.com",
+          "twitter:image": "https://media.allure.com/photos/596e136d377eca26ac0307d3/16:9/w_1280,c_limit/primark-social-crop.jpg?mbid=social_retweet",
+          "twitter:site": "@Allure_magazine",
+          "twitter:title": "Primark Is Recalling Three Kinds of Flip-Flops Over Concerns of a Cancer-Causing Chemical",
+          "pinterest:image": "https://media.allure.com/photos/596e136d377eca26ac0307d3/2:3/w_1000,h_1500,c_limit/primark-social-crop.jpg",
+          "fb:app_id": "100614276777478",
+          "fb:pages": "24810773606"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "articleBody": "Primark is reportedly recalling a style of men's flip-flops in three colors (blue, khaki, and black) due to concerns over a cancer-causing chemical. According to the BBC, the shoes contained chrysene — a substance that is often found in dark-colored dyes. A spokesperson from the company confirmed to the outlet that the flip-flops contained low levels of chrysene, and that there was minimal risk to customers. However, because the levels of the chemical were above the 1.0 mg/kg requirement, they still needed to be recalled.\nThe affected shoes were reportedly sold in stores located in the U.K. and Northern Europe (Germany, Netherlands, Austria and Belgium) between January 4 and June 2 of this year. Customers are being told to return the flip-flops to any Primark location — with or without a proof of purchase — where they will be given a full refund.\nA spokesperson for Primark issued the following statement: \"We take the safety of our customers and the quality of our products very seriously, which is why we have chosen to recall three men’s flip-flops from our Cedar Wood State range. All new orders with this factory have been suspended while we carry out a thorough investigation. A full refund is being offered to all customers.\"\nPrimark has also posted information about the recall on their website, along with product numbers and photos of the specific flip-flop styles. If you think you might have purchased these shoes, be sure to head to Primark.com for more information.\n\nMore articles about footwear:\n\nYour Favorite Flip-Flop Brand Was Just SOLD For More than $1 Billion\nYou Can Now Buy Kate Middleton's Favorite Shoes\nThe Fall 2017 Shoe Trend You Can Totally Skip\n\n\n4 Genius Beauty Hacks:\nFollow De Elizabeth on Twitter and Instagram.",
+          "isBasedOn": "",
+          "articleSection": "fashion",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "De Elizabeth",
+              "sameAs": "https://www.allure.com/contributor/de-elizabeth"
+            }
+          ],
+          "dateModified": "2017-07-18T10:00:20.452-04:00",
+          "datePublished": "2017-07-18T10:00:20.452-04:00",
+          "headline": "Primark Recalls Men's Flip-Flops After Concerns of a Cancer-Causing Chemical",
+          "image": [
+            "https://media.allure.com/photos/596e134de6a09a72188a740f/16:9/w_2528,h_1422,c_limit/GettyImages-487369054.jpg",
+            "https://media.allure.com/photos/596e134de6a09a72188a740f/4:3/w_2168,h_1626,c_limit/GettyImages-487369054.jpg",
+            "https://media.allure.com/photos/596e134de6a09a72188a740f/1:1/w_1625,h_1625,c_limit/GettyImages-487369054.jpg"
+          ],
+          "inLanguage": "en-US",
+          "keywords": [
+            "fashion",
+            "primark",
+            "flip flops",
+            "recall",
+            "web"
+          ],
+          "thumbnailUrl": "https://media.allure.com/photos/596e134de6a09a72188a740f/1:1/w_1625,h_1625,c_limit/GettyImages-487369054.jpg",
+          "url": "https://www.allure.com/story/primark-recall-mens-flip-flops-cancer-chemical",
+          "isPartOf": {
+            "@type": "CreativeWork",
+            "name": "Allure"
+          },
+          "isAccessibleForFree": true,
+          "alternativeHeadline": "Primark is reportedly recalling three colors of men's flip-flops after concerns arise over a cancer-causing chemical.",
+          "description": "Primark is reportedly recalling three colors of men's flip-flops after concerns arise over a cancer-causing chemical.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.allure.com/story/primark-recall-mens-flip-flops-cancer-chemical"
+          },
+          "publisher": {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Allure",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.allure.com/verso/static/allure-us/assets/logo-seo.png",
+              "width": "618px",
+              "height": "180px"
+            },
+            "url": "https://www.allure.com"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Primark rappelle des tongs pour hommes de sa gamme Cedar Wood State en trois coloris (bleu, kaki et noir) vendues au Royaume-Uni et en Europe du Nord entre le 4 janvier et le 2 juin, en raison de la présence de niveaux de chrysène (un produit chimique cancérigène présent dans les colorants sombres) supérieurs à la limite de 1,0 mg/kg, bien que le risque pour les clients soit jugé minime.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "De Elizabeth"
+        ],
+        "LOCATION": [
+          "U.K.",
+          "Northern Europe",
+          "Germany",
+          "Netherlands",
+          "Austria",
+          "Belgium"
+        ],
+        "ORGANIZATION": [
+          "Primark",
+          "Allure",
+          "BBC",
+          "Cedar Wood State"
+        ],
+        "DATE": [
+          "January 4 and June 2",
+          "Fall 2017"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "chrysene",
+          "men's flip-flops"
+        ]
+      },
+      "score_e5": 0.7440965443202318
+    },
+    {
+      "titre": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff | Daily Mail Online",
+      "source": "Daily Mail",
+      "lien": "https://www.dailymail.com/news/article-8240041/Primark-owner-furloughs-68-000-workers-fashion-chains-sales-plunge-650m-month-zero.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2020/04/21/10/27455246-8240041-image-a-8_1587461870822.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLKzgvWNy5hKCdiyV4HwAZCakIy4rhkS80-BY0v3-idaRAa3tV",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff | Daily Mail Online",
+        "source": "Daily Mail",
+        "link": "https://www.dailymail.com/news/article-8240041/Primark-owner-furloughs-68-000-workers-fashion-chains-sales-plunge-650m-month-zero.html",
+        "imageUrl": "https://i.dailymail.co.uk/1s/2020/04/21/10/27455246-8240041-image-a-8_1587461870822.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLKzgvWNy5hKCdiyV4HwAZCakIy4rhkS80-BY0v3-idaRAa3tV"
+      },
+      "webpage": {
+        "text": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff\n\nCath Kidston confirms its 60 UK stores will not reopen after coronavirus crisis putting 740 jobs at risk as Primark owner furloughs 68,000 workers across Europe with chain's sales plunging from £650m a month to zero\n\n05:39 EDT 21 Apr 2020, updated 08:30 EDT 21 Apr 2020\n\n * Cath Kidston's stores will close after buyer only found for brand and online arm\n * Only 32 of its 940 staff will see their jobs secured as part of the deal  \n * Primark's 376-strong's chain is temporarily shut with no online business\n * Primark boss said furlough scheme has avoided staff being fired   \n * British Chambers of Commerce survey suggests one in three British businesses has furloughed between 75% and 100% of its workforce \n * See more Daily Mail on Google - save us as a Preferred Source\n\nCath Kidston is to permanently to shut its 60 UK stores with the loss of more than 900 jobs.\n\nThe fashion retailer confirmed its stores will not reopen once the coronavirus lockdown is over after the company's owners secured a deal to buy back its brand and online operations following its fall into administration.  \n\nBaring Private Equity Asia (BPEA), which has held a stake in the retailer since 2014, said it will buy the online business, brand and wholesale arm from administrators Alvarez & Marsal.\n\nIt said the move will result in the 'cessation of the retail store network'.\n\nThe company confirmed that only 32 of its 940 staff will see their jobs secured as part of the deal.    \n\nMelinda Paraie, chief executive officer of Cath Kidston, said: 'While we are pleased that the future of Cath Kidston has been secured, this is obviously an extremely difficult day as we say goodbye to many colleagues.\n\n'Despite our very best efforts, against the backdrop of Covid-19, we were unable to secure a solvent sale of the business which would have allowed us to avoid administration and carry on trading in our current form.\n\n'I would like to thank all our employees for their hard work, loyalty and patience over the last few weeks as we worked through this process.'\n\nA spokesman for BPEA said: 'While we are disappointed that the Covid-19 crisis has resulted in the cessation of the retail store network and impacted many employees, we are pleased to have secured a future for a number of Cath Kidston staff and the Cath Kidston brand in the form of a viable digital business.\n\n'Going forward we will continue to help the company grow through its e-commerce platform and international wholesale and franchise businesses.\n\n'We would like to thank Melinda and the company's management team for their hard work in managing through this difficult economic crisis and establishing a viable future for the business in the UK.'\n\nMeanwhile the UK's high street woes continue to grow amid the coronavirus lockdown as 68,000 Primark staff are furloughed across Europe.\n\nThe owner of budget fashion firm Primark has also revealed a £248 million hit for unsold stock as all its stores remain shut.\n\nAssociated British Foods boss George Weston said the group had been 'squarely in the path of this pandemic' but would not reopen Primark stores until the disease is under control. Mr Weston said the company would have 'had no option but to fire staff' were it not for the furlough scheme.  \n\nA survey from the British Chambers of Commerce suggested around one in three British businesses has furloughed between 75% and 100% of its workforce. \n\nPrimark has seen sales plunge from £650 million a month to zero as coronavirus has caused the 376-strong chain to shut completely, with no online business to fall back on.\n\nHalf-year results showed pre-tax profits slumped as Primark was left with piles of stock it was unable to sell amid the global coronavirus lockdown, falling 42% to £298 million in the six months to February 29.\n\nTotal charges in the first half soared to £309 million, compared with £79 million a year earlier, including the £248 million stock costs.\n\nHowever, Mr Weston said the company would not launch online in a bid to shift stock it has been unable to sell.\n\nHe said: 'We will sell that stock in stores but it might take a while.\n\n'It might be in a year's time but it's not going to deteriorate and we will just have to wait until we can open stores again safely.\n\n'I think this is the cost of Covid rather than not having online operations.'\n\nPrimark revealed on Monday it had agreed to pay an additional £370 million to suppliers to cover stock currently in production or yet to be delivered after facing criticism over order cancellations during the coronavirus crisis.\n\n\nJohn Lewis sales plunge by up to a third despite surge in online orders \n\nThe John Lewis department store chain saw total sales tumble 17% in the weeks since March 15, after it closed all its sites on March 23.\n\nThe high street retailer warned that a worst-case scenario would see the chain's annual sales plunge 35%.\n\nNevertheless, John Lewis said online sales have jumped 84% as shoppers purchased more technology and food preparation products.\n\nThe retailer said demand has particularly spiked in some of its 'less profitable lines', with people 'buying more Scrabble but fewer sofas'.\n\nThe fashion chain said the deal will cover products which were in production or due for shipment by April 17, having previously committed to pay for orders which were in transit or booked for delivery by March 18.\n\nBosses also set up a fund to support the thousands of garment workers affected.\n\nMr Weston laid bare the 'human tragedy' of the Covid-19 crisis as he reported half-year figures, as he said two of the group's employees have died from Covid-19 in the past three weeks while another remains in intensive care in the United States.\n\nIts food and agriculture business - spanning sugar, groceries and ingredients, including brands such as Twinings tea and Kingsmill bread - is helping the firm weather the crisis while cost cutting will also help it mitigate half the operating costs of Primark while stores remain shut.\n\nThe company said it has seen a 20% jump in bread sales, while other store cupboard products such as Blue Dragon noodles and Ryvita crackers have also seen sharp sales increases.\n\nMr Weston said: 'Much as I would love to be allowed to reopen Primark stores across the UK, continental Europe and the USA soon, because lockdown has so harmed our business and our supply chains, I know that we must not do so until we have suppressed this disease.\n\n'When we are allowed to reopen we must make our Primark stores safe for our staff and our customers, even if that means ensuring there are fewer people shopping at any one time and so accepting lower sales at least until the remaining risk is minimal.\n\n'In time, we can rebuild the profits. We can't replace the people we lose.'  \n\nA survey from the British Chambers of Commerce suggested around one in three British businesses has furloughed between 75% and 100% of its workforce. \n\nMeanwhile High Street fashion chains Oasis and Warehouse have fallen into administration, leading to more than 200 immediate job losses.\n\nSome 1,800 staff across the shops, concessions and head office will be furloughed and receive 80% of pay.\n\nThe brands will continue to be sold online 'short-term' while the administrators try to sell the brand.  \n\nThe two brands, which run 90 stores, appointed auditor Deloitte to run the process. \n\n\nBusinesses lost to coronavirus  \n\nWith the High Street struggling to cope with the national coronavirus lockdown, a few have started filing for administration. These include:\n\nDebenhams: 22,000 jobs at risk   \n\nCarluccio's: 2,000 jobs at risk\n\nBrighthouse: 2,400 jobs at risk\n\nChiquito: 1,500 jobs at risk\n\nLaura Ashley: 2,700 jobs at risk \n\nOasis and Warehouse: 200 immediate job losses \n\nFlybe: 2,000 jobs at risk \n\nThe Oasis and Warehouse Group has been looking for a saviour for weeks but could not close a deal due to the pandemic.\n\nIt is owned by failed Icelandic bank Kaupthing.\n\nThe lockdown has already claimed Laura Ashley, electrical retailer Brighthouse, and restaurant chains Carluccio's and Chiquito.\n\nMany firms were already reeling after last year, the worst for the high street in a quarter of a century. \n\nMeanwhile, there are fears are building that gyms, pubs and restaurants may never reopen as landlords threaten them with eviction for unpaid rent during the coronavirus lockdown.\n\nNearly 3,000 gyms and leisure centres now face the threat of closure, while top chef Yotam Ottolenghi has warned that restaurants are suffering the same issue.\n\nPubs and non-essential shops have also faced trouble paying rent, amid fears they will not be able to reopen after the pandemic because they will have no cash left. \n\nUp to 100,000 jobs could be at risk at gyms with trade body UKActive calling for urgent action to protect places of exercise which remain shut due to the pandemic.\n\nFresh legislation to protect commercial tenants was brought in last month, but it does not stop landlords forcing them to pay rent withheld due to the lockdown.  \n\nA study of 34 non-food retailers including Dunelm, JD Sports, John Lewis and Next has found that many may not survive the pandemic sweeping the nation. \n\nEven after government support, more than half of major non-food UK retailers will run out of cash within six months, according to the report.\n\nThe study was conducted by professional services firm Alvarez & Marsal (A&M), in partnership with Retail Economics. \n\nIt found that five out of the 34 major non-food retailers analysed already had negative cash flow at the outbreak of the pandemic.",
+        "metadata": {
+          "title": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff | Daily Mail Online",
+          "keywords": "dailymail,news,Primark,Coronavirus",
+          "news_keywords": "dailymail,news,Primark,Coronavirus",
+          "description": "Cath Kidston's stores will permanently close after a buyer was only found for brand and online arm. Meanwhile Primark's 376-strong's chain is temporarily shut with no online business",
+          "al:ios:app_store_id": "app-id=384101264"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "dateModified": "2020-04-21T13:30:19+0100",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://i.dailymail.co.uk/1s/2020/04/21/12/27459550-0-image-a-5_1587468935351.jpg",
+            "height": "1146",
+            "width": "1908"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chantalle Edmunds",
+            "url": "https://www.dailymail.com"
+          },
+          "video": null,
+          "id": "https://www.dailymail.com/news/article-8240041/Primark-owner-furloughs-68-000-workers-fashion-chains-sales-plunge-650m-month-zero.html",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.dailymail.com/news/article-8240041/Primark-owner-furloughs-68-000-workers-fashion-chains-sales-plunge-650m-month-zero.html",
+            "name": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff",
+            "headline": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff",
+            "image": "https://i.dailymail.co.uk/1s/2020/04/21/12/27459550-0-image-a-5_1587468935351.jpg",
+            "url": "https://www.dailymail.com/news/article-8240041/Primark-owner-furloughs-68-000-workers-fashion-chains-sales-plunge-650m-month-zero.html",
+            "mainEntity": {
+              "@type": "Thing",
+              "name": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff"
+            }
+          },
+          "name": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff",
+          "articleBody": "Cath Kidston's stores will close after buyer only found for brand and online arm. Only 32 of its 940 staff will see their jobs secured as part of the deal. Primark's 376-strong's chain is temporarily shut with no online business. Primark boss said furlough scheme has avoided staff being fired. British Chambers of Commerce survey suggests one in three British businesses has furloughed between 75% and 100% of its workforce",
+          "publisher": {
+            "@type": "Organization",
+            "@id": "https://www.dailymail.com",
+            "name": "Daily Mail",
+            "sameAs": [
+              "DailyMail",
+              "https://www.facebook.com/DailyMail",
+              "https://twitter.com/MailOnline",
+              "https://www.youtube.com/user/MailOnlineVideo",
+              "https://www.instagram.com/dailymail/",
+              "https://www.snapchat.com/discover/Daily-Mail/8392137033",
+              "https://flipboard.com/@DailyMailUS",
+              "https://www.pinterest.co.uk/dailymail/"
+            ],
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://i.dailymail.com/i/sitelogos/sd-dailymail.png",
+              "width": "600",
+              "height": "60"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Northcliffe House, 9 Derry Street",
+              "addressLocality": "London",
+              "addressRegion": "London",
+              "postalCode": "W8 5HY",
+              "addressCountry": {
+                "@type": "Country",
+                "name": "GB"
+              }
+            }
+          },
+          "datePublished": "2020-04-21T10:39:18+0100",
+          "@type": "NewsArticle",
+          "description": "Cath Kidston's stores will permanently close after a buyer was only found for brand and online arm. Meanwhile Primark's 376-strong's chain is temporarily shut with no online business",
+          "headline": "Cath Kidston's 60 stores will close as Primark furloughs 68,000 staff"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La chaîne Cath Kidston ferme définitivement ses 60 magasins au Royaume-Uni après être entrée en administration judiciaire, menaçant plus de 900 emplois, tandis que l'entreprise propriétaire de Primark met en congé (furloughs) 68 000 salariés à travers l'Europe en raison de la crise du coronavirus, les ventes mensuelles de Primark tombant de 650 millions de livres à zéro et subissant un impact de 248 millions de livres sur les stocks non vendus.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Melinda Paraie"
+        ],
+        "LOCATION": [
+          "UK",
+          "Europe"
+        ],
+        "ORGANIZATION": [
+          "Cath Kidston",
+          "Primark",
+          "Daily Mail",
+          "Baring Private Equity Asia",
+          "Alvarez & Marsal",
+          "British Chambers of Commerce"
+        ],
+        "DATE": [
+          "05:39 EDT 21 Apr 2020",
+          "08:30 EDT 21 Apr 2020",
+          "2014"
+        ],
+        "EVENT": [
+          "coronavirus crisis",
+          "Covid-19"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7221000977896012
+    },
+    {
+      "titre": "Primark online shopping: Can you order online and does Primark deliver?",
+      "source": "GoodtoKnow",
+      "lien": "https://www.goodto.com/family/money-news/does-primark-deliver-why-cant-shop-primark-online-576929",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:167,cw:2666,ch:2000,q:80,w:2560/Bhga5fLrNK2wLcMMpwMc9d.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxH7cUkneiIBlHsmp4TJDTSjFwPEOw5z7EWvvtTi8x8AyEo353",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Primark online shopping: Can you order online and does Primark deliver?",
+        "source": "GoodtoKnow",
+        "link": "https://www.goodto.com/family/money-news/does-primark-deliver-why-cant-shop-primark-online-576929",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:167,cw:2666,ch:2000,q:80,w:2560/Bhga5fLrNK2wLcMMpwMc9d.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxH7cUkneiIBlHsmp4TJDTSjFwPEOw5z7EWvvtTi8x8AyEo353"
+      },
+      "webpage": {
+        "text": "Primark online shopping explained: does Primark deliver?\n\nThis article has been updated to provide additional information about which Primark stores offer click and collect, as well as the news about the click and collect offering expanding. \n\nPrimark online shopping has been on the wishlist of many of the retailers fans, but are they planning on launching an online store anytime soon? \n\nEven before the cost of living crisis took hold, many shoppers were keen to bag a bargain, whether it was shopping at the cheapest supermarket, debating whether Aldi or Lidl is cheaper, or shopping at the hugely popular Primark. \n\nWhile it has more than 70,000 employees across more than 400 stores all over the world, Primark was actually founded in Ireland back in 1969. Initially a clothing store, it has expanded to also sell beauty, homewares and accessories, cementing itself as an affordable high street staple. \n\nBut while many shoppers will still hit the high street and buy in person, many prefer the convenience and extra choice that comes with shopping online. \n\nPrimark does offer online shopping on some products, but it's only available as click and collect from 57 of its UK stores. \n\nThe retailer's click and collect trial was initially restricted to the north west of England, but is now available across stores in Greater London and north Wales. The trial was also limited to kids' and nursery products, but as of 13 September, a selection of womenswear will also be available to purchase with click and collect at participating stores. \n\nOnce the 1,000 womenswear items are available, that means shoppers will be able to shop from around 2,500 Primark products it total via the click and collect trial. \n\nParenting advice, hot topics, best buys and family finance tips delivered straight to your inbox.\n\nIf you don't live near one of the 57 stores taking part in the trial, you can still browse current ranges on the website and check availability in your local store, but you will need to head in store to purchase. \n\nThese are the Primark stores that currently offer click and collect:\n\n * Manchester - Market Street\n   \n * Birkenhead\n   \n * Wallasey\n   \n * Trafford Centre\n   \n * Bolton\n   \n * Bury\n   \n * Sheffield - The Moor\n   \n * Huddersfield\n * Lancaster\n   \n * Carlisle\n   \n * Broughton Park\n   \n * Southport\n   \n * Chester\n   \n * Llandudno\n   \n * Oldham\n   \n * Blackburn\n   \n * Stockport\n * Wrexham\n   \n * Wigan\n   \n * Liverpool\n   \n * Burnley\n   \n * Blackpool\n   \n * Preston\n   \n * Meadowhall\n   \n * Warrington\n * Bexleyheath\n * Bluewater\n * Bromley\n * Charlton\n * Croydon\n * Dartford\n * Ealing\n * East Ham\n * Hackney\n * Hammersmith\n * Harrow New\n * Hounslow\n * Ilford\n * Kilburn\n * Kingston\n * Lakeside\n * London Oxford Street East\n * London Oxford Street West\n * Lewisham\n * Peckham\n * Romford\n * Staines\n * Stratford\n * Sutton\n * Tooting\n * Uxbridge\n * Wandsworth\n * Watford\n * Wembley\n * White City\n * Wood Green\n * Woolwich\n\n\nDoes Primark deliver?\n\nUnfortunately Primark doesn't deliver. Any online orders are only available for click and collect from select stores only - much to the dismay of customers who prefer to shop online. \n\nPrimark does have a website where you can browse a range of its current products, and in some cases you can shop online and collect from one of 57 stores, but you can't go as far as placing an order that will arrive at your front door.\n\nSeeing as the retailer didn't move into the world of online ordering and delivery during the pandemic, it's unlikely that it will offer this service any time soon. \n\n\nWhy doesn't Primark sell online?\n\nDespite pleas from customers, especially during the pandemic, Primark has previously stated that its famously cheap price tags would suffer if they moved their store online.\n\nEven with the popularity of the click and collect service (the surge of online shoppers caused the website to crash for four hours when it was introduced in November 2022), the retailer is focusing on opening new stores across the world, with a goal of 530 stores by the end of 2026. \n\nIf you need to buy something for your family, whether it's one of the best toys or best pushchairs, then let our range of buying guides steer you in the right direction.",
+        "metadata": {
+          "title": "Primark online shopping explained: does Primark deliver? | GoodtoKnow",
+          "description": "We explain all you need to know about Primark online shopping, including whether you can order online and if Primark offers delivery",
+          "og:site_name": "GoodtoKnow",
+          "og:locale": "en_GB",
+          "og:image": "https://cdn.mos.cms.futurecdn.net/Bhga5fLrNK2wLcMMpwMc9d-2560-80.jpg",
+          "og:image:width": "2560",
+          "og:image:height": "1707",
+          "og:image:alt": "Exterior of Primark store in a shopping centre",
+          "og:type": "article",
+          "article:publisher": "https://www.facebook.com/goodtoknow.co.uk/",
+          "og:title": "Primark online shopping: Can you order online and does Primark deliver?",
+          "og:url": "https://www.goodto.com/family/money-news/does-primark-deliver-why-cant-shop-primark-online-576929",
+          "og:description": "We explain all you need to know about Primark online shopping, including whether you can order online and if Primark offers delivery",
+          "article:published_time": "2022-11-14T16:22:38Z",
+          "article:modified_time": "2023-09-11T08:56:48Z",
+          "article:section": "Money News",
+          "article:author": "https://www.goodto.com/author/selina-maycock",
+          "article:tag": "Aldi",
+          "mrf:authors": "Sarah Handley;Selina Maycock",
+          "mrf:tags": "region:US;articleType:Feature;control:apple-news-format;control:serversidehawk;category:Money News;category:Money;freeform:Family finance;freeform:Aldi",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@goodtoknow",
+          "twitter:title": "Primark online shopping: Can you order online and does Primark deliver?",
+          "twitter:description": "We explain all you need to know about Primark online shopping, including whether you can order online and if Primark offers delivery",
+          "twitter:creator": "@goodtoknow",
+          "twitter:image": "https://cdn.mos.cms.futurecdn.net/Bhga5fLrNK2wLcMMpwMc9d-1200-80.jpg",
+          "apple-news-title": "Primark online shopping: Can you order online and does Primark deliver?",
+          "twitter:account_id": "15469402"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "name": "Primark online shopping explained: does Primark deliver? | GoodtoKnow",
+          "url": "https://www.goodto.com/family/money-news/does-primark-deliver-why-cant-shop-primark-online-576929",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://cdn.mos.cms.futurecdn.net/Bhga5fLrNK2wLcMMpwMc9d.jpg",
+            "caption": "Exterior of Primark store in a shopping centre"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Primark ne propose pas de service de livraison à domicile, mais offre un service de retrait en magasin (click and collect) étendu à 57 de ses magasins au Royaume-Uni (notamment dans le nord-ouest de l'Angleterre, le Grand Londres et le pays de Galles) pour une sélection de produits pour enfants, de puériculture et, à partir du 13 septembre, de vêtements pour femmes, ce qui représente environ 2 500 produits disponibles au total.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Ireland",
+          "England",
+          "Greater London",
+          "Wales",
+          "Manchester",
+          "Birkenhead",
+          "Wallasey",
+          "Trafford Centre",
+          "Bolton",
+          "Bury",
+          "Sheffield",
+          "Huddersfield",
+          "Lancaster",
+          "Carlisle",
+          "Broughton Park",
+          "Southport",
+          "Chester",
+          "Llandudno",
+          "Oldham",
+          "Blackburn",
+          "Stockport",
+          "Wrexham",
+          "Wigan",
+          "Liverpool",
+          "Burnley",
+          "Blackpool",
+          "Preston",
+          "Meadowhall",
+          "Warrington",
+          "Bexleyheath",
+          "Bluewater",
+          "Bromley",
+          "Charlton",
+          "Croydon",
+          "Dartford",
+          "Ealing",
+          "East Ham",
+          "Hackney",
+          "Hammersmith",
+          "Harrow New",
+          "Hounslow",
+          "Ilford",
+          "Kilburn",
+          "Kingston",
+          "Lakeside",
+          "London Oxford Street East",
+          "London Oxford Street West",
+          "Lewisham",
+          "Peckham",
+          "Romford",
+          "Staines",
+          "Stratford",
+          "Sutton",
+          "Tooting",
+          "Uxbridge",
+          "Wandsworth",
+          "Watford",
+          "Wembley",
+          "White City",
+          "Wood Green",
+          "Woolwich"
+        ],
+        "ORGANIZATION": [
+          "GoodtoKnow",
+          "Aldi",
+          "Lidl",
+          "Primark"
+        ],
+        "DATE": [
+          "1969",
+          "13 September"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7360004482650881
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Bluewater shopping centre",
+      "Dartford",
+      "Kent"
+    ],
+    "ORGANIZATION": [
+      "Fat Face"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Ireland",
+      "United Kingdom"
+    ],
+    "ORGANIZATION": [
+      "Primark",
+      "Forever 21",
+      "H&M",
+      "Zara"
+    ],
+    "DATE": [
+      "1969"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7512844963401147,
+  "S_ent": 0.3333333333333333,
+  "S_OOC": 0.542308914836724,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE"
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "id_rumeur": 709935,
+  "id_image": 829807,
+  "caption": "An Israeli soldier searches in the rubble of a school during a drill simulating an earthquake in Holon Israel in 2012 More drills are expected soon",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748655/oluyewo_benchmark/iskhufpnjxhjbfnmievm.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Violence returns to Darfur",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/news/picture/idUSRTR3IJ5V/",
+      "image_url": "https://archive-images.prod.global.a201836.reutersmedia.net/2014/03/25/2014-03-25T180512Z_03_GM1EA3Q03G201_RTRRPP_0_SUDAN.JPG",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHRbQhTCms3vvJx0OHGXIa6ezaMbuVAwft4DL4yD1eGlWgj8yO",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Violence returns to Darfur",
+        "link": "https://www.reuters.com/news/picture/idUSRTR3IJ5V/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHRbQhTCms3vvJx0OHGXIa6ezaMbuVAwft4DL4yD1eGlWgj8yO",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://archive-images.prod.global.a201836.reutersmedia.net/2014/03/25/2014-03-25T180512Z_03_GM1EA3Q03G201_RTRRPP_0_SUDAN.JPG",
+        "image_width": 533,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Violence returns to Darfur, published by Reuters.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Darfur"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Violence returns to Darfur"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7676842254810794
+    },
+    {
+      "titre": "THE NEW OFFENSIVE AGAINST INSECURITY – THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "lien": "https://www.thisdaylive.com/2026/06/30/the-new-offensive-against-insecurity/",
+      "image_url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/INSECURITY-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHC_IXVB6I3M4n9o_S24pt_icoKWBuJbfWMVZqZcZylwEbRD0",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "THE NEW OFFENSIVE AGAINST INSECURITY – THISDAYLIVE",
+        "link": "https://www.thisdaylive.com/2026/06/30/the-new-offensive-against-insecurity/",
+        "source": "THISDAYLIVE",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVHcEw9IR4AHBugoaFlJCF6JiNHIh-RKCQAFhUAEBBYWlkAAAB8fHvnMCr____rMCroLCbnJR7mHBP96enxm5joPTfGLSfcLyn2y8n2t7X14eD89fXqTUn119b1qqjpX1vwiIXuenbtamasSXsbAAAADXRSTlMAjF741POm9yoUpl7bCfMBNgAAAbNJREFUOI1lU9mCgyAMtK2KdhfkVA7x-v-P3ICAtpu3munMZBKqqlT_bOsGoaZun331v7oWjRMeoPA0orb7avcPNEEr1TBM6PHB0tUjpfhew1jfSLpGHfvMWcFQzuap6a4-xmpdtFT8hFC1iJ3ijOjrKXxku7ByDixs1kQHaH36eIzRHWWrcHZXjM2eaEWDj0cUQNk924lwfl2tW047Awoi7VSscwMIsuiNpw9TCw4KAahgS4Qlpow8oL56jhcAc0mI8ESyksbzrgAMG0gIL46MAI26ZBPGN5sIHD6bGOqqORXoatgslxVEgEPvLJuoskflzAY5YbppQoz8D4ARFxzcA5EWeqMZkCSYJNodLBTnnM42caBs0riDy41K7b2HnLl0W0TU55h0NiDPZ0tihd4SKWDMFBSET1fvjPEA8DGTFFSJmklHyHKIQHFN2V_LokIIkkrza1ll3WrZt4I4buvOB6PAu8kAw3E5GDi5vCwII5WNGunk4tHmNFO58PPjrIMKUy4DiKK3fnw4A-VKlz75fDjx6a3SXn379fQCyftlk4Kzr_f3440sP-_fF9Tv--f27z8FxDP5OX0qPwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHC_IXVB6I3M4n9o_S24pt_icoKWBuJbfWMVZqZcZylwEbRD0",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/INSECURITY-1.jpg",
+        "image_width": 414,
+        "image_height": 738
+      },
+      "webpage": {
+        "text": "THE NEW OFFENSIVE AGAINST INSECURITY – THISDAYLIVE\n\n‘Operation Kosaye’, a coordinated security initiative driven by the NSA and IGP, is commendable, writes\n\n ADEDAMOLA OGUNYEMI\n\nNigeria’s security crisis has evolved into one of the gravest challenges confronting the nation since after the civil war ended in 1970. What began two decades ago as an extremist religious uprising in Borno State under the dreaded Boko Haram sect has, over the years, metastasized into a frightening web of insecurity. Today, the country contends with insurgency, terrorism, kidnapping, banditry, armed robbery and a growing network of violent criminal groups operating across virtually every geopolitical zone.\n\nPerhaps the most disturbing aspect of this evolution is that regions once regarded as relatively peaceful are no longer immune. The Southwest, long considered one of Nigeria’s safest regions, has increasingly come under siege. Kidnappings along major highways, attacks on farming communities and criminal incursions into forest reserves have become recurring nightmares. States like Kwara and Oyo have witnessed disturbing security breaches, while neighbouring Kogi, Benue and Taraba continue to battle relentless attacks by armed criminal gangs.\n\nAgainst this gloomy backdrop, last week’s dramatic rescue of five kidnapped victims at the Ogbere axis of the Sagamu-Benin Expressway offers some hope to Nigerians.\n\nThe incident itself was tragically familiar. Armed kidnappers emerged from the thick forest bordering the expressway, opened fire indiscriminately at moving vehicles, caused multiple collisions and abducted five innocent travellers. Like countless other victims before them, they were marched deep into the forest where ransom negotiations began almost immediately.\n\nThe criminals demanded between N40 million and N50 million from each captive and threatened death should their families fail to comply. Ordinarily, Nigerians have sadly become accustomed to such horrifying stories ending differently. Victims often spend weeks or months in captivity. Families sell property, borrow heavily or exhaust life savings to pay ransoms. Some victims never return alive.\n\nBut this time, something changed. Within twenty-four hours, the Nigeria Police Force successfully located the kidnappers’ hideout, rescued all five victims alive, neutralised four kidnappers in a fierce gun battle while another escaped with gunshot wounds in a new offensive against insecurity. Four additional suspected kidnappers were arrested during follow-up operations, alongside scores of other criminal suspects.\n\nThis was no ordinary rescue operation.\n\nIt was the first major public demonstration of “Operation Kosaye” which literally means “No Place for Criminals”, a coordinated security initiative jointly driven by the Office of the National Security Adviser (NSA), Mallam Nuhu Ribadu, himself a retired police officer and the Nigeria Police Force (NPF) under Inspector-General of Police (IGP), Mr. Tunji Disu.\n\nImportantly, this successful new offensive under reference is a demonstration of what is possible when intelligence, coordination, technology and operational capacity work together under a unified command structure. For years, one recurring criticism of Nigeria’s security architecture has been poor inter-agency collaboration. Intelligence was often compartmentalised. Agencies worked in silos. Valuable information sometimes failed to reach those who needed it most. The Office of the National Security Adviser was created precisely to prevent such fragmentation. Its statutory responsibility extends beyond advising the President. It serves as the nation’s principal coordinating institution, ensuring that intelligence gathered by various security agencies is harmonised, analysed and deployed effectively against emerging threats. The success recorded at Ogbere illustrates the enormous value of that coordinating role.\n\nUnder Mallam Nuhu Ribadu’s leadership, the NSA’s office has increasingly focused on improving intelligence sharing, operational synergy and strategic collaboration among security agencies. That coordination, working seamlessly with the operational leadership of the Inspector-General of Police, translated intelligence into swift action.\n\nRather than allowing kidnappers days or weeks to disappear into vast forests, security forces moved rapidly, deployed technology including drones, tracked the criminals and mounted a rescue operation that not only saved lives but eliminated key members of the gang. This is precisely how modern security operations are expected to function.\n\nIndeed, Operation Kosaye appears to represent more than just another police exercise. It signals an evolving doctrine that recognises criminals do not respect state boundaries. Kidnappers exploit jurisdictional limitations, moving freely across state lines while security agencies struggle with fragmented responses. Operation Kosaye directly addresses this weakness. By integrating Lagos and Ogun commands into one operational framework, supported by the strategic coordination of the NSA’s office, criminals are denied the luxury of exploiting administrative boundaries.\n\nEqually commendable is the emphasis on technology. The use of drones to establish precise coordinates of the kidnappers’ location significantly improved operational efficiency while reducing risks to the hostages. This reflects the changing face of policing globally. Today’s battle against organised crime is increasingly intelligence-driven rather than manpower-driven. Technology, surveillance, data analytics, aerial reconnaissance and rapid communication now constitute the backbone of effective security operations. Nigeria cannot afford to remain behind.\n\nAnother striking feature of the operation is the speed of response. In security management, time is often the difference between life and death. The longer kidnappers retain custody of victims, the more complicated rescue operations become. Criminals disperse, relocate hostages or fortify their hideouts. The rescue of all five victims within twenty-four hours demonstrates what efficient intelligence coordination and decisive leadership can achieve.\n\nEqually remarkable were the testimonies of the rescued victims themselves. Many openly admitted they had previously criticised the Nigeria Police. After experiencing first-hand the courage displayed by officers who entered dense forests under heavy gunfire to rescue complete strangers, they publicly changed their perception. One victim described the rescue as something he never imagined possible in Nigeria. Another prayed that stray bullets would never meet the officers wherever they went. Perhaps most emotional was the testimony of Mrs. Blessing Nsofor, herself nursing a bullet wound while anxiously awaiting news of her kidnapped daughter. She confessed that she had once been among those who regularly criticised the police. Following the rescue, she publicly declared she would now give the officers “100 per cent.”\n\nSuch testimonies carry profound significance. Public confidence remains one of the strongest weapons any security agency can possess. Communities are more willing to share intelligence when they trust security agencies. Citizens cooperate more readily when they believe their information will produce results. Successful operations, therefore, generate a positive cycle of increasing public confidence, improved intelligence gathering and even greater operational success.\n\nHowever, one successful operation should not breed complacency. Rather, it should become a template for nationwide replication. The forests across many parts of Nigeria continue to provide safe havens for criminal gangs. Vast ungoverned spaces remain attractive to kidnappers, bandits and terrorists. The recommendations made by the rescued victims deserve serious consideration. Permanent security checkpoints should be strengthened along vulnerable highway corridors. Forest reserves bordering major roads should be systematically monitored, mapped and where necessary cleared.\n\nLocal communities must be integrated into intelligence networks since they possess invaluable knowledge of the terrain. Technology deployment must also continue expanding. Above all, the strategic coordination being provided by the Office of the National Security Adviser must receive sustained institutional support.\n\nNo single agency can defeat today’s complex criminal networks operating across multiple states. Success depends upon intelligence fusion, inter-agency trust, logistical support, political will and unified operational command. The partnership now emerging between the NSA’s office and the Inspector-General of Police provides an encouraging model. Rather than competing for recognition, institutions are increasingly combining comparative advantages toward achieving a common objective which is making Nigeria safer. That collaborative spirit deserves commendation. It deserves greater investment. And it deserves replication across all regions confronting similar security threats.\n\nOperation Kosaye may still be in its infancy, but its first major success has already sent a powerful message. There can indeed be “no place for criminals” when intelligence is shared promptly, technology is effectively deployed, leadership is decisive and security agencies operate as one.\n\nOgunyemi, a security strategist and consultant, writes from Abuja",
+        "metadata": {
+          "title": "THE NEW OFFENSIVE AGAINST INSECURITY &#8211; THISDAYLIVE",
+          "og:image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/INSECURITY-1.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "The new offensive against insecurity titled 'Operation Kosaye' ('No Place for Criminals'), a coordinated security initiative driven by the Office of the National Security Adviser (NSA) and the Nigeria Police Force (NPF). Nigeria faces a security crisis including insurgency, terrorism, kidnapping, banditry, and armed robbery across regions such as Borno State, the Southwest, Kwara, Oyo, Kogi, Benue, and Taraba. Recent events include the rescue of five kidnapped victims at the Ogbere axis of the Sagamu-Benin Expressway, where four kidnappers were neutralised and four others arrested.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Adedamola Ogunyemi",
+          "Nuhu Ribadu",
+          "Tunji Disu"
+        ],
+        "LOCATION": [
+          "Nigeria",
+          "Borno State",
+          "Southwest",
+          "Kwara",
+          "Oyo",
+          "Kogi",
+          "Benue",
+          "Taraba",
+          "Ogbere",
+          "Sagamu-Benin Expressway"
+        ],
+        "ORGANIZATION": [
+          "THISDAYLIVE",
+          "Boko Haram",
+          "Nigeria Police Force",
+          "NPF",
+          "Office of the National Security Adviser",
+          "NSA"
+        ],
+        "DATE": [
+          "2026/06/30",
+          "1970",
+          "two decades ago",
+          "last week"
+        ],
+        "EVENT": [
+          "civil war",
+          "Operation Kosaye"
+        ],
+        "OTHER": [
+          "Operation Kosaye"
+        ]
+      },
+      "score_e5": 0.7082929210037129
+    },
+    {
+      "titre": "Israeli forces step up attacks across Gaza | Israel ...",
+      "source": "Al Jazeera",
+      "lien": "https://www.aljazeera.com/gallery/2024/6/21/israeli-forces-step-up-attacks-across-gaza",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-19T095955Z_580446504_RC27E8ACNNTV_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-RAFAH-1718794328.jpg?fit=1170,780&quality=80",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8djkuOMHwSO0kNP2tX6jKyEVDArJmkoRIRulwnQ_dXooP4Xm8",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Israeli forces step up attacks across Gaza | Israel ...",
+        "link": "https://www.aljazeera.com/gallery/2024/6/21/israeli-forces-step-up-attacks-across-gaza",
+        "source": "Al Jazeera",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEX6kAD6jQD6iwD6jgD8w3b916P8vGb8wXH-4rz6iQD6mxn8v2v7rED9zY392Kb93rP6lxD91Jz-7NT8yIH7qDj7oin8tVb8umH7r0j7niL-8d7-58n7pDL926z7s1D9yYX90ZT_____9-v-5cL-7df8t1oeeSrwAAABGUlEQVQ4ja2SzYKDIAyE-QcRJYIoolKr7fu_4h72VtEednPlYyaZBKH_Lkq_AKDvCWy-AER-A-qa3FuEFPAdQA2b4dqkirOfmvZSgi6Wewvqsg0cVVev7eSWsgYlC-cssyar8jt6qJ5tser6TRZMKNgGhW0FMAyOQlyUe039w4MIbcPYSYL2q466acIA8pnCCp8AkQMyw8gogp374M3nIETGSNgyykm_tdPvUxYkzs9RIptGC_Najf4ToNr1XEy7AXO4qdrOALIu5dgxwl9GhT2fk6jF27D4aNOExmM_rxQLqAYV8-as2p8FARq6wc7D5jk_uuK2cJxTzpILoKS8TYyACZFM7i9PChvr9tuzxkFef_9t9cL-L_UD328RgUEn6xwAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8djkuOMHwSO0kNP2tX6jKyEVDArJmkoRIRulwnQ_dXooP4Xm8",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-19T095955Z_580446504_RC27E8ACNNTV_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-RAFAH-1718794328.jpg?fit=1170,780&quality=80",
+        "image_width": 780,
+        "image_height": 1170
+      },
+      "webpage": {
+        "text": "Israeli forces step up attacks across Gaza | Israel-Palestine conflict News\n\nIsraeli tanks push deeper into western Rafah in the southern Gaza Strip, firing shells at displaced people’s tents.\n\n\nThe Israeli military pounded Rafah in the southern Gaza Strip even as it intensified its attacks in the north and centre of the besieged Palestinian territory.\n\nResidents said Israeli forces seemed to be trying to complete their capture of Rafah, the city on the enclave’s southern edge that has been the focus of a fierce assault since early May.\n\nTanks were forcing their way into the western and northern parts of the city, having already captured the east, south and centre.\n\nIsraeli forces fired from planes, tanks and ships off the coast, forcing a new wave of displacement from the city, which had been sheltering more than a million displaced people, most of whom have been forced to flee again.\n\nPalestinian health officials said at least 12 Palestinians had been killed in separate Israeli military strikes on Friday.\n\nThe Israeli military said on Friday its forces were conducting “precise, intelligence-based” actions in the Rafah area, where troops were involved in close-quarters combat and had located tunnels used by Palestinian group Hamas.\n\nSome Rafah residents said the pace of the Israeli raid had accelerated in the past two days. They said the sounds of explosions and gunfire were almost non-stop.\n\n“Last night was one of the worst nights in western Rafah. Drones, planes, tanks, and naval boats bombarded the area. We feel the occupation is trying to complete the control of the city,” said Hatem, 45, reached by text message.\n\n“The entire city of Rafah is an area of Israeli military operations,” Ahmed al-Sofi, the mayor of Rafah, said. “The city lives through a humanitarian catastrophe and people are dying inside their tents because of Israeli bombardment.”\n\nPalestinian and United Nations figures show that fewer than 100,000 people may have remained in the far western side of the city, which had been sheltering more than half of Gaza’s 2.3 million people before the Israeli offensive began in May.\n\n----------------------------------------",
+        "metadata": {
+          "title": "Photos: Israeli forces step up attacks across Gaza",
+          "description": "Israeli tanks push deeper into western Rafah in the southern Gaza Strip, firing shells at displaced people’s tents.",
+          "keywords": "Gallery, News, Gaza, In Pictures, Israel-Palestine conflict, Israel, Middle East, Palestine",
+          "pageTitle": "Israeli forces step up attacks across Gaza",
+          "og:title": "Photos: Israeli forces step up attacks across Gaza",
+          "og:description": "Israeli tanks push deeper into western Rafah in the southern Gaza Strip, firing shells at displaced people’s tents.",
+          "og:url": "https://www.aljazeera.com/gallery/2024/6/21/israeli-forces-step-up-attacks-across-gaza",
+          "og:type": "article",
+          "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/06/AFP__20240621__34Y23XE__v1__HighRes__PalestinianIsraelConflict-1718961397.jpg?resize=1920%2C1440",
+          "og:site_name": "Al Jazeera",
+          "og:image:alt": "Photos: Israeli forces step up attacks across Gaza",
+          "twitter:title": "Photos: Israeli forces step up attacks across Gaza",
+          "twitter:description": "Israeli tanks push deeper into western Rafah in the southern Gaza Strip, firing shells at displaced people’s tents."
+        },
+        "jsonld": {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.aljazeera.com#Organization",
+          "foundingDate": "2006-11-15",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com",
+          "logo": "https://www.aljazeera.com/images/logo_aje.png",
+          "sameAs": [
+            "https://www.facebook.com/aljazeera",
+            "https://twitter.com/ajenglish",
+            "https://www.youtube.com/aljazeeraenglish",
+            "https://www.instagram.com/aljazeeraenglish/?hl=en"
+          ],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Al Jazeera Media Network",
+            "alternateName": "شبكة الجزيرة الإعلامية"
+          },
+          "@context": "https://schema.org"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Israeli forces step up attacks across Gaza, pushing deeper into western Rafah in the southern Gaza Strip and firing shells at displaced people's tents. Operations include airstrikes, tank shelling, and naval bombardment, causing a new wave of displacement from Rafah. Palestinian health officials reported at least 12 Palestinians killed in separate strikes, while the Israeli military stated it is conducting precise, intelligence-based actions targeting Hamas tunnels.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hatem",
+          "Ahmed al-Sofi"
+        ],
+        "LOCATION": [
+          "Gaza",
+          "Rafah",
+          "Gaza Strip",
+          "Palestine"
+        ],
+        "ORGANIZATION": [
+          "Al Jazeera",
+          "Hamas",
+          "United Nations"
+        ],
+        "DATE": [
+          "2024/6/21",
+          "Friday",
+          "early May",
+          "the past two days",
+          "Last night"
+        ],
+        "EVENT": [
+          "Israel-Palestine conflict"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7560755803703184
+    },
+    {
+      "titre": "Boko Haram Raids Military Posts in Northeast Nigeria",
+      "source": "VOA",
+      "lien": "https://www.voanews.com/a/boko-haram-raids-military-posts-in-northeast-nigeria-/4726770.html",
+      "image_url": "https://gdb.voanews.com/d7b361e5-1da1-413f-95d6-333fc4a62083_w1080_h608_s.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTafQ7AQjORJUvTgO58jv3lHCOdtnOZz8RMhcKF479ObT91njj8",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Boko Haram Raids Military Posts in Northeast Nigeria",
+        "link": "https://www.voanews.com/a/boko-haram-raids-military-posts-in-northeast-nigeria-/4726770.html",
+        "source": "VOA",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Oi46Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3NzY3Nzc3NSwrMjA3Nzc3MDctLDc1ODc0OC04NTI1NzQ0NzU1MDI4NTc3Lv_AABEIACAAIAMBEQACEQEDEQH_xAAaAAACAgMAAAAAAAAAAAAAAAAEBQMGAAEH_8QAJhAAAgEDAgUFAQAAAAAAAAAAAQIDBAURABMGEiExQSJRYZGhQv_EABkBAAMAAwAAAAAAAAAAAAAAAAACBAEDBv_EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEIRITQhEUQf_aAAwDAQACEQMRAD8AR22TngKHuh_NdFOfU6heiNNqSrBh3ByNEI-icSRq47MM6I8UcA2mjvNxqaWqnmilEXPFtkYbB65yPkfup8m1qlDATOLUtjEExs3D52aOmRZpLrUh22gyrHGikjJyM-PfS_Y2W8ibOjQHowix8LiqudXQXWSWnmgRXVYyDzA-c4Ix2-9Ldk8UDpsGNVj8mKvr4kMlK1ur6q3uSdh_QT_SnqDqip-xA01OnBisqHD9zaz3mlr1BIhf1qvdlPRh9HWba-xCs0U2dbhpc7vxYldX0dytEctPLFGylpQp5gT2wCRjv96mqxuKFH2DLLMnkwdNfEhXiA7NZUu00l1qQi7pVVjjRSDgYOfHtpvr7C-RF79E-jJL5e6S63SnqqaGWJ-Tbl3MYPXoRg_J_NZx6mqUqTC-1bGBAnPtUyGMbXJlWjPjqNEdD-Q7RHmaIT__2Q.jpeg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTafQ7AQjORJUvTgO58jv3lHCOdtnOZz8RMhcKF479ObT91njj8",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://gdb.voanews.com/d7b361e5-1da1-413f-95d6-333fc4a62083_w1080_h608_s.jpg",
+        "image_width": 608,
+        "image_height": 1080
+      },
+      "webpage": {
+        "text": "Boko Haram Raids Military Posts in Northeast Nigeria \n\nBoko Haram jihadists have raided at least three military posts and overpowered troops in the latest attacks in northeast Nigeria, sources said Wednesday.\n\nFighters from the IS-affiliated Islamic State West Africa Province (ISWAP) overran the posts in Borno state on Tuesday, military and militia sources told AFP.\n\nThe Boko Haram faction has in recent months intensified attacks on military targets in Borno and Yobe states, raiding bases and killing dozens of troops.\n\n\"They first dislodged soldiers at a checkpoint in Kimba in Biu ... and then took over another post at Sabon Gari, five kilometers [three miles] away,\" one military officer said of the latest attacks.\n\nThe jihadists launched another attack on a base in nearby Wajirko, according to a militiaman in the area.\n\nOn Monday, the jihadists had overwhelmed troops in Buni Gari village in neighboring Yobe state, leading to \"some losses,\" an army officer said.\n\n\"Troops were outgunned and forced to retreat after heavy fighting with the terrorists,\" the military source said.\n\nReprisals\n\nISWAP gunmen apparently attacked the village in reprisals over the killing of fellow jihadists in the village last month.\n\nResidents alerted soldiers in a nearby military base as they arrived in trucks.\n\nDuring an attempt by jihadist fighters to seize another base on Wednesday in Damasak, the army said it lost a helicopter.\n\nDetails were scant, but if the aircraft was shot down by the insurgents, it would suggest that they now possess more sophisticated weapons than they have used in the last four years of fighting.\n\nISWAP has claimed responsibility for the attacks, saying it killed 14 soldiers and took another hostage, according to SITE intelligence, which monitors jihadist activities.\n\nLast week, the group took control of the strategic town of Baga, on the shores of Lake Chad.\n\nBorno and Yobe, along with nearby Adamawa state, have borne the brunt of nine years of jihadist violence that has claimed 27,000 lives and forced 1.8 million people to flee their homes.",
+        "metadata": {
+          "title": "Boko Haram Raids Military Posts in Northeast Nigeria&#xA0;",
+          "description": "Fighters from IS-affiliated Islamic State West Africa Province overran posts in Borno state Jan. 1, military and militia sources said",
+          "keywords": "Africa, Nigeria, boko haram, Borno State, ISWAP",
+          "fb:pages": "36235438073",
+          "apple-mobile-web-app-title": "VOA",
+          "og:title": "Boko Haram Raids Military Posts in Northeast Nigeria ",
+          "og:description": "Fighters from IS-affiliated Islamic State West Africa Province overran posts in Borno state Jan. 1, military and militia sources said",
+          "og:type": "article",
+          "og:url": "https://www.voanews.com/a/boko-haram-raids-military-posts-in-northeast-nigeria-/4726770.html",
+          "og:site_name": "Voice of America",
+          "article:publisher": "https://www.facebook.com/voiceofamerica",
+          "og:image": "https://gdb.voanews.com/d7b361e5-1da1-413f-95d6-333fc4a62083_w1200_h630.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "fb:app_id": "362002700549372",
+          "Author": "Agence France-Presse",
+          "twitter:title": "Boko Haram Raids Military Posts in Northeast Nigeria ",
+          "twitter:description": "Fighters from IS-affiliated Islamic State West Africa Province overran posts in Borno state Jan. 1, military and militia sources said"
+        },
+        "jsonld": {
+          "articleSection": "Africa",
+          "isAccessibleForFree": true,
+          "headline": "Boko Haram Raids Military Posts in Northeast Nigeria ",
+          "inLanguage": "en-US",
+          "keywords": "Africa, Nigeria, boko haram, Borno State, ISWAP",
+          "author": {
+            "@type": "Person",
+            "url": "https://www.voanews.com/author/agence-france-presse/vv-yt",
+            "description": "",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://gdb.voanews.com/f101b853-6f42-419b-a220-af703d188673.jpg"
+            },
+            "name": "Agence France-Presse"
+          },
+          "datePublished": "2019-01-03 01:50:42Z",
+          "dateModified": "2019-01-03 01:50:42Z",
+          "publisher": {
+            "logo": {
+              "width": 512,
+              "height": 220,
+              "@type": "ImageObject",
+              "url": "https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png"
+            },
+            "@type": "NewsMediaOrganization",
+            "url": "https://www.voanews.com",
+            "sameAs": [
+              "https://www.facebook.com/VOANews",
+              "https://twitter.com/voanews",
+              "https://www.youtube.com/user/VOAvideo",
+              "https://www.instagram.com/voanews/"
+            ],
+            "name": "Voice of America (VOA News)",
+            "alternateName": ""
+          },
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.voanews.com/a/boko-haram-raids-military-posts-in-northeast-nigeria-/4726770.html",
+          "url": "https://www.voanews.com/a/boko-haram-raids-military-posts-in-northeast-nigeria-/4726770.html",
+          "description": "Fighters from IS-affiliated Islamic State West Africa Province overran posts in Borno state Jan. 1, military and militia sources said",
+          "image": {
+            "width": 1080,
+            "height": 608,
+            "@type": "ImageObject",
+            "url": "https://gdb.voanews.com/d7b361e5-1da1-413f-95d6-333fc4a62083_w1080_h608.jpg"
+          },
+          "name": "Boko Haram Raids Military Posts in Northeast Nigeria "
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Boko Haram and ISWAP jihadists raided military posts and overpowered troops in northeast Nigeria, specifically in Borno and Yobe states, including attacks in Kimba in Biu, Sabon Gari, Wajirko, Buni Gari village, Damasak, and Baga. The army reported the loss of a helicopter during an attack in Damasak. The conflict has claimed 27,000 lives and forced 1.8 million people to flee over nine years across Borno, Yobe, and Adamawa states.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Nigeria",
+          "Borno state",
+          "Yobe state",
+          "Kimba",
+          "Biu",
+          "Sabon Gari",
+          "Wajirko",
+          "Buni Gari",
+          "Damasak",
+          "Lake Chad",
+          "Adamawa state"
+        ],
+        "ORGANIZATION": [
+          "VOA",
+          "Boko Haram",
+          "ISWAP",
+          "Islamic State West Africa Province",
+          "SITE intelligence"
+        ],
+        "DATE": [
+          "Wednesday",
+          "Tuesday",
+          "Monday",
+          "last month",
+          "last week",
+          "the last four years",
+          "nine years"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7057964376260654
+    },
+    {
+      "titre": "Mali: Army, UN Fail to Stop Massacre | Human Rights Watch",
+      "source": "Human Rights Watch",
+      "lien": "https://www.hrw.org/news/2020/03/18/mali-army-un-fail-stop-massacre",
+      "image_url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/multimedia_images_2020/202003africa_mali_ogossagou2eng.jpg?itok=_gaq9109",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtkklbsKJ2bgGEoj-AXEle59IAgGl4TwHY7mVQZ3NCJSANhbXn",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Mali: Army, UN Fail to Stop Massacre | Human Rights Watch",
+        "link": "https://www.hrw.org/news/2020/03/18/mali-army-un-fail-stop-massacre",
+        "source": "Human Rights Watch",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA1BMVEUAeLscL6QgAAAADUlEQVQYlWNgGAXIAAABEAABM8nxagAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtkklbsKJ2bgGEoj-AXEle59IAgGl4TwHY7mVQZ3NCJSANhbXn",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/multimedia_images_2020/202003africa_mali_ogossagou2eng.jpg?itok=_gaq9109",
+        "image_width": 675,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Mali: Army, UN Fail to Stop Massacre\n\n(Bamako) – An ethnic militia in Mali massacred over 35 villagers on February 14, 2020 after government troops left the area, Human Rights Watch said today. The killings in the village of Ogossagou occurred hours after village leaders alerted government officials that the Malian army had vacated a post created following the March 23, 2019 massacre of 150 people in the same village, and an hour after a United Nations peacekeeper convoy had passed through.\n\nArmed ethnic Dogon men chased civilians into the bush and killed them, decapitating and mutilating some, witnesses told Human Rights Watch. Most victims were ethnic Peuhl men from the village. An elderly Peuhl woman and four children were also killed, and 19 villagers remain unaccounted for. Witnesses gave Human Rights Watch the names of 20 Dogon men who witnesses recognized as being among the attackers, most from Ogossagou’s Dogon neighborhood, including some who had allegedly participated in the March 2019 killings. \n\n“Ethnic militias who apparently have no fear of being held to account have once again murdered and mutilated dozens of civilians,” said Corinne Dufka, Sahel director at Human Rights Watch. “The second massacre in Ogossagou was especially horrendous because the Malian army and UN peacekeepers might have prevented it.”\n\nHuman Rights Watch interviewed 18 people in Mali in February and March, including 10 witnesses to the attack, Peuhl community leaders, Malian justice and security officials, and foreign diplomats. In response to letters from Human Rights Watch, the government, in letters from two ministries, Defense and Veterans Affairs and Justice and Human Rights, said a “tactical error” led to the massacre, and that disciplinary measures were immediately taken, pending investigations which were being conducted. The UN mission said an investigation into the Ogossagou incident was underway.  \n\nOn February 13, Malian army soldiers withdrew from their post in Ogossagou without providing an explanation to the Peuhl villagers. Within hours, they observed a build-up of armed men in the Dogon neighborhood. Ogossagou villagers and Peuhl community leaders in Bamako, the capital, said they made numerous frantic calls to high-level Malian authorities, including several ministers, and to the UN peacekeeping mission, MINUSMA, warning of an imminent attack. A convoy of UN peacekeepers passed through the village an hour before the attack, apparently looking for the village of Ogossagou, but left after Dogon men apparently misdirected them, witnesses said.\n\nShortly after 5 a.m. on February 14, the attack began. “They searched through the bush, looking for people to kill,” a witness said. “They found my friend meters from where I was hiding … they dragged him out, shot him, and then mutilated his body.” Another witness said, “I saw them pull Bocarie, 47 years old, out of a house. ‘Please, in the name of God, don’t kill me!’ he said, but they slashed him with a machete and cut his throat.”\n\nThe killing only stopped three hours later, after Malian troops and UN peacekeepers arrived on the scene. One assailant was apprehended but the rest fled.\n\nOgossagou residents expressed outrage at the lack of protection and the lack of justice for the earlier massacre. “If those who killed in 2019 were put in jail, this second attack wouldn’t have happened,” a witness said. “What do I say to a woman who lost two children in last year’s attack, and her only remaining child in this one?” asked an elder.\n\nDeadly incidents of communal violence in central Mali have risen steadily since 2015, when Islamist armed groups moved from northern into central Mali. The violence has pitted ethnic self-defense groups from the agrarian Bambara and Dogon communities, which formed in response to the inadequate presence of state security forces, against mainly nomadic Peuhl or Fulani communities, which have been accused of supporting the armed Islamists.\n\nSince 2015, Human Rights Watch has documented the killing of over 800 civilians in central Mali in dozens of large-scale massacres of Peuhl civilians by Dogon and Bambara militias, as well as numerous killings, including massacres, of civilians by armed Peuhl men and Islamist armed groups. The epicenter of the violence is in Mopti region, and Bankass cercle, the administrative area where Ogossagou is located, has been particularly hard hit since 2019 with scores of reprisal killings of farmers and herders from all ethnic groups.\n\nMalian authorities should urgently arrest and appropriately prosecute those responsible for the February 14 massacre, including those who planned and orchestrated the attack, Human Rights Watch said. The authorities should disarm all abusive militias, including in Ogossagou, and resettle vulnerable residents who want to leave the village.  \n\n“The Malian authorities and parliament as well as the United Nations should investigate the role of the Malian army and UN peacekeepers, and take appropriate disciplinary action against anyone who was negligent in their duty to protect civilians in Ogossagou,” Dufka said.\n\nArmy Withdrawal on February 13\n\nOgossagou village is 15 kilometers south of the administrative headquarters of Bankass and has over one thousand inhabitants. The Peuhl and Dogon residents live in separate neighborhoods, 300 meters apart. In the aftermath of the March 2019 massacre, and given ongoing communal tension, a military post of about 40 soldiers from the Malian Armed Forces (FAMA) was established in Ogossagou to deter any further violence between the Peuhl and Dogon communities. The presence of the soldiers had reassured the Peuhl population from Ogossagou and several other Peuhl villages whose inhabitants had flooded into Ogossagou for protection after their own villages had come under attack by Dogon militias in 2018 and 2019.\n\n“Last year, when the president came to Ogossagou to offer condolences for the 2019 massacre, he promised the FAMA would remain here to protect us,” a village elder said. “I recall IBK [President Ibrahim Boubacar Keïta] saying, ‘Even if it takes 10 years for peace to return, they will remain.’ It was because of that promise that we stayed.” Another resident echoed the sentiments of the villagers interviewed: “We thought we were safe; the government promised it would never happen again.”\n\nPeuhl villagers described their confusion when, beginning at about 3 p.m. on February 13, they observed the Malian army taking down their tents and loading up their vehicles without notifying the community. “We thought they were changing guard, that other soldiers would be replacing them,” a resident said. “They couldn’t possibly leave without informing us, but they did.”\n\n“From the moment they started packing up – and we saw no one was replacing them – we started raising the alarm,” another resident said. “I was with the village chief when he called several people in Mopti and Bamako to tell them the soldiers were abandoning the village and that we were terrified of being attacked.”\n\nVillagers said the soldiers were well aware of ongoing deadly incidents. Fifteen Peuhl villagers who had ventured out of Ogossagou had been killed in recent months, a village elder said. He said that in early February, three Peuhl shepherds, including a 14-year-old boy, had been killed less than a kilometer from the village, allegedly by their armed Dogon neighbors.\n\nThe mother of one of the victims said, “My last-born son and two other youth left at 6 a.m. to gather food for our animals. A few hours later, we heard gunshots. My heart sank. When they didn’t return, we asked the FAMA to search for them. Later, they brought their bodies on a donkey cart for burial.”\n\nEight witnesses said that beginning at about 7 p.m. on February 13, they noticed armed men arriving in Ogossagou’s Dogon neighborhood on motorcycles, motorized taxis, and at least one car, indicating, to them, that an attack was being prepared. They said in the early hours of February 14, residents noticed motorcycle headlights in several places around the village, suggesting that armed men were, as one witness said, “getting in position like they did before the first [March] attack.”\n\n“As soon as the FAMA left, I said, ‘Tomorrow will not find us alive,’” a 58-year-old woman whose husband was wounded in the attack told Human Rights Watch. “From shortly after the FAMA pulled out and throughout the night we saw the headlights of motorcycles going into the Dogon neighborhood.”\n\nAn elder told Human Rights Watch: “No one slept that night. Many villagers decided to flee under cover of night, while those who remained in the village waited by the door, praying God would save them. As the first shots rang out, just after 5 a.m., we ran into the forest, amid the sound of gunfire and screaming and chaos.”\n\nFebruary 14 Attack\n\n“A gunshot, signaling the beginning of the attack, was heard immediately after the early morning call for prayer on February 14,” said the 58-year-old woman.\n\nScores of Dogon-speaking men armed with military assault weapons and hunting rifles stormed Ogossagou village and chased those fleeing into surrounding areas. Three hours later, at about 8 a.m., Malian security forces and peacekeepers from the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) arrived and dispersed the attackers. The Malian security forces exchanged fire with the attackers, killing several, and apprehended one, who remains in custody. In addition to killing several dozen civilians, the attackers also burned scores of houses and granaries and looted 700 animals, including cows, goats, sheep, and donkeys, and other valuables.\n\n“The Dogon had surrounded the village and fired at us as we ran and at people who’d scrambled up trees to hide,” said a villager. “Last time, they massacred villagers in the houses, but this time most people were killed in the bush.”\n\nTwo men described the killing and decapitation of 26-year-old Allaye Barry. One said:\n\nWe’d hidden in the bush, curled up, trying to avoid detection. Around 7 a.m., a large group of attackers passed by, and then stopped about 50 meters away. I recognized many of them including Dogon men I’d grown up with; most were armed with automatic rifles. As they searched for us, my heart raced. They found Allaye, around 10 meters away from me. They shot him point blank, then decapitated him and put his head in a sack. Minutes later, one of the attackers yelled that the FAMA were coming and ordered the others to break into three smaller groups and retreat.\n\nTwo residents saw an attacker fire a hunting rifle at two children, ages 9 and 14, wounding both. “They yelled at the children, who were curled up under a shrub, to ‘Get up, now!’ and immediately opened fire,” one witness said. “The children fell down, bleeding. The mother of one of the children was hiding nearby and as the attackers left, she yelled at her daughter to drag herself back into the bush to hide until the attack was over.”\n\nA few villagers said some attackers appeared to spare women and children. One woman said:\n\nThe women and children, including myself, had gathered in anticipation of the attack and when it started, we fled east, and the men went to the west. As I ran, two Dozos [traditional hunters] caught me, and one said, “Kill her, kill her.” But the other said, “No, they are women.” The men were hunted down in the bush… Honestly, I didn’t see any of the men who went west alive after the attack.”\n\nA 55-year-old woman said:\n\nFive women and seven of our children huddled together in a house under heavy gunfire when four Dogon, all armed with AKs [military assault rifles], forced their way through the door and ordered us out saying, “We’re killing all of you.” I said…trembling, “Please, have mercy on us…What will it serve you to kill us?” They searched the house for men and threatened to kill the only boy child, who was around 9 years old, but eventually they left us. As we fled, they set the house on fire, and looted everything, including our sheep, which they untied and took away with them.\n\nRetrieval of Bodies, Burials\n\nOn the basis of interviews with family members of victims, witnesses, and those who buried the dead, Human Rights Watch estimates that 36 residents, including 4 children, were killed in the Ogossagou massacre, while 19 others, including 3 children, remain missing.\n\n“The majority of the dead were men,” a village elder said. “We were finding the dead for several days: most scattered here and there in the bush, some up to two kilometers away. Several of those killed were displaced from other villages, including the chief of Guiwagou village.”\n\nA man who participated in the search, retrieval, and burial of bodies described finding his 27-year-old son among the dead:\n\nAfter the gunfire stopped, I couldn’t find my first-born son but had hope in my heart he’d survived. About a kilometer north of the village we came upon two bodies … they’d been peppered with gunfire … my heart sank when I recognized my boy. We found 21 bodies the first day – one here, two there – and seven more the following day.\n\nAnother man who helped retrieve the dead said he’d buried three people who had been decapitated, an elderly woman who had been burned in her house, and a father and his 2-year-old daughter.\n\nAlleged Perpetrators\n\nThe 10 witnesses to the attack who spoke to Human Rights Watch said the attackers were armed Dogon men who they alternatively called “Dozos,” “hunters,” “Dogon militiamen,” or members of Dan Na Ambassagou (meaning “hunters who trust in god” in Dogon), an umbrella group of Dogon village self-defense groups with a quasi-military structure.\n\nThe witnesses said most of the attackers were dressed in attire traditionally worn by the Dozos: reddish-brown clothing adorned with amulets, such as shells or mirrors, and some wearing caps with small animal horns. Some attackers were dressed in civilian attire. Witnesses also provided Human Rights Watch with the names of 20 alleged assailants whom they said they recognized, most of them from the Dogon neighborhood of Ogossagou.\n\nTwo Malian officials with knowledge of the government’s investigation into the February 14 attack told Human Rights Watch that a local Dan Na Ambassagou commander is suspected to be responsible for planning, organizing, and distributing the ammunition used in the attack. As far as Human Rights Watch has been able to determine, the authorities have yet to question him.\n\nOn February 15, Dan Na Ambassagou issued a statement denying responsibility for the attack. Two Dogon men from Ogossagou told Human Rights Watch that members of their community were not involved in the attack. They said the attackers were “unidentified assailants.” They said tensions between the Dogon and Peuhl communities were high, noting that in January, two Dogon men from Ogossagou village had been killed three kilometers away by “armed Peuhl men” as they collected grass for their animals to eat. They also said armed Peuhl men from the area had, in January, stolen hundreds of their animals.\n\nThree witnesses to the February 14 attack said they had identified a few armed Dogon men who had also participated in the 2019 massacre. “They were in the first attack – I saw them,” one said. “I named them to gendarmes investigating the 2019 attack, and again to gendarmes who investigated the 2020 attack.”\n\nAttempts to Alert Malian Security Forces\n\nThree community leaders from Ogossagou said that beginning at about 3 p.m. on February 13, they had made frantic telephone calls to military, security, and government representatives, and to MINUSMA, to express their concern about the departure of army personnel, and, later, after observing the movement of armed Dogon men into the village, their fears of an imminent attack.\n\nThe leaders said that they repeatedly appealed for the urgent return of Malian security force personnel to protect them. Among those they said they contacted were security force personnel – including gendarme and army personnel – based in Bankass, just 15 kilometers away. They said they continued raising the alarm and appealing for help until shortly before the attack.\n\nA Peuhl elder in Bamako said:\n\nIreceived updates [from Ogossagou] every five minutes – that armed men were flooding into the area, that they were firing in the air, that they were concentrating as they had before the first massacre. I communicated the situation far and wide. Well into the night, as the villagers realized all our efforts to get the army to return were in vain, it was total panic.  \n\nA witness who had attended a meeting of high-level government and MINUSMA officials in Mopti region the day after the massacre said that the Mopti region’s governor, Abdoulaye Cissé, was livid that he had not been informed of plans to remove Malian military forces. At the same meeting, the witness said, a high-level government official said three ministers, including the defense and security ministers, had been contacted in the early evening of February 13 to raise the alarm about the likelihood of an attack.\n\n“I’ve never seen an alert as loud and widely disseminated like this,” the person who attended the meeting said. “It was clear that every possible political and military authority, as well as MINUSMA, was informed of the likelihood of an imminent attack by armed Dogon men on the Peuhl community – ministers, gendarmes, police and army commanders, the UN, the judiciary, religious leaders. With millions of dollars spent on early warning and all the commitments for civilian protection, how could this possibly have happened?”\n\nA government delegation, with over 20 vehicles and senior military officers, visited Ogossagou the day after the attack. Two members of the delegation described having to pass through over 10 unofficial checkpoints between Sévaré and Ogossagou, all of which were manned by Dogon self-defense group members armed with assault weapons. The heavy presence of armed men contradicted promises made by the government to disarm the militias in the aftermath of the 2019 Ogossagou massacre.\n\nCommunity residents expressed profound anger and disappointment with both national and international authorities for their failure to protect Ogossagou. “After the massacre in 2019, the prime minster, minister of defense, minister of security, and the president promised to disarm the militias, dismantle militia checkpoints, bring the killers to justice, and ensure the survivors from Ogossagou would be safe,” a community elder said. “But less than a year later, voilà, we just buried over 35 more of our people.”\n\n“The authorities promised that the people who attacked us the first time would be put in prison, and yet they’ve killed again.” another elder said. “Many youths had lost their parents in the first incident and now they’re dead, too.”\n\nUN Troops’ Role\n\nTwo village leaders told Human Rights Watch that they had called MINUSMA staff and a UN hotline in Mopti shortly after the Malian army left the village on the evening of February 13. They said they were told that peacekeepers were going to be sent to the village. Several people with knowledge of UN operations said there was a group of several dozen Senegalese peacekeepers stationed at a temporary base in Dialassagou, 30 kilometers south of Ogossagou. MINUSMA’s mandate includes ensuring the security and protection of civilians.\n\nThree witnesses said that around 4 a.m. on February 14, about an hour before the attack began, a convoy of at least four UN vehicles passed by Ogossagou – on the road that separates the Peuhl and Dogon neighborhoods – but failed to stop in the Peuhl neighborhood, even though several villagers signaled for help with flashlights.\n\n“I saw four or five white vehicles on the road,” one resident said. “We said, ‘Thank God they have arrived.’ But to our surprise they didn’t stop to talk to us. We didn’t see them again until they showed up w",
+        "metadata": {
+          "title": "Mali: Army, UN Fail to Stop Massacre | Human Rights Watch",
+          "description": "An ethnic militia in Mali massacred over 35 villagers on February 14, 2020 after government troops left the area, Human Rights Watch said today. The killings in the village of Ogossagou occurred hours after village leaders alerted government officials that the Malian army had vacated a post created following the March 23, 2019 massacre of 150 people in the same village, and an hour after a United Nations peacekeeper convoy had passed through.",
+          "og:site_name": "Human Rights Watch",
+          "og:url": "https://www.hrw.org/news/2020/03/18/mali-army-un-fail-stop-massacre",
+          "og:title": "Mali: Army, UN Fail to Stop Massacre",
+          "og:description": "An ethnic militia in Mali massacred over 35 villagers on February 14, 2020 after government troops left the area, Human Rights Watch said today. The killings in the village of Ogossagou occurred hours after village leaders alerted government officials that the Malian army had vacated a post created following the March 23, 2019 massacre of 150 people in the same village, and an hour after a United Nations peacekeeper convoy had passed through.",
+          "og:image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/multimedia_images_2020/202003africa_mali_ogossagou2eng.jpg?itok=_gaq9109",
+          "og:image:secure_url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/multimedia_images_2020/202003africa_mali_ogossagou2eng.jpg?itok=_gaq9109",
+          "og:image:alt": "Part of the destroyed village of Ogossagou, attacked by armed Dogon men on February 14, 2020. The attack left over 35 Peuhl civilians dead. © 2020 Private.",
+          "og:updated_time": "2020-10-28T11:31:54-0400",
+          "article:publisher": "https://www.facebook.com/HumanRightsWatch",
+          "article:published_time": "2020-03-18T00:01:00-0400",
+          "article:modified_time": "2020-10-28T11:31:54-0400",
+          "twitter:description": "An ethnic militia in Mali massacred over 35 villagers on February 14, 2020 after government troops left the area, Human Rights Watch said today. The killings in the village of Ogossagou occurred hours after village leaders alerted government officials that the Malian army had vacated a post created following the March 23, 2019 massacre of 150 people in the same village, and an hour after a United Nations peacekeeper convoy had passed through.",
+          "twitter:title": "Mali: Army, UN Fail to Stop Massacre"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "An ethnic militia in Mali massacred over 35 villagers, mostly ethnic Peuhl men, in the village of Ogossagou on February 14, 2020. The killings occurred after government troops vacated their post and after a UN peacekeeper convoy passed through. Armed ethnic Dogon men carried out the attack. Human Rights Watch interviewed witnesses and officials regarding the incident, while the Malian government cited a tactical error and initiated investigations.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Corinne Dufka",
+          "Bocarie"
+        ],
+        "LOCATION": [
+          "Mali",
+          "Bamako",
+          "Ogossagou"
+        ],
+        "ORGANIZATION": [
+          "Human Rights Watch",
+          "MINUSMA",
+          "United Nations"
+        ],
+        "DATE": [
+          "February 14, 2020",
+          "March 23, 2019",
+          "February",
+          "March",
+          "February 13"
+        ],
+        "EVENT": [
+          "Ogossagou massacre"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7182723177643916
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Israeli soldier"
+    ],
+    "LOCATION": [
+      "Holon",
+      "Israel"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "2012"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "school",
+      "earthquake"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Darfur",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Violence returns to Darfur",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Adedamola Ogunyemi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nuhu Ribadu",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tunji Disu",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nigeria",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Borno State",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Southwest",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kwara",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oyo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kogi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Benue",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Taraba",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ogbere",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sagamu-Benin Expressway",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "THISDAYLIVE",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Boko Haram",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nigeria Police Force",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Office of the National Security Adviser",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026/06/30",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1970",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "two decades ago",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last week",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "civil war",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Operation Kosaye",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Operation Kosaye",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hatem",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ahmed al-Sofi",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rafah",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza Strip",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Palestine",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al Jazeera",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hamas",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "United Nations",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024/6/21",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early May",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "the past two days",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Last night",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Israel-Palestine conflict",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Yobe state",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kimba",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Biu",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sabon Gari",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wajirko",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Buni Gari",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Damasak",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lake Chad",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Adamawa state",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "VOA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State West Africa Province",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SITE intelligence",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last month",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "the last four years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "nine years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Corinne Dufka",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bocarie",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mali",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bamako",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ogossagou",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Human Rights Watch",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MINUSMA",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 14, 2020",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 23, 2019",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 13",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Ogossagou massacre",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:43:45.269194"
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "id_rumeur": 873602,
+  "id_image": 873602,
+  "caption": "Chapter three for Vodafone looks like it could be a long and expensive slog",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748342/oluyewo_benchmark/f0opb1w92gbowygqojts.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Egypt questions Vodafone over \"bomb code\" advert | Reuters",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/article/world/egypt-questions-vodafone-over-bomb-code-advert-idUSBREA010EY/",
+      "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2014/01/02/CBREA010Z6200.JPG?auth=d85b2e5081e61b522406f1c6cade5cecf8dc99b7a32cdcd646e998ad2dd59987&height=1920&width=1920&quality=80&smart=true",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRSJVvoJ7eLscJZJPTumu3W40v4rqYcDIUT5-nSsyDcpJkxsWL",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Egypt questions Vodafone over \"bomb code\" advert | Reuters",
+        "link": "https://www.reuters.com/article/world/egypt-questions-vodafone-over-bomb-code-advert-idUSBREA010EY/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRSJVvoJ7eLscJZJPTumu3W40v4rqYcDIUT5-nSsyDcpJkxsWL",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2014/01/02/CBREA010Z6200.JPG?auth=d85b2e5081e61b522406f1c6cade5cecf8dc99b7a32cdcd646e998ad2dd59987&height=1920&width=1920&quality=80&smart=true",
+        "image_width": 1920,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Egypt questions Vodafone over \"bomb code\" advert Reuters.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Egypt"
+        ],
+        "ORGANIZATION": [
+          "Vodafone",
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "bomb code"
+        ]
+      },
+      "score_e5": 0.7823646885577415
+    },
+    {
+      "titre": "British Politicians Look to Reassure Investors as Vodafone ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/u-k-business-secretary-sajid-javid-says-nation-remains-open-for-business-1467139506",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-OK218_vodafo_TOP_20160608234906.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJL7iLVCr7m3rlifso6aHWfNCojm1HpTW7BeuiVxi62FQKz98-",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "British Politicians Look to Reassure Investors as Vodafone ...",
+        "link": "https://www.wsj.com/articles/u-k-business-secretary-sajid-javid-says-nation-remains-open-for-business-1467139506",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJL7iLVCr7m3rlifso6aHWfNCojm1HpTW7BeuiVxi62FQKz98-",
+        "thumbnail_width": 159,
+        "thumbnail_height": 318,
+        "image": "https://s.wsj.net/public/resources/images/BN-OK218_vodafo_TOP_20160608234906.jpg",
+        "image_width": 350,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "British Politicians Look to Reassure Investors as Vodafone.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sajid Javid"
+        ],
+        "LOCATION": [
+          "Britain"
+        ],
+        "ORGANIZATION": [
+          "Vodafone",
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7771175072042102
+    },
+    {
+      "titre": "Vodafone, Liberty looking at merger: Bloomberg - Yahoo News ...",
+      "source": "Yahoo News Singapore",
+      "lien": "https://sg.news.yahoo.com/vodafone-liberty-looking-merger-bloomberg-224548516--finance.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/FrR0OwbRse7QNtzL.xnP9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzNztjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2015-06-04T224548Z_1006990001_LYNXMPEB5317Q_RTROPTP_2_CTECH-US-LIBERTY-GLOBAL-M-A-VODAFONE-GROUP.JPG",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR3l5I-lzlMOrXaMgMmcG-1wEAoHjrJSjbzoFQ3AzHH3TVcjd8",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Vodafone, Liberty looking at merger: Bloomberg - Yahoo News ...",
+        "link": "https://sg.news.yahoo.com/vodafone-liberty-looking-merger-bloomberg-224548516--finance.html",
+        "source": "Yahoo News Singapore",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVgAdL____o2_jk1Pf8-_5mC9Pu5fqUVOCWWOHWvvPAmu23jOq7kut8LtqufujGpO6DOdxwG9bgzva0iOqZXOL07vzbxvSjbOWqeOf49f1pENTr3_mRUOClcOXYwvR2JNiIQd3Kq_DSuPIjm6rYAAAAwklEQVQ4jd1RSxaCMBCbQosIRREF5CfC_Q9ppn08EUv3mg1DEtIwJfpjZCFw8hjOAsj39YuEXngCrhxw29dVCT1SK6YCkfBwwlBRzQH39ScHEE2LIcIQU7C8vtGBGqwxop4D9OepA6iQ6GiiH2wYHbWeo4lWAZBsi6fQJm27KrVVya5GNjBk7SykdjgmYTDbLcffhtwaegr54bon0z0g0nv3xDsQNSomXeE4gcx6Slf_Bbyk1KNn0OXoMfDfTR79t_ECLLwGYaPXkpQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR3l5I-lzlMOrXaMgMmcG-1wEAoHjrJSjbzoFQ3AzHH3TVcjd8",
+        "thumbnail_width": 185,
+        "thumbnail_height": 272,
+        "image": "https://s.yimg.com/ny/api/res/1.2/FrR0OwbRse7QNtzL.xnP9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzNztjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2015-06-04T224548Z_1006990001_LYNXMPEB5317Q_RTROPTP_2_CTECH-US-LIBERTY-GLOBAL-M-A-VODAFONE-GROUP.JPG",
+        "image_width": 307,
+        "image_height": 450
+      },
+      "webpage": {
+        "text": "Vodafone, Liberty looking at merger: Bloomberg\n\nThu, 4 June 2015 at 10:45 pm UTC\n\n(Reuters) - Network operator Vodafone Group Plc and cable telecoms company Liberty Global Plc are looking at a range of transactions including a merger, Bloomberg reported. Vodafone's U.S.-listed shares rose 4.1 percent and Liberty's climbed 4.7 percent in extended trading on Thursday. The potential transaction include a merger of the companies' European businesses or a series of asset swaps, Bloomberg reported, citing people familiar with the matter. The talks are at a very early stage but Liberty has \"soured slightly\" on the talks in recent weeks, according to Bloomberg. Management issues including leadership of the combined company and the role of Liberty Chairman John Malone pose issues, two people told Bloomberg. Vodafone, the world's second-biggest mobile operator, has long been linked with a purchase or tie-up with Liberty, Europe's largest cable operator, as the market increasingly moves towards the combination of mobile services with fixed-line broadband. Vodafone declined to comment and Liberty was not immediately available for comment. Liberty's shares closed at $54.60 and Vodafone's at $37.71 on the Nasdaq on Thursday. (Reporting By Arathy S Nair in Bengaluru; Editing by Maju Samuel)",
+        "metadata": {
+          "title": "Vodafone, Liberty looking at merger: Bloomberg - Yahoo News Singapore",
+          "description": "(Reuters) - Network operator Vodafone Group Plc and cable telecoms company Liberty Global Plc are looking at a range of transactions including a merger, Bloomberg reported.  Vodafone's U.S.-listed sha...",
+          "keywords": "Vodafone Group Plc, Bloomberg, Liberty Global Plc, Liberty",
+          "og:title": "Vodafone, Liberty looking at merger: Bloomberg",
+          "og:description": "(Reuters) - Network operator Vodafone Group Plc and cable telecoms company Liberty Global Plc are looking at a range of transactions including a merger, Bloomberg reported.  Vodafone's U.S.-listed sha...",
+          "og:url": "https://sg.news.yahoo.com/vodafone-liberty-looking-merger-bloomberg-224548516--finance.html",
+          "og:site_name": "Yahoo News Singapore",
+          "og:type": "article",
+          "twitter:title": "Vodafone, Liberty looking at merger: Bloomberg",
+          "twitter:description": "(Reuters) - Network operator Vodafone Group Plc and cable telecoms company Liberty Global Plc are looking at a range of transactions including a merger, Bloomberg reported.  Vodafone's U.S.-listed sha...",
+          "al:ios:url": "yahoo://article/view?uuid=4913a2dc-5c9b-3222-8055-de4b01219a8a&src=web",
+          "al:ios:app_store_id": "304158842",
+          "al:ios:app_name": "Yahoo",
+          "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+          "al:android:url": "yahoo://article/view?uuid=4913a2dc-5c9b-3222-8055-de4b01219a8a&src=web",
+          "al:android:app_name": "Yahoo"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "author": {
+            "@type": "Organization",
+            "logo": {
+              "@type": "ImageObject",
+              "height": 100,
+              "url": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+              "width": 428
+            },
+            "name": "Reuters",
+            "url": "https://www.reuters.com/"
+          },
+          "creator": {
+            "@type": "Organization",
+            "logo": {
+              "@type": "ImageObject",
+              "height": 100,
+              "url": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+              "width": 428
+            },
+            "name": "Reuters",
+            "url": "https://www.reuters.com/"
+          },
+          "dateModified": "2015-06-04T22:45:48Z",
+          "datePublished": "2015-06-04T22:45:48Z",
+          "description": "(Reuters) - Network operator Vodafone Group Plc and cable telecoms company Liberty Global Plc are looking at a range of transactions including a merger, Bloo...",
+          "headline": "Vodafone, Liberty looking at merger: Bloomberg",
+          "image": {
+            "@type": "ImageObject",
+            "height": 307,
+            "url": "https://s.yimg.com/lo/mysterio/api/c1a2759decba673776711b0409807fec699c6420f62e862810fe9e4b4192e57e/lightyear_networkapi/resizefill_w450_h307%3Bquality_80%3Bformat_webp/http%3A%2F%2Fmedia.zenfs.com%2Fen_us%2FNews%2FReuters%2F2015-06-04T224548Z_1_LYNXMPEB5317Q_RTROPTP_2_CTECH-US-VODAFONE-RESULTS.JPG",
+            "width": 450
+          },
+          "keywords": [
+            "Vodafone Group Plc",
+            "Bloomberg",
+            "Liberty Global Plc",
+            "Liberty"
+          ],
+          "mainEntityOfPage": "https://sg.news.yahoo.com/vodafone-liberty-looking-merger-bloomberg-224548516--finance.html",
+          "provider": {
+            "@type": "Organization",
+            "logo": {
+              "@type": "ImageObject",
+              "height": 100,
+              "url": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+              "width": 428
+            },
+            "name": "Reuters",
+            "url": "https://www.reuters.com/"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "logo": {
+              "@type": "ImageObject",
+              "height": 50,
+              "url": "https://s.yimg.com/rz/p/yahoo_news_en-US_h_p_news_2.png",
+              "width": 310
+            },
+            "name": "Yahoo News Singapore",
+            "url": "https://sg.news.yahoo.com/"
+          },
+          "thumbnailUrl": "https://s.yimg.com/lo/mysterio/api/c1a2759decba673776711b0409807fec699c6420f62e862810fe9e4b4192e57e/lightyear_networkapi/resizefill_w450_h307%3Bquality_80%3Bformat_webp/http%3A%2F%2Fmedia.zenfs.com%2Fen_us%2FNews%2FReuters%2F2015-06-04T224548Z_1_LYNXMPEB5317Q_RTROPTP_2_CTECH-US-VODAFONE-RESULTS.JPG"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Network operator Vodafone Group Plc and cable telecoms company Liberty Global Plc looked at a range of transactions including a merger of their European businesses or a series of asset swaps, as reported by Bloomberg. Vodafone's U.S.-listed shares rose 4.1 percent and Liberty's climbed 4.7 percent in extended trading on Thursday. The talks were at a very early stage. Management issues including leadership of the combined company and the role of Liberty Chairman John Malone posed issues. Vodafone is the world's second-biggest mobile operator and Liberty is Europe's largest cable operator.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Malone",
+          "Arathy S Nair",
+          "Maju Samuel"
+        ],
+        "LOCATION": [
+          "U.S.",
+          "Europe",
+          "Bengaluru"
+        ],
+        "ORGANIZATION": [
+          "Vodafone Group Plc",
+          "Liberty Global Plc",
+          "Bloomberg",
+          "Yahoo",
+          "Reuters",
+          "Nasdaq"
+        ],
+        "DATE": [
+          "Thu, 4 June 2015",
+          "Thursday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7823073584319904
+    },
+    {
+      "titre": "Vodafone to close all proprietary stores in Spain by March ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/technology/vodafone-close-all-proprietary-stores-spain-by-march-union-says-2021-09-28/",
+      "image_url": "https://www.reuters.com/resizer/v2/3IPOVW4P4NONTHUEG7N3J5XI7Q.jpg?auth=be8dd0448d1265597d2bc2e1e556477d24d00c97e9417314bbe40606f0684906&height=1920&width=1920&quality=80&smart=true",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKRF7-VWF5J10QOSJPMArAwoPv2BrL8_8DqLoE9mmAL4pFs67T",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Vodafone to close all proprietary stores in Spain by March ...",
+        "link": "https://www.reuters.com/technology/vodafone-close-all-proprietary-stores-spain-by-march-union-says-2021-09-28/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKRF7-VWF5J10QOSJPMArAwoPv2BrL8_8DqLoE9mmAL4pFs67T",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://www.reuters.com/resizer/v2/3IPOVW4P4NONTHUEG7N3J5XI7Q.jpg?auth=be8dd0448d1265597d2bc2e1e556477d24d00c97e9417314bbe40606f0684906&height=1920&width=1920&quality=80&smart=true",
+        "image_width": 1920,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Vodafone to close all proprietary stores in Spain by March.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Spain"
+        ],
+        "ORGANIZATION": [
+          "Vodafone",
+          "Reuters"
+        ],
+        "DATE": [
+          "March"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7605791896889609
+    },
+    {
+      "titre": "Vodafone to close all proprietary stores in Spain by March ...",
+      "source": "Euronews.com",
+      "lien": "https://www.euronews.com/next/2021/09/29/vodafone-spain-stores",
+      "image_url": "https://static.euronews.com/articles/wires/779/80/7798020/1440x810_q7lhyt.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfnsKeIEKnvtm4bZ4axz9MEA4YhhBKDKwa4qpD0MfyPlRIY4f",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Vodafone to close all proprietary stores in Spain by March ...",
+        "link": "https://www.euronews.com/next/2021/09/29/vodafone-spain-stores",
+        "source": "Euronews.com",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEUBcvAAcvAAcfD___8Aau8AbfAAb_AAaO8AbPDe7P0AZe_M4fvO5PyawfiEs_ewx_ilx_hCivJ1q_ZMkPNXlPNuqPZdmfQmffGUvfifxPgAdvDr9P5gnfQqgvKGs_a61foAX-8yhvLk8f3N4_zz-v8le_G3-QigAAAAz0lEQVQ4jc2S6w6CMAyF13Ydgw1EBSd3vL3_KwoEY4bxn6InadJmzc7XdUJ8QDCHnzyrNfQPDA8UxaxGUxwT72QK0NtdsmcUCrP84BgWkCCPFFoqUJWGiKqMFxNwTfsoaqgNOqpiQ1fnuQy-dtcHQX8IT0QukIZy9hiwPFszyFYZWYVyQ7H2GLAM02RUvqXL1JBKf0admmiwiFs337BoEMjXMK8NNc2bBqHK1NrO8a1IELguah9yCNQAUgHq8Y1Y8-s2AXHt9T69xe-_3LcZ7h9FCR6FBbRJAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfnsKeIEKnvtm4bZ4axz9MEA4YhhBKDKwa4qpD0MfyPlRIY4f",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://static.euronews.com/articles/wires/779/80/7798020/1440x810_q7lhyt.jpg",
+        "image_width": 810,
+        "image_height": 1440
+      },
+      "webpage": {
+        "text": "Vodafone to close all proprietary stores in Spain by March, union says -  Copyright  Thomson Reuters 2021\n\nCopyright Thomson Reuters 2021\n\nBy&nbspReuters\n\nPublished on 29/09/2021 - 14:55 GMT+2\n\nMADRID - British mobile and broadband operator Vodafone will shut all 34 of its proprietary stores in Spain by March 2022, a labour union source said on Tuesday, as part of a wider plan to lay off over 500 workers in a hyper-competitive telecommunications sector.\n\nADVERTISEMENT\n\nArguing that customers have become more digital and want less personalised attention, Vodafone will seek to close every store it operates in Spain in the next six months, leaving only the brand's franchises behind, the source from leading union Comisiones Obreras said.\n\nThe telecom had earlier this month announced it would negotiate the layoff of around 515 employees, some 12% of its Spanish workforce, citing \"challenging conditions on the competitive Spanish market\".\n\nThat number has already been trimmed to 509, according to a separate source from the UGT union, which represents about half of syndicated workers. Nearly half of all workers due to be laid off work in the proprietary stores slated for closure, the source added.\n\nNegotiations are set to last until late October.\n\nVodafone is the latest mobile and broadband operator to seek cuts to its workforce after France-based Orange announced it was laying off 485 employees in May, citing Spain's increasingly low-cost and hyper-competitive telecoms sector.\n\nGo to accessibility shortcuts\n\n",
+        "metadata": {
+          "title": "Vodafone to close all proprietary stores in Spain by March, union says | Euronews",
+          "description": "MADRID  -     British mobile and broadband",
+          "og:locale": "en-GB",
+          "og:url": "https://www.euronews.com/next/2021/09/29/vodafone-spain-stores",
+          "og:site_name": "euronews",
+          "og:type": "article",
+          "og:title": "Vodafone to close all proprietary stores in Spain by March, union says",
+          "og:image": "https://static.euronews.com/articles/wires/779/80/7798020/1200x675_q7lhyt.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "Vodafone to close all proprietary stores in Spain by March, union says",
+          "og:description": "MADRID  -     British mobile and broadband",
+          "twitter:title": "Vodafone to close all proprietary stores in Spain by March, union says",
+          "twitter:description": "MADRID  -     British mobile and broadband",
+          "fb:pages": "101402598109"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "British mobile and broadband operator Vodafone will shut all 34 of its proprietary stores in Spain by March 2022, as part of a wider plan to lay off over 500 workers in a hyper-competitive telecommunications sector. Vodafone will seek to close every store it operates in Spain in the next six months, leaving only the brand's franchises behind. The telecom announced it would negotiate the layoff of around 515 employees, trimmed to 509, representing about 12% of its Spanish workforce. Negotiations are set to last until late October. France-based Orange announced it was laying off 485 employees in May.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Spain",
+          "Madrid",
+          "France"
+        ],
+        "ORGANIZATION": [
+          "Thomson Reuters",
+          "Euronews.com",
+          "Vodafone",
+          "Comisiones Obreras",
+          "UGT",
+          "Orange"
+        ],
+        "DATE": [
+          "March 2022",
+          "Tuesday",
+          "next six months",
+          "late October",
+          "May",
+          "2021",
+          "29/09/2021"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7671095117630866
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Vodafone"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Chapter three"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Egypt",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Vodafone",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "bomb code",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sajid Javid",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Malone",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Arathy S Nair",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Maju Samuel",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bengaluru",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Vodafone Group Plc",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Liberty Global Plc",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bloomberg",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yahoo",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nasdaq",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thu, 4 June 2015",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Madrid",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Thomson Reuters",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Euronews.com",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Comisiones Obreras",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UGT",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Orange",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 2022",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next six months",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "late October",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "29/09/2021",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T21:22:23.705777"
+  }
+}

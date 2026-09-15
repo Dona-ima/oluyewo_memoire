@@ -1,0 +1,1215 @@
+{
+  "id_rumeur": 1533887,
+  "id_image": 1533887,
+  "caption": "RAF Tornado aircraft have been carrying out air strikes in Iraq",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747342/oluyewo_benchmark/qkvsbk8801ajkhttxnue.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "RAF strikes in Iraq and Syria have killed 996, MoD estimates ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-36178206",
+      "image_url": "http://c.files.bbci.co.uk/3BDA/production/_89522351_tornado.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuuYNJxAnXgIaV4-miTsXU2PQuiUrO_PNV1ExNJi047Ko53gro",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "RAF strikes in Iraq and Syria have killed 996, MoD estimates ...",
+        "link": "https://www.bbc.com/news/uk-36178206",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuuYNJxAnXgIaV4-miTsXU2PQuiUrO_PNV1ExNJi047Ko53gro",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/3BDA/production/_89522351_tornado.jpg",
+        "image_width": 1152,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "RAF strikes in Iraq and Syria have killed 996, MoD estimates\n\nNearly 1,000 members of the Islamic State group have been killed in RAF air strikes in Iraq and Syria in the last 18 months, figures suggest.\n\nIn response to a freedom of information request, external, the Ministry of Defence estimated 974 \"enemy combatants\" had died since the UK bombing campaign started in Iraq in September 2014.\n\nA further 22 had been killed in Syria since air strikes began in December last year, it estimated.\n\nThe MoD said no civilians had died.\n\nThe figures cover the period from September 2014 to March 2016 and were released in response to a request made by Vice News, external.\n\nThe MoD said they were estimates based on \"post-strike analysis\" because the UK was unable to visit sites to verify the numbers dead.\n\nTurning point in battle against IS?\n\nIslamic State group: Crisis in seven charts\n\nReferring to IS by the Arabic acronym of Daesh, the MoD said the strikes were part of a wider coalition operation to target command and control sites, military equipment and revenue streams such as oil infrastructure.\n\nIt said the UK took all steps necessary to minimise civilian causalities.\n\nThere were 98 IS fighters injured, the figures indicated.",
+        "metadata": {
+          "description": "Nearly 1,000 members of the Islamic State group have been killed in RAF air strikes in Iraq and Syria in the last 18 months, MoD figures indicate.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Nearly 1,000 members of the Islamic State group have been killed in RAF air strikes in Iraq and Syria in the last 18 months, MoD figures indicate.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3BDA/production/_89522351_tornado.jpg",
+          "og:image:alt": "RAF Tornado GR4 returning to RAF Akrotiri in Cyprus in September 2014 after mission in Iraq",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "RAF strikes in Iraq and Syria have killed 996, MoD estimates",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-36178206",
+          "article:section": "UK",
+          "twitter:description": "Nearly 1,000 members of the Islamic State group have been killed in RAF air strikes in Iraq and Syria in the last 18 months, MoD figures indicate.",
+          "twitter:title": "RAF strikes in Iraq and Syria have killed 996, MoD estimates"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-36178206",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-04-30T15:12:59.000Z",
+          "dateModified": "2016-04-30T15:12:59.000Z",
+          "description": "Nearly 1,000 members of the Islamic State group have been killed in RAF air strikes in Iraq and Syria in the last 18 months, MoD figures indicate.",
+          "headline": "RAF strikes in Iraq and Syria have killed 996, MoD estimates",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3BDA/production/_89522351_tornado.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3BDA/production/_89522351_tornado.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-36178206",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Selon les estimations du ministère de la Défense britannique, les frappes de la Royal Air Force (RAF) en Irak et en Syrie ont tué 974 combattants ennemis en Irak depuis septembre 2014 et 22 en Syrie depuis décembre de l'année précédente, soit un total de 996 personnes tuées sur une période allant de septembre 2014 à mars 2016. Ces chiffres ont été publiés en réponse à une demande de liberté d'information formulée par Vice News.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Iraq",
+          "Syria",
+          "UK"
+        ],
+        "ORGANIZATION": [
+          "RAF",
+          "MoD",
+          "Islamic State group",
+          "Ministry of Defence",
+          "Vice News",
+          "Daesh"
+        ],
+        "DATE": [
+          "last 18 months",
+          "September 2014",
+          "December last year",
+          "September 2014 to March 2016"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8040399318481751
+    },
+    {
+      "titre": "Panavia Tornado - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Panavia_Tornado",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/RAF_Tornado_GR4_MOD_45155233.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtO4YoCDOWo-KBS07OpgRioBYnW4UYH5aPJ9jHEjaFUSDmFaTY",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Panavia Tornado - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Panavia_Tornado",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtO4YoCDOWo-KBS07OpgRioBYnW4UYH5aPJ9jHEjaFUSDmFaTY",
+        "thumbnail_width": 172,
+        "thumbnail_height": 293,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/RAF_Tornado_GR4_MOD_45155233.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "image_width": 1731,
+        "image_height": 2948
+      },
+      "webpage": {
+        "text": "Panavia Tornado\n\nFamily of multi-role combat aircraft\n\n\nTornado IDS/ECR\nRAF Tornado GR4 in 2012\nGeneral information\nType                Multirole aircraft, strike aircraft\nNational origin     Italy, West Germany, United Kingdom\nManufacturer        Panavia Aircraft GmbH\nStatus              In service\nPrimary users       German Air Force\n                     * Italian Air Force\n                     * Royal Saudi Air Force\n                     * Royal Air Force (historical)\nNumber built         * 990:[1]\n                        * 745, Tornado IDS\n                        * 194, Tornado ADV\n                        * 051, Tornado ECR\nHistory\nManufactured        1979–1998\nIntroduction date   1979\nFirst flight        14 August 1974\nRetired             2019 (RAF)\nVariant             Panavia Tornado ADV\n\nThe Panavia Tornado is a family of twin-engine, variable-sweep wing multi-role combat aircraft, jointly developed and manufactured by Italy, the United Kingdom, and Germany.[a] There are three primary Tornado variants: the Tornado IDS (interdictor/strike) fighter-bomber, the Tornado ECR (electronic combat/reconnaissance) SEAD aircraft, and the Tornado ADV (air defence variant) interceptor aircraft.\n\nThe Tornado was developed and built by Panavia Aircraft GmbH, a tri-national consortium consisting of British Aerospace (previously British Aircraft Corporation), MBB[b] of West Germany, and Aeritalia of Italy. It first flew on 14 August 1974 and was introduced into service in 1979–1980. Due to its multirole design, it was able to replace several different types of aircraft in the adopting air forces. The Royal Saudi Air Force (RSAF) became the only export operator of the Tornado, in addition to the three original partner nations. A training and evaluation unit operating from RAF Cottesmore, the Tri-National Tornado Training Establishment, maintained a level of international co-operation beyond the production stage. It is the only non-American-developed aircraft currently approved to carry United States nuclear weapons under NATO's Nuclear Planning Group.[2]\n\nThe Tornado was operated by the Royal Air Force (RAF), Italian Air Force, and RSAF during the Gulf War of 1991, in which the Tornado conducted many low-altitude penetrating strike missions. The Tornados of various services were also used in the Bosnian War, Kosovo War, Iraq War, in Libya during the 2011 Libyan civil war, as well as smaller roles in Afghanistan, Yemen, and Syria. Including all variants, 990[1] aircraft were built.\n\n\nDevelopment\n\n\nOrigins\n\nFurther information: BAC/Dassault AFVG\n\nDuring the 1960s, aeronautical designers looked to variable-geometry wing designs to gain the maneuverability and efficient cruise of straight wings with the speed of swept wing designs. The United Kingdom had cancelled the procurement of the BAC TSR-2 tactical strike and reconnaissance aircraft in 1965 and then—in 1967—the US General Dynamics F-111K aircraft that was supposed to fulfil the same role, and was still looking for a replacement for its Avro Vulcan strategic bomber and Blackburn Buccaneer strike aircraft.[3] Britain and France had initiated the BAC/Dassault AFVG (from \"Anglo-French Variable Geometry\") project in 1965, but this had ended with French withdrawal in 1967.[4] Britain continued to develop a variable-geometry aircraft similar to the proposed AFVG, and sought new partners to achieve this.[5] West German EWR with Boeing then with Fairchild-Hiller and Republic Aviation had been developing design studies of the swing-wing EWR-Fairchild-Hiller A400 AVS Advanced Vertical Strike (which has a similar configuration to the Tornado) from 1964 to 1968.[6][7][8]\n\nIn 1968, West Germany, the Netherlands, Belgium, Italy and Canada formed a working group to examine replacements for the Lockheed F-104G Starfighter multi-role fighter-bomber,[9] initially called the Multi Role Aircraft (MRA), later renamed as the Multi Role Combat Aircraft (MRCA).[10][11] As the partner nations' requirements were so diverse, it was decided to develop a single aircraft that could perform a variety of missions that were previously undertaken by a fleet of different aircraft.[12] Britain joined the MRCA group in 1968, represented by Air Vice-Marshal Michael Giddings, and a memorandum of agreement was drafted between Britain, West Germany, and Italy in May 1969.[13]\n\nBy the end of 1968, the prospective purchases from the six countries amounted to 1,500 aircraft.[14] Canada and Belgium had departed before any long-term commitments had been made to the programme;[15] Canada had found the project politically unpalatable, there being a perception in political circles that much of the manufacturing and specifications were focused on Western Europe. France had made a favourable offer to Belgium on the Dassault Mirage 5.[15]\n\n\nPanavia Aircraft GmbH\n\nMain article: Panavia Aircraft GmbH\n\nOn 26 March 1969, four partner nations – United Kingdom, Germany, Italy and the Netherlands, agreed to form a multinational company, Panavia Aircraft GmbH, to develop and manufacture the MRCA.[3][9] The project's aim was to produce an aircraft capable of undertaking missions in the tactical strike, reconnaissance, air defence, and maritime roles.[3][9] Various concepts, including alternative fixed-wing and single-engine designs, were studied while defining the aircraft.[16] The Netherlands pulled out of the project in 1970, citing that the aircraft was too complicated and technical for the RNLAF's preferences,[3] which had sought a simpler aircraft with outstanding manoeuvrability.[17] An additional blow was struck when the German requirement reduced from an initial 600 aircraft to 324 in 1972.[18] It has been suggested that Germany deliberately placed an unrealistically high initial order to secure the company headquarters and initial test flight in Germany rather than the UK, to have a bigger design influence.[19]\n\nWhen the agreement was finalised, the United Kingdom and West Germany each had a 42.5% stake of the workload, with the remaining 15% going to Italy; this division of the production work was heavily influenced by international political bargaining.[20] The front fuselage and tail assembly was assigned to BAC (now BAE Systems) in the United Kingdom; the centre fuselage to MBB (now part of Airbus) in West Germany; and the wings to Aeritalia (now Leonardo) in Italy.[21] Similarly, tri-national worksharing was used for engines and equipment. A separate multinational company, Turbo-Union, was formed in June 1970 to develop and build the RB199 engines for the aircraft, with ownership split 40% Rolls-Royce, 40% MTU, and 20% FIAT.[3][22]\n\nAt the conclusion of the project definition phase in May 1970, the concepts were reduced to two designs; a single seat Panavia 100 which West Germany initially preferred, and the twin-seat Panavia 200 which the RAF preferred.[22] The aircraft was briefly called the Panavia Panther, and the project soon coalesced towards the two-seat option.[23] In September 1971, the three governments signed an Intention to Proceed (ITP) document, at which point the aircraft was intended solely for the low-level strike mission, where it was viewed as a viable threat to Soviet defences in that role.[24] It was at this point that Britain's Chief of the Defence Staff announced, \"two-thirds of the fighting front line will be composed of this single, basic aircraft type\".[21]\n\n\nPrototypes and testing\n\nThe first of fifteen development aircraft (nine prototypes, P.01 to P.09, and six pre-series, PS.11 to PS.16) flew on 14 August 1974 at Manching, Germany; the pilot, Paul Millett described his experience: \"Aircraft handling was delightful... the actual flight went so smoothly that I did begin to wonder whether this was not yet another simulation\".[25] Flight testing led to the need for minor modifications. Airflow disturbances were corrected by re-profiling the engine intakes and the fuselage to minimise surging and buffeting at supersonic speeds.[26]\n\nAccording to Jim Quinn, programmer of the Tornado development simulation software and engineer on the Tornado engine and engine controls, the prototype was safely capable of reaching supercruise, but the engines had severe safety issues at high altitude while trying to decelerate. At high altitude and low turbine speed the compressor did not provide enough pressure to hold back the combustion pressure and would result in a violent vibration as the combustion pressure backfired into the intake. To avoid this effect the engine controls would automatically increase the minimum idle setting as altitude increased, until at very high altitudes the idle setting was so high, however, that it was close to maximum dry thrust. This resulted in one of the test aircraft being stuck in a Mach 1.2 supercruise at high altitude and having to reduce speed by turning the aircraft, because the idle setting at that altitude was so high that the aircraft could not decelerate.[27]\n\nTesting revealed that a nose-wheel steering augmentation system, connecting with the yaw damper, was necessary to counteract the destabilising effect produced by deploying the thrust reverser during the landing roll.[28]\n\nFrom 1967 until 1984 Soviet KGB agents were provided details on the Tornado by the head of the West German Messerschmitt-Bölkow-Blohm planning department, Manfred Rotsch.[29][30]\n\nTwo prototypes were lost in accidents, both of which had been caused by pilot error leading to two ground collision incidents;[31] a third Tornado prototype was seriously damaged by an incident involving pilot-induced pitch oscillation.[32] During the type's development, aircraft designers of the era were beginning to incorporate features such as more sophisticated stability augmentation systems and autopilots. Aircraft such as the Tornado and the General Dynamics F-16 Fighting Falcon made use of these new technologies.[33] Failure testing of the Tornado's triplex analogue command and stability augmentation system (CSAS) was conducted on a series of realistic flight control rigs; the variable-sweep wings in combination with varying, and frequently very heavy, payloads complicated the clearance process.[34]\n\n\nProduction\n\nThe contract for the Batch 1 aircraft was signed on 29 July 1976.[22] The first flight of a production aircraft was on 10 July 1979 by ZA319 at BAe Warton.[35] The first aircraft were delivered to the RAF and German Air Force on 5 and 6 June 1979 respectively.[36] The first Italian Tornado was delivered on 25 September 1981. On 29 January 1981, the Tri-National Tornado Training Establishment (TTTE) officially opened at RAF Cottesmore, remaining active in training pilots from all operating nations until 31 March 1999.[37] The 500th Tornado to be produced was delivered to West Germany on 19 December 1987.[38]\n\nExport customers were sought after West Germany withdrew its objections to exporting the aircraft; Saudi Arabia was the only export customer of the Tornado.[39] The agreement to purchase the Tornado was part of the Al-Yamamah arms deal between British Aerospace and the Saudi government.[40][41] Oman had committed to purchasing eight Tornado F2s and the equipment to operate them for a total value of £250 million in August 1985,[42][43] but cancelled the order in 1990 due to financial difficulties.[43]\n\nDuring the 1970s, Australia considered joining the MRCA programme to find a replacement for their ageing Dassault Mirage IIIs; ultimately the McDonnell Douglas F/A-18 Hornet was selected to meet the requirement.[44] Canada similarly opted for the F/A-18 after considering the Tornado.[45] Japan considered the Tornado in the 1980s, along with the F-16 and F/A-18, before selecting the Mitsubishi F-2.[46] In the 1990s, both Taiwan and South Korea expressed interest in acquiring a small number of Tornado ECR aircraft.[47][48] In 2001, EADS proposed a Tornado ECR variant with a greater electronic warfare capability for Australia.[49]\n\nProduction came to an end in 1998; the last batch of aircraft produced going to the Royal Saudi Air Force, who had ordered a total of 96 IDS Tornados.[50] In June 2011, it was announced that the Tornado fleet had flown collectively over one million flying hours.[51][52] Aviation author Jon Lake noted that \"The Trinational Panavia Consortium produced just short of 1,000 Tornados, making it one of the most successful postwar bomber programs\".[53] In 2008, AirForces Monthly called the Tornado: \"For more than a quarter of a century ... the most important military aircraft in Western Europe.\"[54]\n\n\nDesign\n\n\nOverview\n\nThe Panavia Tornado is a multirole, twin-engined aircraft designed to excel at low-level penetration of enemy defences. The mission envisaged during the Cold War was the delivery of conventional and nuclear weapons on the invading forces of the Warsaw Pact countries of Eastern Europe; this dictated several significant features of the design. Variable wing geometry allowed for minimal drag during the low-level dash towards a well-prepared enemy. Advanced navigation and flight computers, including the then-innovative fly-by-wire system, greatly reduced the workload of the pilot during low-level flight and eased control of the aircraft.[55][56] For long range missions, the Tornado has a retractable refuelling probe.[57]\n\nAs a multirole aircraft, the Tornado is capable of undertaking more mission profiles than the anticipated strike mission; various operators replaced multiple aircraft types with the Tornado as a common type – the use of dedicated single role aircraft for specialist purposes such as battlefield reconnaissance, maritime patrol duties, or dedicated electronic countermeasures (ECM) were phased out – either by standard Tornados or modified variants, such as the Tornado ECR. The most extensive modification from the base Tornado design was the Tornado ADV, which was stretched and armed with long range anti-aircraft missiles to serve in the interceptor role.[58]\n\nTornado operators have undertaken various life extension and upgrade programmes to keep their Tornado fleets as viable frontline aircraft. With these upgrades the Panavia Tornado is still in service as of 2026, more than 50 years after the first prototype took flight.\n\n\nVariable-sweep wing\n\nFurther information: variable-sweep wing\n\nIn order for the Tornado to perform well as a low-level supersonic strike aircraft, it was considered necessary for it to possess good high-speed and low-speed flight characteristics. To achieve high-speed performance, a swept or delta wing is typically adopted, but these wing designs are inefficient at low speeds. To operate at both high and low speeds with great effectiveness, the Tornado uses a variable-sweep wing.[10] The swing-wing was used by the older American General Dynamics F-111 Aardvark strike fighter, and the Soviet Mikoyan-Gurevich MiG-23 fighter for example. The smaller Tornado has many similarities with the F-111, however the Tornado differs in being a multi-role aircraft with more advanced onboard systems and avionics.[59]\n\nThe amount of wing sweep (i.e. the angle of the wings in relation to the fuselage) is selected in flight by the pilot. Sweep angles can be chosen between 25 degrees and 67 degrees with a speed range for each angle. Some Tornado ADVs were outfitted with an automatic wing-sweep system to reduce pilot workload.[60] When the wings are swept back, the exposed wing area is lowered and drag is significantly decreased, which is conducive to performing high-speed low-level flight.[10] The weapons pylons pivot with the angle of the variable-sweep wings so that the stores point in the direction of flight and do not hinder any wing positions.[61][62]\n\nIn development, significant attention was given to the Tornado's short-field take-off and landing (STOL) performance. Germany, in particular, encouraged this design aspect.[63] For shorter take-off and landing distances, the Tornado can sweep its wings forwards to the 25-degree position, and deploy its full-span flaps and leading edge slats to allow the aircraft to fly at lower speeds.[64] These features, in combination with the thrust reverser-equipped engines, give the Tornado excellent low-speed handling and landing characteristics.[65]\n\n\nAvionics\n\nThe Tornado features a tandem-seat cockpit, crewed by a pilot and a navigator/weapons officer; both electromechanical and electro-optical controls are used to fly the aircraft and manage its systems.[66] An array of dials and switches are mounted on either side of a centrally placed CRT monitor, controlling the navigational, communications, and weapons-control computers.[67] BAE Systems developed the Tornado Advanced Radar Display Information System (TARDIS), a 32.5-centimetre (12.8 in) multi-function display, to replace the rear cockpit's Combined Radar and Projected Map Display; the RAF began installing TARDIS on the GR4 fleet in 2004.[68]\n\nThe primary flight controls of the Tornado are a fly-by-wire hybrid, consisting of an analogue quadruplex Command and Stability Augmentation System (CSAS) connected to a digital Autopilot & Flight Director System (AFDS).[69] In addition a level of mechanical reversion capacity was retained to safeguard against potential failure.[70] To enhance pilot awareness, artificial feel was built into the flight controls, such as the centrally located stick. Because the Tornado's variable wings enable the aircraft to drastically alter its flight envelope, the artificial responses adjust automatically to wing profile changes and other changes to flight attitude.[71] As a large variety of munitions and stores can be outfitted, the resulting changes to the aircraft's flight dynamics are routinely compensated for by the flight stability system.[72]\n\nThe Tornado incorporates a combined navigation/attack Doppler radar that simultaneously scans for targets and conducts fully automated terrain-following for low-level flight operations. Being able to conduct all-weather hands-off low-level flight was considered one of the core advantages of the Tornado.[73] The Tornado ADV had a different radar system to other variants, designated AI.24 Foxhunter, as it is designed for air defence operations. It was capable of tracking up to 20 targets at ranges of up to 160 kilometres (100 mi).[56] The Tornado was one of the earliest aircraft to be fitted with a digital data bus for data transmission. A Link 16 JTIDS integration on the F3 variant enabled the exchange of radar and other sensory information with nearby friendly aircraft.[74]\n\nSome Tornado variants carry different avionics and equipment, depending on their mission. The Tornado ECR operated by Germany and Italy is devoted to Suppression of Enemy Air Defences (SEAD) missions. The Tornado ECR is equipped with an emitter-locator system (ELS) to detect radar use.[75] German ECRs have a Honeywell infrared imaging system for reconnaissance flights.[76] RAF and RSAF Tornados have the Laser Range Finder and Marked Target Seekers (LRMTS) for targeting laser-guided munitions.[77] In 1991, the RAF introduced the Thermal Imaging and Laser Designator (TIALD), allowing Tornado GR1s to laser-designate their own targets.[78]\n\nThe GR1A and GR4A reconnaissance variants were equipped with the Tornado Infrared Reconnaissance System (TIRRS), consisting of one SLIR (Sideways Looking Infra Red) sensor on each side of the fuselage forward of the engine intakes to capture oblique images, and a single IRLS (InfrarRed LineScan) sensor mounted on the fuselage's underside to provide vertical images.[79] TIRRS recorded images on six S-VHS video tapes.[80] The newer RAPTOR reconnaissance pod replaced the built-in TIRRS system.[81][82]\n\n\nArmament and equipment\n\nThe Tornado is cleared to carry the majority of air-launched weapons in the NATO inventory, including various unguided and laser-guided bombs, anti-ship and anti-radiation missiles, as well as specialised weapons such as anti-personnel mines and anti-runway munition",
+        "metadata": {
+          "title": "Panavia Tornado - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/RAF_Tornado_GR4_MOD_45155233.jpg/1280px-RAF_Tornado_GR4_MOD_45155233.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "705",
+          "og:title": "Panavia Tornado - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Panavia Tornado",
+          "url": "https://en.wikipedia.org/wiki/Panavia_Tornado",
+          "sameAs": "http://www.wikidata.org/entity/Q152200",
+          "mainEntity": "http://www.wikidata.org/entity/Q152200",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2003-01-13T13:35:39Z",
+          "dateModified": "2026-08-15T23:04:08Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/RAF_Tornado_GR4_MOD_45155233.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "family of military variable-geometry wing, tandem-seat, 2-jet engined multi-role combat aircraft"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Panavia Tornado est un avion de combat multirôle à géométrie variable développé et fabriqué conjointement par l'Italie, le Royaume-Uni et l'Allemagne via le consortium Panavia Aircraft GmbH. Il a effectué son premier vol le 14 août 1974 et a été mis en service entre 1979 et 1980. Il comprend trois variantes principales : le Tornado IDS, le Tornado ECR et le Tornado ADV. Il a été utilisé lors de divers conflits tels que la guerre du Golfe de 1991, la guerre de Bosnie, la guerre du Kosovo, la guerre d'Irak et la guerre civile libyenne de 2011.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Italy",
+          "West Germany",
+          "United Kingdom",
+          "Germany"
+        ],
+        "ORGANIZATION": [
+          "Panavia Aircraft GmbH",
+          "German Air Force",
+          "Italian Air Force",
+          "Royal Saudi Air Force",
+          "Royal Air Force",
+          "British Aerospace",
+          "British Aircraft Corporation",
+          "MBB",
+          "Aeritalia",
+          "Tri-National Tornado Training Establishment",
+          "NATO's Nuclear Planning Group"
+        ],
+        "DATE": [
+          "2012",
+          "1979–1998",
+          "1979",
+          "14 August 1974",
+          "2019",
+          "1979–1980",
+          "1990s",
+          "1960s",
+          "1965",
+          "1967"
+        ],
+        "EVENT": [
+          "Gulf War of 1991",
+          "Bosnian War",
+          "Kosovo War",
+          "Iraq War",
+          "2011 Libyan civil war"
+        ],
+        "OTHER": [
+          "Panavia Tornado",
+          "Tornado IDS/ECR",
+          "Tornado GR4",
+          "Tornado IDS",
+          "Tornado ADV",
+          "Tornado ECR",
+          "BAC TSR-2",
+          "General Dynamics F-111K",
+          "Avro Vulcan",
+          "Blackburn Buccaneer",
+          "BAC/Dassault AFVG"
+        ]
+      },
+      "score_e5": 0.799986221935519
+    },
+    {
+      "titre": "Consider Syria IS strikes, defence secretary urges MPs - BBC ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-33358267",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/15DB0/production/_84002598_e09bf46b-5af2-4fa0-80b9-0ddfa001cf7b.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2vuBoQ2Cxp-Hotitb7KvcCUhf5Re6Su38BZZgNlb_Didf1p8i",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Consider Syria IS strikes, defence secretary urges MPs - BBC ...",
+        "link": "https://www.bbc.com/news/uk-33358267",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2vuBoQ2Cxp-Hotitb7KvcCUhf5Re6Su38BZZgNlb_Didf1p8i",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/15DB0/production/_84002598_e09bf46b-5af2-4fa0-80b9-0ddfa001cf7b.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Consider Syria IS strikes, defence secretary urges MPs\n\nBy Iain Watson, BBC political correspondent\n\nMichael Fallon was dipping the government's toe in the Opposition's water.\n\nThe defence secretary has long believed it is not logical to limit air strikes to Iraq when the terrorists do not respect, or even recognise, borders.\n\nBut he stressed that the government would only widen the RAF's operations to Syria if he could gain \"some consensus\" in Parliament.\n\nSo while any air strikes in Syria would be unlikely to go ahead until a new Labour leader is in place in September, Mr Fallon would be encouraged to hear acting leader Harriet Harman and shadow defence secretary Vernon Coaker say they would consider any proposals seriously.\n\nTheir support is important, because David Cameron would not risk going down to defeat as he did over the separate issue of air strikes against the Assad regime in 2013.\n\nBut there were other signs that a consensus could be difficult to achieve.\n\nSome Conservative backbenchers raised doubts about further military action in the absence of a wider diplomatic strategy. Others had legal concerns.\n\nAnd former SNP leader Alex Salmond - now the party's international affairs spokesman - denounced previous military interventions in Islamic countries and said he was \"sceptical\" about any future ones.",
+        "metadata": {
+          "description": "MPs should consider allowing Britain to bomb Islamic State targets in Syria, Defence Secretary Michael Fallon says.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "MPs should consider allowing Britain to bomb Islamic State targets in Syria, Defence Secretary Michael Fallon says.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/F1D7/production/_84011916_84011915.jpg",
+          "og:image:alt": "Crew walk to fighter jet at RAF Akrotiri, Cyprus",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Consider Syria IS strikes, defence secretary urges MPs",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-33358267",
+          "article:section": "UK Politics",
+          "twitter:description": "MPs should consider allowing Britain to bomb Islamic State targets in Syria, Defence Secretary Michael Fallon says.",
+          "twitter:title": "Consider Syria IS strikes, defence secretary urges MPs"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-33358267",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-07-01T23:01:20.000Z",
+          "dateModified": "2015-07-02T23:03:26.000Z",
+          "description": "MPs should consider allowing Britain to bomb Islamic State targets in Syria, Defence Secretary Michael Fallon says.",
+          "headline": "Consider Syria IS strikes, defence secretary urges MPs",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/F1D7/production/_84011916_84011915.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/F1D7/production/_84011916_84011915.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-33358267",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le secrétaire à la Défense Michael Fallon a incité les députés à envisager des frappes aériennes de la RAF contre l'État islamique en Syrie, soulignant qu'une telle décision nécessiterait un consensus au Parlement. Des responsables politiques tels qu'Harriet Harman, Vernon Coaker et David Cameron ont exprimé différentes positions, tandis que d'autres parlementaires et personnalités comme Alex Salmond ont soulevé des doutes juridiques, stratégiques ou exprimé du scepticisme.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Iain Watson",
+          "Michael Fallon",
+          "Harriet Harman",
+          "Vernon Coaker",
+          "David Cameron",
+          "Alex Salmond"
+        ],
+        "LOCATION": [
+          "Iraq",
+          "Syria"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "RAF",
+          "Labour",
+          "Conservative",
+          "SNP"
+        ],
+        "DATE": [
+          "September",
+          "2013"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7588196292863651
+    },
+    {
+      "titre": "IntelBrief: Special Delivery: With Long-Range Missiles ...",
+      "source": "The Soufan Center",
+      "lien": "https://thesoufancenter.org/intelbrief-2023-may-22/",
+      "image_url": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow-768x384.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNaQBHfG5SVRHl3N5Sm-_aWv_Y9MKtTKobuaAWXy0E6jfFqKe-",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "IntelBrief: Special Delivery: With Long-Range Missiles ...",
+        "link": "https://thesoufancenter.org/intelbrief-2023-may-22/",
+        "source": "The Soufan Center",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTToErCexdqPAes1hreM0hKcwi85oLTg8bh_xcip-Ala-7UvRtVZqt5nD7zKzCVM99vRdRz054gmrTzOog4Za9gBU6IpHRRh2oyZcsQwKJASt-kLnipuJu0",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNaQBHfG5SVRHl3N5Sm-_aWv_Y9MKtTKobuaAWXy0E6jfFqKe-",
+        "thumbnail_width": 159,
+        "thumbnail_height": 318,
+        "image": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow-768x384.jpg",
+        "image_width": 384,
+        "image_height": 768
+      },
+      "webpage": {
+        "text": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?\n\nIntelbrief / IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?\n\n\nIntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?\n\n\nBottom Line Up Front\n\n * Long denied by Western allies, Ukraine has received a new long-range missile system from the United Kingdom, which is working with the Netherlands to procure F-16s on Ukraine’s behalf.\n * The Storm Shadow cruise missile’s 300-kilometer range enables Ukraine to strike deep into Russian-controlled territory, placing the Russian Black Sea fleet’s Crimean headquarters and some Russian cities near the border within striking distance.\n * Claims over Russia’s illegally annexed territories in Ukraine, combined with its nuclear saber-rattling, risk a severe response should Ukraine targe these areas with long-range missiles.\n * Russia is reportedly expanding its partnership with its Middle Eastern ally Iran to build a drone manufacturing plant in Russia to produce more lethal models.\n\nIn a watershed moment for Ukraine’s military capabilities, the country received a long-range missile system from the United Kingdom capable of striking deep into Russian-controlled territory. The Storm Shadow cruise missiles can strike targets approximately 300 kilometers, or just under 190 miles, from their launch point. The initial delivery of Storm Shadow cruise missiles coincides with intensified fighting in the city of Bakhmut, as Ukraine's deputy defense minister announced on May 18 that Ukrainian forces had recaptured the southwestern part of the territory and were mounting an encirclement of Russian forces in the city, while Wagner Group head Yevgeny Prigozhin said his fighters had seized the city. Ukrainian President Zelensky denied Prigozhin's claim. All of this, however, suggests a long-awaited Ukrainian counteroffensive may soon be at hand. Speaking at the G7 Summit in Hiroshima, Japan, Ukrainian President Volodymyr Zelensky spoke about the dystopian destruction in Bakhmut, ravaged by Wagner Group mercenaries and other Russian forces. Zelensky thanked allied countries for their support and stressed the need for more weapons and equipment. Less than a week after news broke that the United Kingdom would supply Ukraine with its first long-range missiles, reports surfaced on May 15 that Storm Shadows were already striking the Russian-occupied city of Luhansk. Russia’s defense ministry and pro-Russian separatists in Luhansk claimed that the missiles had already struck two industrial facilities in the city three days earlier, though the Institute for the Study of War said available visual evidence did not support that claim.\n\nThe delivery of the Storm Shadow missiles marks the first time such a long-range weapons system has been provided to Ukraine since the war began. The United States and other European allies had thus far denied Ukrainian requests for long-range missiles, as well as for fighter jets like the American F-16. Yet developments last week signaled that the West may be relaxing one of its last remaining holdouts against Ukrainian aid requests. Three days after the U.K. and the Netherlands announced they were building a coalition of governments to support the procurement of F-16s and other forms of air combat assistance for Ukraine, the New York Times reported on May 19 that the United States would support the training of Ukrainian pilots to use the fighter jet. Still, any country hoping to transfer U.S.-made fighter jets in their possession must first obtain a re-export license, a request the Biden administration has not yet granted. With the training announcement, however, it is likely only a matter of time until this hurdle is cleared, as well.\n\nIn part, Western refusal to provide long-range missiles has been predicated on the fear that Ukraine might strike beyond Russian-occupied Ukrainian territory and into Russia itself, substantially escalating the conflict. To assuage these concerns, U.K. defense minister Ben Wallace assured that the missiles would only be directed towards Russian-occupied areas that are considered sovereign Ukrainian territory. This still seems to leave the possibility, however, that the missiles might be used to target disputed territories like Crimea, which Russia illegally annexed in 2014, well before the full-scale Russian invasion in 2022. Some analysts have speculated that an attack on Crimea or the four Ukrainian regions illegally annexed by Russia in September could be construed by Russian President Vladimir Putin as an attack on the Russian Federation itself, sparking fears that he could, in a worst-case scenario, respond by deploying tactical nuclear weapons under the guise of self-defense.\n\nThe Storm Shadow’s expansive range means the headquarters of the Russian Black Sea fleet, housed in the Crimean city of Sevastopol, now appears to be within firing range of Ukrainian-held territory, as are several Russian cities near Ukraine’s northeast border. However, such risky targets may not be necessary for Ukraine to disrupt its opponent’s military capabilities. An adviser to the Ukrainian defense minister has suggested the Storm Shadows would be used to target Russian assets such as fuel and ammunition depots as well as command centers located “on the temporarily occupied Ukrainian territory.” Deep missile strikes beyond Russia’s frontlines could also free up defensive forces in the rear to open lanes for Ukrainian assaults.\n\nIn addition to receiving hundreds of Storm Shadows as well as various drone systems from the United Kingdom in the coming months, other European partners have pledged to bolster their military support for Ukraine. Germany has promised nearly $3 billion in additional military assets, including Leopard tanks and other ground combat vehicles, Howitzer artillery systems, air defense systems, and more. The new German aid package is valued at nearly double the country’s total prior contributions to Ukraine’s war effort. France has also promised more armored vehicles and light tanks.\n\nFor its part, Russia is expanding its drone cooperation with Iran, with the two countries planning to establish a production facility in Russia capable of producing some six thousand additional drones in the years ahead. So far, Russia has received approximately 400 drones from Iran to use against Ukraine, and it is currently looking for “a more capable and more lethal” version to use in the future, according to U.S. National Security Council spokesperson John Kirby. Russia has used explosive drones to attack Ukrainian critical infrastructure and specifically target cultural heritage sites, at least 1,600 in number, including monuments and memorials, museums, and places of worship. Such attacks are meant not only to cripple Ukraine’s ability to operate and provide basic necessities to its citizens but also to obliterate Ukrainian identity through the destruction of its history and culture. Ukraine has proven adept at shooting down the slower-moving Shahed-136 drones currently available to Russia, especially now that it possesses two top-tier Patriot air defense systems to replace its legacy Soviet systems. The new drone plant is expected to produce a faster, longer-range version of the Shahed-136 that may pose a greater challenge to Ukrainian air defenses. Russia has already launched nine attacks on Kyiv this month, including an exceptionally large missile volley on May 16. The attack reportedly damaged one of Ukraine’s Patriot systems; according to U.S. officials, the damage to the system was minimal and it remains operational.",
+        "metadata": {
+          "title": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine? - The Soufan Center",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?",
+          "og:description": "In a watershed moment for Ukraine’s military capabilities, the country received a long-range missile system from the United Kingdom capable of striking deep into Russian-controlled territory",
+          "og:url": "https://thesoufancenter.org/intelbrief-2023-may-22/",
+          "og:site_name": "The Soufan Center",
+          "article:publisher": "https://www.facebook.com/The-Soufan-Center-1857713704498875/",
+          "article:published_time": "2023-05-22T07:01:52+00:00",
+          "article:modified_time": "2023-05-23T07:26:46+00:00",
+          "og:image": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "674",
+          "og:image:type": "image/jpeg",
+          "author": "Mohamed",
+          "twitter:title": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?",
+          "twitter:description": "In a watershed moment for Ukraine’s military capabilities, the country received a long-range missile system from the United Kingdom capable of striking deep into Russian-controlled territory",
+          "og:image:url": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow.jpg"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#article",
+              "isPartOf": {
+                "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/"
+              },
+              "author": {
+                "name": "Mohamed",
+                "@id": "https://thesoufancenter.org/#/schema/person/e34845967acd0044aae9fd261af61b2e"
+              },
+              "headline": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?",
+              "datePublished": "2023-05-22T07:01:52+00:00",
+              "dateModified": "2023-05-23T07:26:46+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/"
+              },
+              "wordCount": 1030,
+              "publisher": {
+                "@id": "https://thesoufancenter.org/#organization"
+              },
+              "image": {
+                "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#primaryimage"
+              },
+              "thumbnailUrl": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow.jpg",
+              "articleSection": [
+                "INTELBRIEF"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/",
+              "url": "https://thesoufancenter.org/intelbrief-2023-may-22/",
+              "name": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine? - The Soufan Center",
+              "isPartOf": {
+                "@id": "https://thesoufancenter.org/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#primaryimage"
+              },
+              "image": {
+                "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#primaryimage"
+              },
+              "thumbnailUrl": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow.jpg",
+              "datePublished": "2023-05-22T07:01:52+00:00",
+              "dateModified": "2023-05-23T07:26:46+00:00",
+              "breadcrumb": {
+                "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://thesoufancenter.org/intelbrief-2023-may-22/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#primaryimage",
+              "url": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow.jpg",
+              "contentUrl": "https://thesoufancenter.org/wp-content/uploads/2023/05/Tornado_Storm_Shadow.jpg",
+              "width": 1024,
+              "height": 674
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://thesoufancenter.org/intelbrief-2023-may-22/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://thesoufancenter.org/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "IntelBrief: Special Delivery: With Long-Range Missiles Secured, Are Fighter Jets Next for Ukraine?"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://thesoufancenter.org/#website",
+              "url": "https://thesoufancenter.org/",
+              "name": "The Soufan Center",
+              "description": "World Class Investigative Methodologies",
+              "publisher": {
+                "@id": "https://thesoufancenter.org/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://thesoufancenter.org/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://thesoufancenter.org/#organization",
+              "name": "The Soufan Center",
+              "url": "https://thesoufancenter.org/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://thesoufancenter.org/#/schema/logo/image/",
+                "url": "https://thesoufancenter.org/wp-content/uploads/2018/11/thesoufancenter_logo_1-copy.png",
+                "contentUrl": "https://thesoufancenter.org/wp-content/uploads/2018/11/thesoufancenter_logo_1-copy.png",
+                "width": 795,
+                "height": 263,
+                "caption": "The Soufan Center"
+              },
+              "image": {
+                "@id": "https://thesoufancenter.org/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/The-Soufan-Center-1857713704498875/",
+                "https://x.com/thesoufancenter",
+                "https://www.instagram.com/thesoufancenter/",
+                "https://www.linkedin.com/company/the-soufan-center/",
+                "https://www.youtube.com/channel/UCsGH1dDjFwVNYPutzq0rXtw"
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://thesoufancenter.org/#/schema/person/e34845967acd0044aae9fd261af61b2e",
+              "name": "Mohamed"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'Ukraine a reçu un premier système de missiles de croisière à longue portée Storm Shadow de la part du Royaume-Uni, lui permettant de frapper jusqu'à 300 kilomètres de distance, notamment dans les territoires contrôlés par la Russie et à Louhansk. Parallèlement, des combats intenses se déroulent à Bakhmout avec l'implication des forces ukrainiennes et des mercenaires du groupe Wagner, et le président ukrainien Volodymyr Zelensky a pris la parole lors du sommet du G7 à Hiroshima, au Japon.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Yevgeny Prigozhin",
+          "Volodymyr Zelensky"
+        ],
+        "LOCATION": [
+          "Ukraine",
+          "United Kingdom",
+          "Netherlands",
+          "Russia",
+          "Crimean",
+          "Middle Eastern",
+          "Iran",
+          "Bakhmut",
+          "Hiroshima",
+          "Japan",
+          "Luhansk"
+        ],
+        "ORGANIZATION": [
+          "The Soufan Center",
+          "Russian Black Sea fleet",
+          "Wagner Group",
+          "Institute for the Study of War"
+        ],
+        "DATE": [
+          "2023",
+          "May 22",
+          "May 18",
+          "May 15"
+        ],
+        "EVENT": [
+          "G7 Summit in Hiroshima"
+        ],
+        "OTHER": [
+          "F-16s",
+          "Storm Shadow"
+        ]
+      },
+      "score_e5": 0.740229891376001
+    },
+    {
+      "titre": "ZA554 | Panavia Tornado GR.4 | United Kingdom - Royal Air ...",
+      "source": "JetPhotos",
+      "lien": "https://www.jetphotos.com/photo/9885792",
+      "image_url": "https://cdn.jetphotos.com/400/6/27032_1591134744.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXYuEqdkupcw6Azizz5epa8ww-PrPSkIhsbfQXKQCFn0kIA1AT",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "ZA554 | Panavia Tornado GR.4 | United Kingdom - Royal Air ...",
+        "link": "https://www.jetphotos.com/photo/9885792",
+        "source": "JetPhotos",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQEQtPSc2QEuXpWVA7J3-xwR_S5-LyFTPVRO9oFDKZgK3sQzobBdjMB3SMzVgZi36ReTRSp-5YA7b77Mqk9a0FeSHDlzpEhtAwUS1tB8blNNBTRhriJVg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXYuEqdkupcw6Azizz5epa8ww-PrPSkIhsbfQXKQCFn0kIA1AT",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://cdn.jetphotos.com/400/6/27032_1591134744.jpg",
+        "image_width": 225,
+        "image_height": 400
+      },
+      "webpage": null,
+      "texte_contexte": "Photographie d'un avion Panavia Tornado GR.4 portant le numéro ZA554 et appartenant à la Royal Air Force du Royaume-Uni.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "JetPhotos",
+          "Royal Air Force"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "ZA554 Panavia Tornado GR.4"
+        ]
+      },
+      "score_e5": 0.7846514896344206
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Iraq"
+    ],
+    "ORGANIZATION": [
+      "RAF"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Tornado"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Royal Air Force",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ministry of Defence",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State group",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Vice News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Panavia Aircraft GmbH",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "German Air Force",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Italian Air Force",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Royal Saudi Air Force",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Aerospace",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Aircraft Corporation",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MBB",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Aeritalia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tri-National Tornado Training Establishment",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NATO's Nuclear Planning Group",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1979–1998",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1979",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "14 August 1974",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2019",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1979–1980",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1990s",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1960s",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1965",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1967",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Gulf War of 1991",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Bosnian War",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Kosovo War",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Iraq War",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "2011 Libyan civil war",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Panavia Tornado",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tornado IDS/ECR",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tornado GR4",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tornado IDS",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tornado ADV",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Tornado ECR",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "BAC TSR-2",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "General Dynamics F-111K",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Avro Vulcan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Blackburn Buccaneer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "BAC/Dassault AFVG",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Iain Watson",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Fallon",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Harriet Harman",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vernon Coaker",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Cameron",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alex Salmond",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Labour",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Conservative",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SNP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Yevgeny Prigozhin",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Volodymyr Zelensky",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ukraine",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Netherlands",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Crimean",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle Eastern",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iran",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bakhmut",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hiroshima",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Japan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Luhansk",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Soufan Center",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Russian Black Sea fleet",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wagner Group",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Institute for the Study of War",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2023",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 22",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 18",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 15",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "G7 Summit in Hiroshima",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "F-16s",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Storm Shadow",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "JetPhotos",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "ZA554 Panavia Tornado GR.4",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T09:31:41.142898"
+  }
+}

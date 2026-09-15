@@ -1,0 +1,542 @@
+{
+  "id_rumeur": "1493430",
+  "id_image": "70067",
+  "caption": "The Islamist group alNusra seen here in Aleppo is believed to be part of alQaeda",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122913/70067.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Pakistan students return to schools under threat of new attacks - The Washington Post",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/world/asia_pacific/pakistan-students-return-to-schools-under-threat-of-new-attacks/2016/02/05/8303e31b-acfa-4705-a891-eb727a3c6ca2_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=1440",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDPXBkOsBDOGUKrG__qaErjCuOV4Xa1_16WH3GyoifUK2glCc2",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Pakistan students return to schools under threat of new attacks - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/world/asia_pacific/pakistan-students-return-to-schools-under-threat-of-new-attacks/2016/02/05/8303e31b-acfa-4705-a891-eb727a3c6ca2_story.html",
+        "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=1440",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDPXBkOsBDOGUKrG__qaErjCuOV4Xa1_16WH3GyoifUK2glCc2"
+      },
+      "webpage": {
+        "text": "Pakistan students return to schools under threat of new attacks\n\nISLAMABAD, Pakistan — After days of cold, a fitful sunlight emerged above the foothills of the Hindu Kush and schoolchildren in Peshawar took to the playground to play cricket and soccer.\n\nZeeshan Jehangir, 14, and his two best friends were not among them. The three — dressed in maroon-and-gray school uniforms — huddled on the stairs and planned out how it would be when the gunmen came for them.",
+        "metadata": {
+          "title": "Pakistan students return to schools under threat of new attacks - The Washington Post",
+          "description": "Students trickled back to school this week as the country remains on alert after a Taliban video promises more attacks.",
+          "og:site_name": "The Washington Post",
+          "og_site_name": "The Washington Post",
+          "og:type": "article",
+          "og_type": "article",
+          "og:url": "https://www.washingtonpost.com/world/asia_pacific/pakistan-students-return-to-schools-under-threat-of-new-attacks/2016/02/05/8303e31b-acfa-4705-a891-eb727a3c6ca2_story.html",
+          "og_url": "https://www.washingtonpost.com/world/asia_pacific/pakistan-students-return-to-schools-under-threat-of-new-attacks/2016/02/05/8303e31b-acfa-4705-a891-eb727a3c6ca2_story.html",
+          "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=1440",
+          "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=1440",
+          "og:title": "Pakistan students return to schools under threat of new attacks",
+          "og_title": "Pakistan students return to schools under threat of new attacks",
+          "og:description": "Students trickled back to school this week as the country remains on alert after a Taliban video promises more attacks.",
+          "og_description": "Students trickled back to school this week as the country remains on alert after a Taliban video promises more attacks.",
+          "twitter:title": "Pakistan students return to schools under threat of new attacks",
+          "twitter:description": "Students trickled back to school this week as the country remains on alert after a Taliban video promises more attacks.",
+          "article:published_time": "2016-02-06T02:40:22.000Z",
+          "article_published_time": "2016-02-06T02:40:22.000Z",
+          "article:modified_time": "2023-04-11T02:18:49.872Z",
+          "article_modified_time": "2023-04-11T02:18:49.872Z",
+          "article:section": "Asia",
+          "article_section": "Asia",
+          "article:content_tier": "metered",
+          "article_content_tier": "metered",
+          "og_author": "Annie Gowen"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.washingtonpost.com/world/asia_pacific/pakistan-students-return-to-schools-under-threat-of-new-attacks/2016/02/05/8303e31b-acfa-4705-a891-eb727a3c6ca2_story.html",
+          "headline": "Pakistan students return to schools under threat of new attacks",
+          "alternativeHeadline": "Pakistan students return to schools under threat of new attacks",
+          "dateModified": "2023-04-11T02:18:49.872Z",
+          "datePublished": "2016-02-06T02:40:22.000Z",
+          "description": "Students trickled back to school this week as the country remains on alert after a Taliban video promises more attacks.",
+          "author": {
+            "@type": "Person",
+            "name": "Annie Gowen",
+            "url": "https://www.washingtonpost.com/people/annie-gowen/"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The Washington Post",
+            "productID": "washingtonpost.com:basic",
+            "description": "Breaking news and analysis on politics, business, world, national news, entertainment and more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+            "sku": "https://subscribe.washingtonpost.com",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
+            "brand": {
+              "@type": "brand",
+              "name": "The Washington Post"
+            },
+            "offers": {
+              "@type": "offer",
+              "url": "https://subscribe.washingtonpost.com/acquisition?promo=o26"
+            }
+          },
+          "publisher": {
+            "@id": "washingtonpost.com",
+            "@type": "NewsMediaOrganization",
+            "name": "The Washington Post"
+          },
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "cssSelector": ".meteredContent",
+            "isAccessibleForFree": false
+          },
+          "keywords": "pakistan, school shooting, pakistan and school shooting, pakistan and terror threat and school shooting",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=1600&h=900",
+              "height": 900,
+              "width": 1600
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=1800&h=1800",
+              "height": 1800,
+              "width": 1800
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O22S7XWMEYI6LJ5SLIXYESYCZE&w=800&h=600",
+              "height": 800,
+              "width": 600
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Au Pakistan, après des jours de froid et l'apparition d'un soleil intermittent au-dessus des contreforts de l'Hindu Kush, des écoliers à Peshawar reprennent le chemin des écoles sous la menace de nouvelles attaques et jouent au cricket et au soccer dans la cour de récréation, tandis que certains élèves restent à l'écart pour planifier leur sécurité face à la menace de miliciens.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Zeeshan Jehangir"
+        ],
+        "LOCATION": [
+          "Pakistan",
+          "Islamabad",
+          "Hindu Kush",
+          "Peshawar"
+        ],
+        "ORGANIZATION": [
+          "The Washington Post"
+        ],
+        "DATE": [
+          "2016/02/05",
+          "February 5, 2016"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7221930116473566
+    },
+    {
+      "titre": "Counter-terrorism drills conducted in schools across Peshawar - Pakistan - DAWN.COM",
+      "source": "Dawn",
+      "lien": "https://www.dawn.com/news/1236162",
+      "image_url": "https://i.dawn.com/primary/2016/01/56ab4133cf425.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF3RoBY7_hxhcsByndTv94uCMn1Jh9pcRboCXRfe79ZNnxbbu7",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Counter-terrorism drills conducted in schools across Peshawar - Pakistan - DAWN.COM",
+        "source": "Dawn",
+        "link": "https://www.dawn.com/news/1236162",
+        "imageUrl": "https://i.dawn.com/primary/2016/01/56ab4133cf425.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF3RoBY7_hxhcsByndTv94uCMn1Jh9pcRboCXRfe79ZNnxbbu7"
+      },
+      "webpage": {
+        "text": "Counter-terrorism drills conducted in schools across Peshawar - Pakistan\n\nPESHAWAR: In wake of the Bacha Khan University attack, security in schools across the country has been beefed up while mock security exercises were carried out in many others since last week.\n\nThe Elite Police Force personnel took part in a number of drills to fight against militants in various schools of Peshawar on Friday.\n\nIn Karachi, students and parents were informed on Tuesday that all institutes under the Army Public Schools & Colleges System in the city will remain closed till January 31 due to security concerns.\n\nEarlier on Monday, the Punjab government announced closure of all public and private schools in the province from Jan 26 to 31, citing \"extremely cold weather\" as the reason.",
+        "metadata": {
+          "title": "Counter-terrorism drills conducted in schools across Peshawar - Pakistan - DAWN.COM"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "À la suite de l'attaque de l'Université Bacha Khan, la sécurité dans les écoles du Pakistan a été renforcée et des exercices de simulation contre le terrorisme ont été menés dans divers établissements de Peshawar par des membres de l'Elite Police Force. À Karachi, les instituts du réseau Army Public Schools & Colleges System sont restés fermés jusqu'au 31 janvier pour des raisons de sécurité, tandis que le gouvernement du Pendjab a annoncé la fermeture de toutes les écoles publiques et privées de la province du 26 au 31 janvier en raison d'un temps extrêmement froid.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Peshawar",
+          "Pakistan",
+          "Karachi",
+          "Punjab"
+        ],
+        "ORGANIZATION": [
+          "Bacha Khan University",
+          "Elite Police Force",
+          "Army Public Schools & Colleges System",
+          "Dawn"
+        ],
+        "DATE": [
+          "January 31",
+          "January 26 to 31",
+          "Friday"
+        ],
+        "EVENT": [
+          "Bacha Khan University attack"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6918123390263698
+    },
+    {
+      "titre": "Diancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan | tempo.co",
+      "source": "Tempo.co",
+      "lien": "https://www.tempo.co/foto/arsip/diancam-taliban-pasukan-gultor-pakistan-asah-kemampuan-1123662",
+      "image_url": "https://statik.tempo.co/data/2016/02/02/id_479141/479141_650.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSikBsaNbEQyZOtLmI_fRwZIRRsiyjJ9vYyJ7I5tm-7hWvJSmqd",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Diancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan | tempo.co",
+        "source": "Tempo.co",
+        "link": "https://www.tempo.co/foto/arsip/diancam-taliban-pasukan-gultor-pakistan-asah-kemampuan-1123662",
+        "imageUrl": "https://statik.tempo.co/data/2016/02/02/id_479141/479141_650.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSikBsaNbEQyZOtLmI_fRwZIRRsiyjJ9vYyJ7I5tm-7hWvJSmqd"
+      },
+      "webpage": {
+        "text": "Diancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan\n\nIni halaman uji coba wajah baru Tempo. Berikan saran\nLangganan\n\n\nIklan\n\n\nFoto\n\n\nDiancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan\n\n2 Februari 2016 | 21.27 WIB\n\n\nBagikan\n\n\nGabung Tempo Circle\n\ninternasional-pakistan\n\n\nFOTO TERKAIT\nJet Tempur Pakistan Unjuk Gigi dalam Aksi Aerobatik\nMelihat Sekolah Di Kawasan Kumuh Pakistan\nMalala Hanya Masuk Dalam Nominasi Nobel Perdamaian\nPasien Rumah Sakit Berhamburan saat Pakistan Diguncang Gempa\nPendidikan Seks di Pedesaan Pakistan Yang Sangat Konservatif\n\nFOTO TERBARU\nHari Keempat Pencarian Lima Jurnalis Hilang di Selat Sunda\nTiga KRI TNI AL Ikut Cari Jurnalis di Perairan Anak Krakatau\nTim SAR Lacak Titik Terakhir Lima Jurnalis di Selat Sunda\nWater Mist untuk Bersihkan Udara Jakarta\nKurangi Abu Vulkanik, Pemadam Kebakaran Sirami TMII\n\nIklan\n\n\nARTIKEL TRENDING\n\nLayar Tancap: Medium Baru Film Politik\n\nGowok: Kamasutra Jawa yang Tersembunyi\n\nFilm Gowok: Karena Perempuan Juga Berhak Orgasme\n\nPesta Grafiti dan Mural di Karanganyar\n\nBagaimana Penganut Sikh Tiba di Tanjung Priok Satu Abad Lalu\n\n\nIklan\n\n\nIklan\n\nIklan\n\n\nIklan\n\n\nIklan\n\n\nIklan\n\n\nIklan\n\n\nAsas jurnalisme kami bukan jurnalisme yang memihak satu golongan. Kami percaya kebajikan, juga ketidakbajikan, tidak menjadi monopoli satu pihak. Kami percaya tugas pers bukan menyebarkan prasangka, justru melenyapkannya, bukan membenihkan kebencian, melainkan mengkomunikasikan saling pengertian. Jurnalisme kami bukan jurnalisme untuk memaki atau mencibirkan bibir, juga tidak dimaksudkan untuk menjilat atau menghamba ~ 6 Maret 1971\nMedia SosialMedia Sosial\n\nUnduh aplikasi Tempo\n\nJaringan Media\nTempo.co EnglishTempo MagazineTempo StoreTempo TVTempo Witness\nTempo InstituteTempo Data ScienceRuang dan TempoTelusuriZiliun\nKok BisaTemotionOrbitinTeras\nIndonesianaCantikaGooto\n\n\nTRUSTWORTHY NEWS\n\n\nInformasi\nTentang KamiPedoman Media SiberPedoman Penggunaan Konten Terhadap AIKode Etik dan Pedoman JurnalistikKetentuan LayananBeriklanKebijakan Privasi Tempo\n© 2025 Tempo - Hak Cipta Dilindungi Hukum\nBeranda Harian Mingguan Tempo Plus",
+        "metadata": {
+          "title": "Diancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan | tempo.co",
+          "og:description": "Berita terbaru, akurat dan terpercaya di Tempo.co. Baca di sini biar kamu gak ketinggalan informasi terbaru seputar Politik, Hukum, Ekonomi, Teknologi, dan Lainnya.",
+          "og:image": "https://statik.tempo.co/data/2016/02/02/id_479140/479140_650.jpg",
+          "og:url": "arsip/diancam-taliban-pasukan-gultor-pakistan-asah-kemampuan-1123662",
+          "og:type": "article",
+          "article:published_time": "2016-02-02 21:27:36",
+          "og:title": "Diancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan | tempo.co",
+          "og:locale": "id",
+          "og:site_name": "tempo.co"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Diancam Taliban, Pasukan Gultor Pakistan Asah Kemampuan",
+          "description": "",
+          "image": "https://statik.tempo.co/data/2016/02/02/id_479140/479140_650.jpg",
+          "datePublished": "2016-02-02T21:27:36+07:00",
+          "isAccessibleForFree": true,
+          "articleBody": "",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Mundri Winanto",
+              "url": "https://www.tempo.co/penulis/-1691"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "PT Tempo Inti Media",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://tempo.co/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://tempo.co/arsip/diancam-taliban-pasukan-gultor-pakistan-asah-kemampuan-1123662"
+          },
+          "wordCount": 0
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Articles et archives du média indonésien Tempo.co évoquant des sujets divers liés au Pakistan, notamment les menaces des talibans et les entraves des forces de sécurité pakistanaises (Pasukan Gultor), ainsi que d'autres actualités internationales et nationales.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Malala"
+        ],
+        "LOCATION": [
+          "Pakistan",
+          "Selat Sunda",
+          "Anak Krakatau",
+          "Jakarta",
+          "TMII",
+          "Karanganyar",
+          "Tanjung Priok"
+        ],
+        "ORGANIZATION": [
+          "Taliban",
+          "Pasukan Gultor",
+          "Tempo",
+          "Tempo.co",
+          "KRI",
+          "TNI AL",
+          "Tim SAR"
+        ],
+        "DATE": [
+          "2 Februari 2016",
+          "6 Maret 1971",
+          "2025"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7214185120824512
+    },
+    {
+      "titre": "Pakistan's schools stay closed or beef up security to guard against violence - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "lien": "https://www.latimes.com/world/asia/la-fg-pakistan-schools-20160201-story.html",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b8e2d81/2147483647/strip/true/crop/2048x1412+0+0/resize/1200x827!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/82/ce/9d3745d034464aae7e2191c960bd/la-fg-pakistan-schools-20160201-002",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQL4-bvzrDaB7x6h-WrDCDKWTYXjHmIVLY_ceZrjNWaSIAnEKBV",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Pakistan's schools stay closed or beef up security to guard against violence - Los Angeles Times",
+        "source": "Los Angeles Times",
+        "link": "https://www.latimes.com/world/asia/la-fg-pakistan-schools-20160201-story.html",
+        "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/b8e2d81/2147483647/strip/true/crop/2048x1412+0+0/resize/1200x827!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/82/ce/9d3745d034464aae7e2191c960bd/la-fg-pakistan-schools-20160201-002",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQL4-bvzrDaB7x6h-WrDCDKWTYXjHmIVLY_ceZrjNWaSIAnEKBV"
+      },
+      "webpage": {
+        "text": "Pakistan's schools stay closed or beef up security to guard against violence\n\nreporting from Peshawar, Pakistan — In the aftermath of a deadly attack on a Pakistani university, many private schools across the country remain closed, and others have implemented heavy security to guard against the threat of further violence.\n\nBy Monday, at least 12 chains of private schools had not reopened institutions in Khyber Pakhtunkhwa, Punjab and other provinces that had been closed following the Jan. 20 raid by militants on a private university in Charsadda, in northwest Pakistan.\n\nIn the capital, Islamabad, which has been spared the worst of the militant attacks of recent years, parent Ilyas Khan said he received a text message late Sunday night saying the private school where his two children are enrolled would remain closed until further notice.\n\n\nMillions of parents have experienced the same uncertainty since four attackers stormed Bacha Khan University in Charsadda and killed 21 people, most of them students. Umar Mansoor, a commander of the outlawed Pakistani Taliban militant organization, claimed responsibility for the attack in a video message and warned it was the start of a fresh offensive.\n\nDescribing universities such as Bacha Khan — named for a pacifist leader of the resistance to British colonial rule — as bastions of secular education, Mansoor said his fighters would target law schools and other institutions that trained Pakistan’s military officers, politicians, judges and other officials. The Pakistani Taliban has been waging a long-running insurgency to replace the secular government in Islamabad with a system based on Islamic law.\n\n\n“After consultation, we have decided to target schools, colleges and universities to eliminate the basis of this infidel system and establish supremacy and sovereignty of Allah in this country,” Mansoor said in a video message.\n\nHis message — coming a year after the Pakistani Taliban killed nearly 150 people, most of them children, at an army-run school — has exacerbated a security crisis in Pakistan’s education system.\n\nAs soft targets, schools have faced the brunt of rising militant violence here over the last decade. More people have died in attacks on schools in Pakistan than in any other country since the 1970s, according to the University of Maryland’s Global Terrorism Database.\n\nPublic schools in some provinces were open Monday, but mostly private, English-language schools in Peshawar, 20 miles from Charsadda, informed parents Sunday night that they would remain closed indefinitely.\n\n\nIn Khyber Pakhtunkhwa province, which includes Peshawar and Charsadda, the provincial government has spent more than $76 million on security measures at 28,000 public schools, including building new boundary walls and reconstructing damaged buildings.\n\nPakistani authorities have ordered private schools to increase their security measures, noting that there aren’t enough military and police personnel to protect every campus. Pakistan’s home ministry said it was preparing new security guidelines; authorities in some provinces have already closed dozens of private schools for failing to upgrade security following the December 2014 attack at the army-run school.\n\nSome provincial governments have issued licenses to teachers and security guards to carry light weapons. Guards wielding assault rifles have been deployed on top of some school buildings.\n\nIn Peshawar, armed police have been deployed at the entrance of the city’s main higher education institution, the University of Peshawar, which has more than 60,000 students. The campus has taken on the look of a military garrison, with watchtowers set up atop buildings, new closed-circuit television cameras, raised boundary walls and additional security personnel.\n\n\nKhwaja Yawar Naseer, who owns a private school in Peshawar, said that following orders from officials, he “installed five CCTV cameras, four security guards, a watchtower on the top floor of the two-story building and raised the height of the boundary wall to 10 feet.”\n\nBut Naseer wondered if even those measures were sufficient given the increasingly brazen attacks launched by militants against even the most heavily fortified targets.\n\n“When terrorists can enter the general headquarters of the Pakistani Army in Rawalpindi, attack the naval dockyard in Karachi and air force installations, then they can target any place at will,” Naseer said.\n\n\nHe blamed the government for creating fear and uncertainty among children and their parents.\n\n“Terrorists wanted to close education institutions, so they have succeeded in their mission,” Naseer said. “The government should not create fear by closing schools and universities.”\n\nAli is a special correspondent. Staff writer Shashank Bengali contributed to this report from Mumbai, India.\n\n\nMore to Read",
+        "metadata": {
+          "title": "Pakistan&#x27;s schools stay closed or beef up security to guard against violence - Los Angeles Times",
+          "og:title": "Threatened by the Taliban, some schools in Pakistan close -- others arm teachers and build walls",
+          "og:url": "https://www.latimes.com/world/asia/la-fg-pakistan-schools-20160201-story.html",
+          "og:image": "https://ca-times.brightspotcdn.com/dims4/default/c8754f3/2147483647/strip/true/crop/2048x1075+0+181/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F8a%2F316ddb81198892981858a44fc5e4%2Fla-fg-pakistan-schools-20160201-001",
+          "og:image:url": "https://ca-times.brightspotcdn.com/dims4/default/c8754f3/2147483647/strip/true/crop/2048x1075+0+181/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F8a%2F316ddb81198892981858a44fc5e4%2Fla-fg-pakistan-schools-20160201-001",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:type": "image/jpeg",
+          "og:image:alt": "A Pakistani police officer stands guard as children make their way to school in Lahore, Pakistan, on Monday.",
+          "og:description": "In the aftermath of a deadly attack on a Pakistani university, many private schools across the country remain closed, and others have implemented heavy security to guard against the threat of further violence. ",
+          "og:site_name": "Los Angeles Times",
+          "og:type": "article",
+          "article:author": "https://www.latimes.com/people/zulfiqar-ali",
+          "article:content_tier": "metered",
+          "article:published_time": "2016-02-01T19:12:11",
+          "article:opinion": "false",
+          "article:section": "World & Nation",
+          "twitter:description": "In the aftermath of a deadly attack on a Pakistani university, many private schools across the country remain closed, and others have implemented heavy security to guard against the threat of further violence. ",
+          "twitter:title": "Threatened by the Taliban, some schools in Pakistan close -- others arm teachers and build walls",
+          "fb:app_id": "134435029966155",
+          "fb:pages": "5863113009",
+          "description": "In the aftermath of a deadly attack on a Pakistani university, many private schools across the country remain closed while others have implemented heavy security to guard against the threat of further violence.",
+          "keywords": "Pakistan Taliban schools attack bombing students parents education"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "NewsArticle",
+          "isAccessibleForFree": false,
+          "articleBody": "In the aftermath of a deadly attack on a Pakistani university, many private schools across the country remain closed, and others have implemented heavy security to guard against the threat of further violence. By Monday, at least 12 chains of private schools had not reopened institutions in Khyber Pakhtunkhwa, Punjab and other provinces that had been closed following the Jan. 20 raid by militants on a private university in Charsadda, in northwest Pakistan. In the capital, Islamabad, which has been spared the worst of the militant attacks of recent years, parent Ilyas Khan said he received a text message late Sunday night saying the private school where his two children are enrolled would remain closed until further notice. Millions of parents have experienced the same uncertainty since four attackers stormed Bacha Khan University in Charsadda and killed 21 people, most of them students. Umar Mansoor, a commander of the outlawed Pakistani Taliban militant organization, claimed responsibility for the attack in a video message and warned it was the start of a fresh offensive. Describing universities such as Bacha Khan — named for a pacifist leader of the resistance to British colonial rule — as bastions of secular education, Mansoor said his fighters would target law schools and other institutions that trained Pakistan’s military officers, politicians, judges and other officials. The Pakistani Taliban has been waging a long-running insurgency to replace the secular government in Islamabad with a system based on Islamic law. “After consultation, we have decided to target schools, colleges and universities to eliminate the basis of this infidel system and establish supremacy and sovereignty of Allah in this country,” Mansoor said in a video message. His message — coming a year after the Pakistani Taliban killed nearly 150 people, most of them children, at an army-run school — has exacerbated a security crisis in Pakistan’s education system. As soft targets, schools have faced the brunt of rising militant violence here over the last decade. More people have died in attacks on schools in Pakistan than in any other country since the 1970s, according to the University of Maryland’s Global Terrorism Database. Public schools in some provinces were open Monday, but mostly private, English-language schools in Peshawar, 20 miles from Charsadda, informed parents Sunday night that they would remain closed indefinitely. In Khyber Pakhtunkhwa province, which includes Peshawar and Charsadda, the provincial government has spent more than $76 million on security measures at 28,000 public schools, including building new boundary walls and reconstructing damaged buildings. Pakistani authorities have ordered private schools to increase their security measures, noting that there aren’t enough military and police personnel to protect every campus. Pakistan’s home ministry said it was preparing new security guidelines; authorities in some provinces have already closed dozens of private schools for failing to upgrade security following the December 2014 attack at the army-run school. Some provincial governments have issued licenses to teachers and security guards to carry light weapons. Guards wielding assault rifles have been deployed on top of some school buildings. In Peshawar, armed police have been deployed at the entrance of the city’s main higher education institution, the University of Peshawar, which has more than 60,000 students. The campus has taken on the look of a military garrison, with watchtowers set up atop buildings, new closed-circuit television cameras, raised boundary walls and additional security personnel. Khwaja Yawar Naseer, who owns a private school in Peshawar, said that following orders from officials, he “installed five CCTV cameras, four security guards, a watchtower on the top floor of the two-story building and raised the height of the boundary wall to 10 feet.” But Naseer wondered if even those measures were sufficient given the increasingly brazen attacks launched by militants against even the most heavily fortified targets. “When terrorists can enter the general headquarters of the Pakistani Army in Rawalpindi, attack the naval dockyard in Karachi and air force installations, then they can target any place at will,” Naseer said. He blamed the government for creating fear and uncertainty among children and their parents. “Terrorists wanted to close education institutions, so they have succeeded in their mission,” Naseer said. “The government should not create fear by closing schools and universities.” Ali is a special correspondent. Staff writer Shashank Bengali contributed to this report from Mumbai, India.",
+          "articleSection": "World & Nation",
+          "url": "https://www.latimes.com/world/asia/la-fg-pakistan-schools-20160201-story.html",
+          "dateModified": "2016-02-01T19:12:11.000Z",
+          "datePublished": "2016-02-01T19:12:11.000Z",
+          "description": "In the aftermath of a deadly attack on a Pakistani university, many private schools across the country remain closed while others have implemented heavy security to guard against the threat of further violence.",
+          "hasPart": {
+            "@type": "WebPageElement",
+            "cssSelector": ".paywall",
+            "isAccessibleForFree": false
+          },
+          "image": [
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 1043,
+              "url": "https://ca-times.brightspotcdn.com/dims4/default/b85ab23/2147483647/strip/false/crop/2048x1437+0+0/resize/1486x1043!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F8a%2F316ddb81198892981858a44fc5e4%2Fla-fg-pakistan-schools-20160201-001",
+              "width": 1486
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "ImageObject",
+              "height": 675,
+              "url": "https://ca-times.brightspotcdn.com/dims4/default/13967d0/2147483647/strip/false/crop/2048x1152+0+143/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F8a%2F316ddb81198892981858a44fc5e4%2Fla-fg-pakistan-schools-20160201-001",
+              "width": 1200
+            }
+          ],
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "Los Angeles Times",
+            "productID": "latimes.com:showcase"
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.latimes.com/world/asia/la-fg-pakistan-schools-20160201-story.html"
+          },
+          "author": [
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "affiliation": "Los Angeles Times",
+              "description": "Zulfiqar Ali is a special correspondent.",
+              "name": "Zulfiqar Ali",
+              "url": "https://www.latimes.com/people/zulfiqar-ali"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Los Angeles Times",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://ca-times.brightspotcdn.com/dims4/default/954b438/2147483647/strip/false/crop/382x60+0+0/resize/382x60!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F5f%2F46c2d05b430cbc6e775301df1062%2Flogo-full-black.png",
+              "width": 382,
+              "height": 60
+            }
+          },
+          "name": "Pakistan's schools stay closed or beef up security to guard against violence - Los Angeles Times",
+          "headline": "Pakistan's schools stay closed or beef up security to guard against violence"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "À la suite de l'attaque menée par des militants le 20 janvier contre l'Université Bacha Khan à Charsadda, dans le nord-ouest du Pakistan, où 21 personnes ont été tuées, de nombreuses écoles privées à travers le pays restent fermées ou renforcent leur sécurité. Umar Mansoor, un commandant du mouvement taliban pakistanais, a revendiqué l'attaque dans une vidéo et a menacé de cibler les universités et les écoles. Les autorités provinciales de Khyber Pakhtunkhwa ont investi massivement dans des mesures de sécurité pour les écoles publiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ilyas Khan",
+          "Umar Mansoor"
+        ],
+        "LOCATION": [
+          "Peshawar",
+          "Pakistan",
+          "Khyber Pakhtunkhwa",
+          "Punjab",
+          "Charsadda",
+          "Islamabad"
+        ],
+        "ORGANIZATION": [
+          "Bacha Khan University",
+          "Pakistani Taliban",
+          "Los Angeles Times",
+          "University of Maryland"
+        ],
+        "DATE": [
+          "Jan. 20",
+          "Sunday",
+          "Monday",
+          "recent years",
+          "last decade",
+          "1970s"
+        ],
+        "EVENT": [
+          "Jan. 20 raid by militants on a private university in Charsadda"
+        ],
+        "OTHER": [
+          "Global Terrorism Database"
+        ]
+      },
+      "score_e5": 0.7157893530273263
+    },
+    {
+      "titre": "B.O.D on X: \"Me at war, in a corner sharing memes because I ran out of bullets\" / X",
+      "source": "X",
+      "lien": "https://x.com/BestofDem_szn/status/2027769031051096518",
+      "image_url": "https://pbs.twimg.com/media/HCQVLMuXIAA8G3v.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx6x6T6lJ-AqcNrwNiEgsiKS0KGuQvGoXBWRIZ_w8q7PKSACfB",
+      "rang_lens": 5,
+      "brut": {
+        "title": "B.O.D on X: \"Me at war, in a corner sharing memes because I ran out of bullets\" / X",
+        "source": "X",
+        "link": "https://x.com/BestofDem_szn/status/2027769031051096518",
+        "imageUrl": "https://pbs.twimg.com/media/HCQVLMuXIAA8G3v.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx6x6T6lJ-AqcNrwNiEgsiKS0KGuQvGoXBWRIZ_w8q7PKSACfB"
+      },
+      "webpage": {
+        "text": "B.O.D on X: \"Me at war, in a corner sharing memes because I ran out of bullets\"\n\nB.O.D\n\n@BestofDem_szn\n\nMe at war, in a corner sharing memes because I ran out of bullets\n\n7:33 AM · Feb 28, 202611KViews",
+        "metadata": {
+          "csp-nonce": "WGwDVgSMrgXFmsOMOFKdeA==",
+          "fb:app_id": "2231777543",
+          "og:site_name": "X (formerly Twitter)",
+          "og:locale": "en_US",
+          "al:ios:app_store_id": "333903271",
+          "al:ios:app_name": "X",
+          "al:android:package": "com.twitter.android",
+          "al:android:app_name": "X",
+          "apple-mobile-web-app-title": "X (formerly Twitter)",
+          "og:url": "https://x.com/BestofDem_szn/status/2027769031051096518",
+          "og:type": "article",
+          "article:published_time": "2026-02-28T15:33:05.000Z",
+          "article:author": "https://x.com/BestofDem_szn",
+          "og:title": "B.O.D (@BestofDem_szn) on X",
+          "title": "B.O.D (@BestofDem_szn) on X",
+          "twitter:title": "B.O.D (@BestofDem_szn) on X",
+          "og:description": "Me at war, in a corner sharing memes because I ran out of bullets",
+          "description": "Me at war, in a corner sharing memes because I ran out of bullets",
+          "twitter:description": "Me at war, in a corner sharing memes because I ran out of bullets",
+          "og:image": "https://pbs.twimg.com/media/HCQVLMuXIAA8G3v?format=webp&name=large",
+          "og:image:secure_url": "https://pbs.twimg.com/media/HCQVLMuXIAA8G3v?format=webp&name=large",
+          "og:image:type": "image/webp",
+          "og:image:width": "1024",
+          "og:image:height": "728",
+          "al:ios:url": "twitter://status?id=2027769031051096518",
+          "al:android:url": "twitter://status?id=2027769031051096518"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Publication sur le réseau social X par un utilisateur se décrivant en train de partager des mèmes dans un coin pendant la guerre par manque de munitions.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "X"
+        ],
+        "DATE": [
+          "Feb 28, 2026"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7426741095347892
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Aleppo"
+    ],
+    "ORGANIZATION": [
+      "al-Nusra",
+      "al-Qaeda"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Pakistan",
+      "Islamabad",
+      "Peshawar",
+      "Punjab"
+    ],
+    "ORGANIZATION": [
+      "Bacha Khan University"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7426741095347892,
+  "S_ent": 0.0,
+  "S_OOC": 0.3713370547673946,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION"
+  ]
+}

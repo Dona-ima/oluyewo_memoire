@@ -1,0 +1,336 @@
+{
+  "id_rumeur": 329049,
+  "id_image": 329049,
+  "caption": "A screen shot of Rabbit TV app on Facebook",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748104/oluyewo_benchmark/on5bvvssdx0klymfhy6d.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Cutting the Cord: Rabbit TV brings free streaming video to ...",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/tech/2015/08/30/cutting-cord-rabbit-tv-brings-free-streaming-video-facebook/32421849/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/b196b853566b5ee7431e4bd441ddc92838e1b899/c=0-86-2880-1713/local/-/media/2015/08/26/USATODAY/USATODAY/635762004140264830-Screen-Shot-2015-08-25-at-9.47.41-PM.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjEYcG-5SVYOMMiNlven9GLzErwoWtH1nq7jG7gwnDwQhzinkp",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Cutting the Cord: Rabbit TV brings free streaming video to ...",
+        "link": "https://www.usatoday.com/story/tech/2015/08/30/cutting-cord-rabbit-tv-brings-free-streaming-video-facebook/32421849/",
+        "source": "USA Today",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRkw90JTOBQFA6Ysfk8QBTt_ObUcEoOHvZd2vm0JFDBtH2ZqgEJ2xCTePKyo7RXVAwuFsAg-6vLfXa-mWTBzpAYASGFDOhiZBFzhWsTHJ8N9KZOBawL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjEYcG-5SVYOMMiNlven9GLzErwoWtH1nq7jG7gwnDwQhzinkp",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.usatoday.com/gcdn/-mm-/b196b853566b5ee7431e4bd441ddc92838e1b899/c=0-86-2880-1713/local/-/media/2015/08/26/USATODAY/USATODAY/635762004140264830-Screen-Shot-2015-08-25-at-9.47.41-PM.jpg",
+        "image_width": 1627,
+        "image_height": 2880
+      },
+      "webpage": null,
+      "texte_contexte": "Cutting the Cord: Rabbit TV brings free streaming video to USA Today",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Rabbit TV",
+          "USA Today"
+        ],
+        "DATE": [
+          "2015-08-30"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Rabbit TV",
+          "free streaming video"
+        ]
+      },
+      "score_e5": 0.8200386266490474
+    },
+    {
+      "titre": "Jon Stewart: Anthony Weiner Scandal 'Officially' Sad (VIDEO ...",
+      "source": "HuffPost",
+      "lien": "https://www.huffpost.com/entry/jon-stewart-anthony-weiner-officially-sad_n_872317",
+      "image_url": "https://img.huffingtonpost.com/asset/5bad613c2100002501c69019.jpeg?ops=scalefit_500_noupscale",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjO2Y9KKhpiLaPz0OvlKPjo33uFk_9hp34tqE-irnTSeqy-yMZ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Jon Stewart: Anthony Weiner Scandal 'Officially' Sad (VIDEO ...",
+        "link": "https://www.huffpost.com/entry/jon-stewart-anthony-weiner-officially-sad_n_872317",
+        "source": "HuffPost",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQOVKKGSvZjoCJ-T6q8BQJCMwYwDxX1a5QrlGbMk_Ik-9AFlZbAi2D3VGmjZiw2ciDHOWm6AcF1MP2L3pf5mrCmRW0qQKZ4jZUmIQ_XjVXScqGxBNVy",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjO2Y9KKhpiLaPz0OvlKPjo33uFk_9hp34tqE-irnTSeqy-yMZ",
+        "thumbnail_width": 191,
+        "thumbnail_height": 263,
+        "image": "https://img.huffingtonpost.com/asset/5bad613c2100002501c69019.jpeg?ops=scalefit_500_noupscale",
+        "image_width": 364,
+        "image_height": 500
+      },
+      "webpage": null,
+      "texte_contexte": "Jon Stewart: Anthony Weiner Scandal 'Officially' Sad",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jon Stewart",
+          "Anthony Weiner"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "HuffPost"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Anthony Weiner Scandal"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7434618947802285
+    },
+    {
+      "titre": "The Daily Show CLIP 12-12-2001 Internet Piracy - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=IKvOxCOLWtI",
+      "image_url": "https://i.ytimg.com/vi/IKvOxCOLWtI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeAoAChgKKAgwIABABGGUgVihJMA8=&rs=AOn4CLAaVl_J9lL8VfeguXcJj0TUVvqetw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQ3D1wXCdg3G6w7YtfB-BWI8Ar7xgvzJISrMNEJ5NE-sjvqpN",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "The Daily Show CLIP 12-12-2001 Internet Piracy - YouTube",
+        "link": "https://www.youtube.com/watch?v=IKvOxCOLWtI",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQ3D1wXCdg3G6w7YtfB-BWI8Ar7xgvzJISrMNEJ5NE-sjvqpN",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/IKvOxCOLWtI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeAoAChgKKAgwIABABGGUgVihJMA8=&rs=AOn4CLAaVl_J9lL8VfeguXcJj0TUVvqetw",
+        "image_width": 360,
+        "image_height": 480
+      },
+      "webpage": null,
+      "texte_contexte": "The Daily Show CLIP 12-12-2001 Internet Piracy",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Daily Show",
+          "YouTube"
+        ],
+        "DATE": [
+          "2001-12-12"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Internet Piracy"
+        ]
+      },
+      "score_e5": 0.7562518239876901
+    },
+    {
+      "titre": "Jon Stewart Takes On Obama's Libya Speech, Strategy ...",
+      "source": "HuffPost",
+      "lien": "https://www.huffpost.com/entry/jon-stewart-obama-libya-speech_n_842367",
+      "image_url": "https://img.huffingtonpost.com/asset/5bad5f502100000001c68f11.jpeg?ops=scalefit_500_noupscale",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqPntYwlMVZ-JCdAJj5lV2QJ4rNGTsSuEc5uNZCqB1PcPLdUEy",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Jon Stewart Takes On Obama's Libya Speech, Strategy ...",
+        "link": "https://www.huffpost.com/entry/jon-stewart-obama-libya-speech_n_842367",
+        "source": "HuffPost",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQOVKKGSvZjoCJ-T6q8BQJCMwYwDxX1a5QrlGbMk_Ik-9AFlZbAi2D3VGmjZiw2ciDHOWm6AcF1MP2L3pf5mrCmRW0qQKZ4jZUmIQ_XjVXScqGxBNVy",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqPntYwlMVZ-JCdAJj5lV2QJ4rNGTsSuEc5uNZCqB1PcPLdUEy",
+        "thumbnail_width": 165,
+        "thumbnail_height": 306,
+        "image": "https://img.huffingtonpost.com/asset/5bad5f502100000001c68f11.jpeg?ops=scalefit_500_noupscale",
+        "image_width": 269,
+        "image_height": 500
+      },
+      "webpage": null,
+      "texte_contexte": "Jon Stewart Takes On Obama's Libya Speech, Strategy",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jon Stewart",
+          "Obama"
+        ],
+        "LOCATION": [
+          "Libya"
+        ],
+        "ORGANIZATION": [
+          "HuffPost"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7400187231671264
+    },
+    {
+      "titre": "7 Iconic Jon Stewart 'Daily Show' Moments You'll Never Forget ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=GjaEgYcj7Jc",
+      "image_url": "https://i.ytimg.com/vi/GjaEgYcj7Jc/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvKzCzyXcYQ8V12qu_xLEoPgKxQPT1m3Ku2uh9TCVxxe7C50nT",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "7 Iconic Jon Stewart 'Daily Show' Moments You'll Never Forget ...",
+        "link": "https://www.youtube.com/watch?v=GjaEgYcj7Jc",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvKzCzyXcYQ8V12qu_xLEoPgKxQPT1m3Ku2uh9TCVxxe7C50nT",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/GjaEgYcj7Jc/hqdefault.jpg",
+        "image_width": 360,
+        "image_height": 480
+      },
+      "webpage": null,
+      "texte_contexte": "7 Iconic Jon Stewart 'Daily Show' Moments You'll Never Forget",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jon Stewart"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Daily Show",
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7412961168262734
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Facebook"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Rabbit TV"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rabbit TV",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA Today",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015-08-30",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Rabbit TV",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "free streaming video",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jon Stewart",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Anthony Weiner",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HuffPost",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Anthony Weiner Scandal",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Daily Show",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2001-12-12",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Internet Piracy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Obama",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Libya",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:43:02.825654"
+  }
+}

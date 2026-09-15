@@ -1,0 +1,804 @@
+{
+  "id_rumeur": 234183,
+  "id_image": 234183,
+  "caption": "The suburban Minneapolis headquarters of Medtronic whose proposed merger with Ireland s Covidien is one of several corporate tax inversion deals being pursued by US companies",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748094/oluyewo_benchmark/havsldrahcgmooyfinej.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Scott Gottlieb: The FDA Wants You for Sham Surgery - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/SB10001424052702304680904579365414108916816",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-BO570_scottg_F_20140218122930.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmRTNvVHlAeKMJWQoYF5C6J5FNKW3a-XIX76rXRfnoT4lZ5H2",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Scott Gottlieb: The FDA Wants You for Sham Surgery - WSJ",
+        "link": "https://www.wsj.com/articles/SB10001424052702304680904579365414108916816",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmRTNvVHlAeKMJWQoYF5C6J5FNKW3a-XIX76rXRfnoT4lZ5H2",
+        "thumbnail_width": 141,
+        "thumbnail_height": 357,
+        "image": "https://s.wsj.net/public/resources/images/BN-BO570_scottg_F_20140218122930.jpg",
+        "image_width": 226,
+        "image_height": 571
+      },
+      "webpage": null,
+      "texte_contexte": "Scott Gottlieb: The FDA Wants You for Sham Surgery - WSJ",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Scott Gottlieb"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "FDA",
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7723180939930694
+    },
+    {
+      "titre": "Medtronic - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Medtronic",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/1280px-2009-0610-001-Fridley-MedtronicHQ.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1QkvV-cJhsmDsPZVW7BohAN_RtglDRMx-FLcsPSJLdE5-VCW9",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Medtronic - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Medtronic",
+        "source": "Wikipedia",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2X0Y3DIAyG7Q7hFTxBZsgMGYAdGIEVWCKT5J0ZWMK-h5MREEiv1VW5h0PiIXXAn-3fVoPQLRHR_rffXI_HA-vn8vBpxzMQvMN5DfG4w3G98K7obd2egX8AEBFdlkURUQGgbETUbdtURFRElJkbOxFpjFFFREMISkSN3WwxxtNZACh3gznIOSsRFZCcc3Fu2zlXLjiOo7GllBQAlJk1pXQ6u21bcVzfDfVLIYTiYN_30yU55wLonGts-75PzxkAEZ0Cg96BpXJZluFF3ntFREXE5jJm1nVdh2cMPIRwssHIwbMsWKm89yV6RDyVpb5zFP0QwGgRcRpRnwVmbgTbbyI6lWwKYPUyByNB1Vmwd0fv1dqY2YcAKaUCMIvMSoWI0-hEvlt8lskpgIjouq7Fwah2dalmAMdxKCJOO-MSwIQFAEVso9oi4lRgzrlpNz0FsPTNHBig7b7FLEM2Ed8CMAGNHDCzOufKhCOixm7j-er-pwB9mvvoU0plBANAA0lEw8HzMkCMsaTZ0mnR94I1SAMc6eJlgHo8M_Owr2s9hBB0XdfL1nwJQKSdfLPZYIK1zpkNnrcA6p6fTb1asFeD5y0Ake-evpqMpo1ng-dtgJyzeu8vhZVS-pHy63373_L_L6O_8XFar0-D9J_nX3uIuuF08s_DAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1QkvV-cJhsmDsPZVW7BohAN_RtglDRMx-FLcsPSJLdE5-VCW9",
+        "thumbnail_width": 157,
+        "thumbnail_height": 322,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/1280px-2009-0610-001-Fridley-MedtronicHQ.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "image_width": 624,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Medtronic\n\nIrish tax-registered medical device company\n\n\nType                  Public\nTraded as              * NYSE: MDT\n                       * S&P 100 component\n                       * S&P 500 component\nISIN                  IE00BTN1Y115\nIndustry              Medical equipment\nFounded               1949; 77 years ago (1949)\nHeadquarters           * Galway, Ireland (legal, executive)[1]\n                       * Minneapolis, Minnesota, U.S. (operational)[1]\nKey people             * Geoff Martha (chairman & CEO)\n                       * Karen L. Parkhill (CFO)\nProducts              Medical devices\nRevenue               US$33.54 billion (2025)\nOperating income      US$5.955 billion (2025)\nNet income            US$4.662 billion (2025)\nTotal assets          US$91.68 billion (2025)\nTotal equity          US$48.02 billion (2025)\nNumber of employees   c. 95,000 (2025)\nWebsite               medtronic.com\nFootnotes\nFinancials as of April 25, 2025.[2]\n\nMedtronic plc is an American-Irish medical device company. The company's legal and executive headquarters are in Ireland, while its operational headquarters are in Minneapolis, Minnesota. Medtronic rebased to Ireland following its acquisition of Irish-based Covidien in 2015.[3][4] While it primarily operates in the United States,[5][6] it operates in more than 150 countries and employs over 90,000 people.[7] It develops and manufactures healthcare technologies and therapies. It is one of the biggest medical tech companies in the world and is currently the largest medical device company in the world by revenue.\n\nThe company has developed several world-first technologies since its inception, including wearable and implantable pacemakers, the implantable cardioverter-defibrillator (ICD), and remote patient monitoring systems. They also created miniaturized devices like the world's smallest pacemaker and spinal cord stimulator.\n\n\nHistory\n\n\nFoundation and early years\n\nMedtronic was founded in 1949 in Minneapolis by Earl Bakken and his brother-in-law, Palmer Hermundslie, as a medical equipment repair shop.[8] Bakken invented several medical technology devices that continue to be used around the world today.\n\nThrough his repair business, Bakken came to know C. Walton Lillehei, a doctor of heart surgery at the University of Minnesota Medical School. The deficiencies of artificial pacemakers at the time became evident during a power outage over Halloween in 1957, which affected large sections of Minnesota and western Wisconsin.[9] A pacemaker-dependent paediatric patient of Lillehei died because of the blackout. The next day, Lillehei spoke with Bakken about developing some form of battery-powered pacemaker. Bakken modified the design for a transistorized metronome and created the first battery-powered external pacemaker. It fit in a four-inch-square box that could be taped to a patient's chest, transmitted electrical signals to the heart through wires that passed through the patient's chest, and could be removed without surgery.\n\nThe company expanded through the 1950s, both selling equipment built by other companies and developing custom-made devices. Bakken built a small pacemaker that could be strapped to the body and powered by batteries. Work in the new field later produced an implantable pacemaker in 1960. The company built its headquarters in the Minneapolis suburb of St. Anthony, Minnesota, in 1960,[10] and moved to Fridley in the 1970s. Medtronic's main competitors in the cardiac rhythm field include Boston Scientific and St. Jude Medical.\n\n\nGrowth and expansion\n\nIn 1997, Medtronic opened a production site for implantable pacemakers and brain pacemakers in Tolochenaz, Switzerland. One in five pacemakers implanted globally today is made here. The site is also used as a European training centre for doctors.[11]\n\nIn 1998, Medtronic acquired Physio-Control for $538 million.[12]\n\nIn 2014, Integra LifeSciences announced it was acquiring instrumentation lines from Medtronic for $60 million. The deal included Medtronic's MicroFrance and Xomed manual ear, nose and throat and laparoscopic surgical instruments, as well as a manufacturing facility in France.[13]\n\nIn February 2016, the company announced that it would acquire Bellco from private equity firm Charme Capital Partners.[14] In June, the company announced its acquisition of HeartWare International Inc. for $1.1 billion.[15] In December 2017, Medtronic acquired Crospon for €38 million (approximately $45 million).[16] In September 2018, the company acquired Mazor Robotics for $1.64 billion ($58.50 per American Depository Share or $29.25 per ordinary share.[17] In late November, Medtronic acquired Nutrino Health Ltd boosting the company's nutrition-related data services and analytics.[18]\n\nIn March 2017, Bloomberg's database of U.S. tax inversions listed Medtronic and Wright Medical Group (Medtronic's 2015 inversion to Ireland was over $100 billion, while Wright's 2015 inversion to the Netherlands was $3.3 billion), as the only U.S. tax inversions of a U.S. medical device company in history.[19] In February 2018, the Wall Street Journal listed Medtronic's 2015 tax inversion to Ireland as the largest U.S. corporate tax inversion executed between 2013 and 2016.[6] In May 2018, Medtronic was ranked as the largest corporate tax inversion in history.[20]\n\nIn May 2018, Medtronic was ranked as the world's largest medical device company by 2017 revenues (see table below).[5][21]\n\nIn May 2019, Medtronic announced it would acquire Titan Spine, a technology company focusing on titanium spine implants.[22] Chief Executive Officer Omar Ishrak retired in April 2020 and stayed on as executive chairman and chairman of the board until December 2020.[23][24] Ishrak was succeeded by senior executive Geoff Martha.[24]\n\nIn January 2020, the company announced its intention to acquire Stimgenics, LLC and their primary therapy: differential target, multiplexed, spinal cord stimulation.[25] In July, the company announced it would acquire Medicrea for €7.00 per share.[26] In August, Medtronic announced it would acquire Companion Medical, who manufacture a smart insulin pen system, which connects to a diabetes management app.[27] In September Medtronic acquired Avenu Medical for an undisclosed sum.[28]\n\nIn February 2021, the company recalled its HeartWare Ventricular Assist Device.[29] In June 2021, the controller ports were pulled from the market.[30] On 3 June 2021, the FDA alerted physicians to stop new implants of the HVAD system due to \"an increased risk of neurological adverse events and mortality associated with the internal pump.\"[31]\n\nIn November 2021, the company was added to the Dow Jones Sustainability World Index.[32]\n\nIn January 2022, the business announced it would acquire Affera, Inc.[33] In March, Medtronic announced a contract with Vizient, a healthcare performance improvement company, to add Medtronic's Touch Surgery Enterprise platform to Vizient's healthcare offerings.[34][35] Touch Surgery works with laparoscopic and robotic scopes and is an AI-powered video management and analytics platform for the operating room.[34][35] In May, Medtronic and DaVita Inc. announced plans to form a new, independent kidney care-focused medical device company.[36] Medtronic's Renal Care Solutions business will be part of the new company.[36]\n\nIn April 2022, the company announced a collaboration with GE Healthcare to support the needs and care demands at Ambulatory Surgery Centers.[37] In July, Medtronic announced a strategic partnership with CathWorks, a coronary artery disease (CAD) technology developer.[38] A separate agreement gave Medtronic the option to acquire CathWorks in the future.[38]\n\nIn October 2022, the company announced its intention to pursue a separation of the company's combined Patient Monitoring and Respiratory Interventions businesses, which are part of the company's Medical Surgical Portfolio.[39]\n\nIn February 2024, the company announced that it had reversed its decision to spin-off or sell the Patient Monitoring and Respiratory Interventions businesses, and would instead combine them into a new business unit called Acute Care & Monitoring. They also announced that they would discontinue the ventilator product line, citing its unprofitability.[40]\n\nIn 2025, Medtronic was included in Forbes lists of America's Best Large Employers.[41]\n\n\nAcquisition history\n\nMedtronic\n * Medtronic\n   * Medtronic plc\n     * Medtronic Inc. (Founded 1949)\n       * Ardian Inc[42] (Acq 2010)\n       * Osteotech Inc[43] (Acq 2010)\n       * ATS Medical[44] (Acq 2010)\n       * Krauth Cardiovascular[45] (Acq 2010)\n       * Fogazzi[45] (Acq 2010)\n       * Invatec[45] (Acq 2010)\n       * PEAK Surgical, Inc[46]< (Acq 2011)\n       * Salient Surgical Technologies Inc[47] (Acq 2011)\n       * China Kanghui Holdings[48] (Acq 2012)\n       * NGC Medical[49] (Acq 2014)\n       * Sapiens Steering Brain Stimulation (Acq 2014)[50]\n       * TYRX Inc (Acq 2014)[51]\n     * Covidien (Formed 2007 from Tyco International healthcare business spin off)\n       * Sapheon Inc[52] (Acq 2014)\n       * Reverse Medical Corporation[53] (Acq 2014)\n       * Given Imaging[54] (Acq 2014)\n       * Aspect Medical Systems[55] (Acq 2009)\n       * Somanetics Corp[56] (Acq 2010)\n       * ev3 Inc[57] (Acq 2010)\n       * CV Ingenuity[58] (Acq 2012)\n       * BÂRRX[59] (Acq 2012)\n       * Newport Medical Instruments[60] (Acq 2012)\n       * superDimension[61] (Acq 2012)\n       * Oridion Systems[62] (Acq 2012)\n       * VNUS Medical Technologies\n       * Zephyr Technology[63] (Acq 2014)\n   * Advanced Uro-Solutions[64] (Acq 2015)\n   * Diabeter[65] (Acq 2015)\n   * CardioInsight Technologies[66] (Acq 2015)\n   * Aptus Endosystems[67] (Acq 2015)\n   * RF Surgical Systems[68] (Acq 2015)\n   * Medina Medical[69] (Acq 2015)\n   * Lazarus Effect[70] (Acq 2015)\n   * Bellco[71] (Acq 2016)\n   * HeartWare International Inc (Acq 2016)\n   * Crospon (Acq 2017)\n   * Mazor Robotics (Acq 2018)\n   * Nutrino Health Ltd (Acq 2018)\n   * Titan Spine (Acq 2019)\n   * Klue (Acq 2019)[72]\n   * Stimgenics, LLC (Acq 2020)\n   * Medicrea (Acq 2020)\n   * Companion Medical (Acq 2020)\n   * Avenu Medical[73] (Acq 2020)\n   * Intersect ENT (Acq 2022)[74]\n   * Digital Surgery (Acq 2020)[75]\n   * Affera, Inc. (Acq 2022)\n\n\nBusiness units and subsidiaries\n\nMedtronic has four main business units: the Minimally Invasive Therapies Group, the Diabetes Group, the Restorative Therapies Group, and the Cardiac and Vascular Group. Medtronic develops and manufactures devices and therapies to treat more than 30 chronic diseases, including heart failure,[76] Parkinson disease, urinary incontinence, Down syndrome, obesity, chronic pain, spinal disorders and diabetes.\n\n\nAcute care and monitoring\n\nAcute care and monitoring (ACM) is based out of Lafayette, Colorado and produces non-invasive sensors and monitoring products, used for patient monitoring in the hospital and home settings. It has absorbed the portfolios of acquired companies, including Covidien, Nellcor, Somanetics, Aspect Medical Systems, Oridion Medical and Zephyr Technology. This business unit produces pulse oximetry, capnography, and bispectral index sensors, patient monitors, remote patient monitoring software, and electronic medical record connectivity software.[77]\n\n\nCardiac rhythm disease management\n\nCardiac rhythm disease management (CRDM) is the oldest and largest of Medtronic's business units. Its work in heart rhythm therapies dates back to 1957 when Bakken developed the first wearable heart pacemaker to treat abnormally slow heart rates. Since then, it has expanded its expertise in electrical stimulation to treat other cardiac rhythm diseases. It has also made an effort to address overall disease management by adding diagnostic and monitoring capabilities to many of its devices. An independently-operating Dutch pacemaker manufacturer, Vitatron, acquired by Medtronic in 1986, is now a European subsidiary of the unit.[78] Medtronic and Vitatron pacemakers are interrogated and programmed by Medtronic Carelink Model 2090 Programmer for Medtronic and Vitatron Devices; they use separate interfaces.[79]\n\nIn 2007, Medtronic recalled its Sprint Fidelis product, the flexible wires, or leads, which connect a defibrillator to the interior of the heart. The leads were found to be failing at an unacceptable rate, resulting in unnecessary shocks or no shocks when needed; either can be lethal. The scope of the problem continues to be a matter of research. Studies since the recall, disputed by Medtronic, suggest that the failure rate of already-implanted Sprint Fidelis leads is increasing exponentially. Medtronic's liability is limited by various court decisions.[80]\n\n\nSpinal and biologics\n\nSpinal and biologics is Medtronic's second-largest business. Medtronic is the world leader in spinal and musculoskeletal therapies. In 2007, Medtronic purchased Kyphon, a manufacturer and seller of spinal implants that are necessary for procedures like kyphoplasty.[81]\n\nIn May 2008, Medtronic Spine agreed to pay the US government $75 million to settle a qui tam lawsuit after a whistleblower alleged that Medtronic committed Medicare fraud. The company was charged with illegally convincing healthcare providers to offer kyphoplasty, a spinal fracture repair surgery, as an inpatient, not an outpatient, procedure to make thousands of dollars more in profits per surgery.[82]\n\nA \"special report\" by writer Steven Brill in Time showed that according to Medtronic's quarterly SEC filing of October 2012, the company had, on average, a 75.1% profit margin on its spine products and therapies.[83]\n\n\nCardiovascular\n\nMedtronic's cardiovascular therapies span the major specialties of interventional cardiology, cardiac surgery, and vascular surgery. The products are used to reduce the potentially debilitating effects of coronary, aortic, and structural heart disease. As of August 2024, cardiovascular portfolio included four product segments - cardiac rhythm products, heart failure products, structural heart and aortic products, coronary and peripheral products.[84]\n\n\nNeuromodulation\n\nNeuromodulation is the second-oldest and third-largest department of Medtronic. Its products include neurostimulation systems and implantable drug delivery systems for chronic pain, common movement disorders, and urologic and gastrointestinal disorders. The department's revenues in 2014 amounted to $1.9 billion, or 11% of Medtronic's total revenues.[85]\n\n\nDiabetes\n\nThe diabetes management manufacturing and sales division of Medtronic is based on the perimeter of the California State University, Northridge campus in Northridge, California.[86][87][88] The original company, Minimed Technologies, was founded in 1983 by Alfred E. Mann and spun off from Pacesetter Systems to design and market an open loop insulin pump.[89] The MiniMed 502 was one of the first lightweight insulin pumps on the market, and it helped bring insulin pump usage to the mainstream market.\n\nIn 1992, the MiniMed 506 was a major redesign to make it more appealing to consumers. The new design was met by boosted adoption rate, and sales increased by 357%.[90] In 2001, Medtronic purchased Minimed, to form Medtronic Minimed.[91]\n\nOn 11 May 2009, Medtronic announced it had chosen San Antonio, Texas, for the location of its new Diabetes Therapy Management and Education Center. The company announced that it expected 1400 new jobs would be created to staff the 150,000-square-foot (14,000 m2) facility.[92]\n\nIn September 2016, the FDA approved a device, the MiniMed 670G which was launched in 2017. It was the world's first Hybrid Closed Loop system for people with type 1 diabetes. Featuring the company's advanced algorithm - SmartGuard technology and glucose sensor - Guardian™ Sensor 3, it was the first insulin pump approved by the Food and Drug Administration (FDA) that enabled personalized and automated* delivery of basal insulin, the background insulin needed to maintain stable blood sugar levels throughout the day and night. The advanced SmartGuard Auto Mode algorithm worked in conjunction with the company's glucose sensor - Guardian Sensor 3 - to self-adjust basal insulin delivery based on the glucose sensor.[93]\n\n\nSurgical technologies\n\nThe surgical technologies business group designed and manufactured products for the diagnosis and treatment of ear, nose, and throat (ENT) diseases and cranial, spinal, and neurologic conditions. It also encompassed a surgical navigation division to design \"StealthStation\" systems, software, and instruments for computer assisted surgery (CAS) and a special intraoperative X-ray imaging system (3D fluoroscopy), known as the O-arm Imaging System. Many of the products are used for minimally-invasive surgical procedures. In 2016, the business unit was dissolved, and each site folded into new business groups.\n\n\nRenal care solutions\n\nThe renal care solutions business group designed and manufactured products for the diagnosis and treatment related to renal organs like kidney. In 2023 this business unit was spun off into an independent business called Mozarc Medical.\n\n\nTechnology safety\n\nIn 2011, an independent security researcher, Jay Radcliffe, revealed a security vulnerability in a Medtronic insulin pump at the computer security conference Black Hat Briefings, allowing an attacker to take control of the pump. Medtronic responded by assuring users of the full safety of its devices.[94]\n\nIn 2008, a team of computer security researchers was able to take remote control of a Medtronic cardiac implant. The team, using an unused implant in a lab, was able to control the electrical shocks delivered by the defibrillator component and even glean patient data from the device.[95]\n\nIn February 2020, Medtronic recalled around 322,000 MiniMed insulin pumps with faulty pump retainer rings, which had been correlated to death and around 2,000 injuries.[96]\n\n\nPortable ventilators\n\nOn 30 March 2020, Medtronic shared its portable ventilator design specifications during the outbreak of COVID-19 pandemic, in order to accelerate global ventilator production.[97]\n\n\nSubsidiaries\n\nVitatron\n\nVitatron is a Netherlands-based European subsidiary of Medtronic. It is focused on development and manufacturing of cardiac pacing technology. Once an independently operating Dutch medical company, it was acquired by Medtronic in 1986.[98] Vitatron pacemakers are interrogated and programmed by Medtronic Carelink Model 2090 Programmer for Medtronic and Vitatron Devices, using a separate interface.[99]\n\nHistory of Vitatron\n\n * 1956: Vitatron founded\n * 1962: First Implantable pacemakers\n * 1981: Microprocessor-driven, software-based pacemaker (DPG1)\n * 1982: Rate Responsive pacemaker (TX1)\n * 1984: Quintech DDD with automatic upper rate behavior (\"mode switch\")\n * 1988: Daily Learn algorithm (Rhythmyx)\n * 1997: First upgradeable pacemaker system with dedicated AF diagnostics, rate and rhythm control therapy.\n * 2003: Vitatron goes digital: 1st Vitatron C-Series, the world's first fully digital pacemaker.[100]\n * 2004: 2nd Vitatron C-Series, digital, fast pacemaker.\n * 2004: Vitatron T-Series: The full picture, digital pacemaker system.\n * 2005: Vitatron C-Series, A3 models, a new top line range of digital pacemakers for bradycardic patients.\n\n\nCriticism\n\n\nAnimal rights\n\nIn 2005, 2008, and 2010 PETA threatened to submit a shareholder resolution to improve animal welfare standards in the company. In 2005, PETA attempted to stop five specific animal experiments that it deemed \"crude and cruel\". In 2008, PETA protested the outsourcing of animal testing to countries with lax animal welfare laws, such as China. In 2010, PETA attempted to stop Medtronic's reported use of live animals in testing and training. In response, Medtronic conducted a feasibility study that found that banning the use of live animals was impractical. As of 2015 Medtronic continued to use live animals for testing and training but stated that it would",
+        "metadata": {
+          "title": "Medtronic - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/1280px-2009-0610-001-Fridley-MedtronicHQ.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "585",
+          "og:title": "Medtronic - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Medtronic",
+          "url": "https://en.wikipedia.org/wiki/Medtronic",
+          "sameAs": "http://www.wikidata.org/entity/Q642189",
+          "mainEntity": "http://www.wikidata.org/entity/Q642189",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2004-09-23T23:22:04Z",
+          "dateModified": "2026-08-31T19:38:09Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "medical device company"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Medtronic is an Irish tax-registered medical device company publicly traded on the New York Stock Exchange under the ticker MDT, and is a component of the S&P 100 and S&P 500. Founded in 1949, it has its legal and executive headquarters in Galway, Ireland, and its operational headquarters in Minneapolis, Minnesota, United States. Medtronic rebased to Ireland following its acquisition of Covidien in 2015. It operates in more than 150 countries, employs around 95,000 people, and is the largest medical device company in the world by revenue, developing and manufacturing healthcare technologies and therapies including pacemakers, cardioverter-defibrillators, and remote patient monitoring systems. The company was founded by Earl Bakken and Palmer Hermundslie as a medical equipment repair shop, and early innovations were developed in collaboration with C. Walton Lillehei following a power outage in 1957.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Geoff Martha",
+          "Karen L. Parkhill",
+          "Earl Bakken",
+          "Palmer Hermundslie",
+          "C. Walton Lillehei"
+        ],
+        "LOCATION": [
+          "Ireland",
+          "Galway",
+          "Minneapolis",
+          "Minnesota",
+          "United States",
+          "Wisconsin"
+        ],
+        "ORGANIZATION": [
+          "Medtronic",
+          "New York Stock Exchange",
+          "Covidien",
+          "University of Minnesota Medical School"
+        ],
+        "DATE": [
+          "1949",
+          "2025",
+          "2015",
+          "Halloween in 1957"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "MDT",
+          "S&P 100",
+          "S&P 500"
+        ]
+      },
+      "score_e5": 0.8269944296316122
+    },
+    {
+      "titre": "Medtronic buys HeartWare in $1.1 billion deal",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/money/2016/06/27/medtronic-buys-heartware-11-billion-deal/86424716/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/e9a2b49b7abbff51050c9a3859eef753be3fe4c0/c=470-0-2592-1188/local/-/media/USATODAY/USATODAY/2014/09/22/1411423813000-XXX-Medtronic04.JPG?width=1600&height=800&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TLs7K25kkCPhC9QVcFk6kLV7LiMyuk6b-4H4PJ8Yi_u-5LO4",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Medtronic buys HeartWare in $1.1 billion deal",
+        "link": "https://www.usatoday.com/story/money/2016/06/27/medtronic-buys-heartware-11-billion-deal/86424716/",
+        "source": "USA Today",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRkw90JTOBQFA6Ysfk8QBTt_ObUcEoOHvZd2vm0JFDBtH2ZqgEJ2xCTePKyo7RXVAwuFsAg-6vLfXa-mWTBzpAYASGFDOhiZBFzhWsTHJ8N9KZOBawL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TLs7K25kkCPhC9QVcFk6kLV7LiMyuk6b-4H4PJ8Yi_u-5LO4",
+        "thumbnail_width": 159,
+        "thumbnail_height": 318,
+        "image": "https://www.usatoday.com/gcdn/-mm-/e9a2b49b7abbff51050c9a3859eef753be3fe4c0/c=470-0-2592-1188/local/-/media/USATODAY/USATODAY/2014/09/22/1411423813000-XXX-Medtronic04.JPG?width=1600&height=800&fit=crop&format=pjpg&auto=webp",
+        "image_width": 800,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Medtronic buys HeartWare in $1.1 billion deal\n\nMedical device maker Medtronic said Monday it would buy HeartWare International, a company best known for its HVAD heart pump designed to help with heart failure for $1.1 billion. The mechanical pump requires less invasive surgery than other treatments for heart failure.\n\nAt $58 per share, the deal is nearly double the $29.98 HeartWare closed at on Friday. HeartWare shares ended trading Monday up $27.81, or 93%, to close at $57.79. Medtronic fell $0.88 to $82.38.\n\nThe acquisition bolsters Medtronic's standing in heart and vascular treatment options, an area that Medtronic estimates could exceed over eight million patients by 2030.  In data published in 2010, the National Center for Biotechnology Information estimated heart failure expenditures to be $39 billion per year in the United States. According to the CDC, circulatory diseases are responsible for one in every four deaths in the US.\n\nBoth companies boards have unanimously approved the purchase, with the acquisition expected to be completed during Medtronic's second fiscal quarter ending Oct. 28.\n\nFollow Eli Blumenthal on Twitter @eliblumenthal",
+        "metadata": {
+          "title": "Medtronic buys HeartWare in $1.1 billion deal"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Medical device maker Medtronic acquired HeartWare International, known for its HVAD heart pump for heart failure, in a $1.1 billion deal at $58 per share. The transaction was approved by both companies' boards and expected to be completed during Medtronic's second fiscal quarter ending October 28.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Eli Blumenthal"
+        ],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Medtronic",
+          "HeartWare International",
+          "National Center for Biotechnology Information",
+          "CDC",
+          "Twitter"
+        ],
+        "DATE": [
+          "2016",
+          "2030",
+          "2010",
+          "October 28"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "HVAD"
+        ]
+      },
+      "score_e5": 0.7797578228377693
+    },
+    {
+      "titre": "The Fleeting Benefits of Overseas Corporate Marriages - The ...",
+      "source": "DealBook - The New York Times",
+      "lien": "https://dealbook.nytimes.com/2014/07/02/the-fleeting-benefits-of-overseas-corporate-marriages/",
+      "image_url": "https://static01.nyt.com/images/2014/07/03/business/dbpix-medtronic/dbpix-medtronic-blog480.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIHuYwEHnvjX0TW4MweSvAgUZjIABBE1xyoaNzNxU9vJMZMpQJ",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "The Fleeting Benefits of Overseas Corporate Marriages - The ...",
+        "link": "https://dealbook.nytimes.com/2014/07/02/the-fleeting-benefits-of-overseas-corporate-marriages/",
+        "source": "DealBook - The New York Times",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQrqIpIJTYryFer5OJLUuaJIwXGoiIXYptP8u-WWoRPbOezjlKUPSAOKhb14P3GzZF2JI_fwRFCx8-jL2AfnOCEKY-rE7raxJAnarRqNjMAJLyDCKHuE7Rdsg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIHuYwEHnvjX0TW4MweSvAgUZjIABBE1xyoaNzNxU9vJMZMpQJ",
+        "thumbnail_width": 144,
+        "thumbnail_height": 351,
+        "image": "https://static01.nyt.com/images/2014/07/03/business/dbpix-medtronic/dbpix-medtronic-blog480.jpg",
+        "image_width": 197,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Breakingviews\n\nView all posts\n\n\nTax-arbitrage mergers and acquisitions require a deep discount. American companies seeking to relocate by mergers in a bid to slash how much they pay Uncle Sam were a big part of the $1.8 trillion first-half deal boom. The benefits of such ill-conceived combinations will be fleeting, though. The more so-called inversions there are, the more likely the law is to change.\n\nThe health care sector, where the effort to find a new domicile is most prevalent, has already announced $319 billion in transactions, exceeding the full-year record of $275 billion in 2007. That sum doesn’t even include Pfizer’s $119 billion attempt to buy AstraZeneca, which aroused the interest of lawmakers in the United States.\n\nStudies suggest that even the best-intentioned mergers, especially cross-border examples, often destroy value. Some recent ones, including Medtronic’s plan to acquire Covidien and its Dublin headquarters, can’t generate enough cost savings — or strategic logic — to offset the hefty premiums involved. That means the ostensible tax savings are the only advantage — and sometimes those aren’t even entirely clear.\n\nIf lawmakers in the United States were, say, to reduce corporate tax rates to 25 percent from 35 percent, exclude profits earned overseas from tax in the United States and allow funds to be brought home at a 10 percent tax rate, many of the benefits of inverting would erode. Such legislation would also probably be drafted to be revenue neutral, thus making it harder to hide earnings overseas.\n\nOther small changes could make a difference, too. One inversion technique is for the American operation to borrow from its newly owned overseas counterpart. The interest payments are tax deductible in the United States and get booked as profit in a lower-tax jurisdiction. A company can offset half its earnings this way, perhaps shaving 10 percentage points from its tax rate. Cut the allowable proportion to a quarter, and it’s a less valuable tool.\n\nSuch arrangements complicate deals, too. New subsidiaries have to be set up to hold intellectual property and other assets in favorable domiciles. The legal structures involved can take years to put into effect. Expectations, meanwhile, are growing that some kind of corporate tax reform will pass within three years. It would swiftly invert the power of inversions.\n\nRobert Cyran is a columnist for Reuters Breakingviews. For more independent commentary and analysis, visit breakingviews.com.\n\n\nWhat's Next\n\nLoading...\n * Previous Post\n   \n   Orange Decides Not to Pursue Deal in French Mobile Market\n * Next Post\n   \n   Judge Whittles Down Insider Trading Charges Against Rajaratnam’s Brother",
+        "metadata": {
+          "title": "The Fleeting Benefits of Overseas Corporate Marriages - The New York Times",
+          "author": "Robert Cyran",
+          "article:published_time": "1404320514",
+          "article:modified_time": "2014-07-03T13:13:52-04:00",
+          "article:section": "Business Day",
+          "article:tag": "Legal/Regulatory",
+          "keywords": "Corporate Taxes,Law and Legislation,Mergers Acquisitions and Divestitures,Taxation,AstraZeneca PLC,Covidien plc,Medtronic Inc,Pfizer Inc,Breakingviews,Legal/Regulatory",
+          "news_keywords": "AstraZeneca,Corporate tax,Legislation,Mergers and Acquistions,Tax",
+          "description": "As more companies seek to relocate by mergers — so-called inversions — it is more likely the law will change, Robert Cyran of Reuters Breakingviews writes.",
+          "og:title": "The Fleeting Benefits of Overseas Corporate Marriages ",
+          "og:type": "article",
+          "og:url": "https://dealbook.nytimes.com/2014/07/02/the-fleeting-benefits-of-overseas-corporate-marriages/",
+          "og:site_name": "DealBook",
+          "og:description": "As more companies seek to relocate by mergers — so-called inversions — it is more likely the law will change, Robert Cyran of Reuters Breakingviews writes.",
+          "og:image": "https://static01.nyt.com/images/2014/07/03/business/dbpix-medtronic/dbpix-medtronic-videoSixteenByNine600.jpg",
+          "twitter:title": "The Fleeting Benefits of Overseas Corporate Marriages ",
+          "twitter:description": "As more companies seek to relocate by mergers — so-called inversions — it is more likely the law will change, Robert Cyran of Reuters Breakingviews writes.",
+          "article:collection": "https://static01.nyt.com/services/json/sectionfronts/business/index.jsonp"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "American companies seeking tax relief through cross-border mergers and acquisitions, such as Medtronic's plan to acquire Covidien and its Dublin headquarters, engage in tax-arbitrage inversions. These transactions have driven significant deal activity in the health care sector, while prompting attention from lawmakers in the United States regarding potential corporate tax reforms.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rajaratnam",
+          "Robert Cyran"
+        ],
+        "LOCATION": [
+          "Dublin",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Pfizer",
+          "AstraZeneca",
+          "Medtronic",
+          "Covidien",
+          "Reuters Breakingviews"
+        ],
+        "DATE": [
+          "2007",
+          "three years"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8877232551527309
+    },
+    {
+      "titre": "7 Health Care Dividend Stocks to Watch",
+      "source": "US News Money - U.S. News & World Report",
+      "lien": "https://money.usnews.com/investing/dividends/slideshows/7-health-care-dividend-stocks-to-watch",
+      "image_url": "https://www.usnews.com/cmsmedia/7a/9a/79b170d24e209b447a75016a8c4e/180918-medtronic-stock.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWUmX-sQn1poIa3CbGxJwMUDYfZyMwMCr_GfhlzCHiairDWRA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "7 Health Care Dividend Stocks to Watch",
+        "link": "https://money.usnews.com/investing/dividends/slideshows/7-health-care-dividend-stocks-to-watch",
+        "source": "US News Money - U.S. News & World Report",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSz5RerylkUZAagSM0aXmaSNy41_fX9HpuKIjLCAR6uptasTWtnHzTVToEtBJ6tF7KFrIdkIeFQyozQ6_HQDfPpt5-Xijbel3iORIpVEZw00tLnIgYy",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWUmX-sQn1poIa3CbGxJwMUDYfZyMwMCr_GfhlzCHiairDWRA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.usnews.com/cmsmedia/7a/9a/79b170d24e209b447a75016a8c4e/180918-medtronic-stock.jpg",
+        "image_width": 1333,
+        "image_height": 2000
+      },
+      "webpage": {
+        "text": "7 Health Care Dividend Stocks to Watch\n\n1/9\n\nCredit\n\n(Getty Images)|\n\nView as article\n\n\nThis could be a profitable prescription.\n\nOpen wide and say, “ahhh” – as in ah, the feeling of making a healthy profit. A generation of baby boomers hitting retirement age – and holding onto record amounts of wealth – means a strong outlook for companies in the health care sector. And more than a few are rewarding shareholders two ways, with climbing prices and strong dividends. Picking the best of the pack can pose a challenge. Still, some performers boast much more than simply a clean bill of health. Here are seven dividend stocks in health care that stand out, starting with one of the greatest dividend kings trading on Wall Street today.\n\nNext:Johnson & Johnson (ticker: JNJ)\n\n2/9\n\nCredit\n\n(Getty Images)|\n\nView as article\n\n\nJohnson & Johnson (ticker: JNJ)\n\nWhile paying out an ever-increasing dividend that dates to President John F. Kennedy’s administration, Johnson & Johnson has watched its stock rise 45 percent in the past five years. It currently trades at close to $140 per share and earnings could go through the roof when it introduces a planned nasal spray based on ketamine. Originally a battlefield anesthetic, ketamine has recently been shown to treat clinical depression with surprising efficacy. Earlier this year, J&J reported that its esketamine spray passed its most recent clinical trial with flying colors. In fact, the FDA awarded esketamine “breakthrough” status in 2016 and is fast-tracking it through the approval process.\n\nNext:Abbott Laboratories (ABT)\n\n3/9\n\nCredit\n\n(smartstock|Getty Images)\n\nView as article\n\n\nAbbott Laboratories (ABT)\n\nWhile Johnson & Johnson may be a dividend king, Abbott could be considered worthy of Wall Street mythology. ABT recently paid out its 377th consecutive quarterly dividend – which predates the stock market crash of 1929 by five years – and has raised its quarterly dividend (now 28 cents per share) for 46 consecutive years. Its 12-month dividend yield is 1.81 percent – ahead of the sector's 1.5 percent – and has a three-year dividend growth of 6.1 percent. Meanwhile, the stock of this Chicago-based company continues to cruise, up 32 percent over the last 12 months and 90 percent over the last five years.\n\nNext:Community Healthcare Trust (CHCT)\n\n4/9\n\nCredit\n\n(Getty Images)|\n\nView as article\n\n\nCommunity Healthcare Trust (CHCT)\n\nCommunity Healthcare is a real estate investment trust. Concentrated in non-urban areas, mostly the Midwest, South and Texas, the company builds its fortunes on buildings: clinics, medical offices, mental health facilities and specialty properties. Trading at about $31 per share, CHCT remains close to its 52-week high and has a robust dividend of 40 cents per share. It typifies many health care REITS in its strong performance. \"There are 19 publicly traded health care REITs and sector pays a median dividend yield of 5.37 percent with some yields as high as 8.5 percent,\" says Ross Bowler, CEO at 2nd Market Capital Advisory Corp. in Madison, Wisconsin.\n\nNext:Gilead Sciences (GILD)\n\n5/9\n\nCredit\n\n(nattapatt|Getty Images)\n\nView as article\n\n\nGilead Sciences (GILD)\n\nThough off 40 percent from its 2015 peak – when it bought three pharmaceutical companies – Gilead remains a favorite among patient investors. Biopharmas sink or soar on the latest breakthrough and in Gilead's case that could be Car-T, which uses the immune system to fight cancer. \"After their hepatitis treatments came to market, GILD’s returns doubled,\" says Robert Spivey, director of research at Valens Research, an international investment company. \"The reason GILD has had such strong returns historically is they effectively own the treatment market for HIV and for hepatitis and other liver diseases.\" Spivey characterizes Gilead as \"an interesting dividend-yielding health care stock, with a 3.2 percent dividend yield currently.\"\n\nNext:Becton Dickinson and Co. (BDX)\n\n6/9\n\nCredit\n\n(luchschen|Getty Images)\n\nView as article\n\n\nBecton Dickinson and Co. (BDX)\n\nBecton Dickinson is a classic \"picks and shovels\" play – meaning you invest in the tools the industry uses as opposed to the final output or service. In this case, \"BDX is a global medical technology company engaged in the development, manufacture and sale of a range of medical supplies, devices, laboratory equipment and diagnostic products,\" says Kevin M. O'Brien, founder and president at Peak Financial Services and based in the greater Boston area. While noting the dividend yield is low at 1.21 percent, \"the stock is up 153 percent over five years and 266 percent over the past 10, while increasing the dividend consistently for the past 46 years.\"\n\nNext:Medtronic (MDT)\n\n7/9\n\nCredit\n\n(Wolterk|Getty Images)\n\nView as article\n\n\nMedtronic (MDT)\n\nMedtronic is in the midst of a promising multi-year turnaround plan, says Keith Elflein, senior vice president at F.L.Putnam Investment Management Co. in Wellesley, Massachusetts. This came about “after Medtronic missed sales expectations in 2016 due to a decline in cardiac defibrillators and stents, as well as a timing issue around a new insulin delivery system.\" Fast-forward to 2018: \"Medtronic is expected to grow earnings by 7 to 8 percent per year over the next three years.” With a 2.1 percent yield, MDT has increased its dividend by more than 15 percent annually over the last four years.\n\nNext:Eli Lilly and Co. (LLY)\n\n8/9\n\nCredit\n\n(jetcityimage|Getty Images)\n\nView as article\n\n\nEli Lilly and Co. (LLY)\n\nThis Indianapolis pharmaceutical giant is on a path to make its investors healthy, wealthy and wise. Up a stunning 42 percent since February, LLY trades at $106 per share and shareholders have enjoyed uninterrupted dividend increases. The quarterly dividend at 56.3 cents per share is up 15 percent from 2013. There's good news everywhere you look: a successful diabetes franchise, a 30 percent rise in year-over-year sales in its second quarter, lots of new drugs scheduled for launch through 2023 and a research pipeline that shows no signs of slowing down. The verdict among Wall Street analysts is equally cheery, with seven calling it a \"strong buy.\"\n\nMore From U.S. News\n\n9 REITs for New Real Estate Investors\n\n\n9 Stocks with Decades of Dividend Growth\n\n\n9 REITs for New Real Estate Investors\n\n\n9 Stocks with Decades of Dividend Growth",
+        "metadata": {
+          "optimizely": "Optimizely is running on this page.",
+          "description": "These companies could be just what your investment doctor ordered.",
+          "keywords": "Lou Carlozo,money,investing,income,health,pharmaceuticals,REITs,Johnson & Johnson,Abbott Laboratories,Gilead Sciences,Becton, Dickinson & Co.,Medtronic,Eli Lilly & Co.,Community Healthcare Trust,picks,Dividends",
+          "fb:pages": "5834919267",
+          "og:site_name": "US News & World Report",
+          "og:title": "7 Health Care Dividend Stocks to Watch",
+          "og:description": "These companies could be just what your investment doctor ordered.",
+          "og:url": "https://money.usnews.com/investing/dividends/slideshows/7-health-care-dividend-stocks-to-watch",
+          "og:image": "https://www.usnews.com/dims4/USNEWS/2071fb9/2147483647/crop/2000x1334+0+0/resize/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fb1%2Fd9%2F5b96e4dd4e61a6920958c60fa580%2F180918-medicationcardiogram-stock.jpg",
+          "og:image:secure_url": "https://www.usnews.com/dims4/USNEWS/2071fb9/2147483647/crop/2000x1334+0+0/resize/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fb1%2Fd9%2F5b96e4dd4e61a6920958c60fa580%2F180918-medicationcardiogram-stock.jpg",
+          "twitter:image": "https://www.usnews.com/dims4/USNEWS/2071fb9/2147483647/crop/2000x1334+0+0/resize/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fb1%2Fd9%2F5b96e4dd4e61a6920958c60fa580%2F180918-medicationcardiogram-stock.jpg",
+          "og:type": "article",
+          "twitter:title": "7 Health Care Dividend Stocks to Watch",
+          "twitter:description": "These companies could be just what your investment doctor ordered.",
+          "fb:app_id": "130063997038366",
+          "sailthru.date": "2018-09-18T14:01Z",
+          "sailthru.author": "Lou Carlozo",
+          "sailthru.site_portal": "investing",
+          "sailthru.description": "These companies could be just what your investment doctor ordered.",
+          "sailthru.title": "7 Health Care Dividend Stocks to Watch",
+          "sailthru.vertical": "money",
+          "vertical": "money",
+          "sailthru.image.full": "https://www.usnews.com/dims4/USNEWS/2071fb9/2147483647/crop/2000x1334+0+0/resize/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fb1%2Fd9%2F5b96e4dd4e61a6920958c60fa580%2F180918-medicationcardiogram-stock.jpg",
+          "sailthru.tags": "money,investing,income,health,pharmaceuticals,reits,johnson-johnson,abbott-laboratories,gilead-sciences,becton-dickinson-co,medtronic,eli-lilly-co,community-healthcare-trust,picks",
+          "preview": "Open wide and say, “ahhh” – as in ah, the feeling of making a healthy profit. A generation of baby boomers hitting retirement age – and holding onto record amounts of wealth – means a strong outlook for companies in the health care sector. And more than a few are rewarding shareholders two ways,"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Health care dividend stocks, such as Johnson & Johnson and Abbott Laboratories, offer strong financial outlooks driven by an aging baby boomer generation. Johnson & Johnson's stock has risen with developments like a planned esketamine nasal spray for clinical depression, which received breakthrough status from the FDA in 2016. Meanwhile, Chicago-based Abbott Laboratories maintains a long history of consecutive quarterly dividend payments. Additionally, Community Healthcare Trust operates as a real estate investment trust focusing on clinics, medical offices, and mental health facilities primarily in non-urban areas of the Midwest, South, and Texas.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John F. Kennedy",
+          "Ross Bowler"
+        ],
+        "LOCATION": [
+          "Chicago",
+          "Midwest",
+          "South",
+          "Texas"
+        ],
+        "ORGANIZATION": [
+          "Getty Images",
+          "Johnson & Johnson",
+          "FDA",
+          "Abbott Laboratories",
+          "Community Healthcare Trust",
+          "2nd Market Capital Advisory Corp."
+        ],
+        "DATE": [
+          "past five years",
+          "Earlier this year",
+          "2016",
+          "1929"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "JNJ",
+          "ABT",
+          "CHCT"
+        ]
+      },
+      "score_e5": 0.7680841120034043
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Minneapolis",
+      "Ireland",
+      "United States"
+    ],
+    "ORGANIZATION": [
+      "Medtronic",
+      "Covidien"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Scott Gottlieb",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FDA",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Geoff Martha",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Karen L. Parkhill",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Earl Bakken",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Palmer Hermundslie",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "C. Walton Lillehei",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ireland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Galway",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Minneapolis",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Minnesota",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wisconsin",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Medtronic",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New York Stock Exchange",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Covidien",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University of Minnesota Medical School",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1949",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Halloween in 1957",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "MDT",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "S&P 100",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "S&P 500",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Eli Blumenthal",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HeartWare International",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Center for Biotechnology Information",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CDC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Twitter",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2030",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 28",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "HVAD",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rajaratnam",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Robert Cyran",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dublin",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pfizer",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AstraZeneca",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters Breakingviews",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "three years",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John F. Kennedy",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ross Bowler",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chicago",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Midwest",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Johnson & Johnson",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Abbott Laboratories",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Community Healthcare Trust",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "2nd Market Capital Advisory Corp.",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past five years",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Earlier this year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1929",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JNJ",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "ABT",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "CHCT",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:38:32.618524"
+  }
+}

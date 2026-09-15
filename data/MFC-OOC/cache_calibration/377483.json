@@ -1,0 +1,560 @@
+{
+  "id_rumeur": 377483,
+  "id_image": 425564,
+  "caption": "Tortilla Soup recipe from The Culinary Institute of America",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757259/oluyewo_benchmark/fu8z7nsgj9jhkxya2i3w.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Harvest chef Patrick Roney: How to make citrus cured carp",
+      "source": "The Courier-Journal",
+      "lien": "https://www.courier-journal.com/story/life/food/recipes/2016/07/06/spirited-kitchen-getting-fishy-harvest/86429568/",
+      "image_url": "https://www.courier-journal.com/gcdn/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2016/07/05/Louisville/Louisville/636033084137238788-spirited-kitchen-harvest173.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB9Ohu2Lrm3Gwp92hoYLS_-THqA_F_hGHUcMWOjRwfUWoDW3xl",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Harvest chef Patrick Roney: How to make citrus cured carp",
+        "link": "https://www.courier-journal.com/story/life/food/recipes/2016/07/06/spirited-kitchen-getting-fishy-harvest/86429568/",
+        "source": "The Courier-Journal",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSQJJdHVNmzuJJaaJmEj9IU39IkF8Oz1IXk4PPw_LJvP0JBeYm-GAjH5OJOfcX8yX_07Y_Vg-4nY4LT6Mb8Ad4XHT2iTqpfPHfipEW6VuYMraAXIw904Xy9EQLbHg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB9Ohu2Lrm3Gwp92hoYLS_-THqA_F_hGHUcMWOjRwfUWoDW3xl",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.courier-journal.com/gcdn/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2016/07/05/Louisville/Louisville/636033084137238788-spirited-kitchen-harvest173.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+        "image_width": 1808,
+        "image_height": 3200
+      },
+      "webpage": {
+        "text": "Harvest chef Patrick Roney: How to make citrus cured carp\n\nBeverages reporter Bailey Loosemore is visiting the kitchens of local chefs to gather their recipes and advice on cooking with beer and bourbon. Find a new Spirited Kitchen video online every other Wednesday, and let us know how your home experiments go using #SpiritedKitchen.\n\nFor this episode, we stopped by Harvest at 624 E. Main St. to learn how to make citrus cured carp with a wheat berry salsa using Sierra Nevada's Otra Vez beer.\n\n► RELATED: Find more recipes from the Spirited Kitchen series\n\nHave a recipe suggestion? Reach reporter Bailey Loosemore at 502-582-4646 or bloosemore@courier-journal.com.\n\n\nCitrus cured Lake Barkley Silver Carp with tomato, jalapeno and wheat berry salsa\n\nRecipe from Patrick Roney, executive chef at Harvest\n\nServes 4\n\n * 1 orange\n * 1 lemon\n * 1 lime\n * 4 tomatoes\n * 2-3 jalapenos\n * 1 cucumber\n * 1 bunch cilantro\n * 2 ounces extra virgin olive oil\n * 1 ounce coarse sea salt\n * 1 cup wheat berries\n * 6 ounces fresh carp\n * 1 can Sierra Nevada Otra Vez\n\nCook wheat berry in 1 gallon of boiling salted water for about one hour or until tender. (Tip: Soak them in cold water overnight.)\n\nSlice carp very thin horizontally until you have eight slices. Line your slices up on a flat sheet tray lined with plastic wrap. Zest the skin of your citrus evenly over the fish, then squeeze half of the juices on them. Season with fresh ground pepper and coarse sea salt. Cover again with plastic and rest for an hour in the fridge.\n\nSlice the jalapeno into thin rings. Dice two tomatoes without seeds. Dice the cucumber without seeds. Toss all of them together with some leaves of cilantro and the remaining citrus juices. Add olive oil and season, toss again. Add an equal amount of wheat berry to vegetables, let the flavors marry in the fridge for 10 min.\n\nThrow two very ripe tomatoes into a blender. Add all of your cucumber and jalapeno scraps in as well. Pour 4 ounces of beer in and season with sea salt. Blend on high for one minute. Pour into a fine mesh strainer lined with cheese cloth. Let sit in refrigerator for one hour to drip.\n\nAssemble your salsa into bowls. Fold your fish over itself so it looks like a ribbon and place on top. Garnish with fresh lime, jalapeno and cilantro. Upon serving tableside, pour your tomato-beer water over top.",
+        "metadata": {
+          "title": "Harvest chef Patrick Roney: How to make citrus cured carp"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le chef Patrick Roney du restaurant Harvest, situé au 624 E. Main St., présente une recette de carp de Lake Barkley séché aux agrumes (orange, citron, lime) avec une salsa de baies de blé, tomates, jalapeños et concombres, préparée avec de la bière Sierra Nevada Otra Vez. La recette est présentée par le journaliste Bailey Loosemore dans le cadre de la série vidéo Spirited Kitchen du journal The Courier-Journal.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Patrick Roney",
+          "Bailey Loosemore"
+        ],
+        "LOCATION": [
+          "624 E. Main St.",
+          "Lake Barkley"
+        ],
+        "ORGANIZATION": [
+          "Harvest",
+          "The Courier-Journal",
+          "Sierra Nevada"
+        ],
+        "DATE": [
+          "2016-07-06"
+        ],
+        "EVENT": [
+          "Spirited Kitchen"
+        ],
+        "OTHER": [
+          "Silver Carp",
+          "Otra Vez"
+        ]
+      },
+      "score_e5": 0.7763190387716998
+    },
+    {
+      "titre": "Asian carp leaps onto restaurant tables | Gallery",
+      "source": "The Courier-Journal",
+      "lien": "https://www.courier-journal.com/picture-gallery/life/food/farm-to-table/2016/09/26/asian-carp-leaps-onto-restaurant-tables--gallery/91128030/",
+      "image_url": "https://www.courier-journal.com/gcdn/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2016/07/05/Louisville/Louisville/636033084137238788-spirited-kitchen-harvest173.jpg?width=700&height=396&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTejJ0L9vDusDZaJGiXFxuTMQO0NawGzI7cbOJoDelIKOeTntqb",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Asian carp leaps onto restaurant tables | Gallery",
+        "link": "https://www.courier-journal.com/picture-gallery/life/food/farm-to-table/2016/09/26/asian-carp-leaps-onto-restaurant-tables--gallery/91128030/",
+        "source": "The Courier-Journal",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSQJJdHVNmzuJJaaJmEj9IU39IkF8Oz1IXk4PPw_LJvP0JBeYm-GAjH5OJOfcX8yX_07Y_Vg-4nY4LT6Mb8Ad4XHT2iTqpfPHfipEW6VuYMraAXIw904Xy9EQLbHg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTejJ0L9vDusDZaJGiXFxuTMQO0NawGzI7cbOJoDelIKOeTntqb",
+        "thumbnail_width": 169,
+        "thumbnail_height": 299,
+        "image": "https://www.courier-journal.com/gcdn/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2016/07/05/Louisville/Louisville/636033084137238788-spirited-kitchen-harvest173.jpg?width=700&height=396&fit=crop&format=pjpg&auto=webp",
+        "image_width": 396,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Asian carp leaps onto restaurant tables\n\nCrossword\n\n\nFARM TO TABLE\n\n\nAsian carp leaps onto restaurant tables | Gallery\n\nSept. 26, 2016, 3:26 p.m. ET\n\n\nFeatured Weekly Ad\nAbout Us Staff Directory Careers Accessibility Support Sitemap Legals Our Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Support Local Businesses Advertise Your Business Promote your Event Buy and Sell Promote Your Event Licensing & Reprints Help Center Courier Journal Store Subscriber Guide Manage Account Give Feedback Promote Your Event\nSubscribe Today Newsletters Mobile Apps Facebook X eNewspaper Archives\nJobs Real Estate Classifieds Education Events Shopping 10BEST LocaliQ Digital Marketing Solutions Events Branded Stories Hub\n\n© 2026 www.courier-journal.com. All rights reserved.",
+        "metadata": {
+          "title": "Asian carp leaps onto restaurant tables | Gallery"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de galerie photo intitulé 'Asian carp leaps onto restaurant tables' publié le 26 septembre 2016 par The Courier-Journal, faisant partie du réseau USA TODAY.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Courier-Journal",
+          "USA TODAY"
+        ],
+        "DATE": [
+          "2016-09-26"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Asian carp"
+        ]
+      },
+      "score_e5": 0.7635404030610543
+    },
+    {
+      "titre": "🐟 Fresh Steamed Fish Chilean sea bass steamed to perfection ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/DQEtL_vjflQ/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3748319526329907536",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTs0CMlPCCUKec8GJyHsgdNNA4zM0gvj5-1CktJAkuay9pKl9p",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "🐟 Fresh Steamed Fish Chilean sea bass steamed to perfection ...",
+        "link": "https://www.instagram.com/reel/DQEtL_vjflQ/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTs0CMlPCCUKec8GJyHsgdNNA4zM0gvj5-1CktJAkuay9pKl9p",
+        "thumbnail_width": 300,
+        "thumbnail_height": 168,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3748319526329907536",
+        "image_width": 1280,
+        "image_height": 720
+      },
+      "webpage": null,
+      "texte_contexte": "Publication Instagram montrant du poisson frais étuvé, spécifiquement du bar du Chili cuit à la vapeur (Chilean sea bass).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Chilean sea bass"
+        ]
+      },
+      "score_e5": 0.7950771277774966
+    },
+    {
+      "titre": "From the Shoreline to Seafood at La Docena | Trip.com Punta ...",
+      "source": "Trip.com",
+      "lien": "https://us.trip.com/moments/detail/punta-de-mita-58087-149307083/",
+      "image_url": "https://ak-d.tripcdn.com/images/1mi2c224x9a58f2q7863C.jpg?proc=source/trip",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeY4C6xnm0vh6qCB6CpqVIin94RbTtEuEvoq89WMFrPCi4ezCd",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "From the Shoreline to Seafood at La Docena | Trip.com Punta ...",
+        "link": "https://us.trip.com/moments/detail/punta-de-mita-58087-149307083/",
+        "source": "Trip.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyPMALyWLs7QnnQxAILE0FMcV_Gp4IJA4i1PNNlO_07BUAtYKAJFA3WpIz-V6wYMjoGYtetbIXBEHIa6j8rPeZZbNifRG6s4n7K8ZEZcB-0A",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeY4C6xnm0vh6qCB6CpqVIin94RbTtEuEvoq89WMFrPCi4ezCd",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://ak-d.tripcdn.com/images/1mi2c224x9a58f2q7863C.jpg?proc=source/trip",
+        "image_width": 1280,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Page de Trip.com intitulée 'From the Shoreline to Seafood at La Docena' concernant Punta de Mita.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Punta de Mita"
+        ],
+        "ORGANIZATION": [
+          "Trip.com",
+          "La Docena"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7821298980485937
+    },
+    {
+      "titre": "Kingfish Sashimi w Nước Chấm Coconut Serving Suggestions ...",
+      "source": "Studio Kitchen",
+      "lien": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/",
+      "image_url": "https://studiokitchen.com.au/wp-content/uploads/2026/01/Kingfish-Sashimi-w-Nuoc-Cham-Coconut-Curry-Leaf-Hero-Tile.png",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1ewiGfSLVqGJ5sqc4K6PMBs8PqRiKmKx8hmkz7_HInJ0XGJsr",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Kingfish Sashimi w Nước Chấm Coconut Serving Suggestions ...",
+        "link": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/",
+        "source": "Studio Kitchen",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcT8U8i12iuKvwxAjx6cFlx-qbi0j8ig9EbKnGybnaX35zkglU23FHGdCoafvidj-vHFR-7C8LrAkkvoJP4owFeSRDQm-arrArcQow4oLcCXTh5M2xfmcV6ztQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1ewiGfSLVqGJ5sqc4K6PMBs8PqRiKmKx8hmkz7_HInJ0XGJsr",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://studiokitchen.com.au/wp-content/uploads/2026/01/Kingfish-Sashimi-w-Nuoc-Cham-Coconut-Curry-Leaf-Hero-Tile.png",
+        "image_width": 1080,
+        "image_height": 1080
+      },
+      "webpage": {
+        "text": "Kingfish Sashimi w Nước Chấm Coconut Serving Suggestions\n\nKingfish Sashimi w Nước Chấm, Coconut & Curry Leaf\n\n\nBy Darren Purchese\n\nA Darren Purchese original whipped up at Christmas 2025 along with a selection of other seafoods. It is light and delicious and works so well as a sharing dish, you could pair it with a bread or seed crackers, but it does actually stand up on its own.\n\nEnsure you order sashimi grade kingfish from your fishmonger, and pop it in the freezer for 30 minutes to firm up before slicing so you can get it nice and thin. The dressing is a slight variation on the classic Nước Chấm Vietnamese dressing, and we added curry leaves because we loved the flavour and we had some in the garden.\n\n\nTime\n\n\n1\n\n\nhour\n\n\n0\n\n\nminutes\n\n\nDegree of Difficulty\n\n\nEasy\n\n\nSave\n\n\n2\n\n\nPortions\n\n\n4\n\nservings\n\nPrint Recipe\n\n\nShare Recipe\n\n\nIngredients\n\n\nServings\n\n\nmetric\n\nimperial\n\nTemplate is not defined.\n\nmetric imperial\n\nKINGFISH SASHIMI\n\n300g kingfish, sashimi grade\n\nNướC CHấM\n\n2tbsp caster sugar\n\n3tbsp boiling water\n\n2tbsp rice wine vinegar\n\n2tbsp fish sauce\n\n½ garlic clove, microplane grated\n\n1 birdseye chilli, finely chopped w seeds in or out\n\n2tbsp lime juice, fresh\n\n1tbsp coriander stalks, finely chopped\n\nCRISPY CURRY LEAVES\n\n40 curry leaves, fresh\n\n750g grapeseed oil\n\nCURRY LEAF OIL\n\n2 cup coriander leaves, washed and dried\n\n200g grapeseed oil\n\n25 crispy curry leaves, see above recipe\n\nASSEMBLY\n\n100g coconut milk\n\n1\n\nFor the fish preparation... place the fish into a container and freeze for 30 minutes. Remove from the freezer and transfer to a cutting board, user a sharp knife to cut thin slices of the raw fish. Place the slices onto a plate, cover and refrigerate until assembly time.\n\n\n2\n\nFor the Vietnamese dipping sauce... place the sugar into a small bowl and pour over the boiling water. Stir the mix until the sugar has dissolved. Add the remaining ingredients and reserve.\n\n\n3\n\nFor the crispy curry leaves... to prepare the curry leaves, heat the oil to 170°C. Add the curry leaf sprigs in batches and fry until bright green and crispy, about 10 seconds. Remove from the oil and place on paper towel to drain and cool.\n\n\n4\n\nFor the curry leaf oil... blanch the coriander in boiling water for 10 seconds, then strain and submerge in the ice bath to cool. Drain well and squeeze out the excess water. Meanwhile, heat the grapeseed oil in a small saucepan to 60°C. Place the coriander leaves, warm oil and crispy curry leaves into a blender. Blend on high speed for 1-2 minutes until smooth and the oil is a deep green colour. Pour the oil through a lined sieve and set aside to strain. Season with a pinch of crushed salt flakes, to taste.\n\n\n5\n\nTo assemble... arrange the sliced fish onto a serving plate. Spoon a few tablespoons of the Vietnamese dipping sauce and then spoon over the coconut milk. Add a few teaspoons of the curry oil over the top and dress the plate with fresh coriander and the reserved crispy curry leaves. Serve immediately.\n\n\n1\n\n0 hours 0 minutes\n\nFor the fish preparation... place the fish into a container and freeze for 30 minutes. Remove from the freezer and transfer to a cutting board, user a sharp knife to cut thin slices of the raw fish. Place the slices onto a plate, cover and refrigerate until assembly time.\n\n\n2\n\n0 hours 0 minutes\n\nFor the Vietnamese dipping sauce... place the sugar into a small bowl and pour over the boiling water. Stir the mix until the sugar has dissolved. Add the remaining ingredients and reserve.\n\n\n3\n\n0 hours 0 minutes\n\nFor the crispy curry leaves... to prepare the curry leaves, heat the oil to 170°C. Add the curry leaf sprigs in batches and fry until bright green and crispy, about 10 seconds. Remove from the oil and place on paper towel to drain and cool.\n\n\n4\n\n0 hours 0 minutes\n\nFor the curry leaf oil... blanch the coriander in boiling water for 10 seconds, then strain and submerge in the ice bath to cool. Drain well and squeeze out the excess water. Meanwhile, heat the grapeseed oil in a small saucepan to 60°C. Place the coriander leaves, warm oil and crispy curry leaves into a blender. Blend on high speed for 1-2 minutes until smooth and the oil is a deep green colour. Pour the oil through a lined sieve and set aside to strain. Season with a pinch of crushed salt flakes, to taste.\n\n\n5\n\n0 hours 0 minutes\n\nTo assemble... arrange the sliced fish onto a serving plate. Spoon a few tablespoons of the Vietnamese dipping sauce and then spoon over the coconut milk. Add a few teaspoons of the curry oil over the top and dress the plate with fresh coriander and the reserved crispy curry leaves. Serve immediately.\n\n\nRecipe Tags chilli, coconut, coriander, curry, garlic, Kingfish, lime, Sashimi\n\n\nFeedback\n\n\nRate and Review\n\n\n 0.0/5\n\nSign up or login to comment and share your experience \n\n{{ reviewsTotal }}{{ options.labels.singularReviewCountLabel }}\n\n{{ reviewsTotal }}{{ options.labels.pluralReviewCountLabel }}\n\n{{ options.labels.newReviewButton }}\n\n{{ userData.canReview.message }}\n\n☆\n\n★\n\nRelated Recipes\n\nSee all recipes\n\nCaprese Biscuits\n\n\nby\n\n\nDarren Purchese\n\nCaprese Biscuits\n\nCaprese Biscuits\n\n\nby\n\n\nDarren Purchese\n\nConcha Buns\n\n\nby\n\n\nStudio Kitchen\n\nConcha Buns\n\nConcha Buns\n\n\nby\n\n\nStudio Kitchen\n\nDarren's Ultimate Chocolate Cake\n\n\nby\n\n\nDarren Purchese\n\nDarren’s Ultimate Chocolate Cake\n\nDarren's Ultimate Chocolate Cake\n\n\nby\n\n\nDarren Purchese\n\nConcha Buns\n\nPosted by Studio Kitchen\n\nDarren's Ultimate Chocolate Cake\n\nPosted by Darren Purchese\n\nMeyer Lemon Sorbet\n\nPosted by Darren Purchese\n\nSee all recipes\n\n\nGallery\n\n\nMore delicious ideas for you\n\nConcha Buns\n\nPosted by Studio Kitchen\n\n2 hours\n\n0 minutes\n\nDarren's Ultimate Chocolate Cake\n\nPosted by Darren Purchese\n\n2 hours\n\n45 minutes\n\nMeyer Lemon Sorbet\n\nPosted by Darren Purchese\n\n0 hours\n\n30 minutes\n\nEasy Lime Pound Cake\n\nPosted by Studio Kitchen\n\n1 hours\n\n20 minutes\n\nMore delicious ideas for you\n\nCaprese Biscuits\n\n\nDarren Purchese\n\n2 hour\n\n0 minutes\n\nConcha Buns\n\n\nStudio Kitchen\n\n2 hour\n\n0 minutes\n\nDarren’s Ultimate Chocolate Cake\n\n\nDarren Purchese\n\n2 hour\n\n45 minutes\n\nMeyer Lemon Sorbet\n\n\nDarren Purchese\n\n0 hour\n\n30 minutes",
+        "metadata": {
+          "title": "Kingfish Sashimi w Nước Chấm Coconut Serving Suggestions - Studio Kitchen",
+          "description": "Savour the exquisite Kingfish Sashimi w Nước Chấm Coconut & Curry Leaf. A dish that will elevate your dining experience.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Kingfish Sashimi w Nước Chấm Coconut & Curry Leaf Recipe",
+          "og:description": "Explore the flavors of Kingfish Sashimi w Nước Chấm Coconut & Curry Leaf, a dish that delights the senses.",
+          "og:url": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/",
+          "og:site_name": "Studio Kitchen",
+          "article:publisher": "https://www.facebook.com/lovestudiokitchen",
+          "article:modified_time": "2026-01-14T10:46:13+00:00",
+          "og:image": "https://studiokitchen.com.au/wp-content/uploads/2026/01/Kingfish-Sashimi-w-Nuoc-Cham-Coconut-Curry-Leaf-Hero-Tile.png",
+          "og:image:width": "1080",
+          "og:image:height": "1080",
+          "og:image:type": "image/png",
+          "twitter:title": "Kingfish Sashimi w Nước Chấm, Coconut & Curry Leaf"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/",
+              "url": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/",
+              "name": "Kingfish Sashimi w Nước Chấm Coconut Serving Suggestions - Studio Kitchen",
+              "isPartOf": {
+                "@id": "https://studiokitchen.com.au/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/#primaryimage"
+              },
+              "image": {
+                "@id": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/#primaryimage"
+              },
+              "thumbnailUrl": "https://studiokitchen.com.au/wp-content/uploads/2026/01/Kingfish-Sashimi-w-Nuoc-Cham-Coconut-Curry-Leaf-Hero-Tile.png",
+              "datePublished": "2026-01-14T10:43:57+00:00",
+              "dateModified": "2026-01-14T10:46:13+00:00",
+              "description": "Savour the exquisite Kingfish Sashimi w Nước Chấm Coconut & Curry Leaf. A dish that will elevate your dining experience.",
+              "breadcrumb": {
+                "@id": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/#breadcrumb"
+              },
+              "inLanguage": "en-AU",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-AU",
+              "@id": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/#primaryimage",
+              "url": "https://studiokitchen.com.au/wp-content/uploads/2026/01/Kingfish-Sashimi-w-Nuoc-Cham-Coconut-Curry-Leaf-Hero-Tile.png",
+              "contentUrl": "https://studiokitchen.com.au/wp-content/uploads/2026/01/Kingfish-Sashimi-w-Nuoc-Cham-Coconut-Curry-Leaf-Hero-Tile.png",
+              "width": 1080,
+              "height": 1080
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://studiokitchen.com.au/recipe/kingfish-sashimi-w-nuoc-cham-coconut-curry-leaf/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://studiokitchen.com.au/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Recipe",
+                  "item": "https://studiokitchen.com.au/recipe/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Kingfish Sashimi w Nước Chấm, Coconut &amp; Curry Leaf"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://studiokitchen.com.au/#website",
+              "url": "https://studiokitchen.com.au/",
+              "name": "Studio Kitchen",
+              "description": "Your Best Baking Starts Now!",
+              "publisher": {
+                "@id": "https://studiokitchen.com.au/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://studiokitchen.com.au/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-AU"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://studiokitchen.com.au/#organization",
+              "name": "Studio Kitchen",
+              "url": "https://studiokitchen.com.au/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-AU",
+                "@id": "https://studiokitchen.com.au/#/schema/logo/image/",
+                "url": "https://studiokitchen.com.au/wp-content/uploads/2022/12/Main-Logo-800dpi-scaled.jpg",
+                "contentUrl": "https://studiokitchen.com.au/wp-content/uploads/2022/12/Main-Logo-800dpi-scaled.jpg",
+                "width": 2560,
+                "height": 606,
+                "caption": "Studio Kitchen"
+              },
+              "image": {
+                "@id": "https://studiokitchen.com.au/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/lovestudiokitchen",
+                "https://www.instagram.com/lovestudiokitchen/"
+              ]
+            }
+          ]
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Recette de sashimi de kingfish avec sauce Nước Chấm, noix de coco et feuilles de curry, créée par Darren Purchese à Noël 2025 et publiée sur Studio Kitchen.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Darren Purchese"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Studio Kitchen"
+        ],
+        "DATE": [
+          "2025"
+        ],
+        "EVENT": [
+          "Christmas"
+        ],
+        "OTHER": [
+          "Kingfish Sashimi",
+          "Nước Chấm"
+        ]
+      },
+      "score_e5": 0.7650072470507305
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "The Culinary Institute of America"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Tortilla Soup"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Patrick Roney",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bailey Loosemore",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "624 E. Main St.",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lake Barkley",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Harvest",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Courier-Journal",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sierra Nevada",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-07-06",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Spirited Kitchen",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Silver Carp",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Otra Vez",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA TODAY",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-09-26",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Asian carp",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Chilean sea bass",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Punta de Mita",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Trip.com",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "La Docena",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Darren Purchese",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Studio Kitchen",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2025",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Christmas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Kingfish Sashimi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Nước Chấm",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T21:40:26.196310"
+  }
+}

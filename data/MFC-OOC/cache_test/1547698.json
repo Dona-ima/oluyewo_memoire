@@ -1,0 +1,636 @@
+{
+  "id_rumeur": "597182",
+  "id_image": "1547698",
+  "caption": "Umm el Howeitat ghost town Safaga Egypt",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122959/1547698.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Israel expands West Bank settlement subsidies | News | Al Jazeera",
+      "source": "Al Jazeera",
+      "lien": "https://www.aljazeera.com/news/2013/8/4/israel-expands-west-bank-settlement-subsidies",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2013/07/20137189240178734_20.jpeg?resize=570,380&quality=80",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoRi3eRqO4L4LvRn8v02TW0UfAFJzVqDLhRt4TfjqmAcOy2oTk",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Israel expands West Bank settlement subsidies | News | Al Jazeera",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2013/8/4/israel-expands-west-bank-settlement-subsidies",
+        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2013/07/20137189240178734_20.jpeg?resize=570,380&quality=80",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoRi3eRqO4L4LvRn8v02TW0UfAFJzVqDLhRt4TfjqmAcOy2oTk"
+      },
+      "webpage": {
+        "text": "Israel expands West Bank settlement subsidies | News\n\nCabinet approves funding for dozens of illegal settlements just days after resumption of talks with Palestinians.\n\nThe Israeli cabinet has voted to expand the list of illegal West Bank settlements eligible for government subsidies, just days after the resumption of talks with the Palestinian Authority in which settlements are a major issue.\n\nMinisters on Sunday approved a new “national priority map,” a list of poor communities earmarked for housing subsidies and other benefits.\n\nIncluded on the list are 91 settlements in the occupied West Bank, up from 85 on the previous version. Many of them are in areas which would almost certainly be evacuated by Israel in a deal with the Palestinians.\n\nThree of the newly-added settlements – Rehelim, Sansana and Bruchin – were until recently considered “illegal outposts,” which means they were built without government approval. Their status was normalised last year by a cabinet vote.\n\n> ”This\n> \n> by ”Hanan\n\nprocess.”]\n\n\nIsraeli settlements are illegal under international law, and the United Nations and much of the world treats them as such.\n\nThe vote comes just days after Palestinian and Israeli negotiators flew to Washington for their first face-to-face meeting in three years.\n\nHanan Ashrawi, a senior Palestinian official, said the cabinet vote affirmed Palestinian suspicions about Israel’s motivations.\n\n“This is exactly what Israel wants, have a process for its own sake, and at the same time have a free hand to destroy the objective of the process,” she said. “This will have a destructive impact [on the talks].”\n\nMark Regev, spokesman for the Israeli government, said the government would have to grant additional approval for any subsidies to the settlements.\n\nFour Israeli ministers abstained from the vote, including Justice Minister Tzipi Livni, who is also the lead negotiator with the Palestinian Authority.\n\n“I don’t think it is the time diplomatically, or from a socioeconomic point of view,to include new settlements that until recently were illegal,” said environment minister Amir Peretz, who also abstained.\n\nSome of the newly-listed settlements are political strongholds of the Jewish Home party, a member of the governing coalition which is opposed to the creation of a Palestinian state.",
+        "metadata": {
+          "title": "Israel expands West Bank settlement subsidies",
+          "description": "Cabinet approves funding for dozens of illegal settlements just days after resumption of talks with Palestinians.",
+          "keywords": "News, Israel, Middle East",
+          "pageTitle": "Israel expands West Bank settlement subsidies",
+          "og:title": "Israel expands West Bank settlement subsidies",
+          "og:description": "Cabinet approves funding for dozens of illegal settlements just days after resumption of talks with Palestinians.",
+          "og:url": "https://www.aljazeera.com/news/2013/8/4/israel-expands-west-bank-settlement-subsidies",
+          "og:type": "article",
+          "og:image": "https://www.aljazeera.com/wp-content/uploads/2013/07/20137189240178734_20.jpeg?resize=1200%2C675",
+          "og:site_name": "Al Jazeera",
+          "og:image:alt": "Israel expands West Bank settlement subsidies",
+          "twitter:title": "Israel expands West Bank settlement subsidies",
+          "twitter:description": "Cabinet approves funding for dozens of illegal settlements just days after resumption of talks with Palestinians."
+        },
+        "jsonld": {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.aljazeera.com#Organization",
+          "foundingDate": "2006-11-15",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com",
+          "logo": "https://www.aljazeera.com/images/logo_aje.png",
+          "sameAs": [
+            "https://www.facebook.com/aljazeera",
+            "https://twitter.com/ajenglish",
+            "https://www.youtube.com/aljazeeraenglish",
+            "https://www.instagram.com/aljazeeraenglish/?hl=en",
+            "https://bsky.app/profile/aljazeera.com",
+            "https://www.tiktok.com/@aljazeeraenglish"
+          ],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Al Jazeera Media Network",
+            "alternateName": "شبكة الجزيرة الإعلامية"
+          },
+          "@context": "https://schema.org"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le cabinet israélien a approuvé l'expansion de la liste des colonies de Cisjordanie éligibles aux subventions gouvernementales, incluant 91 colonies contre 85 précédemment, quelques jours après la reprise des négociations avec l'Autorité palestinienne. Cette décision concerne notamment des avant-postes comme Rehelim, Sansana et Bruchin. Des ministres comme Tzipi Livni et Amir Peretz se sont abstenus lors du vote, tandis que des responsables comme Hanan Ashrawi et Mark Regev ont réagi à cette décision.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hanan Ashrawi",
+          "Mark Regev",
+          "Tzipi Livni",
+          "Amir Peretz"
+        ],
+        "LOCATION": [
+          "Israel",
+          "West Bank",
+          "Rehelim",
+          "Sansana",
+          "Bruchin",
+          "Washington",
+          "Palestinian territories"
+        ],
+        "ORGANIZATION": [
+          "Al Jazeera",
+          "Palestinian Authority",
+          "United Nations",
+          "Jewish Home party"
+        ],
+        "DATE": [
+          "2013/8/4",
+          "Sunday",
+          "last year",
+          "three years"
+        ],
+        "EVENT": [
+          "resumption of talks with Palestinians"
+        ],
+        "OTHER": [
+          "national priority map"
+        ]
+      },
+      "score_e5": 0.7212901127465764
+    },
+    {
+      "titre": "British govt warns against doing business in Israeli settlements — RT World News",
+      "source": "RT International",
+      "lien": "https://www.rt.com/news/british-businesses-israel-occupied-971/",
+      "image_url": "https://mf.b37mrtl.ru/files/news/21/70/b0/00/israel-issues-building-tenders-.si.si.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLAQBCzBXNpaT98gQdicL80tgVveJpEHPUldJ_oTHQdqNcnPA7",
+      "rang_lens": 2,
+      "brut": {
+        "title": "British govt warns against doing business in Israeli settlements — RT World News",
+        "source": "RT International",
+        "link": "https://www.rt.com/news/british-businesses-israel-occupied-971/",
+        "imageUrl": "https://mf.b37mrtl.ru/files/news/21/70/b0/00/israel-issues-building-tenders-.si.si.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLAQBCzBXNpaT98gQdicL80tgVveJpEHPUldJ_oTHQdqNcnPA7"
+      },
+      "webpage": {
+        "text": "British govt warns against doing business in Israeli settlements\n\nThe British government is warning companies of the ‘reputational implications’ of getting involved in the Israeli occupied territories as well as of rights abuses to individuals.\n\nThe recommendations which have appeared on the UK Trade and Investment website in an “Overseas Business Risk Report” for Israel, say that “EU citizens and businesses should also be aware of the potential reputational implications involved in economic and financial activities in settlements, as well as possible abuses of the rights of individuals.”\n\nThe advice clearly states that the UK does not recognize Israeli settlements in the West Bank, East Jerusalem, Gaza, and the Golan Heights, which Israel has occupied during the 1967 Six Day War.\n\nThe report also states that there are financial risks in doing business in the occupied territories and that the British government will not “encourage or offer support to such activity.”\n\n“Financial transactions, investments, purchases, procurements as well as other economic activities (including in services like tourism) in Israeli settlements or benefiting Israeli settlements, entail legal and economic risks stemming from the fact that the Israeli settlements, according to international law, are built on occupied land and are not recognized as a legitimate part of Israel's territory,” the warning says.\n\n“This may result in disputed titles to the land, water, mineral or other natural resources which might be the subject of purchase or investment.”\n\n“Settlements constitute an obstacle to peace and threaten to make a two state solution to the Israeli-Palestinian conflict impossible”, the warning adds.\n\nIsraeli diplomats in London and the Foreign Ministry officials in Jerusalem told their British counterparts that they were disappointed in the recommendations, Haaretz reports.\n\n“We told them we are currently holding talks with the Palestinians and thus issuing such a recommendation at this time will only do harm,” a senior Foreign Ministry official told the newspaper.\n\n\nThe official added that there were no such recommendations to other areas of the globe under occupation such as Western Sahara, a piece the Sahara desert occupied by Morocco, or Tibet, which is an area of the Himalayan mountains occupied by China, although it is unclear exactly how much British commerce goes on in these sparsely populated regions of the world.\n\nThe British government warning comes just months after an EU directive in July which stated that all future agreements between the EU and Israel must exclude Jewish settlements in the West bank or East Jerusalem.\n\nEU guidelines prohibit the issuing of grants, funding, prizes or scholarships unless a settlement exclusion clause is introduced whereby the Israeli government would be required to state in writing that settlements in the occupied territories are outside the state of Israel.\n\nThe EU directive covers all areas of co-operation including economics, science, culture, sports and academia, and was viewed in Israel as a penalty and heavily criticized by Prime Minister Binyamin Netanyahu.\n\nLast year the UK company the Co-operative Group became the first major European supermarket chain to end trading with companies exporting produce from illegal Israeli settlements in the West Bank. The Co-Op, as it is known, is the UK’s largest mutual insurance business and its fifth biggest food retailer. Its decision affected some £350,000 ($573,000) worth of contracts.\n\nThis October the Palestinians began a diplomatic campaign against the Israeli occupation by calling on more than 50 countries to ask companies linked to Jewish settlements in West Bank and East Jerusalem to withdraw their investments because the settlements are a violation of international law.\n\nThe governments contacted by the Palestinians include countries in Europe, Latin America, Australia, Japan, South Korea and South Africa and are home to over 500 companies with business in the settlements.",
+        "metadata": {
+          "title": "British govt warns against doing business in Israeli settlements — RT World News",
+          "fb:pages": "326683984410",
+          "description": "The British government is warning companies of the ‘reputational implications’ of getting involved in the Israeli occupied territories as well as of rights abuses to individuals.",
+          "og:site_name": "RT International",
+          "og:locale": "en_US",
+          "article:author": "Russia Today",
+          "og:title": "British govt warns against doing business in Israeli settlements",
+          "og:type": "article",
+          "og:url": "https://www.rt.com/news/british-businesses-israel-occupied-971/",
+          "og:description": "The British government is warning companies of the ‘reputational implications’ of getting involved in the Israeli occupied territories as well as of rights abuses to individuals.",
+          "og:image": "https://mf.b37mrtl.ru/files/news/21/70/b0/00/israel-issues-building-tenders-.si.si.jpg",
+          "twitter:title": "British govt warns against doing business in Israeli settlements — RT World News",
+          "twitter:description": "The British government is warning companies of the ‘reputational implications’ of getting involved in the Israeli occupied territories as well as of rights abuses to individuals.",
+          "twitter:image": "https://mf.b37mrtl.ru/files/news/21/70/b0/00/israel-issues-building-tenders-.si.si.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le gouvernement britannique avertit les entreprises des implications réputationnelles et des risques juridiques et financiers liés aux activités économiques, financières et au tourisme dans les colonies israéliennes situées dans les territoires occupés (Cisjordanie, Jérusalem-Est, Gaza et plateau du Golan), estimant qu'elles constituent un obstacle à la paix. Ces recommandations font suite à une directive de l'Union européenne excluant les colonies des accords futurs entre l'UE et Israël.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Israel",
+          "West Bank",
+          "East Jerusalem",
+          "Gaza",
+          "Golan Heights",
+          "London",
+          "Jerusalem",
+          "Western Sahara",
+          "Sahara desert",
+          "Morocco",
+          "Tibet",
+          "Himalayan mountains",
+          "China"
+        ],
+        "ORGANIZATION": [
+          "RT International",
+          "UK Trade and Investment",
+          "European Union",
+          "Haaretz"
+        ],
+        "DATE": [
+          "1967",
+          "July"
+        ],
+        "EVENT": [
+          "Six Day War"
+        ],
+        "OTHER": [
+          "Overseas Business Risk Report"
+        ]
+      },
+      "score_e5": 0.7253434537515275
+    },
+    {
+      "titre": "Ma'aleh Adumim mayor says area E1 to be renamed after Donald Trump | The Jerusalem Post",
+      "source": "The Jerusalem Post",
+      "lien": "https://www.jpost.com/israel-news/article-838672",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/645269",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZMG-wFl-QQ4k6noLIOUTgwVZb7VNHlxB3nnKd_YehfiTC_-fJ",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Ma'aleh Adumim mayor says area E1 to be renamed after Donald Trump | The Jerusalem Post",
+        "source": "The Jerusalem Post",
+        "link": "https://www.jpost.com/israel-news/article-838672",
+        "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/645269",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZMG-wFl-QQ4k6noLIOUTgwVZb7VNHlxB3nnKd_YehfiTC_-fJ"
+      },
+      "webpage": {
+        "text": "Ma'aleh Adumim mayor says area E1 to be renamed after Donald Trump\n\nThe E1 area, also known as Mevaseret Adumim, spans over some 12,000 dunams and is located between the developed part of Ma’aleh Adumim and Jerusalem.\n\nFollow us on Google\nView of Ma'aleh Adumim and the area known as E1, in the West Bank. January 2, 2017.\n(photo credit: YONATAN SINDEL/FLASH90)\nJANUARY 22, 2025 10:02\nUpdated: JANUARY 24, 2025 20:59\n\nArea E1 within the municipality of Ma'aleh Adumim in the West Bank will be renamed T1 after US President Donald Trump, the municipality announced on Wednesday.\n\nAfter the neighborhood is built, it will be called Trump, Mayor Guy Yifrach told The Jerusalem Post Wednesday.\n\nThe E1 area, also known as Mevaseret Adumim, spans over some 12,000 dunams and is located between the developed part of Ma’aleh Adumim and Jerusalem.\n\nThoughts about renaming E1 after Trump have been \"cooking\" for a while, Yifrach said.\n\n\"The decision to do it and not feel it was too gimmicky was when I saw him signing the Executive Orders [on his first day in office] and showing that he is really a friend of Israel,\" Yifrach explained.\n\n\n'Hopes in Trump'\n\n\"On his first day, one of the things that was important to him to do was to remove sanctions against settlers in the West Bank,\" Yifrach highlighted, adding that Trump's order to sanction the International Criminal Court was also one of the orders that show Trump is a true friend of Israel.\n\nThe renaming was to thank the president and also to \"God willing, find the timing to finally build the neighborhood,\" Yifrach explained.\n\nYifrach highlighted that he also thinks US President Joe Biden is a true friend of Israel, adding that he thinks Biden's administration was friendly to the state.\n\nAsked if he thinks that this gesture could further make Israel into a partisan issue in the US, pushing away Democrats from supporting the country, Yifrach highlighted that gestures for Democratic presidents have also been made.\n\n\"Israel must jealously guard its friendship and strategic alliance between The State of Israel and the United States, and not be friends of either side of the political map.\"\n\nE1s is on the opposite side of Route 1 from the existing area of Ma'ale Adumim, and its development has been frozen as the potential impacts on a future Palestinian state have created international pressure.\n\nThe United States, the international community, and the Palestinian Authority have objected to the development, which they argue would prevent the contiguous development of a Palestinian state and render it unviable, while proponents of the development say that it creates contiguity between Jerusalem and Ma'ale Adumim and is vital for ensuring Israel's hold on a united Jerusalem.\n\nYifrach touched on these issues, saying that \"the Right in Israel really wants to build in E1 because its claims that this creates territorial contiguity between Ma’aleh Adumim and Jerusalem and [because] it dissects a future Palestinian state from north to south.\"\n\nAccording to Yifrach, the Left objects to this dissection.\n\nIn truth, construction will not actually create this dissection, Yifrach claimed, highlighting that there is a strip of land East of Ma’aleh Adumim and a road to the West.\n\nYifrach added that he is personally opposed to a Palestinian state, especially in the wake of October 7.\n\nHuman rights groups have also highlighted local Bedouin populations, saying development of the area would necessarily include their expulsion.\n\nTovah Lazaroff contributed to this report. \n\nFollow us on Google\n\n----------------------------------------",
+        "metadata": {
+          "title": "Ma&#x27;aleh Adumim mayor says area E1 to be renamed after Donald Trump | The Jerusalem Post",
+          "description": "The E1 area, also known as Mevaseret Adumim, spans over some 12,000 dunams and is located between the developed part of Ma’aleh Adumim and Jerusalem.",
+          "keywords": "Israel,Jerusalem,West Bank,maale adumim,Donald Trump",
+          "og:title": "Ma'aleh Adumim mayor says area E1 to be renamed after Donald Trump | The Jerusalem Post",
+          "og:description": "The E1 area, also known as Mevaseret Adumim, spans over some 12,000 dunams and is located between the developed part of Ma’aleh Adumim and Jerusalem.",
+          "og:url": "https://www.jpost.com/israel-news/article-838672",
+          "og:site_name": "The Jerusalem Post | JPost.com",
+          "og:image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/645269",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:type": "article",
+          "twitter:title": "Area E1 near Ma'aleh Adumim to be renamed after Trump, mayor says",
+          "twitter:description": "The E1 area, also known as Mevaseret Adumim, spans over some 12,000 dunams and is located between the developed part of Ma’aleh Adumim and Jerusalem."
+        },
+        "jsonld": {
+          "@type": "WebSite",
+          "@context": "https://schema.org",
+          "url": "https://www.jpost.com/",
+          "name": "The Jerusalem Post",
+          "description": "Israel's most-read English news website and best-selling English newspaper bringing breaking news, world news & middle east news.",
+          "publisher": {
+            "@type": "Organization",
+            "@context": "https://schema.org",
+            "url": "https://www.jpost.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://www.jpost.com//#/schema/logo/image/648455",
+              "url": "/assets/jp-logo.png",
+              "width": "300",
+              "height": "60",
+              "caption": "The Jerusalem Post",
+              "contentUrl": "/assets/jp-logo.png"
+            },
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/The_Jerusalem_Post",
+              "https://www.facebook.com/TheJerusalemPost/",
+              "https://twitter.com/Jerusalem_Post",
+              "https://www.instagram.com/thejerusalem_post/",
+              "https://www.youtube.com/channel/UCLLLdCANnMAdMyrXdYbSlxg",
+              "https://www.reddit.com/domain/jpost.com/",
+              "https://www.linkedin.com/company/jerusalem-post"
+            ]
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.jpost.com//jpost-search-page#/search;query={search_term_string}"
+              },
+              "query": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le maire de Ma'aleh Adumim, Guy Yifrach, a annoncé que la zone E1, également appelée Mevaseret Adumim et s'étendant sur environ 12 000 dunams entre Ma'aleh Adumim et Jérusalem, sera renommée T1 puis Trump en l'honneur du président américain Donald Trump, pour le remercier notamment de son soutien et de son premier jour de mandat.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Donald Trump",
+          "Guy Yifrach",
+          "Joe Biden"
+        ],
+        "LOCATION": [
+          "Ma'aleh Adumim",
+          "E1",
+          "Mevaseret Adumim",
+          "Jerusalem",
+          "West Bank",
+          "United States",
+          "Israel"
+        ],
+        "ORGANIZATION": [
+          "The Jerusalem Post",
+          "Google",
+          "International Criminal Court",
+          "Democratic Party"
+        ],
+        "DATE": [
+          "January 2, 2017",
+          "JANUARY 22, 2025",
+          "JANUARY 24, 2025",
+          "Wednesday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Route 1"
+        ]
+      },
+      "score_e5": 0.7454354633656375
+    },
+    {
+      "titre": "UN Human Rights on X: \"We continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one",
+      "source": "X",
+      "lien": "https://x.com/UNHumanRights/status/1196804295607361536",
+      "image_url": "https://pbs.twimg.com/media/EJvnGpgXkAMD3vX.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrIkINQtIytgN41PZolypeZOXvCrHYwYznN17KXClpY1bMMzUK",
+      "rang_lens": 4,
+      "brut": {
+        "title": "UN Human Rights on X: \"We continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one",
+        "source": "X",
+        "link": "https://x.com/UNHumanRights/status/1196804295607361536",
+        "imageUrl": "https://pbs.twimg.com/media/EJvnGpgXkAMD3vX.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrIkINQtIytgN41PZolypeZOXvCrHYwYznN17KXClpY1bMMzUK"
+      },
+      "webpage": {
+        "text": "UN Human Rights on X: \"We continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one State does not modify existing int'l law, nor its interpretation by the Int'l Court of Justice & the Security Cou…\n\nUN Human Rights\n\n@UNHumanRights\n\nWe continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one State does not modify existing int'l law, nor its interpretation by the Int'l Court of Justice & the Security Council.\n\n6:55 AM · Nov 19, 2019",
+        "metadata": {
+          "csp-nonce": "nJxbYJFkUSmF4PJCHz05pQ==",
+          "fb:app_id": "2231777543",
+          "og:site_name": "X (formerly Twitter)",
+          "og:locale": "en_US",
+          "al:ios:app_store_id": "333903271",
+          "al:ios:app_name": "X",
+          "al:android:package": "com.twitter.android",
+          "al:android:app_name": "X",
+          "apple-mobile-web-app-title": "X (formerly Twitter)",
+          "og:url": "https://x.com/UNHumanRights/status/1196804295607361536",
+          "og:type": "article",
+          "article:published_time": "2019-11-19T14:55:54.000Z",
+          "article:author": "https://x.com/UNHumanRights",
+          "og:title": "UN Human Rights (@UNHumanRights) on X",
+          "title": "UN Human Rights (@UNHumanRights) on X",
+          "twitter:title": "UN Human Rights (@UNHumanRights) on X",
+          "og:description": "We continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one State does not modify existing int'l law, nor its interpretation by the Int'l Court of Justice & the Security Council.",
+          "description": "We continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one State does not modify existing int'l law, nor its interpretation by the Int'l Court of Justice & the Security Council.",
+          "twitter:description": "We continue to follow the longstanding position of the @UN that Israeli settlements are in breach of international law. A change in the policy position of one State does not modify existing int'l …",
+          "og:image": "https://pbs.twimg.com/media/EJvnGpgXkAMD3vX?format=webp&name=large",
+          "og:image:secure_url": "https://pbs.twimg.com/media/EJvnGpgXkAMD3vX?format=webp&name=large",
+          "og:image:type": "image/webp",
+          "og:image:width": "4096",
+          "og:image:height": "2286",
+          "al:ios:url": "twitter://status?id=1196804295607361536",
+          "al:android:url": "twitter://status?id=1196804295607361536"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "L'organisation UN Human Rights rappelle sur la plateforme X la position de longue date des Nations Unies selon laquelle les colonies israéliennes constituent une violation du droit international, soulignant qu'un changement de position politique d'un État ne modifie ni le droit international en vigueur ni son interprétation par la Cour internationale de Justice et le Conseil de sécurité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "UN",
+          "UN Human Rights",
+          "Int'l Court of Justice",
+          "Security Council"
+        ],
+        "DATE": [
+          "Nov 19, 2019"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7310671852981367
+    },
+    {
+      "titre": "In Pictures: The Beauty of Palestine and Her People - Scoop Empire",
+      "source": "Scoop Empire",
+      "lien": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/",
+      "image_url": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/images-7.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbRsYgpb0odJYBX11F9A36EHvGZ3yr7hz0_E8pBoFyI1N0yRB",
+      "rang_lens": 5,
+      "brut": {
+        "title": "In Pictures: The Beauty of Palestine and Her People - Scoop Empire",
+        "source": "Scoop Empire",
+        "link": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/",
+        "imageUrl": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/images-7.jpeg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbRsYgpb0odJYBX11F9A36EHvGZ3yr7hz0_E8pBoFyI1N0yRB"
+      },
+      "webpage": {
+        "text": "In Pictures: The Beauty of Palestine and Her People\n\nIn honor of International Day of Solidarity with the Palestinian People – an event that takes place on the 29th of November of each year to mark the anniversary of resolution 181, also known as the Partition Plan. Observed by the United Nations and held at the UN headquarters in New York, Geneva, Vienna and Nairobi, today is about showing support to the thousands suffering under Isreali occupation.\n\nIn spite of the Palestinian-Israeli conflict with its never-ending turmoil and violence, there is one remaining hope of stability and that is the region’s wealth of heritage and beauty! It has remained relatively undisturbed by the conflict and is for sure worth a visit for all historians and admirers out there. So, to get a taste for Palestine’s undeniable beauty scroll down for some inspiring pictures.\n\n\n> “In the 2030 Agenda for Sustainable Development, the world made a promise to leave no one behind. In this spirit, the International Day of Solidarity with the Palestinian People  is an opportunity to support the Palestinian people’s aspiration for peace based on respect for human rights and fundamental freedoms. It is a time to reaffirm that solidarity is a transformational force, which builds on the diversity of humanity to bind all societies together.”\n> \n> Audrey Azoulay, Director-General of UNESCO\n\nWE SAID THIS: The beauty of the Occupied Lands lives on!",
+        "metadata": {
+          "title": "In Pictures: The Beauty of Palestine and Her People - Scoop Empire",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "In Pictures: The Beauty of Palestine and Her People",
+          "og:description": "In honor of International Day of Solidarity with the Palestinian People – an event that takes place on the 29th of November of each year to mark the anniversary of resolution 181, also known as the Partition Plan. Observed by the United Nations and held at the UN headquarters in New York, Geneva, Vienna and",
+          "og:url": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/",
+          "og:site_name": "Scoop Empire",
+          "article:publisher": "https://www.facebook.com/ScoopEmpire/",
+          "article:author": "http://www.facebook.com/ScoopEmpire",
+          "article:published_time": "2019-11-29T22:00:00+00:00",
+          "article:modified_time": "2020-07-05T09:54:10+00:00",
+          "og:image": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/unrwaschoolsdayeu2018.png",
+          "og:image:width": "850",
+          "og:image:height": "414",
+          "og:image:type": "image/png",
+          "author": "Scoop Team"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#article",
+              "isPartOf": {
+                "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/"
+              },
+              "author": {
+                "name": "Scoop Team",
+                "@id": "https://scoopempire.com/#/schema/person/68b99a1d0925a78f8348429595702002"
+              },
+              "headline": "In Pictures: The Beauty of Palestine and Her People",
+              "datePublished": "2019-11-29T22:00:00+00:00",
+              "dateModified": "2020-07-05T09:54:10+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/"
+              },
+              "wordCount": 244,
+              "publisher": {
+                "@id": "https://scoopempire.com/#organization"
+              },
+              "image": {
+                "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#primaryimage"
+              },
+              "thumbnailUrl": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/unrwaschoolsdayeu2018.png",
+              "keywords": [
+                "2019",
+                "Arab",
+                "Beauty",
+                "Middle East",
+                "Palestine",
+                "people",
+                "Pictures"
+              ],
+              "articleSection": [
+                "Thoughts"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/",
+              "url": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/",
+              "name": "In Pictures: The Beauty of Palestine and Her People - Scoop Empire",
+              "isPartOf": {
+                "@id": "https://scoopempire.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#primaryimage"
+              },
+              "image": {
+                "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#primaryimage"
+              },
+              "thumbnailUrl": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/unrwaschoolsdayeu2018.png",
+              "datePublished": "2019-11-29T22:00:00+00:00",
+              "dateModified": "2020-07-05T09:54:10+00:00",
+              "breadcrumb": {
+                "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#primaryimage",
+              "url": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/unrwaschoolsdayeu2018.png",
+              "contentUrl": "https://cdn.scoopempire.com/wp-content/uploads/2019/11/unrwaschoolsdayeu2018.png",
+              "width": 850,
+              "height": 414
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://scoopempire.com/in-pictures-the-beauty-of-palestine-and-her-people/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://scoopempire.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "In Pictures: The Beauty of Palestine and Her People"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://scoopempire.com/#website",
+              "url": "https://scoopempire.com/",
+              "name": "Scoop Empire",
+              "description": "Stories from the Middle East",
+              "publisher": {
+                "@id": "https://scoopempire.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://scoopempire.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://scoopempire.com/#organization",
+              "name": "Scoop Empire",
+              "url": "https://scoopempire.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://scoopempire.com/#/schema/logo/image/",
+                "url": "https://cdn.scoopempire.com/wp-content/uploads/2025/06/Untitled-design-1.png",
+                "contentUrl": "https://cdn.scoopempire.com/wp-content/uploads/2025/06/Untitled-design-1.png",
+                "width": 696,
+                "height": 696,
+                "caption": "Scoop Empire"
+              },
+              "image": {
+                "@id": "https://scoopempire.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/ScoopEmpire/",
+                "https://x.com/scoopempire",
+                "https://www.instagram.com/Scoopempire/",
+                "https://www.linkedin.com/company/scoop-empire",
+                "https://www.youtube.com/channel/UCs7cAWk3grQeNl60eFCTU1w",
+                "https://www.tiktok.com/@scoopempire"
+              ],
+              "email": "info@scoopempire.com",
+              "legalName": "SCOOP EMPIRE"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://scoopempire.com/#/schema/person/68b99a1d0925a78f8348429595702002",
+              "name": "Scoop Team",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://secure.gravatar.com/avatar/cf5439ef22472b666693728b1956662ed1b0da9ceaaf147e68aff6d25f668715?s=96&d=mm&r=g",
+                "url": "https://secure.gravatar.com/avatar/cf5439ef22472b666693728b1956662ed1b0da9ceaaf147e68aff6d25f668715?s=96&d=mm&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/cf5439ef22472b666693728b1956662ed1b0da9ceaaf147e68aff6d25f668715?s=96&d=mm&r=g",
+                "caption": "Scoop Team"
+              },
+              "description": "Select Staff Writers from the Scoop Empire Team",
+              "sameAs": [
+                "http://www.facebook.com/ScoopEmpire",
+                "http://www.instagram.com/ScoopEmpire",
+                "http://www.pinterest.com/scoopempire",
+                "https://x.com/http://www.twitter.com/ScoopEmpire",
+                "http://www.youtube.com/user/ScoopEmpire"
+              ],
+              "url": "https://scoopempire.com/author/scoop-team/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La Journée internationale de solidarité avec le peuple palestinien est célébrée le 29 novembre pour marquer l'anniversaire de la résolution 181 (Plan de partage), avec des événements observés par les Nations Unies dans leurs sièges à New York, Genève, Vienne et Nairobi, afin de montrer leur soutien à la population sous occupation israélienne et de rappeler le patrimoine et la beauté de la région.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Audrey Azoulay"
+        ],
+        "LOCATION": [
+          "Palestine",
+          "New York",
+          "Geneva",
+          "Vienna",
+          "Nairobi"
+        ],
+        "ORGANIZATION": [
+          "Scoop Empire",
+          "United Nations",
+          "UNESCO"
+        ],
+        "DATE": [
+          "29th of November",
+          "2030"
+        ],
+        "EVENT": [
+          "International Day of Solidarity with the Palestinian People"
+        ],
+        "OTHER": [
+          "resolution 181",
+          "Partition Plan",
+          "2030 Agenda for Sustainable Development"
+        ]
+      },
+      "score_e5": 0.7220999750321148
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Umm el Howeitat",
+      "Safaga",
+      "Egypt"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Israel",
+      "West Bank",
+      "Jerusalem"
+    ],
+    "ORGANIZATION": [
+      "United Nations"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7454354633656375,
+  "S_ent": 0.0,
+  "S_OOC": 0.37271773168281874,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION"
+  ]
+}

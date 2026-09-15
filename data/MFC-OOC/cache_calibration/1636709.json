@@ -1,0 +1,955 @@
+{
+  "id_rumeur": 1636709,
+  "id_image": 1636709,
+  "caption": "In ruins Dublin s General Post Office in 1916",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747111/oluyewo_benchmark/jqiyleovzy5swp3tggkl.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Rare Easter Rising photos show Dublin in rubble - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/magazine-35375561",
+      "image_url": "http://c.files.bbci.co.uk/12F63/production/_87976677_gettyimages-3251899.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyIQ3AM2TlFtiLXH5ae4fjhWmsWDakCZ28vFNcKocO_TgbGSyK",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Rare Easter Rising photos show Dublin in rubble - BBC News",
+        "link": "https://www.bbc.com/news/magazine-35375561",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyIQ3AM2TlFtiLXH5ae4fjhWmsWDakCZ28vFNcKocO_TgbGSyK",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/12F63/production/_87976677_gettyimages-3251899.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Rare Easter Rising photos show Dublin in rubble\n\nAll sides in this emerging struggle used photography for their own purposes, though.\n\nScenes of tenants being evicted at the behest of absentee landlords showed, first-hand, British oppression (even if the photos were occasionally staged).\n\nUnionists in Northern Ireland, meanwhile, were quick to circulate images of the Ulster Volunteer Force - a militia dedicated to opposing Irish Home Rule, by force if necessary.\n\nAnd the British themselves, concerned about rumours of German support for Irish independence, circulated images of loyal Irish soldiers.\n\nOf all the images associated with the Easter Rising, a carefully posed photograph of Countess Constance Markievicz is one of the most striking. A member of the Irish establishment who was radicalised in London while a student at the Slade School of Art, Markievicz \"went back to Ireland and dedicated herself to Irish republicanism\", explains Dodd, \"and had herself photographed just before the rising in a uniform she had pulled together\".\n\nThe countess fought during the Rising and was sentenced to death but because she was a woman, her sentence was commuted. She was interned, then granted an amnesty in 1917, along with thousands of others.\n\nShe ran for election to the British parliament, representing Sinn Fein, and became the first woman to be elected to the House of Commons.\n\nIn line with Sinn Fein's policy of abstention, she refused to take her seat at Westminster. \"But she became this huge focus for independence,\" says Dodd.\n\n\"She was hugely important after the revolution as a rallying point. People like Countess Markievicz and others who lived through the 1916 rebellion were trenchantly opposed to partition.\"\n\nTwo months after the Rising, the Somme offensive in France saw the death of thousands of Irish soldiers. Troops from the 36th Irish division from Ulster suffered about 5,000 casualties, including about 2,000 dead on the first day alone. Their compatriots from the mainly Catholic 16th Irish division were introduced to the battle later in 1916. Between them, the two divisions were awarded five Victoria Crosses.\n\nSubsequently, the events of 1916 were viewed very differently in northern and southern Ireland.\n\n\"World War One and the Somme become reified north of [today's] border and the Easter Rising is entirely ignored,\" says Dodd.\n\n\"South of the border the contribution of Irish men to the war effort in World War One is completely ignored and forgotten about, and instead 1916 becomes the great moment at which Irish independence becomes inevitable.\"\n\nMost of the images in this article are on display at the Photographer's Gallery London until 3 April 2016.\n\nSubscribe to the BBC News Magazine's email newsletter to get articles sent to your inbox.",
+        "metadata": {
+          "description": "Not many photographs of Dublin's 1916 Easter Rising were taken, but those that survive provide a unique insight.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Not many photographs of Dublin's 1916 Easter Rising were taken, but those that survive provide a unique insight.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12F63/production/_87976677_gettyimages-3251899.jpg",
+          "og:image:alt": "GPO Dublin 1916",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Rare Easter Rising photos show Dublin in rubble",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/magazine-35375561",
+          "article:section": "Magazine",
+          "twitter:description": "Not many photographs of Dublin's 1916 Easter Rising were taken, but those that survive provide a unique insight.",
+          "twitter:title": "Rare Easter Rising photos show Dublin in rubble"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/magazine-35375561",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-02-13T01:14:11.000Z",
+          "dateModified": "2016-02-13T01:14:11.000Z",
+          "description": "Not many photographs of Dublin's 1916 Easter Rising were taken, but those that survive provide a unique insight.",
+          "headline": "Rare Easter Rising photos show Dublin in rubble",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12F63/production/_87976677_gettyimages-3251899.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12F63/production/_87976677_gettyimages-3251899.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/magazine-35375561",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Jason Caffrey"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des photographies rares de l'Insurrection de Pâques montrent Dublin en ruines. Toutes les séditions ont utilisé la photographie, illustrant des expulsions par des propriétaires absents pour montrer l'oppression britannique. Les unionistes d'Irlande du Nord ont diffusé des images de l'Ulster Volunteer Force opposée au Home Rule. La Grande-Bretagne a circulé des images de soldats irlandais loyaux face aux rumeurs de soutien allemand. La comtesse Constance Markievicz, nationaliste radicalisée à Londres et membre de l'établissement irlandais, a été photographiée en uniforme juste avant l'insurrection. Condamnée à mort puis graciée, elle est devenue la première femme élue à la Chambre des communes pour le Sinn Fein. Deux mois après l'Insurrection, l'offensive de la Somme en France a entraîné la mort de milliers de soldats irlandais des 36e et 16e divisions. Les événements de 1916 sont perçus différemment au nord et au sud de l'Irlande. Les images sont exposées à la Photographer's Gallery de Londres jusqu'au 3 avril 2016.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Constance Markievicz",
+          "Dodd"
+        ],
+        "LOCATION": [
+          "Dublin",
+          "Northern Ireland",
+          "Ireland",
+          "London",
+          "France",
+          "Ulster",
+          "Westminster",
+          "Borders"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Ulster Volunteer Force",
+          "Sinn Fein",
+          "House of Commons",
+          "36th Irish division",
+          "16th Irish division",
+          "Photographer's Gallery London"
+        ],
+        "DATE": [
+          "1917",
+          "1916",
+          "3 April 2016"
+        ],
+        "EVENT": [
+          "Easter Rising",
+          "Somme offensive",
+          "World War One",
+          "1916 rebellion"
+        ],
+        "OTHER": [
+          "Victoria Crosses"
+        ]
+      },
+      "score_e5": 0.7679404396706029
+    },
+    {
+      "titre": "Easter Rising 1916: DUP criticise plan for Belfast parade ...",
+      "source": "Belfast Telegraph",
+      "lien": "https://www.belfasttelegraph.co.uk/news/northern-ireland/easter-rising-1916-dup-criticise-plan-for-belfast-parade/a/118140809.html",
+      "image_url": "https://prod-img.belfasttelegraph.co.uk/public/incoming/btd02x-gpo-in-ruins-1916-soldiers-survey-the-interior-of-the-post-pffice-in-sackville-street-dublin-dur/alternates/BASE_SIXTEEN_NINE/GPO in ruins 1916  Soldiers survey the interior of the post pffice in Sackville Street Dublin dur",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8-87k59VgYAwny-ymg09Fn13jPmVDve1gj4vr74_Us8aEnXI",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Easter Rising 1916: DUP criticise plan for Belfast parade ...",
+        "link": "https://www.belfasttelegraph.co.uk/news/northern-ireland/easter-rising-1916-dup-criticise-plan-for-belfast-parade/a/118140809.html",
+        "source": "Belfast Telegraph",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRZMYV0hs8hZpb7vIjjmyBkKPRqh0tMb2MhqzJ2AGwBLoUVJh7OnXY2CSZCkT30U3Rn-k-ayp3-RYLjNDVysk2XfqBF1svawptLfBMADoRVJ7nIYGUha0MI0ZQ22_-BWw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8-87k59VgYAwny-ymg09Fn13jPmVDve1gj4vr74_Us8aEnXI",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/btd02x-gpo-in-ruins-1916-soldiers-survey-the-interior-of-the-post-pffice-in-sackville-street-dublin-dur/alternates/BASE_SIXTEEN_NINE/GPO in ruins 1916  Soldiers survey the interior of the post pffice in Sackville Street Dublin dur",
+        "image_width": 2160,
+        "image_height": 3840
+      },
+      "webpage": null,
+      "texte_contexte": "Le DUP critique un projet de défilé à Belfast concernant l'Insurrection de Pâques 1916.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Belfast"
+        ],
+        "ORGANIZATION": [
+          "DUP",
+          "Belfast Telegraph"
+        ],
+        "DATE": [
+          "1916"
+        ],
+        "EVENT": [
+          "Easter Rising 1916"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.776561884635559
+    },
+    {
+      "titre": "The Easter Rising, and a tale of two friends torn apart by ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/commentisfree/2016/mar/14/easter-rising-war-irishmen-1916",
+      "image_url": "https://i.guim.co.uk/img/media/548187a04ba1090bee408232d054a25a671f868a/0_311_2968_1780/master/2968.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1z3r1Z92ougZ2WV_C5c3awBunuSvZ_xMBPqOcfoZhMij6YOQG",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "The Easter Rising, and a tale of two friends torn apart by ...",
+        "link": "https://www.theguardian.com/commentisfree/2016/mar/14/easter-rising-war-irishmen-1916",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1z3r1Z92ougZ2WV_C5c3awBunuSvZ_xMBPqOcfoZhMij6YOQG",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/548187a04ba1090bee408232d054a25a671f868a/0_311_2968_1780/master/2968.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 279,
+        "image_height": 465
+      },
+      "webpage": {
+        "text": "The Easter Rising, and a tale of two friends torn apart by war | Daniel Mulhall\n\nWB Yeats was right. Ireland was “changed utterly” by the seismic Easter events of 1916, which paved the way for Irish independence. The success of the Northern Ireland peace process means that a century on, Ireland and Britain are in a position to view their overlapping pasts through a wide-angle lens, noticing complexities made visible by the passage of time.\n\nThe complexities of that era are well illustrated by the parallel lives of two Irishmen named Thomas who both met violent deaths during that fateful year.\n\nThomas MacDonagh and Thomas Kettle were born within two years of each other, in 1878 and 1880. Both men edited nationalist periodicals and supported the cause of votes for women. They sympathised with Dublin’s trade unionists during the bitter industrial dispute of 1913. By 1916, MacDonagh and Kettle were published authors, colleagues and friends at University College Dublin, where they both held academic posts.\n\nMacDonagh, one of the seven signatories of the proclamation of the Irish republic issued during the Easter Rising, was executed in Kilmainham jail on 3 May 1916, alongside his friend and fellow poet, Patrick Pearse. Four months later, on 9 September, Thomas Kettle died fighting for Britain in the Battle of the Somme.\n\nHow was it that two such similar individuals could end up on different sides of history? The answer is that they didn’t. In fact, they were part of what the late historian Keith Jeffery has termed the “seamless robe of Irish experience” during this period.\n\nThe home rule crisis of 1912-1914 unsettled Ireland, leading to the emergence of two rival militias representing Ulster unionist and nationalist Ireland. The two academics found themselves in prominent positions within the Irish Volunteers, set up in 1913 to counter the influence of the Ulster Volunteers.\n\nBut the outbreak of war in 1914 sundered the unity of nationalist Ireland. Kettle was in Belgium on an arms-buying mission for the Irish Volunteers when war broke out and was horrified by Germany’s harsh treatment of Belgium. This made him see the war as a struggle in support of European values threatened by German militarism. On his return to Ireland, he went with the majority of Irish nationalists who were willing to support the war effort in order to demonstrate Ireland’s fitness for self-government. Kettle’s decision was shaped by his loyalty to the Irish party, for which he had served as a Westminster MP between 1906 and 1910.\n\nMacDonagh, meanwhile, had lost faith in parliamentary politics. British resistance to home rule led him to side with the more radical minority who saw the war as an opportunity to strike a blow for Irish independence while London was preoccupied. MacDonagh was radicalised by the cultural politics of the early 20th century, which created an enhanced sense of Irish identity. Key to this was his membership of the Gaelic League and his commitment to the revival of the Irish language. There was an irony in this for he was a talented writer in English and he once described himself as the “best west Britisher in Ireland” such was his enthusiasm for English literature. As a literary critic, MacDonagh argued the case for Irish writing in the English language, something many other nationalists rejected.\n\nKettle became a leading advocate of recruitment for the British war effort, believing that Ireland needed to become more European if it was to be truly Irish, a sentiment that would have pleased his schoolfriend, James Joyce, but went against the grain of those who wanted an “Irish Ireland”. During Easter week, MacDonagh commanded the contingent of insurgents that took over the Jacob’s biscuit factory.\n\nKettle’s brother-in-law, the pacifist Francis Sheehy-Skeffington (also a friend of MacDonagh’s), was summarily executed by a British officer during the Easter rising. Kettle went to the front fearing that MacDonagh and others who rebelled in Dublin would come to be viewed as heroes and martyrs while he would be derided as “a bloody British officer”.\n\nJust days before his death, Kettle wrote an extraordinary poem for his daughter, Betty. Its closing lines can stand comparison with the very best of war poetry:\n\n“Know that we fools, now with the foolish dead,\nDied not for flag, nor King, nor Emperor, –\nBut for a dream, born in a herdsman’s shed,\nAnd for the secret Scripture of the poor.”\n\nMacDonagh also wrote a poem for his daughter, Barbara, promising that, even when the cities of Europe fade:\n\n“In Ireland still the mystic rose\nWill shine as it of old has shone.”\n\nUltimately, the loyalties of Kettle and MacDonagh diverged; a split that was part of a complicated fissure within nationalist Ireland during a troubled era.\n\nThe poet George Russell wrote of Kettle:\n\n“You proved by death as true as they,\nIn mightier conflicts played your part,\nEqual your sacrifice may weigh,\nDear Kettle, of the generous heart.”\n\nRussell also elegised MacDonagh as one whose “high talk” seemed idle, but whose words “grew to nobleness by death redeemed”. Russell reminds us of the lofty aims that drove Kettle and MacDonagh along their respective paths, and of the price they paid for the pursuit of their ideals.\n\nAs we remember a momentous year, these two lives remind us that it was not a time of strict British-Irish dichotomies, but, in Russell’s words, a:\n\n“confluence of dreams\nThat clashed together in our night,\nOne river, born from many streams,\nRoll in one blaze of blinding light”.",
+        "metadata": {
+          "title": "The Easter Rising, and a tale of two friends torn apart by war | Daniel Mulhall | The Guardian",
+          "description": "The parallel lives of two Irishmen who died in 1916 show the tragic complexity of the British-Irish relationship",
+          "og:url": "http://www.theguardian.com/commentisfree/2016/mar/14/easter-rising-war-irishmen-1916",
+          "article:author": "https://www.theguardian.com/profile/daniel-mulhall",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/548187a04ba1090bee408232d054a25a671f868a/0_311_2968_1780/master/2968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTYucG5n&enable=upscale&s=95907819cfcfe6d7bbdbf5d551260cf4",
+          "al:ios:url": "gnmguardian://commentisfree/2016/mar/14/easter-rising-war-irishmen-1916?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "The Easter rising, and a tale of friends torn apart by war | Daniel Mulhall",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-11-29T00:58:17.000Z",
+          "og:image:height": "720",
+          "og:description": "The parallel lives of two Irishmen who died in 1916 show the tragic complexity of the British-Irish relationship",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Opinion",
+          "article:published_time": "2016-03-14T18:24:39.000Z",
+          "article:tag": "Ireland,First world war,Europe,World news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les vies parallèles de Thomas MacDonagh et Thomas Kettle illustrent la complexité de l'Irlande en 1916. Nés en 1878 et 1880, ils étaient tous deux auteurs, collègues et amis au University College Dublin. MacDonagh, l'un des signataires de la proclamation de la république irlandaise, a été exécuté à la prison de Kilmainham le 3 mai 1916 avec Patrick Pearse. Kettle est mort le 9 septembre en combattant pour la Grande-Bretagne lors de la Bataille de la Somme. Ils faisaient partie de la 'robe sans couture de l'expérience irlandaise'. La crise du Home Rule de 1912-1914 a conduit à l'émergence de milices rivales, et les deux hommes ont pris des positions éminentes dans les Volontaires irlandais. Kettle a soutenu l'effort de guerre britannique après le déclenchement de la guerre en 1914 suite au traitement de la Belgique par l'Allemagne, tandis que MacDonagh a vu dans la guerre une opportunité pour l'indépendance de l'Irlande.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Daniel Mulhall",
+          "WB Yeats",
+          "Thomas MacDonagh",
+          "Thomas Kettle",
+          "Keith Jeffery",
+          "Patrick Pearse"
+        ],
+        "LOCATION": [
+          "Ireland",
+          "Britain",
+          "Dublin",
+          "Belgium",
+          "Ulster"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "University College Dublin",
+          "Kilmainham jail",
+          "Irish Volunteers",
+          "Ulster Volunteers",
+          "Gaelic League"
+        ],
+        "DATE": [
+          "1916",
+          "1878",
+          "1880",
+          "1913",
+          "3 May 1916",
+          "9 September",
+          "1912-1914",
+          "1914",
+          "1906 and 1910",
+          "early 20th century"
+        ],
+        "EVENT": [
+          "Easter events of 1916",
+          "Battle of the Somme",
+          "home rule crisis of 1912-1914",
+          "Easter Rising"
+        ],
+        "OTHER": [
+          "proclamation of the Irish republic"
+        ]
+      },
+      "score_e5": 0.7448872864051171
+    },
+    {
+      "titre": "Easter Rising 1916: BBC documentary explores the northern ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-northern-ireland-36093060",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/12B35/production/_89379567_insidegpogettyimages.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-QFqBvt_xDMULidXmDYyX7ZIE2WL3qvBC6a4SBC14iQMc-kg",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Easter Rising 1916: BBC documentary explores the northern ...",
+        "link": "https://www.bbc.com/news/uk-northern-ireland-36093060",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-QFqBvt_xDMULidXmDYyX7ZIE2WL3qvBC6a4SBC14iQMc-kg",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/12B35/production/_89379567_insidegpogettyimages.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Easter Rising 1916: BBC documentary explores the northern perspective\n\n\"In 1913-14 Ireland was on a tipping point of civil war over this issue of Home Rule,\" National Museum of Ireland curator Lar Joye tells the programme.\n\nPolitical historian Éamon Phoenix agrees, adding that unionist leader Edward Carson and his well-armed UVF militia had become a seditious force to be reckoned with.\n\n\"The Larne gun-running of the 22nd of April 1914 changes everything,\" Phoenix says.\n\n\"Thirty-five thousand German guns distributed around the province of Ulster - sophisticated weaponry including machine-guns.\n\n\"Now Carson's army has military dominance in Ireland. It's even a threat to the forces of the Crown.\"\n\nThe rebels also made their own, unsuccessful attempts to ship German guns to Ireland, notably led by County Antrim-raised Sir Roger Casement, who was later hanged for treason.",
+        "metadata": {
+          "description": "The story of the rebellion from the perspective of people from what is now known as Northern Ireland.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The story of the rebellion from the perspective of people from what is now known as Northern Ireland.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0182/production/_89368300_insidegpogettyimages.jpg",
+          "og:image:alt": "British soldiers survey the interior of Dublin's General Post Office (GPO) - the rebel headquarters destroyed in the 1916 Easter Rising",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Easter Rising 1916: BBC documentary explores the northern perspective",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-northern-ireland-36093060",
+          "article:section": "Northern Ireland",
+          "twitter:description": "The story of the rebellion from the perspective of people from what is now known as Northern Ireland.",
+          "twitter:title": "Easter Rising 1916: BBC documentary explores the northern perspective"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-northern-ireland-36093060",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-04-24T08:36:57.000Z",
+          "dateModified": "2016-04-24T08:37:44.000Z",
+          "description": "The story of the rebellion from the perspective of people from what is now known as Northern Ireland.",
+          "headline": "Easter Rising 1916: BBC documentary explores the northern perspective",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0182/production/_89368300_insidegpogettyimages.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0182/production/_89368300_insidegpogettyimages.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-northern-ireland-36093060",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un documentaire de la BBC explore la perspective nord-irlandaise de l'Insurrection de Pâques 1916. Entre 1913 et 1914, l'Irlande était au bord de la guerre civile à cause de la question du Home Rule, selon Lar Joye. L'historien politique Éamon Phoenix souligne que le leader unioniste Edward Carson et sa milice UVF possédaient une force séditieuse et que le trafic d'armes de Larne le 22 avril 1914, avec 35 000 armes allemandes distribuées dans l'Ulster, a donné à l'armée de Carson la domination militaire. Sir Roger Casement a également mené des tentatives d'expédition d'armes allemandes en Irlande avant d'être pendu pour trahison.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Lar Joye",
+          "Éamon Phoenix",
+          "Edward Carson",
+          "Sir Roger Casement"
+        ],
+        "LOCATION": [
+          "Ireland",
+          "Ulster",
+          "County Antrim",
+          "Larne"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "National Museum of Ireland",
+          "UVF"
+        ],
+        "DATE": [
+          "1916",
+          "1913-1914",
+          "22nd of April 1914"
+        ],
+        "EVENT": [
+          "Easter Rising 1916",
+          "Home Rule",
+          "Larne gun-running"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7168154120711611
+    },
+    {
+      "titre": "1916 dublin post office Black and White Stock Photos ...",
+      "source": "Alamy",
+      "lien": "https://www.alamy.com/stock-photo/1916-dublin-post-office.html?blackwhite=1&pseudoid=5A57BDD1-CB16-43AD-9EBA-4798490B1667",
+      "image_url": "https://c8.alamy.com/comp/2Y6KC9E/easter-rising-originally-captioned-the-dublin-rebellion-the-interior-of-the-completely-wrecked-post-office-in-sackville-street-the-gpo-was-the-nerve-centre-of-the-rebellion-english-soldiers-in-the-ruins-1916-2Y6KC9E.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC8Yh3dCE6DZmzNDbqaZP1jQpWayHLXHb16QOZvAeplOmFVuqN",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "1916 dublin post office Black and White Stock Photos ...",
+        "link": "https://www.alamy.com/stock-photo/1916-dublin-post-office.html?blackwhite=1&pseudoid=5A57BDD1-CB16-43AD-9EBA-4798490B1667",
+        "source": "Alamy",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSm7wq70Hz3SK1HCSxaDgXV8WEvqkVDLs8QagGRHzDNQzte7GllDK5epmtyEggjDpE9n783LQ736ZYlVeXWB4tYQcqjX9z3ODEFZCCGUvXx8ua2",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC8Yh3dCE6DZmzNDbqaZP1jQpWayHLXHb16QOZvAeplOmFVuqN",
+        "thumbnail_width": 209,
+        "thumbnail_height": 242,
+        "image": "https://c8.alamy.com/comp/2Y6KC9E/easter-rising-originally-captioned-the-dublin-rebellion-the-interior-of-the-completely-wrecked-post-office-in-sackville-street-the-gpo-was-the-nerve-centre-of-the-rebellion-english-soldiers-in-the-ruins-1916-2Y6KC9E.jpg",
+        "image_width": 1123,
+        "image_height": 1300
+      },
+      "webpage": {
+        "text": "1916 dublin post office Black and White Stock Photos & Images\n\n* Editorial\n   * Editorial Homepage\n   * Live News Feed\n   * News\n   * Sports\n   * Entertainment\n   * Archive\n * Creative\n   * Images Homepage\n   * Fresh Picks\n   * Photos\n   * Vectors\n   * Illustrations\n   * 360° Panoramic Images\n   * Contributor Spotlight\n   * Image Categories\n * Videos\n   * Videos Homepage\n   * Video Collections\n\n * Subscriptions\n * Pricing and Licenses\n   * Image Licenses\n   * Video Licenses\n   * Image Packs\n\n * Lightboxes\n * Cart\n * Sign in\n\nHi there!\n\nLightboxes\n\nShare Alamy images with your team and customers\n\n * Create a lightbox ›\n\nAll imagesSmartphone imagesVideos\n\n\n1916 dublin post office Black & White Stock Photos\n\nFilter by agency collections\n\nNo agencies were found for this search\n\nSearch builder\n\nBuild your search with words and phrases. Use any combination to refine your search.\n\nDownload Confirmation\n\nPassword Confirmation\n\nPlease enter your password *\n\nForgotten your password?",
+        "metadata": {
+          "title": "1916 dublin post office Black and White Stock Photos &amp; Images - Alamy",
+          "apple-mobile-web-app-title": "Alamy images",
+          "fb:admins": "150454471633963",
+          "author": "Alamy Limited",
+          "description": "Find the perfect 1916 dublin post office black & white image. Huge collection, amazing choice, 100+ million high quality, affordable RF and RM images. No need to register, buy now!",
+          "twitter:title": "1916 dublin post office Black and White Stock Photos & Images - Alamy",
+          "twitter:description": "Find the perfect 1916 dublin post office black & white image. Huge collection, amazing choice, 100+ million high quality, affordable RF and RM images. No need to register, buy now!",
+          "og:title": "1916 dublin post office Black and White Stock Photos & Images - Alamy",
+          "og:site_name": "Alamy",
+          "og:type": "website",
+          "og:description": "Find the perfect 1916 dublin post office black & white image. Huge collection, amazing choice, 100+ million high quality, affordable RF and RM images. No need to register, buy now!",
+          "og:image:alt": "1916 dublin post office Black & White Stock Photos",
+          "og:url": "https://www.alamy.com/stock-photo/1916-dublin-post-office.html?blackwhite=1&pseudoid=5A57BDD1-CB16-43AD-9EBA-4798490B1667"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Catalogue d'images de stock en noir et blanc et photos concernant le bureau de poste de Dublin en 1916.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Dublin"
+        ],
+        "ORGANIZATION": [
+          "Alamy"
+        ],
+        "DATE": [
+          "1916"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "dublin post office"
+        ]
+      },
+      "score_e5": 0.8323157617429261
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Dublin"
+    ],
+    "ORGANIZATION": [
+      "General Post Office"
+    ],
+    "DATE": [
+      "1916"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Constance Markievicz",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dodd",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Daniel Mulhall",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "WB Yeats",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Thomas MacDonagh",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Thomas Kettle",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Keith Jeffery",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Patrick Pearse",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lar Joye",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Éamon Phoenix",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Edward Carson",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sir Roger Casement",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dublin",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Northern Ireland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ireland",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ulster",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Westminster",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Borders",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Belfast",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Belgium",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "County Antrim",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Larne",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ulster Volunteer Force",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sinn Fein",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "House of Commons",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "36th Irish division",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "16th Irish division",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Photographer's Gallery London",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "DUP",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Belfast Telegraph",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "University College Dublin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kilmainham jail",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Irish Volunteers",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ulster Volunteers",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gaelic League",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Museum of Ireland",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UVF",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Alamy",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1917",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1916",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "3 April 2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1878",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1880",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1913",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "3 May 1916",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9 September",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1912-1914",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1914",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1906 and 1910",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early 20th century",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1913-1914",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "22nd of April 1914",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Easter Rising",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Somme offensive",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "World War One",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "1916 rebellion",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Easter Rising 1916",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Easter events of 1916",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Battle of the Somme",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "home rule crisis of 1912-1914",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Home Rule",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Larne gun-running",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Victoria Crosses",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "proclamation of the Irish republic",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "dublin post office",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T01:19:08.530785"
+  }
+}

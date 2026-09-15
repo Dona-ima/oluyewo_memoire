@@ -1,0 +1,728 @@
+{
+  "id_rumeur": 1185983,
+  "id_image": 1185983,
+  "caption": "The raging storms left hundreds of thousands of people without power across Michigan Indiana and Wisconsin",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748721/oluyewo_benchmark/xiljmlkxjoj4hukmulqw.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "These two supercells near North Platte, Nebraska have ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/reedtimmer2.0/posts/these-two-supercells-near-north-platte-nebraska-have-confirmed-land-spout-tornad/1282642306551791/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=264645236099590&get_thumbnail=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX6T4K2Nw4Fvy_EdOVMTI43WASMVjR7y7nRY2kGVWdEPKPfoQ",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "These two supercells near North Platte, Nebraska have ...",
+        "link": "https://www.facebook.com/reedtimmer2.0/posts/these-two-supercells-near-north-platte-nebraska-have-confirmed-land-spout-tornad/1282642306551791/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX6T4K2Nw4Fvy_EdOVMTI43WASMVjR7y7nRY2kGVWdEPKPfoQ",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=264645236099590&get_thumbnail=1",
+        "image_width": 1076,
+        "image_height": 1920
+      },
+      "webpage": {
+        "text": "These two supercells... - Reed Timmer Extreme Meteorologist\n\nThese two supercells near North Platte, Nebraska have confirmed land spout #tornadoes in progress as of 6:09 pm MDT",
+        "metadata": {
+          "title": "These two supercells... - Reed Timmer Extreme Meteorologist | Facebook",
+          "og:type": "video.other",
+          "og:title": "Reed Timmer Extreme Meteorologist",
+          "og:description": "These two supercells near North Platte, Nebraska have confirmed land spout #tornadoes in progress as of 6:09 pm MDT",
+          "og:url": "https://www.facebook.com/reedtimmer2.0/posts/these-two-supercells-near-north-platte-nebraska-have-confirmed-land-spout-tornad/1282642306551791/",
+          "og:image:alt": "Reed Timmer Extreme Meteorologist",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1282642299885125",
+          "og:locale": "en_US",
+          "description": "These two supercells near North Platte, Nebraska have confirmed land spout #tornadoes in progress as of 6:09 pm MDT",
+          "twitter:title": "Reed Timmer Extreme Meteorologist",
+          "twitter:description": "These two supercells near North Platte, Nebraska have confirmed land spout #tornadoes in progress as of 6:09 pm MDT"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "These two supercells near North Platte, Nebraska have confirmed land spout tornadoes in progress as of 6:09 pm MDT, according to extreme meteorologist Reed Timmer on Facebook.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Reed Timmer"
+        ],
+        "LOCATION": [
+          "North Platte",
+          "Nebraska"
+        ],
+        "ORGANIZATION": [
+          "Facebook"
+        ],
+        "DATE": [
+          "6:09 pm MDT"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "supercells",
+          "tornadoes"
+        ]
+      },
+      "score_e5": 0.7300978130626224
+    },
+    {
+      "titre": "The U.S. has had 500 tornadoes in 30 days | The Seattle Times",
+      "source": "The Seattle Times",
+      "lien": "https://www.seattletimes.com/nation-world/nation/the-u-s-has-had-500-tornadoes-in-30-days/",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2019/05/05302019_weather-pic_090135.jpg?d=2040x1357",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpnz_Mzg1-mtu4rGd5yGSkdTSFxn007UhURofUr1oKL_15vJcL",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "The U.S. has had 500 tornadoes in 30 days | The Seattle Times",
+        "link": "https://www.seattletimes.com/nation-world/nation/the-u-s-has-had-500-tornadoes-in-30-days/",
+        "source": "The Seattle Times",
+        "source_icon": "https://serpapi.com/searches/6a8eff2c4080277699e7095d/images/pnWBmKczBzkNiIMkIiHXI-xOku-Ot7lPXgeAcThlc0g.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpnz_Mzg1-mtu4rGd5yGSkdTSFxn007UhURofUr1oKL_15vJcL",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://images.seattletimes.com/wp-content/uploads/2019/05/05302019_weather-pic_090135.jpg?d=2040x1357",
+        "image_width": 1357,
+        "image_height": 2040
+      },
+      "webpage": {
+        "text": "The U.S. has had 500 tornadoes in 30 days\n\nThe U.S. has been rocked by 500 tornadoes in the past 30 days with a trapped jet stream in the atmosphere “stuck in neutral,” according to the U.S. Storm Prediction Center.\n\nIn the past seven decades, only 2003, 2004, 2008 and 2011 have faced that many tornado reports in a 30-day period, Bill Bunting, chief of forecast operations at the center in Norman, Oklahoma, said in a telephone interview. Through Tuesday, the center got calls on 12 days of eight or more tornadoes, a preliminary record that will take months to confirm.\n\n“Whether or not we can say it was unprecedented, we will figure out later, but it certainly has been unusual,” Bunting said. “It is unusual to have this kind of streak going.”\n\nThe tornadoes have been driven by larger weather patterns that have also led to widespread rains and flooding across the Great Plains and Midwest. A low-pressure area is stuck over the Pacific Northwest, while high pressure sits on top of the southern states, allowing a stream of powerful winds to slice through the center, drawing energy from the Gulf of Mexico.\n\nSocial media has given the public the means to both record and report tornadoes like never before, and that may be one of the reasons that the most abundant years have all been within the past two decades, Bunting said.\n\nA pattern shift in coming days may push the jet stream farther north, reducing the frequency of the tornadoes.\n\n“The widespread daily thunder should diminish over the areas that have been hit hard,” Bunting said.\n\nSee more Seattle Times content on Google\n\nThe Seattle Times does not append comment threads to stories from wire services such as the Associated Press, The New York Times, The Washington Post or Bloomberg News. Rather, we focus on discussions related to local stories by our own staff. You can read more about our community policies here.",
+        "metadata": {
+          "title": "The U.S. has had 500 tornadoes in 30 days | The Seattle Times",
+          "mrf:canonical": "https://www.seattletimes.com/nation-world/nation/the-u-s-has-had-500-tornadoes-in-30-days/",
+          "mrf:tags": "contentType:story;internalTags:not-set;tags:not-set;section_tier1:nation-world;section_tier2:nation;sections_all:nation|weather;articleID:11634710;source:WaPo;imageCount:1;videoCount:0;template:default;galleryType:default;age:2656;credit:Bloomberg;paragraphCount:8;wordcount:255;graphicCount:0;hasTeaserImage:yes;live:not-set;updates:not-set;live_update_post:no;",
+          "description": "The U.S. has been rocked by 500 tornadoes in the past 30 days with a trapped jet stream in the atmosphere \"stuck in neutral,\" according to the U.S. Storm Prediction...",
+          "twitter:title": "The U.S. has had 500 tornadoes in 30 days",
+          "twitter:description": "The U.S. has been rocked by 500 tornadoes in the past 30 days with a trapped jet stream in the atmosphere \"stuck in neutral,\" according to the U.S. Storm Prediction Center. In the past seven decades, only 2003, 2004, 2008...",
+          "og:title": "The U.S. has had 500 tornadoes in 30 days",
+          "og:type": "article",
+          "og:url": "https://www.seattletimes.com/nation-world/nation/the-u-s-has-had-500-tornadoes-in-30-days/",
+          "og:image": "https://images.seattletimes.com/wp-content/uploads/2019/05/05302019_storms-tzr_tzr_090221.jpg?d=780x501",
+          "og:image:width": "780",
+          "og:image:height": "501",
+          "og:description": "The U.S. has been rocked by 500 tornadoes in the past 30 days with a trapped jet stream in the atmosphere \"stuck in neutral,\" according to the U.S. Storm Prediction Center. In the past seven decades, only 2003, 2004, 2008...",
+          "og:site_name": "The Seattle Times",
+          "article:published_time": "2019-05-30T03:38:31-07:00",
+          "article:modified_time": "2019-05-30T09:10:25-07:00",
+          "fb:app_id": "2618768518177469",
+          "fb:pages": "38472826214",
+          "fb:admins": "2737159"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "The U.S. has had 500 tornadoes in 30 days The U.S. has been rocked by 500 tornadoes in the past 30 days with a trapped jet stream in the atmosphere “stuck in neutral,” according to the U.S. Storm Prediction Center. In the past seven decades, only 2003, 2004, 2008 and 2011 have faced that many tornado reports in a 30-day period, Bill Bunting, chief of forecast operations at the center in Norman, Oklahoma, said in a telephone interview. Through Tuesday, the center got calls on 12 days of eight or more tornadoes, a preliminary record that will take months to confirm. “Whether or not we can say it was unprecedented, we will figure out later, but it certainly has been unusual,” Bunting said. “It is unusual to have this kind of streak going.” The tornadoes have been driven by larger weather patterns that have also led to widespread rains and flooding across the Great Plains and Midwest. A low-pressure area is stuck over the Pacific Northwest, while high pressure sits on top of the southern states, allowing a stream of powerful winds to slice through the center, drawing energy from the Gulf of Mexico. Social media has given the public the means to both record and report tornadoes like never before, and that may be one of the reasons that the most abundant years have all been within the past two decades, Bunting said. A pattern shift in coming days may push the jet stream farther north, reducing the frequency of the tornadoes. “The widespread daily thunder should diminish over the areas that have been hit hard,” Bunting said. See more Seattle Times content on Google The Seattle Times does not append comment threads to stories from wire services such as the Associated Press, The New York Times, The Washington Post or Bloomberg News. Rather, we focus on discussions related to local stories by our own staff. You can read more about our community policies here.",
+      "niveau_contexte": 2,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7492713381780283
+    },
+    {
+      "titre": "Tornado Warning - driving under crazy looking storm clouds ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=NaNwELiFbtE",
+      "image_url": "https://i.ytimg.com/vi/NaNwELiFbtE/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoAMzu9pb_ckyafghxRFYB4gUI6xQL3YVdegvB8A6LuBBPDdpV",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Tornado Warning - driving under crazy looking storm clouds ...",
+        "link": "https://www.youtube.com/watch?v=NaNwELiFbtE",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoAMzu9pb_ckyafghxRFYB4gUI6xQL3YVdegvB8A6LuBBPDdpV",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/NaNwELiFbtE/hqdefault.jpg",
+        "image_width": 360,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Tornado Warning - driving under crazy looking storm clouds\n\nC KyungMusicLyrics\n\n#tornadowarning #storms #stormchaser #timelapseJust another day in Iowa.Music by Karl Casey @WhiteBatAudio",
+        "metadata": {
+          "title": "Tornado Warning - driving under crazy looking storm clouds",
+          "description": "#tornadowarning #storms #stormchaser #timelapseJust another day in Iowa.Music by Karl Casey @WhiteBatAudio",
+          "keywords": "tornadowarning, stormclouds, stormchaser, timelapse",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=NaNwELiFbtE",
+          "og:title": "Tornado Warning - driving under crazy looking storm clouds",
+          "og:image": "https://i.ytimg.com/vi/NaNwELiFbtE/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "#tornadowarning #storms #stormchaser #timelapseJust another day in Iowa.Music by Karl Casey @WhiteBatAudio",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=NaNwELiFbtE&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=NaNwELiFbtE&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=NaNwELiFbtE&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/NaNwELiFbtE",
+          "og:video:secure_url": "https://www.youtube.com/embed/NaNwELiFbtE",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "timelapse",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Tornado Warning - driving under crazy looking storm clouds",
+          "twitter:description": "#tornadowarning #storms #stormchaser #timelapseJust another day in Iowa.Music by Karl Casey @WhiteBatAudio"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Driving under storm clouds during a tornado warning in Iowa, featuring music by Karl Casey at WhiteBatAudio.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Karl Casey"
+        ],
+        "LOCATION": [
+          "Iowa"
+        ],
+        "ORGANIZATION": [
+          "YouTube",
+          "WhiteBatAudio"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Tornado Warning"
+        ],
+        "OTHER": [
+          "storm clouds"
+        ]
+      },
+      "score_e5": 0.7701538566969982
+    },
+    {
+      "titre": "That was some crazy weather that just passed through. We ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/Acadiana/comments/1vuzsws/that_was_some_crazy_weather_that_just_passed/",
+      "image_url": "https://preview.redd.it/that-was-some-crazy-weather-that-just-passed-through-we-v0-1sl4ko85vwkh1.jpeg?width=4000&format=pjpg&auto=webp&s=83d918ea038afc4eb123a852f49e876166b36666",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4MpW_cfzX41wquUlIRvRfhewhsNUgqCyZKUzq3Iptdc_KekC",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "That was some crazy weather that just passed through. We ...",
+        "link": "https://www.reddit.com/r/Acadiana/comments/1vuzsws/that_was_some_crazy_weather_that_just_passed/",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRFeJS-IhfJCysoVmCqJ1d-1lzbIHTsbcy4DrBsZJpxQ31zznhym7THnNEKCEnngpvdl4aupEFtEblIPBEMJY7_biy055d40m6TYfVg7CpFOrWOXw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4MpW_cfzX41wquUlIRvRfhewhsNUgqCyZKUzq3Iptdc_KekC",
+        "thumbnail_width": 190,
+        "thumbnail_height": 265,
+        "image": "https://preview.redd.it/that-was-some-crazy-weather-that-just-passed-through-we-v0-1sl4ko85vwkh1.jpeg?width=4000&format=pjpg&auto=webp&s=83d918ea038afc4eb123a852f49e876166b36666",
+        "image_width": 2868,
+        "image_height": 4000
+      },
+      "webpage": null,
+      "texte_contexte": "Discussion on Reddit about crazy weather that just passed through Acadiana.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Acadiana"
+        ],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "weather"
+        ]
+      },
+      "score_e5": 0.7542159896399098
+    },
+    {
+      "titre": "More severe weather moves through Midwest as Iowa residents ...",
+      "source": "The Hill",
+      "lien": "https://thehill.com/homenews/ap/ap-u-s-news/ap-more-severe-weather-forecast-in-midwest-as-iowa-residents-clean-up-tornado-damage/",
+      "image_url": "https://thehill.com/wp-content/uploads/sites/2/2024/05/665110b211cff5.13963093.jpeg?strip=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQakWPOA0eydjMpdalDdrJQV7muwmrMfH1owXTY7l3Dx7RQxM",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "More severe weather moves through Midwest as Iowa residents ...",
+        "link": "https://thehill.com/homenews/ap/ap-u-s-news/ap-more-severe-weather-forecast-in-midwest-as-iowa-residents-clean-up-tornado-damage/",
+        "source": "The Hill",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRloWICtX_4RNQfkmYrnmmv2ylngYviuWhjDU58rZL2UKSoGOOM7L4nVK3hGyvhzUC3P9KXkktHvzCst-NmS5MjDYbTesB_G9TkY031hpajqw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQakWPOA0eydjMpdalDdrJQV7muwmrMfH1owXTY7l3Dx7RQxM",
+        "thumbnail_width": 180,
+        "thumbnail_height": 280,
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2024/05/665110b211cff5.13963093.jpeg?strip=1",
+        "image_width": 1936,
+        "image_height": 3000
+      },
+      "webpage": {
+        "text": "More severe weather moves through Midwest as Iowa residents clean up tornado damage\n\nDES MOINES, Iowa (AP) — Several tornadoes were reported in Iowa and Illinois as storms downed power lines and trees on Friday, just days after a deadly twister devastated one small town.\n\nThe large storm system began overnight in Nebraska before traveling across central Iowa and into Illinois. A weak tornado touched down in suburban Des Moines, according to the National Weather Service, which was also assessing damage from several other reported twisters south of Iowa City and near Moline, Illinois. No injuries or deaths were reported.\n\nThe storm also brought rain that was heavy in some areas of Iowa, where totals have reached as much as 8 inches (20 centimeters) over the last week, according to the weather service.\n\nAlso Friday, a church caught fire in Madison, Wisconsin, as a thunderstorm rolled through the area. Nate Moll, who lives two doors down from Holy Redeemer Catholic Church, said he heard a “zap zap zap” electrical sound, followed by a loud crack of thunder. Firefighters extinguished the blaze.\n\nIn Oklahoma, a tornado was on the ground for about an hour Thursday evening in Jackson County and neighboring counties as a slow-moving storm moved through, according to Ryan Bunker, a meteorologist with the weather service’s Norman, Oklahoma, office. News outlets reported downed power lines and outages and damage to some structures.\n\nSevere weather was expected in areas around the U.S. throughout the long Memorial Day weekend, with a strong risk of tornadoes on Saturday in the Great Plains, particularly Kansas and Oklahoma. In New Mexico, strong winds and low humidity could fuel wildfires.\n\n“It’s really important if you have outdoor plans to make sure that you remain aware of approaching thunderstorms,” said Matt Elliott, warning coordination meteorologist with the weather service’s Storm Prediction Center.\n\n“May is the peak time of year for tornadoes and for severe weather across the United States,” Elliott said.\n\nThe latest severe weather comes as residents of Greenfield, Iowa, a community of about 2,000 people, have been cleaning up after a strong tornado on Tuesday.\n\nFriday’s storm system inflicted heavy rains, dime-sized hail and wind gusts of 75 mph (121 kph) on a community still recovering after four people were killed and 35 others injured when a tornado destroyed more than 100 homes and crumpled turbines at a nearby wind farm. A fifth person was killed about 25 miles (40 kilometers) from Greenfield when her car was blown off the road in a tornado, according to the Adams County Sheriff’s Office.\n\nAmong the Greenfield residents who were killed were Dean and Pam Wiggins, said their grandson Tom Wiggins.\n\nOn Thursday, he tried to find any of his grandparents’ mementos that remained after the tornado demolished their home, leaving little more than its foundation. He described them as “incredibly loved by not only our family but the entire town.”\n\nNot far away, Bill Yount was cleaning up.\n\n“It’s like somebody took a bomb,” said Yount, gesturing to the land — covered with wood, debris, trees stripped of their leaves, heavy machinery and equipment to clean up the mess.\n\nHe waited out the storm in a closet.\n\nThe National Weather Service determined that three separate powerful tornadoes carved paths totaling 130 miles (209 kilometers) across Iowa on Tuesday.\n\nIn addition to tornadoes, Saturday’s storms could bring extremely large hail, according to Elliott with the Storm Prediction Center. The risk of strong tornadoes, large hail and damaging winds shifts into parts of Missouri, Illinois, Indiana and Kentucky on Sunday. On Monday, the Mid-Atlantic region could see some severe thunderstorms.\n\nTornado risks increase in May because cold, dry air that occasionally flows down from Canada clashes with moist, warm air from the Gulf of Mexico and strong upper-level winds in the atmosphere, Elliott said.\n\n___\n\nO’Malley reported from Philadelphia. Associated Press writer Rick Callahan in Indianapolis also contributed.\n\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.",
+        "metadata": {
+          "title": "More severe weather moves through Midwest as Iowa residents clean up tornado damage | The Hill",
+          "sailthru.title": "More severe weather moves through Midwest as Iowa residents clean up tornado damage",
+          "sailthru.author": "ISABELLA O'MALLEY and HANNAH FINGERHUT, Associated Press",
+          "sailthru.description": "DES MOINES, Iowa (AP) — Several tornadoes were reported in Iowa and Illinois as storms downed power lines and trees on Friday, just days after a deadly twister devastated one small town. The large storm system began overnight in Nebraska before traveling across central Iowa and into Illinois. A weak tornado touched down in suburban…",
+          "og:type": "article",
+          "og:title": "More severe weather moves through Midwest as Iowa residents clean up tornado damage",
+          "og:url": "https://thehill.com/homenews/ap/ap-u-s-news/ap-more-severe-weather-forecast-in-midwest-as-iowa-residents-clean-up-tornado-damage/",
+          "og:description": "DES MOINES, Iowa (AP) — Several tornadoes were reported in Iowa and Illinois as storms downed power lines and trees on Friday, just days after a deadly twister devastated one small town. The large …",
+          "article:published_time": "2024-05-24T22:06:08+00:00",
+          "article:modified_time": "2024-05-24T22:12:04+00:00",
+          "og:site_name": "The Hill",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:image:alt": "Severe storm clouds move along Interstate 80 at the northwest edge of Davenport, Iowa on Friday, May 24, 2024. Several tornadoes were reported in Iowa and Illinois as storms downed power lines and trees on Friday, just after a deadly twister devastated one small town.(Roy Dabner/Quad City Times via AP)",
+          "og:locale": "en_US",
+          "og:image": "https://thehill.com/wp-content/uploads/sites/2/2024/05/665110b211cff5.13963093.jpeg?w=1280",
+          "og:image:secure_url": "https://thehill.com/wp-content/uploads/sites/2/2024/05/665110b211cff5.13963093.jpeg?w=1280",
+          "twitter:description": "DES MOINES, Iowa (AP) — Several tornadoes were reported in Iowa and Illinois as storms downed power lines and trees on Friday, just days after a deadly twister devastated one small town. The large …",
+          "twitter:title": "More severe weather moves through Midwest as Iowa residents clean up tornado damage",
+          "twitter:text:title": "More severe weather moves through Midwest as Iowa residents clean up tornado damage"
+        },
+        "credits": 6
+      },
+      "texte_contexte": "Severe weather moves through the Midwest as Iowa and Illinois report tornadoes, downing power lines and trees. A weak tornado touched down in suburban Des Moines, and damage was assessed south of Iowa City and near Moline, Illinois, by the National Weather Service. Heavy rains reached up to 8 inches in Iowa. A church caught fire in Madison, Wisconsin, during a thunderstorm, and a tornado stayed on the ground for about an hour in Jackson County, Oklahoma. Severe weather is expected over the Memorial Day weekend, with tornado risks in Kansas, Oklahoma, and wildfires possible in New Mexico. Greenfield, Iowa, is recovering from a strong tornado on Tuesday that killed four people, while a fifth person died in Adams County when her car was blown off the road.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Nate Moll",
+          "Ryan Bunker",
+          "Matt Elliott",
+          "Tom Wiggins",
+          "Dean Wiggins",
+          "Pam Wiggins",
+          "Bill You"
+        ],
+        "LOCATION": [
+          "Midwest",
+          "Iowa",
+          "Illinois",
+          "Des Moines",
+          "Iowa City",
+          "Moline",
+          "Madison",
+          "Wisconsin",
+          "Oklahoma",
+          "Jackson County",
+          "United States",
+          "Great Plains",
+          "Kansas",
+          "New Mexico",
+          "Greenfield",
+          "Adams County"
+        ],
+        "ORGANIZATION": [
+          "The Hill",
+          "Associated Press",
+          "National Weather Service",
+          "Storm Prediction Center",
+          "Adams County Sheriff’s Office"
+        ],
+        "DATE": [
+          "Friday",
+          "Thursday",
+          "Memorial Day weekend",
+          "Saturday",
+          "May",
+          "Tuesday"
+        ],
+        "EVENT": [
+          "Memorial Day"
+        ],
+        "OTHER": [
+          "tornadoes",
+          "thunderstorm",
+          "wildfires"
+        ]
+      },
+      "score_e5": 0.7963796730581938
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Michigan",
+      "Indiana",
+      "Wisconsin"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Reed Timmer",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Platte",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nebraska",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "6:09 pm MDT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "supercells",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "tornadoes",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Karl Casey",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iowa",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WhiteBatAudio",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Tornado Warning",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "storm clouds",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Acadiana",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "weather",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nate Moll",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ryan Bunker",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matt Elliott",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tom Wiggins",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Dean Wiggins",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pam Wiggins",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bill You",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Midwest",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Illinois",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Des Moines",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iowa City",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Moline",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Madison",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wisconsin",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oklahoma",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jackson County",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Great Plains",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kansas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Mexico",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greenfield",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Adams County",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Hill",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Weather Service",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Storm Prediction Center",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Adams County Sheriff’s Office",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Memorial Day weekend",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Memorial Day",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "thunderstorm",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "wildfires",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T12:06:15.698524"
+  }
+}

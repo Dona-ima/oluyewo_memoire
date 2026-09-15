@@ -1,0 +1,938 @@
+{
+  "id_rumeur": 682181,
+  "id_image": 682181,
+  "caption": "Google s selfdriving car being built in Detroit",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747540/oluyewo_benchmark/klqjzf52jntk7p47d4fm.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Pure autonomy: Google's new purpose-built self driving car ...",
+      "source": "Robohub",
+      "lien": "https://robohub.org/pure-autonomy-googles-new-purpose-built-self-driving-car/",
+      "image_url": "http://robohub.org/wp-content/uploads/2014/05/google_car_3.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyZfIrY7qUdVj3Fd80PWsRQv4D4TPphXKDs9UC5H3j-NAoJKZB",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Pure autonomy: Google's new purpose-built self driving car ...",
+        "link": "https://robohub.org/pure-autonomy-googles-new-purpose-built-self-driving-car/",
+        "source": "Robohub",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB_klEQVRYhe3WOWhUcRDH8c9u4ibBaKKN0QiCMR5FbNTKoKBWXggeEQsRwUJSWEm0ESTYBWy1EIQUiiBGEBTUUoiVV_BCCyUBIzGgZLMxxz6Ll8Xnsuu-tVmL_XUzw8x83_Gf-SeCIFBJJSvavQpQBagC_A8AtTCUeWkoM2RBojbnr0cHlmMSbzBSZu1WbMQSfMVzjMFcMGtFqlVn4_YQ4OZ4v0sjfeprwGmcwbpIse-4iwv4VKJxC3pxGE0R_yiuo3cqK72nead77fMAqUSdVFKyMdlwDScKFG3CcezAXrwo0rwN99FeILYMPehMyOxvSDaM8-c_cK5I86hW4hYWF4jV4UaR5lFtxdWckQNomQeIo7U4VcDfhS0xaxxCZxRgFxbFTCb8vok835Ey8uFgFGBDmcmrsDBi12BNmTXWRwH-ZR7kv4F8O1Z-rvG7MpOHMRGx55Q-nvn6GAV4JBw4cTWA_KvUnTIBBqIAw7gcM_EzrhTw9-NtzBoP8TgKABdxu0TiGI7iW4HYBI4JJ97f9BonkWV-F0wFU6bnzPyQ6cJZdAuHTk4_8QDnhXuhmJ5hG_qwW3g6csoIh1jPdNboZDYNEkEQGEw_MTgxKPV7GTVjk3ChpPEK70s8Wb46sBlL8QVP8QFmglmr69vsazoQAlRSFb8PVAGqAFWAigP8Ais3c2u7wOrTAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyZfIrY7qUdVj3Fd80PWsRQv4D4TPphXKDs9UC5H3j-NAoJKZB",
+        "thumbnail_width": 172,
+        "thumbnail_height": 293,
+        "image": "http://robohub.org/wp-content/uploads/2014/05/google_car_3.jpg",
+        "image_width": 530,
+        "image_height": 900
+      },
+      "webpage": {
+        "text": "Pure autonomy: Google’s new purpose-built self driving car\n\nby\n\n28 May 2014\n\n\n----------------------------------------\n\nGoogle completed a major step in its long and extensive self-driving cars project by presenting its first purpose-built autonomous car, which is designed from scratch for its role and is not a modified conventional Toyota.\n\nThe as yet unnamed car is very small (looks smaller than a Smart) and can accommodate two people and some luggage. It’s probably electric and its maximum speed is limited to 25mph (~40km/h). Its most striking characteristic is that it doesn’t have any controls — no steering wheel, accelerator or brake pedals — and you can ride it strictly as a passenger, which is probably a strange feeling, but according to Google’s video not entirely unpleasant.\n\n\nThis is a purely experimental project in every aspect. Google will make about a hundred prototypes and it looks like it’s a very serious effort. It is equipped with multiple sensors (a big LIDAR on its roof is probably doing most of the work), but there are also sensors in the front, in the back and where the side view mirrors would have been in a regular car. Thanks to Google’s previous experience with self-driving cars, one can expect very good performance in real environments; other Google self-driving cars have completed hundreds of thousands miles with no major incidents.\n\n\nThe car itself may look like a toy but it is cleverly and purposefully designed to be as cute as possible in order to inspire trust and reduce fear of its autonomous status. Small cars in general may be more vulnerable in a crash with a heavier vehicle, but it’s already proven that with clever engineering you can have almost no compromises in their passive safety, and most small cars from established manufacturers achieve very high scores in a crash test. The main chassis is made from robust box sections of (probably) aluminum tubing and there’s also a tubular roll cage above. Even the suspension wishbones look highly over-engineered for a 25mph city car. A substantial crash box is placed in the front, and above it the whole front panel is made of foam, so the car is not only safe for its passengers but for pedestrians as well. Of course at this stage there are no independent crash tests to verify its performance.\n\n\nAs mentioned above, the most striking aspect of the car is its lack of any kind of manual control. This is a very clever move from Google that aspires to overcome the legal and ethical problems of who should be able to drive or control a self-driving car.\n\nIf you completely eliminate any kind of input from the occupants (apart from the destination selection), then anyone on board is defined strictly as a passenger and a question like “should we allow a child to ‘drive’ an autonomous car” is transformed into “should we allow a child to be transported by an autonomous car” — a question that is still probably not very easy to answer, but which is certainly easier than the former one.\n\nGoogle will launch a small pilot program in California in the next couple of years. The prototypes released on public roads will have manual controls for obvious legal reasons but the goal of this project is to learn and develop the technology and know-how. Read the full post in Google’s official blog here.\n\nIt’s worth mentioning that similar concepts and ideas (but not a functional prototype) have been presented over the years. The concept closest to this is ‘UC’ by the pioneering design firm Rinspeed, presented four years ago at the Geneva Motor Show. It was also a two-seater (loosely based on a Fiat 500) but its main feature was the interior, where similarly to Google’s car, no manual controls were present.\n\n\ntags: analysis, Automotive, Autonomous Cars, ethics, Google, Google car, Laws, Prototype, Research, robohub focus on autonomous driving, Robot Car\n\n----------------------------------------\n\nIoannis K. Erripis joined the ROBOTS association in early 2011 as a news reporter and now leads all technical aspects of the Robohub project, including website design, implementation and branding.\n\nIoannis K. Erripis joined the ROBOTS association in early 2011 as a news reporter and now leads all technical aspects of the Robohub project, including website design, implementation and branding.",
+        "metadata": {
+          "title": "Pure autonomy: Google&#8217;s new purpose-built self driving car - Robohub",
+          "og:title": "  Pure autonomy: Google’s new purpose-built self driving car - Robohub",
+          "og:type": "website",
+          "og:site_name": "Robohub",
+          "og:image": "https://robohub.org/wp-content/uploads/2014/05/google_car_1.jpg",
+          "twitter:title": "  Pure autonomy: Google’s new purpose-built self driving car - Robohub"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Présentation par Google de sa première voiture autonome conçue de zéro, dépourvue de commandes manuelles (pas de volant, d'accélérateur ou de pédales de frein), pouvant accueillir deux personnes et limitée à une vitesse maximale de 25 mph (environ 40 km/h). Le projet expérimental prévoit la fabrication d'une centaine de prototypes équipés de multiples capteurs, dont un grand LIDAR sur le toit.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Google",
+          "Robohub",
+          "Toyota",
+          "Smart"
+        ],
+        "DATE": [
+          "28 May 2014"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "LIDAR"
+        ]
+      },
+      "score_e5": 0.7934983724953398
+    },
+    {
+      "titre": "Google, Apple Further Along with Car Projects than Expected ...",
+      "source": "Autoguide.com",
+      "lien": "https://www.autoguide.com/auto-news/2016/01/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.html",
+      "image_url": "https://cdn-fastly.autoguide.com/media/2023/06/09/12602506/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.jpg?size=720x845&nocrop=1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1ETVe6tbHlwt0ww-1l-KB7SOqMTt6ogwPtZChLMrRoHWtsN0D",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Google, Apple Further Along with Car Projects than Expected ...",
+        "link": "https://www.autoguide.com/auto-news/2016/01/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.html",
+        "source": "Autoguide.com",
+        "source_icon": "https://serpapi.com/searches/6a8edcd5ab28c695b7eaeca4/images/3-sfSYiOzt4Up7__LkLXILXwUk5AKhdNYQXA27GBKU8.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1ETVe6tbHlwt0ww-1l-KB7SOqMTt6ogwPtZChLMrRoHWtsN0D",
+        "thumbnail_width": 176,
+        "thumbnail_height": 287,
+        "image": "https://cdn-fastly.autoguide.com/media/2023/06/09/12602506/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.jpg?size=720x845&nocrop=1",
+        "image_width": 411,
+        "image_height": 671
+      },
+      "webpage": {
+        "text": "Google, Apple Further Along with Car Projects than Expected: Daimler CEO\n\nGoogle and Apple are further along with their car projects than Daimler’s CEO Dieter Zetsche originally assumed.\n\nZetsche told German weekly Welt am Sonntag that in his recent visit to Silicon Valley, he found that both tech giants “can do more and know more than we had previously assumed.” He also added that both companies “have more respect for our achievements than we thought.”\n\nGoogle has been testing self-driving cars since 2012 and Daimler’s luxury brand, Mercedes-Benz, followed with an S-Class that drove 64 miles on its own. Since then, Google has built its own prototype vehicle instead of using existing cars, while Mercedes has implemented semi-autonomous features in its production vehicles.\n\nSEE ALSO: Google Turning Self-Driving Car Division to Standalone Company\n\nAlthough Apple still hasn’t confirmed that it is working on its own car project, rumors have been been ongoing for years that a move is imminent. It’s basically an open secret that Apple will debut a car in the future.\n\nZetsche and a handful of senior managers met around 70 companies companies in Silicon Valley in their recent visit. “There were concrete talks,” he said. “I will not say anything about the content. It was not just about the fact that there is an innovative spirit in the Valley. We know that already. We wanted to see what drives it, and all the things that can be created from it.”\n\n[Source: Reuters]\n\nDiscuss this story on our Mercedes-Benz Forum",
+        "metadata": {
+          "title": "Google, Apple Further Along with Car Projects than Expected: Daimler CEO | AutoGuide.com",
+          "description": "Google and Apple are much further along with their car projects than Daimler CEO Dieter Zetsche first assumed. Learn more about it at AutoGuide.com.",
+          "og:title": "Google, Apple Further Along with Car Projects than Expected: Daimler CEO",
+          "og:description": "Google and Apple are much further along with their car projects than Daimler CEO Dieter Zetsche first assumed. Learn more about it at AutoGuide.com.",
+          "og:image": "https://cdn-fastly.autoguide.com/media/2023/06/09/12602506/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.jpg?size=1200x628",
+          "og:url": "https://www.autoguide.com/auto-news/2016/01/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.html",
+          "article:author": "Jason Siu",
+          "article:published_time": "2016-01-25T12:02:48-05:00",
+          "article:modified_time": "2016-01-25T12:02:48-05:00",
+          "fb:app_id": "126323344079075",
+          "fb:pages": "201765839840980",
+          "fb:admins": "100004211465816",
+          "og:type": "article",
+          "og:image:width": "1200",
+          "og:image:height": "628",
+          "og:site_name": "Autoguide.com"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "Article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://cdn-fastly.autoguide.com/auto-news/2016/01/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.html"
+          },
+          "headline": "Google, Apple Further Along with Car Projects than Expected: Daimler CEO",
+          "description": "Google and Apple are much further along with their car projects than Daimler CEO Dieter Zetsche first assumed. Learn more about it at AutoGuide.com.",
+          "author": {
+            "@type": "Person",
+            "name": "Jason Siu"
+          },
+          "datePublished": "2016-01-25T12:02:48-05:00",
+          "dateModified": "2016-01-25T12:02:48-05:00",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Autoguide",
+            "url": "https://cdn-fastly.autoguide.com",
+            "sameAs": [
+              ""
+            ],
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://cdn-fastly.autoguide.com/resources/themes/autoguide/imgs-responsive/autoguide-logo-600.png",
+              "height": 88,
+              "width": 600
+            },
+            "brand": "Autoguide",
+            "publishingPrinciples": ""
+          },
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://cdn-fastly.autoguide.com/media/2023/06/09/12602506/google-apple-further-along-with-car-projects-than-expected-daimler-ceo.jpg",
+              "width": 671,
+              "height": 411
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Déclaration du PDG de Daimler, Dieter Zetsche, selon laquelle Google et Apple sont plus avancés que prévu dans leurs projets de voitures respectifs après une visite de cadres dirigeants dans la Silicon Valley.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dieter Zetsche"
+        ],
+        "LOCATION": [
+          "Silicon Valley"
+        ],
+        "ORGANIZATION": [
+          "Google",
+          "Apple",
+          "Daimler",
+          "Autoguide.com",
+          "Welt am Sonntag",
+          "Mercedes-Benz",
+          "Reuters"
+        ],
+        "DATE": [
+          "2016",
+          "2012"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "S-Class"
+        ]
+      },
+      "score_e5": 0.7933843468209699
+    },
+    {
+      "titre": "Google's self-driving car: How does it work and when can we ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2014/may/28/google-self-driving-car-how-does-it-work",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/28/1401275866313/e8c3db9a-15be-4fcb-8151-e7e9e9cc605a-620x372.jpeg?width=445&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPnaKCt6OFDSBu1zB7-x4yctVKB1wCKdNMpJNpIZTVxLVVfdM5",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Google's self-driving car: How does it work and when can we ...",
+        "link": "https://www.theguardian.com/technology/2014/may/28/google-self-driving-car-how-does-it-work",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8edcd5ab28c695b7eaeca4/images/oAyCs33iCvfEFc_vr3NTlwxSMO4YFLTHpjSSq_0LvsE.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPnaKCt6OFDSBu1zB7-x4yctVKB1wCKdNMpJNpIZTVxLVVfdM5",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/28/1401275866313/e8c3db9a-15be-4fcb-8151-e7e9e9cc605a-620x372.jpeg?width=445&dpr=1&s=none&crop=none",
+        "image_width": 267,
+        "image_height": 445
+      },
+      "webpage": {
+        "text": "Google's self-driving car: How does it work and when can we drive one? | Google\n\nGoogle unveiled a brand new self-driving car prototype on Tuesday; the first company to build a car with no a steering wheel, accelerator or brake pedal.\n\n\nThe car's arrival marks the next stage in Google’s self-driving car project, which was born from the Darpa Grand Challenges for robotic vehicles in the early 2000s. Google kickstarted its own self-driving car project in 2008, and it has been rumbling on ever since, first with modified Toyota Prius and then with customised Lexus SUVs, which took the car’s existing sensors, such as the cruise-control cameras, and added a spinning laser scanner on the top.\n\n\nWhat is it?\n\nIt is the first truly driverless electric car prototype built by Google to test the next stage of its five-year-old self-driving car project. It looks like a cross between a Smart car and a Nissan Micra, with two seats and room enough for a small amount of luggage.\n\nIt is the first real physical incarnation of Google’s vision of what a self-driving car of the near future could be.\n\n\nWhere is it?\n\nIt operates in and around California, primarily around the Mountain View area where Google has its headquarters.\n\n\nWhat does it do?\n\nIt ferries two people from one place to another without any user interaction. The car is summoned by a smartphone for pick up at the user’s location with the destination set. There is no steering wheel or manual control, simply a start button and a big red emergency stop button. In front of the passengers there is a small screen showing the weather, the current speed and a small countdown animation to launch.\n\nOnce the journey is done, the small screen displays a message to remind you to take your personal belongings – reinforcing that this is not aiming to be a substitute for your personal car at the moment, but more as a replacement for the taxi without the human driver.\n\n\nWhat’s it like?\n\nVery few people outside of Google have been allowed to ride in the new car. Most of the people depicted in Google’s promotional videos for the new car described the experience as “smooth” and “nothing that feels the least bit threatening”.\n\n\nKara Swisher and Liz Gannes from technology site Recode were one of the few independent test riders, who described the car as having “ample” room despite being small, likely due to the lack of the normal controls taking up space in the cabin, and \"that this felt a lot like a theme park ride\".\n\n\nWho built it?\n\nGoogle has designed the car from scratch, starting with the sensors and a frame to interconnect them, then adding a cabin that does not block any of the sensors or create blind spots and eventually the body shell. The manufacturing of the 100 or so prototype cars will be done by a firm in the Detroit area, but Google declined to comment on which.\n\n\nHow does it work?\n\nPowered by an electric motor with around a 100 mile range, the car uses a combination of sensors and software to locate itself in the real world combined with highly accurate digital maps. A GPS is used, just like the satellite navigation systems in most cars, to get a rough location of the car, at which point radar, lasers and cameras take over to monitor the world around the car, 360-degrees.\n\nThe software can recognise objects, people, cars, road marking, signs and traffic lights, obeying the rules of the road and allowing for multiple unpredictable hazards, including cyclists. It can even detect road works and safely navigate around them.\n\nThe new prototype has more sensors fitted to it that can see further (up to 600 feet in all directions) and in greater detail than the ones available on the previous repurposed Lexus and Toyota vehicles.\n\n\nHow safe is it?\n\nThe new car is the next evolution of Google’s self-driving car. While the new frame is untested, the company’s previous versions have clocked up over 700,000 miles of testing on public roads, mainly around California, including over 1,000 miles of driving in the most complex situations and cities like San Francisco’s hills and busy streets.\n\nThe car itself is limited to 25 mph, which restricts it to certain roads, but also minimises the kinetic energy it could carry into a crash if one should happen. The front of the car is also made to be as kind to pedestrians as possible with a foam bumper and a flexible windscreen that is designed to absorb energy from an impact with a person’s body.\n\nSeat belts are also provided – a safety requirement for vehicles on the road – while the car has redundant systems, a “fault-tolerant architecture” as Google calls it, for both steering and braking, should the primary systems fails; plus that emergency stop button that passengers can hit at any time.\n\nGoogle has also taken the data and behaviours it learned from its previous vehicles to create a defensive, considerate driving style that is meant to protect both the passengers and other road users. For instance, the car will wait a second after the traffic lights turn green before it moves off, although this could incur the anger of drivers stuck behind it.\n\nGoogle also says that making it drive in a natural and predictable way has been one of the key goals, so that it behaves in a familiar way on the road for other drivers.\n\n\nWhy now?\n\nGoogle says it has gone as far as it can with the current customised vehicles and that a new platform is needed to take the project and technology to the next step and closer to a product people can actually use.\n\nFor instance, the previous generation Lexus vehicle had blind spots right up against the car where the sensors couldn’t see, something that needs to be eliminated in any vehicle open to the public.\n\nThe cars will first be used to test the software driving the car and push its capabilities. Google says at some point, when it deems its software safe, it will start putting real people into the cars beyond Google engineers. It will use the cars in a similar manner to the company’s Google Glass explorer programme, analysing how people use them and what works and what doesn’t.\n\n\nWhy do damn cute?\n\nThe car’s cute looks and friendly “face” were created intentionally to be “very Googley” according to its designers, to put both other road users and passengers at ease with the new technology. The shell is also designed to give the sensors the best view of the surroundings.\n\n\nWhy does it still look like a car on the inside?\n\nThe new car has two traditional car seats, primarily because in this iteration passengers have to be strapped in like they would in any other car to meet safety regulations, which means using standard seat belts. It also provides a more familiar passenger experience, which at this stage is likely important to aid adoption.\n\n\nIs this something I’m going to be able to buy?\n\nGoogle’s vision for this kind of self-driving car isn’t an exact replacement for the one parked outside your home. They are designed to be more like shared vehicles, possibly within a family or more likely as a replacement for taxis.\n\nThese cars are still very much in the early prototype stage still, and Google is still trying to figure out how to make a product out of the technology, how much it is likely to cost and when it will be available.\n\nApparently it will not have ads according to Google, although whether it’ll eventually have a small screen like some taxis now that plays video adverts, who knows. That will likely be up to the operator rather than Google.\n\n\nWho will build it for me?\n\nGoogle is proving the technology, but it is unlikely to make the cars for sale once that technology is ready for the mass market. It has said in the past that it is actively seeking car manufacturing partners, which means we could see a Toyota, Ford or Fiat-made Google car in the future, but that is all very much still up in the air.\n\n\nWhen can I get one?\n\nGoogle says the cars should be road-ready by early next year, but that testing would take more than two years. At that point the technology will be ready for the next stage, which is likely to be greater pilot testing.\n\nCurrent expectations are that these self-driving cars are at least five years away from being mature enough to create a real, non-prototype product, but it may be far longer until you can buy or hire one for personal use.\n\n\nWhat about legislation?\n\nOne of the biggest hold-ups to the progression of the technology onto the open road of Britain, the US, Australia and the rest of the world will be legislation.\n\nA law was passed in California over a year ago that made the testing and operation of self-driving vehicles on roads possible, as long as they had manual override controls. The Department of Motor Vehicles in California is expected to issue regulations on the operation of self-driving cars soon, after which self-driving cars may become a bit more common place.\n\nHowever, there is still much to work out, primarily revolving around what a passenger in a self-driving car and can’t do – will they have to be able to take control at any moment, for instance – as well as questions around what happens when an accident happens, who is at fault and who pays.\n\nGoogle's driverless car: no steering wheel, two seats, 25mph",
+        "metadata": {
+          "title": "Google's self-driving car: How does it work and when can we drive one? | Google | The Guardian",
+          "description": "<p>New self-driving car has no steering wheel, brake or accelerator pedals, so how does it work and when can we drive one? By <b>Samuel Gibbs</b></p>",
+          "og:url": "http://www.theguardian.com/technology/2014/may/28/google-self-driving-car-how-does-it-work",
+          "article:author": "https://www.theguardian.com/profile/samuel-gibbs",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/28/1401275776922/3f7f3de1-bc08-4b6d-8c02-762bf34b70ae-620x372.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=80b2c8ed10783b0ca6d2042ffa977650",
+          "al:ios:url": "gnmguardian://technology/2014/may/28/google-self-driving-car-how-does-it-work?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Google's self-driving car: How does it work and when can we drive one?",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2022-08-17T15:01:52.000Z",
+          "og:image:height": "720",
+          "og:description": "New self-driving car has no steering wheel, brake or accelerator pedals, so how does it work and when can we drive one? By Samuel Gibbs",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2014-05-29T16:11:27.000Z",
+          "article:tag": "Google,Technology,Automotive industry,Robots,Business,Motoring,Electric, hybrid and low-emission cars,Environment",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Dévoilement par Google d'un nouveau prototype de voiture sans conducteur, sans volant ni pédales, issu de son projet de véhicule autonome débuté dans les années 2000 suite aux défis Darpa. Le véhicule électrique biplace fonctionne en Californie, principalement dans la zone de Mountain View, commandé par smartphone avec un bouton d'urgence et un écran d'affichage.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kara Swisher",
+          "Liz Gannes"
+        ],
+        "LOCATION": [
+          "California",
+          "Mountain View",
+          "Detroit"
+        ],
+        "ORGANIZATION": [
+          "Google",
+          "The Guardian",
+          "Darpa",
+          "Toyota",
+          "Lexus",
+          "Smart",
+          "Nissan",
+          "Recode"
+        ],
+        "DATE": [
+          "Tuesday",
+          "early 2000s",
+          "2008",
+          "five-year-old"
+        ],
+        "EVENT": [
+          "Darpa Grand Challenges"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7882652778817607
+    },
+    {
+      "titre": "Google 画像｜ハンドルもブレーキもない米Google自律走行車の ...",
+      "source": "clicccar.com",
+      "lien": "https://clicccar.com/2014/06/15/258374/google/",
+      "image_url": "https://clicccar.com/uploads/2014/06/Google4-618x351.png",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQva_qZ18hvLtLRDF9SFc-30FeZj-CfuKFxnwhPJdxeHFD0L72S",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Google 画像｜ハンドルもブレーキもない米Google自律走行車の ...",
+        "link": "https://clicccar.com/2014/06/15/258374/google/",
+        "source": "clicccar.com",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTbf0MeV99wIpKF75_E74yKkmgB14FJuKOESW6Apx1EFsusrLnvJDblpGaL2QVPwgFs_REm0RC0OoFwsnlHOr1NDMh9_vCcrYF0ThtVh4lJR8k",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQva_qZ18hvLtLRDF9SFc-30FeZj-CfuKFxnwhPJdxeHFD0L72S",
+        "thumbnail_width": 169,
+        "thumbnail_height": 298,
+        "image": "https://clicccar.com/uploads/2014/06/Google4-618x351.png",
+        "image_width": 351,
+        "image_height": 618
+      },
+      "webpage": {
+        "text": "Google 画像｜ハンドルもブレーキもない米Google自律走行車の普及に向けた課題とは?\n\n検索したいキーワードを入力\n\n\nHome > カーライフ > ドライブ\n\n\nハンドルもブレーキもない米Google自律走行車の普及に向けた課題とは? | Google | 9枚目の写真（全9枚）\n\n\n記事ページへ戻る",
+        "metadata": {
+          "title": "Google 画像｜ハンドルもブレーキもない米Google自律走行車の普及に向けた課題とは? | clicccar.com",
+          "og:locale": "ja_JP",
+          "og:type": "article",
+          "og:title": "Google 画像｜ハンドルもブレーキもない米Google自律走行車の普及に向けた課題とは? | clicccar.com",
+          "og:url": "https://clicccar.com/2014/06/15/258374/google/",
+          "og:site_name": "clicccar.com",
+          "og:image": "https://clicccar.com/2014/06/15/258374/google",
+          "og:image:width": "880",
+          "og:image:height": "695",
+          "og:image:type": "image/jpeg",
+          "author": "Avanti Yasunori"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://clicccar.com/2014/06/15/258374/google/",
+              "url": "https://clicccar.com/2014/06/15/258374/google/",
+              "name": "Google 画像｜ハンドルもブレーキもない米Google自律走行車の普及に向けた課題とは? | clicccar.com",
+              "isPartOf": {
+                "@id": "https://clicccar.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://clicccar.com/2014/06/15/258374/google/#primaryimage"
+              },
+              "image": {
+                "@id": "https://clicccar.com/2014/06/15/258374/google/#primaryimage"
+              },
+              "thumbnailUrl": "https://clicccar.com/uploads/2014/06/Google.jpg",
+              "datePublished": "2014-06-07T09:50:11+00:00",
+              "breadcrumb": {
+                "@id": "https://clicccar.com/2014/06/15/258374/google/#breadcrumb"
+              },
+              "inLanguage": "ja",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://clicccar.com/2014/06/15/258374/google/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "ja",
+              "@id": "https://clicccar.com/2014/06/15/258374/google/#primaryimage",
+              "url": "https://clicccar.com/uploads/2014/06/Google.jpg",
+              "contentUrl": "https://clicccar.com/uploads/2014/06/Google.jpg",
+              "width": 880,
+              "height": 695
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://clicccar.com/2014/06/15/258374/google/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://clicccar.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "カーライフ",
+                  "item": "https://clicccar.com/category/carlife/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "ドライブ",
+                  "item": "https://clicccar.com/category/carlife/drive/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "ハンドルもブレーキもない米Google自律走行車の普及に向けた課題とは?"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://clicccar.com/#website",
+              "url": "https://clicccar.com/",
+              "name": "clicccar.com",
+              "description": "車好きにも車をまったく知らない人にも、乗り物が生活を豊かにしてくれることを提案する自動車ニュースメディア。 新車だけでなく中古車、旧車、次世代車。ドライブに役立つスポット、アイテム、カー用品、ガジェット。 乗り物を楽しんでいる人、豊かになった生活など、車にまつわる「モノ」「コト」をお届けします。",
+              "publisher": {
+                "@id": "https://clicccar.com/#organization"
+              },
+              "inLanguage": "ja"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://clicccar.com/#organization",
+              "name": "clicccar.com",
+              "url": "https://clicccar.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "ja",
+                "@id": "https://clicccar.com/#/schema/logo/image/",
+                "url": "https://clicccar.com/uploads/2024/12/16/clicccar-logo-2.png",
+                "contentUrl": "https://clicccar.com/uploads/2024/12/16/clicccar-logo-2.png",
+                "width": 884,
+                "height": 400,
+                "caption": "clicccar.com"
+              },
+              "image": {
+                "@id": "https://clicccar.com/#/schema/logo/image/"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de clicccar.com abordant les défis liés à la diffusion des voitures autonomes de Google ne disposant ni de volant ni de frein.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Google",
+          "clicccar.com"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8016315396907513
+    },
+    {
+      "titre": "Rivian is more tech company than car company, and that's a ...",
+      "source": "Digital Trends",
+      "lien": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/",
+      "image_url": "https://www.digitaltrends.com/tachyon/2025/03/rivian-r1t-wiring.jpg?resize=720,480",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp0sa8RuK4JW0L2E7Yu-girY_ZTZySAkx2ZLi1RGrourU9PY9h",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Rivian is more tech company than car company, and that's a ...",
+        "link": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/",
+        "source": "Digital Trends",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRt1Br5ROlpAgrSnQMcWxDm21zvimMTcN4aX1byLJycENkoiQ-3qtpFirs4BCiHVXRHPUksfvbdJArOJbezjRhS__PP29NJzK6S7-n-MP4qwAolqoLeDBZj1zY",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp0sa8RuK4JW0L2E7Yu-girY_ZTZySAkx2ZLi1RGrourU9PY9h",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.digitaltrends.com/tachyon/2025/03/rivian-r1t-wiring.jpg?resize=720,480",
+        "image_width": 480,
+        "image_height": 720
+      },
+      "webpage": {
+        "text": "Rivian is more tech company than car company, and that's a good thing\n\nThe car world is kind of split right now. There are the legacy automakers — the ones you know and love — but there are also the new startups building all-new kinds of cars. The first of that new generation of car companies was Tesla, and obviously by now it’s certainly not a startup. But over the past decade or so others have popped up. There’s Lucid, which builds ultra-premium EVs, and, of course, there’s Rivian, which has secured its spot as the go-to for those who want a more rugged EV.\n\nI was recently able to tour Rivian’s Palo Alto location and one thing became clear. The divide between traditional carmakers and the new startups is much deeper than just when they were founded. Companies like Rivian, in fact, are actually tech companies, that built high-quality computers that happen to have wheels on them.\n\nIt sounds like a put-down, but it’s not. For all the problems with computers, and all the risks of bringing those problems into such a critical environment, computers are clearly the future of personal transportation — and until legacy automakers stop thinking about their cars as cars, and more as computers, they’re doomed to lag behind the new kids on the block.\n\n\nComputers…but not too many computers\n\nRivian’s first-generation vehicles were hailed for their quality and performance, but earlier this year, the company shifted to its second-generation architecture. The core of that change? More features and smarter software. You’d think this would require more computers under the hood, but on the contrary, Rivian managed to shrink the number down, by a significant margin. While its first-generation platform was made up of 17 Electronic Control Units (ECUs), second-gen models only have seven.\n\nThe key to that change comes down to a switch to a zonal architecture, instead of a domain-based architecture. The general gist is that instead of different functions in the car being handled by different ECUs, different areas of the car are handled by different ECUs. Three of the seven ECUs in current Rivian vehicles are zone-based, called the west zone, east zone, and south zone. These ECUs handle all the basic tasks of the vehicle, with the other four handling more mission-critical tasks, like infotainment and autonomy.\n\nThis results in some pretty major improvements. For starters, a zonal architecture means wires don’t necessarily have to be run back and forth between all the different ECUs, and Rivian says that it was able to shrink down the wiring in its second-gen vehicles by a massive 1.6 miles, and 44 pounds. The different is obvious in person — simply far less wires spider-webbing their way around the frame of the car. And, fewer wires and computers means fewer points of failure, which is always helpful.\n\nOf course, the computers in the vehicle are more powerful, too. Rivian sources chips from both Rivian and Qualcomm for different aspects of its cars, aiming for both fast and responsive software now, and enough headroom for fast and responsive software after years of updates.\n\n\nSoftware in a pretty box\n\nAt the All Things D conference in 2010 Steve Jobs explained that essentially, Apple is a software company, and that while it puts its software in a beautiful box, its most successful products are successful because of the software. Arguably, Rivian, like other modern EV manufacturers, is the same.\n\nNow, of course, modern cars are a little more complicated than that. Software can’t give the tri-motor Rivian R1T 850 horsepower, after all. But, it’s hard to imagine Toyota being able to deliver the same experience as Rivian, even if it did come up with the exact same design and have the same powertrain.\n\nTo be clear, software in a vehicle like the R1S or R1T is much more than just infotainment, though offering good infotainment software is crucial too. There are plenty of things I like about Rivian’s infotainment software, like the simple interface, the modern design, and the decent smartphone integration despite the lack of CarPlay and Android Auto. There are also things I don’t love about it — I wish you didn’t have to open menus to access climate settings, and the lack of CarPlay or Android Auto means you might have to rely on basic Bluetooth for some streaming apps. But you can’t deny that Rivian and Tesla’s infotainment software is head-and-shoulders above any legacy automaker.\n\nThe software also obviously relates to what’s happening in the background, using data from all the sensors and cameras dotted around the vehicle. For now, that software is closer to what the legacy automakers offer. The autonomous features are capped at the ability to drive hands-free on the highway, blind spot monitoring, and so on — features that others offer too. But, Rivian has announced “eyes-free” highway driving for 2026, and seemingly, its switch to a zonal architecture could help it accelerate its autonomy-related goals too. We’ll have to see though.\n\n\nSetting the stage\n\nCompetition is finally coming though. EV companies like Rivian and Tesla have been ahead of the game from a tech perspective for some time now, but the thought-process at the legacy carmakers is starting to change. That’s perhaps best embodied by Volkswagen’s decision to partner with Rivian, which will see future Volkswagen vehicles, like the new ID.1, get software that’s based on Rivian’s. Other carmakers are leaning into software more too, though to be fair, most of them still seem to think they can build decent software on their own (so far, it has never been better than “fine”).\n\nBut the shift will come. Rivian may be small, but Tesla is another software company, and the market share of these new companies is likely to continue to grow. Hopefully the result of this pressure will make traditional carmakers seriously step up their game.",
+        "metadata": {
+          "title": "Rivian is more tech company than car company, and that&#039;s a good thing - Digital Trends",
+          "keywords": "Cars,Rivian",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Rivian is more tech company than car company, and that’s a good thing",
+          "og:description": "The car world is kind of split right now. There are the legacy automakers — the ones you know and love — but there are also the new startups building all-new kinds of cars. The first of that new generation of car companies was Tesla, and obviously by now it’s certainly not a startup. But […]",
+          "og:url": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/",
+          "og:site_name": "Digital Trends",
+          "og:image": "https://www.digitaltrends.com/tachyon/2024/07/rivian-r1s.jpg?resize=1200%2C630",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:type": "image/jpeg",
+          "author": "Christian de Looper",
+          "article:published_time": "2025-03-19T14:50:00-07:00",
+          "article:modified_time": "2025-03-19T14:50:00-07:00",
+          "fb:app_id": "803626527068006"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/",
+              "url": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/",
+              "name": "Rivian is more tech company than car company, and that's a good thing - Digital Trends",
+              "isPartOf": {
+                "@id": "https://www.digitaltrends.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.digitaltrends.com/tachyon/2024/07/rivian-r1s.jpg?fit=2000%2C1333",
+              "datePublished": "2025-03-19T21:50:00+00:00",
+              "author": {
+                "@id": "https://www.digitaltrends.com/#/schema/person/8b4d8a8635759063eda45e4e533ded86"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/"
+                  ]
+                }
+              ],
+              "speakable": {
+                "@type": "SpeakableSpecification",
+                "xpath": [
+                  "/html/head/title"
+                ]
+              }
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.digitaltrends.com/cars/rivian-is-more-tech-company-than-car-company-and-thats-a-good-thing/#primaryimage",
+              "url": "https://www.digitaltrends.com/tachyon/2024/07/rivian-r1s.jpg?fit=2000%2C1333",
+              "contentUrl": "https://www.digitaltrends.com/tachyon/2024/07/rivian-r1s.jpg?fit=2000%2C1333",
+              "width": 2000,
+              "height": 1333,
+              "caption": "Rivian R1S Gen 2."
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.digitaltrends.com/#website",
+              "url": "https://www.digitaltrends.com/",
+              "name": "Digital Trends",
+              "description": "Tech Product Reviews, How To, Best Ofs, deals and Advice",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.digitaltrends.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://www.digitaltrends.com/#/schema/person/8b4d8a8635759063eda45e4e533ded86",
+              "name": "Christian de Looper",
+              "description": "Christian de Looper is a long-time freelance writer who has covered every facet of the consumer tech and electric vehicle space over the past decade-plus. Christian's byline can be found in the largest and most influential consumer tech publications on the internet. He got his start covering mobile for Talk Android, then moving to a five-year stint as a mobile contributor at Digital Trends, covering new smartphones, the rise and rollout of 5G, and the many mergers and attempted telecom mergers that took place during that time. During that time, he also covered mobile technology for the likes of TechRadar, and began covering other areas of the consumer tech industry. Today, he covers automotive and electric vehicles for Digital Trends, including all the latest and greatest EVs and everything that happens in the EV industry. He also covers personal audio for PCMag, smart home and home theater for Tom's Guide, consumer tech reviews for BGR, and general consumer technology for Forbes Vetted, and tech design for Design Milk. Since 2012 when he first began writing about consumer technology, he has also appeared in publications like Lifewire, Mashable, US News &amp; World Report, AP Buyline, and CNN Underscored. He’s attended all the biggest trade shows in the industry, including CES, MWC, and IFA, and personally reviewed all the biggest and most important gadgets over the past ten years. Christian studied music production at a small music school in Minnesota, where he both learned how to produce music and discovered his passion for writing. In college, he found himself wanting a job, but couldn’t go to one in person without a car or a driver’s license — so he turned to online work. He soon started writing for small phone blogs (his first big gig was at Talk Android), building his byline over time. Christian's lack of a driver's license wasn't because of a poor driving ability. He spent the first 14 years of his life in Canberra, Australia, where he spent hours on his PlayStation 2 and honing his drumming skills. After his father got a job in Paris, France, Christian spent the next five years of his life there, learning French and developing an interest in music production. In Paris, he graduated from high school, and with the U.S. citizenship that he got through his American mother, he soon moved to Minnesota to pursue a higher education in music technology. After college, Christian moved to Los Angeles but eventually settled in Santa Cruz, California, where he now lives with his wife, daughter, and cat. When he's not hanging out with his family or working, he can be found playing PlayStation or developing a new hobby (his latest is leather-working). Oh, and he's a pretty good driver now too.",
+              "sameAs": [
+                "https://x.com/cdelooper"
+              ],
+              "knowsAbout": [
+                "https://www.digitaltrends.com/topic/5g/",
+                "https://www.digitaltrends.com/topic/amazon/",
+                "https://www.digitaltrends.com/mobile/android/",
+                "https://www.digitaltrends.com/topic/apple/",
+                "https://www.digitaltrends.com/computing/artificial-intelligence/",
+                "https://www.digitaltrends.com/topic/buying-guides/",
+                "https://www.digitaltrends.com/mobile/carriers/",
+                "https://www.digitaltrends.com/topic/cool-tech/",
+                "https://www.digitaltrends.com/topic/facebook/",
+                "https://www.digitaltrends.com/topic/features/",
+                "https://www.digitaltrends.com/topic/google/",
+                "https://www.digitaltrends.com/topic/google-nest/",
+                "https://www.digitaltrends.com/topic/health-fitness/",
+                "https://www.digitaltrends.com/cars/hyundai/",
+                "https://www.digitaltrends.com/topic/ifa/",
+                "https://www.digitaltrends.com/computing/lenovo/",
+                "https://www.digitaltrends.com/topic/lg/",
+                "https://www.digitaltrends.com/topic/microsoft/",
+                "https://www.digitaltrends.com/topic/mwc/",
+                "https://www.digitaltrends.com/topic/motorola/",
+                "https://www.digitaltrends.com/topic/oneplus/",
+                "https://www.digitaltrends.com/mobile/apps/",
+                "https://www.digitaltrends.com/topic/qualcomm/",
+                "https://www.digitaltrends.com/topic/week-in-ev/",
+                "https://www.digitaltrends.com/topic/samsung/",
+                "https://www.digitaltrends.com/topic/news/",
+                "https://www.digitaltrends.com/cars/tesla/",
+                "https://www.digitaltrends.com/topic/twitter/",
+                "https://www.digitaltrends.com/topic/versus/",
+                "https://www.digitaltrends.com/topic/virtual-reality/",
+                "https://www.digitaltrends.com/topic/youtube/",
+                "https://www.digitaltrends.com/android/",
+                "https://www.digitaltrends.com/apple/",
+                "https://www.digitaltrends.com/home-theater/",
+                "https://www.digitaltrends.com/business/",
+                "https://www.digitaltrends.com/buying-guides/",
+                "https://www.digitaltrends.com/cars/",
+                "https://www.digitaltrends.com/computing/",
+                "https://www.digitaltrends.com/cool-tech/",
+                "https://www.digitaltrends.com/movies/",
+                "https://www.digitaltrends.com/gaming/",
+                "https://www.digitaltrends.com/health-fitness/",
+                "https://www.digitaltrends.com/mobile/",
+                "https://www.digitaltrends.com/music/",
+                "https://www.digitaltrends.com/phones/",
+                "https://www.digitaltrends.com/photography/",
+                "https://www.digitaltrends.com/home/",
+                "https://www.digitaltrends.com/social-media/",
+                "https://www.digitaltrends.com/tablets/",
+                "https://www.digitaltrends.com/virtual-reality/",
+                "https://www.digitaltrends.com/wearables/",
+                "https://www.digitaltrends.com/web/"
+              ],
+              "url": "https://www.digitaltrends.com/users/delooper/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Visite du site de Rivian à Palo Alto soulignant que l'entreprise fonctionne davantage comme une entreprise technologique que comme un constructeur automobile traditionnel, notamment en transitionnant vers une architecture zonale et en réduisant le nombre d'unités de contrôle électronique (ECU).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Palo Alto"
+        ],
+        "ORGANIZATION": [
+          "Rivian",
+          "Digital Trends",
+          "Tesla",
+          "Lucid",
+          "Qualcomm"
+        ],
+        "DATE": [
+          "past decade",
+          "earlier this year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Electronic Control Units",
+          "ECUs"
+        ]
+      },
+      "score_e5": 0.7614019521411591
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Detroit"
+    ],
+    "ORGANIZATION": [
+      "Google"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "self-driving car"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Dieter Zetsche",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kara Swisher",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Liz Gannes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Silicon Valley",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mountain View",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Detroit",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Palo Alto",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Robohub",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Toyota",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Smart",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Apple",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Daimler",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Autoguide.com",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Welt am Sonntag",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mercedes-Benz",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Darpa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lexus",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nissan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Recode",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "clicccar.com",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rivian",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Digital Trends",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tesla",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lucid",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Qualcomm",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "28 May 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early 2000s",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "five-year-old",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past decade",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "earlier this year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Darpa Grand Challenges",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LIDAR",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "S-Class",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Electronic Control Units",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "ECUs",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:24:03.986523"
+  }
+}

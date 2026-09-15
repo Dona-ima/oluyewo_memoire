@@ -1,0 +1,735 @@
+{
+  "id_rumeur": 189784,
+  "id_image": 189784,
+  "caption": "A vehicle is partly submerged in floodwaters in Srinagar India",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757326/oluyewo_benchmark/ftzeul3pcwzx0rfa0ymv.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "BBC News - In pictures: Deadly Kashmir floods",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/news/world-asia-india-29105658",
+      "image_url": "https://news.bbcimg.co.uk/media/images/77442000/jpg/_77442572_77442571.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4-n4DCNggsuUgvH1p-_f5-hVdkn7A0IhWN4UsC0Ry4-eXyfS3",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "BBC News - In pictures: Deadly Kashmir floods",
+        "link": "https://www.bbc.co.uk/news/world-asia-india-29105658",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEX___8AAABDQ0PQ0NA_Pz_l5eXT09PW1tYZGRnf39_5-fn29vbZ2dnp6elSUlJiYmJoaGgQEBA7OzsJnrLuAAAAW0lEQVQ4je2Quw7AIAgArQKKb_3_j60Vk45uTt50ITcASl2O4a2ZWB-iWAz_bAQpgx5AQa5ilbGI5TQCbM-kM4EYEHexhl_g1phJi2nilbpTwW7J7ZnbR10O8QLINgU5f1dY_AAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4-n4DCNggsuUgvH1p-_f5-hVdkn7A0IhWN4UsC0Ry4-eXyfS3",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://news.bbcimg.co.uk/media/images/77442000/jpg/_77442572_77442571.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "8 September 2014 Last updated at 06:40\n\nThe worst floods in Indian-administered Kashmir in half a century have killed at least 150 people and left the main city of Srinagar under water, as residents are evacuated or retreat to their rooftops.\n\nSome 350 villages are also under water after late-monsoon rains hit the region. Across the border, in Pakistan, floods and house collapses have left more than 180 people dead.\n\n\nFive days of heavy rain abated over the weekend, but flood waters in Srinagar have risen dramatically. The Jhelum river has flooded large parts of the city and forced residents onto rooftops.\n\n\nResidents have waded through neck-deep waters with their belongings. Kashmir's Chief Minister Omar Abdullah said the floods were \"unprecedented\" but urged residents not to panic, saying rescuers would eventually reach them.\n\n\nA police official in Srinagar told the AFP news agency that he feared the extent of the devastation was not yet known because phone networks were down and areas cut off. The army headquarters is also under water along with some government buildings.\n\n\n\"Many people may have died and houses collapsed but we are not getting to know much,\" the police officer said, describing the situation as \"catastrophic\".\n\n\nThe flooding is being described as the area's worst in five decades.\n\n\nIndia's defence ministry said thousands of soldiers, backed by 25 helicopters and seven aircraft, are engaged in rescue work and delivering blankets, tents and other relief across the Kashmir valley. More than 14,800 people have been rescued so far, and 50 army medical teams have been deployed, the ministry said.\n\n\nTouring the region, Indian Prime Minister Narendra Modi declared the floods a \"national level disaster\" and promised almost $200m in aid and compensation. Mr Modi has also written to his Pakistani counterpart, Nawaz Sharif, offering his \"deepest sympathies\" to flood-hit victims on that side of the border and offering help.",
+        "metadata": {
+          "title": "BBC News - In pictures: Deadly Kashmir floods",
+          "Description": "The worst floods in Indian-administered Kashmir in half a century have killed at least 150 people and left Srinagar under water, as residents are evacuated or retreat to their rooftops.",
+          "rnews:description": "The worst floods in Indian-administered Kashmir in half a century have killed at least 150 people and left Srinagar under water, as residents are evacuated or retreat to their rooftops.",
+          "rnews:datePublished": "2014/09/08 05:40:31",
+          "rnews:thumbnailUrl": "//news.bbcimg.co.uk/media/images/77442000/jpg/_77442702_77442571.jpg",
+          "rnews:headline": "In pictures: Deadly Kashmir floods",
+          "rnews:creator": "//www.bbc.co.uk#org",
+          "og:title": "In pictures: Deadly Kashmir floods",
+          "og:type": "article",
+          "og:url": "//www.bbc.co.uk/news/world-asia-india-29105658",
+          "og:site_name": "BBC News",
+          "og:image": "http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les pires inondations en un demi-siècle au Cachemire administré par l'Inde ont fait au moins 150 morts, laissant la principale ville de Srinagar sous l'eau et quelque 350 villages submergés après des pluies de fin de mousson. De l'autre côté de la frontière, au Pakistan, les inondations et effondrements de maisons ont fait plus de 180 morts. Le fleuve Jhelum a inondé de grandes parties de Srinagar, forçant les résidents à se réfugier sur les toits et à patauger dans des eaux jusqu'au cou. Le Premier ministre indien Narendra Modi a qualifié les inondations de catastrophe nationale et promis près de 200 millions de dollars d'aide et de compensation, tout en écrivant à son homologue pakistanais Nawaz Sharif pour offrir sa sympathie et son aide.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Omar Abdullah",
+          "Narendra Modi",
+          "Nawaz Sharif"
+        ],
+        "LOCATION": [
+          "Kashmir",
+          "India",
+          "Srinagar",
+          "Pakistan"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "AFP",
+          "India's defence ministry"
+        ],
+        "DATE": [
+          "8 September 2014",
+          "weekend"
+        ],
+        "EVENT": [
+          "Kashmir floods"
+        ],
+        "OTHER": [
+          "helicopters",
+          "aircraft"
+        ]
+      },
+      "score_e5": 0.7807962256699418
+    },
+    {
+      "titre": "Why the Kashmir Floods Have Been So Deadly – Mother Jones",
+      "source": "Mother Jones",
+      "lien": "https://www.motherjones.com/environment/2014/09/kashmir-floods-why-deadly-india/",
+      "image_url": "https://www.motherjones.com/wp-content/uploads/kashmir.jpg?w=990",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrqdeZsfdGk9jc38WQfDRl0zQ5HLoZKXEwo097tVD_xC3vf2zd",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Why the Kashmir Floods Have Been So Deadly – Mother Jones",
+        "link": "https://www.motherjones.com/environment/2014/09/kashmir-floods-why-deadly-india/",
+        "source": "Mother Jones",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAt1BMVEX____ybCbyayfyaijvU0DvUkHvUkL2lmn0hHX83tbvVT7wVj3yaCrwWzjwWTr83dfxZS3xYjDxXzTwXDb84NT1jWz0im_0iHH5wLbzdjv1kWf4ro_-9PD1j2r95Nr4rJH71Mb3qZT3ppfycmH1iVf0fkf3nXX-7-j5vqXydEH7z730g1f3ooPxZzX4sZjzd0z0iGP6xLL2mXvzfFzxZED71s71kH7wXkfzemrxa1j3pp34san1lIpRuPraAAABSElEQVQ4jYXSiXKCMBAA0PSGEBAFFc8WscXa1lY8qMf_f1f3QIlAZWeyu5l9MCGDuKkJcVsT4q4mEPSeOKZ5-zrF3EOglOoLDl-pt6wd-Jj7MNRBrNSgDFzXPQHoZ5cAhhfg3Z1fBx-uXwlGuBnCGrkxNxkYIWg2mwTGsD6_skY8M4DhGbzAWnxnTSWAVy9_oFmWQRs3GxNQAkeY5aCNoNVqETDhyXHIVYjQJADDHIT89LwCdAgkfMCFBjoIPM9jsOLLSHQAwxys-Q5X_wIvJrAuAtu2GdgbunE70AAMEXQZBFqZEOgicByHQMOZYAkcBg0CMNTAliZXQIRlWwKWZTGwUiyRpQMYIjAYWPidqQ4MBFJKBlLCd8ZS6gCGCFID4lfK6JQNYxefwX0xdpjoPMKATjwUYx9BOhLATjwW4zA8HPf0a4sUtn_lWCb5MYUSigAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrqdeZsfdGk9jc38WQfDRl0zQ5HLoZKXEwo097tVD_xC3vf2zd",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.motherjones.com/wp-content/uploads/kashmir.jpg?w=990",
+        "image_width": 354,
+        "image_height": 630
+      },
+      "webpage": {
+        "text": "Why the Kashmir Floods Have Been So Deadly – Mother Jones\n\nFlooding in India-controlled Kashmir, September 7, 2014. Javed Dar/Xinhua/Zuma Wire\n\nGet your news from a source that’s not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\n\nThis story originally appeared in CityLab and is republished as part of the Climate Desk collaboration.\n\nJunaid Rashid finally got his father on the phone today. For the past six days, he had no idea if his family in Srinagar city was safe. Rashid’s family and an estimated 600,000 others have been stranded in India’s flooded Kashmir region for the past week.\n\n“In my 30 years, I haven’t seen a flood like this,” says Rashid, a doctor based in Delhi. An estimated 200 people have lost their lives on the Indian side of the contested border (another 250 or more are estimated to have died on the Pakistani side). As rescue operations continue, the number is only going up.\n\nHow can there have been so many fatalities in a region long known to be flood-prone?\n\nIt happened because of a combination of urban policy and program failures, says Himanshu Thakkar, coordinator at the South Asia Network on Dams, Rivers and People.\n\nThe flood zones surrounding the waterways that run through the Kashmir region are not clearly demarcated based on how much flood load the river can carry. Because of this, no clearly defined rules or regulations exist about where it’s safe to build. The result is what Thakkar calls “encroachment” of the river bed—residential and government buildings (even hospitals) have been cropping up on vulnerable areas near the Jhelum River. The river “embankments,” meant to stop the flooding, only give a “false sense of security,” he says, enabling more careless building.\n\nLocal water bodies such as lakes have also been neglected, and so their water-holding capacity is negligible. Existing and future hydropower projects are partly responsible.\n\n“These projects, all of them involve damming of rivers, submergence, deforestation, tunneling of the rivers, blasting, diversion of the rivers,” Thakkar says. All of those processes increase the possibility of landslides and flash-floods.\n\nThe problem lies in the way government and builders in India have been intervening in traditional urban planning and management practices, says Saleem Beg of the Indian National Trust for Art and Culture Heritage.\n\nIn the past, only those who had river-related occupations tended to live by the river and evacuate immediately at the first flood warning. Residential areas, including villages, in this region were traditionally built on higher ground. Natural topography was used to divert flood water, and simple early-warning systems were in place, he says.\n\nNow, those traditional systems have been “given a pass,” he says. Lands that once acted as natural flood sinks are now home to growing residential communities, and the waterways have been turned into roads in the name of development.\n\nVillages consisting of flimsy infrastructure have been built on these lowlands, he says. At least 450 of them are now under water.”We don’t know what they’re doing, what they’re eating, how they’re surviving, Beg says. “People have no idea because everything is televised, the televised thing looks good. The problem is beneath that—where television doesn’t reach.”\n\nThe government’s meteorological department did issue a warning starting September 2, but either people didn’t hear about it or they didn’t realize how serious it could become. And once floods were in full-force, the rescue efforts were criticized for being late.\n\nThere is no concept of disaster management in place, Beg says. The National Disaster Management Authority doesn’t function at the local level and faces bureaucratic stalemate at the national level (the authority could not be reached for comment.)\n\nSome progress has been made, though. So far, the government’s National Disaster Response Force and the Army has rescued 100,000 people. Rashid’s father told him that rescue helicopters have been circling around every hour, relaying supplies. The water has been receding in places and some phone lines are back up.\n\nBeg’s own mother was rescued two days into the flood, but he says it was a matter of chance more than anything else.\n\nNobody planned it, it just happens that the boat was going by and they caught on to it.”",
+        "metadata": {
+          "title": "Why the Kashmir Floods Have Been So Deadly &#8211; Mother Jones",
+          "sailthru.title": "Why the Kashmir Floods Have Been So Deadly",
+          "sailthru.description": "The disaster highlights the cost of careless urban planning and environmental mismanagement.",
+          "parsely-title": "Why the Kashmir Floods Have Been So Deadly",
+          "parsely-author": "Tanvi Misra",
+          "og:url": "https://www.motherjones.com/environment/2014/09/kashmir-floods-why-deadly-india/",
+          "og:type": "article",
+          "og:title": "Why the Kashmir floods have been so deadly.",
+          "og:description": "The disaster highlights the cost of careless urban planning and environmental mismanagement.",
+          "og:image": "https://www.motherjones.com/wp-content/uploads/kashmir.jpg?w=1200&h=630&crop=1",
+          "article:published": "2014-09-12T18:42:04-04:00",
+          "article:modified": "2017-06-24T09:39:36-04:00",
+          "article:section": "Environment",
+          "article:tag": "International",
+          "article:author": "Tanvi Misra",
+          "og:site_name": "Mother Jones",
+          "fb:pages": "111917028836008",
+          "twitter:url": "https://www.motherjones.com/environment/2014/09/kashmir-floods-why-deadly-india/",
+          "twitter:site": "@Motherjones",
+          "twitter:card": "summary_large_image",
+          "wordcount": "659",
+          "description": "The disaster highlights the cost of careless urban planning and environmental mismanagement."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Inondations dans le Cachemire contrôlé par l'Inde le 7 septembre 2014, entraînant le déplacement ou le blocage de nombreux habitants, dont Junaid Rashid et sa famille à Srinagar. Environ 200 personnes ont perdu la vie du côté indien et plus de 250 du côté pakistanais. Himanshu Thakkar du South Asia Network on Dams, Rivers and People attribue la gravité du bilan à des défaillances de politique urbaine et à l'empiècement sur le lit des rivières, tandis que Saleem Beg de l'Indian National Trust for Art and Culture Heritage évoque l'abandon des pratiques traditionnelles d'urbanisme.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Junaid Rashid",
+          "Himanshu Thakkar",
+          "Saleem Beg"
+        ],
+        "LOCATION": [
+          "India",
+          "Kashmir",
+          "Srinagar",
+          "Delhi",
+          "Pakistan",
+          "Jhelum River"
+        ],
+        "ORGANIZATION": [
+          "Mother Jones",
+          "Xinhua",
+          "Zuma Wire",
+          "South Asia Network on Dams, Rivers and People",
+          "Indian National Trust for Art and Culture Heritage"
+        ],
+        "DATE": [
+          "September 7, 2014",
+          "30 years",
+          "past week"
+        ],
+        "EVENT": [
+          "Kashmir floods"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7687739973133407
+    },
+    {
+      "titre": "Floods swamp Mumbai after month's worth of rain falls in a ...",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/news/asia/south-asia/article/2108943/floods-swamp-mumbai-after-months-worth-rain-fell-single-day",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/images/methode/2017/08/30/43903480-8d47-11e7-9f40-4d9615941c08_1280x720_141139.jpg?itok=HyA4JZ-d",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9GsWAvztfgsDJUBl4XKLiy6Z35EHRpPZ206Lrmc6r7cwo-TSG",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Floods swamp Mumbai after month's worth of rain falls in a ...",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/2108943/floods-swamp-mumbai-after-months-worth-rain-fell-single-day",
+        "source": "South China Morning Post",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcEz-_v7-_v7-_v7-_v7_ygL___8AGVQAAEv_45aWmqyVmqux_VYvAAAABXRSTlMA7oD2d5l5iZ4AAAA4SURBVDiNY2AYOYCFmRELYGaBK2BiwwqYkBRwskIBGxs7BHBwEVLATbEJowpoE9QEoptgghn-AAD_Hwk3Zp2AlAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9GsWAvztfgsDJUBl4XKLiy6Z35EHRpPZ206Lrmc6r7cwo-TSG",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/images/methode/2017/08/30/43903480-8d47-11e7-9f40-4d9615941c08_1280x720_141139.jpg?itok=HyA4JZ-d",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Floods swamp Mumbai after month’s worth of rain falls in a single day\n\nTwo toddlers were among at least six people who died after floods caused by heavy seasonal monsoon rains destroyed homes and disrupted traffic in India’s financial capital, police said on Wednesday.\n\nSome people were forced to abandon their submerged cars to walk home through flooded streets in Mumbai, a city of 20 million people after it received nearly a month’s equivalent of rainfall in a single day.\n\nHundreds of others were stranded at railway stations, waiting for rescue workers to help them go back home as authorities ordered schools and colleges to shut following forecasts of more rain.\n\nNavy helicopters have been kept on standby with flood rescue teams and divers also ready for deployment.\n\n“I had to stay the night at my office since train services were cancelled. My son also could not get home because of the heavy flooding,” Vijaya Das, who works for the Reserve Bank of India, said.\n\n\nPolice said a 45-year-old woman and a 1-1/2-year-old child, members of the same family, died after their home in the northeastern suburb of Vikhroli crumbled late on Tuesday, while a 2-year-old girl died in a wall collapse.",
+        "metadata": {
+          "description": "Commuter trains shut down, buses were half-submerged under water and even the deluged airport had to divert flights to other cities",
+          "fb:app_id": "282931841805811",
+          "og:title": "Torrential rains bring India’s financial hub Mumbai to a halt",
+          "og:description": "Commuter trains shut down, buses were half-submerged under water and even the deluged airport had to divert flights to other cities",
+          "og:url": "https://www.scmp.com/news/asia/south-asia/article/2108943/floods-swamp-mumbai-after-months-worth-rain-fell-single-day",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/images/methode/2017/08/30/43903480-8d47-11e7-9f40-4d9615941c08_image_hires_141139.jpg?itok=TC8SINbi&v=1504073504",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "Mumbai, weather, floods, rain",
+          "news_keywords": "Mumbai, weather, floods, rain",
+          "article:section": "South Asia",
+          "article:tag": "India",
+          "article:published_time": "2017-08-30T14:11:30+08:00",
+          "article:modified_time": "2017-08-30T14:11:43+08:00",
+          "cXenseParse:author": "Agencies",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2017/08/30/43903480-8d47-11e7-9f40-4d9615941c08_image_hires_141139.jpg?itok=9kJ4Xi8a&v=1504073504",
+          "al:ios:url": "scmp://news/asia/south-asia/article/2108943/floods-swamp-mumbai-after-months-worth-rain-fell-single-day?entity=node&type=article&id=2108943",
+          "al:android:url": "scmp://news/asia/south-asia/article/2108943/floods-swamp-mumbai-after-months-worth-rain-fell-single-day?entity=node&type=article&id=2108943"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des inondations ont frappé Bombay (Mumbai) après qu'un mois de pluie est tombé en un seul jour, causant la mort d'au moins six personnes, dont deux enfants, suite à la destruction de maisons et aux perturbations de la circulation. Des habitants ont dû abandonner leurs voitures submergées et d'autres ont été bloqués dans les gares, entraînant la fermeture des écoles et collèges. Des hélicoptères de la marine et des équipes de secours ont été mis en attente.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Vijaya Das"
+        ],
+        "LOCATION": [
+          "Mumbai",
+          "India",
+          "Vikhroli"
+        ],
+        "ORGANIZATION": [
+          "South China Morning Post",
+          "Reserve Bank of India"
+        ],
+        "DATE": [
+          "Wednesday",
+          "single day",
+          "Tuesday"
+        ],
+        "EVENT": [
+          "monsoon rains"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.779681646521772
+    },
+    {
+      "titre": "India's Mars millions are misplaced | India | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2014/sep/25/indias-mars-millions-misplaced",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/25/1411666201744/Floods-in-Kashmir-014.jpg?width=700&quality=85&auto=format&fit=max&s=0ede5e6409df118fdded647b9cfd5e68",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1a9KswRjEWstzxJK0A5a7q80-GK8NjzSmHmDmz6r7JTjK4BeO",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "India's Mars millions are misplaced | India | The Guardian",
+        "link": "https://www.theguardian.com/world/2014/sep/25/indias-mars-millions-misplaced",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8f030f69a322cad803c481/images/5j9ukJ2xWTJXQuBSIC4djn19J7UOZcMQUghdViacoqA.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1a9KswRjEWstzxJK0A5a7q80-GK8NjzSmHmDmz6r7JTjK4BeO",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/25/1411666201744/Floods-in-Kashmir-014.jpg?width=700&quality=85&auto=format&fit=max&s=0ede5e6409df118fdded647b9cfd5e68",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "India’s Mars millions are misplaced | India\n\nFor the past few weeks, since the floods, a Kashmiri friend of mine in Srinagar has been living with his wife, son, mother and grandmother on the floor of his local mosque – his house was destroyed by a wall of water he said was like a tsunami. Thousands are homeless and people are dying; the NGOs in the area are doing what they can to help, but the Indian government has done nothing – at the same time as it’s managed to find £45m to send a spaceship to Mars (Report, 25 September).\nLiz Turner\nLondon",
+        "metadata": {
+          "title": "India’s Mars millions are misplaced | India | The Guardian",
+          "description": "<strong>Letters: </strong>Thousands are homeless and people are dying but the Indian government has done nothing – at the same time as it’s managed to find £45m to send a spaceship to Mars",
+          "og:url": "http://www.theguardian.com/world/2014/sep/25/indias-mars-millions-misplaced",
+          "article:author": "Guardian Staff",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/25/1411666201744/Floods-in-Kashmir-014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=6be0ad222329aa9ea07a7dcdd177746c",
+          "al:ios:url": "gnmguardian://world/2014/sep/25/indias-mars-millions-misplaced?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "India’s Mars millions are misplaced | @guardianletters",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2018-02-14T21:43:40.000Z",
+          "og:image:height": "720",
+          "og:description": "Letters: Thousands are homeless and people are dying but the Indian government has done nothing – at the same time as it’s managed to find £45m to send a spaceship to Mars",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2014-09-25T18:30:31.000Z",
+          "article:tag": "India,World news,Aid,Society,Flooding,Natural disasters and extreme weather,Environment,Space",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Depuis les inondations au Cachemire, un habitant de Srinagar s'est réfugié avec sa famille dans une mosquée locale après la destruction de sa maison par une vague semblable à un tsunami. Malgré des milliers de sans-abri et de décès, le gouvernement indien n'a rien fait selon un témoignage, tout en finançant une mission spatiale vers Mars pour 45 millions de livres.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Liz Turner"
+        ],
+        "LOCATION": [
+          "Srinagar",
+          "India",
+          "London",
+          "Mars"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "NGOs"
+        ],
+        "DATE": [
+          "25 September"
+        ],
+        "EVENT": [
+          "floods"
+        ],
+        "OTHER": [
+          "spaceship"
+        ]
+      },
+      "score_e5": 0.8010800015817283
+    },
+    {
+      "titre": "New Delhi races to open jammed flood gates as river surge ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/world/india/new-delhi-sees-flooding-after-broken-regulator-causes-river-water-flow-into-city-2023-07-14/",
+      "image_url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XXHGLV3QWJKUDNRGOQ5HGSKI3A.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_CjhRHOLYGzzmI91C_RekJljpovzaGXdtXMje6yZ3GRtxfcW_",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "New Delhi races to open jammed flood gates as river surge ...",
+        "link": "https://www.reuters.com/world/india/new-delhi-sees-flooding-after-broken-regulator-causes-river-water-flow-into-city-2023-07-14/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_CjhRHOLYGzzmI91C_RekJljpovzaGXdtXMje6yZ3GRtxfcW_",
+        "thumbnail_width": 182,
+        "thumbnail_height": 277,
+        "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XXHGLV3QWJKUDNRGOQ5HGSKI3A.jpg",
+        "image_width": 3564,
+        "image_height": 5428
+      },
+      "webpage": null,
+      "texte_contexte": "New Delhi fait face à des inondations après qu'un régulateur cassé a provoqué l'écoulement d'eau de rivière dans la ville, poussant New Delhi à s'activer pour ouvrir des vannes de régulation bloquées.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "New Delhi"
+        ],
+        "ORGANIZATION": [
+          "Reuters"
+        ],
+        "DATE": [
+          "2023-07-14"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7868028267753343
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Srinagar",
+      "India"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "vehicle"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Omar Abdullah",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Narendra Modi",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nawaz Sharif",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Junaid Rashid",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Himanshu Thakkar",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Saleem Beg",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vijaya Das",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Liz Turner",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kashmir",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Srinagar",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pakistan",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Delhi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jhelum River",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mumbai",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vikhroli",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mars",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Delhi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "India's defence ministry",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mother Jones",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Xinhua",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Zuma Wire",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South Asia Network on Dams, Rivers and People",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Indian National Trust for Art and Culture Heritage",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South China Morning Post",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reserve Bank of India",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NGOs",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "8 September 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "weekend",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 7, 2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "past week",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "single day",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "25 September",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2023-07-14",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Kashmir floods",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "monsoon rains",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "floods",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "helicopters",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "aircraft",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "spaceship",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T22:11:06.752248"
+  }
+}

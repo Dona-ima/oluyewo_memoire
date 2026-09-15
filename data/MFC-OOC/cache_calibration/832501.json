@@ -1,0 +1,633 @@
+{
+  "id_rumeur": 832501,
+  "id_image": 174557,
+  "caption": "A group of Syrian refugees gather in Independence Square in Montevideo Uruguay on Monday The refugees who were welcomed last year are demanding to be allowed to leave",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748474/oluyewo_benchmark/ncmoxr1e9mfuwngean0i.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Deadly Blasts Hit Turkish Capital Ankara - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/deadly-blasts-hit-turkish-capital-ankara-1444484807",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-KS026_1010tu_GR_20151010091602.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR37bSwN4BV9WU3FLtYf2PuhiznhZIaByGM9EIBhTcZlbcqbGLB",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Deadly Blasts Hit Turkish Capital Ankara - WSJ",
+        "link": "https://www.wsj.com/articles/deadly-blasts-hit-turkish-capital-ankara-1444484807",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR37bSwN4BV9WU3FLtYf2PuhiznhZIaByGM9EIBhTcZlbcqbGLB",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://s.wsj.net/public/resources/images/BN-KS026_1010tu_GR_20151010091602.jpg",
+        "image_width": 810,
+        "image_height": 1242
+      },
+      "webpage": null,
+      "texte_contexte": "Articles sur les attentats meurtriers dans la capitale turque, Ankara, publié par le Wall Street Journal.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Ankara",
+          "Turkey"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Deadly Blasts Hit Turkish Capital Ankara"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7277977502641122
+    },
+    {
+      "titre": "Turkey bombings: ISIS said to be focus of investigation | CNN",
+      "source": "CNN",
+      "lien": "https://www.cnn.com/2015/10/12/middleeast/turkey-ankara-bomb-blast",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/151010084534-15-ankara-blast-1010.jpg?q=w_5404,h_3039,x_0,y_0,c_fill/w_860",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH8YC3Mu9cmoUY9bRVEFOp9Gnp9sZxL1vO99JK3Pg1JSc6szJc",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Turkey bombings: ISIS said to be focus of investigation | CNN",
+        "link": "https://www.cnn.com/2015/10/12/middleeast/turkey-ankara-bomb-blast",
+        "source": "CNN",
+        "source_icon": "https://serpapi.com/searches/6a8efb5bf2593a9d4597db69/images/8X6S0Pk2NkM_-C-8wm8RoyS2JRwjqKHcM1B8Z1N0KHQ.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH8YC3Mu9cmoUY9bRVEFOp9Gnp9sZxL1vO99JK3Pg1JSc6szJc",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/151010084534-15-ankara-blast-1010.jpg?q=w_5404,h_3039,x_0,y_0,c_fill/w_860",
+        "image_width": 484,
+        "image_height": 860
+      },
+      "webpage": {
+        "text": "Turkey bombings: ISIS said to be focus of investigation\n\nStory highlights\n\nTurkish Prime Minister Ahmet Davutoglu points to ISIS in probe of weekend bombings\n\nTwo suicide bombers are believed to have carried out Ankara attack, Turkey says\n\nTurkish airstrikes reportedly kill up to 49 PKK members over weekend\n\nThough no group has claimed responsibility for the deadly weekend bombings in Ankara, the focus of the investigation is the Islamic extremist group ISIS, Turkey’s Prime Minister said Monday.\n\nTwo suicide bombers are believed to have carried out Saturday’s attack near Ankara’s main train station, killing at least 97 people and wounding nearly 250 others, Turkey has said.\n\nAuthorities have begun to collect DNA samples from relatives of those suspected of having joined ISIS to help identify possible suspects in the bombings, Turkey’s semiofficial Anadolu news agency reported.\n\nNot specifically identifying any group behind the act, Prime Minister Ahmet Davutoglu told Turkish television station NTV on Monday, “We investigate Daesh (ISIS) as our No. 1 priority. There (has) been good progress toward identifying a name. That name points to an organization.”\n\nDavutoglu said his country had come face to face with suicide bombers a long time ago. “This attack will not turn Turkey into a Syria,” he said.\n\nThe weekend blasts targeted crowds at a lunchtime peace rally calling for an end to the renewed conflict between the Kurdistan Workers’ Party, or PKK, and the Turkish government.\n\nKurdish forces have been battling ISIS jihadists across a swath of northern Iraq and Syria, and the Turkish government recently changed its stance to allow the United States to launch strikes on the militant group’s positions from Incirlik Air Base in southern Turkey.\n\nAnalysis: What does attack mean for Turkey?\n\nThe huge explosions shook high-rise office buildings and left bodies, protest banners and flags scattered across the ground.\n\n“This is an attack on the whole of Turkey. This is an attack directed at our democracy and at our people as a whole,” Davutoglu told NTV.\n\nHe said the attack was obviously intended to have an impact on Turkey’s elections scheduled in three weeks.\n\n“There is also an attempt to cast shadow on the elections. One should not use this for small political calculations. Statements should not be made referring to the elections at this time,” he said.\n\nDavutoglu said that he had considered suggesting to all party leaders they agree not to hold any rallies to avoid “provocation.”\n\nTurkey declared three days of mourning over the bombings.\n\nOn Sunday, people once again massed in Ankara’s streets, this time expressing solidarity with the victims.\n\nOne group, some of whom were carrying red flowers to commemorate the dead, tried to reach the scene of the blasts.\n\nBut police officers blocked the group, whose members included opposition lawmakers. Scuffles broke out, and police fired tear gas into the air.\n\nBombings have struck rallies involving Kurdish groups in Turkey three times this year. A suicide attack in the town of Suruc, near the Syrian border, in July killed 34 people. An ISIS supporter was blamed for carrying out that attack, but the group never claimed responsibility.\n\nThose taking part in Saturday’s rally included the pro-Kurdish HDP, or Peoples’ Democratic Party, which said on Twitter that two of its parliamentary candidates died in the blasts.\n\nTurkish forces continued their campaign against the PKK over the weekend, killing as many as 49 members of the group in airstrikes Saturday and Sunday, the semiofficial Turkish news agency Anadolu reported, citing military sources.\n\nThe PKK is a militant group that has fought a long, bitter separatist campaign against the Turkish state for more than 30 years. Since the collapse of a ceasefire in July, more than 2,000 PKK fighters and 150 Turkish security personnel have been killed in renewed hostilities, Anadolu reported.\n\nIn a statement Monday, the HDP accused President Recep Tayyip Erdogan and Davutoglu’s government of escalating the violence to try to push the party below the 10% electoral threshold to win seats in Turkey’s parliament.\n\n“Their public statements show a readiness to blame the victims of this attack and our party. Such a political tendency also shows that those responsible for this massacre will also be not brought to justice, and that even the investigation may be hidden from public scrutiny,” the statement said.",
+        "metadata": {
+          "title": "Turkey bombings: ISIS said to be focus of investigation | CNN",
+          "description": "No group has claimed responsibility for deadly weekend bombings in Ankara, but the focus of the investigation is the ISIS,Turkey’s Prime Minister says.",
+          "twitter:description": "No group has claimed responsibility for deadly weekend bombings in Ankara, but the focus of the investigation is the ISIS,Turkey’s Prime Minister says.",
+          "og:description": "No group has claimed responsibility for deadly weekend bombings in Ankara, but the focus of the investigation is the ISIS,Turkey’s Prime Minister says.",
+          "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/151012092048-ankara-bomb-funeral-mourning.jpg?q=x_4,y_31,h_2105,w_3742,c_crop/w_800",
+          "og:url": "https://www.cnn.com/2015/10/12/middleeast/turkey-ankara-bomb-blast",
+          "article:published_time": "2015-10-12T08:39:30Z",
+          "article:modified_time": "2015-10-12T18:34:58Z",
+          "keywords": "ankara, bombings, international relations and national security, middle east, middle east and north africa, minority and ethnic groups, national security, pkk, society, suicide bombings, terrorism, terrorism and counter-terrorism, terrorist attacks, the kurds, turkey, unrest, conflicts and war, ahmet davutoglu, islamic state in iraq and syria, political figures - intl, investigations",
+          "article:tag": "ankara, bombings, international relations and national security, middle east, middle east and north africa, minority and ethnic groups, national security, pkk, society, suicide bombings, terrorism, terrorism and counter-terrorism, terrorist attacks, the kurds, turkey, unrest, conflicts and war, ahmet davutoglu, islamic state in iraq and syria, political figures - intl, investigations",
+          "author": "Susannah Cullinane"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Double attentat suicide près de la gare principale d'Ankara en Turquie, ciblant un rassemblement pacifiste et faisant au moins 97 morts et près de 250 blessés. L'enquête se concentre sur le groupe extrémiste islamique ISIS (Daesh), selon le Premier ministre Ahmet Davutoglu. Des affrontements ont également eu lieu entre les forces de l'ordre et des manifestants.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ahmet Davutoglu"
+        ],
+        "LOCATION": [
+          "Turkey",
+          "Ankara",
+          "Syria",
+          "Northern Iraq",
+          "Incirlik Air Base"
+        ],
+        "ORGANIZATION": [
+          "CNN",
+          "ISIS",
+          "PKK",
+          "Kurdistan Workers’ Party",
+          "Anadolu",
+          "NTV"
+        ],
+        "DATE": [
+          "weekend",
+          "Monday",
+          "Saturday",
+          "three weeks"
+        ],
+        "EVENT": [
+          "Turkey bombings"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6890104245000592
+    },
+    {
+      "titre": "Turkey terror attack: mourning after scores killed in Ankara ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2015/oct/10/turkey-suicide-bomb-killed-in-ankara",
+      "image_url": "https://i.guim.co.uk/img/media/4725a276c35c72f08d625c630460e6c1a7938cf7/152_289_4407_2645/master/4407.jpg?width=700&quality=85&auto=format&fit=max&s=5ea55f4b2883ef6a0ba76ba6b6ef1d61",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRbkq0K66txFyOWnlZYaYB-pBOZYRa1puS8aFBlD31nAWSABxU",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Turkey terror attack: mourning after scores killed in Ankara ...",
+        "link": "https://www.theguardian.com/world/2015/oct/10/turkey-suicide-bomb-killed-in-ankara",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efb5bf2593a9d4597db69/images/zS3Ohs61XQTQJ5tr1o9KeuRCEYHNCvxhTaMq6sEHucs.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRbkq0K66txFyOWnlZYaYB-pBOZYRa1puS8aFBlD31nAWSABxU",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/4725a276c35c72f08d625c630460e6c1a7938cf7/152_289_4407_2645/master/4407.jpg?width=700&quality=85&auto=format&fit=max&s=5ea55f4b2883ef6a0ba76ba6b6ef1d61",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "Turkey terror attack: mourning after scores killed in Ankara blasts | Turkey\n\nAt least 95 people have been killed and around 250 wounded in the deadliest terror attack in Turkey’s history after two explosions targeted a peace rally in the centre of the capital.\n\n\nTwin explosions outside Ankara’s main train station on Saturday morning targeted hundreds of people who had gathered to protest against violence between authorities and the Kurdish militant group, the PKK.\n\nTurkish government officials said the explosions were a terrorist attack carried out by suicide bombers but no group immediately claimed responsibility. Turkey’s prime minister, Ahmet Davutoğlu, called emergency meetings with government officials and security chiefs.\n\nEarly statements put the death toll at 86, but on Saturday evening both the pro-Kurdish HDP party and the Turkish Medical Association revised the estimate to at least 97, while the wounded numbered 245 or more.\n\nImmediately after the attack at least 20 bodies could be seen covered by bloodstained flags on the road. Witnesses said the blasts were seconds apart shortly after 10am and were so powerful they rocked nearby high-rise buildings.\n\nTurkey awoke in grief on Sunday. “We are in mourning for peace,” said the front-page headline in the secularist Cumhuriyet newspaper as three days of national mourning declared by the prime minister got under way.\n\nOther papers voiced public anger over the attack. “Scum attacked in Ankara,” said the Haberturk newspaper, while the pro-government Star declared: “The goal is to divide the nation.”\n\nOne of the bombers was identified as a male aged between 25-30 after analysing bodies at the scene and taking fingerprints, the pro-government Yeni Safak said.\n\nDavutoglu, exposing a mosaic of domestic political perils, said Islamic State, Kurdish or far-leftist militants could have carried out the bombing.\n\nHis office named 52 of the victims overnight and said autopsies were continuing. It said 246 wounded people were still being treated, 48 of them in intensive care.\n\n\nThe Turkish president, Recep Tayyip Erdoğan, condemned the double bombing, saying the attack targeted the country’s unity and peace. Erdoğan said: “I strongly condemn this heinous attack on our unity and our country’s peace. No matter what its origin, aim or name, we are against any form of terrorist act or terrorist organisation. We are obliged to be against it together.”\n\n\nThe president said there was no distinction between the terrorist attack in Ankara, which came just three weeks ahead of parliamentary elections, and the ones targeting Turkish soldiers and police.\n\n“Like other acts of terror, the attack at the Ankara train station is taking aim at our unity, brotherhood and future,” he added. “The solidarity and determination we are going to display in the face of this attack will be the biggest and the most meaningful response to the terror.”\n\nErdoğan urged people to be “against, not on the side of terror” and said the perpetrators of Saturday’s attack would be found in the shortest time and delivered to justice.\n\nSome witnesses said ambulances could not immediately reach the scene of the attack, and that police obstructed the quick evacuation of the wounded from the square. Turkish MP Sirri Süreyya Önder also claimed a suspicious vehicle and another suspicious package had been found and that bomb-disposal experts had been called to the scene.\n\nIn the aftermath of the attack those involved in the peace march tended to the wounded, as hundreds of stunned people wandered around the streets. Bodies lay in two circles around 20m apart where the explosions had taken place.\n\nThe prime minister’s office banned media coverage of the attack, citing “security reasons”, though several local media groups said they would ignore the ministry’s orders. Access to social media services, such as Twitter, was temporarily only possible through VPN in Turkey.\n\nVeysel Eroglu, minister for forestry and water, attempted to put the blame on the organisers of the peace rally. “Our people need to be careful of such provocateurs that organise terrorist demonstrations in order to incite discord in social harmony,” he said.\n\nThe HDP, one of the groups organising the peace rally, said in a statement that it had specifically been targeted. Several HDP members and parliamentary candidates are among the victims of the attack.\n\nSelahattin Demirtaş, co-chair of the HDP party, said: “This attack is not targeting our state and national unity, it is perpetrated by the state against the people. We are witnessing a massacre here. A cruel and barbarian attack was carried out. The death toll is high.” Demirtas added that he did not expect that those responsible for the bombings would be brought to justice.\n\nAsked at a press conference if he had considered resigning over the Ankara attack, interior minister Selami Altinok denied that there had been failures in security preparations for the planned peace rally. Only hours after the Ankara bomb attacks, the PKK declared a unilateral ceasefire and called on its fighters to halt all guerrilla attacks in Turkey, according to the Firat news agency.\n\nThe US state department strongly condemned what it called a heinous attack, while the US embassy in Ankara said on Twitter: “All of us must stand united against terror.” President Barack Obama later offered his condolences to the Turkish president in a phone call. He reportedly affirmed that the US would “stand with Turkey and its people in the fight against terrorism and other security challenges in the region”.\n\nThe German chancellor, Angela Merkel, expressed “sadness and dismay” over the attacks, while Russia’s Vladimir Putin offered condolences to Erdogan.\n\nIn Istanbul an estimated 10,000 people marched down the main central avenue to denounce the attacks. Thousands also took to the streets in solidarity in Paris, Strasbourg and Marseille in France, as well as in Zurich in Switzerland.\n\nThe explosion will spark significant security concerns ahead of the parliamentary elections and fuel fear over violent outbreaks in the region. A rally for the pro-Kurdish HDP party was bombed in June, ahead of last year’s general election, but this is the deadliest single attack on the country’s soil.\n\nTurkey has been in a heightened state of alert since starting a “synchronised war on terror” in July, including airstrikes against Islamic State fighters in Syria and PKK bases in northern Iraq. It has also rounded up hundreds of suspected militants at home.\n\nDesignated a terrorist group by Turkey, the US and the European Union, the PKK launched a separatist insurgency in 1984 in which more than 40,000 people have been killed.\n\nThe state launched peace talks with the PKK’s jailed leader in 2012 and the latest in a series of ceasefires had been holding until the violence flared again in July.\n\nWith Reuters and the Associated Press",
+        "metadata": {
+          "title": "Turkey terror attack: mourning after scores killed in Ankara blasts | Turkey | The Guardian",
+          "description": "Death toll climbs after blasts in Turkish capital during protests against conflict between state and Kurdish militants",
+          "og:url": "http://www.theguardian.com/world/2015/oct/10/turkey-suicide-bomb-killed-in-ankara",
+          "article:author": "https://www.theguardian.com/profile/constanze-letsch,https://www.theguardian.com/profile/nadia-khomami",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/761373b881e5b82789ae65f1d1149c1aaec082e2/0_148_3500_2102/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=e26d8d06f87b062bd61f94dc181a8fd3",
+          "al:ios:url": "gnmguardian://world/2015/oct/10/turkey-suicide-bomb-killed-in-ankara?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Turkey terror attack: mourning after scores killed in Ankara blasts",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2021-08-31T14:22:47.000Z",
+          "og:image:height": "721",
+          "og:description": "Death toll climbs after blasts in Turkish capital during protests against conflict between state and Kurdish militants",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2015-10-11T07:04:41.000Z",
+          "article:tag": "Turkey,Kurds,World news,Middle East and north Africa,Islamic State",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Deuil en Turquie après l'attaque terroriste la plus meurtrière de l'histoire du pays : deux explosions ont ciblé un rassemblement pour la paix près de la gare principale d'Ankara, faisant au moins 95 à 97 morts et environ 250 blessés. Le Premier ministre Ahmet Davutoğlu et le président Recep Tayyip Erdoğan ont condamné l'attaque, tandis que trois jours de deuil national ont été déclarés.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ahmet Davutoğlu",
+          "Recep Tayyip Erdoğan"
+        ],
+        "LOCATION": [
+          "Turkey",
+          "Ankara"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "PKK",
+          "HDP",
+          "Turkish Medical Association",
+          "Cumhuriyet",
+          "Haberturk",
+          "Star",
+          "Yeni Safak",
+          "Islamic State"
+        ],
+        "DATE": [
+          "Saturday",
+          "morning",
+          "Sunday",
+          "three days"
+        ],
+        "EVENT": [
+          "Turkey terror attack"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6923774696782102
+    },
+    {
+      "titre": "In Gaza, some families are digging through rubble with their ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/DTySi2wjelh/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3967796115468822982",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmtFBA13O88gaIUGxwgQDtTwX_U5-6Ve-ZLnCVp8U4Po07HFWG",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "In Gaza, some families are digging through rubble with their ...",
+        "link": "https://www.instagram.com/reel/DTySi2wjelh/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmtFBA13O88gaIUGxwgQDtTwX_U5-6Ve-ZLnCVp8U4Po07HFWG",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3967796115468822982",
+        "image_width": 1350,
+        "image_height": 1080
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram concernant des familles fouillant les décombres à Gaza.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Gaza"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7782575221976792
+    },
+    {
+      "titre": "Twin blasts in Turkish capital kill dozens at peace rally ...",
+      "source": "PBS",
+      "lien": "https://www.pbs.org/newshour/world/blasts-peace-march-turkey-kill-dozens",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/10/GettyImages-492113930-1024x682.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR7KntU3TxbQI-SbfLBoEK0W_qFiipQBeIGaWHrvWQyojLqwep",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Twin blasts in Turkish capital kill dozens at peace rally ...",
+        "link": "https://www.pbs.org/newshour/world/blasts-peace-march-turkey-kill-dozens",
+        "source": "PBS",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQJsiJ1NgKGp3AXhEPG55iNZdVeflPzC79FVTLeWCMF3xfGsh8nLt70qCxZrdnjZ7g59ZSCNyDUgU1OuP2RHewpmLyvxhNL-oHKvRAyqqfcBQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR7KntU3TxbQI-SbfLBoEK0W_qFiipQBeIGaWHrvWQyojLqwep",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/10/GettyImages-492113930-1024x682.jpg",
+        "image_width": 682,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Twin blasts in Turkish capital kill dozens at peace rally\n\nTwin explosions carried out by suspected suicide bombers in Ankara, Turkey, killed dozens of people who had assembled in the capital city on Saturday to attend a peace rally.\n\nAt least 95 people were killed with 246 people still being treated, the prime minister's office said in a statement.\n\nOfficials said the bombing was the deadliest terror attack in the country's modern history, the New York Times reported.\n\nThe nearly simultaneous explosions targeted pro-Kurdish and leftist activists who had assembled to promote democracy and peace amid renewed clashes between Kurdish rebels and Turkish security forces.\n\nPhotographs from the scene showed bloodied bodies covered by multicolored flags and banners demonstrators had brought to the event.\n\nBodies are covered after an explosion during a peace march in Ankara, Turkey on October 10, 2015. Photo by Gokhan Tan/Getty Images.\n\nSpeaking at a press conference, Prime Minister Ahmet Davutoglu told reporters there were \"strong signs\" that two suicide bombers carried out the attacks. He said Kurdish rebels or Islamic State militants may be behind the bombings, the AP reported.\n\nDavutoglu called for a three-day official period of mourning in the country to remember the victims.\n\nIn a statement, the U.S. Department of State strongly condemned the \"heinous terrorist attack\" carried out against demonstrators in Ankara.\n\n> \"In light of the ongoing violence in Turkey and the region, it is particularly important at this time that all Turkish citizens recommit to peace and stand together against terror. We stand together in solidarity with the Turkish people and reaffirm our determination to continue to work with Turkey to combat the shared threat of terrorism.\"\n\nTurkish President Recep Tayyip Erdogan called for the country to show unity in the face of violence following the bombings on Saturday, the AP reported.\n\n\"The greatest and most meaningful response to this attack is the solidarity and determination we will show against it,\" he said.\n\nA free press is a cornerstone of a healthy democracy.\n\nSupport trusted journalism and civil dialogue.",
+        "metadata": {
+          "title": "Twin blasts in Turkish capital kill dozens at peace rally | PBS News Weekend",
+          "description": "Twin explosions carried out by suspected suicide bombers in Ankara, Turkey, killed dozens of people who had assembled in the capital city on Saturday to attend a peace rally.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:site_name": "PBS News",
+          "og:title": "Twin blasts in Turkish capital kill dozens at peace rally",
+          "og:description": "Twin explosions carried out by suspected suicide bombers in Ankara, Turkey, killed dozens of people who had assembled in the capital city on Saturday to attend a peace rally.",
+          "og:image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/10/GettyImages-492136826-1024x721.jpg",
+          "og:image:height": "721",
+          "og:image:width": "1024",
+          "og:url": "https://www.pbs.org/newshour/world/blasts-peace-march-turkey-kill-dozens",
+          "article:publisher": "https://www.facebook.com/newshour/",
+          "article:published_time": "2015-10-10T12:43:40-04:00",
+          "article:section": "World",
+          "article:tag": "ahmet davutoglu, ankara, ankara bombings, bombing, isis, kurdish, protest, terrorism, turkey, violence",
+          "fb:app_id": "114150878604116",
+          "fb:pages": "6491828674",
+          "twitter:title": "Twin blasts in Turkish capital kill dozens at peace rally",
+          "twitter:description": "Twin explosions carried out by suspected suicide bombers in Ankara, Turkey, killed dozens of people who had assembled in the capital city on Saturday to attend a peace rally.",
+          "news_keywords": "ahmet davutoglu, ankara, ankara bombings, bombing, isis, kurdish, protest, terrorism, turkey, violence, world"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Double explosion lors d'un rassemblement pour la paix à Ankara, en Turquie, faisant des dizaines de morts (au moins 95) et 246 blessés. L'attaque est qualifiée d'attentat terroriste. Le Premier ministre Ahmet Davutoglu évoque des pistes menant aux rebelles kurdes ou à l'État islamique. Le département d'État américain et le président Recep Tayyip Erdoğan ont condamné l'attaque et appelé à l'unité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Gokhan Tan",
+          "Ahmet Davutoglu",
+          "Recep Tayyip Erdogan"
+        ],
+        "LOCATION": [
+          "Turkey",
+          "Ankara"
+        ],
+        "ORGANIZATION": [
+          "PBS",
+          "New York Times",
+          "AP",
+          "U.S. Department of State",
+          "Islamic State"
+        ],
+        "DATE": [
+          "Saturday",
+          "October 10, 2015"
+        ],
+        "EVENT": [
+          "peace rally"
+        ],
+        "OTHER": [
+          "Getty Images"
+        ]
+      },
+      "score_e5": 0.6959110751486939
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Independence Square",
+      "Montevideo",
+      "Uruguay"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "Monday",
+      "last year"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Syrian refugees"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Ahmet Davutoglu",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Recep Tayyip Erdogan",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gokhan Tan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ankara",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Turkey",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Northern Iraq",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Incirlik Air Base",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNN",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIS",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PKK",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kurdistan Workers’ Party",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Anadolu",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NTV",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HDP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Turkish Medical Association",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cumhuriyet",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Haberturk",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Star",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yeni Safak",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PBS",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New York Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. Department of State",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "weekend",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "three weeks",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "morning",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "three days",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 10, 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Deadly Blasts Hit Turkish Capital Ankara",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Turkey bombings",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "peace rally",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Getty Images",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T23:31:21.309102"
+  }
+}

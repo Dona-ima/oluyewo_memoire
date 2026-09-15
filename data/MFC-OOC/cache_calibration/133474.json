@@ -1,0 +1,947 @@
+{
+  "id_rumeur": 133474,
+  "id_image": 1612724,
+  "caption": "An armed proRussian protester takes up a position by the railway lines near Slovyansk Ukraine",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748610/oluyewo_benchmark/yxudf2vqonxwenjwf2uc.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Eurostar suspended as strikers set fire to Calais track ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-kent-33323978",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1116A/production/_83949996_027953547.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxi2CBTEUT-kHzsEWP_Rx7LGmX0ndk1av7_lR-dyk7twPEmWI8",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Eurostar suspended as strikers set fire to Calais track ...",
+        "link": "https://www.bbc.com/news/uk-england-kent-33323978",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxi2CBTEUT-kHzsEWP_Rx7LGmX0ndk1av7_lR-dyk7twPEmWI8",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1116A/production/_83949996_027953547.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Eurostar suspended as strikers set fire to Calais track\n\nOperation Stack, external, where lorries use part of the M20 to queue for Channel crossings, has been implemented coastbound between junctions eight and nine, for Maidstone and Ashford, as a result of the latest action.\n\nIt has also been implemented on the London-bound carriageway.\n\nNon-freight traffic travelling to Dover has been urged to use the A2 and M2.\n\nChris Childs from Hollingbourne in Kent said French strikers has caused major upheaval to the village next to the M20 for the second time in a week because of Operation Stack.\n\n\"Once again it feels like our village has been violated by French strikers,\" he said.\n\n\"We cannot get out of our village on to the A20 because of the traffic, likewise we cannot return easily.\"\n\nDisruption for Eurostar passengers departing from Paris Gare Du Nord has been limited.\n\nJane Schaffer, from Birmingham, said her London-bound train left the station 30 minutes later than she intended.\n\n\"It was quite orderly, but there wasn't much information so you had to go find out,\" she said.\n\n\"There were large queues, but the train I'm on isn't even full.\"",
+        "metadata": {
+          "description": "Cross-Channel passengers are stranded after striking Calais ferry workers closed the port and blocked Eurotunnel services.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Cross-Channel passengers are stranded after striking Calais ferry workers closed the port and blocked Eurotunnel services.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/985D/production/_83950093_027953781.jpg",
+          "og:image:alt": "Burning tyres on Eurotunnel tracks near Calais",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Eurostar suspended as strikers set fire to Calais track",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-kent-33323978",
+          "article:section": "Kent",
+          "twitter:description": "Cross-Channel passengers are stranded after striking Calais ferry workers closed the port and blocked Eurotunnel services.",
+          "twitter:title": "Eurostar suspended as strikers set fire to Calais track"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-kent-33323978",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-06-30T07:59:42.000Z",
+          "dateModified": "2015-06-30T18:16:28.000Z",
+          "description": "Cross-Channel passengers are stranded after striking Calais ferry workers closed the port and blocked Eurotunnel services.",
+          "headline": "Eurostar suspended as strikers set fire to Calais track",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/985D/production/_83950093_027953781.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/985D/production/_83950093_027953781.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-kent-33323978",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des grévistes français ont incendié des voies à Calais, entraînant la suspension d'Eurostar. La mesure Operation Stack a été mise en place sur l'autoroute M20 entre les bifurcations 8 et 9 (Maidstone et Ashford) ainsi que sur la chaussée menant à Londres, provoquant des perturbations importantes pour la circulation et les voyageurs, notamment en provenance de Paris Gare Du Nord.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Chris Childs",
+          "Jane Schaffer"
+        ],
+        "LOCATION": [
+          "Calais",
+          "M20",
+          "Maidstone",
+          "Ashford",
+          "London",
+          "Dover",
+          "A2",
+          "M2",
+          "Hollingbourne",
+          "Kent",
+          "A20",
+          "Paris Gare Du Nord",
+          "Birmingham"
+        ],
+        "ORGANIZATION": [
+          "Eurostar",
+          "BBC"
+        ],
+        "DATE": [
+          "a week"
+        ],
+        "EVENT": [
+          "Operation Stack"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7248864032026759
+    },
+    {
+      "titre": "Channel tunnel reopens after fire set by French strikers but ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/uk-news/2015/jun/30/cross-channel-ferries-cancelled-striking-port-workers-close-calais-again",
+      "image_url": "https://i.guim.co.uk/img/media/4e53f1921457a6b6c270df3535643eda9c0011fd/0_172_3500_2100/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&s=db129346d7e30462a3ab166a793e9fc5",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUDszJUgWoAbxdfT_shXniPBUj6uvDyjAIPpJH_Y4rIIUO8hAs",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Channel tunnel reopens after fire set by French strikers but ...",
+        "link": "https://www.theguardian.com/uk-news/2015/jun/30/cross-channel-ferries-cancelled-striking-port-workers-close-calais-again",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUDszJUgWoAbxdfT_shXniPBUj6uvDyjAIPpJH_Y4rIIUO8hAs",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i.guim.co.uk/img/media/4e53f1921457a6b6c270df3535643eda9c0011fd/0_172_3500_2100/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&s=db129346d7e30462a3ab166a793e9fc5",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Channel tunnel reopens after fire set by French strikers but travel chaos goes on | Transport\n\nStriking ferry workers have set fire to tracks inside the Channel tunnel, as the chaos prompted desperate migrants to try to break into stationary vehicles in a repeat of scenes that played out a week ago.\n\nEurostar and Eurotunnel services were suspended temporarily on Tuesday but resumed after 3.30pm, albeit with a reduced operation. Passengers were advised to check before travel. With ferry services between Dover and Calais already suspended because of striking workers’ ongoing blockade of the northern French port, the suspension of trains through the tunnel caused further misery for people attempting to cross the Channel.\n\nA Eurotunnel spokesman estimated that 30-50 protesters had caused damage, describing the union’s actions as “deplorable”. “They have been taken away by the police and we will be pressing charges against them for criminal and civil damage, and putting people’s live in danger from their actions,” he said.\n\nIn Calais, a spokesman for the local council said: “We have registered break-in attempts by migrants this morning at the Eurotunnel site.”\n\nMeanwhile, on the hottest day of the year, angry travellers were reduced to waiting in the sticky, crowded ticket hall at St Pancras in London for news.\n\nMichael Jameson, a professional cellist, said he had an audition with the Lille orchestra scheduled for Wednesday morning and a session with a pianist on Tuesday, so the disruption could mean missing out on the chance of a lifetime.\n\n“It is a total shambles,” he said, hauling his cello red-faced through the crowds. “It’s just ridiculous it’s happened again. The ticket cost a fortune, they made me pay extra for my cello. Now they are seriously understaffed – the complete absence of information is ridiculous.”\n\nJillian and James Masselos, on holiday from Australia, were keeping their two daughters, aged four and six, occupied with iPads. “It took us 35 hours to get to London because of delays, so I think we’re jinxed,” said Jillian Masselos, who is pregnant. “There should have been a plan in place for this that should have been put in place immediately. I asked a lady how long do these things usually take, and she just said: ‘Je ne sais pas.’”\n\nThe industrial action is expected to last until Thursday, and even before the tunnel closed there were chaotic scenes at both ends, with Kent police running Operation Stack, which involved the closure of the M20 coastbound between junctions 8 and 9, in a desperate attempt to avoid gridlock across the county’s road network.\n\nThe closure was expected to be extended to the London-bound carriageway between the same junctions later on Tuesday and Wednesday. Lorry drivers at the front of the queue are being allocated tickets allowing them to continue their journey to the continent, while non-freight traffic is diverted off the motorway. Junction 13 of the M20 was also closed on Tuesday in the direction of the port of Dover.\n\nKent police warned motorists to take precautions during the heatwave hitting the UK, including keeping their vehicles ventilated to avoid drowsiness and drinking plenty of cold fluids.\n\nWith the industrial action set to continue until Thursday, Helen Deeble, chief executive of P&O ferries, which has had to cancel all of its services to and from Calais, lambasted the French and British governments, warning that they were costing businesses millions.\n\n“Let me be clear: the buck stops with the French government. They have shown that they can move swiftly to stop any disruption at the tunnel. But they have effectively abandoned any attempt to maintain security at the port of Calais, which makes a nonsense of European cooperation.\n\n“And when is the British government going to stand up to ensure that we can all get to mainland Europe safely and securely? Every day that the disruption lasts costs UK plc millions of pounds. P&O Ferries alone employs thousands of people on both sides of the Channel and this damaging and dangerous industrial action is now putting those jobs at risk.”\n\nA Eurotunnel spokesman said: “Eurotunnel deplores the actions of this union which have severely disrupted cross-channel traffic over the past week. Eurotunnel calls on the governments of both Britain and France to bring an end to this industrial action and to restore order in the Calais region.”\n\nCrossings to Dunkirk and other French ports continued as normal.The French MyFerryLink workers are protesting plans by Eurotunnel to sell two of their cross-channel ferries to rival Danish firm DFDS and the consequent job losses that will result.",
+        "metadata": {
+          "title": "Channel tunnel reopens after fire set by French strikers but travel chaos goes on | Transport | The Guardian",
+          "description": "Eurostar and Eurotunnel services resume but delays continue across Kent as ferry services to and from Dover cancelled due to blockade",
+          "og:url": "http://www.theguardian.com/uk-news/2015/jun/30/cross-channel-ferries-cancelled-striking-port-workers-close-calais-again",
+          "article:author": "https://www.theguardian.com/profile/haroonsiddique,https://www.theguardian.com/profile/alexandratopping",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/4e53f1921457a6b6c270df3535643eda9c0011fd/0_172_3500_2100/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=ff526635a43879641634f63bb091ea7a",
+          "al:ios:url": "gnmguardian://uk-news/2015/jun/30/cross-channel-ferries-cancelled-striking-port-workers-close-calais-again?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Channel tunnel reopens after fire set by French strikers but travel chaos goes on",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2019-06-05T10:49:25.000Z",
+          "og:image:height": "720",
+          "og:description": "Eurostar and Eurotunnel services resume but delays continue across Kent as ferry services to and from Dover cancelled due to blockade",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "UK news",
+          "article:published_time": "2015-06-30T04:12:30.000Z",
+          "article:tag": "Transport,France,Europe,UK news,Ferry travel,Travel,World news,Kent",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des marins grévistes ont mis le feu à des voies à l'intérieur du tunnel sous la Manche, entraînant la suspension temporaire des services Eurostar et Eurotunnel. Cette situation a provoqué du chaos pour les voyageurs et des tentatives d'effraction de migrants dans des véhicules stationnés. Les protestataires ont été évacués par la police. Parallèlement, la police du Kent a appliqué l'Operation Stack avec la fermeture de la portion M20 entre les bifurcations 8 et 9 pour éviter les encombrements.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Jameson",
+          "Jillian Masselos",
+          "James Masselos"
+        ],
+        "LOCATION": [
+          "Channel tunnel",
+          "Calais",
+          "St Pancras",
+          "London",
+          "Lille",
+          "Australia",
+          "Kent",
+          "M20",
+          "Dover"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Eurostar",
+          "Eurotunnel",
+          "Kent police"
+        ],
+        "DATE": [
+          "Tuesday",
+          "Wednesday morning",
+          "Thursday"
+        ],
+        "EVENT": [
+          "Operation Stack"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7239630421673339
+    },
+    {
+      "titre": "Eurotunnel hits new record despite Calais migrant disruption",
+      "source": "The Telegraph",
+      "lien": "https://www.telegraph.co.uk/finance/newsbysector/industry/12066177/Rise-in-cross-Channel-trade-pushes-Eurotunnel-to-new-record.html",
+      "image_url": "https://www.telegraph.co.uk/multimedia/archive/03383/2207_eurotunnel_st_3383762b.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvL5-LRmvi4ODNMtWzxKUsQQE8wO_BeR4IGPabRm0cnVl8uMcQ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Eurotunnel hits new record despite Calais migrant disruption",
+        "link": "https://www.telegraph.co.uk/finance/newsbysector/industry/12066177/Rise-in-cross-Channel-trade-pushes-Eurotunnel-to-new-record.html",
+        "source": "The Telegraph",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSXKdA-TK1hyo39O45Hg6AzDd9YahmoSB7hbZYBUVK2rk53GL4ary-Plt2M82YuLM_k2VtuJvXWjV92grK0RAmB7_Svxk_YI6Fn_VEeu-aSycAD5HFKmvYj",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvL5-LRmvi4ODNMtWzxKUsQQE8wO_BeR4IGPabRm0cnVl8uMcQ",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://www.telegraph.co.uk/multimedia/archive/03383/2207_eurotunnel_st_3383762b.jpg",
+        "image_width": 387,
+        "image_height": 620
+      },
+      "webpage": {
+        "text": "Access Restricted\n\nTELEGRAPH MEDIA GROUP HOLDINGS Ltd\n\n\nAccess Restricted\n\nThank you for your interest. Unauthorised access is prohibited. To access this content, you must have prior permission and a valid contract. Please contact our team at licensing@telegraph.co.uk to discuss licensing options.\n\nIf you are a Telegraph Subscriber, please contact customerservice@telegraph.co.uk , quoting the reference code on this page.\n\nReference ID: 0.ad51c317.1788740628.adc069a1",
+        "metadata": {
+          "title": "Access Restricted"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page d'accès restreint du site Telegraph Media Group Holdings Ltd concernant le trafic transmanche et Eurotunnel.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Telegraph",
+          "Telegraph Media Group Holdings Ltd"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7507349012556966
+    },
+    {
+      "titre": "Channel Tunnel strike leaves thousands stranded as French ...",
+      "source": "The Mirror",
+      "lien": "https://www.mirror.co.uk/news/world-news/channel-tunnel-strike-leaves-thousands-5976746",
+      "image_url": "https://i2-prod.mirror.co.uk/article5975428.ece/ALTERNATES/s1200e/Calais3.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkz87jF4Cg5RS_nnuWAOmBvaJdjJ4pB4mvIaIc7HNgjrVDaCVz",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Channel Tunnel strike leaves thousands stranded as French ...",
+        "link": "https://www.mirror.co.uk/news/world-news/channel-tunnel-strike-leaves-thousands-5976746",
+        "source": "The Mirror",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSzsVfvEgdDPAcHzYRIJBliDmYUG3864kR70rMgYgtSsnKmhJ14ADTZCIVHbrl8X61uT9r4k16CGZp27BDRpP5bf7PdqXe69SQCIKmW75DCd9BUK65Q",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkz87jF4Cg5RS_nnuWAOmBvaJdjJ4pB4mvIaIc7HNgjrVDaCVz",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://i2-prod.mirror.co.uk/article5975428.ece/ALTERNATES/s1200e/Calais3.jpg",
+        "image_width": 800,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Channel Tunnel strike leaves thousands stranded as French workers block tracks with burning tyres\n\nThousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home\n\n\nStriking French workers brought fresh chaos to Calais as they blocked Channel Tunnel rail tracks with burning tyres.\n\nThousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home.\n\nThe strikers forced furious Eurostar and Eurotunnel bosses to suspend all services for the second time in eight days.\n\nIt followed a blockade of the port of Calais on Monday afternoon - which is not expected to reopen until Thursday.\n\nThe strike created travel chaos on both sides of the Channel, with huge backlogs at ports and on motorways.\n\nIt also led to fresh fears that migrants could take advantage of the situation by breaking in lorries and cars.\n\nWorkers from the Maritime Nord union broke through fences to gain access to the Channel Tunnel tracks at lunchtime.\n\nThey then set fire to tyres across the line - forcing all passenger and freight trains to be halted.\n\nEurotunnel said the men were arrested and said it will be pressing charges against them for “criminal and civil damage”.\n\nRiot police were also called in as migrants tried to access the tracks and Eurotunnel terminal during the chaos.\n\n\nThe British government described the situation as “completely unacceptable”.\n\nHuge tailbacks clogged up the M20 motorway in Kent, with police giving motorists advice on how to stay cool in their vehicles.\n\nThe furious boss of ferry giant P&O blamed the situation on the French and British goverments.\n\nHelen Deeble said: “Through no fault of their own, our passengers are caught in the middle of an industrial relations battle.\n\n“It has been caused by Eurotunnel, who sold their ships to a rival ferry company without securing the jobs of the workers involved.\n\nThe scene as Calais strike leaves Brits stranded in France\n\n“This has left thousands of holidaymakers and lorry drivers stranded without adequate facilities.\n\n“The buck stops with the French government. They have shown that they can move swiftly to stop any disruption at the tunnel.\n\n“But they have effectively abandoned any attempts to maintain security at Calais, which makes a nonsense of European cooperation.\n\n“And when is the British government going to stand up to ensure that we can all get to mainland Europe safely and securely?”\n\n\nEurotunnel said it has noticed a surge in recent days of migrants trying to access the terminal rather than attacking trucks.\n\nWorkers from MyFerrylink announced strikes after the firm was sold by Eurotunnel to rival DFDS.\n\nIt left up to 600 jobs with the cross-channel firm, including 70 in Dover,\n\nunder threat.\n\nUnion leader Eric Vercoutre, who was also behind last week’s action, has promised a “summer of disruption” for holidaymakers.\n\nHe added: “The blockade is in place. When the mobilisation ramps up, we’ll block everything.”",
+        "metadata": {
+          "title": "Channel Tunnel strike leaves thousands stranded as French workers block tracks with burning tyres - The Mirror",
+          "fb:page_id": "6149699161",
+          "fb:app_id": "123792601022133",
+          "fb:pages": "1814357575554395",
+          "description": "Thousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home",
+          "author": "Martin Fricker",
+          "keywords": "Strikes, Eurostar",
+          "news_keywords": "Strikes, Eurostar",
+          "og:title": "Channel Tunnel strike leaves thousands stranded as French workers block tracks",
+          "og:description": "Thousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home",
+          "og:url": "http://www.mirror.co.uk/news/world-news/channel-tunnel-strike-leaves-thousands-5976746",
+          "og:site_name": "Daily Mirror",
+          "og:locale": "en_GB",
+          "og:image": "https://i2-prod.mirror.co.uk/article5975187.ece/ALTERNATES/s1200d/Calais9.jpg",
+          "og:type": "article",
+          "article:published_time": "2015-06-30T16:46:00Z",
+          "article:modified_time": "2015-06-30T16:46:00Z",
+          "article:author": "https://www.mirror.co.uk/authors/martin-fricker/",
+          "article:section": "World news",
+          "article:tag": "Eurostar",
+          "twitter:title": "Channel Tunnel strike leaves thousands stranded as French workers block tracks",
+          "twitter:description": "Thousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.mirror.co.uk/news/world-news/channel-tunnel-strike-leaves-thousands-5976746",
+          "inLanguage": "en-GB",
+          "headline": "Channel Tunnel strike leaves thousands stranded as French workers block tracks with burning tyres",
+          "name": "Channel Tunnel strike leaves thousands stranded as French workers block tracks with burning tyres",
+          "description": "Thousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home",
+          "articleBody": "Striking French workers brought fresh chaos to Calais as they  blocked Channel Tunnel rail tracks  with burning tyres. Thousands of fed-up British holidaymakers and truckers were left stranded in sweltering conditions with no way of going home. The strikers forced furious Eurostar and Eurotunnel bosses to suspend all services for the second time in eight days. It followed a blockade of the port of Calais on Monday afternoon - which is not expected to reopen until Thursday. The strike created travel chaos on both sides of the Channel, with huge backlogs at ports and on motorways. It also led to fresh fears that migrants could take advantage of the situation by breaking in lorries and cars. Workers from the Maritime Nord union broke through fences to gain access to  the Channel Tunnel  tracks at lunchtime. They then set fire to tyres across the line - forcing all passenger and freight trains to be halted. Eurotunnel said the men were arrested and said it will be pressing charges against them for “criminal and civil damage”. Riot police were also called in as migrants tried to access the tracks and Eurotunnel terminal during the chaos. The British government described the situation as “completely unacceptable”.  Huge tailbacks clogged up the M20 motorway in Kent, with police giving motorists advice on how to stay cool in their vehicles. The furious boss of ferry giant P&O blamed the situation on the French and British goverments. Helen Deeble said: “Through no fault of their own, our passengers are caught in the middle of an  industrial relations battle . “It has been caused by Eurotunnel, who sold their ships to a rival ferry company without securing the jobs of the workers involved. “This has left thousands of holidaymakers and lorry drivers stranded without adequate facilities. “The buck stops with the French government. They have shown that they can move swiftly to stop any disruption at the tunnel.  “But they have effectively abandoned any attempts to maintain security at Calais, which makes a nonsense of European cooperation. “And when is the British government going to stand up to ensure that we can all get to mainland Europe safely and securely?” Eurotunnel said it has noticed a surge in recent days of migrants trying to access the terminal rather than attacking trucks. Workers from MyFerrylink announced strikes after the firm was sold by Eurotunnel to rival DFDS. It left up to 600 jobs with the cross-channel firm, including 70 in Dover, under threat. Union leader Eric Vercoutre, who was also behind last week’s action, has promised a “summer of disruption” for holidaymakers. He added: “The blockade is in place. When the mobilisation ramps up, we’ll block everything.”",
+          "datePublished": "2015-06-30T16:46:00Z",
+          "dateModified": "2015-06-30T16:46:00Z",
+          "image": [
+            "https://i2-prod.mirror.co.uk/article5975187.ece/ALTERNATES/s1200d/Calais9.jpg",
+            "https://i2-prod.mirror.co.uk/article5975187.ece/ALTERNATES/s1200b/Calais9.jpg",
+            "https://i2-prod.mirror.co.uk/article5975187.ece/ALTERNATES/s1200c/Calais9.jpg"
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Martin Fricker",
+              "sameAs": "https://www.mirror.co.uk/authors/martin-fricker/"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Daily Mirror",
+            "url": "https://www.mirror.co.uk",
+            "publishingPrinciples": "https://www.mirror.co.uk/about-us/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.mirror.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/mirror/logos/masthead-mirror-default.svg",
+              "width": 219,
+              "height": 60
+            },
+            "sameAs": [
+              "https://www.facebook.com/dailymirror",
+              "https://x.com/DailyMirror",
+              "https://www.tiktok.com/@dailymirror",
+              "https://www.instagram.com/dailymirror",
+              "https://www.snapchat.com/p/4d149c4f-304c-4300-b381-daf641d05888/2999820596682753"
+            ]
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              "#article-body h2[data-testid='leadtext']"
+            ]
+          },
+          "video": [
+            {
+              "@type": "VideoObject",
+              "name": "The scene as Calais strike leaves Brits stranded in France",
+              "description": "Footage from day 2 of the strike sees frustrated Brits stuck in the ferry port.",
+              "duration": "P0Y0M0DT0H1M59S",
+              "thumbnailUrl": "https://video.primis.tech/uploads/cn1/video/users/converted/31466/video_68f8c0e92a734041969572/vid691a18196090b141595032.jpg?cbuster=1614005502",
+              "dateCreated": "2015-06-30T13:52:21Z",
+              "datePublished": "2015-06-30T13:52:21Z",
+              "dateModified": "2015-07-14T22:27:42Z",
+              "uploadDate": "2015-06-30T13:52:21Z",
+              "contentUrl": "https://video.primis.tech/uploads/cn1/video/users/hls/31466/video_68f8c0e92a734041969572/vid691a18196090b141595032.mp4/chunklist_440.m3u8",
+              "embedUrl": "https://live.primis.tech/live/liveView.php?s=116062&vp_content=embed6cc765tttttt",
+              "publisher": {
+                "@type": "NewsMediaOrganization",
+                "name": "Daily Mirror",
+                "url": "https://www.mirror.co.uk",
+                "publishingPrinciples": "https://www.mirror.co.uk/about-us/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://www.mirror.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/mirror/logos/masthead-mirror-default.svg",
+                  "width": 219,
+                  "height": 60
+                },
+                "sameAs": [
+                  "https://www.facebook.com/dailymirror",
+                  "https://x.com/DailyMirror",
+                  "https://www.tiktok.com/@dailymirror",
+                  "https://www.instagram.com/dailymirror",
+                  "https://www.snapchat.com/p/4d149c4f-304c-4300-b381-daf641d05888/2999820596682753"
+                ]
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des grévistes français ont bloqué les voies ferrées du tunnel sous la Manche avec des pneus en feu, provoquant la suspension des services Eurostar et Eurotunnel et laissant des milliers de voyageurs et camionneurs bloqués. Des membres du syndicat Maritime Nord ont franchi des clôtures pour accéder aux voies. La situation a également entraîné des tentatives d'intrusion de migrants et des embouteillages sur l'autoroute M20 dans le Kent.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Helen Deeble",
+          "Eric Vercoutre"
+        ],
+        "LOCATION": [
+          "Calais",
+          "Channel Tunnel",
+          "France",
+          "M20",
+          "Kent",
+          "Dover"
+        ],
+        "ORGANIZATION": [
+          "The Mirror",
+          "Eurostar",
+          "Eurotunnel",
+          "Maritime Nord",
+          "P&O",
+          "MyFerrylink",
+          "DFDS"
+        ],
+        "DATE": [
+          "Monday",
+          "Thursday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7196909957901764
+    },
+    {
+      "titre": "Le trafic du tunnel sous la Manche a repris",
+      "source": "24 Heures",
+      "lien": "https://www.24heures.ch/le-trafic-du-tunnel-sous-la-manche-a-repris-200770670860",
+      "image_url": "https://cdn.unitycms.io/images/Cxq4QyGeqf6AI3DCZFDbUS.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBBrs6qL23PN9QjmhuAc0I-FnxaI-A1G9wGmA3VvPSVRwunPSw",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Le trafic du tunnel sous la Manche a repris",
+        "link": "https://www.24heures.ch/le-trafic-du-tunnel-sous-la-manche-a-repris-200770670860",
+        "source": "24 Heures",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQAEvMd_IqlvFQLl1kXsdBFUV_WS9Sig4MCaPWPt74kiigL8M52Q-Khs_XS3cWJZjAnbvuMLOGVOYF_OcOjRYGrXHppgHvgvzF92gSzK9AKxSyw9lg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBBrs6qL23PN9QjmhuAc0I-FnxaI-A1G9wGmA3VvPSVRwunPSw",
+        "thumbnail_width": 185,
+        "thumbnail_height": 272,
+        "image": "https://cdn.unitycms.io/images/Cxq4QyGeqf6AI3DCZFDbUS.jpg",
+        "image_width": 641,
+        "image_height": 941
+      },
+      "webpage": {
+        "text": "Le trafic du tunnel sous la Manche a repris\n\nLe trafic Eurostar a repris après une suspension mardi en raison de l'irruption sur le terminal Eurotunnel de Coquelles, près de Calais, de quelque 200 grévistes de MyFerryLink.\n\nMis à jour: 24.06.2015, 14h05\n\nLe trafic Eurostar a repris mercredi matin après une suspension mardi après-midi en raison de l'irruption sur le terminal Eurotunnel de Coquelles, près de Calais, de quelque 200 grévistes de MyFerryLink, qui avait requis un temps de réparation et de vérification des voies SNCF avant tout retour à la normale.\n\nLe site d'Eurostar indiquait que le premier train, celui de 07h10, et tous les suivants au départ de Paris et à destination de Londres étaient «à l'heure». Une porte-parole de la compagnie avait indiqué à l'AFP mardi soir que le trafic reprendrait mercredi.\n\nÀ ce stade, vous trouverez des contenus externes supplémentaires. Si vous acceptez que des cookies soient placés par des fournisseurs externes et que des données personnelles soient ainsi transmises à ces derniers, vous devez autoriser tous les cookies et afficher directement le contenu externe.\n\nLes manifestants «ont endommagé des sections de voie qui sont utilisées pour rentrer dans le tunnel sous la Manche, une de ces portions est utilisée uniquement par les trains Eurostar, qui est toujours en réparation», avait expliqué cette porte-parole.\n\nSur Twitter, la compagnie Eurotunnel expliquait mardi que des marins du port de Calais (Pas-de-Calais) étaient présents sur les voies. Elle recommandait aux voyageurs de reporter leur trajet.\n\nÀ ce stade, vous trouverez des contenus externes supplémentaires. Si vous acceptez que des cookies soient placés par des fournisseurs externes et que des données personnelles soient ainsi transmises à ces derniers, vous devez autoriser tous les cookies et afficher directement le contenu externe.\n\nÀ ce stade, vous trouverez des contenus externes supplémentaires. Si vous acceptez que des cookies soient placés par des fournisseurs externes et que des données personnelles soient ainsi transmises à ces derniers, vous devez autoriser tous les cookies et afficher directement le contenu externe.\n\n\nLa vente de deux de leurs trois bateaux\n\nLes employés de MyFerryLink protestaient contre la vente par Eurotunnel de deux de leurs trois bateaux au concurrent danois DFDS Seaways, qui leur fait redouter le licenciement de près de 500 d'entre eux sur un total de 600.\n\nLes éventuels repreneurs ont jusqu'à mercredi 15eures pour déposer un dossier de reprise des bateaux. La Scop SeaFrance, gestionnaire de MyFerryLink, entend faire valoir le sien.\n\nEric Vercoutre, le secrétaire général du Syndicat Maritime Nord, majoritaire chez MyFerryLink et animateur du mouvement de protestation, devait être reçu ce mercredi matin au conseil régional du Nord/Pas de Calais, à Lille.\n\nLe gouvernement français a demandé mardi à Eurotunnel de «travailler à une meilleure solution» pour permettre «la reprise de davantage de salariés», selon un communiqué du Secrétariat d'Etat aux Transports et du ministère de l'Ecologie.\n\nAFP\n\nCet article a été automatiquement importé de notre ancien système de gestion de contenu vers notre nouveau site web. Il est possible qu'il comporte quelques erreurs de mise en page. Veuillez nous signaler toute erreur à community-feedback@tamedia.ch. Nous vous remercions de votre compréhension et votre collaboration.",
+        "metadata": {
+          "title": "Le trafic du tunnel sous la Manche a repris",
+          "og:type": "article",
+          "article:modified_time": "2015-06-24T12:05:16.000Z",
+          "description": "Le trafic Eurostar a repris après une suspension mardi en raison de l'irruption sur le terminal Eurotunnel de Coquelles, près de Calais, de quelque 200 grévistes de MyFerryLink.",
+          "og:title": "Le trafic du tunnel sous la Manche a repris",
+          "og:description": "Le trafic Eurostar a repris après une suspension mardi en raison de l'irruption sur le terminal Eurotunnel de Coquelles, près de Calais, de quelque 200 grévistes de MyFerryLink.",
+          "og:image": "https://cdn.unitycms.io/images/3wIx939PKEg8F4EM-bd2XN.jpg?op=ocroped&val=1200,600,1000,1000,0,0&sum=fRCpfVtyPVY",
+          "og:site_name": "24 heures",
+          "og:url": "https://www.24heures.ch/le-trafic-du-tunnel-sous-la-manche-a-repris-200770670860",
+          "fb:app_id": "251285271592561"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsMediaOrganization",
+          "name": "Tamedia Publications romandes S.A.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.24heures.ch/assets/images/logos/png/logo_24heures.png",
+            "width": "600",
+            "height": "60",
+            "contentUrl": "https://www.24heures.ch/assets/images/logos/png/logo_24heures.png"
+          },
+          "url": "https://www.24heures.ch",
+          "foundingDate": "1988-06-08",
+          "sameAs": [
+            "https://www.facebook.com/24heures.ch/",
+            "https://twitter.com/24heuresch",
+            "https://www.instagram.com/24heures.ch/",
+            "https://www.linkedin.com/company/24-heures/",
+            "https://www.youtube.com/channel/UCM_qQbU6ZHF4a50i5QhGqiQ"
+          ],
+          "alternateName": [
+            "24 heures",
+            "24heures"
+          ],
+          "masthead": "https://www.24heures.ch/impressum-24-heures-154248400196",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "url": "https://helpcenter.24heures.ch/s/"
+          }
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Le trafic du tunnel sous la Manche et d'Eurostar a repris après une suspension causée par l'intrusion d'environ 200 grévistes de MyFerryLink sur le terminal Eurotunnel de Coquelles, près de Calais. Les manifestants ont endommagé des sections de voies. Les employés protestaient contre la vente de deux des trois bateaux de MyFerryLink au concurrent DFDS Seaways, menaçant de nombreux emplois. Eric Vercoutre, secrétaire général du Syndicat Maritime Nord, devait être reçu au conseil régional du Nord/Pas-de-Calais à Lille.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Eric Vercoutre"
+        ],
+        "LOCATION": [
+          "Coquelles",
+          "Calais",
+          "Paris",
+          "Londres",
+          "Pas-de-Calais",
+          "Nord/Pas de Calais",
+          "Lille"
+        ],
+        "ORGANIZATION": [
+          "24 Heures",
+          "Eurostar",
+          "Eurotunnel",
+          "MyFerryLink",
+          "SNCF",
+          "AFP",
+          "DFDS Seaways",
+          "Scop SeaFrance",
+          "Syndicat Maritime Nord"
+        ],
+        "DATE": [
+          "mardi",
+          "24.06.2015",
+          "mercredi",
+          "mercredi matin",
+          "07h10",
+          "mardi soir",
+          "mercredi 15eures"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7340640769259125
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Slovyansk",
+      "Ukraine"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "proRussian protester",
+      "railway lines"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Childs",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jane Schaffer",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Jameson",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jillian Masselos",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "James Masselos",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Helen Deeble",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Eric Vercoutre",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Calais",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M20",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Maidstone",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ashford",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dover",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "A2",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M2",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hollingbourne",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kent",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "A20",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris Gare Du Nord",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Birmingham",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Channel Tunnel",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St Pancras",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lille",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Australia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Coquelles",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Londres",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pas-de-Calais",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nord/Pas de Calais",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Eurostar",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Eurotunnel",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kent police",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Telegraph",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Telegraph Media Group Holdings Ltd",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Mirror",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Syndicat Maritime Nord",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "P&O",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MyFerryLink",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "DFDS",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "24 Heures",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SNCF",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Scop SeaFrance",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "a week",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday morning",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "24.06.2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "07h10",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "mercredi 15eures",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Operation Stack",
+      "rangs": [
+        1,
+        2
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:24:07.743594"
+  }
+}

@@ -1,0 +1,1246 @@
+{
+  "id_rumeur": 1459268,
+  "id_image": 1459268,
+  "caption": "The three bells were shipped from Wales to Chile in September 2011",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748672/oluyewo_benchmark/bzqsrhq8hephpidxy9wc.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Santiago bells: Swansea service to mark Chile cathedral fire ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-wales-south-west-wales-25279970",
+      "image_url": "http://news.bbcimg.co.uk/media/images/71600000/jpg/_71600997_bells_304.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZeg0p3C3GXEn3RmaYDNXc-q93c01vDeWFN2TID4pBd40KafrG",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Santiago bells: Swansea service to mark Chile cathedral fire ...",
+        "link": "https://www.bbc.com/news/uk-wales-south-west-wales-25279970",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZeg0p3C3GXEn3RmaYDNXc-q93c01vDeWFN2TID4pBd40KafrG",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/71600000/jpg/_71600997_bells_304.jpg",
+        "image_width": 261,
+        "image_height": 464
+      },
+      "webpage": {
+        "text": "Santiago bells: Swansea service to mark Chile cathedral fire\n\nA special service is taking place in Swansea to mark the 150th anniversary of a fire at a cathedral in Chile which killed 2,500 people.\n\nThe link with the Cathedral de la Campania in Santiago is that three of its huge bells had been bought as scrap and shipped to Swansea.\n\nThey were taken to the 12th Century All Saints Church in Mumbles, while a fourth bell was found in Neath.\n\nAll four bells have been returned to Chile in recent years.\n\nIt is understood Victorian businessman Graham Vivian was behind the plan to ship the bells to Swansea following the fire on 8 December, 1863, through his business links with South America in the copper ore trade.\n\nThe bells were given a new home at All Saints Church - where the Vivian family had a pew - where they stayed until their return to Santiago.\n\nThe service at the church on Sunday will coincide with one taking place in Chile to mark the anniversary.\n\nDuring the service, the Swansea Philharmonic Choir will sing songs written by composer Vernon Hopkins, which have also been recorded on CD.\n\nOne of the songs is entitled The Bells of Santiago.\n\nA book written by Canon Keith Evans of All Saints Church detailing the history of the Bells of Santiago and their journey to Swansea and back has also been published.",
+        "metadata": {
+          "description": "A special service takes place in Swansea to mark the 150th anniversary of a fire at a cathedral in Chile which killed 2,500 people.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A special service takes place in Swansea to mark the 150th anniversary of a fire at a cathedral in Chile which killed 2,500 people.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/71600000/jpg/_71600997_bells_304.jpg",
+          "og:image:alt": "The Bells of Santiago",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Santiago bells: Swansea service to mark Chile cathedral fire",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-wales-south-west-wales-25279970",
+          "article:section": "South West Wales",
+          "twitter:description": "A special service takes place in Swansea to mark the 150th anniversary of a fire at a cathedral in Chile which killed 2,500 people.",
+          "twitter:title": "Santiago bells: Swansea service to mark Chile cathedral fire"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-wales-south-west-wales-25279970",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2013-12-08T09:25:47.000Z",
+          "dateModified": "2013-12-08T09:25:47.000Z",
+          "description": "A special service takes place in Swansea to mark the 150th anniversary of a fire at a cathedral in Chile which killed 2,500 people.",
+          "headline": "Santiago bells: Swansea service to mark Chile cathedral fire",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/71600000/jpg/_71600997_bells_304.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/71600000/jpg/_71600997_bells_304.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-wales-south-west-wales-25279970",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une cérémonie spéciale a lieu à Swansea pour marquer le 150e anniversaire d'un incendie dans une cathédrale au Chili qui a fait 2 500 morts. Le lien avec la cathédrale de la Compañía à Santiago réside dans le fait que trois de ses énormes cloches ont été achetées comme ferraille et expédiées à Swansea par l'homme d'affaires victorien Graham Vivian, puis installées à l'église All Saints à Mumbles, tandis qu'une quatrième cloche a été trouvée à Neath. Les quatre cloches ont été ramenées au Chili ces dernières années. Lors de l'office, le Swansea Philharmonic Choir chante des chansons composées par Vernon Hopkins, dont 'The Bells of Santiago', et un livre du chanoine Keith Evans détaillant l'histoire des cloches a été publié.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Graham Vivian",
+          "Vernon Hopkins",
+          "Keith Evans"
+        ],
+        "LOCATION": [
+          "Swansea",
+          "Chile",
+          "Santiago",
+          "Mumbles",
+          "Neath",
+          "South America"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Cathedral de la Campania",
+          "All Saints Church",
+          "Swansea Philharmonic Choir"
+        ],
+        "DATE": [
+          "25279970",
+          "150th",
+          "12th Century",
+          "8 December, 1863",
+          "Sunday",
+          "recent years"
+        ],
+        "EVENT": [
+          "cathedral fire",
+          "service"
+        ],
+        "OTHER": [
+          "The Bells of Santiago"
+        ]
+      },
+      "score_e5": 0.7778632955867703
+    },
+    {
+      "titre": "BBC News - Church bells may return to Chile",
+      "source": "Home - BBC News - BBC",
+      "lien": "http://news.bbc.co.uk/2/hi/uk_news/wales/south_west/8504057.stm",
+      "image_url": "http://newsimg.bbc.co.uk/media/images/47265000/jpg/_47265006_-15.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRvos6iLn_-giTEEMFZQOEjyjddEoJCK8VI5FwHCXOySQY0KEK",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "BBC News - Church bells may return to Chile",
+        "link": "http://news.bbc.co.uk/2/hi/uk_news/wales/south_west/8504057.stm",
+        "source": "Home - BBC News - BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAAADrAADsAACVAADmAACKAADTAACHAADWAAAsAAB_AADPAACtAAAnAACcAABVAACyAABrAAC4AAAwAAC7AABdAADhAAAaAAAjAABxAAA2AABKAAA6AAAOAACXAAAfAABDAABjAAAXAACdPocrAAAAkUlEQVQ4jdXQ0RaCIAyAYRFwZRKwrMBqlu__kJlk3QzvOtV__Z2dbUXxf1lJMkVyzwFQrw6SA1qUc4oyQKRKlZvwIXBcT4UsiI0bQxlyAKrVo2YHObCpxhJg__AGSsyxE7oTaNApsAw4X4wxPXd-WtJ1lohqRth6yg8e23ZruBc-84jfBw6RwgK4xhhvwwL4ze5hLgn0cHBdTAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRvos6iLn_-giTEEMFZQOEjyjddEoJCK8VI5FwHCXOySQY0KEK",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://newsimg.bbc.co.uk/media/images/47265000/jpg/_47265006_-15.jpg",
+        "image_width": 288,
+        "image_height": 512
+      },
+      "webpage": {
+        "text": "The bells were taken down from the tower at All Saints Church in 1964\n\n\nA set of church bells which have been kept in a church in Mumbles near Swansea for almost 150 years could return to Chile to form a memorial.\n\nBefore arriving at All Saints Church they were shipped from Santiago after a cathedral they were initially housed in burned down, killing 2,500 people.\n\nNow the Chilean government has asked if they could return to South America.\n\nMembers of All Saints Church council said it was \"right and proper\" that they return home.\n\nThe three bells were initially housed in the Jesuit Church of Le Compana in the Chilean capital.\n\nBut it was hit be a terrible fire in 1863 and were sold for scrap before being shipped to Swansea.\n\nParish priest Rev Keith Evans said: \"[We had] a letter requesting that they go back from the Chilean ambassador.\n\n\"Apparently the Chilean president is very keen that they go back to form a memorial for the 2,500 who died in the Jesuit Cathedral in Santiago.\"\n\nThe bells of Santiago cathedral have been kept in All Saints Church in Mumbles, Swansea for the last 140 years\n\nThey are currently displayed on a metal frame in the porch at All Saints but used to ring out across Mumbles.\n\nThey were taken down from the tower in 1964 as it could no longer support their weight.\n\nThe parish church council has voted without that, in principle, they should return to Santiago.\n\nCouncil member Katherine Williams said: \"Thinking of the Christian point of view and the terrible tragedy that led to them being disused there we felt it was the right and proper thing for them to go back.\n\n\"They have nothing there at the moment to remember them by.\"\n\nThe council has now entered a period of consultation with parishioners.\n\nMr Evans said they would need the consent of the diocese and the bishop.\n\n\"It could take a few months yet but we anticipate maybe in the autumn we will have some sort of handing over ceremony.\"",
+        "metadata": {
+          "title": "BBC News - Church bells may return to Chile",
+          "keywords": "BBC, News, BBC News, news online, world, uk, international, foreign, british, online, service",
+          "Description": "Bells at a church may be returned to Chile almost 150 years after they were shipped across the Atlantic."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un ensemble de cloches d'église conservées dans une église de Mumbles près de Swansea pendant près de 150 ans pourrait retourner au Chili pour former un mémorial à la suite de la demande du gouvernement chilien. Les trois cloches provenaient initialement de l'église jésuite de La Compañía à Santiago, qui a été détruite par un terrible incendie en 1863 faisant 2 500 morts, avant d'être vendues comme ferraille et expédiées à Swansea. Le prêtre de la paroisse, le révérend Keith Evans, indique que l'ambassadeur chilien et le président souhaitent leur retour. Le conseil paroissial a voté en faveur de ce retour, qui nécessite le consentement du diocèse et de l'évêque.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Keith Evans",
+          "Katherine Williams"
+        ],
+        "LOCATION": [
+          "Mumbles",
+          "Swansea",
+          "Chile",
+          "South America",
+          "Santiago"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "All Saints Church",
+          "Jesuit Church of Le Compana",
+          "Jesuit Cathedral"
+        ],
+        "DATE": [
+          "1964",
+          "150 years",
+          "1863",
+          "140 years",
+          "autumn"
+        ],
+        "EVENT": [
+          "fire"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7824140998842796
+    },
+    {
+      "titre": "Clear as a Bell – FanningSparks",
+      "source": "FanningSparks",
+      "lien": "https://fanningsparks.com/clear-as-a-bell/",
+      "image_url": "https://fanningsparks.com/wp-content/uploads/2022/12/Bells-in-Ghent-Belfry-Belgium.png",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPSXfkfkQdjnbBGukDBLUj-SguBlDRhjY3HhezJIEXrxhWNtEd",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Clear as a Bell – FanningSparks",
+        "link": "https://fanningsparks.com/clear-as-a-bell/",
+        "source": "FanningSparks",
+        "source_icon": "https://serpapi.com/searches/6a8efed4b2c613a36406b265/images/b_h7cbBEqf24Gjh0b4zrycnvz1iHp2zSofHGmOQJCLs.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPSXfkfkQdjnbBGukDBLUj-SguBlDRhjY3HhezJIEXrxhWNtEd",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://fanningsparks.com/wp-content/uploads/2022/12/Bells-in-Ghent-Belfry-Belgium.png",
+        "image_width": 768,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Clear as a Bell – FanningSparks\n\n“I heard the bells on Christmas Day\nTheir old, familiar carols play,\nAnd wild and sweet\nThe words repeat\nOf peace on earth, good-will to men!”\nThese famous words were written in 1863 by Henry Wadsworth Longfellow in his poem Christmas Bells.  They became more widely known, nearly a hundred years later, when Bing Crosby recorded them as a Christmas carol.\nChurch bells, such as this trio spotted in Rome Italy, are often associated with the holiday season.  But, as I learned while researching today’s blog post, there’s a lot more to this subject than a catchy tune.\n\nRinging church bells to mark Christmas and New Year is a cherished custom in many parts of the world.  Church bells also bring to mind church services and weddings.  According to Wikipedia, “In AD 604, Pope Sabinian officially sanctioned the usage of bells to announce services and call worshippers.  By the early Middle Ages, church bells became common in Europe.”  Here’s another example—this single bell is from the island of Hydra in Greece.\n\nIt’s said that in Great Britain nearly everyone lives within hearing range of bells.  The bells, according to the Bell Ringing Organization, “call us to wake, to pray, to work, to arms, to feast and, in times of crisis, to come together. Above all, bells are the sound of freedom and peace as in World War II they hung silently until the day they could ring in the peace.”\nI discovered this classic church bell tower in Fão Esposende in Portugal.\n\nIn her book Bells, Bells, Bells, author Bernadine Bailey tells us “In olden times, people believed that bells had supernatural powers to drive out evil as well as to ward off danger.  It was commonly thought that demons and ghosts could be scared away by the sound of metal, such as the beating of gongs or the ringing of bells.  On Midsummer Eve, when witches were supposed to gather, church bells were rung all night long to drive them away.”\nThe moon is just barely visible in this photo of a bell tower in Caminha, Portugal.\n\nBailey goes on to explain “It was also believed that bells could have a great effect upon the weather, especially on thunder and lightning that were thought to be controlled by demons.  The people felt that these spirits would be frightened by any sound connected with Christian worship, so they rang church bells when a storm was approaching to scare them away.”\nI searched my archives for photos of bells and found a surprising variety from our travels in Europe.  This early morning shot of the bridge in Avignon, France is one of my all-time favorites but I didn’t realize, until just now, that there are bells on the bridge!\n\nApparently, at one time there was an active chapel, the Saint Nicholas Chapel, on the bridge.\n\nThe soft light of early morning adds a magical glow to the bell towers of this twelfth-century church, Santa Maria a Casavecchia, near Spedaletto in Tuscany Italy.\n\nIt’s fascinating to examine the various bell towers.  Many of them, like this one in Oberhofen, Switzerland, hold clocks as well as bells.\n\nThis elaborate bell tower on the Old Castle Tower in Caminha, Portugal also displays a simple clock face.\n\nI learned about the connection between bells and clocks when visiting the Ghent Belfry, a well-known landmark and UNESCO World Heritage Site in Belgium, earlier this year (see the blog post Expected and Unexpected Delights of Ghent for a peek into the many charms of this historic city).\n\nThe Ghent Belfry, which dates back to 1313, housed communal bells managed by tower guards.  In addition to standing guard to watch for fires, storms, attacks and other danger, the tower guards were bell-ringers.  They rang the bells on the hour and for work setting the rhythm of life in the medieval city.  Interestingly, because early clocks were wooden and did not track time accurately, the tower guards had to rely on sundials to correct the time several times a day.  (For more information about sundials check out the FanningSparks blog post Count Only Sunny Hours.)\n“Through the centuries, the belfry served not only as a bell tower to announce the time and various warnings, but also as a fortified watchtower and the place where the documents evidencing the municipal privileges were kept.” says Wikipedia.  “The bells in the belfry originally only served a religious purpose. Gradually the bells got a secular role by regulating daily life in the growing medieval city. The hourly chime was preceded by warning signals on three smaller bells with various tones. This was the predecessor of the carillon.”\nAs explained by author Rev. Dan McDowell, “a carillon is a musical instrument that is typically housed in the bell tower (or belfry) of a church. The instrument consists of at least 23 cast bronze, cup-shaped bells, which are serially played to produce a melody, or sounded together to play a chord. A traditional manual carillon is played by striking a keyboard to activate levers and wires that connect to metal clappers that strike the inside of the bells, allowing the performer on the bells to vary the intensity of the note according to the force applied to the key. … Most modern carillons … are operated electronically.”\nIt’s possible to view the bells at the top of the Ghent Belfry.\n\nBells are, of course, not limited to bell towers.  In Asia, for instance, it’s common to see wind-bells attached to the eaves of temples and other special structures.  “Buddhists especially made use of wind-bells, attaching them profusely by the hundreds or even thousands to the eaves of temples, shrines, and pagodas, causing during breezy moments an almost overwhelming volume of tintinnabulation.” states the Encyclopedia Britannica.  “Tintinnabulation”, by the way, means the ringing or sounding of bells or a jingling or tinkling sound as if of bells.\nWind-bells are visible on the eaves of the Five-Storied Pagoda at the Sensoji Temple in Tokyo, Japan.\n\nInterestingly, in 1996, Japan’s Ministry of Environment selected 100 Soundscapes of Japan as part of its efforts to combat noise pollution.  The 100 best sounds include 13 different bells (such as temple bells, time bells and tower bells) in addition to waterfalls, streams, vegetation, waves, singing sand and festivals.\nI also spotted wind-bells on the Five-Storied Pagoda at the Nikko Toshogu Shrine in Japan.\n\nHere’s another wind-bell sighting.  This splendid structure is Wat Lok Moli, a Buddhist temple, in Chiang Mai, Thailand.\n\nIn addition to their roles in churches, watch towers and temples, bells serve a surprising number of functions in everyday life.  Their shape and size may vary but their ability to attract attention is consistent.  Shopkeeper’s bells, for instance, alert the shop owner of a customer’s entrance or exit.\n\nAt one time, hand bells or tea bells were used to summon service—much like the privileged Crawleys did in the Downton Abbey TV series!  Handbells are still advertised as a great way to call guests to tea, get the family to the dinner table, or get attention from a sick bed.\nHere’s an assortment of hand and tea bells from a local vintage shop.\n\nTraditionally, bells are cast in bronze because, as author Elizabeth Starr Hill explains in her book Bells, “the clearest and sweetest bell voice is produced by bronze”.  If I’d known that when I spotted this charming array of bronze hand bells at the El Rastro flea market in Madrid, Spain, I would surely have selected one or two to take home.\n\nBells were also on offer at a flea market I visited in Tongeren, Belgium.  The variety of decorations on these wall-mounted bells, from roosters to horses to ducks to airplanes to motorcycles to cats, is amazing.\n\nAnother type of bell with a long history of important service is the ship’s bell.  “Used for signaling, keeping time, and sounding alarms, bells are an important part of a ship’s routine and readiness. Before the advent of the chronometer, time at sea was measured by the trickle of sand through a half-hour glass. One of the ship’s boys had the duty of watching the glass and turning it when the sand had run out. When he turned the glass, he struck the bell as a signal that he had performed this vital function. This age-old practice of sounding the bell on the hour and half hour still holds a place in the modern Navy.  The sounding of a ship’s bell can serve as a warning signal to other vessels in poor visibility and fog. In 1858, British naval regulations made this warning function mandatory. Today, maritime law requires all ships to carry an efficient bell.” reports the US Naval History and Heritage Command website.\nThis is the ship’s bell on the Bluenose II, Nova Scotia’s iconic racing schooner, which I had a chance to tour last fall.\n\nIn the same way a ship’s bell can be used to warn other ships of her approach, bicycle bells are used to warn other cyclists and pedestrians.  This striking bicycle bell was spotted in Amsterdam, Netherlands.\n\nSleigh bells originated for the same purpose.  Wikipedia explains “In the winter in New England in pre-automobile days, it was common to adorn horses’ harnesses with straps bearing bells as a way to avoid collisions at blind intersections, since a horse-drawn sleigh in snow makes almost no noise.”  Interestingly, the rhythm of the ever-popular Christmas song Jingle Bells, “mimics that of the trotting horse’s bells”.\nThis vintage cow bell and strap of sleigh bells, complete with dust and spider webs, was spotted in an old barn.\n\nBells have a long and interesting story to tell.  Yet, they go mostly unnoticed until the holiday season.  At this time of year, from the ringing of church bells to the jingle of sleigh bells, the sweet sound of bells provides a beautiful, audible reminder of the season’s joy.\n\n\nMore Info\n\nCheck out the following FanningSparks blog posts:\n. Expected and Unexpected Delights of Ghent for lots of photos and a summary of my visit to Ghent Belgium\n. Count Only Sunny Hours to learn about sun dials.\nSeveral online resources were consulted for today’s blog post including:\n. Wikipedia for various topics\n. Bell Ringing Association website regarding the history of bell ringing\n. Book: Bells, Bells, Bells by Bernadine Bailey which is available here on Archives.org\n. The History and Significance of Church Bells by Rev. Dan McDowell, 2014 Olean Times Herald article\n. Encyclopedia Britannica website regarding Wind-bells\n. Book: Bells by Elizabeth Starr Hill which is available here on Archives.org\n. US Naval History and Heritage Command website regarding Ships Bells.\n\n\nToday’s Takeaways\n\n1. Bells perform a wide variety of functions such as sounding alarms, keeping time, calling to worship, attracting attention, signaling and celebrating special events.\n2. Ringing church bells to mark Christmas and New Year is a cherished custom in many parts of the world.\n3. The sound of bells, from church bells to sleigh bells, is closely associated with the holiday season.",
+        "metadata": {
+          "title": "Clear as a Bell &#8211; FanningSparks"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le texte aborde la tradition des cloches d'église associées aux fêtes de fin d'année, aux services religieux et aux mariages, en citant des exemples historiques et géographiques à Rome (Italie), sur l'île d'Hydra (Grèce), à Fão Esposende (Portugal), à Caminha (Portugal), à Avignon (France), près de Spedaletto en Toscane (Italie) et à Oberhofen (Suisse). Il mentionne également le poème 'Christmas Bells' écrit en 1863 par Henry Wadsworth Longfellow, l'institution de l'usage des cloches par le pape Sabinien en l'an 604 après J.-C., ainsi que des croyances anciennes sur les pouvoirs des cloches pour chasser les démons et influencer la météo.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Henry Wadsworth Longfellow",
+          "Bing Crosby",
+          "Pope Sabinian",
+          "Bernadine Bailey"
+        ],
+        "LOCATION": [
+          "Rome",
+          "Italy",
+          "Hydra",
+          "Greece",
+          "Great Britain",
+          "Fão Esposende",
+          "Portugal",
+          "Caminha",
+          "Avignon",
+          "France",
+          "Spedaletto",
+          "Tuscany",
+          "Oberhofen",
+          "Switzerland"
+        ],
+        "ORGANIZATION": [
+          "FanningSparks",
+          "Wikipedia",
+          "Bell Ringing Organization",
+          "Saint Nicholas Chapel"
+        ],
+        "DATE": [
+          "Christmas Day",
+          "1863",
+          "AD 604",
+          "Early Middle Ages",
+          "World War II",
+          "Midsummer Eve",
+          "twelfth-century"
+        ],
+        "EVENT": [
+          "World War II"
+        ],
+        "OTHER": [
+          "Christmas Bells",
+          "Bells, Bells, Bells"
+        ]
+      },
+      "score_e5": 0.7573949177813014
+    },
+    {
+      "titre": "Church Bells & Monuments – Reconstructing Santiago's Iglesia ...",
+      "source": "Dickinson Blogs",
+      "lien": "https://blogs.dickinson.edu/iglesia/bells/",
+      "image_url": "https://i.ytimg.com/vi/GWx04Egb-pc/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjx3EknwR4U7yIJjzeoTNKb0unlv-LwBx4ucFBqwgRjtz1WJMK",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Church Bells & Monuments – Reconstructing Santiago's Iglesia ...",
+        "link": "https://blogs.dickinson.edu/iglesia/bells/",
+        "source": "Dickinson Blogs",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEVHcEwAap2OzuA3jrMQe6cSeKUAYpgAZ5sAU5A_jLH___8AdKIAapwAbp8AcqHS4-ygw9Xo8fVKkbVZmbrz-fu0z96Mt854qsQigaoAYJf85heUAAAACnRSTlMAJwg-_dhSnhL48xtUyQAAAcJJREFUOI2FU9uW2zAIdLZyZCmgu2T7_3-0A4p9NtuelieMYRgGtCy3bU-7ulLcap_b8qc9rEvZq-Xk7M-UL1uj9zHtte5JvGo__m-m-7YbYjEiszff128gv47sB3F4vS0wDZ_N464_mq_0-rCzIOON8WWyP_jzP-9Cdp0JtvtCRPwKpCTEO3Scrkwf1ceRehxUY08jpd45lDlwlSY2ztkru6RuGqDbxGsREFvxEm5nQAtFPsCXh3jDu215Jq_hIkOSaJno8oxPz8XmeApEl7AWZr7GOGO2i0OFziQI4QYTFvFMfkXCzkYoVSkkAUtvTyrdUlBA_epBQwnPBMfVFyRUhoMwXQjag3MmTZAWL2ozDA5xzgFvMEuLVVpSmj14z24Sxj8TWEhiTOSXGSYInhWMeiZ8YkwIZVCQdY4AGScYoUNQoSA1SKhCnfZIKkXDORxBKGyyLPAPL6_KDZ6DYG_ooMtatopzm-HqkalgKQ85O123Hgyr9g1l17GIOP192mvDyanc-y13PI_75PRoywm5m5GNqa614Os-_AcyBqSI87QJqen72QNj7R5K1PlyTt3d-vn6_vP0BOTfj1dT_vr8fwNlGisVjN1PPgAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjx3EknwR4U7yIJjzeoTNKb0unlv-LwBx4ucFBqwgRjtz1WJMK",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/GWx04Egb-pc/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Church Bells & Monuments – Reconstructing Santiago’s Iglesia de la Compañía\n\nIn 2009, in preparation for the bicentennial celebration of Chile’s independence the following year, efforts were made by the Chilean government to bring back three of the bells that had formed part of the Iglesia de la Compañía. After the 1863 fire, the bells had been sold to a British businessman, Graham Vivian, to be scrapped. Vivian had brought the bells to Swansea, where, instead of melting the bells, he had offered them to the Church of All Saints in Oystermouth at the recommendation of his brother. The three bells had subsequently resided in the Anglican Church for nearly 150 years.\n\nIn September 2010, the bells were returned to Santiago and formed part of the bicentennial events. Two are now showcased in a new, partially underground monument that was under construction in March 2018, when this video was captured. The monument is located in the gardens of the Ex-Congreso Nacional, where La Compañía had stood and where the two bells brought from England had been hanging in a provisional structure. By October 2018, the memorial site was completed (see the news coverage here). The third bell was placed in a separate monument in el Cuartel General del Cuerpo de Bomberos. Other bells housed in La Compañía are scattered throughout the city.\n\nThere are two principal Marian statues that commemorate the victims of the 1863 fire. La Dolorosa was originally erected in 1873 at the former site of the Church that had been demolished after the tragedy.  Considered by many faithful to be too pagan, La Dolorosa was relocated to the Cementerio General. In its place, a second Marian monument in white marble was installed, and still remains in the gardens of what is now the Ex-Congreso Nacional.\n\n\nStops on the Map\n\nSanta Lucía\n\n\nFormer National Congress Headquarters\n\n\nEl Cuartel General de Bomberos\n\n\nLa 14a Compañía de Bomberos\n\n\nIglesia San Ignacio\n\n\nEl Cementerio General (La Dolorosa)\n\n\nPanoramic Views of the Ex Congreso Nacional\n\n\nAdditional Videos about the Church Fire and the Bells",
+        "metadata": {
+          "title": "Church Bells &amp; Monuments &#8211; Reconstructing Santiago’s Iglesia de la Compañía"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "En 2009, dans le cadre de la préparation du bicentenaire de l'indépendance du Chili, le gouvernement chilien a entrepris de ramener trois des cloches de l'Iglesia de la Compañía. Après l'incendie de 1863, les cloches avaient été vendues à un homme d'affaires britannique, Graham Vivian, pour être mises au rebut, puis offertes par l'intermédiaire de son frère à l'église All Saints d'Oystermouth, où elles sont restées pendant près de 150 ans. En septembre 2010, elles sont retournées à Santiago. Deux d'entre elles ont été placées dans un mémorial dans les jardins de l'Ex-Congreso Nacional et la troisième dans le Cuartel General del Cuerpo de Bomberos. Le texte mentionne également des monuments mérians commémorant les victimes de l'incendie, tels que La Dolorosa et une statue en marbre blanc.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Graham Vivian"
+        ],
+        "LOCATION": [
+          "Chile",
+          "Santiago",
+          "Swansea",
+          "Oystermouth",
+          "England"
+        ],
+        "ORGANIZATION": [
+          "Iglesia de la Compañía",
+          "Church of All Saints",
+          "Ex-Congreso Nacional",
+          "Cuartel General del Cuerpo de Bomberos",
+          "La 14a Compañía de Bomberos",
+          "Iglesia San Ignacio",
+          "Cementerio General"
+        ],
+        "DATE": [
+          "2009",
+          "1863",
+          "nearly 150 years",
+          "September 2010",
+          "March 2018",
+          "October 2018",
+          "1873"
+        ],
+        "EVENT": [
+          "bicentennial celebration",
+          "fire"
+        ],
+        "OTHER": [
+          "La Dolorosa"
+        ]
+      },
+      "score_e5": 0.781286436237753
+    },
+    {
+      "titre": "The Carillon: The Swinging Bells and the 'St. Ursula-beiaard ...",
+      "source": "Essential Vermeer",
+      "lien": "https://www.essentialvermeer.com/music/carillon/carillon_e.html",
+      "image_url": "https://www.essentialvermeer.com/music/carillon/carillon_imagesBISBIS/FHemony-bells-small.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjk9Z2li4oMEblsBXaYfWTk21DLDOF6BxlCVYVWd7C3fMEaEH9",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "The Carillon: The Swinging Bells and the 'St. Ursula-beiaard ...",
+        "link": "https://www.essentialvermeer.com/music/carillon/carillon_e.html",
+        "source": "Essential Vermeer",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExfY2dfY2heYmhfY2hfY2hfY2hfYmhfY2hfY2hfY2heYmhfY2hLdvrHAAAADHRSTlMAK6UPy06GQ-ly81yP6INFAAAA4ElEQVQ4ja1TWw7DIAyD8AiP3P-8I7QBQttNmuqPChGXOMYY8yqcxRDQuqdy9Ikako_2pmyBFsCFYgsppI2RVRV9-2T1v_7bOO63nGGTquNxZJmMqc-3Oa3swU2DsWdc0yGGxDuCqURxcgWr9ELeicQi_VeXQcxAopr18eIN9kUgCqxjJ_T9ubgqHQQ8tC2MrUUTCXraTWQbs2g_tjG5UPtCEaZRxtHJHSoBu33jtuRiFkujmpvjlDfTdaj4PsEdIw-o0LHVviqCitwZqgIjOuUa6x-xZ8p8OI9v6_vT-xMffsYRIhWPnuoAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjk9Z2li4oMEblsBXaYfWTk21DLDOF6BxlCVYVWd7C3fMEaEH9",
+        "thumbnail_width": 193,
+        "thumbnail_height": 261,
+        "image": "https://www.essentialvermeer.com/music/carillon/carillon_imagesBISBIS/FHemony-bells-small.jpg",
+        "image_width": 347,
+        "image_height": 467
+      },
+      "webpage": {
+        "text": "The Carillon: The Swinging Bells and the 'St. Ursula-beiaard' of the Nieuwe Kerk in Delft\n\nThe construction of the Delft Nieuwe Kerk (Saint Ursula Kerk, according to the second patron saint of the church) began in 1383 while its elegant tower was begun thirteen years later in 1396. After several interruptions (in 1412 and 1434) the tower was ready exactly one century later in 1496. However, less than fifty years after its completion, it was struck by lightning on May 3, 1536 and burst into flames. Fanned by a strong east wind, the fire spread out of control and devastated virtually everything in Delft west of the Nieuwe Kerk. Part of the tower was burned down, the bells were badly damaged and the roof of the clerestory had collapsed. The spire was re-built in 1537 but the Nieuwe Kerk's bad luck was not over. On October 12, 1654, just after midday, the town was struck by the infamous Delft thunderclap. Ninety thousand pounds of gunpowder exploded in the Delft powder-magazine damaging the walls roof of the Nieuwe Kerk and totally destroying its magnificent stained-glass windows. After immediate restoration, the church could be used again by spring of 1655. In 1872 the spire was again destroyed by lightning. The present spire was built in 1877, bringing the total height of the tower to about 109 meters, which is only surpassed in the Netherlands by the Dom tower in Utrecht.\n\n\nBetween 1436 and 1443, seven bells, cast by Pieter van Dormen from Antwerp, were hoisted and put in place in the Nieuwe Kerk spire. But they were damaged in a fire in 1536 so that the kerkmeesters (churchwarden) had to commission new ones, cast by Joest Cetelaar in Mechelen and the second two by Claes Jansz., a coppersmith. In 1538 the kerkmeesters ordered four swinging bells by the bell founders Geert van Wou and Jan ter Steghe in Kampen near Delft. The founders utilized the remains of the damaged bells as klokspijs (bell metal) and fabricated the new ones between September 1538 and May 1539. They were given the names \"Jesus,\" \"Maria,\" \"Ursula\" and \"Martinus\" but unfortunately, they survived only briefly. The Jesus bell broke within the first year, the Ursula broke later and had to be re-cast in 1565, the Maria had to serve as klokspijs for the third cast of the Jesus bell in 1548. The fate of the Martinus is unknown.\n\n\nAfter the building was taken over by the Reformed Church in 1572, the use of the bells for the church services declined. However, some years later new bells were commissioned by the town mayors indicating that they had some right to decide about the use of these bells. First, the \"Vrijheid-klok,\" or \"Libertas,\" was cast in 1607 by Jan Burgerhuys from Middelburg (Zeeland). This bell was destined to replace another one which probably was brought to the city hall tower in order to complete a set of chimes. The Libertas was one of the few swinging bells which were not sold in 1808 to relieve a grave financial crisis of the municipality of Delft. During World War II, the Libertas was confiscated, together with many other Dutch bells. It returned to Delft but while it was being hung, it crashed down to the ground and was totally destroyed. In 1955 the bell foundry \"Koninklijke Eijsbouts\" in Asten cast a copy of the Libertas which still serves its purpose.\n\nIn 1662, the master-bell-founder François Hemony, commissioned by the town mayors, cast another swinging bell for the Nieuwe Kerk. It served as a werkklok, to tell the working citizens of Delft when to begin work in the morning and when they were allowed to go home in the evening. Like with the Libertas, the werkklok wasn't sold in 1808, and after World War II it returned safely to Delft, once again hung in the Nieuwe Kerk tower where it still is in function.\n\nAfter the proclamation of the short-lived Batavian Republic in 1795, the use of the swinging bells declined and a clearer distinction was made between the use of the bells for sacred or for municipal purposes. In 1808, the city of Delft underwent severe financial problems and the mayors were obliged to sell some of the eleven remaining bells in the Oude and Nieuwe Kerk and the city hall. Frederik J. Berghuys, municipal carillonneur in that time, made a detailed inventory with the diameter (measured by himself) and the estimated weight of each of the bells. He proposed to preserve at least two bells per tower, one for the half- and one for the full hour stroke. This meant that five of the eleven bells were sold and six remained in place. One of the survivors was the large Libertas bell of the Oude Kerk, 1570 cast by Hendrik van Trier. For the Nieuwe Kerk these were the Libertas and the Hemony werkklok, as mentioned above. The sale brought the amount of 11,820 gulden.\n\nIn 1659, François Hemony was commissioned by the city council of Delft to cast a wachtklok (a bell used by the town waits) which he was able to cast in the same year. Following this successful contact, new negotiations followed concerning a new carillon for the city hall to replace the old one (with 16 resp. 20 bells) which was at the time under restoration. But it was only in 1659 that Hemony offered a first draft for the new carillon with 32 bells in three chromatic sets. The 20 old bells could serve as part of the payment as klokspijs for the casting material of the new bells. In a second letter of May 1660, Hemony made a new offer for the 32 bells with slight differences in their weights. Twenty new bells had already been weighed on 29th April, 1660 and were hung up on 4th May, 1660 but not, according to the original plan, in the tower of the city hall but in that of the Nieuwe Kerk. On the same day Hemony delivered twenty iron forged clappers, a baton keyboard and 19 tumblers for the keyboard. The Delft municipality agreed with Hemony's plan on May 19, 1660, and three days later, on May 22, commissioned another bell with \"a0-pitch\" for the clock stroke. This large bell together with the twelve remaining bells were delivered shortly thereafter: ten bells were weighed on 8 July and the three largest, among them the \"a0-bell,\" on August 13, 1660. The bells of the second delivery are marked \"1660\" while the 20 bells from the first delivery are marked \"1659.\" In his second letter Hemony provided detailed information which bells were cast in 1659 and which in 1660.\n\nThe clappers for the twelve remaining bells were consigned on 30th August, and in the middle of September 1660 the large bell for the clock stroke was hung up in the tower. Its clapper was finally delivered in March 1661.\n\n\nHemony's new carillon had a tonal range of almost three octaves: from c1 up to a3. As with most seventeenth-century carillons, the bass octave had no Cis and Dis since these notes were seldom in the music of that time (see above Dirck Scholl in the dispute). The carillon is tuned in mean-tone temperament, which was likewise usual in that times for an instrument without the capacity for flexibility of intonation during performance like for instance the string instruments. Roughly put, the mean-tone temperament is a tuning with pure major thirds divided into two equal whole tones. To achieve this, the tuner must temper the fifths and fourths, making the fifths a bit smaller and the fourths a bit larger than pure. It was a frequent keyboard tuning in the Renaissance and the Baroque era.\n\nAfter the installation of the carillon in the tower with the assistance of the Delft's clock maker Coenraet Harmensz. Brouckman, all the attention turned towards the installation of the automatic chiming system. For this Hemony cast the large drum and delivered it on November 27,1660. But the clockwork from the city hall, made in 1570 by Hendrick van Nuys, had not yet been brought into the tower of the Nieuwe Kerk as it had been planned so Hemony had to delegate the mounting of the entire automatic chiming system to the clock maker Jan van Call from Nijmegen. The 4th December, 1660, the day of a payment to François Hemony, was the last sign of his stay in Delft. Later he gave further instructions in several letters to the havenmeester Bartholomeus van der Mast.\n\nIn February 1661 the clockmaker Brouckman moved the clockwork from the city hall to the Nieuwe Kerk tower and delivered a set of new hammers for the automatic chimes. In addition, he fabricated a new clockwork for only two of the three remaining bells there as well as four new clock-faces with hour hands for the Nieuwe Kerk. It took nearly two years until Jan van Call to finish mounting and fitting of the automatic chiming mechanism. When departing from Delft he left a specificatieboek, a book with detailed instructions for the upkeep of the entire system, together with a precise written record of all the work he had performed on the system from October 1661 until May 1663.\n\nAlthough the carillon had hung in the tower for some time, the responsible authorities waited with the final examinations of the entire system before completing the automatic chiming mechanism as Hemony had suggested in a letter to Van der Mast. These two examinations were held in February and in May 1663 by the experts Alwijn de Vois, organist of the Saint Pieterskerk in Leiden, Johannes Dix (Dyckx), carillonneur in Utrecht, Jan Dircksz. Scholl, carillonneur in Brielle and his son Dirck Scholl, organist and carillonneur in Arnhem and later Delft's renowned municipal carillonneur and organist at the Nieuwe Kerk. Apparently, the new carillon met the approval of both the experts and the municipality. A second carillonneur was employed so that the weekly performances could be extended from three up to eight concerts per week and it is easy to imagine that public listened with the same delight to this wonderful, finely tuned new musical instrument. In Dirck van Bleyswijck's chronicle Beschrijvinge der stadt Delft (1667) we encounter detailed descriptions and understandable praise of both the old chime of the city hall and the carillon in the Nieuwe Kerk. Van Bleyswijck's commented on the choice of melodies played for the new automatic chime thus: \"…, zynde veel-tijdts wijsen van psalmen ofte lof-sangen, (…) somtijdts zijn het oock nieuwe airtjes of vermakelijcke lietjes, na de speculatie en fantasie van de meester streckt\" (\"… frequently melodies from psalms or hymns, […] sometimes there are also new little airs or amusing songs according to the consideration and fantasy of the master\").\n\nTwo significant extensions of the carillon were made within the next decades. In 1678, Pieter Hemony delivered three bells (bes3, b3 and c4) so that the carillon had a range of three chromatic octaves. The negotiation for and supervision of the exensions were laid down by the municipal carillonneur Dirck Scholl. The bell founder Joris Dumery from Brugge replaced in 1750/51 the g3-bell and extended the carillon in the highest octave with two bells in cis4 and d4 as it had been done with many carillons in the late seventeenth and eighteenth century. For this commission Johannes Berghuys, Delft's municipal carillonneur, served as the mediator. Several restorations of the tower (in 1775 and 1863) required the carillon and its bells had to be removed from the tower.\n\nIn 1922, the bell foundry \"Koninklijke Eijsbouts\" replaced the lichters (levers) of the automatic chiming system and in 1928 essential modifications were made on the baton keyboard and the entire transmission system. During a restoration in 1950, the carillon got its last extension with ten bells so that it has presently a range of 48 bells with a compass of four chromatic octaves. As several bells had gone out of tune due to corrosion caused by an increasing air pollution, Eijsbouts cast twenty copies in the old profile and replaced them in 1963. The twenty old bells, among them 16 Hemony-bells, are exhibited in the first garret of the tower. But 18 original Hemony-bells (including the a0-bell) are still in use and form together with the copies one of Netherlands' most beautiful and authentic seventeenth-century carillons.\n\nOf course, we will never know Vermeer's thoughts regarding the new carillon which was so close to the house where he lived and worked. It is not out of the question that the continual weekly concerts, the playing for official events and festivities, market days, weddings, funerals etc. may have affected his concentration. But the beauty of the old and new melodies performed by such an accomplished musician like Dirck Scholl on this new, well-tuned, excellent instrument may have pleased the artistic sensitivity of Vermeer. After all, it is known that his grandfather musical inspiration was a musician.\n\n\nAcknowledgements and Closing Thoughts\n\nMy special thanks goes at first to Loek W. Boogert, municipal carilloneur of the Peace Palace, The Hague and the carillon in Voorburg, and deputy carilloneur in Delft, who has given me twice the unique chance to visit and explore the carillon of the Nieuwe Kerk in Delft, for all his generosity, invaluable hints and explanations.\n\nFurthermore, I am most grateful to Rainer Schütte, curator of the Nationaal Beiaardmuseum Asten, for the precious time he offered during my visit at the museum, providing me with detailed explanations and further information.\n\nLast but not least, I would like to express my sincerest thanks to Jonathan Janson, who initiated the study, for all his confidence, for the improvement of the texts, the sublime artistic realization and his endless patience with the corrections.\n\nI would like to close this little study to the carillon as the most prominent of Vermeer's daily musical companions with some sentences by Dr. André Lehr.\n\n> We have now ended our journey along the rise and the evolution of the carillon since time immemorial. We have seen what has come to us from a distant past and tried to understand it with the material available and with means which are by necessity of the twentieth century. … What once happened we only witness as distant spectators trying to interpret historical facts, trying to order them according to views and ideas which are inevitably borrowed from the present. On the other hand we are linked to this same past in all our musical feelings, because we still listen to bells which our ancestors have also heard, we still listen to music which they too have heard, and we live in a carillon tradition which is deeply rooted in that past.\n> \n> It seems to be beyond any doubt that a carillon … can fulfill a worldwide symbolic function. The bells of a carillon can also speak a universal language, universally understood, with melodies from all over the world. Bells and carillons sound the way we hear them, time and again they will express our feelings, in sorrow and in joy. … Indeed, bells belong to human beings and they are understood by those who care to listen. May it always be so!\n\nAdelheid Rech\nAugust 2006\n\n----------------------------------------\n\nResources:\n\n * Grove Music Online:\n   http://www.grovemusic.com\n   entry 'Bells': Hans Klotz / Luc Rombouts\n   entry 'Zhong-bells': Alan R. Thrasher\n   entry 'Carillon': Luc Rombouts\n * André Lehr, together with Wim Truyen and Gilbert Huybens,\n   The Art of the Carillon in the Low Countries, Tielt 1991.\n * Laura Johanna Meilink-Hoedemaker, \"Luidklokken en speelklokken in Delft,\" thesis, Utrecht 1985.\n * Michigan State University:\n   Wendell Westcott, Bells and Their Music, 1970, ren. 1998\n   (esp. chapters 5 and 7)\n   http://www.msu.edu/~carillon/batmbook/\n * Guild of Carillonneurs in North America:\n   'What is a Carillon?'\n   https://www.gcna.org/\n * Das neue Lexikon der Musik, 4 Bände, Stuttgart-Weimar 1996.\n\nThe Carillon in the Web:\n\n * Website van Laura Meilink-Hoedemaker. http://www.laurameilink.nl/\n * World Carillon Federation\n   http://www.carillon.org/eng/fs_cd.htm\n * Guild of Carillonneurs in North America\n   http://www.gcna.org/\n * Nederlandse Klokkenspel Vereniging\n   (Netherlands Carillon Association)\n   https://www.klokkenspel.org/\n * Nederlandse Carillon Torens (Netherlands Carillon Towers;\n   including link list of Flemish carillon towers: Beiaarden in België)\n   http://www.carillon-towers.net/\n * Nationaal Beiaardmuseum Asten:\n   http://www.carillon-museum.nl/\n * Beiaard.be.\n   Website over beiaardcultuur in Vlaanderen en elders\n   (website about the art of carillon in Flanders)\n   http://www.beiaard.be/\n * Vlaamse Beiaard Vereniging\n   (Flemish Carillon Association)\n   http://www.beiaard.org/",
+        "metadata": {
+          "title": "The Carillon: The Swinging Bells and the 'St. Ursula-beiaard' of the Nieuwe Kerk in Delft",
+          "description": "An illustrated study of the swinging bells and the 'St. Ursula-beiaard' of the Nieuwe Kerk in Delft ",
+          "keywords": "carillon, Dutch carillon, carillon history, klokkenspel, beiaard, Glockenspiel, cariglione, St. Ursula-beiaard, Delft Nieuwe Kerk, Delft thunderclap, Dom tower in Utrecht, kerkmeesters, Fran ois Hemony, Oude Kerk, Trinitas'-bell, Bourdon Bell, Jan Dircksz. Scholl, Rainer Sch tte, Dr. Andr  Lehr, Nationaal Beiaardmuseum Asten ",
+          "author": "Jonathan Janson"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "L'historique de la construction et des vicissitudes de la tour de la Nieuwe Kerk (Saint Ursula Kerk) à Delft, commencée en 1383 et achevée en 1496. La tour et l'église ont subi plusieurs incendies et destructions au cours des siècles, notamment en 1536 après avoir été frappée par la foudre, et en 1654 lors de l'explosion d'une poudrière (la 'Delft thunderclap'), puis une nouvelle destruction de la flèche par la foudre en 1872. Plusieurs fondeurs de cloches, tels que Pieter van Dormen, Joest Cetelaar, Claes Jansz., Geert van Wou, Jan ter Steghe et Jan Burgerhuys ont fourni au fil du temps différents jeux de cloches nommées notamment 'Jesus', 'Maria', 'Ursula', 'Martinus' et la 'Vrijheid-klok' (Libertas).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Pieter van Dormen",
+          "Joest Cetelaar",
+          "Claes Jansz.",
+          "Geert van Wou",
+          "Jan ter Steghe",
+          "Jan Burgerhuys"
+        ],
+        "LOCATION": [
+          "Delft",
+          "Antwerp",
+          "Mechelen",
+          "Kampen",
+          "Middelburg",
+          "Zeeland",
+          "Utrecht",
+          "Netherlands"
+        ],
+        "ORGANIZATION": [
+          "Nieuwe Kerk",
+          "Saint Ursula Kerk",
+          "Reformed Church"
+        ],
+        "DATE": [
+          "1383",
+          "1396",
+          "1412",
+          "1434",
+          "1496",
+          "May 3, 1536",
+          "1537",
+          "October 12, 1654",
+          "1655",
+          "1872",
+          "1877",
+          "Dom tower",
+          "1436",
+          "1443",
+          "September 1538",
+          "May 1539",
+          "1565",
+          "1548",
+          "1572",
+          "1607",
+          "1808",
+          "World War II"
+        ],
+        "EVENT": [
+          "World War II"
+        ],
+        "OTHER": [
+          "St. Ursula-beiaard",
+          "Libertas"
+        ]
+      },
+      "score_e5": 0.7125786318706979
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Wales",
+      "Chile"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "September 2011"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "three bells"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Graham Vivian",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vernon Hopkins",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Keith Evans",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Swansea",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chile",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Santiago",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mumbles",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Neath",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South America",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cathedral de la Campania",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "All Saints Church",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Swansea Philharmonic Choir",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "25279970",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "150 years",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12th Century",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1863",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "recent years",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "cathedral fire",
+      "rangs": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "service",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The Bells of Santiago",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Katherine Williams",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Jesuit Cathedral",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1964",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "140 years",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "autumn",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Henry Wadsworth Longfellow",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bing Crosby",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pope Sabinian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bernadine Bailey",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rome",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hydra",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greece",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Great Britain",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fão Esposende",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Portugal",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Caminha",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Avignon",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spedaletto",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tuscany",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oberhofen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Switzerland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FanningSparks",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bell Ringing Organization",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Saint Nicholas Chapel",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Christmas Day",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "AD 604",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Early Middle Ages",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "World War II",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Midsummer Eve",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "World War II",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Christmas Bells",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Bells, Bells, Bells",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Oystermouth",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "England",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ex-Congreso Nacional",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cuartel General del Cuerpo de Bomberos",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "La 14a Compañía de Bomberos",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Iglesia San Ignacio",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Cementerio General",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2009",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2010",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1873",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "bicentennial celebration",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "La Dolorosa",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pieter van Dormen",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joest Cetelaar",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Claes Jansz.",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Geert van Wou",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jan ter Steghe",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jan Burgerhuys",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Delft",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Antwerp",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mechelen",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kampen",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middelburg",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Zeeland",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Utrecht",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Netherlands",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nieuwe Kerk",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Saint Ursula Kerk",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reformed Church",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1383",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1396",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1412",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1434",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1496",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 3, 1536",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1537",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 12, 1654",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1655",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1872",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1877",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Dom tower",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1436",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1443",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 1538",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 1539",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1565",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1548",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1572",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1607",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1808",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "St. Ursula-beiaard",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Libertas",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:50:14.787962"
+  }
+}

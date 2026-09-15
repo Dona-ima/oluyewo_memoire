@@ -1,0 +1,968 @@
+{
+  "id_rumeur": 938595,
+  "id_image": 1484204,
+  "caption": "Sandwich in Kent has struggled to recover from the loss of 2400 jobs when Pfizer closed its R D facility",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748652/oluyewo_benchmark/wi9f2vkwye90to1jbfv0.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Rural development schemes to offer £30m boost - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-wales-politics-33539173",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/15E9/production/_84290650_villagebakery1.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGkc5_LJwVeAEREwmIUN7VUWGwiECuLzoL0pCTclqotBJh8c69",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Rural development schemes to offer £30m boost - BBC News",
+        "link": "https://www.bbc.com/news/uk-wales-politics-33539173",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGkc5_LJwVeAEREwmIUN7VUWGwiECuLzoL0pCTclqotBJh8c69",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/15E9/production/_84290650_villagebakery1.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Rural development schemes to offer £30m boost\n\nRural transport, jobs and food production will be boosted by schemes offering £30m worth of funding.\n\nThey are the latest part of the Welsh government's £1bn rural development programme, external aimed at revitalising and supporting the countryside by 2020.\n\nDeputy Farming Minister Rebecca Evans said the aim was to generate economic activity while safeguarding resources.\n\nShe said she wanted to ensure \"the fabric of rural Wales is increasingly more resilient and sustainable\".\n\n\"What we do today must be with a view to maximising the enormous opportunities there are in rural Wales, for the good of our future generations,\" she said.\n\nFarmers, firms and other rural organisations are being invited to apply for cash under four new schemes:\n\n * Rural Community Development Fund, to support transport and other \"connective\" projects\n\n * Sustainable Production Grant, to help farmers\n\n * Food Business Investment Scheme, focusing on jobs\n\n * Co-operation programme, open to innovative ideas in any sector\n\nThe seven year Rural Communities programme also includes grants awarded under the Glastir, external and LEADER schemes.\n\nFunding is available to applicants right across Wales, with Welsh government advisors saying at least 20 of the 22 local authorities include rural areas.",
+        "metadata": {
+          "description": "Rural transport, jobs and food production are to be boosted by schemes offering £30m worth of funding.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Rural transport, jobs and food production are to be boosted by schemes offering £30m worth of funding.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8B19/production/_84290653_villagebakery2.jpg",
+          "og:image:alt": "Production line at the Village Bakery, Wrexham",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Rural development schemes to offer £30m boost",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-wales-politics-33539173",
+          "article:section": "Wales politics",
+          "twitter:description": "Rural transport, jobs and food production are to be boosted by schemes offering £30m worth of funding.",
+          "twitter:title": "Rural development schemes to offer £30m boost"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-wales-politics-33539173",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-07-16T05:23:11.000Z",
+          "dateModified": "2015-07-16T05:23:11.000Z",
+          "description": "Rural transport, jobs and food production are to be boosted by schemes offering £30m worth of funding.",
+          "headline": "Rural development schemes to offer £30m boost",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8B19/production/_84290653_villagebakery2.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8B19/production/_84290653_villagebakery2.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-wales-politics-33539173",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des subventions de 30 millions de livres sterling sont proposées pour des projets de développement rural concernant le transport, l'emploi et la production alimentaire, s'inscrivant dans le cadre d'un programme de développement rural d'un milliard de livres du gouvernement gallois prévu jusqu'en 2020. La ministre adjointe à l'Agriculture, Rebecca Evans, souligne l'objectif de stimuler l'activité économique tout en préservant les ressources et en rendant le tissu rural plus résilient et durable. Quatre nouveaux schémas sont lancés : le Fonds de développement communautaire rural, la subvention de production durable, le programme d'investissement pour les entreprises alimentaires et le programme de coopération. Le programme de sept ans inclut également des subventions Glastir et LEADER.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rebecca Evans"
+        ],
+        "LOCATION": [
+          "Wales",
+          "rural Wales"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Welsh government",
+          "Rural Community Development Fund",
+          "Glastir",
+          "LEADER"
+        ],
+        "DATE": [
+          "2020"
+        ],
+        "EVENT": [
+          "Rural Communities programme"
+        ],
+        "OTHER": [
+          "Sustainable Production Grant",
+          "Food Business Investment Scheme"
+        ]
+      },
+      "score_e5": 0.706050125461931
+    },
+    {
+      "titre": "World's biggest maker of Welsh cakes will make 2 million for ...",
+      "source": "Wales Online",
+      "lien": "https://www.walesonline.co.uk/business/bakery-make-2-million-welsh-12595650",
+      "image_url": "https://i2-prod.walesonline.co.uk/article12596146.ece/ALTERNATES/s1200c/Village-Bakery.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeWx2UG1vIT3TRJdXx4WmHdcaBQKipSJS7T9KNdu5mxWsJARsA",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "World's biggest maker of Welsh cakes will make 2 million for ...",
+        "link": "https://www.walesonline.co.uk/business/bakery-make-2-million-welsh-12595650",
+        "source": "Wales Online",
+        "source_icon": "https://serpapi.com/searches/6a8efebff357f67cc1e4ac04/images/Gwcu1lVECuAjhJjn2HoqlMsOEI536nhJH1pluqdfwBQ.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeWx2UG1vIT3TRJdXx4WmHdcaBQKipSJS7T9KNdu5mxWsJARsA",
+        "thumbnail_width": 227,
+        "thumbnail_height": 222,
+        "image": "https://i2-prod.walesonline.co.uk/article12596146.ece/ALTERNATES/s1200c/Village-Bakery.jpg",
+        "image_width": 1222,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "World's biggest maker of Welsh cakes will make 2 million for St David's Day\n\nThe Village Bakery in Wrexham makes enough Welsh cakes to strectch from Land's End to John O'Groats and beyond\n\n\nA bakery in north Wales has claimed the record of being the world’s largest producer of Welsh cakes after churning out 15 million a year.\n\nLaid end to end they would stretch for 710 miles. That’s enough to stretch from Land’s End to John O’Groats and then most of the way to Shetland as well.\n\nOr to put it another way, from Cardiff to Caernarfon and back again, twice.\n\nAnd with St David’s Day approaching, the Village Bakery is geared up to make two million of the griddled flat cakes this month.\n\nThe company has three bakeries, two on Wrexham Industrial Estate and one in Minera, where it employs more than 400 people.\n\nSignature product\n\nProject director Christien Jones said: “The Welsh cakes are a hit with our customers throughout the year but in the run up to St David’s Day demand goes through the roof.\n\n“We always insist on great ingredients of butter and flour and we blend them with the finest spices.”\n\nHe added: “They’re gorgeous with a cup of tea, toasted with a bit of butter on - people like that indulgence, a bit of comfort food. It’s not an elaborate dessert, it’s good honest wholesome fare.\n\n“The Welsh cakes are a signature product for the Village Bakery and demand is growing all the time.\n\n“We’ll be making them 24/7 for many days up to St David’s Day. Retailers love them, and the consumers love them and we love making them.”\n\n\nThe family firm uses a secret recipe passed down the decades in making its Welsh cakes.\n\nTraditional roots\n\nEconomy Secretary Ken Skates had a go at flipping some Welsh cakes on the bakery’s griddle during a visit to the Village Bakery.\n\nHe said: “This is an incredible facility, and a great success story for Wales and in particular north east Wales.\n\n“The amount of people that are employed in quality jobs, secure jobs in this area through the Village Bakery is something to be hugely applauded.\n\n“I’m looking forward to more successful years in the future for the company and its staff.”\n\nThe Clwyd South AM added: “What they do so cleverly is stay true to their traditional roots as craft bakers and produce exceptionally high quality products in volume.\n\n“It’s a winning combination and they’ve now achieved the status as the world’s largest manufacturer of Welsh cakes which is a fantastic feat and a great accomplishment.”\n\nChoose Wales Online as a 'Preferred Source' on Google News for quick access to the news you value.\n\n----------------------------------------",
+        "metadata": {
+          "title": "World&#x27;s biggest maker of Welsh cakes will make 2 million for St David&#x27;s Day | Wales Online",
+          "fb:app_id": "158410350916408",
+          "fb:pages": "468347633509456",
+          "fb:page_id": "21226447182",
+          "description": "The Village Bakery in Wrexham makes enough Welsh cakes to strectch from Land's End to John O'Groats and beyond",
+          "author": "Chris Kelsey",
+          "og:title": "Bakery will make 2 million Welsh cakes for St David's Day",
+          "og:description": "The Village Bakery in Wrexham makes enough Welsh cakes to strectch from Land's End to John O'Groats and beyond",
+          "og:url": "http://www.walesonline.co.uk/business/bakery-make-2-million-welsh-12595650",
+          "og:site_name": "Wales Online",
+          "og:locale": "en_GB",
+          "og:image": "https://i2-prod.walesonline.co.uk/article12596146.ece/ALTERNATES/s1200d/Village-Bakery.jpg",
+          "og:type": "article",
+          "article:published_time": "2017-02-13T10:53:28Z",
+          "article:modified_time": "2017-02-13T11:54:55Z",
+          "article:author": "https://www.walesonline.co.uk/authors/chris-kelsey/",
+          "article:section": "Business",
+          "twitter:title": "Bakery will make 2 million Welsh cakes for St David's Day",
+          "twitter:description": "The Village Bakery in Wrexham makes enough Welsh cakes to strectch from Land's End to John O'Groats and beyond"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": "https://www.walesonline.co.uk/business/bakery-make-2-million-welsh-12595650",
+          "inLanguage": "en-GB",
+          "headline": "World's biggest maker of Welsh cakes will make 2 million for St David's Day",
+          "name": "World's biggest maker of Welsh cakes will make 2 million for St David's Day",
+          "description": "The Village Bakery in Wrexham makes enough Welsh cakes to strectch from Land's End to John O'Groats and beyond",
+          "articleBody": "A bakery in north Wales has claimed the record of being the world’s largest producer of Welsh cakes after churning out 15 million a year. Laid end to end they would stretch for 710 miles. That’s enough to stretch from Land’s End to John O’Groats and then most of the way to Shetland as well. Or to put it another way, from Cardiff to Caernarfon and back again, twice. And with St David’s Day approaching, the Village Bakery is geared up to make two million of the griddled flat cakes this month. The company has three bakeries, two on Wrexham Industrial Estate and one in Minera, where it employs more than 400 people. Project director Christien Jones said: “The Welsh cakes are a hit with our customers throughout the year but in the run up to St David’s Day demand goes through the roof. “We always insist on great ingredients of butter and flour and we blend them with the finest spices.” He added: “They’re gorgeous with a cup of tea, toasted with a bit of butter on - people like that indulgence, a bit of comfort food. It’s not an elaborate dessert, it’s good honest wholesome fare. “The Welsh cakes are a signature product for the Village Bakery and demand is growing all the time. “We’ll be making them 24/7 for many days up to St David’s Day. Retailers love them, and the consumers love them and we love making them.” The family firm uses a secret recipe passed down the decades in making its Welsh cakes. Economy Secretary Ken Skates had a go at flipping some Welsh cakes on the bakery’s griddle during a visit to the Village Bakery. He said: “This is an incredible facility, and a great success story for Wales and in particular north east Wales. “The amount of people that are employed in quality jobs, secure jobs in this area through the Village Bakery is something to be hugely applauded. “I’m looking forward to more successful years in the future for the company and its staff.” The Clwyd South AM added: “What they do so cleverly is stay true to their traditional roots as craft bakers and produce exceptionally high quality products in volume. “It’s a winning combination and they’ve now achieved the status as the world’s largest manufacturer of Welsh cakes which is a fantastic feat and a great accomplishment.”",
+          "datePublished": "2017-02-13T10:53:28Z",
+          "dateModified": "2017-02-13T11:54:55Z",
+          "image": [
+            "https://i2-prod.walesonline.co.uk/article12596146.ece/ALTERNATES/s1200d/Village-Bakery.jpg",
+            "https://i2-prod.walesonline.co.uk/article12596146.ece/ALTERNATES/s1200b/Village-Bakery.jpg",
+            "https://i2-prod.walesonline.co.uk/article12596146.ece/ALTERNATES/s1200c/Village-Bakery.jpg"
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Chris Kelsey",
+              "sameAs": "https://www.walesonline.co.uk/authors/chris-kelsey/"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "Wales Online",
+            "url": "https://www.walesonline.co.uk",
+            "publishingPrinciples": "https://www.walesonline.co.uk/about-us/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.walesonline.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/walesonline/logos/masthead-walesonline-default.svg",
+              "width": 560,
+              "height": 160
+            },
+            "sameAs": [
+              "https://www.facebook.com/WalesOnline",
+              "https://x.com/WalesOnline",
+              "https://www.instagram.com/WalesOnline"
+            ]
+          },
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              "#article-body h2[data-testid='leadtext']"
+            ]
+          },
+          "video": [
+            {
+              "@type": "VideoObject",
+              "name": "Village Bakery TV ad",
+              "description": "Village Bakery TV ad",
+              "duration": "P0Y0M0DT0H0M20S",
+              "thumbnailUrl": "https://video.primis.tech/uploads/cn1/video/users/converted/31466/video_68f8c0eb6902a415731170/vid691a1fad4bacb171238652.jpg?cbuster=1613856626",
+              "dateCreated": "2016-04-26T10:16:12Z",
+              "datePublished": "2016-04-26T10:16:21Z",
+              "dateModified": "2017-05-31T12:42:18Z",
+              "uploadDate": "2016-04-26T10:16:21Z",
+              "contentUrl": "https://video.primis.tech/uploads/cn1/video/users/hls/31466/video_68f8c0eb6902a415731170/vid691a1fad4bacb171238652.mp4/chunklist_440.m3u8",
+              "embedUrl": "https://live.primis.tech/live/liveView.php?s=116062&vp_content=embed6ce65dhhhhhh",
+              "publisher": {
+                "@type": "NewsMediaOrganization",
+                "name": "Wales Online",
+                "url": "https://www.walesonline.co.uk",
+                "publishingPrinciples": "https://www.walesonline.co.uk/about-us/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://www.walesonline.co.uk/nav-web-static/hotfix-NAV-14660__llv2-bug-on-takeover-0159633f8c175899f273a0146ea5e281b3a86b68/public/assets/walesonline/logos/masthead-walesonline-default.svg",
+                  "width": 560,
+                  "height": 160
+                },
+                "sameAs": [
+                  "https://www.facebook.com/WalesOnline",
+                  "https://x.com/WalesOnline",
+                  "https://www.instagram.com/WalesOnline"
+                ]
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La Village Bakery, située à Wrexham et Minera avec plus de 400 employés, est présentée comme le plus grand producteur mondial de galettes galloises (Welsh cakes), produisant 15 millions de gâteaux par an et prévoyant d'en fabriquer deux millions pour la Saint-David. Le directeur de projet Christien Jones et le secrétaire à l'Économie Ken Skates soulignent l'importance de ce produit traditionnel et l'impact positif de l'entreprise sur l'emploi dans le nord-est du pays de Galles.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Christien Jones",
+          "Ken Skates"
+        ],
+        "LOCATION": [
+          "Land's End",
+          "John O'Groats",
+          "Shetland",
+          "Cardiff",
+          "Caernarfon",
+          "Wrexham",
+          "Minera",
+          "Wales",
+          "north east Wales"
+        ],
+        "ORGANIZATION": [
+          "Wales Online",
+          "Village Bakery",
+          "Wrexham Industrial Estate",
+          "Google News"
+        ],
+        "DATE": [
+          "St David's Day"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Welsh cakes"
+        ]
+      },
+      "score_e5": 0.7209273729128156
+    },
+    {
+      "titre": "Cookie Manufacturing & Private Label Cookies | Jimmy's Bakery",
+      "source": "Jimmy's Gourmet Bakery",
+      "lien": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/",
+      "image_url": "https://www.jimmysbakery.com/wp-content/uploads/2025/12/What-sets-our-cookie-manufacturing-apart.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGHMlp2bVGGklGEexfGTxQT4YqlbGuMZp9t8kep-H-JBL26L9V",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Cookie Manufacturing & Private Label Cookies | Jimmy's Bakery",
+        "link": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/",
+        "source": "Jimmy's Gourmet Bakery",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSTm5KRkc3x9khuhIfM-oZp2dACPA9lhOMUYsMX2_qJBtRBzj6FQK8IF6aP9qiuDqBAgZdnSVLEHwCXuqyzHKbvmB5YOd9yodCdGLU0cRiOPupFWj45UjD7iQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGHMlp2bVGGklGEexfGTxQT4YqlbGuMZp9t8kep-H-JBL26L9V",
+        "thumbnail_width": 212,
+        "thumbnail_height": 237,
+        "image": "https://www.jimmysbakery.com/wp-content/uploads/2025/12/What-sets-our-cookie-manufacturing-apart.jpg",
+        "image_width": 620,
+        "image_height": 692
+      },
+      "webpage": {
+        "text": "Cookie Manufacturing & Private Label Cookies\n\nWhat types of cookie manufacturing do you offer?\n\n\nWe support finished cookie production and cookie dough manufacturing for retail and foodservice programs. As a flexible cookie manufacturer, we can run multiple flavors, formats, and packouts based on your program needs.\n\n\nDo you offer private label cookies or white label cookies?\n\n\nYes. We are a private label cookie manufacturer for leading retail programs and we also support white label cookies when you want to apply your own branding. We’ll align on product specs, pack formats, labeling, and volume planning.\n\n\nWhat is your minimum order quantity (MOQ)?\n\n\nFor stock items and standard flavors, the MOQ is typically one pallet. For custom formulas, we require two production batches, which is approximately 5,000 pounds of dough.\n\n\nCan you manufacture cookies from my recipe, or help with recipe formulation?\n\n\nYes. If you have a formula, we can review it for commercial production and run it through our process. If you need help, our R&D team of food scientists supports recipe formulation and commercialization so the product performs consistently at scale.\n\n\nCan you produce cookies with specific nutrition requirements?\n\n\nYes. We can support programs that require specific nutritional or ingredient constraints, including better-for-you and lifestyle-aligned options, depending on your spec and labeling requirements. If you share your targets, we’ll confirm feasibility and the best path to scale. We currently offer sugar-free, no-sugar-added, gluten friendly, protein, and lactation support products.\n\n\nDo you work with small businesses or only large chains?\n\n\nWe work with both. We support major retail programs, and we also help emerging brands launch when minimums and program requirements align. If you’re a smaller brand, we’ll be direct about the fastest path to a successful first run.\n\n\nDo you handle packaging and labeling?\n\n\nYes. We support retail and foodservice packaging formats including clamshells, trays, platters, and individually wrapped options. We can also manage labeling workflows that match your compliance requirements.\n\n\nWill you sign an NDA before discussing my product?\n\n\nYes. We can sign an NDA before reviewing formulas, specs, or product details.\n\n\nWhat do you need to provide an accurate quote?\n\n\nTo quote accurately, we typically need product specs (or target), formula status, packaging format, volume estimates, and delivery terms. Clear inputs let us quote quickly and keep the process efficient.",
+        "metadata": {
+          "title": "Cookie Manufacturing &amp; Private Label Cookies | Jimmy’s Bakery",
+          "apple-mobile-web-app-title": "Jimmy's Cookies | Manufacturer of Gourmet Cookies and Cookie Dough - ",
+          "description": "Cookie manufacturing services from Jimmy’s Bakery, specializing in private label cookies and scalable production for retail and foodservice partners.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Gourmet Cookie Manufacturer",
+          "og:description": "Cookie manufacturing services from Jimmy’s Bakery, specializing in private label cookies and scalable production for retail and foodservice partners.",
+          "og:url": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/",
+          "og:site_name": "Jimmy's Cookies | Manufacturer of Gourmet Cookies and Cookie Dough",
+          "article:modified_time": "2026-01-29T08:29:00+00:00",
+          "og:image": "https://www.jimmysbakery.com/wp-content/uploads/2025/12/What-sets-our-cookie-manufacturing-apart.jpg",
+          "og:image:width": "692",
+          "og:image:height": "620",
+          "og:image:type": "image/jpeg"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/",
+              "url": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/",
+              "name": "Cookie Manufacturing & Private Label Cookies | Jimmy’s Bakery",
+              "isPartOf": {
+                "@id": "https://www.jimmysbakery.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.jimmysbakery.com/wp-content/uploads/2025/12/What-sets-our-cookie-manufacturing-apart.jpg",
+              "datePublished": "2025-12-01T10:21:06+00:00",
+              "dateModified": "2026-01-29T08:29:00+00:00",
+              "description": "Cookie manufacturing services from Jimmy’s Bakery, specializing in private label cookies and scalable production for retail and foodservice partners.",
+              "breadcrumb": {
+                "@id": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/#primaryimage",
+              "url": "https://www.jimmysbakery.com/wp-content/uploads/2025/12/What-sets-our-cookie-manufacturing-apart.jpg",
+              "contentUrl": "https://www.jimmysbakery.com/wp-content/uploads/2025/12/What-sets-our-cookie-manufacturing-apart.jpg",
+              "width": 692,
+              "height": 620,
+              "caption": "Bakery worker placing cookie dough portions onto trays on a production line"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.jimmysbakery.com/capabilities/gourmet-cookie-manufacturer/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.jimmysbakery.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Capabilities",
+                  "item": "https://www.jimmysbakery.com/capabilities/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Gourmet Cookie Manufacturer"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.jimmysbakery.com/#website",
+              "url": "https://www.jimmysbakery.com/",
+              "name": "Jimmy&#039;s Cookies | Manufacturer of Gourmet Cookies and Cookie Dough",
+              "description": "",
+              "publisher": {
+                "@id": "https://www.jimmysbakery.com/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.jimmysbakery.com/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://www.jimmysbakery.com/#organization",
+              "name": "Jimmy’s Gourmet Bakery",
+              "alternateName": "Jimmy’s Bakery",
+              "url": "https://www.jimmysbakery.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.jimmysbakery.com/#/schema/logo/image/",
+                "url": "https://www.jimmysbakery.com/wp-content/uploads/2026/01/jimmys-gourmet-bakery-favorite-icon-logo.png",
+                "contentUrl": "https://www.jimmysbakery.com/wp-content/uploads/2026/01/jimmys-gourmet-bakery-favorite-icon-logo.png",
+                "width": 1080,
+                "height": 1080,
+                "caption": "Jimmy’s Gourmet Bakery"
+              },
+              "image": {
+                "@id": "https://www.jimmysbakery.com/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://x.com/JimmysCookiess",
+                "https://www.instagram.com/jimmyscookiess/",
+                "https://www.linkedin.com/company/jimmys-gourmet-bakery/",
+                "https://www.pinterest.com/jimmycookies/",
+                "https://www.yelp.com/biz/jimmys-cookies-clifton",
+                "https://www.keychain.com/jimmy-s-cookies/m/p/BKFUSRZH7E",
+                "https://www.zoominfo.com/c/jimmys-cookies-llc/356917072",
+                "https://pitchbook.com/profiles/company/334216-81",
+                "https://tracxn.com/d/companies/jimmys-cookies/__9R7k_ElGTJB_sh8CWnmMVFceJihTuZ2KSBziQeieOvw",
+                "https://www.indeed.com/cmp/Jimmy's-Cookies-1",
+                "https://www.glassdoor.com/Reviews/Jimmy’s-Cookies-Reviews-E1757540.htm",
+                "https://www.signalhire.com/companies/jimmy-s-cookies"
+              ],
+              "description": "Jimmy's Gourmet Bakery has over 40 years of commercial baking expertise, including 25+ years partnering with major national retailers. The company started in a 100-square-foot space inside a Manhattan Hungarian bakery, producing just 100-200 pounds of cookie dough weekly before growing into the large-scale operation it is today. The company now operates three fully automated production sites in New Jersey, plus one ingredient warehousing location, totaling 400,000+ square feet of space for baking, packaging, and distribution. Their facilities are located in Clifton (headquarters, focused on cookies), East Brunswick (cookies and bread), Carteret (cookies and frosted cookies), and Moonachie (ingredient warehousing only). They ship across the United States and can support select international programs. Jimmy's produces more than 2 billion cookies annually. Their product lineup includes classic cookies, cookie cakes, thin and crispy styles, individually wrapped options, frozen cookie dough, and frosted cookies. They also offer dietary-specific options including cholesterol-free, sugar-free, gluten-friendly, and vegan selections. On the bread side, they produce par-baked and frozen bread programs as well as artisan breads. Their in-house brands include Jimmy's Cookies, King Krumb, and Ecce Panis. The company holds BRCGS Food Safety certification with A+ ratings from AIB International through unannounced audits. All facilities operate under full OU kosher certification. They also source RSPO-certified palm oil and Rainforest Alliance Certified cocoa and chocolate for applicable products. Jimmy's serves multiple sales channels including in-store bakeries, convenience stores needing grab-and-go packaging, and foodservice programs. They offer flexibility in fulfillment, shipping directly to stores or supporting distribution-based programs depending on client needs.",
+              "email": "newsales@jimmyscookies.com",
+              "telephone": "973-779-8500",
+              "legalName": "Jimmy’s Gourmet Bakery LLC",
+              "foundingDate": "1985-06-01",
+              "taxID": "27-4144062",
+              "duns": "15-138-2314",
+              "naics": "311821",
+              "numberOfEmployees": {
+                "@type": "QuantitativeValue",
+                "minValue": "1001",
+                "maxValue": "5000"
+              }
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Jimmy's Gourmet Bakery propose des services de fabrication de biscuits finaux et de pâte à biscuits pour des programmes de vente au détail et de restauration, incluant des options de marque privée et de marque blanche. L'entreprise travaille avec de grandes enseignes ainsi qu'avec des marques émergentes, gérant la formulation de recettes grâce à une équipe de chercheurs en alimentation, la fabrication selon des exigences nutritionnelles spécifiques, ainsi que le conditionnement et l'étiquetage.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Jimmy's Gourmet Bakery",
+          "Jimmy's Bakery"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7074887992082078
+    },
+    {
+      "titre": "Congress should SNAP to attention on farm bill - The Nevada ...",
+      "source": "The Nevada Independent",
+      "lien": "https://thenevadaindependent.com/article/congress-should-snap-to-attention-on-farm-bill",
+      "image_url": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2018/02/CENTRAL-KITCHEN-051517_03-1-300x205.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYliur7Ir7IaqFXhBwzvdxTpPhPLeIOWCoulnJ9OQraU1urzeB",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Congress should SNAP to attention on farm bill - The Nevada ...",
+        "link": "https://thenevadaindependent.com/article/congress-should-snap-to-attention-on-farm-bill",
+        "source": "The Nevada Independent",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQxvK5Z8W3W8td7YuNfkXzVF-F8WT_ByTG3VdGrRcgS4EIzS-OkCHUdtOC7o6ywZT274yJgiU5PW_mmVWSiSXiOWY7najZF0_xItWzfSqtPh6e7njpyy6V4jYwu_8I",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYliur7Ir7IaqFXhBwzvdxTpPhPLeIOWCoulnJ9OQraU1urzeB",
+        "thumbnail_width": 185,
+        "thumbnail_height": 272,
+        "image": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2018/02/CENTRAL-KITCHEN-051517_03-1-300x205.jpg",
+        "image_width": 205,
+        "image_height": 300
+      },
+      "webpage": {
+        "text": "Congress should SNAP to attention on farm bill\n\nBy Brian Burton\n\nWhen a senior is downsized at work and finds re-employment in their field difficult, or when a mother struggles to secure employment that occurs only during school hours so that she can be there for her kids, the Supplemental Nutrition Assistance Program (SNAP) is there to help them put food on the table.\n\nSNAP is one of our nation's most effective anti-poverty programs, keeping more than eight million people out of poverty—including nearly four million children. SNAP primarily helps children, seniors, veterans and the disabled, who make up about 70 percent of all SNAP recipients. Of the other 30 percent, most are the working poor, those who need help putting food on the table despite earning pay through employment.\n\nSNAP is under threat as some members of the U.S. House of Representatives advance harmful, indiscriminate cuts and changes to this critical program as part of the 2018 Farm Bill (H.R.2). House leadership is attempting to gather the votes needed to pass the Farm Bill on Thursday.\n\nThe House version of the 2018 Farm Bill takes an axe to SNAP, cutting benefits by $17 billion over the next 10 years by further expanding already rigid work requirements – requirements that take away a person's food assistance if he or she doesn't work a certain number of hours per month. This equates to food-insecure individuals and families across the country losing access to about 1.6 million meals per day for the next 10 years.\n\nIf the farm bill passes, adults over 50 years of age, who have the most difficulty securing re-employment, would no longer benefit from an exemption to the work requirement. Meaning, if he or she is downsized or laid off, he or she could lose SNAP benefits. A working mom who doesn't have sick leave, and loses her job for missing work due to illness, caring for a sick child or a family emergency – would lose SNAP benefits when she needs them most. No longer would a stay-at-home parent or parent who works while her children are in school receive an exemption.\n\nThe indignity of the work requirement for these two groups of recipients is in the time limits for which they can receive SNAP. These two groups are able to receive SNAP for only three months out of every 36. For a parent or senior to have to wait 33 months before they are eligible to receive nutrition assistance through SNAP again is cruel. Such harmful policies undermine the strength of SNAP, resulting in increased food insecurity.\n\nSNAP recipients between the ages of 18 and 49 who do not have children in the home already face strict work requirements. Imposing additional requirements on Americans does nothing to reduce food insecurity amongst the two most vulnerable populations: families with children and older adults.\n\nThat is why Three Square, Feeding America and the AARP strongly oppose the House version of the 2018 farm bill and are actively working to educate our lawmakers that their NO votes on this measure are critical to the safety net for tens of thousands of Southern Nevadans. Most of Nevada's delegation including Congresswoman Dina Titus, Congresswoman Jacky Rosen and Congressman Ruben Kihuen have declared their opposition to the House version of the 2018 farm bill.\n\nWe appreciate their insight on these issues and encourage our entire Nevada delegation and members of Congress in other states to follow their lead.\n\nBrian Burton is president and CEO of Three Square Food Bank.",
+        "metadata": {
+          "og:image:alt": "The Nevada Independent Logo",
+          "description": "When a senior is downsized at work and finds re-employment in their field difficult, or when a mother struggles to secure employment that occurs only during school hours so that she can be there for her kids, the Supplemental Nutrition Assistance Program (SNAP) is there to help them put food on the table.",
+          "fb:app_id": "747074418806339",
+          "og:title": "Congress should SNAP to attention on farm bill - The Nevada Independent",
+          "og:description": "When a senior is downsized at work and finds re-employment in their field difficult, or when a mother struggles to secure employment that occurs only during school hours so that she can be there for her kids, the Supplemental Nutrition Assistance Program (SNAP) is there to help them put food on the table.",
+          "og:url": "https://thenevadaindependent.com/article/congress-should-snap-to-attention-on-farm-bill",
+          "og:type": "article",
+          "article:published_time": "2018-05-17T02:45:27",
+          "article:author": "https://thenevadaindependent.com/author/guest-contributor",
+          "og:image": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2018/02/CENTRAL-KITCHEN-051517_03-1.jpg",
+          "og:image:width": "2800",
+          "og:image:height": "1912",
+          "og:site_name": "The Nevada Independent"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le programme d'assistance nutritionnelle supplémentaire (SNAP) aide les personnes à bas revenus, les enfants, les aînés, les vétérans et les personnes handicapées à se nourrir. Le texte critique la version de la loi agricole de 2018 (H.R.2) portée par la Chambre des représentants des États-Unis, qui propose de couper les prestations SNAP de 17 milliards de dollars sur 10 ans en élargissant les exigences de travail obligatoires. Des organisations telles que Three Square, Feeding America et l'AARP s'opposent fermement à cette version du projet de loi.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Brian Burton"
+        ],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "The Nevada Independent",
+          "U.S. House of Representatives",
+          "Three Square",
+          "Feeding America",
+          "AARP"
+        ],
+        "DATE": [
+          "2018",
+          "Thursday"
+        ],
+        "EVENT": [
+          "2018 Farm Bill",
+          "H.R.2"
+        ],
+        "OTHER": [
+          "Supplemental Nutrition Assistance Program",
+          "SNAP"
+        ]
+      },
+      "score_e5": 0.7249512792219693
+    },
+    {
+      "titre": "Publix opens its first location in Louisville. Take a peek ...",
+      "source": "The Courier-Journal",
+      "lien": "https://www.courier-journal.com/picture-gallery/news/local/2024/01/09/publix-opens-its-first-location-in-louisville-take-a-peek-inside/72159745007/",
+      "image_url": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2024/01/09/PLOU/72163961007-publix-33.jpg?crop=2835,2126,x0,y0",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWu6DPfXmlCB9HXBr5pDjH0jGFwwFjwauap45yyXpaSYxOAPR4",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Publix opens its first location in Louisville. Take a peek ...",
+        "link": "https://www.courier-journal.com/picture-gallery/news/local/2024/01/09/publix-opens-its-first-location-in-louisville-take-a-peek-inside/72159745007/",
+        "source": "The Courier-Journal",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSQJJdHVNmzuJJaaJmEj9IU39IkF8Oz1IXk4PPw_LJvP0JBeYm-GAjH5OJOfcX8yX_07Y_Vg-4nY4LT6Mb8Ad4XHT2iTqpfPHfipEW6VuYMraAXIw904Xy9EQLbHg",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWu6DPfXmlCB9HXBr5pDjH0jGFwwFjwauap45yyXpaSYxOAPR4",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2024/01/09/PLOU/72163961007-publix-33.jpg?crop=2835,2126,x0,y0",
+        "image_width": 2126,
+        "image_height": 2835
+      },
+      "webpage": {
+        "text": "Publix opens its first location in Louisville. Take a peek inside\n\nLOCAL\n\n\nPHOTOS: Publix opens its first location in Louisville. Take a peek inside\n\nJan. 9, 2024Updated Nov. 8, 2024, 10:18 a.m. ET\n\n\nFeatured Weekly Ad\n\nAbout Us Staff Directory Careers Accessibility Support Sitemap Legals Our Ethical Principles USA TODAY Network Style Guide Responsible Disclosure Subscription Terms & Conditions Advertiser Acceptance Policy Terms of Service Privacy Policy California Notice at Collection Do Not Sell or Share My Personal Information Your Privacy Choices\nContact Us Support Local Businesses Advertise Your Business Promote your Event Buy and Sell Promote Your Event Licensing & Reprints Help Center Courier Journal Store Subscriber Guide Manage Account Give Feedback Promote Your Event\nSubscribe Today Newsletters Mobile Apps Facebook X eNewspaper Archives\nJobs Real Estate Classifieds Education Events Shopping 10BEST LocaliQ Digital Marketing Solutions Events Branded Stories Hub\n© 2026 www.courier-journal.com. All rights reserved.",
+        "metadata": {
+          "title": "Publix opens its first location in Louisville. Take a peek inside"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publix a ouvert son premier magasin à Louisville, avec des photos montrant l'intérieur de l'établissement.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Louisville"
+        ],
+        "ORGANIZATION": [
+          "Publix",
+          "The Courier-Journal",
+          "USA TODAY Network",
+          "LocaliQ"
+        ],
+        "DATE": [
+          "Jan. 9, 2024",
+          "Nov. 8, 2024",
+          "2026"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7248148295607272
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sandwich",
+      "Kent"
+    ],
+    "ORGANIZATION": [
+      "Pfizer"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "2400 jobs"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Rebecca Evans",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wales",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "rural Wales",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Welsh government",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rural Community Development Fund",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Glastir",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LEADER",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Rural Communities programme",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sustainable Production Grant",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Food Business Investment Scheme",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Christien Jones",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ken Skates",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Land's End",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "John O'Groats",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shetland",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cardiff",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Caernarfon",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wrexham",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Minera",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "north east Wales",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wales Online",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Village Bakery",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wrexham Industrial Estate",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "St David's Day",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Welsh cakes",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Jimmy's Gourmet Bakery",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Jimmy's Bakery",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Brian Burton",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Nevada Independent",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. House of Representatives",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Three Square",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Feeding America",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AARP",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "2018 Farm Bill",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "H.R.2",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Supplemental Nutrition Assistance Program",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "SNAP",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Louisville",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Publix",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Courier-Journal",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "USA TODAY Network",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LocaliQ",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan. 9, 2024",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Nov. 8, 2024",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:43:10.527719"
+  }
+}

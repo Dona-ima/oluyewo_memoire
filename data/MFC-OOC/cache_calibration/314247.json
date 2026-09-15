@@ -1,0 +1,397 @@
+{
+  "id_rumeur": 314247,
+  "id_image": 1238283,
+  "caption": "An Airbus A400M at the 2012 Farnborough International Airshow",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748099/oluyewo_benchmark/uabacpyqofsrtpirrk4a.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "World Cup 2010: England arrive in South Africa | England ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/football/gallery/2010/jun/03/englandfootballteam-worldcup2010",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/6/3/1275592464693/England-Team-Arrive-In-So-001.jpg?width=375&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaMS62GPoQnrBfrRR_P6Kd1YUsdsHZVYaLUGfYP9j-5REnQkdL",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "World Cup 2010: England arrive in South Africa | England ...",
+        "link": "https://www.theguardian.com/football/gallery/2010/jun/03/englandfootballteam-worldcup2010",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef819ef15ce0911a76068/images/InFS7ipb4Lj4uzM6QxqiocQOMkNXJfgGpChYqDDhw3U.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaMS62GPoQnrBfrRR_P6Kd1YUsdsHZVYaLUGfYP9j-5REnQkdL",
+        "thumbnail_width": 185,
+        "thumbnail_height": 272,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/6/3/1275592464693/England-Team-Arrive-In-So-001.jpg?width=375&dpr=1&s=none&crop=none",
+        "image_width": 256,
+        "image_height": 375
+      },
+      "webpage": null,
+      "texte_contexte": "L'équipe de football d'Angleterre arrive en Afrique du Sud pour la Coupe du monde 2010.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Angleterre",
+          "Afrique du Sud"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "2010",
+          "03/06/2010"
+        ],
+        "EVENT": [
+          "World Cup 2010"
+        ],
+        "OTHER": [
+          "football"
+        ]
+      },
+      "score_e5": 0.7167867094533196
+    },
+    {
+      "titre": "Steven Gerrard walks to the terminal as the England team ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/detail/news-photo/steven-gerrard-walks-to-the-terminal-as-the-england-team-news-photo/101577817",
+      "image_url": "https://media.gettyimages.com/id/101578162/photo/johannesburg-south-africa-armed-police-officers-guard-the-plane-before-the-players-disembark.jpg?s=612x612&w=gi&k=20&c=zglDaak8dpxhA0YoK0NDJfdnConW9XzyTaxUyAgvBFo=",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCAx3wipO8Y99AZ-GIxg22wx6UN-R9W6KVVjUUsPFK4Lbb80wN",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Steven Gerrard walks to the terminal as the England team ...",
+        "link": "https://www.gettyimages.com/detail/news-photo/steven-gerrard-walks-to-the-terminal-as-the-england-team-news-photo/101577817",
+        "source": "Getty Images",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUzMzP___9xcXH5-fnt7e05OTnl5eXz8_Obm5vT09NQUFDJycmGhoZ4eHi5ubnZ2dlFRUVVVVWkpKTBwcFlZWWhoaFsbGyqqqqwsLBbW1uOjo4_Pz-4uLiAgIBhYWFaWlpkXRWsAAABAElEQVQ4jb2S2ZaCMAyGu9gFWoSCFgYQ3v8tJWEUpqk3XkwuODn5v5KVsX-18l4bbpxXLDrDqW75r-kevkQf-F9L9QqC8mo7VG38SYF6C1_C5tzk5t1JggbeeXShAk2ABYBwJFMpECAa0R2zgDJb1IE3aaiGpGAtvHOiFFAtHygw1acZyJICrCkOvcrozJuXPOfe4yZq6x_VQho42pyy0m4PADoRmk_A-q7QaNeLTBrLz6ZvlBCXMyHXRFZXPIe2nQuJxJwAuOO9wmmUmYWb9zmwfS8pAH9tX-lg6F0C4Krmagnl6tFP2xDJTY-ky6jPYxB0DEyJvoBRmGKIGfl7ewLKAgiUEUNA0gAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCAx3wipO8Y99AZ-GIxg22wx6UN-R9W6KVVjUUsPFK4Lbb80wN",
+        "thumbnail_width": 187,
+        "thumbnail_height": 270,
+        "image": "https://media.gettyimages.com/id/101578162/photo/johannesburg-south-africa-armed-police-officers-guard-the-plane-before-the-players-disembark.jpg?s=612x612&w=gi&k=20&c=zglDaak8dpxhA0YoK0NDJfdnConW9XzyTaxUyAgvBFo=",
+        "image_width": 424,
+        "image_height": 612
+      },
+      "webpage": null,
+      "texte_contexte": "Steven Gerrard marche vers le terminal alors que l'équipe d'Angleterre est présente.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Steven Gerrard"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Getty Images",
+          "Angleterre"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7380564596452007
+    },
+    {
+      "titre": "Scorpio: Gupta henchmen, re-invented – Acsa extends a ...",
+      "source": "Daily Maverick",
+      "lien": "https://www.dailymaverick.co.za/article/2018-02-07-scorpio-gupta-henchmen-re-invented-acsa-extends-a-helping-hand-to-one-time-family-lieutenant/",
+      "image_url": "https://cdn.dailymaverick.co.za/i/r7GjXHXQveeaCRFI08Hkd-LiVDM=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/jess-acsa.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE_v_SWj33-rBQOE1Sxnf1Yr6uqgOFfyyW2sMo-W4QkM62h6cQ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Scorpio: Gupta henchmen, re-invented – Acsa extends a ...",
+        "link": "https://www.dailymaverick.co.za/article/2018-02-07-scorpio-gupta-henchmen-re-invented-acsa-extends-a-helping-hand-to-one-time-family-lieutenant/",
+        "source": "Daily Maverick",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRvfPf6od1oBHX4Iv1a9QpD2oorbtQ81_qqf0dV4_wVYI7YmnnYSyRTpifPv1QqbpYQzwG8wIzFFbr8wgLOLCjZCIA12oy13KyvQQGTiQXKV3DROupKISxjmDeueA",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE_v_SWj33-rBQOE1Sxnf1Yr6uqgOFfyyW2sMo-W4QkM62h6cQ",
+        "thumbnail_width": 171,
+        "thumbnail_height": 295,
+        "image": "https://cdn.dailymaverick.co.za/i/r7GjXHXQveeaCRFI08Hkd-LiVDM=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/jess-acsa.jpg",
+        "image_width": 465,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Scorpio : les hommes de main de Gupta réinventés – Acsa tend une main secourue à un ancien lieutenant de la famille.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Gupta"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Daily Maverick",
+          "Scorpio",
+          "Acsa"
+        ],
+        "DATE": [
+          "2018-02-07"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7081292413697485
+    },
+    {
+      "titre": "S.Africa apologises for turning away Nigerians",
+      "source": "Modern Ghana",
+      "lien": "https://www.modernghana.com/news/382301/safrica-apologises-for-turning-away-nigerians.html",
+      "image_url": "https://cdn.modernghana.com/content__/640/457/afp_safrica_apologises_for_turning_away_nigerians.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbLo0r9MOrDsZn0SNyk6B5TcFlCll0TCY_aFvTumM0gPJag4VO",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "S.Africa apologises for turning away Nigerians",
+        "link": "https://www.modernghana.com/news/382301/safrica-apologises-for-turning-away-nigerians.html",
+        "source": "Modern Ghana",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcS23YqUaP9AtbyViq3UfAupa3aeBsYxg0b6WFPsqxWKKBdKtZHzddk5PNpbq6wb5JM7xlx0hj_wri6sK1tFD9yL7MnARTS_P2AUHJt6X4CQarTglmFq1tTk",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbLo0r9MOrDsZn0SNyk6B5TcFlCll0TCY_aFvTumM0gPJag4VO",
+        "thumbnail_width": 190,
+        "thumbnail_height": 266,
+        "image": "https://cdn.modernghana.com/content__/640/457/afp_safrica_apologises_for_turning_away_nigerians.jpg",
+        "image_width": 457,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "L'Afrique du Sud s'excuse d'avoir refoulé des Nigérians.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Afrique du Sud",
+          "Nigérians"
+        ],
+        "ORGANIZATION": [
+          "Modern Ghana"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7112888328575826
+    },
+    {
+      "titre": "Barrabravas\" argentinos deportados de Sudáfrica - BBC News Mundo",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/mundo/cultura_sociedad/2010/06/100606_1756_mundial_2010_sudafrica_argentina_detenidos_jaw",
+      "image_url": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2010/06/06/100606172708_sp_argsudafrica_ap_226x170a.jpg.webp",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvsP9ELYHUjo4g3dBQp5UNN7oGZxI93a3KKL7fPXhTneqUpopx",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Barrabravas\" argentinos deportados de Sudáfrica - BBC News Mundo",
+        "link": "https://www.bbc.com/mundo/cultura_sociedad/2010/06/100606_1756_mundial_2010_sudafrica_argentina_detenidos_jaw",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvsP9ELYHUjo4g3dBQp5UNN7oGZxI93a3KKL7fPXhTneqUpopx",
+        "thumbnail_width": 195,
+        "thumbnail_height": 259,
+        "image": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2010/06/06/100606172708_sp_argsudafrica_ap_226x170a.jpg.webp",
+        "image_width": 481,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Des barrabravas argentins expulsés d'Afrique du Sud.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Argentine",
+          "Afrique du Sud"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC News Mundo"
+        ],
+        "DATE": [
+          "2010",
+          "100606"
+        ],
+        "EVENT": [
+          "Mundial 2010"
+        ],
+        "OTHER": [
+          "barrabravas"
+        ]
+      },
+      "score_e5": 0.7528632816732647
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Airbus"
+    ],
+    "DATE": [
+      "2012"
+    ],
+    "EVENT": [
+      "Farnborough International Airshow"
+    ],
+    "OTHER": [
+      "A400M"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Steven Gerrard",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gupta",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Angleterre",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afrique du Sud",
+      "rangs": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nigérians",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Argentine",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Angleterre",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Daily Maverick",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Scorpio",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Acsa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Modern Ghana",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News Mundo",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2010",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "03/06/2010",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018-02-07",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "100606",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "World Cup 2010",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "football",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "barrabravas",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:40:49.306364"
+  }
+}

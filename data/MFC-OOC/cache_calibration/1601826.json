@@ -1,0 +1,887 @@
+{
+  "id_rumeur": 1601826,
+  "id_image": 1601826,
+  "caption": "The man s body was recovered from the Tay near Newburgh",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747335/oluyewo_benchmark/qx48xgu7agzahaxqrk92.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Man named after body found in Fife river - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-35205276",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0476/production/_87324110_newburgh.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5VpTDLOlgMNt0itVmcWwWYkzZBue8G2LKACCv53C3CSVLQWDr",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Man named after body found in Fife river - BBC News",
+        "link": "https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-35205276",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5VpTDLOlgMNt0itVmcWwWYkzZBue8G2LKACCv53C3CSVLQWDr",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0476/production/_87324110_newburgh.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Man named after body found in Fife river\n\nA man found dead in the River Tay in Newburgh, Fife, has been formally identified.\n\nWilliam Rattray, 77, from Perthshire, was found in an area near East Shore Road on Monday 21 December.\n\nHe had been reported missing in November.\n\nPolice said there were no suspicious circumstances.",
+        "metadata": {
+          "description": "A man found dead in the River Tay in Newburgh, Fife, is formally identified as a 77-year-old from Perthshire.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A man found dead in the River Tay in Newburgh, Fife, is formally identified as a 77-year-old from Perthshire.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0476/production/_87324110_newburgh.jpg",
+          "og:image:alt": "Tay shoreline near Newburgh",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Man named after body found in Fife river",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-35205276",
+          "article:section": "Edinburgh, Fife & East Scotland",
+          "twitter:description": "A man found dead in the River Tay in Newburgh, Fife, is formally identified as a 77-year-old from Perthshire.",
+          "twitter:title": "Man named after body found in Fife river"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-35205276",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-12-31T11:31:54.000Z",
+          "dateModified": "2015-12-31T11:31:54.000Z",
+          "description": "A man found dead in the River Tay in Newburgh, Fife, is formally identified as a 77-year-old from Perthshire.",
+          "headline": "Man named after body found in Fife river",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0476/production/_87324110_newburgh.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0476/production/_87324110_newburgh.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-35205276",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un homme nommé William Rattray, âgé de 77 ans et originaires de Perthshire, a été retrouvé mort dans la rivière Tay à Newburgh, Fife, près d'East Shore Road, et a été formellement identifié après avoir été porté disparu en novembre. La police a indiqué qu'il n'y avait pas de circonstances suspectes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "William Rattray"
+        ],
+        "LOCATION": [
+          "Fife",
+          "River Tay",
+          "Newburgh",
+          "Perthshire",
+          "East Shore Road"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "BBC",
+          "Police"
+        ],
+        "DATE": [
+          "21 December",
+          "November"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8300903831977499
+    },
+    {
+      "titre": "Waterfowl hunters wanting to hunt on Canyon Ferry WMA this ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/MontanaFWP.R3/posts/waterfowl-hunters-wanting-to-hunt-on-canyon-ferry-wma-this-year-should-be-aware-/1197623412391936/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1197623325725278",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmTaWBpT-stSxKAkh5l5k4qeWEY9ciKlzE6dQ-NgUBQ4KB8oWe",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Waterfowl hunters wanting to hunt on Canyon Ferry WMA this ...",
+        "link": "https://www.facebook.com/MontanaFWP.R3/posts/waterfowl-hunters-wanting-to-hunt-on-canyon-ferry-wma-this-year-should-be-aware-/1197623412391936/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmTaWBpT-stSxKAkh5l5k4qeWEY9ciKlzE6dQ-NgUBQ4KB8oWe",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1197623325725278",
+        "image_width": 1080,
+        "image_height": 1920
+      },
+      "webpage": {
+        "text": "Waterfowl... - Montana Fish, Wildlife & Parks (Region 3)\n\nWaterfowl hunters wanting to hunt on Canyon Ferry WMA this year should be aware that pond levels are extremely low due to low Missouri River flows during most of the summer. All the pond boat ramps... Lihat lainnya",
+        "metadata": {
+          "title": "Waterfowl... - Montana Fish, Wildlife &amp; Parks (Region 3) | Facebook",
+          "og:type": "video.other",
+          "og:title": "Montana Fish, Wildlife & Parks (Region 3)",
+          "og:description": "Waterfowl hunters wanting to hunt on Canyon Ferry WMA this year should be aware that pond levels are extremely low due to low Missouri River flows during most of the summer. \n\nAll the pond boat ramps...",
+          "og:url": "https://www.facebook.com/MontanaFWP.R3/posts/waterfowl-hunters-wanting-to-hunt-on-canyon-ferry-wma-this-year-should-be-aware-/1197623412391936/",
+          "og:image:alt": "Montana Fish, Wildlife & Parks (Region 3)",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1197623325725278",
+          "og:locale": "en_US",
+          "description": "Waterfowl hunters wanting to hunt on Canyon Ferry WMA this year should be aware that pond levels are extremely low due to low Missouri River flows during...",
+          "twitter:title": "Montana Fish, Wildlife & Parks (Region 3)",
+          "twitter:description": "Waterfowl hunters wanting to hunt on Canyon Ferry WMA this year should be aware that pond levels are extremely low due to low Missouri River flows during most of the summer. \n\nAll the pond boat ramps..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les chasseurs de sauvagine souhaitant chasser sur la zone de gestion de la faune (WMA) de Canyon Ferry sont informés que les niveaux des étangs sont extrêmement bas en raison de faibles débits de la rivière Missouri pendant la majeure partie de l'été.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Canyon Ferry WMA",
+          "Missouri River"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Montana Fish, Wildlife & Parks"
+        ],
+        "DATE": [
+          "summer"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Waterfowl"
+        ]
+      },
+      "score_e5": 0.7378013275319323
+    },
+    {
+      "titre": "Yesterday's evening walk in the Palo Alto Baylands Nature ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/BayAreaHike/posts/3019198794915875/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=727565657368",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvCO1lAI_0ZwGGHjFzzBLzo8gt5ETeAcwVPqFf4aCEzF7oHtj7",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Yesterday's evening walk in the Palo Alto Baylands Nature ...",
+        "link": "https://www.facebook.com/groups/BayAreaHike/posts/3019198794915875/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvCO1lAI_0ZwGGHjFzzBLzo8gt5ETeAcwVPqFf4aCEzF7oHtj7",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=727565657368",
+        "image_width": 1536,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Bay Area Hikers | Yesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park.\n\nBay Area Hikers\n\nBadsah Mukherji · 22 Feb 2025\n\n·\n\n\nYesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park.\n\n+8",
+        "metadata": {
+          "title": "Bay Area Hikers | Yesterday&#039;s evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park. | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTEwMDA5MDg4MjgxMTMzMjpWSzozMDE5MTk4Nzk0OTE1ODc1",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTEwMDA5MDg4MjgxMTMzMjpWSzozMDE5MTk4Nzk0OTE1ODc1",
+          "og:type": "video.other",
+          "og:title": "Bay Area Hikers | Yesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park. | Facebook",
+          "og:description": "Yesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park.",
+          "og:url": "https://www.facebook.com/groups/BayAreaHike/posts/3019198794915875/",
+          "og:image:alt": "Bay Area Hikers | Yesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park. | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=579362671769822",
+          "og:locale": "en_US",
+          "description": "Yesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park.",
+          "twitter:title": "Bay Area Hikers | Yesterday's evening walk in the Palo Alto Baylands...",
+          "twitter:description": "Yesterday's evening walk in the Palo Alto Baylands Nature Preserve past Byxbee Park."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une promenade en soirée a eu lieu dans la réserve naturelle de Palo Alto Baylands en passant par Byxbee Park, organisée par le groupe Bay Area Hikers avec Badsah Mukherji.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Badsah Mukherji"
+        ],
+        "LOCATION": [
+          "Palo Alto Baylands Nature Preserve",
+          "Byxbee Park"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Bay Area Hikers"
+        ],
+        "DATE": [
+          "22 Feb 2025",
+          "Yesterday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7246569807510574
+    },
+    {
+      "titre": "Cascina Veneria, Piemonte, Italy - eBird Hotspot",
+      "source": "eBird",
+      "lien": "https://ebird.org/region/L26985417",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/657298032/640",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXFcS3nsWADI3Achkd2LT5yYJ13jheYkxVp9QVTPBwkEFIfTDC",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Cascina Veneria, Piemonte, Italy - eBird Hotspot",
+        "link": "https://ebird.org/region/L26985417",
+        "source": "eBird",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSGo1xhaFyOHsVmpV19UpLpOnIHQdM4vJnTwNdrXnMfYjAf1f0rhckyUPawlFjk6dAquwpkb0BnqAZVI8jtsktdJW18bgwlkKBty1bmj6Y",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXFcS3nsWADI3Achkd2LT5yYJ13jheYkxVp9QVTPBwkEFIfTDC",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/657298032/640",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Making sure you're not a bot!\n\nWhy am I seeing this?\n\nYou are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.\n\nAnubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.\n\nUltimately, this is a hack whose real purpose is to give a \"good enough\" placeholder solution so that more time can be spent on fingerprinting and identifying headless browsers (EG: via how they do font rendering) so that the challenge proof of work page doesn't need to be presented to users that are much more likely to be legitimate.\n\nPlease note that Anubis requires the use of modern JavaScript features that plugins like JShelter will disable. Please disable JShelter or other such plugins for this domain.\n\nThis website is running Anubis version devel.",
+        "metadata": {
+          "title": "Making sure you&#39;re not a bot!"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La page concerne un point d'intérêt ornithologique (eBird Hotspot) à Cascina Veneria, dans le Piémont en Italie, mais le contenu principal est bloqué par une protection anti-scraping nommée Anubis.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Cascina Veneria",
+          "Piemonte",
+          "Italy"
+        ],
+        "ORGANIZATION": [
+          "eBird",
+          "Anubis"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Hashcash",
+          "JavaScript",
+          "JShelter"
+        ]
+      },
+      "score_e5": 0.7137926060094727
+    },
+    {
+      "titre": "Fortresses of mud: how to protect the San Francisco Bay Area ...",
+      "source": "Nature",
+      "lien": "https://www.nature.com/articles/d41586-018-06955-4",
+      "image_url": "https://images.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16164402.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5geAMhJIGkSouqJ_jZhXbmVzJVogUFvxyG251QMb8zFaI-9Jn",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Fortresses of mud: how to protect the San Francisco Bay Area ...",
+        "link": "https://www.nature.com/articles/d41586-018-06955-4",
+        "source": "Nature",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcREiof8KGZ5hWbx7Li9FWO3LdA51dpslVG5mNdz20UTQ4mQ-zlKzEVzC9AmecTt7iUtCJD23Lf9DMuwz26a1reIqmAo9ZdDwh_Rkknh9TKmkQV22A",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5geAMhJIGkSouqJ_jZhXbmVzJVogUFvxyG251QMb8zFaI-9Jn",
+        "thumbnail_width": 180,
+        "thumbnail_height": 279,
+        "image": "https://images.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16164402.jpg",
+        "image_width": 517,
+        "image_height": 800
+      },
+      "webpage": {
+        "text": "Fortresses of mud: how to protect the San Francisco Bay Area from rising seas\n\n* NEWS FEATURE\n * 09 October 2018\n\n\nFortresses of mud: how to protect the San Francisco Bay Area from rising seas\n\nThe race is on to build up wetlands barriers in one of North America’s largest estuaries.\n\nBy\n\n * Erica Gies0\n\n 1. Erica Gies\n    \n    1. Erica Gies is an independent journalist based in Victoria in Canada, and San Francisco.\n    \n    View author publications\n    \n    Search author on: PubMed  Google Scholar\n\n * Email\n * Bluesky\n * Facebook\n * LinkedIn\n * Reddit\n * Whatsapp\n * X\n\nSave article\n\nView saved research\n\nThere’s something apocalyptic about this pond on the east side of San Francisco Bay, California. The legacy of a salt industry that has moved elsewhere, it has subsided a couple of metres below the level of neighbouring marshland. Algae paints red swirls in the brown water, and the pond’s edge is crusted hard with sparkling salt. As a breeze eases off the bay, a squadron of pelicans sails by, en route to more-appetizing hunting grounds.\n\n\nAccess options\n\nAccess through your institution\n\nAccess Nature and 54 other Nature Portfolio journals\n\nGet Nature+, our best-value online-access subscription\n\n$32.99 / 30 days\n\ncancel any time\n\nLearn more\n\nSubscribe to this journal\n\nReceive 52 print issues and online access\n\n$199.00 per year\n\nonly $3.83 per issue\n\nLearn more\n\nRent or buy this article\n\nPrices vary by article type\n\nfrom$1.95\n\nto$39.95\n\nLearn more\n\nPrices may be subject to local taxes which are calculated during checkout\n\nNature 562, 178-180 (2018)\n\ndoi: https://doi.org/10.1038/d41586-018-06955-4\n\nReprints and permissions\n\n * Droughts, heatwaves and floods: How to tell when climate change is to blame\n\n * Attack of the extreme floods\n\n * Three years to safeguard our climate\n\n * US government report says that climate change is real — and humans are to blame\n\n\nSubjects\n\n * Climate change\n * Environmental sciences\n * Hydrology\n\n\nLatest on:\n\n * Climate change\n * Environmental sciences\n * Hydrology\n\n * Satellite images before Nepal disaster showed warning signs\n   \n   News Q&A 02 SEP 26\n\n * UN finally admits global warming will shoot past 1.5 ºC climate limit\n   \n   News 02 SEP 26\n\n * Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?\n   \n   News 27 AUG 26\n\n * The global plastics treaty must account for conflict-driven energy insecurity\n   \n   Correspondence 01 SEP 26\n\n * Why are El Niños getting stronger? 1,000-year-coral record points to climate change\n   \n   News 27 AUG 26\n\n * Can nuclear reactors hit the road?\n   \n   Outlook 26 AUG 26\n\n * Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?\n   \n   News 27 AUG 26\n\n * Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss\n   \n   Article 19 AUG 26\n\n * Cascading continental-scale floods across Europe in 1342–1343\n   \n   Article 12 AUG 26\n\n\nJobs\n\n * Assistant Professor Positions at City University of Hong Kong (Dongguan)\n   \n   The University invites individuals from diverse backgrounds to apply for faculty positions in this field\n   \n   Dongguan, Guangdong, China\n   \n   City University of Hong Kong (Dongguan)\n   \n   \n\n * Professor / Associate Professor Positions at City University of Hong Kong (Dongguan)\n   \n   The University invites individuals from diverse backgrounds to apply for faculty positions in this field\n   \n   Dongguan, Guangdong, China\n   \n   City University of Hong Kong (Dongguan)\n   \n   \n\n * Chair Professor Positions at City University of Hong Kong (Dongguan)\n   \n   The University invites individuals from diverse backgrounds to apply for faculty positions in this field\n   \n   Dongguan, Guangdong, China\n   \n   City University of Hong Kong (Dongguan)\n   \n   \n\n * Assistant Professor in Metabolism Research\n   \n   The Morgridge Institute for Research, in partnership with the University of Wisconsin-Madison, seeks a joint tenure track assistant professor.\n   \n   Madison, Wisconsin\n   \n   Jill Walder\n   \n   \n\n * Dobson Professorship of Materials Science and Metallurgy\n   \n   Dobson Professorship of Materials Science and Metallurgy The Board of Electors to the Dobson Professorship of Materials Science and Metallurgy invi...\n   \n   Cambridge, Cambridgeshire (GB)\n   \n   University of Cambridge",
+        "metadata": {
+          "title": "Fortresses of mud: how to protect the San Francisco Bay Area from rising seas | Nature",
+          "description": "The race is on to build up wetlands barriers in one of North America’s largest estuaries.",
+          "og:url": "https://www.nature.com/articles/d41586-018-06955-4",
+          "og:type": "article",
+          "og:title": "Fortresses of mud: how to protect the San Francisco Bay Area from rising seas",
+          "og:description": "The race is on to build up wetlands barriers in one of North America’s largest estuaries.",
+          "og:image": "https://media.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16164404.jpg",
+          "twitter:title": "Fortresses of mud: how to protect the San Francisco Bay Area from rising seas",
+          "twitter:description": "Nature - The race is on to build up wetlands barriers in one of North America’s largest estuaries.",
+          "dc.title": "Fortresses of mud: how to protect the San Francisco Bay Area from rising seas",
+          "dc.description": "The race is on to build up wetlands barriers in one of North America’s largest estuaries."
+        },
+        "jsonld": {
+          "mainEntity": {
+            "headline": "Fortresses of mud: how to protect the San Francisco Bay Area from rising seas",
+            "description": "The race is on to build up wetlands barriers in one of North America’s largest estuaries.",
+            "datePublished": "2018-10-09T00:00:00Z",
+            "dateModified": "2018-10-09T00:00:00Z",
+            "pageStart": "178",
+            "pageEnd": "180",
+            "sameAs": "https://doi.org/10.1038/d41586-018-06955-4",
+            "keywords": [
+              "Climate change",
+              "Environmental sciences",
+              "Hydrology",
+              "Science",
+              "Humanities and Social Sciences",
+              "multidisciplinary"
+            ],
+            "image": [
+              "https://images.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16164402.jpg",
+              "https://images.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16164412.jpg",
+              "https://images.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16181394.png",
+              "https://images.nature.com/lw1200/magazine-assets/d41586-018-06955-4/d41586-018-06955-4_16164408.jpg"
+            ],
+            "isPartOf": {
+              "name": "Nature",
+              "volumeNumber": "562",
+              "@type": [
+                "Periodical",
+                "PublicationVolume"
+              ]
+            },
+            "publisher": {
+              "name": "Nature Publishing Group UK",
+              "logo": {
+                "url": "https://www.springernature.com/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+              },
+              "@type": "Organization"
+            },
+            "author": [
+              {
+                "name": "Erica Gies",
+                "@type": "Person"
+              }
+            ],
+            "isAccessibleForFree": true,
+            "@type": "NewsArticle"
+          },
+          "@context": "https://schema.org",
+          "@type": "WebPage"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un article de nature publié en octobre 2018 discute de la protection de la région de la baie de San Francisco contre la montée des eaux et de la construction de barrières de zones humides dans l'un des plus grands estuaires d'Amérique du Nord. L'article mentionne un étang sur le côté est de la baie de San Francisco, ancienne propriété d'une industrie du sel, avec des algues et des pélicans.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Erica Gies"
+        ],
+        "LOCATION": [
+          "San Francisco Bay Area",
+          "North America",
+          "Victoria",
+          "Canada",
+          "San Francisco",
+          "California",
+          "Nepal",
+          "Europe",
+          "Antarctic",
+          "Dongguan",
+          "Guangdong",
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Nature",
+          "PubMed",
+          "Google Scholar",
+          "Bluesky",
+          "Facebook",
+          "LinkedIn",
+          "Reddit",
+          "Whatsapp",
+          "X",
+          "US government",
+          "City University of Hong Kong (Dongguan)"
+        ],
+        "DATE": [
+          "09 October 2018",
+          "2018",
+          "02 SEP 26",
+          "27 AUG 26",
+          "01 SEP 26",
+          "19 AUG 26",
+          "12 AUG 26",
+          "1342–1343"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "El Niños"
+        ]
+      },
+      "score_e5": 0.7080884358295119
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Tay",
+      "Newburgh"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "man"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "William Rattray",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Badsah Mukherji",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Erica Gies",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fife",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "River Tay",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Newburgh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Perthshire",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Shore Road",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canyon Ferry WMA",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Missouri River",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Palo Alto Baylands Nature Preserve",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Byxbee Park",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cascina Veneria",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Piemonte",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Italy",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Francisco Bay Area",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North America",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Victoria",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Canada",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Francisco",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nepal",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Antarctic",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dongguan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Guangdong",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Police",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Montana Fish, Wildlife & Parks",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bay Area Hikers",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "eBird",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Anubis",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Nature",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PubMed",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google Scholar",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bluesky",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "LinkedIn",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Whatsapp",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "X",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "US government",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "City University of Hong Kong (Dongguan)",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "21 December",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "summer",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "22 Feb 2025",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Yesterday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "09 October 2018",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "02 SEP 26",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "27 AUG 26",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "01 SEP 26",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "19 AUG 26",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "12 AUG 26",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1342–1343",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Waterfowl",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Hashcash",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JavaScript",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "JShelter",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "El Niños",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T09:28:34.795930"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "id_rumeur": 290057,
+  "id_image": 438831,
+  "caption": "A safety alert was issued by the FBI and ATF after an anonymous user posted threats to the imagesharing website 4chan Video provided by Newsy",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748162/oluyewo_benchmark/pp3s0unzxdtyejycnwgq.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Official: Court's sign-off for queries on Americans' data ...",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/world/national-security/official-courts-sign-off-for-queries-on-americans-data-would-be-impractical/2014/03/19/6ba51d1e-afa6-11e3-9627-c65021d6d572_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2QJCHVVO2YI6HJE6O2W4SIIPDE&w=800&h=600",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKZZ3Uoha3a0H_zPpJATu03hEwElwi2s_YmDfoX0CeOJDKMQrT",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Official: Court's sign-off for queries on Americans' data ...",
+        "link": "https://www.washingtonpost.com/world/national-security/official-courts-sign-off-for-queries-on-americans-data-would-be-impractical/2014/03/19/6ba51d1e-afa6-11e3-9627-c65021d6d572_story.html",
+        "source": "The Washington Post",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEURERH___8AAACNjY0FBQVAQEC1tbUNDQ35-fnHx8dsbGyTk5MSEhIODg7u7u7BwcGioqLOzs4lJSWFhYV9fX2rq6vX19fj4-M7OztgYGBWVlYwMDB2dnYoKCienp5mZmbd3d1ISEgZ2xNmAAABB0lEQVQ4jdXSy1KEMBAF0NxLIEGe4S2Myvz_T9pRAY01Wbkxi65U-lSnIa3UP1ommi3JNCr47EwVy69IqMrrIMRsMLMi_dYHLVHL9nQcgJGtE-RaKm4YuLKZePZFi6YAHHMv7xa49S182QPUqDsHTJyBbnkBXke5F6m-QE4pk7EXQAJ5wrcTlPoCiQeiioRPJ9AL8A1wQgCY1T_APIQV1uAKBkCFPfwC_iucB40HWnvQh0CS0tvYWykwAoltbsB2AN2JyEoJO-l_J6QS6oXnA2rucgfnncZsVooXmc0_Hu5Yxr-dBKPM_atJPpoQYz7Bg7QfFwFtEQHGII3OaNWljE95pWPZv1_vtoMLSOS9SqIAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKZZ3Uoha3a0H_zPpJATu03hEwElwi2s_YmDfoX0CeOJDKMQrT",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2QJCHVVO2YI6HJE6O2W4SIIPDE&w=800&h=600",
+        "image_width": 600,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Article de The Washington Post intitulé 'Official: Court's sign-off for queries on Americans' data' abordant la question de l'accord d'un tribunal pour les requêtes sur les données des Américains.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Washington Post"
+        ],
+        "DATE": [
+          "2014-03-19"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Americans' data"
+        ]
+      },
+      "score_e5": 0.7572119712110263
+    },
+    {
+      "titre": "NSA Forced to Spell Out Violations After Suit - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/nsa-forced-to-spell-out-violations-after-suit-1419551756",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-FP761_NSA211_P_20141118211009.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQkZhmDpPqg_CGAhCGjNypLb3Xw_6mU999_sGGRuG3U2o15SG",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "NSA Forced to Spell Out Violations After Suit - WSJ",
+        "link": "https://www.wsj.com/articles/nsa-forced-to-spell-out-violations-after-suit-1419551756",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQkZhmDpPqg_CGAhCGjNypLb3Xw_6mU999_sGGRuG3U2o15SG",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-FP761_NSA211_P_20141118211009.jpg",
+        "image_width": 499,
+        "image_height": 749
+      },
+      "webpage": null,
+      "texte_contexte": "Article du Wall Street Journal (WSJ) intitulé 'NSA Forced to Spell Out Violations After Suit' concernant la NSA forcée de détailler des violations à la suite d'une action en justice.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "NSA",
+          "WSJ"
+        ],
+        "DATE": [
+          "2014"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7590860343300724
+    },
+    {
+      "titre": "Should the Reagan-Era NSA Executive Order 12333 Be Repealed?",
+      "source": "U.S. News & World Report",
+      "lien": "https://www.usnews.com/opinion/articles/2014/07/21/should-the-reagan-era-nsa-executive-order-12333-be-repealed",
+      "image_url": "https://www.usnews.com/dims4/USNEWS/3e719dd/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/5a/8980a35c238b71ec73c14a17664f74/media:d8e8c60cc7124d8b8aa9dbb54ebcc03cNSASurveillance-PrivacyReport.JPEG",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJPnTybMnDS7oJ6WrXx-0d80ZX3mtUgTN61j04m8WbkXX8TpJD",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Should the Reagan-Era NSA Executive Order 12333 Be Repealed?",
+        "link": "https://www.usnews.com/opinion/articles/2014/07/21/should-the-reagan-era-nsa-executive-order-12333-be-repealed",
+        "source": "U.S. News & World Report",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSzo2Ohr_f6hze53ceMMOVLYyapYLDplxD3tOYLBpQNBIhLmBFjHbcgVTZ1SXdK-uTFH3A1Wz--2eEdkMVCOSVdlW-Uc9nemsnUNPvevCVBWym5Dw",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJPnTybMnDS7oJ6WrXx-0d80ZX3mtUgTN61j04m8WbkXX8TpJD",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.usnews.com/dims4/USNEWS/3e719dd/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/5a/8980a35c238b71ec73c14a17664f74/media:d8e8c60cc7124d8b8aa9dbb54ebcc03cNSASurveillance-PrivacyReport.JPEG",
+        "image_width": 647,
+        "image_height": 970
+      },
+      "webpage": null,
+      "texte_contexte": "Article d'U.S. News & World Report intitulé 'Should the Reagan-Era NSA Executive Order 12333 Be Repealed?' s'interrogeant sur l'abrogation potentielle du décret exécutif 12333 de la NSA datant de l'ère Reagan.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Reagan"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "NSA",
+          "U.S. News & World Report"
+        ],
+        "DATE": [
+          "2014-07-21"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Executive Order 12333"
+        ]
+      },
+      "score_e5": 0.7535506179750557
+    },
+    {
+      "titre": "Hacking tools stolen from NSA show Chinese cyberfirms were ...",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/news/china/diplomacy-defence/article/2006313/hacking-tools-stolen-nsa-show-chinese-cyberfirms-were",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2016/08/19/7201818e-6624-11e6-aefa-e8609c477948_1280x720.jpg?itok=z5YN4JzU",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu_IadCxysrb3GnS-ETiKcIvaFV9xIok-asJkhUR8q_brjlWr6",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Hacking tools stolen from NSA show Chinese cyberfirms were ...",
+        "link": "https://www.scmp.com/news/china/diplomacy-defence/article/2006313/hacking-tools-stolen-nsa-show-chinese-cyberfirms-were",
+        "source": "South China Morning Post",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQfTGzmwZAXIdZshMmmFVqa_M9l-R-spfTaqiKOIdaxsPIJgDJdab9rJg6az9tb8mMjxAc8qtZiJESAKp2NBfThVc1Wq4qt8EDQrqjxGi_q4FY",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu_IadCxysrb3GnS-ETiKcIvaFV9xIok-asJkhUR8q_brjlWr6",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2016/08/19/7201818e-6624-11e6-aefa-e8609c477948_1280x720.jpg?itok=z5YN4JzU",
+        "image_width": 768,
+        "image_height": 768
+      },
+      "webpage": null,
+      "texte_contexte": "Article du South China Morning Post intitulé 'Hacking tools stolen from NSA show Chinese cyberfirms were' traitant d'outils de piratage volés à la NSA montrant l'implication de cyberentreprises chinoises.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "China"
+        ],
+        "ORGANIZATION": [
+          "NSA",
+          "South China Morning Post"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Chinese cyberfirms"
+        ]
+      },
+      "score_e5": 0.737182329737012
+    },
+    {
+      "titre": "Are Google and Facebook Lying About the Spying? - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=JZ7AJOop_FY",
+      "image_url": "https://i.ytimg.com/vi/JZ7AJOop_FY/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgWShSMA8=&rs=AOn4CLAGODDdWHlwyDKQff8yiD0_dtXhGg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHbAK7Yl_miL7sjreHZgi-eaJ3ZQtiy2lXTKySYLuUaF6P5UFC",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Are Google and Facebook Lying About the Spying? - YouTube",
+        "link": "https://www.youtube.com/watch?v=JZ7AJOop_FY",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHbAK7Yl_miL7sjreHZgi-eaJ3ZQtiy2lXTKySYLuUaF6P5UFC",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://i.ytimg.com/vi/JZ7AJOop_FY/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgWShSMA8=&rs=AOn4CLAGODDdWHlwyDKQff8yiD0_dtXhGg",
+        "image_width": 386,
+        "image_height": 686
+      },
+      "webpage": null,
+      "texte_contexte": "Vidéo YouTube intitulée 'Are Google and Facebook Lying About the Spying?' posant la question de savoir si Google et Facebook mentent au sujet de l'espionnage.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Google",
+          "Facebook",
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.745037524487045
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "FBI",
+      "ATF",
+      "4chan",
+      "Newsy"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Reagan",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Washington Post",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NSA",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. News & World Report",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South China Morning Post",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014-03-19",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014-07-21",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Americans' data",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Executive Order 12333",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Chinese cyberfirms",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:05:04.933698"
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "id_rumeur": 1458991,
+  "id_image": 1458991,
+  "caption": "BA was found to have the quietest flights in a table compiled by Heathrow bosses",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747553/oluyewo_benchmark/hrxtgi5kk6tjb7s28hha.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Heathrow noise trial 'helped 100,000 residents' - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/news/uk-england-london-23692965",
+      "image_url": "https://news.bbcimg.co.uk/media/images/69273000/jpg/_69273297_005284293.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6FlkCGeZUEQfppMQfCzNvZUH6TfcHenTC4r-HmFcrY-S4Sguz",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Heathrow noise trial 'helped 100,000 residents' - BBC News",
+        "link": "https://www.bbc.co.uk/news/uk-england-london-23692965",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQkfkHsgY8lS21mPHFUbDtwW6Et_KFgAwjd1eumnE7PsvEhqdw6Kv69JwDtX9AXmV8-fm6t54pB8PATe-Pzv5BHmyDELvrJFZqQ7nx8_vZwcD6x",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6FlkCGeZUEQfppMQfCzNvZUH6TfcHenTC4r-HmFcrY-S4Sguz",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://news.bbcimg.co.uk/media/images/69273000/jpg/_69273297_005284293.jpg",
+        "image_width": 261,
+        "image_height": 464
+      },
+      "webpage": {
+        "text": "14 August 2013 Last updated at 09:42\n\nAbout 17 flights arrive at Heathrow each morning between 04:30 and 06:00\n\nA trial involving early morning flights at Heathrow Airport has found about 100,000 people living under the flight path experienced less noise.\n\nDuring the five month trial, planes were directed to more defined flight paths to protect people in dedicated areas between 04:30 and 06:00.\n\nBut the findings showed some areas such as Brockley in south-east London experienced more night flights.\n\nA report on the trial said it should not continue in its present form.\n\nOn average about 17 planes arrive at Heathrow each morning between 04:30 and 06:00.\n\n'Unintended negative outcomes'\n\nAir traffic controllers normally direct these aircraft to achieve the safest and most efficient arrival routes, spreading out their flight paths.\n\nDuring the trial, which began in December, pilots were directed to avoid flying through certain areas taking part in the experiment.\n\nThe findings from the trial, detailed in The Helios Report, said it benefited residents in the south-east and east London as well as many residents of Berkshire.\n\nBut it said the trial should not continue and that \"pre-trial assessments should be undertaken to predict likely outcomes to better understand the balance of the likely benefits against the unintended negative outcomes\".\n\n'Considerable achievement'\n\nThe scheme was a partnership between Heathrow, British Airways, the National Air Traffic Service and HACAN, which campaigns against aircraft noise.\n\nJohn Stewart, the chair of HACAN, said: \"This is the first time we have worked with the aviation industry in this way.\n\n\"Although the trial had some problems which would need to be addressed in any future experiments, to bring relief to 100,000 people is a considerable achievement.\"\n\nMatt Gorman, from Heathrow: said: \"The results of this trial are very encouraging, showing that by working with local communities and our partners across the airport we can find new ways to bring noise respite to thousands of residents.\"\n\nThese areas covered in the trial included Vauxhall, Wandsworth, Battersea, Clapham Common, Westminster, Bermondsey and Streatham to the east of the airport, and Binfield, Reading, Purley-on-Thames and Winnersh to the west of the airport.",
+        "metadata": {
+          "title": "BBC News - Heathrow noise trial &#039;helped 100,000 residents&#039;",
+          "Description": "A trial of early morning flights at Heathrow Airport finds about 100,000 people living under the flight path experienced less noise.",
+          "rnews:description": "A trial of early morning flights at Heathrow Airport finds about 100,000 people living under the flight path experienced less noise.",
+          "rnews:datePublished": "2013/08/14 08:42:54",
+          "rnews:thumbnailUrl": "//news.bbcimg.co.uk/media/images/69273000/jpg/_69273295_005284293.jpg",
+          "rnews:headline": "Heathrow noise trial 'helps 100,000'",
+          "rnews:creator": "//www.bbc.co.uk#org",
+          "og:title": "Heathrow noise trial 'helps 100,000'",
+          "og:type": "article",
+          "og:url": "//www.bbc.co.uk/news/uk-england-london-23692965",
+          "og:site_name": "BBC News",
+          "og:image": "//news.bbcimg.co.uk/media/images/69273000/jpg/_69273297_005284293.jpg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un test mené à l'aéroport d'Heathrow entre 04h30 et 06h00, impliquant des trajectoires de vol plus définies pour protéger certaines zones, a révélé qu'environ 100 000 résidents ont connu moins de bruit. Cependant, des zones comme Brockley dans le sud-est de Londres ont subi davantage de vols de nuit. Le rapport Helios a indiqué que le test ne devrait pas se poursuivre sous sa forme actuelle et que des évaluations préalables sont nécessaires. Le projet était un partenariat entre Heathrow, British Airways, National Air Traffic Service et HACAN.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Stewart",
+          "Matt Gorman"
+        ],
+        "LOCATION": [
+          "Heathrow",
+          "Brockley",
+          "London",
+          "Berkshire",
+          "south-east London",
+          "east London",
+          "Vauxhall",
+          "Wandsworth",
+          "Battersea",
+          "Clapham Common",
+          "Westminster",
+          "Bermondsey",
+          "Streatham",
+          "Binfield",
+          "Reading",
+          "Purley-on-Thames",
+          "Winnersh"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Heathrow Airport",
+          "British Airways",
+          "National Air Traffic Service",
+          "HACAN"
+        ],
+        "DATE": [
+          "14 August 2013",
+          "December"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "The Helios Report"
+        ]
+      },
+      "score_e5": 0.7794787509753761
+    },
+    {
+      "titre": "Yeo's runway taunt is big-willy politics, and that is the ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/commentisfree/2012/aug/28/heathrow-third-runway-big-willy-politics",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/8/28/1346164686092/FILE-PHOTO-Transport-Secr-008.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIEmjV30rjU5IEoREM3t8mRoKlr4tMEAkx-OXSdOoAk3Gtulg",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Yeo's runway taunt is big-willy politics, and that is the ...",
+        "link": "https://www.theguardian.com/commentisfree/2012/aug/28/heathrow-third-runway-big-willy-politics",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIEmjV30rjU5IEoREM3t8mRoKlr4tMEAkx-OXSdOoAk3Gtulg",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/8/28/1346164686092/FILE-PHOTO-Transport-Secr-008.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Yeo's runway taunt is big-willy politics, and that is the most dangerous politics of all | Simon Jenkins\n\nBig-willy politics is back. If we do not build a third runway at Heathrow, says Tory MP Tim Yeo, Britain will \"slide towards insignificance\". Britain will leave the premier league, lose out to China and become a second-rate power. Those who refuse to build third runways are mice not men. As for manifesto pledges and coalition agreements, they are for wimps. Real men love planes. To be great, says Hamlet, is \"greatly to find quarrel in a straw when honour's at the stake\". What greater honour could there be than a third runway at Heathrow?\n\nSimilar dire warnings were made if Britain withdrew from \"east of Suez\", refused to join the euro or failed to back a British car industry. They are why governments still build aircraft carriers, buy nuclear missiles and fight foreign wars. They are why lobbyists argue for banking bonuses, high-speed trains and lofty skyscrapers. Yeo says we risk repeating Macmillan's retreat from empire. Foreigners will kick sand in our faces and be rude about our food and our women.\n\nBig-willy politics is the most dangerous politics of all. It appeals to paranoid machismo, not argument or reason. Yeo's taunt at David Cameron – is he \"a man or a mouse\" over Heathrow – is the dumbed-down remark of a politician who takes £140,000 in a year from energy companies while chairing the Commons energy select committee – though this may say more about today's parliament than about Yeo. The thesis that any profit to an interest group must be \"good for Britain\" is insidious. War is more profitable than peace, but we do not go to war with Russia.\n\nThe case for a third runway at Heathrow is like that for a heliport in St James's Park or a shard on Hampstead Heath. Some might find it remunerative and convenient, but we try not to commit such outrages on the environment these days. No sensible country builds airports with flight paths over densely populated areas. However much BAA and BA may spend on PR to keep alive \"the case for a third runway\", it cannot alter this fact.\n\nThe London area has more airports and more runways than any other city in Europe. Heathrow alone serves more \"key business\" destinations than Paris and Frankfurt together. Screaming for a \"hub\" is lobbyists' nonsense. London's trading future lies in being a terminus, not a transit lounge. Anyway, a mere 15% of London air travel is business rather than pleasure, the latter overwhelmingly that of outbound Britons. Why boosting Britain's £15bn tourism deficit holds the key to economic recovery is a mystery.\n\nThere is nothing to stop Heathrow serving more business destinations if BAA and BA wanted. Instead they are addicted to outbound leisure travel, as is glaringly obvious from any Heathrow departure board. As for inbound tourists, far more harm is done by Cameron's clampdown on their visas than might be done by directing them to Stansted or Gatwick.\n\nBA prefers to work out of Heathrow, while Spanish-owned BAA has sold both Gatwick and Stansted and has no interest in their growth, let alone in a new Thames airport. These are two companies with a commercial interest in Heathrow, pure and simple. They are continuing to press for a third runway for one reason alone. Cameron and George Osborne have shown they will bend under pressure. While this is sometimes the welcome reversal of a bad decision, each U-turn is a gift to the lobbyists.\n\nCameron famously said in opposition that \"secret corporate lobbying, like the expenses scandal, goes to the heart of why people are so fed up with politics\". Money, he said, was \"buying power, power fishing for money, and a cosy club at the top making decisions in their own interest\". He spoke the truth. Can he now not recognise the evil when he sees it?\n\nThis week's Guardian poll shows the pressure on the government to show lateral thinking on the economy. The demand takes a drearily familiar form, that Cameron sack Osborne rather than change his recovery policy. With the American and German economies now showing signs of growth, the danger of Britain \"sliding back to insignificance\" is real. But the pressure from Yeo and others is to halt this slide, not through a desperately needed stimulus to liquidity and demand, but through \"infrastructure projects\".\n\nNot a day passes without a call for something big, brash and financially sexy: a road, an airport, a railway, a power station. Economists get on TV if they call for more infrastructure, even when such projects take years to get off the ground and benefit only professionals and consultants in the short term.\n\nThe British class system is nowhere more apparent than in this pressure. An economic stimulus that puts money directly into the pockets of consumers through higher benefits and/or lower taxes is bad, indeed possibly immoral as corrupting expectations. It is thought vulgar to print money for people to spend through their wallets and credit cards. On the other hand, a stimulus that aids \"investment\" is automatically good. As we saw last month, Olympic stadiums are good, school playing fields are bad. Third runways are good, local transport bad. Developers want hypermarkets and eco-cities in the countryside, not healthier high streets and urban renewal.\n\nThe Treasury and the Bank of England seek to \"pump money into investment\", even when they know it merely disappears into a bank vault. Money can be printed but not for ordinary people to spend. It must be conduited through government agencies, banks, boards and consultants. It thus becomes \"clean\" and can even be declared \"below-the-line and off-budget\". Nobody trusts ordinary people to rescue the British economy. The only good spending is government spending on infrastructure. It makes no sense.\n\nThe best thing Cameron could now do is meet Yeo's challenge. He should show himself a man, not a mouse. He should get Yeo expelled from the Commons energy committee for blatant conflict of interest. He should declare closure on the third runway nonsense. He should tell the toffs and tycoons of the infrastructure lobby that consumption, not investment, is today's absolute priority. A recession is no excuse for collapsing environmental standards or pushing through dumb projects.\n\nCameron might take note that the chief lobbyist for BAA is a firm called Blue Rubicon. He now faces his blue Rubicon. Dare he cross it, and send the mice scampering?",
+        "metadata": {
+          "title": "Yeo's runway taunt is big-willy politics, and that is the most dangerous politics of all | Simon Jenkins | The Guardian",
+          "description": "<strong>Simon Jenkins:</strong> The third runway appeals to paranoid machismo not reason. A recession is no excuse for pushing through dumb projects",
+          "og:url": "http://www.theguardian.com/commentisfree/2012/aug/28/heathrow-third-runway-big-willy-politics",
+          "article:author": "https://www.theguardian.com/profile/simonjenkins",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/8/28/1346164686092/FILE-PHOTO-Transport-Secr-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTIucG5n&enable=upscale&s=bdcce882fc793b1bfad6da1774445cfa",
+          "al:ios:url": "gnmguardian://commentisfree/2012/aug/28/heathrow-third-runway-big-willy-politics?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Yeo's runway taunt is big-willy politics, and that is the most dangerous politics of all | Simon Jenkins",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-12-01T16:02:53.000Z",
+          "og:image:height": "720",
+          "og:description": "Simon Jenkins: The third runway appeals to paranoid machismo not reason. A recession is no excuse for pushing through dumb projects",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Opinion",
+          "article:published_time": "2012-08-28T19:30:01.000Z",
+          "article:tag": "Heathrow third runway,Airline industry,Travel and transport,Air transport,Business,David Cameron,London,Heathrow,Environment,Politics,UK news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le député conservateur Tim Yeo a déclaré que si la Grande-Bretagne ne construisait pas une troisième piste à Heathrow, le pays glisserait vers l'insignifiance. Simon Jenkins critique cette approche qu'il qualifie de politique de testostérone et de machisme politique dangereux. Le débat aborde également les questions de l'environnement, du tourisme, des destinations d'affaires et des projets aéroportuaires à Londres.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Simon Jenkins",
+          "Tim Yeo",
+          "Hamlet",
+          "Macmillan",
+          "David Cameron"
+        ],
+        "LOCATION": [
+          "Heathrow",
+          "Britain",
+          "China",
+          "Russia",
+          "St James's Park",
+          "Hampstead Heath",
+          "London",
+          "Paris",
+          "Frankfurt",
+          "Stansted",
+          "Gatwick"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "BAA",
+          "BA"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7210979081554931
+    },
+    {
+      "titre": "Heathrow Runway Expansion Faces Long Taxi to Take Off ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/heathrow-runway-expansion-faces-long-taxi-to-take-off-1477402204",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-QL254_runway_G_20161025091920.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrIab50WUFRUHN_EpFMVKJG5eioUwWNau_1pS0ZVZF2flCRRVb",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Heathrow Runway Expansion Faces Long Taxi to Take Off ...",
+        "link": "https://www.wsj.com/articles/heathrow-runway-expansion-faces-long-taxi-to-take-off-1477402204",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrIab50WUFRUHN_EpFMVKJG5eioUwWNau_1pS0ZVZF2flCRRVb",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-QL254_runway_G_20161025091920.jpg",
+        "image_width": 369,
+        "image_height": 553
+      },
+      "webpage": null,
+      "texte_contexte": "Heathrow Runway Expansion Faces Long Taxi to Take Off",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Heathrow"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7375397659338622
+    },
+    {
+      "titre": "Englandlondon March 12th 2019planes Landing London Stock ...",
+      "source": "Shutterstock",
+      "lien": "https://www.shutterstock.com/image-photo/englandlondon-march-12th-2019-planes-landing-1499784911",
+      "image_url": "https://www.shutterstock.com/image-photo/englandlondon-march-12th-2019-planes-260nw-1499784911.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UrJNuyuy3gi-30v74dB3Vb93wRXLGMKW97xd7JIkVXiVo29e",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Englandlondon March 12th 2019planes Landing London Stock ...",
+        "link": "https://www.shutterstock.com/image-photo/englandlondon-march-12th-2019-planes-landing-1499784911",
+        "source": "Shutterstock",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQwdI3sb1idjasgpEajuGBarrfMhFwWbJceP1HmKLp9LB8NKtpVfuUo17r2zkDPmlw6QrBqa5Pauk8AHMTKtOxo2mv157Swt5427ca_0tkvot_JzOuLv-zNkQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UrJNuyuy3gi-30v74dB3Vb93wRXLGMKW97xd7JIkVXiVo29e",
+        "thumbnail_width": 191,
+        "thumbnail_height": 264,
+        "image": "https://www.shutterstock.com/image-photo/englandlondon-march-12th-2019-planes-260nw-1499784911.jpg",
+        "image_width": 280,
+        "image_height": 387
+      },
+      "webpage": null,
+      "texte_contexte": "Englandlondon March 12th 2019planes Landing London Stock",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "England",
+          "London"
+        ],
+        "ORGANIZATION": [
+          "Shutterstock"
+        ],
+        "DATE": [
+          "March 12th 2019"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7553841381440541
+    },
+    {
+      "titre": "Why plans for London airports are taking off | London ...",
+      "source": "Evening Standard",
+      "lien": "https://www.standard.co.uk/business/business-news/why-plans-for-london-airports-are-taking-off-8227942.html",
+      "image_url": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2012/09/23/14/plane.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVkUn5fQbj_hKcihX0gFxjgW0za0rz6gSkqjylo_MnLpzm0HFp",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Why plans for London airports are taking off | London ...",
+        "link": "https://www.standard.co.uk/business/business-news/why-plans-for-london-airports-are-taking-off-8227942.html",
+        "source": "Evening Standard",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ_njVfq8-tabZm6HHSbJ6bFcStAq9KwIS4BoC5dRXRF2RN5mXDJQ9uiFohf_MaQ3M2CZ9WwuTowlU7Gzrn-MFk1SRcnY-7xsu-4lkNXTjiGHRXTT24pqA",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVkUn5fQbj_hKcihX0gFxjgW0za0rz6gSkqjylo_MnLpzm0HFp",
+        "thumbnail_width": 198,
+        "thumbnail_height": 255,
+        "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2012/09/23/14/plane.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
+        "image_width": 934,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Why plans for London airports are taking off | London Evening Standard\n\nWhy are architects volunteering new airport plans for London? Answer shortly.\n\nFirst the politics. On Tuesday Shadow Transport Secretary Angela Eagle called for Sir Howard Davies’s review of London’s airport strategy to be “fast-tracked” to complete before the next election. Political pressure is growing on the government to start spending on an exploration of the other options.\n\nHey Presto! Ken Shuttleworth of Make Architects last week came up with plans to add three four kilometre runways at Stansted. Chris Williamson of architects Weston Williamson was on local TV this week pushing for three runways at Luton. Foster + Partners want a new airport on the Hoo peninsular in Kent. US firm Gensler suggest a floating airstrip in the Thames Estuary called London Britannia Airport.\n\nWhy come up with plans? Nobody has told the architects to do so. Nobody is paying. Two reasons. One, who better? Architects love dreaming up ideas that aren’t rooted in the realities of trying to lift capacity. But there is a baser reason: establishing credentials before the flow of consulting fees that will come as the Davies Commission gets down to work.",
+        "metadata": {
+          "title": "Why plans for London airports are taking off | London Evening Standard | The Standard",
+          "fb:app_id": "193840110715213",
+          "fb:pages": "165348596842143",
+          "og:locale": "en_GB",
+          "og:site_name": "The Standard",
+          "description": " ",
+          "og:updated_time": "2012-10-26T10:30:02.000Z",
+          "twitter:description": " ",
+          "article:published_time": "2012-10-26T10:30:02.000Z",
+          "article:modified_time": "2012-10-26T10:30:02.000Z",
+          "date": "2012-10-26T10:30:02.000Z",
+          "article:section": "Business",
+          "article:subsection": "Business News",
+          "article:content_type": "story",
+          "article:word_count": "196",
+          "article:image_count": "1",
+          "article:embed_count": "0",
+          "article:video_count": "0",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "0",
+          "og:title": "Why plans for London airports are taking off",
+          "twitter:title": "Why plans for London airports are taking off",
+          "og:url": "https://www.standard.co.uk/business/business-news/why-plans-for-london-airports-are-taking-off-8227942.html",
+          "vf:url": "https://www.standard.co.uk/business/business-news/why-plans-for-london-airports-are-taking-off-8227942.html",
+          "og:type": "article",
+          "og:description": " ",
+          "og:image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2012/09/23/14/plane.jpg?width=1200&auto=webp&quality=75",
+          "og:image:secure_url": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2012/09/23/14/plane.jpg?width=1200&auto=webp&quality=75",
+          "keywords": "Airports, Architects, Architecture, Artists, Consultancy, Luton (town)"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "Evening Standard",
+          "url": "https://www.standard.co.uk",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.standard.co.uk/img/logo.png",
+            "width": 600,
+            "height": 121
+          },
+          "sameAs": [
+            "https://twitter.com/standardnews",
+            "165348596842143"
+          ],
+          "@id": "https://www.standard.co.uk/#publisher"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des architectes proposent de nouveaux plans pour les aéroports de Londres, notamment l'ajout de pistes à Stansted et Luton, un nouvel aéroport sur la péninsule de Hoo dans le Kent, et une piste flottante dans l'estuaire de la Tamise appelée London Britannia Airport. Cette effervescence intervient alors que des pressions politiques s'exercent pour accélérer la révision de la stratégie aéroportuaire londonienne dirigée par Sir Howard Davies.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Angela Eagle",
+          "Howard Davies",
+          "Ken Shuttleworth",
+          "Chris Williamson"
+        ],
+        "LOCATION": [
+          "London",
+          "Stansted",
+          "Luton",
+          "Hoo",
+          "Kent",
+          "Thames Estuary"
+        ],
+        "ORGANIZATION": [
+          "Evening Standard",
+          "Make Architects",
+          "Weston Williamson",
+          "Foster + Partners",
+          "Gensler",
+          "London Britannia Airport",
+          "Davies Commission"
+        ],
+        "DATE": [
+          "Tuesday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7326012195671775
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "British Airways",
+      "Heathrow"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "John Stewart",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matt Gorman",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Simon Jenkins",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tim Yeo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hamlet",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Macmillan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Cameron",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Angela Eagle",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Howard Davies",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ken Shuttleworth",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Williamson",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Heathrow",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brockley",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Berkshire",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "south-east London",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "east London",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Vauxhall",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wandsworth",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Battersea",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Clapham Common",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Westminster",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bermondsey",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Streatham",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Binfield",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Reading",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Purley-on-Thames",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Winnersh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St James's Park",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hampstead Heath",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Frankfurt",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Stansted",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gatwick",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "England",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Luton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hoo",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kent",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Thames Estuary",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Heathrow Airport",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Airways",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Air Traffic Service",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HACAN",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BAA",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BA",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Shutterstock",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Evening Standard",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Make Architects",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Weston Williamson",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Foster + Partners",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gensler",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "London Britannia Airport",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Davies Commission",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "14 August 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 12th 2019",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The Helios Report",
+      "rangs": [
+        1
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:33:01.560744"
+  }
+}

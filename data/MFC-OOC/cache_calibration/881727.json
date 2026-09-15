@@ -1,0 +1,963 @@
+{
+  "id_rumeur": 881727,
+  "id_image": 466006,
+  "caption": "Dense smoke over Neapoli southern Greece is seen from Elafonisos",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747406/oluyewo_benchmark/wxhfeubpdodvmv4poels.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Lightning strikes the UK - in pictures | UK weather | The ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/uk-news/gallery/2014/jul/19/lightning-strikes-the-uk-in-pictures",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/19/1405754818742/f31adfc3-2254-4765-90d5-44c8301e7344-2060x1236.jpeg?width=480&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs88NqmIpKsLvqWNabMk_rt7Xl8TEGOqcv_ncQHvD-0QW0eK6L",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Lightning strikes the UK - in pictures | UK weather | The ...",
+        "link": "https://www.theguardian.com/uk-news/gallery/2014/jul/19/lightning-strikes-the-uk-in-pictures",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8edc4fb333eef6cd08c2dc/images/asImpzjQkgcH13nnnJupSxVPggOkk3FHw3nDp46bYME.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs88NqmIpKsLvqWNabMk_rt7Xl8TEGOqcv_ncQHvD-0QW0eK6L",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/19/1405754818742/f31adfc3-2254-4765-90d5-44c8301e7344-2060x1236.jpeg?width=480&dpr=1&s=none&crop=none",
+        "image_width": 288,
+        "image_height": 480
+      },
+      "webpage": {
+        "text": "Lightning strikes the UK - in pictures | UK weather\n\n* Britain set for another scorching day with 30C expected in the south\n   \n   \n\n\n * Burning red the hawthorn brings to mind moots and magic rituals\n   \n   \n\n\n * World breaks temperature record for June after hottest May\n   \n   \n\n\n * 100 years ago: An abundance of flowering trees",
+        "metadata": {
+          "title": "Lightning strikes the UK - in pictures | UK weather | The Guardian",
+          "description": "Over the last couple of nights the UK has witnessed the awesome beauty of nature's majesty",
+          "og:url": "http://www.theguardian.com/uk-news/gallery/2014/jul/19/lightning-strikes-the-uk-in-pictures",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/19/1405754818742/f31adfc3-2254-4765-90d5-44c8301e7344-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=3df5f8539da2d4fe2ca09b2e0b7b09a3",
+          "al:ios:url": "gnmguardian://uk-news/gallery/2014/jul/19/lightning-strikes-the-uk-in-pictures?contenttype=Article&source=applinks",
+          "og:title": "Lightning strikes the UK - in pictures",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2018-03-03T10:23:40.000Z",
+          "og:image:height": "720",
+          "og:description": "Over the last couple of nights the UK has witnessed the awesome beauty of nature's majesty",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "UK news",
+          "article:published_time": "2014-07-19T08:46:49.000Z",
+          "article:tag": "UK weather,UK news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Lightning strikes the UK - in pictures"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Lightning strikes the UK in pictures, featuring UK weather. Britain is set for another scorching day with 30C expected in the south. The hawthorn brings to mind moots and magic rituals. The world breaks temperature record for June after hottest May, and 100 years ago saw an abundance of flowering trees.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "UK",
+          "Britain"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "June",
+          "May",
+          "100 years ago"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7425589395321974
+    },
+    {
+      "titre": "Torrential downpours expected to spread north across England ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/uk-news/2014/jul/19/toerrential-downpours-spread-northward-england-wales",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/19/1405761902723/Thunderstorms-and-lightni-011.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf2aaYfCPWz9ueyR-A-y8pr0SBnLq6Frp1A5q--32HFOnwaPiH",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Torrential downpours expected to spread north across England ...",
+        "link": "https://www.theguardian.com/uk-news/2014/jul/19/toerrential-downpours-spread-northward-england-wales",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8edc4fb333eef6cd08c2dc/images/lwXHElwpioYYNU4ZWz6tre86fAyEwA0BuMDN-H5cJuA.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf2aaYfCPWz9ueyR-A-y8pr0SBnLq6Frp1A5q--32HFOnwaPiH",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/19/1405761902723/Thunderstorms-and-lightni-011.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 276,
+        "image_height": 460
+      },
+      "webpage": {
+        "text": "Torrential downpours expected to spread north across England and Wales | UK weather\n\nAfter sweltering in temperatures that touched on 32C (89.6F), the UK is now braced for torrential downpours and storms that could cause flash-flooding across large parts of the country.\n\nThe Environment Agency warned that up to 30mm (1.2in) of rain could fall in an hour in some areas.\n\nThe agency says that almost every county in England and Wales is at medium risk of flooding today, and has issued 59 flood alerts, warning people to be prepared.\n\nThe majority of these are in the Midlands, the south-east and the south-west\n\nIn a separate amber warning of rain for England, eastern and central Wales, the Met Office warns that heavy, thundery showers that developed overnight will move northwards during the day.\n\nLarge amounts of energy in the atmosphere will lead to torrential downpours, frequent lightning, large hail and strong gusts of wind.\n\nThe Met Office said: \"Not everywhere within the warning area will see thunderstorms, and indeed some spells of warm sunshine are expected at times, but where thunderstorms do form, some torrential downpours are likely with frequent lightning, large hail and locally strong gusts.\n\n\"Significant flooding is possible where these do occur from surface water as well as from small, fast-responding watercourses. The public should be prepared for the risk of disruption from any of these elements.\"\n\nThere is still, however, a yellow warning of a heatwave for the UK today, advising people to be \"alert and ready\". The Met Office said there was a 60% chance of a heatwave continuing until tomorrow morning, with high levels of humidity.\n\nJohn Curtin, director of incident management at the Environment Agency, said: \"Intense heavy rainfall this weekend brings a surface water flood risk for England throughout the weekend. Flooding can happen very quickly and the public are urged to keep checking local weather forecasts and the Environment Agency website for information on a regular basis.\n\n\"We will continue to monitor the situation closely and support local authorities, who will respond to any reports of surface water flooding. We will also continue to monitor river levels closely and issue warnings where flooding is likely.\"\n\nStorms hit large parts of the south-east of England early on Friday morning, with a reported 3,000 lightning strikes.\n\nGemma Plumb, a forecaster with MeteoGroup, said: \"Today we have got some heavy and severe thunderstorms continuing to spread north across the UK. Most of the UK is going to see some heavy showers or long spells of rain during the day and severe thunderstorms.\n\n\"These could give hail, gusty winds and very frequent lightning strikes.\n\n\"It will not be as hot as yesterday, but it will still be very warm and humid. East Anglia could still see temperatures as high as 27C (80.6F) to 29C (84.2F), Kent will see 27C (80.6F) or 28C (82.4F), rather than the 32C (89.6F) it had yesterday.\"\n\nFire crews have been called to a number of incidents caused by lightning.\n\nThe first floor and roof of a house in Sittingbourne, Kent, was set alight by a strike, while a bungalow's roof was hit in Whitstable, Kent fire and eescue said.\n\nHouses were struck in the market village of Lenham, near Maidstone, while lightning also started several small fires in Willesborough, near Ashford.\n\nA spokeswoman for Heathrow airport said airlines were cancelling 20% of flights for a two-hour period today due to the thundery weather.\n\nShe said: \"There is severe weather forecast at Heathrow with a 70% risk of thunderstorms, lightning strikes and hail storms. During thunderstorms the number of aircraft that can take off and land each hour is reduced.\n\n\"We have therefore requested that airlines reduce their flight schedule by 20% between 4pm and 6pm. Passengers due to travel on 19 July are urged to check the status of their flight with their airline before travelling to the airport.\"\n\nPatients on a hospital ward had to be moved when heavy rain brought down part of a ceiling.\n\nTwenty-seven patients on the cardiology ward at the Royal United hospital in Bath, Somerset, were transferred after the incident at around 2am.\n\nThree ceiling panels came down in the hospital's catheter lab and cardiology ward after the roof sprang a leak.\n\nThe patients, who were all unharmed, were taken to other parts of the hospital.\n\nA hospital spokesman said: \"At about 2am, in one of the severe heavy storms we had last night across the south-west, there was a leak sprung in the roof of the hospital.\n\n\"Water got into the roof, causing three of the ceiling panels to come down due to the weight of the water.\n\n\"We had to transfer 27 patients from the cardiology ward to other parts of the hospital. They were not injured but they were inconvenienced and we apologise for that.\"\n\nThe leak has now been plugged and it is hoped that the patients will soon be able to return to the ward, the spokesman added.\n\nA spokeswoman for South Western ambulance service said an officer attended the hospital at 2.50am to liaise with medics but no further assistance was required.",
+        "metadata": {
+          "title": "Torrential downpours expected to spread north across England and Wales | UK weather | The Guardian",
+          "description": "Almost every county in England and Wales is at risk of flooding as up to 30mm (1.2in) of rain could fall in an hour",
+          "og:url": "http://www.theguardian.com/uk-news/2014/jul/19/toerrential-downpours-spread-northward-england-wales",
+          "article:author": "https://www.facebook.com/PAMediaGroupUK/",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/19/1405761902723/Thunderstorms-and-lightni-011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=f2274ab82441a4531f7ef74f0b9cc483",
+          "al:ios:url": "gnmguardian://uk-news/2014/jul/19/toerrential-downpours-spread-northward-england-wales?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Torrential downpours expected to spread north across England and Wales",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2018-03-03T10:23:44.000Z",
+          "og:image:height": "720",
+          "og:description": "Almost every county in England and Wales is at risk of flooding as up to 30mm (1.2in) of rain could fall in an hour",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "UK news",
+          "article:published_time": "2014-07-19T09:31:00.000Z",
+          "article:tag": "UK weather,UK news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Torrential downpours are expected to spread north across England and Wales. After reaching temperatures of 32C (89.6F), the UK faces storms and flash-flooding. The Environment Agency issued 59 flood alerts, mainly in the Midlands, south-east, and south-west. The Met Office issued an amber warning of rain for England and eastern/central Wales due to heavy thundery showers, frequent lightning, large hail, and strong winds. A yellow warning of a heatwave also remains. John Curtin is the director of incident management at the Environment Agency. Storms hit south-east England with around 3,000 lightning strikes. Forecaster Gemma Plumb from MeteoGroup notes severe thunderstorms continuing to spread north, with temperatures reaching 27C-29C in East Anglia and 27C-28C in Kent.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "John Curtin",
+          "Gemma Plumb"
+        ],
+        "LOCATION": [
+          "England",
+          "Wales",
+          "UK",
+          "Midlands",
+          "East Anglia",
+          "Kent"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Environment Agency",
+          "Met Office",
+          "MeteoGroup"
+        ],
+        "DATE": [
+          "today",
+          "Friday morning"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7327118281407731
+    },
+    {
+      "titre": "In praise of ... + UK weather | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/commentisfree/series/in-praise-of+uk/weather",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/20/1405861866566/Thunderstorms-And-Lightni-011.jpg?width=465&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwYwAFzZwfA37ZNtLWaA6qoZFxrQwTrWREI6kNYZA44Y0DtGS",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "In praise of ... + UK weather | The Guardian",
+        "link": "https://www.theguardian.com/commentisfree/series/in-praise-of+uk/weather",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8edc4fb333eef6cd08c2dc/images/FzYmkbKYAmY-BOn7u-8OIjYbjIdxJ-ule3JOoTJYako.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwYwAFzZwfA37ZNtLWaA6qoZFxrQwTrWREI6kNYZA44Y0DtGS",
+        "thumbnail_width": 201,
+        "thumbnail_height": 251,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/20/1405861866566/Thunderstorms-And-Lightni-011.jpg?width=465&dpr=1&s=none&crop=5:4",
+        "image_width": 276,
+        "image_height": 345
+      },
+      "webpage": {
+        "text": "In praise of ... + UK weather\n\nThe Guardian's daily editorial encomium\n\n\nAugust 2014\n\n\n * In praise of… weather forecasts – not needless warnings\n   \n   \n   \n   Editorial: The forecasters said it would rain on the bank holiday. That was all we needed to know\n\n\nJuly 2014\n\n\n * In praise of… a dark and stormy night\n   \n   \n   \n   Editorial: Little can match the random exactness of a scene lit in fleeting but sharp detail by a flash of lightning\n\n\nMarch 2014\n\n\n * In praise of … snowball fights\n   \n   \n   \n   Editorial: To overcome adult inhibitions about snowballing, you need a real blizzard\n\n\nFebruary 2014\n\n\n * In praise of … Admiral Beaufort\n   \n   \n   \n   Editorial: The sailor-scientist devised a measure of wind force that became the world standard thanks to its clarity and immediacy\n\n\nJuly 2013\n\n\n * In praise of … sunbathing\n   \n   \n   \n   Editorial: As the Roman philosopher and naturalist Pliny the Elder put it 'sol est remediorum maximum'\n\n\nMay 2013\n\n\n * In praise of … a faltering spring\n   \n   \n   \n   Editorial: There is room for a small satisfaction in the reliability of the unreliable\n\n\nApril 2013\n\n\n * In praise of … sunshine\n   \n   \n   \n   Editorial: If you live in Saudi Arabia, you would be one of the few walking through London streets with a smile on your face\n\n\nAugust 2012\n\n\n * In praise of … wet bank holidays\n   \n   \n   \n   Editorial: It's another miserable bank holiday. But, as the motivational speakers like to say, it's how you react that matters\n\n\nJuly 2012\n\n\n * In praise of … St Swithin\n   \n   \n   \n   Editorial: The number of saints' days in June and July associated with weather may be related to the stability of the jet stream\n\n\nApril 2012\n\n\n * In praise of … snow stopped play\n   \n   \n   \n   Editorial: it may not be long before \"snow stopped play\" becomes a more familiar cricket hazard than in the past\n\n\nJanuary 2012\n\n\n * In praise of … the Beaufort scale\n   \n   \n   \n   Editorial: Naval officer's recognisable, replicable wind scale demonstrates still the best way to define the air is to capture its effects\n\n\nNovember 2010\n\n\n * In praise of … gritting the pavements\n   \n   \n   \n   Editorial: As snow blankets the country, Britain's paths have turned into lethal skidpans\n\n\n * In praise of … arctic weather\n   \n   \n   \n   Editorial: Britain has been warned to brace itself for a blast of arctic weather this week\n\n\n * In praise of … autumn leaves\n   \n   \n   \n   Editorial: The fallen leaves need sweeping up now, but around the world this has been an autumn to bring shafts of joy to the glummest soul\n\n\nJanuary 2010\n\n\n * In praise of… feeding birds in winter\n   \n   \n\n\n * In praise of… hunkering down\n   \n   \n\n\nDecember 2009\n\n\n * In praise of… gritting\n   \n   \n\n\n * In praise of… Cumbrian spirit\n   \n   \n\n\nOctober 2009\n\n\n * In praise of… St Luke's little summer\n   \n   \n   \n   Editorial: Saint Luke has blessed most of Britain this autumn with his \"little summer\", the brief period of calm, dry weather which often begins on his feast day on 18 October\n\n\nSeptember 2009\n\n\n * In praise of… reforming the weather forecast\n   \n   \n   \n   Editorial: An experiment on Radio 4's PM programme last week, even if intended as a cheeky, one-off parody, should herald a quiet reformation of the BBC's forecasts\n\nAbout 25 results for In praise of ... + UK weather",
+        "metadata": {
+          "title": "In praise of ... + UK weather | The Guardian",
+          "description": "The Guardian's daily editorial encomium"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "In praise of UK weather, featuring daily editorials by The Guardian from various dates covering weather forecasts, dark and stormy nights, snowball fights, Admiral Beaufort, sunbathing, faltering spring, sunshine, wet bank holidays, St Swithin, snow stopped play, the Beaufort scale, gritting the pavements, arctic weather, autumn leaves, feeding birds in winter, hunkering down, Cumbrian spirit, St Luke's little summer, and reforming the weather forecast.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Admiral Beaufort",
+          "Pliny the Elder",
+          "St Swithin",
+          "St Luke"
+        ],
+        "LOCATION": [
+          "UK",
+          "Saudi Arabia",
+          "London",
+          "Cumbrian",
+          "Britain"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "BAAF",
+          "BBC",
+          "Radio 4"
+        ],
+        "DATE": [
+          "August 2014",
+          "July 2014",
+          "March 2014",
+          "February 2014",
+          "July 2013",
+          "May 2013",
+          "April 2013",
+          "August 2012",
+          "July 2012",
+          "April 2012",
+          "January 2012",
+          "November 2010",
+          "January 2010",
+          "December 2009",
+          "October 2009",
+          "September 2009",
+          "18 October"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Beaufort scale"
+        ]
+      },
+      "score_e5": 0.727375890305472
+    },
+    {
+      "titre": "Check out these 'epic' images from that surprise lightning ...",
+      "source": "Orange County Register",
+      "lien": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/",
+      "image_url": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1200&resize=1200,900",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdybUdDhD-4TFejNKKmBr7J5Coo7XScOlOGHWdsPbBm7NLjTfo",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Check out these 'epic' images from that surprise lightning ...",
+        "link": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/",
+        "source": "Orange County Register",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSQ-ti4nAtPswH8v9lTO6ZDj63bBL1xHAdgXwppKtbMy6PUPMp5N5Gd8L4hYzD_CbfEUzMA0Ke_Y_1pkK9MV0n5fz7o00v0WWiKezxsIEkuU1AZHWzrwP4",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdybUdDhD-4TFejNKKmBr7J5Coo7XScOlOGHWdsPbBm7NLjTfo",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1200&resize=1200,900",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Check out these ‘epic’ images from that surprise lightning storm – Orange County Register\n\nLightning fills the sky over North Tustin as a storm moved through parts of Orange County late Thursday night, September 9, 2021. (Photo by Mark Rightmire, Orange County Register/SCNG)\n\n1 of 16\n\nLightning fills the sky over North Tustin as a storm moved through parts of Orange County late Thursday night, September 9, 2021. (Photo by Mark Rightmire, Orange County Register/SCNG)\n\nExpand\n\nA surprise lightning and thunderstorm raced into Orange County late Thursday, as spectators and photographers marveled at the show in the sky.\n\nIt also brought a shot of much-needed rain to parts of the region.\n\nNational Weather Service meteorologist Adam Roser said a monsoon pattern system from moist air coming up from Mexico caused the storm in San Diego, which then came rolling into San Clemente.\n\n“The atmosphere was unstable enough to support thunderstorm activity in areas of the coast,” he said. “Some storms started to bubble up, in San Diego and Orange County and over the ocean as well.”\n\nThe lightning in San Diego as it made its way up the coast could be seen from San Clemente by about 8 p.m., with flashes in the distance happening every 30 seconds to a minute. Then after 9 p.m., the storm hit Orange County.\n\nThe NWS San Diego office, which also covers Orange County, put out a tally on how many lightning strikes hit from cloud to ground, reporting 81 strikes along the San Diego coast and ocean, and 20 the mountains. It did not have Orange County numbers. Riverside mountains had 93 strikes while the Inland Empire had 153. San Bernardino Mountains experienced 30.\n\nLightning also struck the mountains of the Angeles National Forest.\n\n“There’s always a chance some of the storms might go over the coast and valleys, but it’s usually quite minimal. There’s always a slight chance – most of the time it stays in mountains and deserts,” he said. “Anytime it does, it’s a fun time and a good sign, a little bit of rain in some areas.”\n\nOrange County didn’t get much rain, but every drop helps as drought conditions persist. The Orange County reservoir recorded a quarter of an inch, while Laguna Hills got 0.1 inches.\n\n“Not enough to put a dent in the drought, but anything can help this dry time of year,” Roser said. “Hopefully we see a little more as we get into the cooler months.”\n\nThe bright shots from the sky had photographers scrambling to capture images of the rare event.\n\nMatt Larmand, of Capistrano Beach, set up his camera on the north end of San Clemente to get images of bolts just beyond the iconic pier.\n\n“It was so epic, best lightning show I’ve ever seen,” he said in an online message. “There were a few bolts that were pretty close to us and a few right overhead. Was a little nervous for a few minutes!”\n\nRoyce Hutain traveled from Huntington Beach to get a few shots, including one of lightning just over a tree in San Clemente. When the hair on his legs started standing up, he said he knew it was time to leave.\n\nTorrance photographer Patrick Coyne scored an unbelievable video with bioluminescence creating a neon flash in the waves at the same time lightning flashed to light up the sky off Laguna Beach’s coastline.\n\nRoser said the mountain regions and deserts may still get some of the monsoonal moisture today, but it’s not expected again on the coast.\n\nThe weather should start to stabilize Friday and through the weekend. It will remain warm with 90s inland and a little cooler on the coast, with a high-pressure system lingering before cooling early next week, Roser said.\n\nBig surf is also on the way, with a swell building Saturday and into Sunday bringing 3-foot to 5-foot surf, with a second swell early next week that could deliver waves in the 6-foot to 8-foot range, Roser said.",
+        "metadata": {
+          "title": "Check out these ‘epic’ images from that surprise lightning storm &#8211; Orange County Register",
+          "mrf:authors": "Laylan Connelly",
+          "mrf:canonical": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/",
+          "fb:pages": "6883399629",
+          "og:type": "article",
+          "og:title": "Check out these ‘epic’ images from that surprise lightning storm",
+          "og:url": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/",
+          "og:description": "Did you watch the unexpected wild weather show Thursday night?",
+          "article:published_time": "2021-09-10T16:27:34+00:00",
+          "article:modified_time": "2021-09-10T23:28:41+00:00",
+          "og:site_name": "Orange County Register",
+          "og:image": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=2000&h=1125",
+          "og:image:width": "2000",
+          "og:image:height": "1125",
+          "og:locale": "en_US",
+          "twitter:text:title": "Check out these ‘epic’ images from that surprise lightning storm"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Check out these ‘epic’ images from that surprise lightning storm",
+          "url": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/",
+          "mainEntityOfPage": {
+            "@type": "NewsArticle",
+            "@id": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/"
+          },
+          "thumbnailUrl": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=150",
+          "image": [
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1600&resize=1600,900",
+              "width": "1600",
+              "height": "900",
+              "contentUrl": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1600&resize=1600,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1200&resize=1200,900",
+              "width": "1200",
+              "height": "900",
+              "contentUrl": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1200&resize=1200,900"
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "ImageObject",
+              "url": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1800&resize=1800,1800",
+              "width": "1800",
+              "height": "1800",
+              "contentUrl": "https://www.ocregister.com/wp-content/uploads/2021/09/16x9OCR-L-LIGHTNINGSTORM-0911-01.jpg?w=1800&resize=1800,1800"
+            }
+          ],
+          "articleSection": "News",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Laylan Connelly",
+              "workLocation": {
+                "@type": "Place"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Journalist"
+              },
+              "url": "https://www.ocregister.com/author/laylan-connelly/"
+            }
+          ],
+          "creator": [
+            "Laylan Connelly"
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Orange County Register",
+            "logo": "https://www.ocregister.com/wp-content/uploads/2017/04/ocr_icon11.jpg?w=600"
+          },
+          "keywords": [
+            "beaches",
+            "community",
+            "environment",
+            "top stories ladn",
+            "top stories ocr",
+            "news",
+            "weather",
+            "california",
+            "los angeles",
+            "los angeles county",
+            "orange county",
+            "san clemente"
+          ],
+          "dateCreated": "2021-09-10T16:27:34Z",
+          "datePublished": "2021-09-10T16:27:34Z",
+          "dateModified": "2021-09-10T23:28:41Z",
+          "isBasedOn": "https://www.ocregister.com/2021/09/10/check-out-these-epic-images-from-that-surprise-lightning-storm/",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A surprise lightning storm filled the sky over North Tustin as a storm moved through parts of Orange County late Thursday night, September 9, 2021. National Weather Service meteorologist Adam Roser stated a monsoon pattern system from moist air coming up from Mexico caused the storm in San Diego, which rolled into San Clemente. The NWS San Diego office reported cloud-to-ground lightning strikes across San Diego, Orange County, Riverside mountains, Inland Empire, San Bernardino Mountains, and Angeles National Forest. Photographers Matt Larmand and Royce Hutain captured images of the lightning.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mark Rightmire",
+          "Adam Roser",
+          "Matt Larmand",
+          "Royce Hutain"
+        ],
+        "LOCATION": [
+          "North Tustin",
+          "Orange County",
+          "Mexico",
+          "San Diego",
+          "San Clemente",
+          "Riverside",
+          "Inland Empire",
+          "San Bernardino Mountains",
+          "Angeles National Forest",
+          "Laguna Hills",
+          "Capistrano Beach",
+          "Huntington Beach"
+        ],
+        "ORGANIZATION": [
+          "Orange County Register",
+          "National Weather Service",
+          "NWS"
+        ],
+        "DATE": [
+          "Thursday, September 9, 2021"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7339076374683523
+    },
+    {
+      "titre": "Adoption should be the last port of call – even in the storm ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/social-care-network/2014/sep/25/adoption-last-resort-local-authority",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/23/1411483968337/port-last-call-adoption-014.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXYl7uM1WM4zE2cekCyt4z_y55_2AI7T1KyhCea1Uha7avceuu",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Adoption should be the last port of call – even in the storm ...",
+        "link": "https://www.theguardian.com/social-care-network/2014/sep/25/adoption-last-resort-local-authority",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXYl7uM1WM4zE2cekCyt4z_y55_2AI7T1KyhCea1Uha7avceuu",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/23/1411483968337/port-last-call-adoption-014.jpg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 279,
+        "image_height": 465
+      },
+      "webpage": {
+        "text": "Adoption should be the last port of call – even in the storm of local authority funding | Social Care Network\n\nThe language judges use is usually considered and restrained, but there are times when they make their displeasure clear. Last year, addressing a mother’s appeal against a court’s refusal to let her oppose the adoption of her children, president of the high court’s family division Sir James Munby stated: “We have real concerns, shared by other judges, about the recurrent inadequacy of the analysis and reasoning put forward in support of the case for adoption, both in the materials put before the court by local authorities and guardians and also in too many judgments. This is nothing new. But it is time to call a halt.”\n\nThe mother in Re B-S – the name of the case – did in fact lose her appeal, and therefore lost her children too: her barrister feels her grounds for appeal were not fully addressed by the court. Nevertheless, reading through the judgment it is evident that Munby felt he had to restate the stringent requirements made of social workers and lower courts. This is based on legislation that sets out how the state must evaluate, support and ensure the welfare of a child thought to be at serious risk of harm.\n\n\nAdoption should be the last option\n\nRe B-S is now transforming the way that local authorities plan for the futures of children they seek to remove from their family home. While this is welcomed in principle by adoption professionals, there is also a significant tension between the aims of government – to get more children adopted faster and more adopters approved quicker – and legislation that high court judges are underlining. This essentially means that adoption cannot become the default option for financially stretched local authorities, and is only suitable where nothing else will do.\n\n“This opens up options of other measures that don’t terminate the legal links between a parent and a child, such as care orders or guardianship,” says John Simmonds, policy director at the British Association for Adoption and Fostering (BAAF). “It has also raised the issue that local authorities cannot use adoption to avoid providing appropriate supportive services to families so they can better look after their children themselves.\n\n“The message from the president (of the family division) and the supreme court is that there may be many families out there that we don’t like but that is not the same as saying that we should remove their children and put them with better families.”\n\nMoney is stretched painfully tight at the moment, but not wanting to cough up for expensive or long-term family interventions that could enable a parent, or perhaps a relative, to care for the child, was dealt with severely in the judgment. “The local authority cannot press for a more drastic form or order, least of all press for adoption, because it is unable or unwilling to support a less interventionist form of order,” it said. “Judges must be alert to the point and must be rigorous in exploring and probing local authority thinking in cases where there is any reason to suspect that resource issues may be affecting the local authority’s thinking.”\n\n\nA need for joined-up thinking\n\nThis gives rise to a hollow laugh from barrister Maureen Obi of Family Matters Chambers, who represented the mother in Re B-S.\n\n“I’ve represented numerous teenage parents for instance, and there are no resources there to help teenage mums,” she says. “They have to fit into adult services and very often they are still children themselves, with entirely different needs. The outcome is they have their babies taken away and adopted. The reality then is that these parents are just left.”\n\nThere are, Obi points out, specialist organisations that can offer effective help to struggling parents in a range of situations, but in many cases the child’s welfare ends up being separated from the parents’ issues and so the situation is not holistically addressed. “The difficulty is that there is no co-ordinated approach to getting services to parents,” she argues. “Local authority [adult’s and children’s] services don’t join up their thinking and the courts don’t join up their thinking.”\n\nRe B-S makes it clear that councils cannot argue that a particular intervention is too expensive. But is there enough funding available for support that would give people the best chance of parenting their children well?\n\nAt Stockport council, director of children’s services and immediate past president of the Association of Directors of Children’s Services Andrew Webb draws a deep breath. “The answer to that is a very qualified yes” he says. But there are clearly caveats.\n\nWebb points out that councils have seen a 30% cut in their preventive services grant, and have two more years of cuts to absorb. He also notes that around a third of all care proceedings relate to families where children have already been taken away. Women frequently have more babies to replace the children they have lost, and Webb acknowledges that addressing this particular spiral of despair is “an area we really do need to work on, where we do not have the resources in place.”\n\n\nPermanency plans must be completed in six months\n\nThe comments made in Re B-S about poor evidence gathering by social workers and badly argued cases for placement and adoption orders being nodded through lower courts have created huge difficulties for child protection teams. They are now told they have to get children’s permanency plans signed off within 26 weeks. There is no doubt that social workers have to get better at this part of the job, says Mark Owers, chief executive of the Consortium for Voluntary Adoption Agencies. “The quality of social worker decision making has been variable for decades and we have known about it and have done nothing about it,” he says. “The Care Enquiry addressed it and we did not take it on board.”\n\nAt BAAF John Simmonds agrees, but says a loss of confidence is becoming apparent in social workers and the lower courts about how to proceed in these serious child welfare cases. “It is absolutely right that it can’t be done in any way that’s not thought through or without good enough evidence,” Simmonds says. But social care professionals are working in an urgent environment. “For children to wait [for permanence] is not the right thing. We do need a confident, clear, coherent structure to make this work within the child’s time frame.”\n\nA year on, the impact of Re B-S is plain, says Owers. “There has been a significant fall in the number of placement orders and agency decision making [for adoption] as a direct result of Re B-S and other similar cases,” he says. And at the coalface, Beth Prince, a solicitor for children in care and advisor to the Family Rights Group, testifies to an immediate about-turn in the attitude of one local authority to a family’s situation.\n\n“The day that Re B-S came out I was representing a baby in care proceedings,” she recalls. “The parents were unable to look after it. But there was a grandmother. The guardian [appointed to represent the child’s interests] had thought she was nice, but hadn’t seriously considered her as a carer. And yet when the grandmother gave evidence the guardian was very impressed.”\n\nAt this point, Prince says, the guardian was very keen to explore what the options might be. Overnight she redrafted a new position statement asking for a reassessment of the grandmother as a carer for the baby. “I was a bit anxious about telling the local authority barrister the next day,” says Prince, “but she came up to me, thrust the Re B-S judgement into my hand and said “this changes everything.””\n\nThe local authority solicitor agreed with Prince’s new application. Nothing was guaranteed at this point, Prince points out, “but what happened was that the grandmother was reassessed, and in the end, she got the baby.”\n\nPrince believes it’s essential for local authorities to be challenged more rigorously on their evidence and reasoning when they’re asking for placement and adoption orders. “Local authorities can be punitive in borderline cases,” she says. She has seen cases where parents have made significant improvements and, despite this being acknowledged within social services’ own documentation, councils still “persist on the route towards a care order or adoption order.”\n\nIt then takes the parents’ or child’s legal representative to point out the discrepancy between the improvements that social workers have documented, and the continued demand for the removal of a child. Even when a lawyer is successful and a judge throws out an application, for a parent who is likely to be vulnerable, the experience is traumatic.\n\n\nIntervention before care proceedings\n\nIn Stockport, Webb says that he now expects to see significant changes in how his social work teams approach the task of protecting children.\n\n“Once you make a decision to initiate care proceedings, it’s entirely reasonable to expect those to be resolved within six months, so the key is then what you do beforehand,” he says.\n\nHe wants far more work to be done with vulnerable families on the edge of care in advance of applying to remove a child from their home “so lots of intervention and support to families before care proceedings are initiated,” he explains.\n\nAs a result of pulling all such child protection assessments and support into the pre-court phase, he hopes families will cope better and far fewer children will remain at risk. This will reduce the number of applications to a court, and mean “that when a court asks if you have the evidence to say “no, there’s no other alternative [than adoption]”, you can say ‘yes, and here it all is.’”\n\nWhy not join our social care community? Becoming a member of the Guardian Social Care Network means you get sent weekly email updates on policy and best practice in the sector, as well as exclusive offers. Sign up for free.",
+        "metadata": {
+          "title": "Adoption should be the last port of call – even in the storm of local authority funding | Social Care Network | The Guardian",
+          "description": "More work should be done before care proceedings are begun, including support for families to help them cope better, writes <strong>Louise Tickle</strong>",
+          "og:url": "http://www.theguardian.com/social-care-network/2014/sep/25/adoption-last-resort-local-authority",
+          "article:author": "https://www.theguardian.com/profile/louise-tickle",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/23/1411483968337/port-last-call-adoption-014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=29e1cc939f093dc23a3fe40ec2d9cc13",
+          "al:ios:url": "gnmguardian://social-care-network/2014/sep/25/adoption-last-resort-local-authority?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Adoption should be the last port of call – even in the storm of local authority funding",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2014-09-25T08:54:06.000Z",
+          "og:image:height": "720",
+          "og:description": "More work should be done before care proceedings are begun, including support for families to help them cope better, writes Louise Tickle",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Social Care Network",
+          "article:published_time": "2014-09-25T07:30:03.000Z",
+          "article:tag": "Social Care Network,Children,Work practices,Society Professionals,Social care,Society,Adoption,Children,Child protection",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Discussion on adoption policies and local authority funding in the Social Care Network. Sir James Munby, president of the high court's family division, addressed cases involving adoption analysis and reasoning. The case Re B-S transformed how local authorities plan for children's futures, emphasizing that adoption should be a last resort rather than a default option for financially stretched local authorities, while favoring alternatives like care orders or guardianship. John Simmonds is the policy director at the British Association for Adoption and Fostering (BAAF).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sir James Munby",
+          "John Simmonds"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Guardian",
+          "British Association for Adoption and Fostering",
+          "BAAF"
+        ],
+        "DATE": [
+          "Last year"
+        ],
+        "EVENT": [
+          "Re B-S"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.716053370383911
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Neapoli",
+      "Greece",
+      "Elafonisos"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Dense smoke"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "United Kingdom",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Britain",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "100 years ago",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Curtin",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gemma Plumb",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "England",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wales",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Midlands",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "East Anglia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kent",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Environment Agency",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Met Office",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MeteoGroup",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "today",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday morning",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Admiral Beaufort",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pliny the Elder",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "St Swithin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "St Luke",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Saudi Arabia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "London",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cumbrian",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Association for Adoption and Fostering",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Radio 4",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February 2014",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2013",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 2013",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 2013",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 2012",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 2010",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 2010",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 2009",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 2009",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2009",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "18 October",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Beaufort scale",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Rightmire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Adam Roser",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Matt Larmand",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Royce Hutain",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Tustin",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orange County",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mexico",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Diego",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Clemente",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Riverside",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Inland Empire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Bernardino Mountains",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Angeles National Forest",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Laguna Hills",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Capistrano Beach",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Huntington Beach",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Orange County Register",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Weather Service",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday, September 9, 2021",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sir James Munby",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Simmonds",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Last year",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Re B-S",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T09:50:30.531858"
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "id_rumeur": 755066,
+  "id_image": 755066,
+  "caption": "Revellers march at precarnival celebrations in Recife Brazil Health officials believe as many as 100000 people have been exposed to the Zika virus in the city",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748103/oluyewo_benchmark/lzd9wq4imkqzdmqn5z0k.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "WHO holds emergency meeting to advise on response to Zika ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2016/jan/31/who-emergency-meeting-global-response-zika-virus",
+      "image_url": "https://i.guim.co.uk/img/media/993597670b72011e243ec779df00ec82bed83b2b/0_0_3000_1991/master/3000.jpg?width=445&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYSgRs6WAYVMdXk972BjRxwuAZbvr1uYIF84XCFMP-v8kUINAg",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "WHO holds emergency meeting to advise on response to Zika ...",
+        "link": "https://www.theguardian.com/world/2016/jan/31/who-emergency-meeting-global-response-zika-virus",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYSgRs6WAYVMdXk972BjRxwuAZbvr1uYIF84XCFMP-v8kUINAg",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://i.guim.co.uk/img/media/993597670b72011e243ec779df00ec82bed83b2b/0_0_3000_1991/master/3000.jpg?width=445&dpr=1&s=none&crop=none",
+        "image_width": 295,
+        "image_height": 445
+      },
+      "webpage": null,
+      "texte_contexte": "The Guardian reports on WHO holding an emergency meeting to advise on response to Zika.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WHO",
+          "The Guardian"
+        ],
+        "DATE": [
+          "2016-01-31"
+        ],
+        "EVENT": [
+          "WHO emergency meeting to advise on response to Zika"
+        ],
+        "OTHER": [
+          "Zika"
+        ]
+      },
+      "score_e5": 0.8011292925621896
+    },
+    {
+      "titre": "IN CASE YOU MISSED IT] Uber, San Juan create pick-up/drop ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/sjdailystar/posts/in-case-you-missed-it-uber-san-juan-create-pick-updrop-off-area-for-sanse-festiv/1526264101660093/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1526264074993429",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ain-jgOUZ01HYK9qs61FAuca7JiizjCFVBJ7BiItGzDG-HSN",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "IN CASE YOU MISSED IT] Uber, San Juan create pick-up/drop ...",
+        "link": "https://www.facebook.com/sjdailystar/posts/in-case-you-missed-it-uber-san-juan-create-pick-updrop-off-area-for-sanse-festiv/1526264101660093/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ain-jgOUZ01HYK9qs61FAuca7JiizjCFVBJ7BiItGzDG-HSN",
+        "thumbnail_width": 177,
+        "thumbnail_height": 284,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1526264074993429",
+        "image_width": 500,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "Facebook post about Uber and San Juan creating pick-up/drop-off area for Sanse festival.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "San Juan"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Uber"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Sanse festiva"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7473218488639428
+    },
+    {
+      "titre": "Fiestas de la calle san sebastian 2016 Puerto Rico - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=5Q8qbZw0R6Y",
+      "image_url": "https://i.ytimg.com/vi/5Q8qbZw0R6Y/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgVShTMA8=&rs=AOn4CLCjXSxOp-GE8RWsJTZi815H7bDeyg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFTYyKqvf1b9GORp3ypsHz_Dc7TxsmYy6TdbuQ3yy4sno9IXN9",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Fiestas de la calle san sebastian 2016 Puerto Rico - YouTube",
+        "link": "https://www.youtube.com/watch?v=5Q8qbZw0R6Y",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFTYyKqvf1b9GORp3ypsHz_Dc7TxsmYy6TdbuQ3yy4sno9IXN9",
+        "thumbnail_width": 168,
+        "thumbnail_height": 299,
+        "image": "https://i.ytimg.com/vi/5Q8qbZw0R6Y/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgVShTMA8=&rs=AOn4CLCjXSxOp-GE8RWsJTZi815H7bDeyg",
+        "image_width": 386,
+        "image_height": 686
+      },
+      "webpage": null,
+      "texte_contexte": "YouTube video about Fiestas de la calle san sebastian 2016 Puerto Rico.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Puerto Rico"
+        ],
+        "ORGANIZATION": [
+          "YouTube"
+        ],
+        "DATE": [
+          "2016"
+        ],
+        "EVENT": [
+          "Fiestas de la calle san sebastian 2016"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7769956439128531
+    },
+    {
+      "titre": "Guide To San Se 2017 (Fiestas De La Calle San Sebastian ...",
+      "source": "San Juan Food Tours",
+      "lien": "https://sanjuanfoodtours.com/guide-to-san-se-2017/",
+      "image_url": "https://sanjuanfoodtours.com/wp-content/uploads/2017/01/1391445_225620227604487_878553003_n.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-EtNAeSc6EaRca1JeXDmASWenpExaUX5o4iEvJ-7oA398pmj",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Guide To San Se 2017 (Fiestas De La Calle San Sebastian ...",
+        "link": "https://sanjuanfoodtours.com/guide-to-san-se-2017/",
+        "source": "San Juan Food Tours",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcStLLD9tDItiEMVC0atv1gE0HCfaVlC0N9c_C7827Wi836imccn1Z-XnpZdZsUneUWlF9xWdkcZYurnCZqxrCFAURgaEdPcmDd6Ezh4s5icQXwIPnKrEP89xQ",
+        "rating": 5.0,
+        "reviews": 1999,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-EtNAeSc6EaRca1JeXDmASWenpExaUX5o4iEvJ-7oA398pmj",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://sanjuanfoodtours.com/wp-content/uploads/2017/01/1391445_225620227604487_878553003_n.jpg",
+        "image_width": 540,
+        "image_height": 960
+      },
+      "webpage": null,
+      "texte_contexte": "San Juan Food Tours guide to San Se 2017 (Fiestas De La Calle San Sebastian).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "San Juan"
+        ],
+        "ORGANIZATION": [
+          "San Juan Food Tours"
+        ],
+        "DATE": [
+          "2017"
+        ],
+        "EVENT": [
+          "San Se 2017",
+          "Fiestas De La Calle San Sebastian"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7550456177036267
+    },
+    {
+      "titre": "Brazilians celebrate Carnival despite Zika virus threat | CNN",
+      "source": "CNN",
+      "lien": "https://www.cnn.com/2016/02/01/health/zika-brazil-carnival",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/160201064252-01-brazil-carnival-0201.jpg?q=w_3000,h_1897,x_0,y_0,c_fill",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSarAnZw94M0YtgEUL-bTaFsNx8ZhC-zBOV-Y-b37laQthv_wCc",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Brazilians celebrate Carnival despite Zika virus threat | CNN",
+        "link": "https://www.cnn.com/2016/02/01/health/zika-brazil-carnival",
+        "source": "CNN",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZEJDoud0LszMFZu1_hnVbh2hKVO-0VBsFztbL-r2rTQnosv5JLger75UuitB5MQOpgBCNyMItS2XYSiRETtjuKqFAzRvm7SUEVBEQjt6wqw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSarAnZw94M0YtgEUL-bTaFsNx8ZhC-zBOV-Y-b37laQthv_wCc",
+        "thumbnail_width": 178,
+        "thumbnail_height": 282,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/160201064252-01-brazil-carnival-0201.jpg?q=w_3000,h_1897,x_0,y_0,c_fill",
+        "image_width": 1897,
+        "image_height": 3000
+      },
+      "webpage": null,
+      "texte_contexte": "CNN reports on Brazilians celebrating Carnival despite Zika virus threat.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brazil"
+        ],
+        "ORGANIZATION": [
+          "CNN"
+        ],
+        "DATE": [
+          "2016-02-01"
+        ],
+        "EVENT": [
+          "Carnival"
+        ],
+        "OTHER": [
+          "Zika virus"
+        ]
+      },
+      "score_e5": 0.8374615504587528
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Recife",
+      "Brazil"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Zika virus"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WHO",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-01-31",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "WHO emergency meeting to advise on response to Zika",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Zika",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Juan",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Uber",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Sanse festiva",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Puerto Rico",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Fiestas de la calle San Sebastian",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "San Juan Food Tours",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "San Se 2017",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brazil",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CNN",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-02-01",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Carnival",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:42:17.891701"
+  }
+}

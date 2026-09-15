@@ -1,0 +1,466 @@
+{
+  "id_rumeur": "1498208",
+  "id_image": "1498208",
+  "caption": "The christening will take place at the St Mary Magdalene Church at Sandringham",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122774/1498208.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Църквата “Света Мария Магдалена“ в Сандрингам, Източна Англия :: Здраве и култура",
+      "source": "Здраве и култура",
+      "lien": "https://e-zdravey.com/bg/tsarkvata-sveta-mariya-magdalena-v-sandringam-iztochna-angliya/",
+      "image_url": "https://e-zdravey.com/user_pic/images/_83443531_04eeff23-607e-4464-9371-6f4d2f0545d9.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxEGY3ywb3Q8iQvJXW9LH2e6vtX4w88VrQVXom-IeS3l6J7-q2",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Църквата “Света Мария Магдалена“ в Сандрингам, Източна Англия :: Здраве и култура",
+        "source": "Здраве и култура",
+        "link": "https://e-zdravey.com/bg/tsarkvata-sveta-mariya-magdalena-v-sandringam-iztochna-angliya/",
+        "imageUrl": "https://e-zdravey.com/user_pic/images/_83443531_04eeff23-607e-4464-9371-6f4d2f0545d9.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxEGY3ywb3Q8iQvJXW9LH2e6vtX4w88VrQVXom-IeS3l6J7-q2"
+      },
+      "webpage": null,
+      "texte_contexte": "Page concernant l'église Sainte-Marie-Madeleine à Sandringham, dans l'est de l'Angleterre, avec pour thématique la santé et la culture.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Sandringham",
+          "Angleterre"
+        ],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Sainte-Marie-Madeleine"
+        ]
+      },
+      "score_e5": 0.8222031313958077
+    },
+    {
+      "titre": "Princess Charlotte christening fans warned of 'limited facilities' - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-norfolk-33363397",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1136E/production/_84001507_84001506.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb4RrVKqRoUT8eynP43GEU9wroLAbzLQ-9Gb1N2L8eHvRYyKIF",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Princess Charlotte christening fans warned of 'limited facilities' - BBC News",
+        "source": "BBC",
+        "link": "https://www.bbc.com/news/uk-england-norfolk-33363397",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1136E/production/_84001507_84001506.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb4RrVKqRoUT8eynP43GEU9wroLAbzLQ-9Gb1N2L8eHvRYyKIF"
+      },
+      "webpage": {
+        "text": "Princess Charlotte christening fans warned of 'limited facilities'\n\nPublished\n\n2 July 2015\n\n\nWell-wishers planning to go to Princess Charlotte's christening have been warned by Norfolk Police they face a long wait \"in the heat with minimal facilities in the area\".\n\nThe Duke and Duchess of Cambridge's daughter will be baptised at St Mary Magdalene church on the Sandringham estate at 16:30 GMT on Sunday.\n\nThe service is private but \"large numbers\" of fans are expected.\n\nNorfolk Police has advised people not to arrive before 15:00 GMT.\n\n\nAnyone arriving early has been told they will have to queue \"in warm temperatures with limited refreshments and facilities\" to enter a paddock next to the church.\n\nThe paddock's gates will not be opened until 15:00 GMT.\n\nNorfolk Police has advised royal well-wishers to bring sunscreen, hats and drinks - but are asked to \"please avoid bringing large bags or coolers\".\n\nParking will be provided on car parks on the Sandringham estate,.\n\nThe Duke and Duchess of Cambridge are currently living at the estate.\n\n\nMore on this story\n\n * Coins to mark princess's christening\n   \n   Published\n   \n   19 June 2015\n   \n   \n\n * Princess's christening announced\n   \n   Published\n   \n   5 June 2015\n   \n   \n\n * Photos of royal siblings released\n   \n   Published\n   \n   6 June 2015",
+        "metadata": {
+          "description": "Well-wishers hoping to go to Princess Charlotte's christening are warned they face a long wait in the heat \"with limited facilities\".",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Well-wishers hoping to go to Princess Charlotte's christening are warned they face a long wait in the heat \"with limited facilities\".",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/83441000/jpg/_83441307_47290656-ba07-4e9f-9e69-e0729405c539.jpg",
+          "og:image:alt": "Princess Charlotte",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Princess Charlotte christening fans warned of 'limited facilities'",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-norfolk-33363397",
+          "article:section": "Norfolk",
+          "twitter:description": "Well-wishers hoping to go to Princess Charlotte's christening are warned they face a long wait in the heat \"with limited facilities\".",
+          "twitter:title": "Princess Charlotte christening fans warned of 'limited facilities'"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-norfolk-33363397",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-07-02T12:35:03.000Z",
+          "dateModified": "2015-07-02T12:35:03.000Z",
+          "description": "Well-wishers hoping to go to Princess Charlotte's christening are warned they face a long wait in the heat \"with limited facilities\".",
+          "headline": "Princess Charlotte christening fans warned of 'limited facilities'",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/83441000/jpg/_83441307_47290656-ba07-4e9f-9e69-e0729405c539.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/83441000/jpg/_83441307_47290656-ba07-4e9f-9e69-e0729405c539.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-norfolk-33363397",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le baptême de la princesse Charlotte a lieu à l'église St Mary Magdalene sur le domaine de Sandringham à 16h30 GMT le dimanche. La police de Norfolk a prévenu les fans et les curieux qu'ils risquent d'attendre longtemps dans la chaleur avec des installations minimales, conseillant de ne pas arriver avant 15h00 GMT et d'apporter de la crème solaire, des chapeaux et des boissons tout en évitant les grands sacs ou glacières. Le duc et la duchesse de Cambridge résident actuellement sur ce domaine.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Charlotte",
+          "Duke of Cambridge",
+          "Duchess of Cambridge"
+        ],
+        "LOCATION": [
+          "Norfolk",
+          "Sandringham"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "Norfolk Police"
+        ],
+        "DATE": [
+          "2 July 2015",
+          "Sunday",
+          "16:30 GMT",
+          "15:00 GMT",
+          "5 June 2015",
+          "19 June 2015",
+          "6 June 2015"
+        ],
+        "EVENT": [
+          "Princess Charlotte christening"
+        ],
+        "OTHER": [
+          "St Mary Magdalene church"
+        ]
+      },
+      "score_e5": 0.8086530291825049
+    },
+    {
+      "titre": "Where is Sandham Memorial Chapel located?",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/186723006515168/posts/942521124268682/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1428162577593772",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz7oIJNNlYcAgd5DQ5moceEGU6ScHFRS8eazWGoiuYRQjUiL3f",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Where is Sandham Memorial Chapel located?",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/groups/186723006515168/posts/942521124268682/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1428162577593772",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz7oIJNNlYcAgd5DQ5moceEGU6ScHFRS8eazWGoiuYRQjUiL3f"
+      },
+      "webpage": {
+        "text": "Historical Romance Society | **WHERE ARE WE WEDNESDAY\n\nWHERE ARE WE WEDNESDAY? Sandham Memorial Chapel in Burghclere, Hampshire This modest red-brick building tucked away in a quiet corner of Hampshire houses an unexpected treasure: an epic series of... Lihat lainnya",
+        "metadata": {
+          "title": "Historical Romance Society | **WHERE ARE WE WEDNESDAY | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTE1NjIxMTkxODA6Vks6OTQyNTIxMTI0MjY4Njgy",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTE1NjIxMTkxODA6Vks6OTQyNTIxMTI0MjY4Njgy",
+          "og:type": "video.other",
+          "og:title": "Historical Romance Society | **WHERE ARE WE WEDNESDAY | Facebook",
+          "og:description": "**WHERE ARE WE WEDNESDAY?**\n\n**Sandham Memorial Chapel in Burghclere, Hampshire**\n\nThis modest red-brick building tucked away in a quiet corner of Hampshire houses an unexpected treasure: an epic...",
+          "og:url": "https://www.facebook.com/groups/186723006515168/posts/942521124268682/",
+          "og:image:alt": "Historical Romance Society | **WHERE ARE WE WEDNESDAY | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3658186184238182",
+          "og:locale": "en_US",
+          "description": "**WHERE ARE WE WEDNESDAY?**\n\n**Sandham Memorial Chapel in Burghclere, Hampshire**\n\nThis modest red-brick building tucked away in a quiet corner of...",
+          "twitter:title": "Historical Romance Society | **WHERE ARE WE WEDNESDAY | Facebook",
+          "twitter:description": "**WHERE ARE WE WEDNESDAY?**\n\n**Sandham Memorial Chapel in Burghclere, Hampshire**\n\nThis modest red-brick building tucked away in a quiet corner of Hampshire houses an unexpected treasure: an epic..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication sur Facebook de la Historical Romance Society concernant la chapelle commémorative Sandham à Burghclere, dans le Hampshire.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Burghclere",
+          "Hampshire"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Historical Romance Society"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Sandham Memorial Chapel"
+        ]
+      },
+      "score_e5": 0.7645964024983603
+    },
+    {
+      "titre": "Tripadvisor - The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬",
+      "source": "tripadvisor.co.il",
+      "lien": "https://www.tripadvisor.co.il/LocationPhotoDirectLink-g1808533-d6881058-i72833846-The_Sandringham_Estate-Sandringham_Norfolk_East_Anglia_England.html",
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/04/57/5b/4e/sandringham-house.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3sp1EMGjUxK8TVNlbnO4iyT6H0cEtmiC8KynY60_YuU9OOU0l",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Tripadvisor - The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬",
+        "source": "tripadvisor.co.il",
+        "link": "https://www.tripadvisor.co.il/LocationPhotoDirectLink-g1808533-d6881058-i72833846-The_Sandringham_Estate-Sandringham_Norfolk_East_Anglia_England.html",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/04/57/5b/4e/sandringham-house.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3sp1EMGjUxK8TVNlbnO4iyT6H0cEtmiC8KynY60_YuU9OOU0l"
+      },
+      "webpage": {
+        "text": "Tripadvisor - The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou\n\nThe Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬\n\n\nתמונה : The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou\n\nמצטערים, אין סיורים ופעילויות שזמינים להזמנה באתר האינטרנט בתאריכים שבחרת. בחר תאריך שונה.\n\n\nחוות דעת אחרונות נוספות",
+        "metadata": {
+          "title": "Tripadvisor - The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬",
+          "al:ios:app_name": "TripAdvisor",
+          "al:ios:app_store_id": "284876795",
+          "twitter:app:id:ipad": "284876795",
+          "twitter:app:id:iphone": "284876795",
+          "al:ios:url": "tripadvisor://www.tripadvisor.co.il/LocationPhotoDirectLink-g1808533-d6881058-i72833846-The_Sandringham_Estate-Sandringham_Norfolk_East_Anglia_England.html?m=33762",
+          "twitter:app:url:ipad": "tripadvisor://www.tripadvisor.co.il/LocationPhotoDirectLink-g1808533-d6881058-i72833846-The_Sandringham_Estate-Sandringham_Norfolk_East_Anglia_England.html?m=33762",
+          "twitter:app:url:iphone": "tripadvisor://www.tripadvisor.co.il/LocationPhotoDirectLink-g1808533-d6881058-i72833846-The_Sandringham_Estate-Sandringham_Norfolk_East_Anglia_England.html?m=33762",
+          "description": "תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬: The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - צפה ב-2076 תמונות וסרטונים אמיתיים מאת חברי Tripadvisor של ‪The Sandringham Estate‬",
+          "og:title": "Tripadvisor - The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬",
+          "og:description": "תמונה של ‪The Sandringham Estate‬, ‪Sandringham‬: The Sandringham Drawing Room (from a photo in the Museum - photographs are prohibited in the hou - צפה ב-2076 תמונות וסרטונים אמיתיים מאת חברי Tripadvisor של ‪The Sandringham Estate‬",
+          "og:image": "https://media-cdn.tripadvisor.com/media/photo-s/08/bc/ad/66/stunning.jpg",
+          "og:image:width": "550",
+          "og:image:height": "411"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "/Tourism-g4-Europe-Vacations.html",
+                "name": "אירופה"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "/Tourism-g186216-United_Kingdom-Vacations.html",
+                "name": "בריטניה (UK)"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "/Tourism-g186217-England-Vacations.html",
+                "name": "אנגליה"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "item": {
+                "@id": "/Tourism-g186268-East_Anglia_England-Vacations.html",
+                "name": "מזרח אנגליה"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "5",
+              "item": {
+                "@id": "/Tourism-g186269-Norfolk_East_Anglia_England-Vacations.html",
+                "name": "נורפולק"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "6",
+              "item": {
+                "@id": "/Tourism-g1808533-Sandringham_Norfolk_East_Anglia_England-Vacations.html",
+                "name": "‪Sandringham‬"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "7",
+              "item": {
+                "@id": "/Attractions-g1808533-Activities-Sandringham_Norfolk_East_Anglia_England.html",
+                "name": "דברים לעשות ב‪Sandringham‬"
+              }
+            }
+          ]
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Image du salon de Sandringham (The Sandringham Drawing Room) provenant d'une photo dans le musée, les photographies étant interdites dans la maison, située sur le domaine de Sandringham à Norfolk, dans l'Est de l'Anglie.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Sandringham",
+          "Norfolk",
+          "East Anglia",
+          "England"
+        ],
+        "ORGANIZATION": [
+          "Tripadvisor"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "The Sandringham Drawing Room",
+          "The Sandringham Estate"
+        ]
+      },
+      "score_e5": 0.7483925689348834
+    },
+    {
+      "titre": "Arthur Harry Cross - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/Arthur_Harry_Cross",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sandringham_St_Mary_Magdalene's_church_-_geograph.org.uk_-_2280932.jpg/250px-Sandringham_St_Mary_Magdalene's_church_-_geograph.org.uk_-_2280932.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSceT8GVaFqVDCCZBJzBg9DFFMey7D1McluRgZNMeTm-nzBcey4",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Arthur Harry Cross - Wikipedia",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Arthur_Harry_Cross",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sandringham_St_Mary_Magdalene's_church_-_geograph.org.uk_-_2280932.jpg/250px-Sandringham_St_Mary_Magdalene's_church_-_geograph.org.uk_-_2280932.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSceT8GVaFqVDCCZBJzBg9DFFMey7D1McluRgZNMeTm-nzBcey4"
+      },
+      "webpage": {
+        "text": "Arthur Harry Cross\n\nArthur Harry Cross\nA.R.C.O.\nBorn           1858 (1858)\n               \n               King's Lynn\nDied           29 August 1906(1906-08-29) (aged 47–48)\nBurial place   Sandringham Churchyard\nEducation      Choirboy at Jesus College Cambridge\nOccupation     Sandringham Organist 1878-1906\nSpouse         Alice Serjeant\nChildren       6\n\nArthur Harry Cross was a chorister, organist, choirmaster and composer of sacred and secular music,[1][2][3] who was appointed organist and choirmaster at St Mary Magdalene Church, Sandringham in 1878 at the age of 20. He continued in that position for 28 years until his death of heart disease in 1906.[4]\n\n\nEarly life\n\nArthur Cross, whose father was a cook,[5] was a choirboy at Jesus College, Cambridge, where he also studied the piano and organ.[5] Cross travelled around the country as a solo singer.[4] By 17 years old he held a church appointment, and deputised at several college chapels.[5]\n\nHe became an Associate of the Royal College of Organists (A.C.R.O) in 1878.[5]\n\n\nMusical career\n\nCross was appointed organist and choirmaster at St Mary Magdalene Church, Sandringham, by the Prince of Wales in 1878 and subsequently moved to Dersingham, Norfolk.[5]\n\nCross was also the honorary conductor of the King's Lynn Musical Society,[6][7] the Hunstanton Amateur Operatic Society[8] and the Hunstanton Choral Society.[9][10][11] He also worked with the Heacham Choral Societies and the King's Lynn Music Society.[5] He was conductor at the Hunstanton Amateur Dramatic Society's performance of Patience by Gilbert and Sullivan[12] and acted in their performance of the Henry Arthur Jones comedy The Manoeuvres of Jane.[13] He was musical director of the King's Lynn and Hunstanton Amateur Operatic Society's[14] production of Iolanthe in 1904. He conducted and sang the tenor parts in a performance of Messiah for the Kings Lynn Musical Society, in 1903,[15] and sang the tenor part in May Queen A Pastoral at the Guildhall, Cambridge in 1904.[16]\n\nHe sang, played the piano, acted and/or composed the music at many local events,[17][18][1] some of which were in aid of charity.[17]\n\nIn 1888 an Anglican Chant book called \"The Sandringham Chant Book\" was published.[3] This was produced by Cross and the Rector of Sandringham, Rev. F. A. J. Harvey, and was designed to be used by village choirs where the Tonic sol-fa system was taught.[3] A number of composers contributed to the chants, including Cross.[3]\n\n\nFamily\n\nIn 1910, the first daughter of Arthur and Alice, Dorothy Maud, married the conductor and composer Howard Talbot.[5]\n\n\nDeath and burial\n\nOn his death, at the age of 48, Cross's wife received a message of condolence from Queen Alexandra:[5] \"Too grieved to hear of your overwhelming loss and sorrow which will be shared by all who know your dear husband.  May God support and comfort you and your poor children.\" -- Alexandra.\n\nCross was buried in the churchyard of Sandringham Church, where friends and a number of people known in the musical circles of Norfolk and Cambridgeshire came to pay their respects.[19][20] King Edward VII and Queen Alexandra were represented at the funeral by Mr. & Mrs. Frank Beck, the King's agent at Sandringham,[21] and in addition to telegraphing messages of sympathy to the family the King and Queen ordered some floral tokens to be placed on the coffin.[4][19][20]\n\n\nReferences\n\n 1.  1 2 \"Snettisham - An Original Operetta\". Lynn Advertiser. 12 January 1889. p. 5.\n 2.  ↑ \"New Songs\". South Western Star. 4 January 1890.\n 3.  1 2 3 4 \"The New Chant Book\". Norwich Mercury. 19 May 1888. p. 3.\n 4.  1 2 3 \"Death of the Sandringham Organist\". Eastern Daily Press. 1906.\n 5.  1 2 3 4 5 6 7 8 Fiddick, Elizabeth. \"Arthur Harry Cross A.R.C.O. Professor of Music, Cantelupe House Dersingham\".\n 6.  ↑ \"Performance of the \"Messiah\"\". Eastern Daily Press. 1903.\n 7.  ↑ \"Musical Festival\". Eastern Daily Press. 8 December 1904. p. 6.\n 8.  ↑ \"\"Iolanthe\" at Cromer\". Eastern Daily Press. 1904.\n 9.  ↑ \"Hunstanton Choral Society\". Eastern Daily Press. 1903.\n 10. ↑ \"Hunstanton\". Eastern Daily Press. 4 October 1906. p. 6.\n 11. ↑ \"Hunstanton\". Norfolk News. 8 April 1899. p. 14.\n 12. ↑ \"Hunstanton\". Eastern Daily Press. 1901.\n 13. ↑ \"King's Lynn\". The Stage. 4 December 1902. p. 13.\n 14. ↑ \"\"Iolanthe\" at Cromer\". Eastern Daily Press. 21 May 1904. p. 6.\n 15. ↑ \"Performance of the \"Messiah\"\". Eastern Daily Press. 30 March 1903. p. 6.\n 16. ↑ \"Concert at the Guildhall\". Cambridge Chronicle and Journal. 18 May 1894. p. 8.\n 17. 1 2 \"Heacham\". Norwich Mercury. 24 May 1890. p. 6.\n 18. ↑ \"Hunstanton\". Eastern Daily Press. 14 April 1900. p. 8.\n 19. 1 2 \"The Late Mr. A.H. Cross A.R.C.O. Internement at Sandringham\". Eastern Evening News. 29 August 1906.\n 20. 1 2 \"Death of the King's Organist\". The Evening Star and Daily Herald. 1906.\n 21. ↑ \"Miscellaneous\". Wiltshire Times and Trowbridge Advertiser. September 1906. p. 9.",
+        "metadata": {
+          "title": "Arthur Harry Cross - Wikipedia",
+          "og:title": "Arthur Harry Cross - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "Arthur Harry Cross",
+          "url": "https://en.wikipedia.org/wiki/Arthur_Harry_Cross",
+          "sameAs": "http://www.wikidata.org/entity/Q115965489",
+          "mainEntity": "http://www.wikidata.org/entity/Q115965489",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2022-12-29T16:08:29Z",
+          "dateModified": "2025-06-01T01:04:02Z"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Notice biographique d'Arthur Harry Cross, né en 1858 et décédé le 29 août 1906, qui fut organiste et maître de chapelle à l'église St Mary Magdalene de Sandringham de 1878 jusqu'à sa mort. Il a également dirigé diverses sociétés musicales et a co-produit en 1888 \"The Sandringham Chant Book\" avec le recteur F. A. J. Harvey. À son décès, sa veuve Alice Serjeant a reçu un message de condoléances de la reine Alexandra.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Arthur Harry Cross",
+          "Alice Serjeant",
+          "Dorothy Maud",
+          "Howard Talbot",
+          "F. A. J. Harvey",
+          "Alexandra",
+          "Gilbert",
+          "Sullivan",
+          "Henry Arthur Jones"
+        ],
+        "LOCATION": [
+          "King's Lynn",
+          "Sandringham",
+          "Dersingham",
+          "Norfolk",
+          "Cambridgeshire",
+          "Cambridge"
+        ],
+        "ORGANIZATION": [
+          "Wikipedia",
+          "Jesus College Cambridge",
+          "Royal College of Organists",
+          "King's Lynn Musical Society",
+          "Hunstanton Amateur Operatic Society",
+          "Hunstanton Choral Society",
+          "Heacham Choral Societies",
+          "King's Lynn Music Society",
+          "Hunstanton Amateur Dramatic Society",
+          "King's Lynn and Hunstanton Amateur Operatic Society"
+        ],
+        "DATE": [
+          "1858",
+          "29 August 1906",
+          "1878",
+          "1906",
+          "1904",
+          "1903",
+          "1888",
+          "1910"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "St Mary Magdalene Church",
+          "Patience",
+          "The Manoeuvres of Jane",
+          "Iolanthe",
+          "Messiah",
+          "May Queen A Pastoral",
+          "The Sandringham Chant Book"
+        ]
+      },
+      "score_e5": 0.7598911571422181
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "St Mary Magdalene Church",
+      "Sandringham"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [
+      "The christening"
+    ],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sandringham",
+      "Angleterre",
+      "Norfolk"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Sainte-Marie-Madeleine"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.8222031313958077,
+  "S_ent": 0.3333333333333333,
+  "S_OOC": 0.5777682323645705,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "EVENT",
+    "OTHER"
+  ]
+}

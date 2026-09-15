@@ -1,0 +1,816 @@
+{
+  "id_rumeur": 287141,
+  "id_image": 964392,
+  "caption": "An aerial view shows a flooded area in Joso Ibaraki Prefecture Japan on Sept 10",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747857/oluyewo_benchmark/tbzvfbfozkhpbkprmnkv.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Floods in India | World news | The Guardian",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/gallery/2008/aug/28/india.india",
+      "image_url": "https://i.guim.co.uk/img/static/Guardian/world/gallery/2008/aug/28/india.india/GD8587266@An-aerial-view-of-a-f-827.jpg?width=700&quality=85&auto=format&fit=max&s=36f6a787b12655f32aeb127da7eff8fd",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6dm0dOJR1Olwf65taEpFsc8F3iK6IAbAut5krqcIy-IQ0Uhdd",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Floods in India | World news | The Guardian",
+        "link": "https://www.theguardian.com/world/gallery/2008/aug/28/india.india",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ede1295e950a72f31f0d4/images/Eidl0Epg8fNFjyUlJKWBYtjk04GBzCAd4lkHstcCSY0.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6dm0dOJR1Olwf65taEpFsc8F3iK6IAbAut5krqcIy-IQ0Uhdd",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://i.guim.co.uk/img/static/Guardian/world/gallery/2008/aug/28/india.india/GD8587266@An-aerial-view-of-a-f-827.jpg?width=700&quality=85&auto=format&fit=max&s=36f6a787b12655f32aeb127da7eff8fd",
+        "image_width": 390,
+        "image_height": 587
+      },
+      "webpage": {
+        "text": "Floods in India | World news\n\nFloods in India\n\nThis article is more than 18 years old\n\nMassive flooding in eastern India has caused a \"national calamity,\" the prime minister, Manmohan Singh, said on August 28. He toured the devastated region after the Koshi river breached its banks 10 days ago on the border with Nepal. The death toll from this year's monsoon has already climbed past 800, and now around 1.2 million people have been marooned, and about 2 million more affected in the impoverished state of Bihar.\n\nThu 28 Aug 2008 12.48 EDT",
+        "metadata": {
+          "title": "Floods in India | World news | The Guardian",
+          "description": "Floods in India",
+          "og:url": "http://www.theguardian.com/world/gallery/2008/aug/28/india.india",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/08/28/Floods_in_India.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMDgucG5n&enable=upscale&s=f766c1768e7fab1b6bac427d91bfbfd5",
+          "al:ios:url": "gnmguardian://world/gallery/2008/aug/28/india.india?contenttype=Article&source=applinks",
+          "og:title": "Floods in India",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2023-08-14T13:46:27.000Z",
+          "og:image:height": "720",
+          "og:description": "Floods in India",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "World news",
+          "article:published_time": "2008-08-28T16:48:22.000Z",
+          "article:tag": "World news,India,Environment,Natural disasters and extreme weather",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian",
+          "twitter:title": "Floods in India"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Massive flooding in eastern India caused a national calamity after the Koshi river breached its banks on the border with Nepal. The death toll from the monsoon exceeded 800, with around 1.2 million people marooned and about 2 million more affected in the state of Bihar.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Manmohan Singh"
+        ],
+        "LOCATION": [
+          "India",
+          "Nepal",
+          "Bihar",
+          "eastern India"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "August 28, 2008",
+          "Thu 28 Aug 2008 12.48 EDT"
+        ],
+        "EVENT": [
+          "Floods in India",
+          "monsoon"
+        ],
+        "OTHER": [
+          "Koshi river"
+        ]
+      },
+      "score_e5": 0.7637962311588874
+    },
+    {
+      "titre": "Flood Warning, Mobile Phones and Dynamic Mapping in India ...",
+      "source": "iRevolutions",
+      "lien": "https://irevolutions.org/2008/09/07/mumbai/",
+      "image_url": "http://newsimg.bbc.co.uk/media/images/44966000/jpg/_44966656_aerial_ap466.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1UJy_gTNUw5mvK6iGQ4PkdHoAyQxBvpO9ItEMSXl4qiIoOpD6",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Flood Warning, Mobile Phones and Dynamic Mapping in India ...",
+        "link": "https://irevolutions.org/2008/09/07/mumbai/",
+        "source": "iRevolutions",
+        "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3NzU3Nzc3Nzc3Nzc3Nzc3LTc3LS41LTUvNTctLTctLS01Nf_AABEIACAAIAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAEBQIDBgH_xAArEAACAgAFAQUJAAAAAAAAAAABAgMRAAQSIUFhEyIxkbEFI3FygaGywfD_xAAZAQABBQAAAAAAAAAAAAAAAAADAAIEBQb_xAAdEQACAgIDAQAAAAAAAAAAAAAAAREhAgMTQVES_9oADAMBAAIRAxEAPwDVoyM9LGx2sE7A4JUJPmHBiAZCFq-KG_rilW0qGLIL8N8cgC5uYMjvE40mQLyrCxvjNcUJ2Wz2SEHKw6yEKni1NjEWgRb7oxS8saZ8xRTFzIbdDQ0Gv3tycEOVUanoH5sLLT4LHY-xfDbwHSHJkNIQa5AJ3438euBcvmtGd7DKzjS6gLW9Ac-QI-NYZ51oCRlo9UbKPesGBOwJoc8bjrjP5aCJ4E9pyzxmSOdk7NRepd0P5XWJHw4sHjkmGO8QzsWYKKYtJEbdboE9KwRLqIuRwAqhjQ4A_vthRlkneHKqIWFdqWZxRClgR6jywzOZ7MaZyzxjuEr4g7mwR9BhlJQEac0f_9k.jpeg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1UJy_gTNUw5mvK6iGQ4PkdHoAyQxBvpO9ItEMSXl4qiIoOpD6",
+        "thumbnail_width": 180,
+        "thumbnail_height": 280,
+        "image": "http://newsimg.bbc.co.uk/media/images/44966000/jpg/_44966656_aerial_ap466.jpg",
+        "image_width": 300,
+        "image_height": 466
+      },
+      "webpage": {
+        "text": "Flood Warning, Mobile Phones and Dynamic Mapping in India\n\nI’m in Mumbai for the next 10 days to work on a flood early warning and response project. Here’s a quick overview of the project:\n\nThe Monsoon Project\nIn Mumbai and Ahmedabad, we will see what kind of qualitative data people have reported. The next step is to to expand the data collection exercise to discreet objective data points that may expedite rescue and response in real-time. Can farmers sitting atop roofs in the flooded villages of Orissa use their cell phones to transmit simple, discreet, data points that would help plot a real-time map of events as they unfold? Can such a platform be created? How far are we in terms of technology and collaboration? At HHI, the Crisis Mapping Project is well underway, with small projects at multiple locations in different stages of development.\n\nThe Monsoon project is one such: To pilot such an interactive platform we need a predictable, controlled model within which to test such an instrument. In recent years, the monsoons in Mumbai have invariably brought the city to a stand-still. What we want to do now is to see if we can develop simple indicators that the common man can identify (“early warning signs”) to alert their communities to an impending “bad-floods day” in Mumbai. This monsoon Gregg Greenough and Patrick Meier from HHI will be in Mumbai to meet with the faculty at the Geography Dept of Mumbai University to explore ways to collaborate on developing these indicators. Site visits in Mumbai before and after the workshop.\n\nAction points: Request MU/ AIDMI / CEE  to identify local partners in India that should be invited to the workshop. Once the indicators are identified, the goal is to test the technology on a local platform, amongst pre-selected volunteers across the city, during the monsoons of 2009.\n\nMy role, as part of the HHI team, is simply to provide a conceptual and technical overview of other crisis early warning projects that make use of mobile technologies. For example, I got the green light from Ory Okolloh to consider a potential partnership with the team in Mumbai should making use of the Ushahidi platform make sense for the Monsoon Project. (Incidentally, congratulations to the Ushahidi team on launching their most recent version of the platform!) In addition to Ushahidi and a number of other related initiatives, I will share the latest maps of Bihar on Google Earth to stimulate a dialogue on whether this type of dynamic mapping is operationally useful (the map I’ve linked to here is not particularly impressive). In conclusion, I will share relevant best practices and lessons “learned” in the field of early warning and response.\n\n\nIt may not be a coincidence that the National Geographic channel was just featuring a documentary on the great Mumbai floods of July 2005 yesterday. Watching these pictures and those of Bihar over the past two weeks, I’m starting to get some sense of the challenge ahead, not least because the topic of disaster management is an area I have more academic than practical experience in; so I’ll be doing a lot of listening and learning. Before leaving for Mumbai, I had the opportunity to touch base with a  friend at the Fletcher School who just returned from working on flood preparedness and response in Bihar.\n\nIn any case, I wanted to share some of my own observations. The government’s response to the devastation in the northeast of the country has been particularly slow, with just one military helicopter spotted once or twice in two weeks, according to a BBC report I saw yesterday.\n\nIf we are to make good on the UNISDR’s call for a shift towards people-centered early warning, then flood early warning/response systems ought to empower local communities to get out of harm’s way and minimize loss of livelihood. This shift in discourse and operational mandate is an important one in my opinion. Centralized, state-centered, top-down, external responses to crises are apparently increasingly ineffective.\n\n\nIn the case of the devastating floods of 2005, part of the problem was the late warning. The rains had already begun when India’s meteorological department realized that unlike monsoon storms, this storm had clouds as tall as 15 kilometers as opposed to the usual 8 kilometers.  Even if the warning had been disseminated hours or even days earlier, would the most vulnerable populations in Mumbai have had the capacity to get out of harm’s way? I don’t know what the Indian government’s operational plans look like for this type of disaster, but I hope to learn soon.\n\nAnother question on my mind is if/how mobile technology might empower vulnerable communities in Mumbai during the Monsoon season? As it happens,  the front page of today’s (Sunday print edition) of The Times of India figured an article on mobile phones: “A Mobile in Every Hand by 2020.” I include some sections below:\n\n> Today, one in four Indians has a mobile phone. […] From the villager sitting atop his half-drowned hut calling for help in flood-hit Bihar, to the kabadiwallah who eagerly hands you his number, it’s mobile networking like never before.\n> \n> “[…] the mobile phone’s ‘greatest impact [will] be on those people with professions that are time, location and information sensitive. […] fishermen wanting a weather update or the location of the best catch; hospitals contacting patients without a permanent address; SMSes on the Sensex.”\n> \n> “It is true that network coverage and mobile penetration are still limited to certain areas. But, interestingly, as a study by the Center for Knowledge Societies (CKS) showed in Maharashtra, Up and Karnataka, many new mobile users belong to poorer areas with scarce infrastructure, high levels of illiteracy and low PC and internet penetration.”\n\nI remember an interesting conversation I had last year with Suha Ulgen, the coordinator of the UN Geographic Information Working Group Secretariat (UNGIWIG), regarding an earthquake preparedness and response project he had worked on in Turkey. The team involved in the project used mobile technologies and GPS units to map the most vulnerable areas (e.g., buildings, bridges, etc) in various neighborhoods across the city. Together with local volunteers, they documented the neighborhoods in great detail during the day, and would upload all their data directly on to a dynamic mapping platform in the evenings.\n\nThis approach appeals to me for several reasons. First, the approach comes close to local crowdsourcing.  Tapping into local knowledge is critical. As mentioned in this article (PDF) I wrote for Monday Developments (April/2007), “From Disaster to Conflict Early Warning: A People-Centered Approach,” the non-local community (a.k.a. international community) has a lot to learn when it comes indigenous early warning and response practices:\n\n> In Swaziland, for example, we are taught floods can be predicted from the height of bird nests near rivers, while moth numbers predict drought. Because these indicators are informal, they rarely figure in peer-reviewed journals and remain invisible to the international humanitarian community.\n\nI’m looking forward to learning more about the corresponding local know how in Mumbai. Second, vulnerability mapping is an important component of preparedness training, contingency planning and disaster response. Third, geo-referencing pockets of vulnerability using a dynamic platform provides a host of new possibilities for disaster response including automated and subscription-based SMS alerts, rapid disaster impact assessments and more networked forms of communication in crisis zones. In addition to mapping areas of vulnerability, one could also map potential shelter areas, sources of clean water, etc.\n\nThis may or may not make sense within the context of flooding and/or Mumbai, which is why I’ll definitely be doing a lot of listening and learning in the coming days. Any feedback and guidance in the meantime would certainly be of value.\n\nPatrick Philippe Meier",
+        "metadata": {
+          "title": "Flood Warning, Mobile Phones and Dynamic Mapping in India | iRevolutions",
+          "og:type": "article",
+          "og:title": "Flood Warning, Mobile Phones and Dynamic Mapping in India",
+          "og:url": "https://irevolutions.org/2008/09/07/mumbai/",
+          "og:description": "I’m in Mumbai for the next 10 days to work on a flood early warning and response project. Here’s a quick overview of the project: The Monsoon Project In Mumbai and Ahmedabad, we will see what…",
+          "article:published_time": "2008-09-07T17:45:05+00:00",
+          "article:modified_time": "2010-04-07T12:52:54+00:00",
+          "og:site_name": "iRevolutions",
+          "og:image": "http://www.outlookindia.com/images/photoessays/mumbai_deluge_TPE_20060109.jpg",
+          "og:image:width": "500",
+          "og:image:height": "332",
+          "og:locale": "en_US",
+          "article:publisher": "https://www.facebook.com/WordPresscom",
+          "twitter:text:title": "Flood Warning, Mobile Phones and Dynamic Mapping in India",
+          "description": "I’m in Mumbai for the next 10 days to work on a flood early warning and response project. Here's a quick overview of the project: The Monsoon Project In Mumbai and Ahmedabad, we will see what kind of qualitative data people have reported. The next step is to to expand the data collection exercise to…"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A flood early warning and response project in Mumbai and Ahmedabad. Discussion of crisis mapping projects, the Monsoon project, using mobile phones and dynamic mapping, Google Earth maps of Bihar, and references to previous floods in Mumbai and Bihar.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Gregg Greenough",
+          "Patrick Meier",
+          "Ory Okolloh"
+        ],
+        "LOCATION": [
+          "India",
+          "Mumbai",
+          "Ahmedabad",
+          "Orissa",
+          "Bihar"
+        ],
+        "ORGANIZATION": [
+          "HHI",
+          "Geography Dept of Mumbai University",
+          "MU",
+          "AIDMI",
+          "CEE",
+          "Ushahidi",
+          "National Geographic"
+        ],
+        "DATE": [
+          "2008",
+          "2009",
+          "July 2005"
+        ],
+        "EVENT": [
+          "Monsoon Project",
+          "Crisis Mapping Project",
+          "great Mumbai floods"
+        ],
+        "OTHER": [
+          "Google Earth"
+        ]
+      },
+      "score_e5": 0.7772256124861854
+    },
+    {
+      "titre": "Hits and Misses 2024: Climate extremes around the globe ...",
+      "source": "The International",
+      "lien": "https://isshinternational.org/10595/hits-and-misses-2024/hits-and-misses-2024-climate-extremes-around-the-globe/",
+      "image_url": "https://isshinternational.org/wp-content/uploads/2024/12/Image-2024-12-12-at-11.50 AM.jpeg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDGXGz36m1pKl7lDqclMrsTCdfo639PHK_Bcq3XaFJAyC1BoaO",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Hits and Misses 2024: Climate extremes around the globe ...",
+        "link": "https://isshinternational.org/10595/hits-and-misses-2024/hits-and-misses-2024-climate-extremes-around-the-globe/",
+        "source": "The International",
+        "source_icon": "https://serpapi.com/searches/6a8ede1295e950a72f31f0d4/images/8Z8mVEC4rWSm5PZ5AsdNFAg0bdtGkLl2NC9Dgwj-aDM.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDGXGz36m1pKl7lDqclMrsTCdfo639PHK_Bcq3XaFJAyC1BoaO",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://isshinternational.org/wp-content/uploads/2024/12/Image-2024-12-12-at-11.50 AM.jpeg",
+        "image_width": 1304,
+        "image_height": 1956
+      },
+      "webpage": {
+        "text": "Hits and Misses 2024: Climate extremes around the globe – The International\n\nAlthough environmental disasters aren’t entirely new to us, their severity and frequency continue to intensify each year. 2024 has been no exception serving as another indicator of the pressing need to address the climate crisis. This year, torrential rainfall and intense heat struck all parts of the globe.\n\nTremendous flooding resulting from extraordinary amounts of rain occurred around the world throughout the year. In North Carolina, record-breaking rainfall overwhelmed infrastructure, drowning several towns and taking away thousands of homes. Europe—the fastest-warming continent—was hit with devastating floods in countries such as the Czech Republic, leaving two-thirds of the country underwater and leading rivers to burst their banks. In West and Central Africa, 200,000 people were displaced, which further exacerbated the existing housing and food insecurity issues. \n\nThe driving force of these excessive rainfalls is the rise in global temperature. As our planet has already warmed up by 1.3C within the past century, the atmosphere holds more moisture, leading to more frequent and heavier rainfalls. These phenomena across regions around the world demonstrate that climate change is no longer a distant nor abstract concept—it’s a straightforward, tangible issue that affects lives nearby.\n\nMeanwhile, on the other side of the globe, the climate crisis continued, yet with variation. In South and Southeast Asia, typically high temperatures were further aggravated by the El Niño effect —the warming of surface waters in the Pacific Ocean. This phenomenon disrupts atmospheric patterns, leading to reduced rainfall and intensified heat in certain regions. This year, intense heat waves struck southern parts of Asia. Specifically, in parts of the Philippines and Bangladesh, intensified heat disrupted daily life. Thousands of schools suspended in-person classes and half of Manila’s provinces suffered from droughts. Moreover, health risks were increasing with nearly 110 deaths recorded due to heat strokes in India.\n\nThese incidents indicate the different ways climate change occurs. While one region faces flood disasters, another endures record-breaking heat, which is caused by rising global temperatures.\n\nAs 2024 comes to an end, it has become more than obvious that the growing severity and increasing impact of the climate crisis is humanity’s biggest miss of the year. \n\nWe live in a time inseparable from the climate crisis, and it is our shared responsibility to combat such a challenge and alleviate our planet’s rising temperature. Although this crisis seems overwhelmingly vast, progress is possible if action is taken collectively and globally.",
+        "metadata": {
+          "title": "Hits and Misses 2024: Climate extremes around the globe &#8211; The International",
+          "og:title": "Hits and Misses 2024: Climate extremes around the globe",
+          "og:url": "https://isshinternational.org/10595/hits-and-misses-2024/hits-and-misses-2024-climate-extremes-around-the-globe/",
+          "og:type": "article",
+          "author": "Jimin S. ('27)",
+          "og:image": "https://isshinternational.org/wp-content/uploads/2024/12/Image-2024-12-12-at-11.50 AM.jpeg",
+          "og:image:secure_url": "https://isshinternational.org/wp-content/uploads/2024/12/Image-2024-12-12-at-11.50 AM.jpeg",
+          "og:image:width": "1956",
+          "og:image:height": "1304",
+          "og:site_name": "The International",
+          "twitter:title": "Hits and Misses 2024: Climate extremes around the globe",
+          "twitter:description": "Although environmental disasters aren’t entirely new to us, their severity and frequency continue to intensify each year. 2024 has been no exception serving as another indicator of the pressing need to address the climate crisis. This year, torrential rainfall and intense heat struck all parts of the globe. Tremendous flooding resulting from extraordinary amounts of...",
+          "og:description": "Although environmental disasters aren’t entirely new to us, their severity and frequency continue to intensify each year. 2024 has been no exception serving as another indicator of the pressing need to address the climate crisis. This year, torrential rainfall and intense heat struck all parts of the globe. Tremendous flooding resulting from extraordinary amounts of...",
+          "description": "Although environmental disasters aren’t entirely new to us, their severity and frequency continue to intensify each year. 2024 has been no exception serving as another indicator of the pressing need to address the climate crisis. This year, torrential rainfall and intense heat struck all parts of the globe. Tremendous flooding resulting from extraordinary amounts of...",
+          "article:section": "Hits and Misses 2024"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Climate extremes and environmental disasters around the globe in 2024, including torrential rainfall and intense heat. Floods occurred in North Carolina and European countries such as the Czech Republic. West and Central Africa saw 200,000 displaced people. In South and Southeast Asia, El Nino caused reduced rainfall and intensified heat waves in the Philippines, Bangladesh, and India.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "North Carolina",
+          "Europe",
+          "Czech Republic",
+          "West Africa",
+          "Central Africa",
+          "South Asia",
+          "Southeast Asia",
+          "Pacific Ocean",
+          "Philippines",
+          "Bangladesh",
+          "Manila",
+          "India"
+        ],
+        "ORGANIZATION": [
+          "The International"
+        ],
+        "DATE": [
+          "2024",
+          "past century"
+        ],
+        "EVENT": [
+          "El Niño effect"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7575258561129439
+    },
+    {
+      "titre": "Bangladesh's natural disasters 'exacerbating child marriage ...",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/news/asia/south-asia/article/1819181/child-marriage-epidemic-bangladesh-30-cent-girls-wed-theyre-15",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/2015/06/09/floods.jpg?itok=A09AlNR-",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7Yc8t2YT8BEOsr5fXJqRbTEWzZkQBdlXyGu_G7_GxU2-gOWn",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Bangladesh's natural disasters 'exacerbating child marriage ...",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/1819181/child-marriage-epidemic-bangladesh-30-cent-girls-wed-theyre-15",
+        "source": "South China Morning Post",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQfTGzmwZAXIdZshMmmFVqa_M9l-R-spfTaqiKOIdaxsPIJgDJdab9rJg6az9tb8mMjxAc8qtZiJESAKp2NBfThVc1Wq4qt8EDQrqjxGi_q4FY",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7Yc8t2YT8BEOsr5fXJqRbTEWzZkQBdlXyGu_G7_GxU2-gOWn",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/2015/06/09/floods.jpg?itok=A09AlNR-",
+        "image_width": 360,
+        "image_height": 540
+      },
+      "webpage": {
+        "text": "Bangladesh's natural disasters 'exacerbating child marriage epidemic' as 30 per cent of girls wed before they're 15\n\nBangladesh must ramp up efforts to tackle its “epidemic” of child marriage - a problem fuelled by the country’s repeated natural disasters, rights campaigners said.\n\nHuman Rights Watch (HRW) also called on the government to ditch a proposal to lower the legal marriage age for girls from 18 to 16, which it said undermined the prime minister’s recent pledge to end child marriage.\n\nBangladesh has one of the world’s highest rates of child marriage, with two thirds of girls ending up as child brides. Nearly 30 per cent wed before their 15th birthday and many are much younger.\n\nAlthough child marriage is illegal, the law is widely flouted, with officials often forging birth certificates to facilitate underage marriages for small bribes, HRW said in a report, “Marry Before Your House is Swept Away”.\n\nDensely populated Bangladesh suffers frequent flooding and other natural disasters. The rights group said floods, cyclones and river erosion exacerbate child marriage by pushing families into greater poverty.\n\n“Child marriage is an epidemic in Bangladesh, and only worsens with natural disasters,” said Heather Barr, an HRW researcher on women’s rights.\n\n“The government should act before another generation of girls is lost.”",
+        "metadata": {
+          "description": "Bangladesh must ramp up efforts to tackle its “epidemic” of child marriage - a problem fuelled by the country’s repeated natural disasters, rights campaigners said.",
+          "fb:app_id": "282931841805811",
+          "og:title": "Bangladesh's natural disasters 'exacerbating child marriage epidemic' as 30 per cent of girls wed before they're 15",
+          "og:description": "Bangladesh must ramp up efforts to tackle its “epidemic” of child marriage - a problem fuelled by the country’s repeated natural disasters, rights campaigners said.",
+          "og:url": "https://www.scmp.com/news/asia/south-asia/article/1819181/child-marriage-epidemic-bangladesh-30-cent-girls-wed-theyre-15",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/2015/06/09/floods.jpg?itok=R41dT05S",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "news_keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "article:section": "South Asia",
+          "article:published_time": "2015-06-09T14:48:56+08:00",
+          "article:modified_time": "2015-06-09T14:50:09+08:00",
+          "cXenseParse:author": "Reuters",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/2015/06/09/floods.jpg?itok=YTU6eByy",
+          "al:ios:url": "scmp://news/asia/south-asia/article/1819181/child-marriage-epidemic-bangladesh-30-cent-girls-wed-theyre-15?entity=node&type=article&id=1819181",
+          "al:android:url": "scmp://news/asia/south-asia/article/1819181/child-marriage-epidemic-bangladesh-30-cent-girls-wed-theyre-15?entity=node&type=article&id=1819181"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Bangladesh faces an epidemic of child marriage exacerbated by repeated natural disasters such as floods, cyclones, and river erosion which push families into poverty. Human Rights Watch criticized a proposal to lower the legal marriage age for girls from 18 to 16.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Heather Barr"
+        ],
+        "LOCATION": [
+          "Bangladesh"
+        ],
+        "ORGANIZATION": [
+          "Human Rights Watch",
+          "HRW",
+          "South China Morning Post"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Marry Before Your House is Swept Away"
+        ]
+      },
+      "score_e5": 0.7166243270521322
+    },
+    {
+      "titre": "India Monsoon Flooding | An aerial view of a flood affected ...",
+      "source": "Flickr",
+      "lien": "https://www.flickr.com/photos/30000748@N07/2823522679",
+      "image_url": "https://live.staticflickr.com/3017/2823522679_4c7b51c0a9_z.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS9CoJNCWpFTeucbQvSNWgFjp9Vc-zbcnArTAsLeGCFlGpr_6",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "India Monsoon Flooding | An aerial view of a flood affected ...",
+        "link": "https://www.flickr.com/photos/30000748@N07/2823522679",
+        "source": "Flickr",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTfrOu0sWKs3Pcw2QmgK3YJ56j2-ayOW-qRIJSQvaGvhVZy3tuULAELn-9WhCkJkgiSJmW8S2sgnoc74IbwPBg6aBaBJfMsZdN3QKOSPEQO0xq3oQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS9CoJNCWpFTeucbQvSNWgFjp9Vc-zbcnArTAsLeGCFlGpr_6",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://live.staticflickr.com/3017/2823522679_4c7b51c0a9_z.jpg",
+        "image_width": 405,
+        "image_height": 610
+      },
+      "webpage": {
+        "text": "India Monsoon Flooding | An aerial view of a flood affected …\n\nAn aerial view of a flood affected Madhepura town is seen, in north Bihar state, India, Wednesday, Aug.27, 2008. Indian officials rushed soldiers and air force helicopters Wednesday to flood-ravaged parts of northern India to provide aid to the more than 1 million people stranded by a surging river. The death toll from this year's monsoon has already climbed past 800, and now some 1.2 million people have been marooned, and about 2 million more affected in the impoverished state of Bihar, where the Kosi river has burst its banks, breached safety embankments and submerged all roads leading to the region. (AP Photo/Aftab Alam Siddiqui)",
+        "metadata": {
+          "og:site_name": "Flickr",
+          "og:updated_time": "2026-09-06T11:42:38.769Z",
+          "al:ios:app_name": "Flickr",
+          "al:ios:app_store_id": "328407587",
+          "twitter:app:name:iphone": "Flickr",
+          "twitter:app:id:iphone": "328407587",
+          "twitter:app:name:ipad": "Flickr",
+          "twitter:app:id:ipad": "328407587",
+          "twitter:app:name:googleplay": "Flickr",
+          "twitter:app:id:googleplay": "com.flickr.android",
+          "twitter:site": "@flickr",
+          "description": "An aerial view of a flood affected Madhepura town is seen,  in north Bihar state, India, Wednesday, Aug.27, 2008. Indian officials rushed soldiers and air force helicopters Wednesday to flood-ravaged parts of northern India to provide aid to the more than 1 million people stranded by a surging river. The death toll from this year's monsoon has already climbed past 800, and now some 1.2 million people have been marooned, and about 2 million more affected in the impoverished state of Bihar, where the Kosi river has burst its banks, breached safety embankments and submerged all roads leading to the region. (AP Photo/Aftab Alam Siddiqui)",
+          "title": "India Monsoon Flooding",
+          "keywords": "ind, madhepura",
+          "og:title": "India Monsoon Flooding",
+          "og:description": "An aerial view of a flood affected Madhepura town is seen,  in north Bihar state, India, Wednesday, Aug.27, 2008. Indian officials rushed soldiers and air force helicopters Wednesday to flood-ravaged parts of northern India to provide aid to the more than 1 million people stranded by a surging river. The death toll from this year's monsoon has already climbed past 800, and now some 1.2 million people have been marooned, and about 2 million more affected in the impoverished state of Bihar, where the Kosi river has burst its banks, breached safety embankments and submerged all roads leading to the region. (AP Photo/Aftab Alam Siddiqui)",
+          "og:type": "article",
+          "og:url": "https://www.flickr.com/photos/30000748@N07/2823522679/",
+          "og:image": "https://live.staticflickr.com/3017/2823522679_4c7b51c0a9_z.jpg",
+          "og:image:width": "610",
+          "og:image:height": "405",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://live.staticflickr.com/3017/2823522679_4c7b51c0a9_z.jpg",
+          "twitter:description": "An aerial view of a flood affected Madhepura town is seen,  in north Bihar state, India, Wednesday, Aug.27, 2008. Indian officials rushed soldiers and air force helicopters Wednesday to flood-ravaged parts of northern India to provide aid to the more than 1 million people stranded by a surging river. The death toll from this year's monsoon has already climbed past 800, and now some 1.2 million people have been marooned, and about 2 million more affected in the impoverished state of Bihar, where the Kosi river has burst its banks, breached safety embankments and submerged all roads leading to the region. (AP Photo/Aftab Alam Siddiqui)",
+          "twitter:app:url:iphone": "flickr://flickr.com/photos/30000748@N07/2823522679/",
+          "twitter:app:url:ipad": "flickr://flickr.com/photos/30000748@N07/2823522679/",
+          "twitter:app:url:googleplay": "https://www.flickr.com/photos/30000748@N07/2823522679/",
+          "al:ios:url": "flickr://flickr.com/photos/30000748@N07/2823522679"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "An aerial view of flood-affected Madhepura town in north Bihar state, India, on August 27, 2008. Soldiers and air force helicopters were rushed to northern India as the Kosi river burst its banks and submerged roads, stranding more than 1 million people.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Aftab Alam Siddiqui"
+        ],
+        "LOCATION": [
+          "Madhepura town",
+          "north Bihar state",
+          "India",
+          "northern India",
+          "Bihar"
+        ],
+        "ORGANIZATION": [
+          "Flickr",
+          "AP"
+        ],
+        "DATE": [
+          "Wednesday, Aug.27, 2008",
+          "2008"
+        ],
+        "EVENT": [
+          "India Monsoon Flooding",
+          "monsoon"
+        ],
+        "OTHER": [
+          "Kosi river"
+        ]
+      },
+      "score_e5": 0.8138940178869833
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Joso",
+      "Ibaraki Prefecture",
+      "Japan"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "Sept 10"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Manmohan Singh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nepal",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bihar",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Eastern India",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 28, 2008",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Floods in India",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Monsoon",
+      "rangs": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Koshi River",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gregg Greenough",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Patrick Meier",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ory Okolloh",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mumbai",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ahmedabad",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Orissa",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HHI",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Geography Dept of Mumbai University",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mumbai University",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AIDMI",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CEE",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ushahidi",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Geographic",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2008",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2009",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 2005",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Monsoon Project",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Crisis Mapping Project",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Great Mumbai Floods",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Google Earth",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Carolina",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Czech Republic",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Africa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Central Africa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South Asia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Southeast Asia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pacific Ocean",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Philippines",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bangladesh",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Manila",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The International",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Past century",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "El Niño effect",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Heather Barr",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Human Rights Watch",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South China Morning Post",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Marry Before Your House is Swept Away",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Aftab Alam Siddiqui",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Madhepura town",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flickr",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AP",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T12:42:44.265848"
+  }
+}

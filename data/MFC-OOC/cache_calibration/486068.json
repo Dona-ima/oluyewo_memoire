@@ -1,0 +1,367 @@
+{
+  "id_rumeur": 486068,
+  "id_image": 88458,
+  "caption": "Germany supporters in Berlin watch anxiously as their team play Algeria and are ecstatic at the result",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748148/oluyewo_benchmark/uahb4rhbg0nil6nfnbmj.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Wal-Mart, Target battle but have much in common - The ...",
+      "source": "The Washington Post",
+      "lien": "https://www.washingtonpost.com/lifestyle/style/2012/10/23/66b97b8e-17d0-11e2-9855-71f2b202721b_story.html",
+      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UNZ5K7A4NYI6FLMQXJMSBZLOWM&w=1600&h=900",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvHgyhWc3PDhUpBprgLiTw1Wwm03eeh0-e4bReS7caixR37ih",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Wal-Mart, Target battle but have much in common - The ...",
+        "link": "https://www.washingtonpost.com/lifestyle/style/2012/10/23/66b97b8e-17d0-11e2-9855-71f2b202721b_story.html",
+        "source": "The Washington Post",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEURERH___8AAACNjY0FBQVAQEC1tbUNDQ35-fnHx8dsbGyTk5MSEhIODg7u7u7BwcGioqLOzs4lJSWFhYV9fX2rq6vX19fj4-M7OztgYGBWVlYwMDB2dnYoKCienp5mZmbd3d1ISEgZ2xNmAAABB0lEQVQ4jdXSy1KEMBAF0NxLIEGe4S2Myvz_T9pRAY01Wbkxi65U-lSnIa3UP1ommi3JNCr47EwVy69IqMrrIMRsMLMi_dYHLVHL9nQcgJGtE-RaKm4YuLKZePZFi6YAHHMv7xa49S182QPUqDsHTJyBbnkBXke5F6m-QE4pk7EXQAJ5wrcTlPoCiQeiioRPJ9AL8A1wQgCY1T_APIQV1uAKBkCFPfwC_iucB40HWnvQh0CS0tvYWykwAoltbsB2AN2JyEoJO-l_J6QS6oXnA2rucgfnncZsVooXmc0_Hu5Yxr-dBKPM_atJPpoQYz7Bg7QfFwFtEQHGII3OaNWljE95pWPZv1_vtoMLSOS9SqIAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvHgyhWc3PDhUpBprgLiTw1Wwm03eeh0-e4bReS7caixR37ih",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UNZ5K7A4NYI6FLMQXJMSBZLOWM&w=1600&h=900",
+        "image_width": 900,
+        "image_height": 1600
+      },
+      "webpage": null,
+      "texte_contexte": "Article de The Washington Post intitulé 'Wal-Mart, Target battle but have much in common'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Wal-Mart",
+          "Target",
+          "The Washington Post"
+        ],
+        "DATE": [
+          "2012-10-23"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7098723210987652
+    },
+    {
+      "titre": "Burlesque icons Kitten 'N Lou in Rooms On Fire at 1000 ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=B3PqXA01HWM",
+      "image_url": "https://i.ytimg.com/vi/B3PqXA01HWM/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7cpjnVfybUjTAPUA7I5ASIewLkB6xkRVci97NjVFyoi02dNK5",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Burlesque icons Kitten 'N Lou in Rooms On Fire at 1000 ...",
+        "link": "https://www.youtube.com/watch?v=B3PqXA01HWM",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7cpjnVfybUjTAPUA7I5ASIewLkB6xkRVci97NjVFyoi02dNK5",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/B3PqXA01HWM/sddefault.jpg",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Vidéo YouTube intitulée 'Burlesque icons Kitten 'N Lou in Rooms On Fire at 1000'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kitten 'N Lou"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Rooms On Fire"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.720727656319369
+    },
+    {
+      "titre": "NatBush Queen” I love my life, moment ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/DCNaFjJNAtd/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3820228296093702991",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0gtOIlbhdwO6JloB8zoJ2Z451oFthqb-46XMy_UxoerPOyXfN",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "NatBush Queen” I love my life, moment ...",
+        "link": "https://www.instagram.com/reel/DCNaFjJNAtd/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef88c31866007e4ed52cc/images/LrACVE7bax9Ja1Unf0adI3SojF8KfHOxQdwew9Hn6TE.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0gtOIlbhdwO6JloB8zoJ2Z451oFthqb-46XMy_UxoerPOyXfN",
+        "thumbnail_width": 299,
+        "thumbnail_height": 168,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3820228296093702991",
+        "image_width": 1136,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Publication Instagram intitulée 'NatBush Queen” I love my life, moment'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "NatBush Queen"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7436412280775192
+    },
+    {
+      "titre": "10 Best Ideas of the Week: A Chocolate Graffiti Wall, Turner ...",
+      "source": "BizBash",
+      "lien": "https://www.bizbash.com/programming-entertainment/10-best-ideas-of-the-week-a-chocolate-graffiti-wall-turner-broadcasting-s-marching-band-pinball-projections-in-france",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt725d5e066dc2264b/blt7bf3dbead4e42d68/6821fefdeccd7a6e65d2f864/atmosphereimages_5.png",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwnh350qo7bHNVKNSvfZae0Y-BIijV8fsoYnBpvRZpGyJ624qf",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "10 Best Ideas of the Week: A Chocolate Graffiti Wall, Turner ...",
+        "link": "https://www.bizbash.com/programming-entertainment/10-best-ideas-of-the-week-a-chocolate-graffiti-wall-turner-broadcasting-s-marching-band-pinball-projections-in-france",
+        "source": "BizBash",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcT2GmA0lGiL7hiCS1FpnKQS6tpOk6L2kIGx2K4zVYV5Mx2S7oC-Myc0DFejSbSI5CHwtsH5huJuqQghjAN5douSqFOYJSyCoTCN-xt6fVFoxFSv-eU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwnh350qo7bHNVKNSvfZae0Y-BIijV8fsoYnBpvRZpGyJ624qf",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://eu-images.contentstack.com/v3/assets/blt725d5e066dc2264b/blt7bf3dbead4e42d68/6821fefdeccd7a6e65d2f864/atmosphereimages_5.png",
+        "image_width": 467,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "Article de BizBash intitulé '10 Best Ideas of the Week: A Chocolate Graffiti Wall, Turner Broadcasting's Marching Band Pinball Projections in France'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "France"
+        ],
+        "ORGANIZATION": [
+          "BizBash",
+          "Turner Broadcasting"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "10 Best Ideas of the Week"
+        ],
+        "OTHER": [
+          "Chocolate Graffiti Wall",
+          "Marching Band Pinball Projections"
+        ]
+      },
+      "score_e5": 0.7257775158163986
+    },
+    {
+      "titre": "IMG_6203 | Suessical, 2015 | TheMuni | Flickr",
+      "source": "Flickr",
+      "lien": "https://www.flickr.com/photos/themuni/20213327055/",
+      "image_url": "https://live.staticflickr.com/3785/20213327055_f725ed03bc_b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyM2_Y49g7lcfklzBEEB9U8RdzcPQRDgWodAfJfR2UmuXH5PyA",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "IMG_6203 | Suessical, 2015 | TheMuni | Flickr",
+        "link": "https://www.flickr.com/photos/themuni/20213327055/",
+        "source": "Flickr",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTfrOu0sWKs3Pcw2QmgK3YJ56j2-ayOW-qRIJSQvaGvhVZy3tuULAELn-9WhCkJkgiSJmW8S2sgnoc74IbwPBg6aBaBJfMsZdN3QKOSPEQO0xq3oQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyM2_Y49g7lcfklzBEEB9U8RdzcPQRDgWodAfJfR2UmuXH5PyA",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://live.staticflickr.com/3785/20213327055_f725ed03bc_b.jpg",
+        "image_width": 683,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "Image Flickr intitulée 'IMG_6203 Suessical, 2015 TheMuni Flickr'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "TheMuni",
+          "Flickr"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [
+          "Suessical"
+        ],
+        "OTHER": [
+          "IMG_6203"
+        ]
+      },
+      "score_e5": 0.7545136859022485
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Berlin",
+      "Germany",
+      "Algeria"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wal-Mart",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Target",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Washington Post",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012-10-23",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kitten 'N Lou",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Rooms On Fire",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "NatBush Queen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BizBash",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Turner Broadcasting",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "10 Best Ideas of the Week",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Chocolate Graffiti Wall",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Marching Band Pinball Projections",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "TheMuni",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flickr",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Suessical",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IMG_6203",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:00:17.942923"
+  }
+}

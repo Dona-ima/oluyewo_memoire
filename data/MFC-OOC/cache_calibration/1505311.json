@@ -1,0 +1,742 @@
+{
+  "id_rumeur": 1505311,
+  "id_image": 1505311,
+  "caption": "A Russian warship prepares to make its way in the bay in the Crimean city of Sevastopol",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787754300/oluyewo_benchmark/q3xmjufdme7htjkllrxu.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "UNIAN: Occupied Crimea - Panama to punish its ships that ...",
+      "source": "KyivPost",
+      "lien": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html",
+      "image_url": "https://www.kyivpost.com/wp-content/uploads/2019/03/000_DV1693243.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDQZluKQis7v_v3ySlLf1k-yjgvS2crwN0FAHDrv6nTuEVdv1Z",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "UNIAN: Occupied Crimea - Panama to punish its ships that ...",
+        "link": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html",
+        "source": "KyivPost",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEX___8iHh_GxcVkYWIyLi9QTU6Miorc3Nzx8fGamZm0FTAsKClNSktvbW1pZmd0cnJ6eHm7ubqlo6QnIySUkpJEQEH14OPDQ1m4IjviprDMYXPOzc3qvMS6KEHaipc9OTr38fKysLFcWVquUPiAAAAAfklEQVQYlY3P0RaCMAgGYH7m2txQV1pWVlrv_5AxO5p3xQ2Hb8AZRL-jqpvU1Lw3GlUGvwNaJjq0nfNzCwOF-pGXmRmc8Kk_X1bwY0nXEPoFokUcbvfwWEGA0dP03eEKQPx26ROA2QLpb5A-oI9Ru41Kmetkxcpr4Jyk--PWN3SOBIGBHosDAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDQZluKQis7v_v3ySlLf1k-yjgvS2crwN0FAHDrv6nTuEVdv1Z",
+        "thumbnail_width": 167,
+        "thumbnail_height": 301,
+        "image": "https://www.kyivpost.com/wp-content/uploads/2019/03/000_DV1693243.jpg",
+        "image_width": 427,
+        "image_height": 768
+      },
+      "webpage": {
+        "text": "UNIAN: Occupied Crimea - Panama to punish its ships that enter Crimea ports - Aug. 06, 2020\n\nUNIAN: Occupied Crimea – Panama to punish its ships that enter Crimea ports\n\nBy UNIAN.\n\nPublished Aug. 6, 2020 at 9:19 am\n\nRussian navy sailors stand on the deck of their ship, the 'Aleksandrovets' anti-submarine warfare (ASW) corvette, preparing to make its way in the bay of the Crimean city of Sevastopol on March 25, 2014.\n\nPhoto by AFP\n\nPanama will punish ships flying the flag of Panama if they enter ports in Russia-occupied Crimea.\n\nRead more here.",
+        "metadata": {
+          "title": "UNIAN: Occupied Crimea - Panama to punish its ships that enter Crimea ports - Aug. 06, 2020 | KyivPost",
+          "article:publisher": "https://www.facebook.com/KyivPost",
+          "description": "Panama will punish ships flying the flag of Panama if they enter ports in Russia-occupied Crimea… - Aug. 06, 2020. By UNIAN",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "UNIAN: Occupied Crimea - Panama to punish its ships that enter Crimea ports - Aug. 06, 2020",
+          "og:description": "Panama will punish ships flying the flag of Panama if they enter ports in Russia-occupied Crimea… - Aug. 06, 2020. By UNIAN",
+          "og:url": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html",
+          "og:site_name": "Kyiv Post",
+          "article:published_time": "2020-08-06T06:19:34+00:00",
+          "og:image": "https://www.kyivpost.com/wp-content/uploads/2019/03/000_DV1693243.jpg",
+          "og:image:width": "768",
+          "og:image:height": "427",
+          "og:image:type": "image/jpeg",
+          "author": "Anastasia Shepeleva",
+          "twitter:title": "UNIAN: Occupied Crimea - Panama to punish its ships that enter Crimea ports - Aug. 06, 2020",
+          "twitter:description": "Panama will punish ships flying the flag of Panama if they enter ports in Russia-occupied Crimea… - Aug. 06, 2020. By UNIAN"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://archive.kyivpost.com/#website",
+              "url": "https://archive.kyivpost.com/",
+              "name": "Kyiv Post",
+              "description": "",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://archive.kyivpost.com/?s={search_term_string}"
+                  },
+                  "query-input": "required name=search_term_string"
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html#primaryimage",
+              "url": "https://archive.kyivpost.com/wp-content/uploads/2019/03/000_DV1693243.jpg",
+              "contentUrl": "https://archive.kyivpost.com/wp-content/uploads/2019/03/000_DV1693243.jpg",
+              "width": 768,
+              "height": 427,
+              "caption": "Russian navy sailors stand on the deck of their ship, the 'Aleksandrovets' anti-submarine warfare (ASW) corvette, preparing to make its way in the bay of the Crimean city of Sevastopol on March 25, 2014."
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html",
+              "url": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html",
+              "name": "UNIAN: Occupied Crimea - Panama to punish its ships that enter Crimea ports - Aug. 06, 2020 | KyivPost",
+              "isPartOf": {
+                "@id": "https://archive.kyivpost.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html#primaryimage"
+              },
+              "datePublished": "2020-08-06T06:19:34+00:00",
+              "dateModified": "2020-08-06T06:19:34+00:00",
+              "author": {
+                "@id": "https://archive.kyivpost.com/#/schema/person/fd6e76cc344ea2805b7aba57fbf721c1"
+              },
+              "description": "Panama will punish ships flying the flag of Panama if they enter ports in Russia-occupied Crimea… - Aug. 06, 2020. By UNIAN",
+              "breadcrumb": {
+                "@id": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://archive.kyivpost.com/ukraine-politics/unian-occupied-crimea-panama-to-punish-its-ships-that-enter-crimea-ports.html#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://archive.kyivpost.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "UNIAN: Occupied Crimea &#8211; Panama to punish its ships that enter Crimea ports"
+                }
+              ]
+            },
+            {
+              "@type": "Person",
+              "@id": "https://archive.kyivpost.com/#/schema/person/fd6e76cc344ea2805b7aba57fbf721c1",
+              "name": "Anastasia Shepeleva",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://archive.kyivpost.com/#/schema/person/image/",
+                "url": "https://secure.gravatar.com/avatar/ca87e165f189cbe3e51d029f10186803?s=96&r=pg",
+                "contentUrl": "https://secure.gravatar.com/avatar/ca87e165f189cbe3e51d029f10186803?s=96&r=pg",
+                "caption": "Anastasia Shepeleva"
+              },
+              "url": "https://archive.kyivpost.com/author/nastyashepeleva"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "UNIAN rapporte que Panama punira les navires battant son pavillon qui entrent dans les ports de la Crimée occupée. Une photo d'archive de l'AFP datée du 25 mars 2014 montre des matelots de la marine russe sur le pont de leur navire, la corvette anti-sous-marine 'Aleksandrovets', dans la baie de Sébastopol.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Crimea",
+          "Panama",
+          "Russia",
+          "Sevastopol"
+        ],
+        "ORGANIZATION": [
+          "UNIAN",
+          "KyivPost",
+          "AFP",
+          "Russian navy"
+        ],
+        "DATE": [
+          "Aug. 06, 2020",
+          "Aug. 6, 2020",
+          "March 25, 2014"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Aleksandrovets"
+        ]
+      },
+      "score_e5": 0.8090293464347345
+    },
+    {
+      "titre": "Russia Says Minesweeper Hit in 'Massive' Attack on Black ...",
+      "source": "Newsweek",
+      "lien": "https://www.newsweek.com/explosions-reported-near-crimean-city-russia-drones-shot-down-sevastopol-1755579",
+      "image_url": "https://assets.newsweek.com/wp-content/uploads/2025/08/2141539-explosions-reported-near-sevastopol.jpg?w=1600&h=900&q=88",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGxfLrMDAxCAan6yE5kA_g_Yc6X1TkO_G3ceCei6AhcaXOqBo3",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Russia Says Minesweeper Hit in 'Massive' Attack on Black ...",
+        "link": "https://www.newsweek.com/explosions-reported-near-crimean-city-russia-drones-shot-down-sevastopol-1755579",
+        "source": "Newsweek",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEXpHQz____uVEj95OLvYVXtRjj5wb36xsLwa1_sPS_uTkHqKRnziYDrNif84N7tRTfqMCD4urXyd231mZH_-Pj70c31lIz4s67xcGXzhXz-9fT6zcn0jYX719Tye3H96-r2pJ0chjp5AAAAtElEQVQ4jc3S2RKDIAwF0AQXFKqlrUtrF_z_r2wlOo4Mmbz2viUcZsICQCmRota6WGuECHgrALxIAK9pcNO6o85UL3WtdX8Av2Trnv4wZwLgIAE0EsgsD2jSkQcnEncW5A86a8MC0KH_5IGbwsKLBVDRUQoWwBhWWsMCSzeSfosFgME9SQCDBOAtgboTAHxicFbKh7dQyoVGGYH9T2IVGs4LAHIJwCwB20ZDbnFbr1kq-IN8AcsQBnQyie19AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGxfLrMDAxCAan6yE5kA_g_Yc6X1TkO_G3ceCei6AhcaXOqBo3",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://assets.newsweek.com/wp-content/uploads/2025/08/2141539-explosions-reported-near-sevastopol.jpg?w=1600&h=900&q=88",
+        "image_width": 1066,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Russia Says Minesweeper Hit in ‘Massive’ Attack on Black Sea Fleet\n\nThe Russian minesweeper Ivan Golubets was damaged on Saturday morning during a \"massive attack\" involving drones on Sevastopol, a city in Crimea that hosts Russia's Black Sea Fleet, according to Russian officials.\n\nThe Russian Defense Ministry branded the incident a \"terrorist attack\" and said nine Ukrainian unmanned aerial vehicles, and seven \"maritime drones,\" conducted the operation.\n\nIn a statement posted on its official Telegram channel the Ministry said: \"Today at 4.20 a.m., the Kyiv regime carried out a terrorist attack on the ships of the Black Sea Fleet and civilian ships that were on the outer and inner roadsteads of the Sevastopol base.\n\n\n\"Nine unmanned aerial vehicles and seven autonomous maritime drones were involved in the attack.\n\n\"Minor damage was received by the sea minesweeper Ivan Golubets, as well as the bonnet barrier in Yuzhnaya Bay.\"\n\nThe Russian ministry claimed all drones involved in the attack were destroyed by its forces.\n\nIt stated: \"As a result of the operational measures taken by the forces of the ships of the Black Sea Fleet, all air targets were destroyed.\n\n\"In the course of repulsing a terrorist attack on the outer roadstead of Sevastopol, four marine unmanned vehicles were destroyed using naval weapons and naval aviation of the Black Sea Fleet, and three more were destroyed on the inner roadstead.\"\n\nThe ministry said the attack was carried out by \"Ukraine's \"73rd Special Center for Maritime Operations,\" operating \"under the guidance of British specialists located in the city of Ochakiv.\"\n\nNo evidence was provided to support the incendiary claim that a NATO power was involved in the incident.\n\nIn a statement provided to Newsweek a spokesperson from the British Ministry of Defence said: \"To detract from their disastrous handling of the illegal invasion of Ukraine, the Russian Ministry of Defence is resorting to pedalling false claims of an epic scale.\n\n\"This latest invented story, says more about the arguments going on inside the Russian Government than it does about the West.\"\n\nSevastopol Governor Mikhail Razvozhaev said the city had been targeted in a \"massive attack\" by \"UAVs and remote-controlled surface vehicles.\"\n\nUnmanned Aerial Vehicles (UAVs), also known as drones, have been used prominently by both Russian and Ukrainian forces in their conflict.\n\nSpeaking to Russian state-controlled news agency Tass, Razvozhaev said the incident was the \"most massive attack\" since Putin's forces invaded Ukraine in February.\n\nHe said the attack was a failure, as \"nothing has been hit in the city,\" though this was later contradicted by the Russian Defense Ministry.\n\nPosting on Telegram, Razvozhaev said: \"Today, starting at 04:30am for several hours, various air defense systems in Sevastopol repelled drone attacks.\n\n\"All UAVs have been shot down. Nothing has been hit in the city. We remain calm. The situation is under control.\"\n\nUnconfirmed video posted on social media appears to show an explosion in Sevastopol harbor on Friday night, with smoke visible in photos reportedly taken this morning from the scene. Newsweek has been unable to independently verify the images or video.\n\nAnton Gerashchenko, an advisor to the Ukrainian minister of internal affairs, reported Russian warships were \"blown up\" in the attack, though Newsweek has not been able to confirm the claim that multiple vessels were damaged.\n\nHe tweeted a video purportedly of one of the explosions, adding: \"Explosions in Sevastopol harbor last night.\n\n\"According to some sources, several Russian warships of the Black Sea Fleet were blown up—including a frigate and a landing ship.\"\n\nRussian news agency Tass reports boats were being blocked from entering the harbor on Saturday morning.\n\nRussia's Black Sea Fleet has participated extensively in Russia's assault on Ukraine, launching cruise missiles at targets across the country.\n\nIn April the cruiser Moskva, flagship of the Black Sea Fleet, sank with an unknown number of casualties. Ukraine said it hit the vessel with two Neptune anti-ship missiles, a report confirmed by U.S. officials, though Moscow insists the sinking was the result of an accidental explosion triggered by a fire.\n\nRussia seized Crimea from Ukraine and annexed it in 2014.\n\nOn October 8, the bridge built after the annexation to link Crimea with mainland Russia was severely damaged by a huge explosion. Russian officials claimed the attack was carried out by Ukrainian military intelligence, using a truck bomb, though Kyiv has not claimed responsibility.\n\nDays after the attack Russian missile and drone attacks were reported in 14 cities across Ukraine, including Kyiv, with the Ukrainian government accusing Moscow of deliberately targeting civilians.\n\nNewsweek has contacted the Russian and Ukrainian ministries of defense for comment.\n\nUpdate 10/29/22 8:36 a.m. ET: This article was updated with later information.",
+        "metadata": {
+          "title": "Russia Says Minesweeper Hit in ‘Massive’ Attack on Black Sea Fleet - Newsweek",
+          "fb:pages": "18343191100",
+          "article:publisher": "https://www.facebook.com/Newsweek",
+          "description": "A minesweeper was damaged during an attack on the Russian-occupied city of Sevastopol, home to Russia's Black Sea Fleet.",
+          "fb:app_id": "245537789135954",
+          "og:title": "Russia says minesweeper hit in 'massive' attack on Black Sea Fleet",
+          "og:description": "A minesweeper was damaged during an attack on the Russian-occupied city of Sevastopol, home to Russia's Black Sea Fleet.",
+          "og:url": "https://www.newsweek.com/explosions-reported-near-crimean-city-russia-drones-shot-down-sevastopol-1755579",
+          "og:site_name": "Newsweek",
+          "og:image": "https://assets.newsweek.com/wp-content/uploads/2025/08/2141539-explosions-reported-near-sevastopol.jpg?w=1200&crop=1",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Explosions Reported Near Sevastopol ",
+          "og:type": "article",
+          "twitter:title": "Russia says minesweeper hit in 'massive' attack on Black Sea Fleet",
+          "twitter:description": "A minesweeper was damaged during an attack on the Russian-occupied city of Sevastopol, home to Russia's Black Sea Fleet."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le dragueur de mines russe Ivan Golubets a été endommagé lors d'une attaque massive de drones à Sébastopol, en Crimée, abritant la flotte russe de la mer Noire. Le ministère russe de la Défense a qualifié l'incident d'attaque terroriste menée par l'Ukraine avec des drones aériens et maritimes, impliquant également le 73e Centre spécial d'opérations maritimes ukrainien sous la direction de spécialistes britanniques à Ochakiv. Le gouverneur de Sébastopol, Mikhail Razvozhaev, a indiqué que divers systèmes de défense aérienne ont repoussé les attaques de drones.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mikhail Razvozhaev",
+          "Putin"
+        ],
+        "LOCATION": [
+          "Black Sea",
+          "Sevastopol",
+          "Crimea",
+          "Yuzhnaya Bay",
+          "Ochakiv",
+          "Ukraine",
+          "West"
+        ],
+        "ORGANIZATION": [
+          "Newsweek",
+          "Russian Defense Ministry",
+          "Black Sea Fleet",
+          "British Ministry of Defence",
+          "Tass",
+          "73rd Special Center for Maritime Operations"
+        ],
+        "DATE": [
+          "Saturday morning",
+          "Today",
+          "February"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Ivan Golubets"
+        ]
+      },
+      "score_e5": 0.7619617444899891
+    },
+    {
+      "titre": "RFS Aleksandrovets 059 - IMO 4614794",
+      "source": "ShipSpotting.com",
+      "lien": "https://www.shipspotting.com/photos/650266",
+      "image_url": "https://www.shipspotting.com/photos/big/6/6/2/650266.jpg?cb=0",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkFYAu1tixoROAkS2e1zwakUH87mX40SwFDYXNglF5huhBMCrk",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "RFS Aleksandrovets 059 - IMO 4614794",
+        "link": "https://www.shipspotting.com/photos/650266",
+        "source": "ShipSpotting.com",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFYc5S6dSIYN4I7QnRTkUKOlHU-Jk6OoyOrAaYlzHZ4I5ADw38xDhVpgo0dzFlIvq9Rg24osUGUh_0IueR-zFRRHkaBawG7NsD9M3LBvFgPUiX811jMqAYJQ",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkFYAu1tixoROAkS2e1zwakUH87mX40SwFDYXNglF5huhBMCrk",
+        "thumbnail_width": 184,
+        "thumbnail_height": 274,
+        "image": "https://www.shipspotting.com/photos/big/6/6/2/650266.jpg?cb=0",
+        "image_width": 1876,
+        "image_height": 2784
+      },
+      "webpage": {
+        "text": "RFS Aleksandrovets 059 - IMO 4614794\n\n\nRemove Ads\n\n© Vitaliy Kostrichenko\n\n86400\n\n LikeFavoriteComment\n\nShare\n\nShare on facebookShare on twitter\n\nGet thumbnail code to post\nin forum, blog or homepage\n\nMore\n\nFull Screen\n\nExif Data\n\nDownload Photo\n\nRemove Ads\n\n\nPhoto\ndetails\n\n\nPhotographer:\n\nVitaliy Kostrichenko [ View profile ]\n\nTitle:\n\nRfs Aleksandrovets 059\n\nPhoto Category:\n\nCorvettes\n\nAdded:\n\nAug 8, 2008\n\nViews:\n\n864\n\nImage Resolution:\n\n2,784 x 1,856\n\nDescription:\n\n15-02-2007, VVK\n\n\nVessel\nparticulars\n\n\nIMO:\n\n4614794\n\nPhotos:\n\n50 photos by 9 photographers\n\n\nAIS Position\nof this ship\n\n\nThere is no AIS Position Data available for this ship!\n\nWould you like to add AIS Coverage?\n\nAdd AIS Coverage\n\n\nPhoto\nCategories\n\n\nThis ship exists in the following categories:\n\nCorvettes - 43 photos\n\nFormation and group photos - 5 photos\n\n_ Armaments - 2 photos\n\n\nPhotographers\nof this ship\n\n(9)\n\n\nSiriusM\n\n1 photos\n\nVitaliy Kostrichenko\n\n20 photos\n\nSnip\n\n4 photos\n\nSerg Petrushin\n\n2 photos\n\nAlex Guikalov\n\n1 photos\n\nGerolf Drebes\n\n1 photos\n\nb47b56\n\n16 photos\n\nstuurmann\n\n4 photos\n\nnikonov63\n\n1 photos\n\nRemove Ads\n\n\nMore of\nthis ship(49)\n\nMore of:This ShipThis PhotographerThis Ship By This Photographer\n\nRFS ALEKSANDROVETS 059\n\nRFS Aleksandrovets 059\n\nRFS Aleksandrovets 059\n\nRFS MPK-49\n\nRFS Aleksandrovets 059\n\nRFS Aleksandrovets 059 & RFS Turbinist 912\n\nRFS Aleksandrovets 059\n\nRFS Aleksandrovets 059",
+        "metadata": {
+          "description": "Information, photos and AIS vessel tracker for the Ship RFS Aleksandrovets 059 (IMO 4614794)",
+          "keywords": "ship,ships,shipspotting,ship spotting,shipspotters,ship spotters,RFS Aleksandrovets 059,4614794,Category,Corvettes,ship overview,current AIS,ship info,free,photographers,ship tracker,ship tracking,vessel tracking,vessel tracker,ship foto,ship photo,ship picture,ship position,real time AIS,port information,AIS,AIS Live,Live AIS",
+          "og:image": "https://www.shipspotting.com/photos/middle/6/6/2/650266.jpg?cb=0"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page du site ShipSpotting.com consacrée au navire RFS Aleksandrovets 059 (IMO 4614794), une corvette de classe Grisha I (Projet 1124). La photo a été ajoutée le 8 août 2008 par le photographe Vitaliy Kostrichenko.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Vitaliy Kostrichenko",
+          "SiriusM",
+          "Snip",
+          "Serg Petrushin",
+          "Alex Guikalov",
+          "Gerolf Drebes",
+          "stuurmann",
+          "nikonov63"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "ShipSpotting.com"
+        ],
+        "DATE": [
+          "Aug 8, 2008",
+          "15-02-2007"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "RFS Aleksandrovets 059",
+          "IMO 4614794",
+          "RFS MPK-49",
+          "RFS Turbinist 912"
+        ]
+      },
+      "score_e5": 0.7726606731937865
+    },
+    {
+      "titre": "RFS Aleksandrovets 059 - IMO 4614794 - ShipSpotting.com ...",
+      "source": "ShipSpotting.com",
+      "lien": "https://www.shipspotting.com/photos/1993096?page=1&perPage=8&navList=moreOfThisShip&imo=4614794&lid=757377",
+      "image_url": "https://www.shipspotting.com/photos/big/6/9/0/1993096.jpg?cb=0",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse7LQ7WEOhWmjuyCM794VtphCjFSM4pSVi5fV-RCThMS7IBQG",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "RFS Aleksandrovets 059 - IMO 4614794 - ShipSpotting.com ...",
+        "link": "https://www.shipspotting.com/photos/1993096?page=1&perPage=8&navList=moreOfThisShip&imo=4614794&lid=757377",
+        "source": "ShipSpotting.com",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFYc5S6dSIYN4I7QnRTkUKOlHU-Jk6OoyOrAaYlzHZ4I5ADw38xDhVpgo0dzFlIvq9Rg24osUGUh_0IueR-zFRRHkaBawG7NsD9M3LBvFgPUiX811jMqAYJQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse7LQ7WEOhWmjuyCM794VtphCjFSM4pSVi5fV-RCThMS7IBQG",
+        "thumbnail_width": 191,
+        "thumbnail_height": 264,
+        "image": "https://www.shipspotting.com/photos/big/6/9/0/1993096.jpg?cb=0",
+        "image_width": 1479,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "RFS Aleksandrovets 059\n\n----------------------------------------\n\n\nRFS Aleksandrovets 059 - IMO 4614794\n\n\n93900\n\n LikeFavoriteComment\n\nMore\n\nFull Screen\n\nExif Data\n\nDownload Photo\n\n\nPhoto\ndetails\n\n\nImage Resolution:\n\n2,048 x 1,459\n\nDescription:\n\nSeen in Sevastopol on March 06, 2014.\nLarge ASW Corvette \"Alexandrovets\", Project 1124 - Grisha I class.\n\n\nVessel\nparticulars\n\n\nAIS Position\nof this ship\n\n\nThere is no AIS Position Data available for this ship!\n\nWould you like to add AIS Coverage?\n\nAdd AIS Coverage\n\n\nPhoto\nCategories\n\n\nPhotographers\nof this ship\n\n(9)\n\n\nMore of\nthis ship(49)",
+        "metadata": {
+          "description": "Information, photos and AIS vessel tracker for the Ship RFS Aleksandrovets 059 (IMO 4614794)",
+          "keywords": "ship,ships,shipspotting,ship spotting,shipspotters,ship spotters,RFS Aleksandrovets 059,4614794,Category,Corvettes,ship overview,current AIS,ship info,free,photographers,ship tracker,ship tracking,vessel tracking,vessel tracker,ship foto,ship photo,ship picture,ship position,real time AIS,port information,AIS,AIS Live,Live AIS",
+          "og:image": "https://www.shipspotting.com/photos/middle/6/9/0/1993096.jpg?cb=0"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Photo de la grande corvette anti-sous-marine 'Alexandrovets' (Projet 1124 - classe Grisha I), identifiée sous le nom de RFS Aleksandrovets 059 (IMO 4614794), vue à Sébastopol le 6 mars 2014.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Sevastopol"
+        ],
+        "ORGANIZATION": [
+          "ShipSpotting.com"
+        ],
+        "DATE": [
+          "March 06, 2014"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "RFS Aleksandrovets 059",
+          "IMO 4614794"
+        ]
+      },
+      "score_e5": 0.7945086941212343
+    },
+    {
+      "titre": "869 Sevastopol Sebastopol Navy Stock Photos, High-Res ...",
+      "source": "Getty Images",
+      "lien": "https://www.gettyimages.com/photos/sevastopol-sebastopol-navy",
+      "image_url": "https://media.gettyimages.com/id/524436126/photo/russian-warships-blocking-the-ukrainian-fleet-based-in-sevastopol-port-on-march-7th-2014.jpg?s=612x612&w=gi&k=20&c=tgkgaJPMTch3AFtjXiXuqWsA_ILUWt6WFo2KK0NEJ-8=",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3myPdQO3s_gRahD1WFIDjJPnSvnBRR-pAfk5ukpr72LyewwNr",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "869 Sevastopol Sebastopol Navy Stock Photos, High-Res ...",
+        "link": "https://www.gettyimages.com/photos/sevastopol-sebastopol-navy",
+        "source": "Getty Images",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ5xwpxMjOWdRpeKcuUn7JhahFZ4hhmNbtqmKf3pALagxfrcJ3szbXgDI4uNfsYrQp-5B4_Mj1HyK3y1xuTL8lmjvzucq8uG9K5D7rtkG1hijwRZSjf9wxM",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3myPdQO3s_gRahD1WFIDjJPnSvnBRR-pAfk5ukpr72LyewwNr",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media.gettyimages.com/id/524436126/photo/russian-warships-blocking-the-ukrainian-fleet-based-in-sevastopol-port-on-march-7th-2014.jpg?s=612x612&w=gi&k=20&c=tgkgaJPMTch3AFtjXiXuqWsA_ILUWt6WFo2KK0NEJ-8=",
+        "image_width": 408,
+        "image_height": 612
+      },
+      "webpage": null,
+      "texte_contexte": "Page de la plateforme Getty Images proposant des photos de stock sur Sébastopol et sa marine.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Sevastopol"
+        ],
+        "ORGANIZATION": [
+          "Getty Images"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7997880292141661
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sevastopol",
+      "Crimea"
+    ],
+    "ORGANIZATION": [
+      "Russian Navy"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Russian warship"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Mikhail Razvozhaev",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Putin",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vitaliy Kostrichenko",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "SiriusM",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Snip",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Serg Petrushin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Alex Guikalov",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Gerolf Drebes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "stuurmann",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "nikonov63",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Crimea",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Panama",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sevastopol",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Black Sea",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Yuzhnaya Bay",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ochakiv",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ukraine",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UNIAN",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "KyivPost",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Russian navy",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Newsweek",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Russian Defense Ministry",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Black Sea Fleet",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Ministry of Defence",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Tass",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "73rd Special Center for Maritime Operations",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ShipSpotting.com",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Getty Images",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 6, 2020",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 25, 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday morning",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Today",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 8, 2008",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "15-02-2007",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 06, 2014",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Aleksandrovets",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ivan Golubets",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "RFS Aleksandrovets 059",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "IMO 4614794",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "RFS MPK-49",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "RFS Turbinist 912",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T14:39:28.634105"
+  }
+}

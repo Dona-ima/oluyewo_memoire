@@ -1,0 +1,695 @@
+{
+  "id_rumeur": 131170,
+  "id_image": 541919,
+  "caption": "A Metro mobile command center truck is parked near the NoMa Metro station",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757045/oluyewo_benchmark/iyibcyt5aaje0sp0vggu.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "U.S. Journalist With Ebola Arrives in Nebraska for Treatment ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/u-s-photojournalist-with-ebola-to-arrive-in-nebraska-for-treatment-1412600326",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-EW252_nebola_P_20141006100239.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UiTzp_Dg7dZBVQCtSplR9kolhoG_F7DW_zbt737X7ZYKh3pE",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "U.S. Journalist With Ebola Arrives in Nebraska for Treatment ...",
+        "link": "https://www.wsj.com/articles/u-s-photojournalist-with-ebola-to-arrive-in-nebraska-for-treatment-1412600326",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UiTzp_Dg7dZBVQCtSplR9kolhoG_F7DW_zbt737X7ZYKh3pE",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-EW252_nebola_P_20141006100239.jpg",
+        "image_width": 499,
+        "image_height": 749
+      },
+      "webpage": null,
+      "texte_contexte": "Un journaliste photo américain atteint d'Ebola arrive dans le Nebraska pour y être traité.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States",
+          "Nebraska"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Ebola epidemic"
+        ],
+        "OTHER": [
+          "Ebola"
+        ]
+      },
+      "score_e5": 0.7137037910846167
+    },
+    {
+      "titre": "Funcionário de TV infectado por Ebola na Libéria chega aos ...",
+      "source": "Estadão",
+      "lien": "https://www.estadao.com.br/saude/funcionario-de-tv-infectado-por-ebola-na-liberia-chega-aos-eua/",
+      "image_url": "https://www.estadao.com.br/resizer/v2/CJ3ZGSOZGNM43GYFZ4W2B6HM2I.jpg?quality=80&auth=0a1c7e17e8e6cac3921577dbe6e5934e9bb67f2365b793b214ad2a869a82996d&width=1200&height=1200&smart=true",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTECP-7nxYiw3mDLMi1mmGKkC7sfJLoXsF-G18QhkJxEitvaO_E",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Funcionário de TV infectado por Ebola na Libéria chega aos ...",
+        "link": "https://www.estadao.com.br/saude/funcionario-de-tv-infectado-por-ebola-na-liberia-chega-aos-eua/",
+        "source": "Estadão",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwAF9YAJNcAK9gAL9gAL9j___8ALtgAL9gAL9gAB9W7xvTj6fzS2vh5juny9f5ac-QiSd09XOCNnuyntfEOPtwjLoSIAAAACnRSTlMA____nv__9bYydNgHPgAAAa1JREFUOI1tU1li6zAINFARR_vm-1_1AbLauK_6SCwYzYwEHMdxvM-X-2O9zvdh6-szSiQ_SPfu67889ooOZv1AvB_5yrlC5YE78j7OB2DwzIEz7D2dx8MfYWHugQWAAB5Gex0P49RSLDHxhZhDkm9wTwAy58TMrguTroseALokluKYje9VDYBAW4GnC8X7uAGoEpBnX9eizhN8hm7JJGJOGCAolZhG8E2OjliDAZoINTpMV75C4ZKShzY3ffbFAGroPsOlg08cp22D7109yNWiL_vYUMJS9TOCVs48hMyP1cMCqPFDrYfxBLTyAPgSfzOYn-ERFXBlTqbJ-3miXEQ408zZTI55OYtHXpcJo_AMKYRkD6UvDSoqOh76CJGLbJuXevNdTVCJkTiAdAT0LKpSaEcuLgBpvvrKCaxtEbUm1h03gIQfqMVyt7MEGmkHhy0xp5ewz8nvxlGCqwy8AaFqvcmHbHU3cX3Bi5w1LaRGPwk1ZW5QavWytge-T15Mi3Fpyea0wcGsZPbvaM1PxT04NnoY1yzhPXNXnAvwPZxwH9gjBx_5P8dfidb4_wM2txwIYj4d2AAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTECP-7nxYiw3mDLMi1mmGKkC7sfJLoXsF-G18QhkJxEitvaO_E",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://www.estadao.com.br/resizer/v2/CJ3ZGSOZGNM43GYFZ4W2B6HM2I.jpg?quality=80&auth=0a1c7e17e8e6cac3921577dbe6e5934e9bb67f2365b793b214ad2a869a82996d&width=1200&height=1200&smart=true",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Funcionário de TV infectado por Ebola na Libéria chega aos EUA\n\nUm funcionário norte-americano que contraiu o vírus na Libéria enquanto trabalhava para a rede NBC chegou nesta segunda-feira, 6, a Omaha, em Nebraska, onde será tratado pelo mesmo centro médico que acolheu recentemente outro infectado pela doença.\n\nO avião que trouxe Ashoka Mukpo, de 33 anos, da Libéria aos Estados Unidos, aterrissou na madrugada desta segunda e era aguardado por uma ambulância, que levou o paciente até o Centro Médico Nebraska, em Omaha.\n\nMukpo trabalhava como colaborador para a rede de televisão NBC em Monróvia, cidade da Libéria, e foi diagnosticado com o Ebola na semana passada em um centro de atendimento do Médico Sem Fronteiras, no país.\n\nRick Sacra, médico que contraiu o vírus também enquanto trabalhava na Libéria e foi repatriado aos Estados Unidos no início de setembro, também foi tratado pelo Centro Médico de Nebraska.\n\nDurante sua estada em Omaha, Sacra recebeu medicamento experimental chamado TKM-Ebola, além de uma transfusão de sangue de Kent Brantly, o primeiro paciente tratado com Ebola nos Estados Unidos e que já se recuperou do vírus.\n\nNo último sábado, Sacra deu entrada em um hospital de Boston por infecção respiratória, situação pela qual se permite descartar, nesse momento, que ele tenha sofrido uma recaída.\n\nVigilância. As autoridades sanitárias dos Estados Unidos mantém sob vigilância dez pessoas que tiveram contato com o primeiro caso confirmado de Ebola em território americano, um homem natural da Libéria, que está hospitalizado em estado grave em um hospital de Dallas, no Texas.\n\nDiante do alerta gerado pela chegada do vírus aos Estados Unidos, a Casa Branca organizou na última sexta-feira uma entrevista coletiva, considerada de alto nível, para transmitir a mensagem de que o país conta com infraestrutura sanitária necessária para \"deter\" o avanço da enfermidade.\n\nDe qualquer forma, o governo não avalia, no momento, impedir a entrada no país de viajantes procedentes de nações da África Ocidental mais afetadas pelo Ebola.",
+        "metadata": {
+          "title": "Funcionário de TV infectado por Ebola na Libéria chega aos EUA - Estadão",
+          "description": "Avião que trouxe Ashoka Mukpo, de 33 anos, da Libéria aos EUA, aterrissou na madrugada desta 2ª e era aguardado por ambulância",
+          "fb:app_id": "127970263920039",
+          "og:title": "Funcionário de TV infectado por Ebola na Libéria chega aos EUA",
+          "og:type": "website",
+          "og:url": "https://www.estadao.com.br/saude/funcionario-de-tv-infectado-por-ebola-na-liberia-chega-aos-eua/",
+          "og:image": "https://www.estadao.com.br/resizer/v2/CJ3ZGSOZGNM43GYFZ4W2B6HM2I.jpg?quality=80&auth=0a1c7e17e8e6cac3921577dbe6e5934e9bb67f2365b793b214ad2a869a82996d&width=1200&height=630&smart=true",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:site_name": "Estadão",
+          "og:description": "Avião que trouxe Ashoka Mukpo, de 33 anos, da Libéria aos EUA, aterrissou na madrugada desta 2ª e era aguardado por ambulância",
+          "twitter:title": "Funcionário de TV infectado por Ebola na Libéria chega aos EUA",
+          "twitter:description": "Avião que trouxe Ashoka Mukpo, de 33 anos, da Libéria aos EUA, aterrissou na madrugada desta 2ª e era aguardado por ambulância",
+          "article:content_tier": "metered",
+          "article:opinion": "false"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "url": "https://www.estadao.com.br/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "name": "Jornal O Estado de São Paulo",
+            "alternateName": "Estadão",
+            "target": "https://www.estadao.com.br/busca/?token={\"query\": search_term_string}",
+            "query-input": "required name=search_term_string"
+          },
+          "isAccessibleForFree": "True",
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "Estadão",
+            "productID": "estadao.com.br:dig_basic"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un employé de télévision américain infecté par le virus Ebola en Libéria alors qu'il travaillait pour la chaîne NBC est arrivé à Omaha dans le Nebraska pour être soigné au Centre Médical Nebraska. Ashoka Mukpo, âgé de 33 ans, avait été diagnostiqué dans un centre de Médecins Sans Frontières à Monrovia. Le médecin Rick Sacra, également contaminé en Libéria et soigné précédemment dans le même centre, a reçu des traitements expérimentaux incluant le TKM-Ebola et une transfusion de Kent Brantly. Par ailleurs, les autorités sanitaires surveillent des personnes en lien avec un premier cas confirmé d'Ebola à Dallas au Texas, concernant un homme originaire de Libéria.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ashoka Mukpo",
+          "Rick Sacra",
+          "Kent Brantly",
+          "Thomas Eric Duncan"
+        ],
+        "LOCATION": [
+          "Liberia",
+          "United States",
+          "Omaha",
+          "Nebraska",
+          "Monrovia",
+          "Boston",
+          "Dallas",
+          "Texas",
+          "West Africa"
+        ],
+        "ORGANIZATION": [
+          "Estadão",
+          "NBC",
+          "Medicos Sans Frontières",
+          "Centro Médico Nebraska",
+          "White House"
+        ],
+        "DATE": [
+          "Monday",
+          "September",
+          "last Saturday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Ebola",
+          "TKM-Ebola"
+        ]
+      },
+      "score_e5": 0.7202042470922292
+    },
+    {
+      "titre": "Level I Trauma Care - 24/7 - CHI Health - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=4zURk_Vxh6E",
+      "image_url": "https://i.ytimg.com/vi/4zURk_Vxh6E/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHgb4k9PbGxlyOLq2jQWB3uy5fQEJXR00Qv4-C-b4TJtyb84P5",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Level I Trauma Care - 24/7 - CHI Health - YouTube",
+        "link": "https://www.youtube.com/watch?v=4zURk_Vxh6E",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHgb4k9PbGxlyOLq2jQWB3uy5fQEJXR00Qv4-C-b4TJtyb84P5",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/4zURk_Vxh6E/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "Level I Trauma Care - 24/7 - CHI Health\n\nCHI Health\n\nhttp://www.chihealth.com/traumaAs a Level I trauma center, CHI Health Creighton University Medical Center (CUMC) provides the highest level of trauma, surgic...",
+        "metadata": {
+          "title": "Level I Trauma Care - 24/7 - CHI Health",
+          "description": "http://www.chihealth.com/traumaAs a Level I trauma center, CHI Health Creighton University Medical Center (CUMC) provides the highest level of trauma, surgic...",
+          "keywords": "Major Trauma (Disease Or Medical Condition)",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=4zURk_Vxh6E",
+          "og:title": "Level I Trauma Care - 24/7 - CHI Health",
+          "og:image": "https://i.ytimg.com/vi/4zURk_Vxh6E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEkgSShZMA8=&rs=AOn4CLDIHVtEbVDQVi3b8LCAxGdJZLea2g",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "http://www.chihealth.com/traumaAs a Level I trauma center, CHI Health Creighton University Medical Center (CUMC) provides the highest level of trauma, surgic...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=4zURk_Vxh6E&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=4zURk_Vxh6E&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=4zURk_Vxh6E&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/4zURk_Vxh6E",
+          "og:video:secure_url": "https://www.youtube.com/embed/4zURk_Vxh6E",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "Major Trauma (Disease Or Medical Condition)",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Level I Trauma Care - 24/7 - CHI Health",
+          "twitter:description": "http://www.chihealth.com/traumaAs a Level I trauma center, CHI Health Creighton University Medical Center (CUMC) provides the highest level of trauma, surgic..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "CHI Health Creighton University Medical Center (CUMC) fournit des soins de traumatologie de niveau I 24h/24 et 7j/7.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "CHI Health",
+          "CHI Health Creighton University Medical Center"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Level I Trauma Care"
+        ]
+      },
+      "score_e5": 0.7418193903347348
+    },
+    {
+      "titre": "Ebola patient arrives in US, man in Dallas is still 'critical'",
+      "source": "Times of Malta",
+      "lien": "https://timesofmalta.com/article/Ebola-patient-arrives-in-US-man-in-Dallas-is-still-critical-.538790",
+      "image_url": "https://cdn-attachments.timesofmalta.com/world_03_temp-1412661143-54337f97-360x251.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZuIWBoMqgfy1Gmni_ECFava7hZ-kzXrcFKK31UBWUH9Hu_hM",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Ebola patient arrives in US, man in Dallas is still 'critical'",
+        "link": "https://timesofmalta.com/article/Ebola-patient-arrives-in-US-man-in-Dallas-is-still-critical-.538790",
+        "source": "Times of Malta",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRKQIakJqXNrzwhh7jX8_6Sk8TWXqXkWiLQXZuIadqJHYKSR4jatSLtc9_71aHuV9pwmNqC_jWgi9Z0sf977to6NZ5Jxlo6oHLZJ9lQAR5SKU6Wf42s",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZuIWBoMqgfy1Gmni_ECFava7hZ-kzXrcFKK31UBWUH9Hu_hM",
+        "thumbnail_width": 187,
+        "thumbnail_height": 269,
+        "image": "https://cdn-attachments.timesofmalta.com/world_03_temp-1412661143-54337f97-360x251.jpg",
+        "image_width": 251,
+        "image_height": 360
+      },
+      "webpage": null,
+      "texte_contexte": "Un patient atteint d'Ebola arrive aux États-Unis tandis qu'un homme à Dallas reste dans un état critique.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "United States",
+          "Dallas"
+        ],
+        "ORGANIZATION": [
+          "Times of Malta"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Ebola"
+        ]
+      },
+      "score_e5": 0.7126095680890826
+    },
+    {
+      "titre": "U.S. and Airlines Consider New Screenings for Ebola, No ...",
+      "source": "Newsweek",
+      "lien": "https://www.newsweek.com/us-and-airlines-consider-new-screenings-ebola-no-travel-ban-275768",
+      "image_url": "https://assets.newsweek.com/wp-content/uploads/2025/08/275766-rtr495j2.jpg?w=1600&quality=80&webp=1",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9NKrP2gHvaXH3c5ZXECOamIpujj1s-eeXSIZ2k0WXNkmN-vR3",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "U.S. and Airlines Consider New Screenings for Ebola, No ...",
+        "link": "https://www.newsweek.com/us-and-airlines-consider-new-screenings-ebola-no-travel-ban-275768",
+        "source": "Newsweek",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTL3zocgowwlqREzSUlrRnJDAiBLqRa7IRyGJKbQWRubik5gizFVgWVmngk0LMNzVXXOMre7nmZu8VIW1fqG6uflFSOeVbJy9jqZ4rAl8ASGNAnrhIe",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9NKrP2gHvaXH3c5ZXECOamIpujj1s-eeXSIZ2k0WXNkmN-vR3",
+        "thumbnail_width": 178,
+        "thumbnail_height": 283,
+        "image": "https://assets.newsweek.com/wp-content/uploads/2025/08/275766-rtr495j2.jpg?w=1600&quality=80&webp=1",
+        "image_width": 1005,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "U.S. and Airlines Consider New Screenings for Ebola, No Travel Ban\n\nWASHINGTON/DALLAS (Reuters) - Federal officials and airlines are discussing whether U.S. airports should screen passengers to identify people who might have Ebola, but the White House on Monday said a ban on travel from West African countries would slow the fight against the deadly virus.\n\n\"What we're looking to do is review these screening measures,\" White House spokesman Josh Earnest told reporters at a daily briefing. But officials did not want to impede transport systems used to send supplies and personnel to the hardest-hit countries in West Africa, Earnest said.\n\nThe Airlines for America trade group separately said it would meet health and safety officials on Monday to discuss whether additional screening procedures anywhere in the world might help improve on those already in place.\n\nPeople leaving Ebola-affected countries are asked to fill out a questionnaire on whether they have symptoms such as a high fever and whether or not they have had any contact with someone who was diagnosed with Ebola. In Liberia, at least, they also are scanned for fever.\n\nAuthorities in the United States and the public are on alert following the first diagnosis of Ebola in the country just over a week ago, raising concerns that the worst epidemic of the disease on record could spread from West Africa.\n\nLiberian traveler Thomas Eric Duncan - who flew to the United States via Brussels and Washington from Liberia after helping a woman who later died of Ebola - is fighting for his life in a Dallas hospital. The Texas Health Presbyterian Hospital initially sent him away with antibiotics, only to have him return two days later in an ambulance.\n\nHealth officials said none of the 10 people who were being monitored after having had direct contact with Duncan are so far showing signs of Ebola symptoms. Ebola, which can cause fever, vomiting and diarrhea, spreads through contact with bodily fluids such as blood or saliva.\n\n\"The concern right now is that the stress of this and the fear of this could be more damaging to this community than the virus itself,\" Dr. David Lakey, commissioner of the Texas Department of State Health Services, told reporters.\n\nThe hospital said Monday that Duncan remained in critical condition \"and is now receiving an investigational medication, brincidofovir, for Ebola Virus Disease.\"\n\nBrincidofovir was developed by Chimerix Inc, which said it has been tested in more than 1,000 patients without raising safety concerns. \"Chimerix has brincidofovir tablets available for immediate use in clinical trials,\" the company said in a statement.\n\nAuthorities say they are confident the disease can be contained in the United States, while steps are being taken to ramp up the response to Ebola at its source in West Africa.\n\nConcern about the virus is also high in Europe, where the first case of Ebola being contracted outside of West Africa was reported on Monday. Spanish health officials said a Spanish nurse who treated a priest repatriated to Madrid with Ebola last month, and who died of the disease, had also been infected.\n\nPASSENGER CHECKS\n\nSeveral health experts and lawmakers have asked the administration to consider enhancing U.S. airport and customs screenings, including checking travelers using handheld fever scanners.\n\nTexas Governor Rick Perry, announcing the formation of a state task force on infectious diseases Monday, said that there were \"mistakes\" with handling the Ebola diagnosis in Dallas, but defended the state's overall public health management.\n\n\"I stand by the fact that the process is working,\" Perry said. \"We don't have an outbreak. We have one event that is being handled properly.\"\n\nPerry also called for enhanced screening procedures by Customs and Border Patrol agents, including \"obtaining more information about people who are coming from affected areas and taking appropriate steps upon arrival.\"\n\nThe death toll from the disease is rising in three impoverished West African countries, Liberia, Sierra Leone and Guinea. The current Ebola outbreak has killed at least 3,439 people since it began in March, out of nearly 7,500 confirmed, probable and suspected cases. In addition to those three countries, the tally includes Nigeria and Senegal, where Ebola is believed to have been contained, and one case in the United States.\n\nMeanwhile, the fifth American to contract Ebola in West Africa arrived in the United States for treatment on Monday. A private plane carrying Ashoka Mukpo, 33, a freelance cameraman for NBC News, landed in Omaha from Liberia and was taken to the Nebraska Medical Center.",
+        "metadata": {
+          "title": "U.S. and Airlines Consider New Screenings for Ebola, No Travel Ban - Newsweek",
+          "fb:pages": "18343191100",
+          "article:publisher": "https://www.facebook.com/Newsweek",
+          "description": "The White House on Monday said a ban on travel from West African countries would slow the fight against the deadly virus.",
+          "fb:app_id": "245537789135954",
+          "og:title": "U.S. and Airlines Consider New Screenings for Ebola, No Travel Ban",
+          "og:description": "The White House on Monday said a ban on travel from West African countries would slow the fight against the deadly virus.",
+          "og:url": "https://www.newsweek.com/us-and-airlines-consider-new-screenings-ebola-no-travel-ban-275768",
+          "og:site_name": "Newsweek",
+          "og:image": "https://assets.newsweek.com/wp-content/uploads/2025/08/275766-rtr495j2.jpg?w=1200&crop=1",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "RTR495J2",
+          "og:type": "article",
+          "twitter:title": "U.S. and Airlines Consider New Screenings for Ebola, No Travel Ban",
+          "twitter:description": "The White House on Monday said a ban on travel from West African countries would slow the fight against the deadly virus."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les fonctionnaires fédéraux américains et les compagnies aériennes discutent de la mise en place de nouveaux contrôles dans les aéroports pour identifier les passagers potentiellement atteints d'Ebola, tandis que la Maison Blanche écarte l'interdiction de voyage depuis l'Afrique de l'Ouest. Le voyageur libérien Thomas Eric Duncan est traité dans un hôpital de Dallas avec un médicament expérimental, le brincidofovir, développé par Chimerix Inc.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Josh Earnest",
+          "Thomas Eric Duncan",
+          "David Lakey"
+        ],
+        "LOCATION": [
+          "Washington",
+          "Dallas",
+          "West Africa",
+          "Liberia",
+          "Brussels",
+          "United States",
+          "Europe",
+          "Spain"
+        ],
+        "ORGANIZATION": [
+          "Newsweek",
+          "Reuters",
+          "White House",
+          "Airlines for America",
+          "Texas Health Presbyterian Hospital",
+          "Texas Department of State Health Services",
+          "Chimerix Inc"
+        ],
+        "DATE": [
+          "Monday",
+          "a week ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Ebola",
+          "brincidofovir",
+          "Ebola Virus Disease"
+        ]
+      },
+      "score_e5": 0.7116750015135944
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "NoMa Metro station"
+    ],
+    "ORGANIZATION": [
+      "Metro"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Metro mobile command center truck"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Ashoka Mukpo",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Lakey",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Josh Earnest",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kent Brantly",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rick Sacra",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Thomas Eric Duncan",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Boston",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brussels",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dallas",
+      "rangs": [
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Liberia",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Monrovia",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nebraska",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Omaha",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Spain",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Texas",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Africa",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Airlines for America",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CHI Health",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CHI Health Creighton University Medical Center",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Centro Médico Nebraska",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Chimerix Inc",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Estadão",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Medicos Sans Frontières",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Newsweek",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Texas Department of State Health Services",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Texas Health Presbyterian Hospital",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Times of Malta",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "White House",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "a week ago",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last Saturday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Ebola epidemic",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ebola",
+      "rangs": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ebola Virus Disease",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Level I Trauma Care",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "TKM-Ebola",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "brincidofovir",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T19:29:04.908553"
+  }
+}

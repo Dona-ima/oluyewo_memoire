@@ -1,0 +1,474 @@
+{
+  "id_rumeur": "455920",
+  "id_image": "867688",
+  "caption": "The Go Between Bridge on the Brisbane River",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122847/867688.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "New Yorkers' new domain: 'nyc' gets initial OK | South China Morning Post",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/lifestyle/technology/article/1274530/new-yorkers-new-domain-nyc-gets-initial-ok",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/2013/07/03/bloomberg_climate_change_nysw109_36327935.jpg?itok=psmWQS8A",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6YJfg7idk26kmmJMaI_1xDHuVPNxRPWuEGThMnInuf60nwH8h",
+      "rang_lens": 1,
+      "brut": {
+        "title": "New Yorkers' new domain: 'nyc' gets initial OK | South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://www.scmp.com/lifestyle/technology/article/1274530/new-yorkers-new-domain-nyc-gets-initial-ok",
+        "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/2013/07/03/bloomberg_climate_change_nysw109_36327935.jpg?itok=psmWQS8A",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6YJfg7idk26kmmJMaI_1xDHuVPNxRPWuEGThMnInuf60nwH8h"
+      },
+      "webpage": {
+        "text": "New Yorkers' new domain: 'nyc' gets initial OK\n\nNew York City likes to think of itself as a domain like no other, and now it’s close to being able to boast as much on the web.\n\nThe city has gotten a key approval for a “.nyc” suffix online, Mayor Michael Bloomberg and City Council Speaker Christine Quinn announced Tuesday. That would mean web addresses could end in “.nyc” instead of such common suffixes as “.com” or “.org.”\n\n“Having our own unique, top-level domain — .nyc — puts New York City at the forefront of the digital landscape and creates new opportunities for our small businesses,” Bloomberg said in a statement.\n\nThe city’s new virtual realm is one of hundreds of new suffixes worldwide that have passed what are called “initial evaluations” by the agency in charge of online addresses, the Internet Corporation of Assigned Names and Numbers. The list includes Istanbul, London and Paris, among other cities.\n\nWhile some further approvals are needed, New York officials envision the new “.nyc” addresses becoming available late this year to city residents and entities with offices here. Fees haven’t yet been determined.\n\nThe city has striven to cultivate technology companies during Bloomberg’s administration while City Councilwoman Gale Brewer and Quinn championed the idea of a “.nyc” domain several years ago.",
+        "metadata": {
+          "description": "New York City likes to think of itself as a domain like no other, and now it’s close to being able to boast as much on the web.",
+          "fb:app_id": "282931841805811",
+          "og:title": "New Yorkers' new domain: 'nyc' gets initial OK",
+          "og:description": "New York City likes to think of itself as a domain like no other, and now it’s close to being able to boast as much on the web.",
+          "og:url": "https://www.scmp.com/lifestyle/technology/article/1274530/new-yorkers-new-domain-nyc-gets-initial-ok",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/2013/07/03/bloomberg_climate_change_nysw109_36327935.jpg?itok=sV6pxFDX",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "news_keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "article:section": "World",
+          "article:tag": "Internet",
+          "article:published_time": "2013-07-03T12:27:58+08:00",
+          "article:modified_time": "2013-07-03T12:27:58+08:00",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/2013/07/03/bloomberg_climate_change_nysw109_36327935.jpg?itok=5c6V-ndU",
+          "al:ios:url": "scmp://lifestyle/technology/article/1274530/new-yorkers-new-domain-nyc-gets-initial-ok?entity=node&type=article&id=1274530",
+          "al:android:url": "scmp://lifestyle/technology/article/1274530/new-yorkers-new-domain-nyc-gets-initial-ok?entity=node&type=article&id=1274530"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le maire Michael Bloomberg et la présidente du conseil municipal Christine Quinn ont annoncé qu'un domaine de premier niveau personnalisé, le suffixe '.nyc', avait reçu une approbation initiale de l'Internet Corporation of Assigned Names and Numbers, permettant aux adresses Web à New York de se terminer par '.nyc' au lieu de '.com' ou '.org'.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Bloomberg",
+          "Christine Quinn",
+          "Gale Brewer"
+        ],
+        "LOCATION": [
+          "New York City",
+          "Istanbul",
+          "London",
+          "Paris"
+        ],
+        "ORGANIZATION": [
+          "South China Morning Post",
+          "City Council",
+          "Internet Corporation of Assigned Names and Numbers"
+        ],
+        "DATE": [
+          "Tuesday",
+          "late this year"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          ".nyc",
+          ".com",
+          ".org"
+        ]
+      },
+      "score_e5": 0.6921161347891377
+    },
+    {
+      "titre": "View of Lower Manhattan from the Manhattan Bridge, August… — PICRYL - Public Domain Media Search Engine",
+      "source": "PICRYL",
+      "lien": "https://picryl.com/media/view-of-lower-manhattan-from-the-manhattan-bridge-august-2012",
+      "image_url": "https://cdn4.picryl.com/photo/2012/01/01/view-of-lower-manhattan-from-the-manhattan-bridge-august-2012-1024.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNCVYtK9IXIAPxmHJgPzvZk6NbVV8ECGt9xNHoJc1X9XuZ-ApW",
+      "rang_lens": 2,
+      "brut": {
+        "title": "View of Lower Manhattan from the Manhattan Bridge, August… — PICRYL - Public Domain Media Search Engine",
+        "source": "PICRYL",
+        "link": "https://picryl.com/media/view-of-lower-manhattan-from-the-manhattan-bridge-august-2012",
+        "imageUrl": "https://cdn4.picryl.com/photo/2012/01/01/view-of-lower-manhattan-from-the-manhattan-bridge-august-2012-1024.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNCVYtK9IXIAPxmHJgPzvZk6NbVV8ECGt9xNHoJc1X9XuZ-ApW"
+      },
+      "webpage": {
+        "text": "View of Lower Manhattan from the Manhattan Bridge, August… — PICRYL\n\nSimilar\n\n\nRelated\n\n\nView of Lower Manhattan from the Manhattan Bridge, August 2012\n\nShare to FacebookShare to TwitterShare to TelegramShare to PinterestShare to TumblrShare to GmailShare to Copy Link\n\nShare to FacebookShare to TwitterShare to TelegramShare to PinterestShare to TumblrShare to GmailShare to Copy Link\n\ndescription\n\nSummary\n\nSeptember 11 terrorist attacks, 9/11, documentary photographs.\n\nPublic domain photograph of the city, skyscraper buildings, cityscape, downtown, urban environment, free to use, no copyright restrictions image - Picryl description\n\n\n911 - Library of Congress\n\nOn September 11, 2001, two of the planes were flown into the towers of the World Trade Center in New York City, a third plane hit the Pentagon just outside Washington, D.C., and the fourth plane crashed in a field in Pennsylvania. Often referred to as 9/11, the attacks resulted in extensive death and destruction, triggering major U.S. initiatives to combat terrorism and defining the presidency of George W. Bush. Over 3,000 people were killed during the attacks in New York City and Washington, D.C., including more than 400 police officers and firefighters\n\n\nFree Photo Images and Pictures\n\nPeople keep searching online for one question: \"Where can I find free high-resolution stock images that are cleared to use without any copyright restrictions? Where to find images for blog posts or social media?\" Almost every image created in the last 70 years is still protected by copyright, but you can find a public domain photo, an image that does not need attribution, or image that has copyright expired. First, it helps to understand some copyright-related terms before using any free images. Always read the terms and conditions of the site you try to use to download free images and photos, so you know if, when, and what type of attribution is required. What is Creative Commons? Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools. There are various types of Creative Commons licenses that range from allowing any type of use with no attribution to allowing only certain uses and no changes. Most authors using Creative Commons require some sort of attribution. While relatively easy to use such free images in blogs, using such images for video might be problematic unless you create lengthy credits section. Even if you do, you still may breach the particular image Creative Commons license since it often requires backlinking. What is Public Domain? Works in the public domain are those whose copyrights have expired or never existed. The public domain status of official government works is sometimes difficult to determine but there are some easy cases: works of the United States federal government, for example, are not protected by copyright and are thus in the public domain. The same does not hold in general for the works of other governments or all 50 States of the United States. Determining whether a particular work of a particular government are in the public domain requires research and sometimes even legal advice. What is Royalty-Free? Most royalty-free images aren’t free. In most cases, you’ll have to pay a one-time fee to obtain the rights to use the image. Then you can use it as many times as you like. The term “free” in “royalty-free” means that you do not have to pay royalties to the owner of the image every time you use it. We've reviewed terms of few popular Free Image Websites below. 1. Unsplash Unsplash has its own license, which essentially lets you use the images for free, in any way you like, except for using them to create a competing website. 2. Pexels Pexels also has its own license, which states what you can and cannot do with the images. You can use and modify the images for free for both commercial and personal use without attribution. 3. Pixabay We love Pixabay. Images on Pixabay are licensed under Creative Commons Zero (CC0), which means you can use the images without asking for permission or giving credit to the artist. Pixabay also explains tricky legal language such as \"model release\". 4. Gratisography Gratisography also has its own free photo license, which lets you do “almost anything you can think of”. While they have not too many images, many are high-quality images that I would use. 5. Flickr Flickr is where you can find images that can be used and modified for commercial purposes. Select “Commercial use & mods allowed” under the “Any license” filter to find those images, and remember to check the license for each image as they vary. Be careful with Flickr images since as far as we can see, many images are labeled public domain wrongfully or without much research. 6. Google Image Search Google Advanced Image Search is a method of finding free-to-use images through Google’s own search tools. It is 100% automated, so you can't blindly trust the license cited. Use it with caution. Same as Flickr, Google bears no responsibility. When using free online images, always do your research.\n\n\n * Collection - 911 - Library of Congress\n   \n   September 11, 2001 attacks\n\n\n * Collection - Free Photo Images and Pictures\n   \n   Where to find free photography pictures and images?\n\nlabel_outline\n\nTags\n\nworld trade center new york ny\n\nseptember 11 terrorist attacks\n\nnew york\n\ncityscapes\n\nsuspension bridges\n\nboats\n\nsunrises and sunsets\n\nmanhattan bridge new york ny\n\nmanhattan\n\nlandmark\n\ntime lapse\n\ntwin towers world trade center\n\ndigital photographs\n\nview\n\nbridge\n\nmanhattan bridge\n\n9 11\n\nfree images\n\nfree images no copyright\n\nstock foto\n\nlizenzfreie bilder\n\nkostenlose bilder\n\nfree pics online\n\n911\n\nwebsite pictures\n\nfreeimages\n\ncityscape\n\ncity\n\nnew york city\n\n9 11 photos public domain\n\ncopyright free 9 11 images\n\nlibrary of congress\n\nlower manhattan\n\nskyline\n\nurban\n\narchitecture\n\nbuildings\n\ndate_range\n\nDate\n\n01/01/2012\n\nperson\n\nContributors\n\nVergara, Camilo J., photographer\n\nplace\n\nLocation\n\nBrooklyn Bridge, New York\n\nMarker types\n\n1k\n\nVerified\n\n421\n\nAI\n\n1\n\n54\n\n55\n\n56\n\n62\n\n63\n\n65\n\n67\n\n92\n\n99\n\n129\n\n136\n\n173\n\n255\n\n256\n\n264\n\n272\n\n312\n\n320\n\n483\n\n491\n\n601\n\n720\n\n747\n\n1k\n\n3k\n\n1\n\n4\n\n81\n\n2\n\n24\n\n27\n\n7\n\n106\n\n39\n\n61\n\n4\n\n1k\n\n28\n\n1k\n\n1k\n\n53\n\n153\n\n522\n\n9\n\n906\n\n5\n\n23\n\n2\n\n53\n\n262\n\nLeaflet\n\ncreate\n\nSource\n\nLibrary of Congress\n\nlink\n\nLink\n\nhttp://www.loc.gov/\n\n\nSOURCE LINK, CLEARANCE & RESEARCH\n\nEnterprise users may require rights clearance and indemnification for the media as a legal requirement for producing new work. Get Archive LLC does not require users to purchase permission for use of any of the content, however, upon request, GetArchive can provide rights clearance with levels of indemnification coverage range from $15,000 USD up to $1,000,000 USD.  \n\ncopyright\n\nCopyright info\n\nPublication may be restricted. For information see: \"Camilo Vergara...,\" http://www.loc.gov/rr/print/res/619_verg.html",
+        "metadata": {
+          "title": "View of Lower Manhattan from the Manhattan Bridge, August… — PICRYL - Public Domain Media Search Engine",
+          "description": "September 11 terrorist attacks, 9/11, documentary photographs.",
+          "og:site_name": "PICRYL - Public Domain Media Search Engine",
+          "og:title": "View of Lower Manhattan from the Manhattan Bridge, August 2012",
+          "og:description": "September 11 terrorist attacks, 9/11, documentary photographs.",
+          "og:url": "https://picryl.com/media/view-of-lower-manhattan-from-the-manhattan-bridge-august-2012",
+          "og:locale": "en_US",
+          "og:locale:alternate": "ru_RU",
+          "og:image": "https://cdn4.picryl.com/photo/2012/01/01/view-of-lower-manhattan-from-the-manhattan-bridge-august-2012-1024.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "680",
+          "og:image:alt": "View of Lower Manhattan from the Manhattan Bridge, August 2012 — public domain image",
+          "og:image:type": "image/jpeg",
+          "og:type": "article",
+          "twitter:title": "View of Lower Manhattan from the Manhattan Bridge, August 2012",
+          "twitter:description": "September 11 terrorist attacks, 9/11, documentary photographs.",
+          "dc.title": "View of Lower Manhattan from the Manhattan Bridge, August 2012",
+          "dc.description": "September 11 terrorist attacks, 9/11, documentary photographs."
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Vue du Lower Manhattan depuis le Manhattan Bridge en août 2012. Le texte aborde également les attentats du 11 septembre 2001 où des avions ont frappé les tours du World Trade Center à New York City, le Pentagone près de Washington, D.C., et un champ en Pennsylvanie, faisant plus de 3 000 morts, ainsi que des informations sur le domaine public et Creative Commons.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "George W. Bush"
+        ],
+        "LOCATION": [
+          "Lower Manhattan",
+          "Manhattan Bridge",
+          "New York City",
+          "Washington, D.C.",
+          "Pennsylvania",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Library of Congress",
+          "Creative Commons"
+        ],
+        "DATE": [
+          "August 2012",
+          "September 11, 2001",
+          "the last 70 years"
+        ],
+        "EVENT": [
+          "September 11 terrorist attacks"
+        ],
+        "OTHER": [
+          "World Trade Center",
+          "Pentagon"
+        ]
+      },
+      "score_e5": 0.7181597741472855
+    },
+    {
+      "titre": "Bildagentur | mauritius images | USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge",
+      "source": "Mauritius images",
+      "lien": "https://www.mauritius-images.com/en/asset/ME-PI-3692529_mauritius_images_image_number_07541600_usa-new-york-city-manhattan-brooklyn-cityscape-with-brooklyn-bridge",
+      "image_url": "https://img.mauritius-images.com/WEST/cprev/07541600.jpg/save_as_name/mauritius images - 07541600 - USA, New York City, Manhattan, Brooklyn, cityscape with Brookly.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUAbu4RpveCtaDcB8nGbC-17cVw3bqaRiccfZz5GxODK_2CCsB",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Bildagentur | mauritius images | USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge",
+        "source": "Mauritius images",
+        "link": "https://www.mauritius-images.com/en/asset/ME-PI-3692529_mauritius_images_image_number_07541600_usa-new-york-city-manhattan-brooklyn-cityscape-with-brooklyn-bridge",
+        "imageUrl": "https://img.mauritius-images.com/WEST/cprev/07541600.jpg/save_as_name/mauritius images - 07541600 - USA, New York City, Manhattan, Brooklyn, cityscape with Brookly.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUAbu4RpveCtaDcB8nGbC-17cVw3bqaRiccfZz5GxODK_2CCsB"
+      },
+      "webpage": {
+        "text": "Bildagentur | mauritius images\n\nDescription\n\n\nUSA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge\n\nModel Release Not existing\nProperty Release No permission needed\nFile size\n\n93.6 MB (uncompressed ), 32.7 MP\n\nResolution\n\n7000 x 4672 pixel, 59.27 cm x 39.56 cm @ 300 dpi\n\nKeywords\n\nambiance, atmosphere, big city, body of water, bridge, building, buildings, city, cityscape, city tour, city view, cloud, clouded, cloudy, color photo, colour photo, construction, dawn light, distance, dusk, edifice, edifices, evening, evening light, expanse, heaven, high-rise, high rise, horizon, journey, manhattan, metropolis, mood, new-york-city, new york, new york city, nobody, nyc, outdoors, overcast, overclouded, panoramic view, photography, place of interest, sky, skyscraper, skyscrapers, Statue de la liberté, sunset, temper, tourism, tower block, tower building, townscape, town view, travel, travel destination, twilight, united states of america, urban, urban motif, vastness, view, water, waters\n\nMore Keywords & Keyword-based Similarity Search",
+        "metadata": {
+          "description": "USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge | Bildagentur",
+          "title": "USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge",
+          "og:title": "USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge",
+          "twitter:title": "USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge",
+          "og:description": "USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge",
+          "twitter:description": "USA, New York City, Manhattan, Brooklyn, cityscape with Brooklyn Bridge  | Bildagentur",
+          "author": "mauritius images / Westend61 / Raul Podadera Sanz"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Image de la ville de New York montrant Manhattan, Brooklyn et le pont de Brooklyn (Brooklyn Bridge).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "USA",
+          "New York City",
+          "Manhattan",
+          "Brooklyn",
+          "United States of America"
+        ],
+        "ORGANIZATION": [
+          "Mauritius images"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Brooklyn Bridge",
+          "Statue de la liberté"
+        ]
+      },
+      "score_e5": 0.7766299874207987
+    },
+    {
+      "titre": "The Library of Congress - Camilo José Vergara: 1979, 2001, 2010, 2020 : r/WorldTradeCenter",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/WorldTradeCenter/comments/1fez3lf/the_library_of_congress_camilo_josé_vergara_1979/",
+      "image_url": "https://preview.redd.it/the-library-of-congress-camilo-josé-vergara-1979-2001-2010-v0-1nl816w8tcod1.jpg?width=640&crop=smart&auto=webp&s=17a91cadbf36fca5236aa729f6edf990381e1c1a",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyqepNGg1VRrTosNqe_QZ73u6thWD7QLeVrfhY8vQrFI3MEuJB",
+      "rang_lens": 4,
+      "brut": {
+        "title": "The Library of Congress - Camilo José Vergara: 1979, 2001, 2010, 2020 : r/WorldTradeCenter",
+        "source": "Reddit",
+        "link": "https://www.reddit.com/r/WorldTradeCenter/comments/1fez3lf/the_library_of_congress_camilo_josé_vergara_1979/",
+        "imageUrl": "https://preview.redd.it/the-library-of-congress-camilo-josé-vergara-1979-2001-2010-v0-1nl816w8tcod1.jpg?width=640&crop=smart&auto=webp&s=17a91cadbf36fca5236aa729f6edf990381e1c1a",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyqepNGg1VRrTosNqe_QZ73u6thWD7QLeVrfhY8vQrFI3MEuJB"
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Reddit concernant The Library of Congress - Camilo José Vergara : 1979, 2001, 2010, 2020.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Camilo José Vergara"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "The Library of Congress",
+          "Reddit"
+        ],
+        "DATE": [
+          "1979",
+          "2001",
+          "2010",
+          "2020"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "WorldTradeCenter"
+        ]
+      },
+      "score_e5": 0.724456147411103
+    },
+    {
+      "titre": "The Changing New York City Waterfront - New York City Ferry Service",
+      "source": "NYC Ferry",
+      "lien": "https://www.ferry.nyc/blog/changing-waterfront/",
+      "image_url": "https://images.ferry.nyc/wp-content/uploads/2017/03/13145049/1780985_10152010861454495_358418795_o-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvyhxf421SasS7F26jFtAWyL3EjUIokPxjge6dllj3nb8X459",
+      "rang_lens": 5,
+      "brut": {
+        "title": "The Changing New York City Waterfront - New York City Ferry Service",
+        "source": "NYC Ferry",
+        "link": "https://www.ferry.nyc/blog/changing-waterfront/",
+        "imageUrl": "https://images.ferry.nyc/wp-content/uploads/2017/03/13145049/1780985_10152010861454495_358418795_o-1.jpg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvyhxf421SasS7F26jFtAWyL3EjUIokPxjge6dllj3nb8X459"
+      },
+      "webpage": {
+        "text": "The Changing New York City Waterfront\n\nMarch 10, 2017\n\n\nWith the launch of NYC Ferry the harbor will once again become more active, just as it once was when New Yorkers commuted between Brooklyn and Manhattan by ferry. Come May 17th-19th this year, the Bay Area Council’s Executive Committee Member Chris Rivielle, Chairman Michael Covarrubias, and CEO Jim Wunderman will visit New York City to discuss “similarities between the Bay Area and New York City, focusing on issues around water transit, housing, transportation, regional planning, and economic development” (Bay Area Council).\n\nWith our project of bringing six routes to run over 60 miles connecting the city by the end of 2018, our city will see many economic development opportunities as we revitalize the waterfront and other surrounding areas. For the first time in decades, the ferry system subsidized by the City of New York and the NYCEDC to provide New Yorkers with $2.75 rides, there will again be a robust water transit network on the East River beginning with four routes launching in the summer of 2017.\n\n\nDuring the Bay Area Council’s visit, the delegation will visit NYC Ferry to learn more about the restoration initiatives and economic development opportunities to revitalize the waterfront and surrounding areas. In addition to this, we are looking forward to engage with and support organizations working to restore and protect the waterfront through our All Hands on Deck program, where the NYC Ferry team embarks on team outings to assist organizations such as RISE: Rockaway Institute for Sustainable Environment reach their goals.\n\nThe NYC Ferry team looks forward to inviting the Bay Area Council onboard to experience our new NYC Ferry system!\n\n\nRecent Posts\n\n\nThe Waterfront Just Got A Fit Check\n\nJuly 16, 2026\n\nNYC Outdoor Movie Nights: Catch Free Films Across the Five Boroughs This Summer\n\nJuly 16, 2026\n\nCelebrate City of Water Day 2026 with NYC Ferry\n\nJuly 1, 2026\n\nModified Holiday Schedules on July 3 – 4, America 250 Service Alerts\n\nJune 29, 2026\n\nThe Ultimate Guide to Watching the 2026 World Games in NYC\n\nJune 25, 2026\n\nJuly 4 Weekend Schedules – Modified Holiday Schedules on July 3 – 4\n\nJune 23, 2026\n\nUpcoming Summer 2026 Schedule Changes\n\nJune 23, 2026\n\nThe NYC Neighborhood Passport\n\nJune 12, 2026\n\nNYC Ferry Pet Policy\n\nJune 11, 2026\n\nThe NYC Pride Impact\n\nJune 9, 2026\n\n",
+        "metadata": {
+          "title": "The Changing New York City Waterfront - New York City Ferry Service",
+          "description": "With the launch of NYC Ferry the harbor will once again become more active, but what changes will we see?",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "The Changing New York City Waterfront - New York City Ferry Service",
+          "og:description": "With the launch of NYC Ferry the harbor will once again become more active, but what changes will we see?",
+          "og:url": "/blog/changing-waterfront/",
+          "og:site_name": "New York City Ferry Service",
+          "article:modified_time": "2026-05-18T20:18:13+00:00",
+          "og:image": "https://images.ferry.nyc/wp-content/uploads/2017/03/13145049/1780985_10152010861454495_358418795_o-1.jpg",
+          "og:image:width": "2048",
+          "og:image:height": "1366",
+          "og:image:type": "image/jpeg"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "/blog/changing-waterfront/",
+              "url": "/blog/changing-waterfront/",
+              "name": "The Changing New York City Waterfront - New York City Ferry Service",
+              "isPartOf": {
+                "@id": "/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "/blog/changing-waterfront/#primaryimage"
+              },
+              "image": {
+                "@id": "/blog/changing-waterfront/#primaryimage"
+              },
+              "thumbnailUrl": "https://images.ferry.nyc/wp-content/uploads/2017/03/13145049/1780985_10152010861454495_358418795_o-1.jpg",
+              "datePublished": "2017-03-10T18:13:08+00:00",
+              "dateModified": "2026-05-18T20:18:13+00:00",
+              "description": "With the launch of NYC Ferry the harbor will once again become more active, but what changes will we see?",
+              "breadcrumb": {
+                "@id": "/blog/changing-waterfront/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "/blog/changing-waterfront/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "/blog/changing-waterfront/#primaryimage",
+              "url": "https://images.ferry.nyc/wp-content/uploads/2017/03/13145049/1780985_10152010861454495_358418795_o-1.jpg",
+              "contentUrl": "https://images.ferry.nyc/wp-content/uploads/2017/03/13145049/1780985_10152010861454495_358418795_o-1.jpg",
+              "width": 2048,
+              "height": 1366
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "/blog/changing-waterfront/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "The Changing New York City Waterfront"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "/#website",
+              "url": "/",
+              "name": "New York City Ferry Service",
+              "description": "Operated by City Experiences",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Avec le lancement de NYC Ferry, le port de New York redevient actif avec des liaisons entre Brooklyn et Manhattan. Une délégation du Bay Area Council (comprenant Chris Rivielle, Michael Covarrubias et Jim Wunderman) visite New York City pour examiner les similitudes avec la Baie de San Francisco concernant le transport par eau, le logement et le développement économique. Le réseau de ferry subventionné par la ville de New York et NYCEDC propose des trajets à 2,75 dollars et s'associe à des organisations comme RISE : Rockaway Institute for Sustainable Environment.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Chris Rivielle",
+          "Michael Covarrubias",
+          "Jim Wunderman"
+        ],
+        "LOCATION": [
+          "New York City",
+          "Brooklyn",
+          "Manhattan",
+          "Bay Area"
+        ],
+        "ORGANIZATION": [
+          "NYC Ferry",
+          "Bay Area Council",
+          "City of New York",
+          "NYCEDC",
+          "RISE: Rockaway Institute for Sustainable Environment"
+        ],
+        "DATE": [
+          "March 10, 2017",
+          "May 17th-19th this year",
+          "end of 2018",
+          "summer of 2017",
+          "July 16, 2026",
+          "July 1, 2026",
+          "July 3 – 4",
+          "June 29, 2026",
+          "June 25, 2026",
+          "June 23, 2026",
+          "June 12, 2026",
+          "June 11, 2026",
+          "June 9, 2026"
+        ],
+        "EVENT": [
+          "City of Water Day 2026",
+          "World Games in NYC",
+          "NYC Pride Impact"
+        ],
+        "OTHER": [
+          "East River",
+          "America 250"
+        ]
+      },
+      "score_e5": 0.7441636740647759
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Brisbane River"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Go Between Bridge"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "New York City",
+      "United States",
+      "Manhattan",
+      "Brooklyn"
+    ],
+    "ORGANIZATION": [
+      "Library of Congress"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "World Trade Center"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7766299874207987,
+  "S_ent": 0.0,
+  "S_OOC": 0.38831499371039935,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "OTHER"
+  ]
+}

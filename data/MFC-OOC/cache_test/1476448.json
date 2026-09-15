@@ -1,0 +1,427 @@
+{
+  "id_rumeur": "789525",
+  "id_image": "1476448",
+  "caption": "Soldiers stand outside Fraise Chapel at Kandahar airfield",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122775/1476448.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "How the Uighurs keep their culture alive in Pakistan - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-asia-33775646",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/162B9/production/_84690809_chinapakistan.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvMg8lpEmdCTE_HwJt1nLfFZISNcBtDHaR-ikp1byOmNfq6cpq",
+      "rang_lens": 1,
+      "brut": {
+        "title": "How the Uighurs keep their culture alive in Pakistan - BBC News",
+        "source": "BBC",
+        "link": "https://www.bbc.com/news/world-asia-33775646",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/162B9/production/_84690809_chinapakistan.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvMg8lpEmdCTE_HwJt1nLfFZISNcBtDHaR-ikp1byOmNfq6cpq"
+      },
+      "webpage": {
+        "text": "How the Uighurs keep their culture alive in Pakistan\n\nInsa Khan was only a few years old when she left Xinjiang, and has profound memories of the journey she made with her parents in 1949.\n\nIt took them about 50 days to walk through snow-capped mountains with donkeys carrying their luggage.\n\n\"My parents decided to leave Kashgar after Xinjiang officially became part of communist China,\" she said.\n\n\"I was too young to understand politics at that time,\" she added, as she served tea in the traditional Uighur way, with everybody sat on mats in the kitchen.\n\nInsa is now 71 years old and has spent most of her life living in Gilgit, in Pakistan-administered Kashmir in the north.\n\nAs a Muslim, she has religious freedom.\n\nAnd due to strong ties between China and Pakistan, she can also visit relatives in the autonomous Chinese province of Xinjiang.\n\nBut she has never thought of returning home.\n\n\"This place is my home now and my identity,\" said Insa Khan. \"What would I go back to?\"\n\nDespite that certainty, she still feels an outsider in her adopted country.\n\nOver a cup of tea, she tells me that some people have illegally occupied her land.\n\n\"They are Pakistani and I'm an immigrant so I didn't contact the police or file a complaint in the courts,\" she said, keeping her face veiled despite being at home.\n\n\"I'm alone so I can't risk a dispute with anyone here,\" she added.\n\n\"They want to make sure that Pakistani Uighurs can't be used by any militant group against Chinese interests.\"\n\nPakistani Uighurs can avail of generous support from China - Beijing offers to pay for their children's education in Pakistan, and gives selected people free trips to Xinjiang every year.\n\nChina also encourages Pakistani Uighurs to return to Kashgar with the offer of incentives to set up businesses and buy homes.\n\nBut almost nobody wants to go back.\n\n\"Xinjiang is much more developed than Gilgit so when we go there, for a moment we feel that we should return to our roots,\" said Mr Bukhari.\n\n\"But when we reflect, we realise that our ancestors have made the right choice as at least we have religious freedom in Pakistan.\"\n\nBut the religious freedom in Pakistan comes at a price, according to Mr Bukhari, who says the authorities ensure that it does not conflict with the strong strategic ties between Islamabad and Beijing.\n\n\"We hear the news about the crackdown on Uighurs in China but we can't do anything for them. We're helpless,\" said Mr Bukhari.\n\n\"In Pakistan, anyone can raise (their) voice for the Muslims of Palestine, Iraq and Afghanistan but Uighurs can't protest against Chinese atrocities against their brothers as the Pakistani authorities would never let us do that,\" he added.",
+        "metadata": {
+          "description": "Some Uighurs fleeing China have found sanctuary and religious freedom in Pakistan's Gilgit - but worry about the fate of their compatriots back home.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "Some Uighurs fleeing China have found sanctuary and religious freedom in Pakistan's Gilgit - but worry about the fate of their compatriots back home.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9A4E/production/_84820593_insakhanfamily.jpg",
+          "og:image:alt": "Insa Khan with her son and granddaughter",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "How the Uighurs keep their culture alive in Pakistan",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-asia-33775646",
+          "article:section": "Asia",
+          "twitter:description": "Some Uighurs fleeing China have found sanctuary and religious freedom in Pakistan's Gilgit - but worry about the fate of their compatriots back home.",
+          "twitter:title": "How the Uighurs keep their culture alive in Pakistan"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-asia-33775646",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-08-11T23:05:43.000Z",
+          "dateModified": "2015-08-11T23:05:43.000Z",
+          "description": "Some Uighurs fleeing China have found sanctuary and religious freedom in Pakistan's Gilgit - but worry about the fate of their compatriots back home.",
+          "headline": "How the Uighurs keep their culture alive in Pakistan",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9A4E/production/_84820593_insakhanfamily.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9A4E/production/_84820593_insakhanfamily.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-asia-33775646",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Shumaila Jaffrey"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Insa Khan, une femme d'origine ouïghoure arrivée du Xinjiang en 1949, vit à Gilgit au Pakistan-administré par le Cachemire. Elle bénéficie de la liberté religieuse et de liens entre la Chine et le Pakistan, mais ne souhaite pas retourner dans le Xinjiang.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Insa Khan",
+          "Mr Bukhari"
+        ],
+        "LOCATION": [
+          "Pakistan",
+          "Xinjiang",
+          "Kashgar",
+          "Gilgit",
+          "Kashmir",
+          "China",
+          "Palestine",
+          "Iraq",
+          "Afghanistan",
+          "Islamabad",
+          "Beijing"
+        ],
+        "ORGANIZATION": [
+          "BBC News"
+        ],
+        "DATE": [
+          "1949",
+          "71 years old"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Muslim"
+        ]
+      },
+      "score_e5": 0.7075514939220957
+    },
+    {
+      "titre": "No obstacle too big: China builds US$275 million tunnel through Pakistan mountain for new highway to replace the old Silk Road | South China Morning Post",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/news/asia/south-asia/article/1879050/no-obstacle-too-big-china-builds-us275-million-tunnel-through",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/2015/11/15/db8f0f3557e24a0e25069cd43cf076ec.jpg?itok=i-ZLf0Gy",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDKNpjyW7QLK0OpSNbzRXyMt2tvUCdrLbYUkqROz-oCaAa3gfe",
+      "rang_lens": 2,
+      "brut": {
+        "title": "No obstacle too big: China builds US$275 million tunnel through Pakistan mountain for new highway to replace the old Silk Road | South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/1879050/no-obstacle-too-big-china-builds-us275-million-tunnel-through",
+        "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/2015/11/15/db8f0f3557e24a0e25069cd43cf076ec.jpg?itok=i-ZLf0Gy",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDKNpjyW7QLK0OpSNbzRXyMt2tvUCdrLbYUkqROz-oCaAa3gfe"
+      },
+      "webpage": {
+        "text": "No obstacle too big: China builds US$275 million tunnel through Pakistan mountain for new highway to replace the old Silk Road\n\nA glossy highway and hundreds of  trucks transporting Chinese workers by the thousands: The new Silk Road is under construction in northern Pakistan, but locals living on the border are yet to be convinced they will receive more from it than dust.\n\n The town of Sost is gateway to  lucrative customs duties, with its rickety stalls of corrugated iron engraved in  Chinese and Urdu, its cross-border secret agents and its dusty petrol station’s abrupt service. It is the first stop along a new US$46 billion “economic corridor” designed by China in Pakistan.\n\n Drivers from China arrive through the Khunjerab Pass, the world’s highest paved border crossing at 4,600 metres above sea level, and unload their goods encircled by the magnificent Karakoram mountains. \n\nFrom there, Pakistani colleagues pick up the goods and transport them the length of the country - currently to Karachi, some 2,000km away on the Arabian Sea, but in the future to Gwadar, where Beijing has been given management of the port in a grand project allowing China greater access to the Middle East, Africa and Europe.\n\nBut until recently, the highway was cut off just south of Sost, blocked for five years by a landslide that dammed the Hunza river and birthed the 10km-long lake of Attabad.",
+        "metadata": {
+          "description": "Border town sits at gateway of lucrative trade with China, but locals expect to be overlooked",
+          "fb:app_id": "282931841805811",
+          "og:title": "No obstacle too big: China builds US$275 million tunnel through Pakistan mountain for new highway to replace the old Silk Road",
+          "og:description": "Border town sits at gateway of lucrative trade with China, but locals expect to be overlooked",
+          "og:url": "https://www.scmp.com/news/asia/south-asia/article/1879050/no-obstacle-too-big-china-builds-us275-million-tunnel-through",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/2015/11/15/db8f0f3557e24a0e25069cd43cf076ec.jpg?itok=m6dVC57d",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "news_keywords": "South China Morning Post, News, Opinion, China, Hong Kong, World, US, Asia, Business, Economy, Technology, Lifestyle, Sport",
+          "article:section": "South Asia",
+          "article:published_time": "2015-11-15T20:45:00+08:00",
+          "article:modified_time": "2015-11-15T21:42:07+08:00",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/2015/11/15/db8f0f3557e24a0e25069cd43cf076ec.jpg?itok=t725lNvD",
+          "al:ios:url": "scmp://news/asia/south-asia/article/1879050/no-obstacle-too-big-china-builds-us275-million-tunnel-through?entity=node&type=article&id=1879050",
+          "al:android:url": "scmp://news/asia/south-asia/article/1879050/no-obstacle-too-big-china-builds-us275-million-tunnel-through?entity=node&type=article&id=1879050"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Construction d'une nouvelle route de la Soie et d'un tunnel de 275 millions de dollars à travers la montagne au nord du Pakistan par la Chine. La ville de Sost sert de première étape avec un poste frontière au col de Khunjerab à 4 600 mètres d'altitude, traversant les montagnes du Karakoram jusqu'au port de Gwadar.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Pakistan",
+          "China",
+          "Sost",
+          "Khunjerab Pass",
+          "Karakoram mountains",
+          "Karachi",
+          "Arabian Sea",
+          "Gwadar",
+          "Middle East",
+          "Africa",
+          "Europe",
+          "Hunza river",
+          "Attabad"
+        ],
+        "ORGANIZATION": [
+          "South China Morning Post"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "new Silk Road construction"
+        ],
+        "OTHER": [
+          "Silk Road"
+        ]
+      },
+      "score_e5": 0.7337227880325364
+    },
+    {
+      "titre": "The Karakoram Highway – often called “Eighth wonder of the World” – Explore Pakistan by Hassan",
+      "source": "WordPress.com",
+      "lien": "https://explorepakistanbyhassan.wordpress.com/2018/04/15/the-karakoram-highway-often-called-eighth-wonder-of-the-world/",
+      "image_url": "https://explorepakistanbyhassan.wordpress.com/wp-content/uploads/2018/04/1192636-img-1475573241.jpg?w=627&h=470",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJRmIY2GndncKMXw_EmTwaaqU5iLpkd07FG0eiu3D9mJ4Abp22",
+      "rang_lens": 3,
+      "brut": {
+        "title": "The Karakoram Highway – often called “Eighth wonder of the World” – Explore Pakistan by Hassan",
+        "source": "WordPress.com",
+        "link": "https://explorepakistanbyhassan.wordpress.com/2018/04/15/the-karakoram-highway-often-called-eighth-wonder-of-the-world/",
+        "imageUrl": "https://explorepakistanbyhassan.wordpress.com/wp-content/uploads/2018/04/1192636-img-1475573241.jpg?w=627&h=470",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJRmIY2GndncKMXw_EmTwaaqU5iLpkd07FG0eiu3D9mJ4Abp22"
+      },
+      "webpage": {
+        "text": "The Karakoram Highway – often called “Eighth wonder of the World” – Explore Pakistan by Hassan\n\nPhoto by Tawab Hamza\n\nThe Karakoram Highway (known informally as the KKH) is said to be the highest paved international road in the world. It’s the road to paradise – if you like exploring the mountains. Tracing one of the many pathways of the ancient Silk Road, the KKH is often called the ‘Eighth Wonder of the World’ due to its high elevation and the difficult conditions in which it was constructed. It took 20 years to complete. The highway runs about 1,300km (800 miles) from Abbattabad in Pakistan to Kashgar in China, connecting the two neighbors across the Karakorum mountain ranges and includes the highest border crossing in the world: Khunjerab Pass at a height of 4,714 meters (15,466 feet) above sea level.\n\nThe highest paved international road on the planet doesn’t come without its dangers. The road is one of the scariest jeep trip in the world. 810 Pakistani and 82 Chinese workers lost their lives, mostly in landslides and falls, while building the highway. It’s a real challenging road and a true test of your vehicle and your stamina because the road abounds in twists and turns with wheels sometimes hanging above the cliff. But the incredible views of K2 (second-highest mountain in the world) and various scenic view would make your journey worthwhile.\n\n\nIn recent years the highway has sought to become an adventure tourism destination although Pakistani and international tourists. The KKH was however ranked in 2006 as the “third best” tourist destination in Pakistan by The Guardian. \n\nThe Khunjerab Pass is the highest paved international border crossing in the world and the highest point on the Karakoram Highway.\n\n                Photo by Tawab Hamza\n\nThe Khunjerab Pass (Pakistan-China Border) also hosts World’s highest ATM cash machine in Pakistan. The National Bank of Pakistan installed the cash machine in 2017 and made it to Guinness World Record. It is the only cash machine in the world at a height of approximately 16,000 feet above the sea level.\n\n               Photo by NBP\n\nThe area is developing as a major tourist attraction with millions of visitors from all over the world and increasing numbers rapidly. The KKM is undergoing a reconstruction phase with $11 billion of investment from both countries for the purpose of tourism attraction and trade.\n\nWhat are your thoughts on experiencing the journey of Karakoram Highway? Would you consider this to be your next travel adventure? Let us know in the comments 🙂",
+        "metadata": {
+          "title": "The Karakoram Highway &#8211; often called &#8220;Eighth wonder of the World&#8221; &#8211; Explore Pakistan by Hassan",
+          "og:type": "article",
+          "og:title": "The Karakoram Highway – often called “Eighth wonder of the World”",
+          "og:url": "https://explorepakistanbyhassan.wordpress.com/2018/04/15/the-karakoram-highway-often-called-eighth-wonder-of-the-world/",
+          "og:description": "      Photo by Tawab Hamza The Karakoram Highway (known informally as the KKH) is said to be the highest paved international road in the world. It’s the road to paradise – if you like explori…",
+          "article:published_time": "2018-04-15T18:26:44+00:00",
+          "article:modified_time": "2018-04-26T14:06:31+00:00",
+          "og:site_name": "Explore Pakistan by Hassan",
+          "og:image": "https://explorepakistanbyhassan.wordpress.com/wp-content/uploads/2018/04/kkh-in-gojal-640x384.jpg",
+          "og:image:width": "685",
+          "og:image:height": "411",
+          "og:image:alt": "KKH-in-Gojal-640x384",
+          "og:locale": "en_US",
+          "fb:app_id": "249643311490",
+          "article:publisher": "https://www.facebook.com/WordPresscom",
+          "twitter:text:title": "The Karakoram Highway – often called “Eighth wonder of the World”",
+          "description": "      Photo by Tawab Hamza The Karakoram Highway (known informally as the KKH) is said to be the highest paved international road in the world. It's the road to paradise – if you like exploring the mountains. Tracing one of the many pathways of the ancient Silk Road, the KKH is often called the…"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La route du Karakoram (KKH), souvent appelée la huitième merveille du monde, est la route internationale pavée la plus haute du monde. Elle relie Abbottabad au Pakistan à Kashgar en Chine à travers la chaîne du Karakoram en passant par le col de Khunjerab à 4 714 mètres d'altitude, où se trouve également le plus haut distributeur automatique de billets du monde installé en 2017 par la National Bank of Pakistan.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hassan",
+          "Tawab Hamza"
+        ],
+        "LOCATION": [
+          "Pakistan",
+          "Abbottabad",
+          "Kashgar",
+          "China",
+          "Karakorum",
+          "Khunjerab Pass",
+          "K2"
+        ],
+        "ORGANIZATION": [
+          "WordPress.com",
+          "The Guardian",
+          "National Bank of Pakistan",
+          "NBP"
+        ],
+        "DATE": [
+          "20 years",
+          "2006",
+          "2017"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Silk Road",
+          "Eighth Wonder of the World",
+          "Guinness World Record"
+        ]
+      },
+      "score_e5": 0.7223268914662246
+    },
+    {
+      "titre": "WORLDKINGS - Worldkings News - Asia Records Institute (ASRI) Shanghai New World City: House the world's tallest indoor climbing wall - Worldkings - World Records Union",
+      "source": "Worldkings",
+      "lien": "https://worldkings.org/news/asia-records-institute/worldkings-worldkings-news-asia-records-institute-asri-shanghai-new-world-city-house-the-worlds-tallest-indoor-climbing-wall",
+      "image_url": "https://worldkings.org/userfiles/upload/_thumbs/images/modules/news/2023/12/26/0_Khunjerab-Pass-ss.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLv-EHYM0xf7-prtLQ8mdRVCLlXS08AXbsQJlXylzuFJY7ruU4",
+      "rang_lens": 4,
+      "brut": {
+        "title": "WORLDKINGS - Worldkings News - Asia Records Institute (ASRI) Shanghai New World City: House the world's tallest indoor climbing wall - Worldkings - World Records Union",
+        "source": "Worldkings",
+        "link": "https://worldkings.org/news/asia-records-institute/worldkings-worldkings-news-asia-records-institute-asri-shanghai-new-world-city-house-the-worlds-tallest-indoor-climbing-wall",
+        "imageUrl": "https://worldkings.org/userfiles/upload/_thumbs/images/modules/news/2023/12/26/0_Khunjerab-Pass-ss.jpg",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLv-EHYM0xf7-prtLQ8mdRVCLlXS08AXbsQJlXylzuFJY7ruU4"
+      },
+      "webpage": {
+        "text": "WORLDKINGS - Worldkings News - Asia Records Institute (ASRI) Shanghai New World City: House the world’s tallest indoor climbing wall - Worldkings\n\n(WorldKings.org) Great Mall Climbing Wall of China is a 55-meter climbing wall and is the world’s tallest indoor climbing wall.\n\nNew World City Shopping Mall is a historical and upscale shopping mall that first opened its doors in 1915. It's located right on People's Square, making it a prime location for shopping and sightseeing.\n\n\nIn 2019, the mall underwent a major renovation that added exciting features like a indoor theme park and a 55-meter climbing wall in the central atrium, named the Great Mall Climbing Wall of China.\n\nTowering over the mall's central atrium, this massive wall features diverse routes catering to climbers of all skill levels, from gentle beginner slopes to heart-pounding overhangs and challenging chimneys.\n\nWhether you're a seasoned climber looking for a new challenge or a curious onlooker captivated by the spectacle, the Great Mall Climbing Wall of China is sure to add an unforgettable element to your visit to New World City.\n\nStepping beyond the adrenaline rush of the climbing wall, New World City unveils a tapestry of experiences that cater to every whim. For the shopping connoisseur, a curated selection of international luxury brands. Indulge in guilt-free retail therapy as you weave through designer apparel, exquisite jewelry, and high-end homeware – all under the soft glow of the atrium's skylight.\n\nAccording to the Internet & smartshanghai",
+        "metadata": {
+          "title": "WORLDKINGS - Worldkings News - Asia Records Institute (ASRI) Shanghai New World City: House the world’s tallest indoor climbing wall - Worldkings - World Records Union"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le New World City Shopping Mall à Shanghai abrite le Great Mall Climbing Wall of China, un mur d'escalade intérieur de 55 mètres de haut situé dans l'atrium central. Le centre commercial a ouvert en 1915 et a subi une rénovation majeure en 2019.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Shanghai",
+          "People's Square",
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Worldkings",
+          "Asia Records Institute",
+          "ASRI",
+          "Shanghai New World City",
+          "New World City Shopping Mall",
+          "World Records Union"
+        ],
+        "DATE": [
+          "1915",
+          "2019"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Great Mall Climbing Wall of China"
+        ]
+      },
+      "score_e5": 0.6952570801576783
+    },
+    {
+      "titre": "Assalamualaikum Group Members. I am planning a visit to the Khunjerab Pass on the Pakistan-China border. Could someone advise me on the current conditions? Specifically, I'd appreciate information on the weather and",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/thekarakoramclub2/posts/1133420925152023/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1460140632002540",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbZ2yOzIyQzFD7fqk4vv6x-xxOOMGGIAL70tUZtuGL6c_nBBvA",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Assalamualaikum Group Members. I am planning a visit to the Khunjerab Pass on the Pakistan-China border. Could someone advise me on the current conditions? Specifically, I'd appreciate information on the weather and",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/groups/thekarakoramclub2/posts/1133420925152023/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1460140632002540",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbZ2yOzIyQzFD7fqk4vv6x-xxOOMGGIAL70tUZtuGL6c_nBBvA"
+      },
+      "webpage": {
+        "text": "The Karakoram Club | Assalamualaikum Group Members\n\nAssalamualaikum Group Members. I am planning a visit to the Khunjerab Pass on the Pakistan-China border. Could someone advise me on the current conditions? Specifically, I'd appreciate information... Meer weergeven",
+        "metadata": {
+          "title": "The Karakoram Club | Assalamualaikum Group Members | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTQ4MTY0ODk2ODEwMTY2NDpWSzoxMTMzNDIwOTI1MTUyMDIz",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTQ4MTY0ODk2ODEwMTY2NDpWSzoxMTMzNDIwOTI1MTUyMDIz",
+          "og:type": "video.other",
+          "og:title": "The Karakoram Club | Assalamualaikum Group Members | Facebook",
+          "og:description": "Assalamualaikum Group Members.\n\nI am planning a visit to the Khunjerab Pass on the Pakistan-China border.  Could someone advise me on the current conditions?  Specifically, I'd appreciate information...",
+          "og:url": "https://www.facebook.com/groups/thekarakoramclub2/posts/1133420925152023/",
+          "og:image:alt": "The Karakoram Club | Assalamualaikum Group Members | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10164783372211047",
+          "og:locale": "en_US",
+          "description": "Assalamualaikum Group Members.\n\nI am planning a visit to the Khunjerab Pass on the Pakistan-China border.  Could someone advise me on the current...",
+          "twitter:title": "The Karakoram Club | Assalamualaikum Group Members | Facebook",
+          "twitter:description": "Assalamualaikum Group Members.\n\nI am planning a visit to the Khunjerab Pass on the Pakistan-China border.  Could someone advise me on the current conditions?  Specifically, I'd appreciate information..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un membre d'un groupe demande des informations sur les conditions actuelles, notamment la météo, pour planifier une visite au col de Khunjerab sur la frontière entre le Pakistan et la Chine.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Khunjerab Pass",
+          "Pakistan",
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "The Karakoram Club"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7638293779379236
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Kandahar airfield",
+      "Fraise Chapel"
+    ],
+    "ORGANIZATION": [
+      "Soldiers"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Pakistan",
+      "Kashgar",
+      "China",
+      "Khunjerab Pass",
+      "Karakoram mountains"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Silk Road"
+    ]
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7638293779379236,
+  "S_ent": 0.0,
+  "S_OOC": 0.3819146889689618,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "OTHER"
+  ]
+}

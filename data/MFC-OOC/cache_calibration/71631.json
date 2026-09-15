@@ -1,0 +1,855 @@
+{
+  "id_rumeur": 71631,
+  "id_image": 88844,
+  "caption": "Afghans protest in Kabul in November after seven people from the Hazara minority group were beheaded by Taliban militants",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756766/oluyewo_benchmark/gmwqyghaplkncpxwj2wn.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Civilian Life",
+      "source": "CBS News",
+      "lien": "https://www.cbsnews.com/pictures/civilian-life/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2004/01/05/46773522-a642-11e2-a3f0-029118418759/thumbnail/1200x630/065db3f0055b9562d96308b1743d3b4b/image591240.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm8PIF7vbGWkUXw6STaQ1sNQH_OpRD5VYb0Qd_1JuBrASmbUbb",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Civilian Life",
+        "link": "https://www.cbsnews.com/pictures/civilian-life/",
+        "source": "CBS News",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUhISH___8AAABra2sYGBgVFRUeHh7o6OjFxcXg4OD6-vqzs7NcXFwMDAyVlZVOTk7u7u7Ly8v09PSJiYnT09NZWVm6urpsbGykpKStra1hYWFAQECZmZkPDw9HR0dSUlKEhISDyBMYAAABDklEQVQ4ja1T7XKDIBDkFsGIoMRoYq02ef-nDERU1EzsdHp_gNud-1wY-09LECx5Cws0eaaIVJZriD0OntJsKccGljjRyk6QazyljaVDzNjjjhFlmeKfC16WvDhPWeb6uX9XF-BSW1sX7lTec5t6gXWvFmhUiK6BL3fYECLRL59olvzdgM47x4khJ_oeJNRCICNNSZSPIZBRZ5jp4xZa5-CUBQJd3QV1TPAQrjQRjJsJqphQOUiKI8JAv00xFlnEhH5V5KtNFrepIM3P3GbiZ9JA3BeCFtDLoMZR98A9xFAN0EajZuLm3fYRluWXVq2Wdbju94KxsegOJXcoWraRvd3J3vcC_fHjsMOv91d7AuR8DC_NqwRFAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm8PIF7vbGWkUXw6STaQ1sNQH_OpRD5VYb0Qd_1JuBrASmbUbb",
+        "thumbnail_width": 162,
+        "thumbnail_height": 310,
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2004/01/05/46773522-a642-11e2-a3f0-029118418759/thumbnail/1200x630/065db3f0055b9562d96308b1743d3b4b/image591240.jpg",
+        "image_width": 194,
+        "image_height": 370
+      },
+      "webpage": null,
+      "texte_contexte": "Civilian Life - CBS News.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "CBS News"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Civilian Life"
+        ]
+      },
+      "score_e5": 0.7396063008518199
+    },
+    {
+      "titre": "STOCK IMAGE, , BS2533, 01AHM7HV , Science Source - Search ...",
+      "source": "DIOMEDIA",
+      "lien": "https://www.diomedia.com/stock-photo-refugee-camp-gulf-war-image11043152.html",
+      "image_url": "https://cache.diomedia.com/diocomp/01/AH/M7/comp/01AH-M7HV.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ66HPJtzxkEmBz_JY0ub7gOYbUbhokd04FWDxShXd7ybAjqjvz",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "STOCK IMAGE, , BS2533, 01AHM7HV , Science Source - Search ...",
+        "link": "https://www.diomedia.com/stock-photo-refugee-camp-gulf-war-image11043152.html",
+        "source": "DIOMEDIA",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUzMzP___8jKH_HAAAAHElEQVQYlWNgIAYwwgBOAZAQjBhoAQyHoQngAwAkVgBBf5qEMQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ66HPJtzxkEmBz_JY0ub7gOYbUbhokd04FWDxShXd7ybAjqjvz",
+        "thumbnail_width": 185,
+        "thumbnail_height": 272,
+        "image": "https://cache.diomedia.com/diocomp/01/AH/M7/comp/01AH-M7HV.jpg",
+        "image_width": 544,
+        "image_height": 800
+      },
+      "webpage": null,
+      "texte_contexte": "STOCK IMAGE, BS2533, 01AHM7HV, Science Source - Refugee camp Gulf War.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Science Source",
+          "DIOMEDIA"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Gulf War"
+        ],
+        "OTHER": [
+          "Refugee camp"
+        ]
+      },
+      "score_e5": 0.7426199187559758
+    },
+    {
+      "titre": "Iraq Photos: April 26 - May 2",
+      "source": "CBS News",
+      "lien": "https://www.cbsnews.com/pictures/iraq-photos-april-26-may-2/",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2004/04/28/444d612b-a642-11e2-a3f0-029118418759/thumbnail/640x481/b6eb5735eb5ffe81fd9150dccf49bf4f/image614142x.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcPmXQamBVb8YF2xw0Lp7DEo7odaos0kmfaqb_705BwXM3i80s",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Iraq Photos: April 26 - May 2",
+        "link": "https://www.cbsnews.com/pictures/iraq-photos-april-26-may-2/",
+        "source": "CBS News",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUhISH___8AAABra2sYGBgVFRUeHh7o6OjFxcXg4OD6-vqzs7NcXFwMDAyVlZVOTk7u7u7Ly8v09PSJiYnT09NZWVm6urpsbGykpKStra1hYWFAQECZmZkPDw9HR0dSUlKEhISDyBMYAAABDklEQVQ4ja1T7XKDIBDkFsGIoMRoYq02ef-nDERU1EzsdHp_gNud-1wY-09LECx5Cws0eaaIVJZriD0OntJsKccGljjRyk6QazyljaVDzNjjjhFlmeKfC16WvDhPWeb6uX9XF-BSW1sX7lTec5t6gXWvFmhUiK6BL3fYECLRL59olvzdgM47x4khJ_oeJNRCICNNSZSPIZBRZ5jp4xZa5-CUBQJd3QV1TPAQrjQRjJsJqphQOUiKI8JAv00xFlnEhH5V5KtNFrepIM3P3GbiZ9JA3BeCFtDLoMZR98A9xFAN0EajZuLm3fYRluWXVq2Wdbju94KxsegOJXcoWraRvd3J3vcC_fHjsMOv91d7AuR8DC_NqwRFAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcPmXQamBVb8YF2xw0Lp7DEo7odaos0kmfaqb_705BwXM3i80s",
+        "thumbnail_width": 195,
+        "thumbnail_height": 259,
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2004/04/28/444d612b-a642-11e2-a3f0-029118418759/thumbnail/640x481/b6eb5735eb5ffe81fd9150dccf49bf4f/image614142x.jpg",
+        "image_width": 278,
+        "image_height": 370
+      },
+      "webpage": null,
+      "texte_contexte": "Iraq Photos: April 26 - May 2 - CBS News.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Iraq"
+        ],
+        "ORGANIZATION": [
+          "CBS News"
+        ],
+        "DATE": [
+          "April 26 - May 2"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7402423999440074
+    },
+    {
+      "titre": "Biden keeps to August 31 deadline for Kabul airlift ...",
+      "source": "Al Jazeera",
+      "lien": "https://www.aljazeera.com/news/2021/8/24/g7-to-meet-on-afghanistan-withdrawal-deadline-live-news",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2021/08/2021-08-24T171833Z_59485279_RC2TBP97AJZY_RTRMADP_3_AFGHANISTAN-CONFLICT-CONTACT-1.jpg?resize=1920,1440",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7aJF0PgogQhWhpptivR5kHl-uzEClETWhFNmj62WzEbXGDkf",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Biden keeps to August 31 deadline for Kabul airlift ...",
+        "link": "https://www.aljazeera.com/news/2021/8/24/g7-to-meet-on-afghanistan-withdrawal-deadline-live-news",
+        "source": "Al Jazeera",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcR65M9CLzgA8_ujdT9usRzebVHn2zBANbv-A2RgyUVa1t2Lc4QOGM8zsl_cPjwnE_5wvmfFE_PhIITtXi6ExqEpFFf_vDd_-KD35hJsjMKBpu1_82qb7g",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7aJF0PgogQhWhpptivR5kHl-uzEClETWhFNmj62WzEbXGDkf",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.aljazeera.com/wp-content/uploads/2021/08/2021-08-24T171833Z_59485279_RC2TBP97AJZY_RTRMADP_3_AFGHANISTAN-CONFLICT-CONTACT-1.jpg?resize=1920,1440",
+        "image_width": 1440,
+        "image_height": 1920
+      },
+      "webpage": {
+        "text": "Biden keeps to August 31 deadline for Kabul airlift | Taliban News\n\nJoe Biden, the president of the United States, has said Washington is on pace to finish evacuations from Afghanistan by August 31, but left open the chance of extending the deadline, saying reaching that goal depends on cooperation from the country’s new Taliban rulers.\n\n“The sooner we can finish, the better,” Biden said at the White House on Tuesday. “Each day of operations brings added risk to our troops.”\n\n\nRecommended Stories\n\nlist of 3 items\n * list 1 of 3Who is Taliban acting central bank chief Mohammad Idris?\n * list 2 of 3The new and improved Taliban: The parting US gift to Afghanistan\n * list 3 of 3‘We left everything’: Afghan refugees in Qatar on fleeing Taliban\n\nend of list\n\nUS forces have helped evacuate 70,700 people since August 14, he said.\n\nIn Kabul, the Taliban said earlier on Tuesday that all foreign evacuations from the country must be completed by August 31.\n\nA spokesman for the group also urged Washington to stop taking “Afghan experts” such as engineers and doctors out of the country.\n\nBritish Prime Minister Boris Johnson meanwhile said the Group of Seven nations will not recognize a Taliban government unless it guarantees people can leave the country if they wish, both before and after the August deadline.\n\nThis blog is now closed. Below the updates from August 25, as they happened:\n\n----------------------------------------\n\n25 Aug 2021 - 05:09 GMT\n\n\nRussia to evacuate more than 500 citizens\n\nRussia will use four military transport aircraft to evacuate more than 500 citizens from Afghanistan, the Interfax news agency reported.\n\n“On August 25, by order from Russian President Vladimir Putin, Russian Defence Minister, Army General Sergei Shoigu organised the evacuation by military transport aircraft of over 500 citizens of the Russian Federation, CSTO member states (Belarus, Kyrgyzstan, Tajikistan and Uzbekistan) and Ukraine from the territory of the Islamic Republic of Afghanistan,” Interfax cited the defence ministry as saying.\n\n----------------------------------------\n\n25 Aug 2021 - 02:04 GMT\n\n\nAfghan all-girl robotics team members land in Mexico\n\nFive members of an all-girl Afghan robotics team have arrived in Mexico, fleeing an uncertain future at home after the recent collapse of the US-backed government and takeover by the Taliban, according to Reuters news agency.\n\n“We give you the warmest welcome to Mexico,” Martha Delgado Undersecretary for Multilateral and Human Rights at the Mexican Ministry of Foreign Affairs told the women as she greeted them during a news conference at Mexico City’s airport on Tuesday night.\n\nThe team, made up of girls and women as young as 14, has been heralded for winning international awards for its robots and started work in March on an open-source, low-cost ventilator as the coronavirus pandemic hit the war-torn nation.\n\nMexico has pledged to aid Afghan women and girls. Mexico’s Foreign Minister Marcelo Ebrard said on Twitter on August 18 that the country had begun “processing of the first refugee applications of Afghan citizens, especially women and girls who have requested it,” with the aid of Guillermo Puente Ordorica, Ambassador of Mexico in Iran.\n\nOther members of the robotics team landed in Qatar in recent days.\n\n\n----------------------------------------\n\n25 Aug 2021 - 01:25 GMT\n\n\nSouth Korea sends military planes to assist Afghan evacuees\n\nSouth Korean military aircraft are carrying out operations to bring to the country Afghans who aided Seoul’s efforts to help rebuild the war-torn nation, Yonhap news agency reported on Wednesday quoting the foreign ministry.\n\nThree military planes were sent to Afghanistan and a neighbouring country to “bring to South Korea Afghan workers, who supported our government’s activities in Afghanistan, and their family members,” the ministry said.\n\nAfghans had worked at South Korea’s embassy, hospital and job training centre for years, the ministry said without providing further details.\n\n----------------------------------------\n\n24 Aug 2021 - 23:47 GMT\n\n\nJapan deploys transport planes to Kabul to evacuate its citizens\n\nJapan is deploying its aircraft to transport Self-Defense Force (SDF) personnel who will evacuate Japanese expatriates, local embassy staff and others from Afghanistan, according to NHK news.\n\nJapan’s defence ministry is making final arrangements to dispatch the Boeing 777 on Wednesday at the earliest to the Pakistani capital of Islamabad, where the SDF mission will be based.\n\nThe government of Japan said it will only airlift evacuees until the deadline for the withdrawal of US troops from Afghanistan at the end of August.\n\nOne of the three Japanese aircraft has already arrived in Islamabad on Tuesday and the other two are expected to arrive on Wednesday.\n\n\n----------------------------------------\n\n24 Aug 2021 - 22:28 GMT\n\n\nWorld Bank pauses aid to Afghanistan\n\nThe World Bank has suspended aid disbursements to Afghanistan, voicing concerns about how the Taliban takeover will affect “the country’s development prospects, especially for women”.\n\nThe bank had committed $784m in development funds for Afghanistan in 2021.\n\n“We have paused disbursements in our operations in Afghanistan and we are closely monitoring and assessing the situation in line with our internal policies and procedures,” a World Bank spokeswoman said.\n\n----------------------------------------\n\n24 Aug 2021 - 22:10 GMT\n\n\nUS Republicans introduce resolution to condemn Biden in Congress\n\nTop Republicans in the US House of Representatives have introduced a resolution condemning what they called President Joe Biden’s “failure to heed the advice of military and intelligence advisors about the speed and nature of the Taliban offensive”.\n\nThe measure is unlikely to pass in the Democratic-controlled chamber, but it demonstrates Biden’s domestic opponents’ push to make the Afghanistan withdrawal politically costly for the president.\n\nThe resolution is co-sponsored by the most powerful Republicans in the House – Minority Leader Kevin McCarthy, Minority Whip Steve Scalise and Conference Chair Elise Stefanik.\n\n----------------------------------------\n\n24 Aug 2021 - 21:39 GMT\n\n\nBiden says US and allies are ‘united’ on Afghanistan\n\nDespite the apparent European reservations about the US withdrawal, President Joe Biden said Washington and its allies are “united” on the approach to Afghanistan.\n\n“We’re going to stand shoulder to shoulder with our closest partners to meet the current challenges that we face in Afghanistan, just as we have for the past 20 years,” Biden said.\n\n“We’re acting in consultation and cooperation with our closest friends and fellow democracies.”\n\n----------------------------------------\n\n24 Aug 2021 - 21:25 GMT\n\n\nBiden non-committal on withdrawal deadline\n\nPresident Joe Biden said the US is “determined” to finish the evacuation mission, which he predicted will conclude by August 31. But he left the door open for extending the withdrawal deadline.\n\n“The sooner we can finish, the better. Each day of operations brings added risk to our troops,” Biden said.\n\n“But the completion by August 31 depends upon the Taliban continuing to cooperate and allow access to the airport for those who we’re transporting out with no disruptions to our operation.”\n\nRead more here.\n\n----------------------------------------\n\n\n24 Aug 2021 - 20:51 GMT\n\n\nAfghan small business owners in anxious wait over what comes next\n\nIn the week since the Taliban took over Afghanistan, the nation’s small business economy has been dealt a series of devastating blows.\n\nMost banks remain closed, nearly all ATMs do not dispense cash, government offices largely remain shut, the passport directorate and visa offices are closed, and weddings and other joyous occasions have come to a halt.\n\nRead more here.\n\n----------------------------------------\n\n\n24 Aug 2021 - 20:48 GMT\n\n\nWFP calls for urgent aid as millions of Afghans face starvation\n\nMillions of Afghans face the risk of starvation and a “catastrophe on top of a catastrophe” the head of the UN’s World Food Programme (WFP) has warned, saying the agency needs $200m by the end of the year to continue its operations in Afghanistan following the Taliban’s takeover.\n\nWFP Executive Director David Beasley spoke to Al Jazeera on Tuesday while touring a compound in Doha housing more than 500 refugees who fled Afghanistan after the Taliban took control of the Afghan capital Kabul on August 15.\n\nRead more here.\n\n----------------------------------------\n\n\n24 Aug 2021 - 20:19 GMT\n\n\nEvacuations ‘on pace to finish’ by August 31 – Psaki\n\nWhite House spokeswoman Jen Psaki said President Joe Biden told G7 leaders during a virtual meeting that the evacuation of Americans, third country nationals and Afghan allies is “on pace to finish” by the end of the month.\n\nBiden said conclusion of the US mission in Kabul depends on coordination with the Taliban, “including continued access for evacuees to the airport”.\n\nThe US president asked the Pentagon and State Department for “contingency plans” to adjust the withdrawal deadline if needed, Psaki said.\n\n“He also made clear that with each day of operations on the ground, we have added risk to our troops with increasing threats from ISIS-K,” Psaki said in a statement, referring to ISIL’s branch in Afghanistan.\n\n----------------------------------------\n\n\n24 Aug 2021 - 20:04 GMT\n\n\nUN resolution on Afghanistan human rights crisis a ‘shameful failure’\n\nThe United Nations adopted a weak resolution on the situation in Afghanistan, Amnesty International has said, calling it a “shameful failure” to address human rights crisis in the country.\n\nIn a statement, the human rights group said the UN Human Rights Council today had failed the people of Afghanistan for “neglecting to establish an independent mechanism to monitor ongoing crimes under international law and human rights violations and abuses”.\n\n“A robust investigative mechanism – with a mandate to document, collect and preserve evidence of ongoing crimes and human rights violations across Afghanistan – is urgently needed,” Agnes Callamard, Secretary General of Amnesty said.\n\n----------------------------------------\n\n\n24 Aug 2021 - 19:10 GMT\n\n\nBiden’s statement on Afghanistan delayed\n\nUS President Joe Biden’s update on the situation in Afghanistan has been delayed till 16:30PM EST (20:30 GMT), Al Jazeera’s White House correspondent Kimberley Halkett reported.\n\n“The reasons for the delay have not been provided, but what we are expecting to hear from Joe Biden is that he is sticking to his August 31 withdrawal date now,” Halkett said from the White House.\n\nShe said there was an effort by House Intelligence Committee members to essentially make the case to the White House that the withdrawal date be extended, as the president faced “enormous” pressure from both democrats and republicans to evacuate all those who helped the US mission in Afghanistan.\n\n----------------------------------------\n\n\n24 Aug 2021 - 18:52 GMT\n\n\nMoscow to request flights for Afghan students permitted to study in Russia -embassy\n\nThe Russian government will request flights out of Afghanistan in September for Afghan students who are planning to study in Russia, the embassy said in a statement.\n\nThe Taliban’s takeover of Afghanistan could stop hundreds of Afghans from taking up university places in Russia or continuing with classes that have moved online during the coronavirus pandemic, students said last week.\n\n----------------------------------------\n\n\n24 Aug 2021 - 18:25 GMT\n\n\nAfghan’s Internally displaced worried about future\n\nThe uncertain future of Afghanistan with the Taliban takeover has only added to the worries of internally displaced people in the outskirts of Kabul, Al Jazeera’s Rob McBride reported from the capital.\n\n“They came here to escape the horrors of war, but now the fighting is largely done their future does not look any less bleak,” McBride reported from Kabul.\n\n“No one helped us when we came here, we sold the TV and a carpet, and have been economising like eating less, but the money ran out three days ago are not in good shape,” Maryam, an Afghan IDP and widowed mother of six from Takhar province, told Al Jazeera.\n\nMcBride said while the Taliban victory has brought a degree of stability, for many IDPs they still had “no clear idea of where to go next”.\n\nGhulam Hazarat said his family of nine “did not have any money left to go back” and to set up again in their old place.\n\n“If the government can look after us. That’s better,” he added.\n\n----------------------------------------\n\n\n24 Aug 2021 - 17:54 GMT\n\n\nG-7 leaders raised concerns about Afghan pullout\n\nEuropean Council President Charles Michel says a number of G-7 leaders raised concerns with U.S. President Joe Biden about the Aug. 31 deadline for getting their nationals and Afghan helpers out of Kabul.\nMichel says that “several leaders expressed concerns about the timing of August 31,” during Tuesday’s G-7 summit.\n\nHe declined to tell reporters after the meeting what response Biden gave the leaders.\n\nAccording to an administration official, Biden plans to stick with his deadline for completing the US-led evacuation from Afghanistan, AP news agency reported.\n\n----------------------------------------\n\n24 Aug 2021 - 17:32 GMT\n\n\nAfghan troops helping US at airport also will be evacuated: Pentagon\n\nThe US military will evacuate between 500 and 600 Afghan commandos and army soldiers who have been helping US forces at the airport in Kabul, Pentagon spokesman John Kirby said.\n\n“Any of them that want to leave, and we have to assume that that’s all of them, they will be evacuated,” Kirby told reporters at a Pentagon media briefing.\n\n“Somewhere in the neighborhood of five to six hundred we know Afghan forces are there at the at the airport with us, and actually helping us in the security mission, and they will all be able to come out” when US forces plan to leave at the end of August, Kirby said.\n\n----------------------------------------\n\n24 Aug 2021 - 17:18 GMT\n\n\nNo extension to Aug 31 Kabul evacuation deadline at G7 talks: Merkel\n\nTalks between leaders of the Group of Seven industrialized nations on Afghanistan did not lead to an extension of the August 31 deadline for evacuations from Kabul, German Chancellor Angela Merkel said.\n\n“The conference has not resulted in new dates (on the end of the evacuation mission),” Merkel told reporters after the virtual meeting of leaders.\n\nShe added that there were intensive discussions on whether a civilian-operated airport could be used after that deadline and that Germany was ready to work with countries neighboring Afghanistan, such as Pakistan and Iran, to help refugees.\n\n----------------------------------------\n\n24 Aug 2021 - 17:04 GMT\n\n\nBiden to stick to August 31 Afghanistan pullout deadline: US media\n\nUS President Joe Biden has decided to stick to his August 31 deadline to pull American forces out of Afghanistan, US media reported Tuesday.\n\nBiden made the decision after talks with G7 counterparts and a demand by the Taliban that the United States not extend its stay past the end of this month, CNN, Fox News and other media reported, citing senior US officials.\n\n----------------------------------------\n\n24 Aug 2021 - 16:40 GMT\n\n\nNot possible to evacuate those who worked with western nations by August 31 deadline: analyst\n\nA former advisor to the US state department says there is “no logistical way” that Afghans, especially those worked with western nations, can be evacuated by August 31.\n\n“Pentagon is reporting that it can get Americans out. But the Americans have stated again and again that we have a commitment to those who have worked with US soldiers,” Richard Ponzio of the Stimson Center told Al Jazeera from Washington DC.\n\n“I agree with the veterans groups in the United States, and of course, NATO allies who have said we need at least a couple more weeks three to four more weeks,” Ponzio added.\n\n----------------------------------------\n\n24 Aug 2021 - 16:03 GMT\n\n\nTaliban asks US to stop evacuating skilled Afghans\n\nA Taliban spokesman on Tuesday urged skilled Afghans to stop fleeing the country, and warned that it would not accept any extension of the August 31 deadline for evacuations.\n\nThe group said Americans were taking “Afghan experts” such as engineers and doctors out of Afghanistan.\n\n“We ask them to stop this process,” spokesman Zabihullah Mujahid said at a press conference in Kabul.\n\n“This country needs their expertise. They should not be taken to other countries.”\n\nRead more here.\n\n----------------------------------------\n\n24 Aug 2021 - 15:37 GMT\n\n\nSwiss have evacuated 292 people from Afghanistan\n\nSwitzerland has evacuated 292 people from Afghanistan, Foreign Minister Ignazio Cassis said on Tuesday, while Switzerland would examine whether it could help facilitate talks underway between the Taliban and the collapsed US-backed government.\n\nAll local workers from the Swiss development office as well as their close family members have been able to leave Kabul or are safe at the capital’s airport, he said.\n\n\n----------------------------------------\n\n24 Aug 2021 - 15:10 GMT\n\n\nUS military still planning full withdrawal by August 31: Pentagon\n\nPentagon spokesman John Kirby said the United States military is still planning to withdraw all US forces from Afghanistan by August 31.\n\n“We are absolutely still aiming for the end of the month,” Kirby said at a Pentagon media briefing on Tuesday.“The Taliban have been very clear about what their expectations are,” said Kirby, who declined to describe when the US would have to stop evacuating civilians and begin withdrawing troops to meet the deadline.\n\nThe US has thousands of troops at the Kabul airport who are evacuating US citizens, Afghans and other nationals from the city now under Taliban control. “The daily communication with the Taliban commanders is going to have to continue. That is just a hard fact,” Kirby said.\n\n----------------------------------------\n\n24 Aug 2021 - 14:43 GMT\n\n\nSafety of women our responsibility: Taliban spokesman\n\nWomen’s safety and security was the Taliban’s responsibility, the groups spokesman Zabihullah Mujahid said at a press conference in Kabul.\n\n“Sometimes our security teams are not well trained enough in dealing with women. So they do encounter problems sometimes for that reason,” he said.\n\n“So we’ve requested that women remain in their homes, until we develop a procedure. They won’t be terminated [from their jobs]. They will continue receiving their salaries, even if they’re not showing up to work.”\n\n----------------------------------------\n\n24 Aug 2021 - 14:26 GMT\n\n\nRussia accuses US of forcing Afghans on Central Asia\n\nRussia’s Foreign Minister Sergei Lavrov said that US forces are “pawning off” Afghans fleeing the Taliban to neighbouring Moscow-allied Central Asia.\n\nDuring a visit to Hungary, Lavrov said the United States is trying to convince “several Central Asian countries” to take in Afghans who previously worked with US forces in the now Taliban-controlled country.\n\nHe alleged that Washington tells the countries the Afghans will only be there temporarily.\n\n----------------------------------------\n\n24 Aug 2021 - 14:12 GMT\n\n\nTaliban urges Afghans to return home and resume ‘calm everyday lives’\n\nAfghans have been urged to “return to their homes and resume their calm everyday lives” by the Taliban.\n\nZabihullah Mujahid, a spokesman for the group, told a press\nconference in Kabul that crowding at the airport was dangerous and\n“people could lose their lives.”\n\n----------------------------------------\n\n24 Aug 2021 - 13:57 GMT\n\n\nTaliban say they have not agreed to US pullout deadline extension\n\nThe Taliban said they had not agreed to an extension of the August 31 deadline set by the United States to pull out of Afghanistan and that they wanted all evacuations to end by that date.\n\nSpokesman Zabihullah Mujahid said the crowds of Afghans throngin",
+        "metadata": {
+          "title": "Biden keeps to August 31 deadline for Kabul airlift",
+          "description": "US president sticks to withdrawal deadline as Taliban asks Washington to stop urging highly skilled Afghans to leave.",
+          "keywords": "News, Taliban, Afghanistan, Asia",
+          "displayAuthors": "Tamila Varshalomidze, Usaid Siddiqui, Ted Regencia",
+          "pageTitle": "Biden keeps to August 31 deadline for Kabul airlift",
+          "author": "Tamila Varshalomidze,Usaid Siddiqui,Ted Regencia",
+          "og:title": "Biden keeps to August 31 deadline for Kabul airlift",
+          "og:description": "US president sticks to withdrawal deadline as Taliban asks Washington to stop urging highly skilled Afghans to leave.",
+          "og:url": "https://www.aljazeera.com/news/2021/8/24/g7-to-meet-on-afghanistan-withdrawal-deadline-live-news",
+          "og:type": "article",
+          "og:image": "https://www.aljazeera.com/wp-content/uploads/2021/08/2021-08-24T171833Z_59485279_RC2TBP97AJZY_RTRMADP_3_AFGHANISTAN-CONFLICT-CONTACT-1.jpg?resize=1920%2C1440",
+          "og:site_name": "Al Jazeera",
+          "og:image:alt": "Biden keeps to August 31 deadline for Kabul airlift",
+          "twitter:title": "Biden keeps to August 31 deadline for Kabul airlift",
+          "twitter:description": "US president sticks to withdrawal deadline as Taliban asks Washington to stop urging highly skilled Afghans to leave.",
+          "pageAuthors": "Tamila Varshalomidze,Usaid Siddiqui,Ted Regencia"
+        },
+        "jsonld": {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.aljazeera.com#Organization",
+          "foundingDate": "2006-11-15",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com",
+          "logo": "https://www.aljazeera.com/images/logo_aje.png",
+          "sameAs": [
+            "https://www.facebook.com/aljazeera",
+            "https://twitter.com/ajenglish",
+            "https://www.youtube.com/aljazeeraenglish",
+            "https://www.instagram.com/aljazeeraenglish/?hl=en"
+          ],
+          "parentOrganization": {
+            "@type": "Organization",
+            "name": "Al Jazeera Media Network",
+            "alternateName": "شبكة الجزيرة الإعلامية"
+          },
+          "@context": "https://schema.org"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Biden keeps to August 31 deadline for Kabul airlift. US President Joe Biden stated Washington is on pace to finish evacuations from Afghanistan by August 31, depending on cooperation from Taliban rulers. US forces helped evacuate 70,700 people since August 14. The Taliban urged Washington to stop taking Afghan experts out of the country. British Prime Minister Boris Johnson said G7 nations will not recognize a Taliban government without guarantees on freedom of movement. Russia plans to evacuate over 500 citizens from Afghanistan following orders from President Vladimir Putin and Defense Minister Sergei Shoigu. Five members of an all-girl Afghan robotics team arrived in Mexico, greeted by Martha Delgado and Foreign Minister Marcelo Ebrard.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Joe Biden",
+          "Mohammad Idris",
+          "Boris Johnson",
+          "Vladimir Putin",
+          "Sergei Shoigu",
+          "Martha Delgado",
+          "Marcelo Ebrard"
+        ],
+        "LOCATION": [
+          "United States",
+          "Afghanistan",
+          "White House",
+          "Kabul",
+          "Qatar",
+          "Russia",
+          "Belarus",
+          "Kyrgyzstan",
+          "Tajikistan",
+          "Uzbekistan",
+          "Ukraine",
+          "Mexico",
+          "Mexico City"
+        ],
+        "ORGANIZATION": [
+          "Al Jazeera",
+          "Interfax",
+          "Russian Defence Ministry",
+          "CSTO",
+          "Reuters",
+          "Mexican Ministry of Foreign Affairs"
+        ],
+        "DATE": [
+          "August 31",
+          "August 14",
+          "August 25",
+          "August 18",
+          "Tuesday",
+          "March"
+        ],
+        "EVENT": [
+          "Kabul airlift",
+          "coronavirus pandemic"
+        ],
+        "OTHER": [
+          "Taliban",
+          "Group of Seven",
+          "G7"
+        ]
+      },
+      "score_e5": 0.7420456764770657
+    },
+    {
+      "titre": "No relief from fear for Baghdad families",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/id/wbna20577597",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/msnbc/Components/Photos/070905/070905_relief_vmed_320a.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8fgipyk8MfBVQeap9tkwjxIXfowqIkut4Fs2gJHqu-shD-hAZ",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "No relief from fear for Baghdad families",
+        "link": "https://www.nbcnews.com/id/wbna20577597",
+        "source": "NBC News",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyWp3RniHyHhmsHqTc5zb-2kjWkrLCZsS4XIQDq4LyYjZZFgl28s2SLJv0sjnlurLyd_DkqQ68o0jFa67Yi2vGiBvh9RuoNzUth5Y_SALQ4ivHWHM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8fgipyk8MfBVQeap9tkwjxIXfowqIkut4Fs2gJHqu-shD-hAZ",
+        "thumbnail_width": 207,
+        "thumbnail_height": 244,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/msnbc/Components/Photos/070905/070905_relief_vmed_320a.jpg",
+        "image_width": 1270,
+        "image_height": 1500
+      },
+      "webpage": {
+        "text": "No relief from fear for Baghdad families\n\nDriven by fear and desperation, Um Abdullah's parents, who are Sunnis, swapped homes with a Shiite family they have known for years. Her parents moved to a section of Baghdad's Saidiya neighborhood controlled by Sunni insurgents. And their friends moved into her family home in the Risala area, controlled by Shiite militias. Each family left behind their furniture, so they could move swiftly and in secret.\n\nIt seemed a perfect solution in a capital whose polarization along sectarian lines has deepened this year, despite the influx of 30,000 U.S. military reinforcements. But within days of the arrival of Um Abdullah's parents two months ago, Shiite militias pushed deeper into Saidiya, driving out hundreds of Sunni families. The parents' fear returned.\n\n\"If they leave their house in Saidiya, that means they will lose their house in Risala because they made the exchange,\" said Um Abdullah, who would allow only her nickname to be used because of safety concerns. \"My parents feel trapped.\"\n\nA seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive.\n\nWhile statistics assessing the strife in Iraq are murky, one set -- unofficial Interior Ministry and morgue data provided to The Washington Post -- indicates that the number of Iraqis who died violently in August was less than half the number in January. The statistics echo the assertions of U.S. military officials that such deaths are down, although a Government Accountability Office report on Iraq released Tuesday said it was \"not clear if sectarian violence has been reduced.\"\n\nAt the same time, the number of Iraqi corpses found dumped on street corners was higher in August than before the security offensive began and the number of Iraqis leaving their homes has increased significantly in recent months.\n\n‘Where could we move?’\nFor some there is nowhere to go. \"Where could we move? The whole Iraq is the same now,\" said Um Abdullah, a 33-year-old mother of four children who lives in Dora, another dangerous neighborhood. Today, in a capital carved up by checkpoints and sectarian no-go zones, Um Abdullah is more isolated than ever from her parents, speaking to them only by telephone. \"I would never go back to Saidiya,\" she said. \"They can come visit me, if they want.\"\n\nThe violence continues to divide Iraq, paralyzing its political system and efforts at national reconciliation. Iraq's semi-autonomous Kurdish region is forging ahead with its own oil law as national legislation to share Iraq's oil revenue -- a key benchmark demanded by the Bush administration -- remains stuck in a political and nationalistic bog.\n\nIn areas secured by U.S. troops, American officials are inadvertently breeding dependence as they attempt to promote reconstruction. U.S. officials say they are frustrated that Iraq's Shiite-led government is failing to spend $10 billion of its own oil revenue to provide basic services and rebuild infrastructure, especially in Sunni communities.\n\nTwo months ago, Adeeb Fahad al-Azzawi also fled Saidiya. He had seen one too many firefights, one too many bodies dumped on the street where he had lived for 15 years. Tall, with cropped silvery hair and smoke-gray eyes, the 75-year-old Sunni dispatched his daughter to her in-laws in Mosul. He and his wife moved in with relatives in Zafraniya, a nearby area. His 25-year-old son, Abbas, remained to take care of their house.\n\nOne month ago, Shiite militiamen stopped a minivan and separated out the Sunni passengers. Abbas was among them. The gunmen, Abbas's father recalled, pounded pistol butts into his body and face, then left him for dead. He survived and fled Saidiya the next day.\n\n\"Up to this moment, his mind is not stable,\" said Azzawi, his voice tinged with anger and sadness.\n\nFrom January to July, nearly 100,000 Iraqis fled their homes each month, according to the Iraqi Red Crescent Organization. In its midyear review, the International Organization for Migration, a U.N. agency, also reported a spike in displacement, saying that 63 percent of cases it assessed involved a reported direct threat to life.\n\n\"The stability that was anticipated as a result of various security plans has not materialized, and as the violence continues in Iraq, so will the displacement,\" the agency said.\n\nIn the past few months, real estate agent Alla Thabit has funneled dozens of displaced families into homes in Baghdad's upscale Karrada neighborhood. Nearly all were from tense mixed areas. At the start of the security offensive in February, five families walked into his office each day, on average. Now, that number has tripled.\n\n\"The security plan has failed in the neighborhoods. This is why they are moving,\" Thabit said. \"I have not seen anyone moving back to their homes.\"\n\nThe influx has driven up rents in Karrada, considered one of Baghdad's safest and most tolerant enclaves but increasingly the scene of car bombings and mortar fire. Still, displaced Iraqis still flow into Thabit's sparsely furnished office. Today, the majority of his clients are from Saidiya.\n\nMother watches as husband, son killed\nSome fled after being threatened, others purely out of fear. One family, he said, had a body dumped in front of their house. Another packed up after their neighbor was murdered. One mother watched as Shiite militiamen killed her husband and son. Afterward, the gunmen ordered her and her daughter-in-law to leave Saidiya.\n\n\"They came here on the same day. They were crying,\" recalled Thabit, who found them an apartment. \"If they had stayed, they would have been killed.\"\n\nLt. Gen. Aboud Qanbar, the top Iraqi commander of the security offensive, conceded in an interview that \"displacements were taking place\" in Baghdad. What is unfolding in Saidiya, he said, was due to crackdowns in neighboring areas that were pushing Sunni and Shiite extremists into the enclave. He added that Iraqi and U.S. forces had the situation \"under control.\"\n\nThe tensions in Saidiya are adding to the obstacles to political reconciliation. Sunni leaders, already disenchanted with the Shiite-led government, blame Iraq's Shiite-dominated security forces for allowing Shiite militias to infiltrate the area.\n\n\"What we are seeing on the ground is that police and the army are protecting the militias and facilitating their access to Sunni areas,\" said Adnan al-Dulaimi, a senior Sunni politician. \"What is taking place in Saidiya is the greatest example where attacks are taking place against the Sunni residents to drive them to emigrate and leave their houses for the militias to loot.\"\n\nResidents said Sunni militants and elements of the Mahdi Army, the militia allied with Shiite cleric Moqtada al-Sadr, were battling for control of their neighborhood -- part of a broader struggle for influence also unfolding in other areas of the capital.\n\nResidents describe a brutal topography where houses are being burned and where extremists from both sides have taken over homes, partitioning the area into Sunni and Shiite zones. Snipers and street-to-street gunfights are now common. Shops have closed. Families hide inside their houses, many pocked with bullet holes. Some refuse even to answer the doorbell.\n\n\"You never know who is shooting at you,\" Azzawi said.\n\nThe enclave illustrates the limits of the security plan. Even with the reinforcements and scores of joint security stations across Baghdad, it is impossible for U.S. troops to be everywhere. In Saidiya, there is one small U.S. combat outpost, but extremists dominate the neighborhood.\n\n‘A stranger in my own neighborhood’\n\"Every once in a while a patrol passes for a few minutes. What benefits will this bring? \" said Abu Yousef, 60, a Transportation Ministry employee. \"They cannot maintain security. This is the fact in Saidiya. There are a lot of areas like this in Baghdad.\"\n\nAbu Yousef, who out of fear asked that his full name not be used, cannot afford to move his family out of Saidiya, he said. Every time he and his relatives hear gunfire, they lock themselves inside their house, waiting for silence. Dozens of neighbors have left, he said.\n\n\"The moment they put their stuff in the car and leave, this is the worst thing,\" Abu Yousef said. \"I've become a stranger in my own neighborhood.\"\n\nStaff writer Megan Greenwell and special correspondents K.I. Ibrahim, Saad al-Izzi and Naseer Nouri contributed to this report.",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "By Sudarsan Raghavan ",
+          "description": "A seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive.",
+          "og:url": "https://www.nbcnews.com/id/wbna20577597",
+          "og:title": "No relief from fear for Baghdad families",
+          "og:description": "A seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/070905/070905_relief_vmed_320a.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/070905/070905_relief_vmed_320a.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "No relief from fear for Baghdad families",
+          "branch:deeplink:description": "A seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive.",
+          "twitter:title": "No relief from fear for Baghdad families",
+          "twitter:description": "A seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2007-09-05T04:59:05.000Z",
+          "article:modified_time": "2007-09-05T04:59:05.000Z",
+          "branch:deeplink:authorName1": "By Sudarsan Raghavan"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "No relief from fear for Baghdad families",
+          "url": "https://www.nbcnews.com/id/wbna20577597",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/msnbc/Components/Photos/070905/070905_relief_vmed_320a.jpg",
+          "alternativeHeadline": "No relief from fear for Baghdad families",
+          "articleBody": "Driven by fear and desperation, Um Abdullah's parents, who are Sunnis, swapped homes with a Shiite family they have known for years. Her parents moved to a section of Baghdad's Saidiya neighborhood controlled by Sunni insurgents. And their friends moved into her family home in the Risala area, controlled by Shiite militias. Each family left behind their furniture, so they could move swiftly and in secret. It seemed a perfect solution in a capital whose polarization along sectarian lines has deepened this year, despite the influx of 30,000 U.S. military reinforcements. But within days of the arrival of Um Abdullah's parents two months ago, Shiite militias pushed deeper into Saidiya, driving out hundreds of Sunni families. The parents' fear returned. \"If they leave their house in Saidiya, that means they will lose their house in Risala because they made the exchange,\" said Um Abdullah, who would allow only her nickname to be used because of safety concerns. \"My parents feel trapped.\" A seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive. While statistics assessing the strife in Iraq are murky, one set -- unofficial Interior Ministry and morgue data provided to The Washington Post -- indicates that the number of Iraqis who died violently in August was less than half the number in January. The statistics echo the assertions of U.S. military officials that such deaths are down, although a Government Accountability Office report on Iraq released Tuesday said it was \"not clear if sectarian violence has been reduced.\" At the same time, the number of Iraqi corpses found dumped on street corners was higher in August than before the security offensive began and the number of Iraqis leaving their homes has increased significantly in recent months. ‘Where could we move?’For some there is nowhere to go. \"Where could we move? The whole Iraq is the same now,\" said Um Abdullah, a 33-year-old mother of four children who lives in Dora, another dangerous neighborhood. Today, in a capital carved up by checkpoints and sectarian no-go zones, Um Abdullah is more isolated than ever from her parents, speaking to them only by telephone. \"I would never go back to Saidiya,\" she said. \"They can come visit me, if they want.\" The violence continues to divide Iraq, paralyzing its political system and efforts at national reconciliation. Iraq's semi-autonomous Kurdish region is forging ahead with its own oil law as national legislation to share Iraq's oil revenue -- a key benchmark demanded by the Bush administration -- remains stuck in a political and nationalistic bog. In areas secured by U.S. troops, American officials are inadvertently breeding dependence as they attempt to promote reconstruction. U.S. officials say they are frustrated that Iraq's Shiite-led government is failing to spend $10 billion of its own oil revenue to provide basic services and rebuild infrastructure, especially in Sunni communities. Two months ago, Adeeb Fahad al-Azzawi also fled Saidiya. He had seen one too many firefights, one too many bodies dumped on the street where he had lived for 15 years. Tall, with cropped silvery hair and smoke-gray eyes, the 75-year-old Sunni dispatched his daughter to her in-laws in Mosul. He and his wife moved in with relatives in Zafraniya, a nearby area. His 25-year-old son, Abbas, remained to take care of their house. One month ago, Shiite militiamen stopped a minivan and separated out the Sunni passengers. Abbas was among them. The gunmen, Abbas's father recalled, pounded pistol butts into his body and face, then left him for dead. He survived and fled Saidiya the next day. \"Up to this moment, his mind is not stable,\" said Azzawi, his voice tinged with anger and sadness. From January to July, nearly 100,000 Iraqis fled their homes each month, according to the Iraqi Red Crescent Organization. In its midyear review, the International Organization for Migration, a U.N. agency, also reported a spike in displacement, saying that 63 percent of cases it assessed involved a reported direct threat to life. \"The stability that was anticipated as a result of various security plans has not materialized, and as the violence continues in Iraq, so will the displacement,\" the agency said. In the past few months, real estate agent Alla Thabit has funneled dozens of displaced families into homes in Baghdad's upscale Karrada neighborhood. Nearly all were from tense mixed areas. At the start of the security offensive in February, five families walked into his office each day, on average. Now, that number has tripled. \"The security plan has failed in the neighborhoods. This is why they are moving,\" Thabit said. \"I have not seen anyone moving back to their homes.\" The influx has driven up rents in Karrada, considered one of Baghdad's safest and most tolerant enclaves but increasingly the scene of car bombings and mortar fire. Still, displaced Iraqis still flow into Thabit's sparsely furnished office. Today, the majority of his clients are from Saidiya. Mother watches as husband, son killedSome fled after being threatened, others purely out of fear. One family, he said, had a body dumped in front of their house. Another packed up after their neighbor was murdered. One mother watched as Shiite militiamen killed her husband and son. Afterward, the gunmen ordered her and her daughter-in-law to leave Saidiya. \"They came here on the same day. They were crying,\" recalled Thabit, who found them an apartment. \"If they had stayed, they would have been killed.\" Lt. Gen. Aboud Qanbar, the top Iraqi commander of the security offensive, conceded in an interview that \"displacements were taking place\" in Baghdad. What is unfolding in Saidiya, he said, was due to crackdowns in neighboring areas that were pushing Sunni and Shiite extremists into the enclave. He added that Iraqi and U.S. forces had the situation \"under control.\" The tensions in Saidiya are adding to the obstacles to political reconciliation. Sunni leaders, already disenchanted with the Shiite-led government, blame Iraq's Shiite-dominated security forces for allowing Shiite militias to infiltrate the area. \"What we are seeing on the ground is that police and the army are protecting the militias and facilitating their access to Sunni areas,\" said Adnan al-Dulaimi, a senior Sunni politician. \"What is taking place in Saidiya is the greatest example where attacks are taking place against the Sunni residents to drive them to emigrate and leave their houses for the militias to loot.\" Residents said Sunni militants and elements of the Mahdi Army, the militia allied with Shiite cleric Moqtada al-Sadr, were battling for control of their neighborhood -- part of a broader struggle for influence also unfolding in other areas of the capital. Residents describe a brutal topography where houses are being burned and where extremists from both sides have taken over homes, partitioning the area into Sunni and Shiite zones. Snipers and street-to-street gunfights are now common. Shops have closed. Families hide inside their houses, many pocked with bullet holes. Some refuse even to answer the doorbell. \"You never know who is shooting at you,\" Azzawi said. The enclave illustrates the limits of the security plan. Even with the reinforcements and scores of joint security stations across Baghdad, it is impossible for U.S. troops to be everywhere. In Saidiya, there is one small U.S. combat outpost, but extremists dominate the neighborhood. ‘A stranger in my own neighborhood’\"Every once in a while a patrol passes for a few minutes. What benefits will this bring? \" said Abu Yousef, 60, a Transportation Ministry employee. \"They cannot maintain security. This is the fact in Saidiya. There are a lot of areas like this in Baghdad.\" Abu Yousef, who out of fear asked that his full name not be used, cannot afford to move his family out of Saidiya, he said. Every time he and his relatives hear gunfire, they lock themselves inside their house, waiting for silence. Dozens of neighbors have left, he said. \"The moment they put their stuff in the car and leave, this is the worst thing,\" Abu Yousef said. \"I've become a stranger in my own neighborhood.\" Staff writer Megan Greenwell and special correspondents K.I. Ibrahim, Saad al-Izzi and Naseer Nouri contributed to this report.",
+          "dateModified": "2007-09-05T04:59:05.000Z",
+          "datePublished": "2007-09-05T04:59:05.000Z",
+          "articleSection": "news",
+          "articleId": "wbna20577597",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "wbna20577597"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/msnbc/Components/Photos/070905/070905_relief_vmed_320a.jpg",
+            "caption": "A woman passes through a checkpoint in north Baghdad's Khazimiyah neighborhood on Aug. 8.",
+            "height": 1000,
+            "width": 1181
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "By Sudarsan Raghavan ",
+              "image": null,
+              "jobTitle": null
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "A seven-month-old security offensive was intended to bring enough calm to Baghdad and other areas to resuscitate Iraq societally, politically and physically. Achieving those goals has proved elusive.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/id/wbna20577597"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "No relief from fear for Baghdad families. Um Abdullah's parents, who are Sunnis, swapped homes with a Shiite family they have known for years. Parents moved to a section of Baghdad's Saidiya neighborhood controlled by Sunni insurgents, while friends moved to Risala area controlled by Shiite militias. Shiite militias pushed deeper into Saidiya, driving out Sunni families. Security offensive intended to bring calm to Baghdad and other areas. Interior Ministry and morgue data provided to The Washington Post. GAO report on Iraq released Tuesday. Bush administration pushing for national legislation to share Iraq's oil revenue.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Um Abdullah"
+        ],
+        "LOCATION": [
+          "Baghdad",
+          "Saidiya",
+          "Risala",
+          "Iraq",
+          "Dora"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Interior Ministry",
+          "The Washington Post",
+          "Government Accountability Office",
+          "GAO",
+          "Bush administration"
+        ],
+        "DATE": [
+          "August",
+          "January",
+          "Tuesday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7603192370082889
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Kabul"
+    ],
+    "ORGANIZATION": [
+      "Taliban"
+    ],
+    "DATE": [
+      "November"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Afghans",
+      "Hazara"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CBS News",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Civilian Life",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Science Source",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "DIOMEDIA",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Gulf War",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Refugee camp",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iraq",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 26 - May 2",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joe Biden",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mohammad Idris",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Boris Johnson",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vladimir Putin",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Sergei Shoigu",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Martha Delgado",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marcelo Ebrard",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Afghanistan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "White House",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kabul",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Qatar",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Belarus",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kyrgyzstan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tajikistan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uzbekistan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ukraine",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mexico",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mexico City",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al Jazeera",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Interfax",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Russian Defence Ministry",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "CSTO",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Mexican Ministry of Foreign Affairs",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 31",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 14",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 25",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 18",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Kabul airlift",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "coronavirus pandemic",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Taliban",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Group of Seven",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "G7",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Um Abdullah",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Baghdad",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Saidiya",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Risala",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dora",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Interior Ministry",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Washington Post",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Government Accountability Office",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "GAO",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bush administration",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T17:06:31.246180"
+  }
+}

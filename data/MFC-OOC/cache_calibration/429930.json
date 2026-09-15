@@ -1,0 +1,412 @@
+{
+  "id_rumeur": 429930,
+  "id_image": 429930,
+  "caption": "GM from AZ Nice strong cup no creamer",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747600/oluyewo_benchmark/v6aisxli7a8z3d359eep.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "just being me in October 💚✨",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DPql3MFjI9M/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3740968950998776180",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPMg-WopVBFVmZ0ZjL4BGU3crcuyiwUFuIp1vDeyP9k-R7Tvoj",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "just being me in October 💚✨",
+        "link": "https://www.instagram.com/p/DPql3MFjI9M/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8edd119d26cf6bb21d1a1b/images/qo1JshFxz1-LH98IYLcRflGKukiXwMPtjD_DCmzHrR0.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPMg-WopVBFVmZ0ZjL4BGU3crcuyiwUFuIp1vDeyP9k-R7Tvoj",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3740968950998776180",
+        "image_width": 1920,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram avec le texte : just being me in October 💚✨",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [
+          "October"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7542263274434059
+    },
+    {
+      "titre": "Morning coffee in Paris",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/paristraveltiphotelbookingthingstodo/posts/1006229577923581/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=775212074608938",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu6TSqdME69TNbLOHPL4dSoXlOChIuHdfNOcpDeEAgV6UtXteM",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Morning coffee in Paris",
+        "link": "https://www.facebook.com/groups/paristraveltiphotelbookingthingstodo/posts/1006229577923581/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu6TSqdME69TNbLOHPL4dSoXlOChIuHdfNOcpDeEAgV6UtXteM",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=775212074608938",
+        "image_width": 1800,
+        "image_height": 1440
+      },
+      "webpage": {
+        "text": "Paris Travel Tips And Plan | Morning Coffee With A View 🩷\n\nParis Travel Tips And Plan\n\nEsmeralda Ida · Oct 9, 2024\n\n·\n\n\nMorning Coffee With A View 🩷 . . . #paris #morningcoffee #beautiful #cityoflove #visitparis credit 📷:... See more\n\n\n110\n\n8\n\n4",
+        "metadata": {
+          "title": "Paris Travel Tips And Plan | Morning Coffee With A View 🩷 | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTEwMDAzOTE2NzE0NTM0MjpWSzoxMDA2MjI5NTc3OTIzNTgx",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTEwMDAzOTE2NzE0NTM0MjpWSzoxMDA2MjI5NTc3OTIzNTgx",
+          "og:type": "video.other",
+          "og:title": "Paris Travel Tips And Plan | Morning Coffee With A View 🩷 | Facebook",
+          "og:description": "Morning Coffee With A View 🩷\n. \n. \n. \n#paris #morningcoffee #beautiful #cityoflove #visitparis credit 📷: \nwww.facebook.com/share/p/ZqYmTpsqcCZURFES/",
+          "og:url": "https://www.facebook.com/groups/paristraveltiphotelbookingthingstodo/posts/1006229577923581/",
+          "og:image:alt": "Paris Travel Tips And Plan | Morning Coffee With A View 🩷 | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1238862607429299",
+          "og:locale": "en_US",
+          "description": "Morning Coffee With A View 🩷\n. \n. \n. \n#paris #morningcoffee #beautiful #cityoflove #visitparis credit 📷: \nwww.facebook.com/share/p/ZqYmTpsqcCZURFES/",
+          "twitter:title": "Paris Travel Tips And Plan | Morning Coffee With A View 🩷 | Facebook",
+          "twitter:description": "Morning Coffee With A View 🩷\n. \n. \n. \n#paris #morningcoffee #beautiful #cityoflove #visitparis credit 📷: \nwww.facebook.com/share/p/ZqYmTpsqcCZURFES/"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication sur Facebook dans le groupe Paris Travel Tips And Plan par Esmeralda Ida le 9 octobre 2024, intitulée 'Morning coffee in Paris', avec la description 'Paris Travel Tips And Plan Morning Coffee With A View 🩷'",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Esmeralda Ida"
+        ],
+        "LOCATION": [
+          "Paris"
+        ],
+        "ORGANIZATION": [
+          "Facebook"
+        ],
+        "DATE": [
+          "Oct 9, 2024",
+          "October 9, 2024"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Morning Coffee"
+        ]
+      },
+      "score_e5": 0.7615525562928479
+    },
+    {
+      "titre": "Wonderful afternoon spent @bp_bergbron @thetedbaker_ @za ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/DcWmhq0utE2/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3967176949508127205",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0SN43tSGwX4S_Rt9ktT98hDvze58Nt12V7ZS_aC0dIw2vcEsm",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Wonderful afternoon spent @bp_bergbron @thetedbaker_ @za ...",
+        "link": "https://www.instagram.com/reel/DcWmhq0utE2/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8edd119d26cf6bb21d1a1b/images/szZG6oSwc_EgGDNunm0x3C-Z5KhOFQS1cJVUK29xoS4.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0SN43tSGwX4S_Rt9ktT98hDvze58Nt12V7ZS_aC0dIw2vcEsm",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3967176949508127205",
+        "image_width": 4096,
+        "image_height": 3072
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram intitulée 'Wonderful afternoon spent @bp_bergbron @thetedbaker_ @za'",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram",
+          "@bp_bergbron",
+          "@thetedbaker_"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7922909023147937
+    },
+    {
+      "titre": "Apr 28, 2026 #WriterFriendsChallenge: Sunrise or sunset ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DXrFvAdm1YN/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3885224324081866253",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSab1e733f4wGR1GqHqG1KriW--sVf1EnbUpm0a6_qot1oLBldE",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Apr 28, 2026 #WriterFriendsChallenge: Sunrise or sunset ...",
+        "link": "https://www.instagram.com/p/DXrFvAdm1YN/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8edd119d26cf6bb21d1a1b/images/StLB5-43O9mfKIHPcY_OV-53REWHWBpU9gP5eUC2Kn0.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSab1e733f4wGR1GqHqG1KriW--sVf1EnbUpm0a6_qot1oLBldE",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3885224324081866253",
+        "image_width": 1440,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram du 28 avril 2026 pour le #WriterFriendsChallenge concernant le lever ou le coucher du soleil (Sunrise or sunset).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [
+          "Apr 28, 2026"
+        ],
+        "EVENT": [
+          "WriterFriendsChallenge"
+        ],
+        "OTHER": [
+          "Sunrise or sunset"
+        ]
+      },
+      "score_e5": 0.7375163342732977
+    },
+    {
+      "titre": "My morning view #recovery #sobriety #worklife | Kelsey ...",
+      "source": "Flickr",
+      "lien": "https://www.flickr.com/photos/136248806@N07/28949420092/",
+      "image_url": "https://live.staticflickr.com/7563/28949420092_c6823e4f42_b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1JFe6_FDnLEYBI6Qxn6bu7y-VEDPT57VrFM3pTqBLXrC2qJk",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "My morning view #recovery #sobriety #worklife | Kelsey ...",
+        "link": "https://www.flickr.com/photos/136248806@N07/28949420092/",
+        "source": "Flickr",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgUlEQVRYhe2VzXGCUBRGz9UGKEFGC6AESkgFSipQ9nGCo1nHVJBnKkgJdBAKiAMlUEDwZgEiRgR1JuOGs3vMO3z3_XCBjo6OjjsjtU-92ILMBRkAFmiEGX1e-lIlsKDvgDigFhBBFgpB2l7AOJ4iGuTBRySIvmGG6-bwlynU-ZKAGuFpcb6AyfYdxGsKAFmzsf368NUrMGv21Qjzx_2oVz4fx8_t4QA6w9uehOQrbwsHEE9ZlfPyHfBiC9UvYND-AgBSRGyMXZ6psoyLO3OZz48tBGmxA5l7RTjk5-tUwt0rwgu_70J5BOI0TD7DruLc4ucL6LXN-m-KAjS6Qa04t_hElQL6IXDSJBpIMHZ4GGbRdb4kkIWHAoydIrpoMP74-nY0zDvc5T67zb4rHjei8bdBepPWcDOs_d6V5Rpk2hyuG2Hu7UfHl_Bj5BU7kdSYKaL-uXAAYT4DfNB6H_xqeO7U4cUW4BafWlpcuKjaeNpQlg-AA5LmBdX_jDo6Ojruzi_cQH6mK1i4cwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1JFe6_FDnLEYBI6Qxn6bu7y-VEDPT57VrFM3pTqBLXrC2qJk",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://live.staticflickr.com/7563/28949420092_c6823e4f42_b.jpg",
+        "image_width": 1024,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "My morning view #recovery #sobriety #worklife | Kelsey OSullivan\n\n←\n\n\n→\n\nBack to photostream\n\nKelsey OSullivan\n\nkomarie89\n\n\nMy morning view #recovery #sobriety #worklife\n\n\n9 views\n\n0 faves\n\n0 comments\n\nUploaded on August 17, 2016\n\nKelsey OSullivan By: Kelsey OSullivan\n\n\nMy morning view #recovery #sobriety #worklife\n\n\n9 views\n\n0 faves\n\n0 comments\n\nUploaded on August 17, 2016\n\nAll rights reserved",
+        "metadata": {
+          "og:site_name": "Flickr",
+          "og:updated_time": "2026-09-06T09:54:28.476Z",
+          "al:ios:app_name": "Flickr",
+          "al:ios:app_store_id": "328407587",
+          "twitter:app:name:iphone": "Flickr",
+          "twitter:app:id:iphone": "328407587",
+          "twitter:app:name:ipad": "Flickr",
+          "twitter:app:id:ipad": "328407587",
+          "twitter:app:name:googleplay": "Flickr",
+          "twitter:app:id:googleplay": "com.flickr.android",
+          "twitter:site": "@flickr",
+          "title": "My morning view #recovery #sobriety #worklife",
+          "keywords": "instagramapp, square, squareformat, iphoneography, uploaded:by=instagram, mayfair",
+          "og:title": "My morning view #recovery #sobriety #worklife",
+          "og:type": "article",
+          "og:url": "https://www.flickr.com/photos/136248806@N07/28949420092/",
+          "og:image": "https://live.staticflickr.com/7563/28949420092_c6823e4f42_b.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "1024",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://live.staticflickr.com/7563/28949420092_c6823e4f42_b.jpg",
+          "twitter:description": "Explore komarie89's 352 photos on Flickr!",
+          "twitter:app:url:iphone": "flickr://flickr.com/photos/136248806@N07/28949420092/",
+          "twitter:app:url:ipad": "flickr://flickr.com/photos/136248806@N07/28949420092/",
+          "twitter:app:url:googleplay": "https://www.flickr.com/photos/136248806@N07/28949420092/",
+          "al:ios:url": "flickr://flickr.com/photos/136248806@N07/28949420092"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication sur Flickr par Kelsey OSullivan (komarie89) le 17 août 2016, intitulée 'My morning view #recovery #sobriety #worklife Kelsey'",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kelsey OSullivan",
+          "Kelsey"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Flickr"
+        ],
+        "DATE": [
+          "August 17, 2016"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "recovery",
+          "sobriety",
+          "worklife"
+        ]
+      },
+      "score_e5": 0.7596561800859134
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "AZ"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "GM"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Esmeralda Ida",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kelsey OSullivan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "@bp_bergbron",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "@thetedbaker_",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flickr",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 9, 2024",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 28, 2026",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 17, 2016",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "WriterFriendsChallenge",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Morning Coffee",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Sunrise or sunset",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "recovery",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "sobriety",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "worklife",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:54:29.949783"
+  }
+}

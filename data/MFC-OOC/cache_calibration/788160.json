@@ -1,0 +1,320 @@
+{
+  "id_rumeur": 788160,
+  "id_image": 788160,
+  "caption": "The federal regulator has stipulated that the salmon may only be raised in landbased secure hatcheries in Panama and Canada which it will monitor",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748173/oluyewo_benchmark/o9e3fxhlykoem49f7bft.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "FDA approves genetically modified salmon in agency first ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/environment/2015/nov/19/fda-approves-genetically-modified-salmon",
+      "image_url": "https://i.guim.co.uk/img/media/0e6f88452b8f36ff7a7b8558558aafdc3146127f/0_688_3984_2392/master/3984.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=b17ebe3a47011123fc4d3776094c640a",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT42iXvR0hLUmktFn5ORdSkJuGFklm2MnelBIMk7Po-6sV-mvQz",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "FDA approves genetically modified salmon in agency first ...",
+        "link": "https://www.theguardian.com/environment/2015/nov/19/fda-approves-genetically-modified-salmon",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef8d2f96561e5774219de/images/emAHwUGjh28nOJcGoEN4RUUZtq_FigIpdi6tJuaB7tM.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT42iXvR0hLUmktFn5ORdSkJuGFklm2MnelBIMk7Po-6sV-mvQz",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.guim.co.uk/img/media/0e6f88452b8f36ff7a7b8558558aafdc3146127f/0_688_3984_2392/master/3984.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=b17ebe3a47011123fc4d3776094c640a",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "FDA approves genetically modified salmon in agency first. Source: The Guardian.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "FDA",
+          "The Guardian"
+        ],
+        "DATE": [
+          "2015"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "genetically modified salmon"
+        ]
+      },
+      "score_e5": 0.7791201483029332
+    },
+    {
+      "titre": "Britons turn to luxury food and drink to see out dismal 2020 ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/business/2020/dec/28/britons-turn-luxury-food-drink-see-out-dismal-2020-style",
+      "image_url": "https://i.guim.co.uk/img/media/c099ec4f824f7e6ca9988c869c7e6c8cecdd4682/0_274_4134_2480/master/4134.jpg?width=700&quality=85&auto=format&fit=max&s=a9c83023ffcfde6a8d57b766e100d4bc",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStc300ywCuo_3a0--GEgTfu4N-lAXu9XF7dI8_EaZckcLcffDi",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Britons turn to luxury food and drink to see out dismal 2020 ...",
+        "link": "https://www.theguardian.com/business/2020/dec/28/britons-turn-luxury-food-drink-see-out-dismal-2020-style",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef8d2f96561e5774219de/images/WPe0B6C52UN4y_462XKq_xgg8XCYeILPOViC5pd755Q.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStc300ywCuo_3a0--GEgTfu4N-lAXu9XF7dI8_EaZckcLcffDi",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/c099ec4f824f7e6ca9988c869c7e6c8cecdd4682/0_274_4134_2480/master/4134.jpg?width=700&quality=85&auto=format&fit=max&s=a9c83023ffcfde6a8d57b766e100d4bc",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "Britons turn to luxury food and drink to see out dismal 2020. Source: The Guardian.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Britons"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "2020"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "luxury food and drink"
+        ]
+      },
+      "score_e5": 0.6977570186188299
+    },
+    {
+      "titre": "Salted Salmon Making Process | Modern Salmon Farm | How ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=UPpRFWVaG40",
+      "image_url": "https://i.ytimg.com/vi/UPpRFWVaG40/mqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ9C_m29uj2R-fPRnNBJeB0z34W_Jf-naKXFamqJYq4edt54zm",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Salted Salmon Making Process | Modern Salmon Farm | How ...",
+        "link": "https://www.youtube.com/watch?v=UPpRFWVaG40",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ9C_m29uj2R-fPRnNBJeB0z34W_Jf-naKXFamqJYq4edt54zm",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/UPpRFWVaG40/mqdefault.jpg",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": null,
+      "texte_contexte": "Salted Salmon Making Process Modern Salmon Farm How. Source: YouTube.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Salted Salmon",
+          "Salmon Farm"
+        ]
+      },
+      "score_e5": 0.7592681537133641
+    },
+    {
+      "titre": "To reach their spawning grounds, @copperriversalmon swim 300 ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/DZGGnD4ybgX/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3098378496255337875",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBd8WRfEXheEwfOQd3iilIvfDbP5ZsGo2GccuSY42EWulTNRtv",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "To reach their spawning grounds, @copperriversalmon swim 300 ...",
+        "link": "https://www.instagram.com/reel/DZGGnD4ybgX/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef8d2f96561e5774219de/images/PnUjxAsALzwHXoQkLDMgk1iFamhxaDx5_6VYPGCfk1M.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBd8WRfEXheEwfOQd3iilIvfDbP5ZsGo2GccuSY42EWulTNRtv",
+        "thumbnail_width": 299,
+        "thumbnail_height": 168,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3098378496255337875",
+        "image_width": 2076,
+        "image_height": 1170
+      },
+      "webpage": null,
+      "texte_contexte": "To reach their spawning grounds, copperriversalmon swim 300. Source: Instagram.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "copperriversalmon"
+        ]
+      },
+      "score_e5": 0.7365814577504426
+    },
+    {
+      "titre": "Can I give raw salmon as a once in a blue moon treat to my ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/cats/comments/1ap5l59/can_i_give_raw_salmon_as_a_once_in_a_blue_moon/",
+      "image_url": "https://i.redd.it/zszdn7euc7ic1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-MPv8_9J91NRWXTF5vfGUm22ua0N2GmZSzz1fJCmHeB6Er23",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Can I give raw salmon as a once in a blue moon treat to my ...",
+        "link": "https://www.reddit.com/r/cats/comments/1ap5l59/can_i_give_raw_salmon_as_a_once_in_a_blue_moon/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-MPv8_9J91NRWXTF5vfGUm22ua0N2GmZSzz1fJCmHeB6Er23",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.redd.it/zszdn7euc7ic1.jpeg",
+        "image_width": 1440,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "Can I give raw salmon as a once in a blue moon treat to my. Source: Reddit.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "raw salmon"
+        ]
+      },
+      "score_e5": 0.7570755102868096
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Panama",
+      "Canada"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "salmon"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Britons",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FDA",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2020",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "copperriversalmon",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "genetically modified salmon",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "luxury food and drink",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "raw salmon",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Salmon Farm",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Salted Salmon",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:09:44.249073"
+  }
+}

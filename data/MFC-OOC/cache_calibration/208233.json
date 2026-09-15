@@ -1,0 +1,783 @@
+{
+  "id_rumeur": 208233,
+  "id_image": 89048,
+  "caption": "Wreckage of the Sugar Hill RV Park is scattered following a storm in Convent La",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748253/oluyewo_benchmark/k9axrjyymdsczdxfh7go.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Hailstorms of March 23, 2013",
+      "source": "National Weather Service",
+      "lien": "https://www.weather.gov/tae/event-20130323-hailstorms",
+      "image_url": "https://www.weather.gov/images/tae/Nashville_Hailfog_032313.JPG",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-9xDsbZvXSUREc-7SUWc-xZiNcEst2m3sQfafWNPHaso4Yomm",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Hailstorms of March 23, 2013",
+        "link": "https://www.weather.gov/tae/event-20130323-hailstorms",
+        "source": "National Weather Service",
+        "source_icon": "https://serpapi.com/searches/6a8ef97b0d0b29a9caf99fb9/images/TLmvMXod1s8ZcKEYBG0wPcJfaqwXm7sWhj0gGhRBUAs.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-9xDsbZvXSUREc-7SUWc-xZiNcEst2m3sQfafWNPHaso4Yomm",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.weather.gov/images/tae/Nashville_Hailfog_032313.JPG",
+        "image_width": 1224,
+        "image_height": 1632
+      },
+      "webpage": {
+        "text": "Hailstorms of March 23, 2013\n\nTallahassee, FL\n\nWeather Forecast Office\n\nSevere Weather & Hail Storms of March 23-24, 2013\n\nTwo episodes of severe weather occurred over the weekend of March 23rd and 24th, 2013. On Saturday morning March 23rd, several storms produced large hail across the Florida Panhandle & Big Bend as well as adjacent areas of Southwest & South Central Georgia. A preliminary local storm report details the hail reports received that morning. Figure 1 depicts all of the warnings (polygons) issued by WFO Tallahassee during the two-day event, with severe weather reports overlaid. The average event lead time was 17 minutes. \n\n \n\nFigure 1. Warning polygons issued by WFO Tallahassee from March 23-24, 2013. Severe (yellow), special marine (purple), and flood (green) warnings are depicted. Locations of reported severe weather are shown by the icons.\n\nTwenty two reports of severe hail were received during this event in just over a 3-hr period. Three of those were golf-ball size reports from Georgia's Cook and Berrien Counties. Figure 2 shows the hail storms in these two counties.\n\n \n\nFigure 2. Mosaic reflectivity image showing the severe thunderstorm over Berrien and Cook Counties in GA at 1110 AM EDT (1510 UTC) March 23, 2013. Locations of reported severe weather associated with this storm are shown by the icons.\n\nFigure 3 shows severe-size hail in neighboring Cook County, GA with a quarter dutifully shown for comparison. Figure 4 shows similar-sized hail in the hand of a Berrien County resident near Nashville. Figure 5 shows trees damaged by severe wind gusts in Nashville. Notice the fog formed by the melting hail still noticeable along the side of the road.\n\n \n\nFigure 3. Golf-ball size hail that fell in Cook County, GA on March 23, 2013. Note the hail is much larger in diameter than the quarter.\n\n \n\nFigure 4. Golf-ball size hail that fell in Berrien County, GA on March 23, 2013. Note that several hail stones are larger in diameter than the quarter.\n\n \n\nFigure 5. Trees damaged by severe wind gusts in Nashville, GA on March 23, 2013. Fog has developed as melting hail stones cool the nearby air to saturation.\n\nA second round of severe weather occurred the following morning. This was a brief event that produced a few wind damage reports in Leon County, FL and Grady and Thomas Counties in GA. Downed trees blocked the eastbound lanes of I-10 near the Monroe St. exit in Tallahassee, the Bloxham Cutoff just east of Bloxham, FL, and the eastbound lanes on U.S. Hwy 84 near Boston, GA. Figure 6 shows what the radar looked like over the Tallahassee area during the severe storms.\n\n \n\nFigure 6. Mosaic reflectivity image showing the severe thunderstorm over Leon County, FL at 745 AM EDT (1145 UTC) March 24, 2013. Locations of reported severe weather associated with this storm are shown by the icons.\n\nPage created by Mark Wool. Thanks to Don Van Dyke for the warning polygon and radar images and to Jeff Evans, Kelly Godsey and Katie Moore for gathering hail and damage photos.",
+        "metadata": {
+          "title": "Hailstorms of March 23, 2013",
+          "DC.title": "Hailstorms of March 23, 2013",
+          "DC.description": "Hailstorms of March 23, 2013",
+          "DC.keywords": "Hailstorms of March 23, 2013"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le 23 mars 2013, un épisode de intempéries et de grêle sévère a frappé la région de Tallahassee (Floride) ainsi que la Géorgie, entraînant des dégâts matériels tels que des arbres endommagés par le vent à Nashville (Géorgie) et des grêlons de la taille de balles de golf dans les comtés de Cook et Berrien. Un second épisode de mauvais temps a eu lieu le 24 mars 2013, provoquant des chutes d'arbres bloquant des routes en Floride (comté de Leon, Tallahassee) et en Géorgie (comtés de Grady et Thomas, Boston).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mark Wool",
+          "Don Van Dyke",
+          "Jeff Evans",
+          "Kelly Godsey",
+          "Katie Moore"
+        ],
+        "LOCATION": [
+          "Tallahassee",
+          "Florida",
+          "Florida Panhandle",
+          "Big Bend",
+          "Southwest Georgia",
+          "South Central Georgia",
+          "Georgia",
+          "Cook County",
+          "Berrien County",
+          "Nashville",
+          "Leon County",
+          "Grady County",
+          "Thomas County",
+          "I-10",
+          "Monroe St.",
+          "Bloxham",
+          "U.S. Hwy 84",
+          "Boston"
+        ],
+        "ORGANIZATION": [
+          "National Weather Service",
+          "WFO Tallahassee"
+        ],
+        "DATE": [
+          "March 23, 2013",
+          "March 23-24, 2013",
+          "March 24, 2013",
+          "Saturday morning March 23rd",
+          "1110 AM EDT",
+          "1510 UTC",
+          "745 AM EDT",
+          "1145 UTC"
+        ],
+        "EVENT": [
+          "Hailstorms of March 23, 2013"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7325768146197821
+    },
+    {
+      "titre": "Louisiana State Police Troop L and our first responder ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/DHO-EiBxYM3/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3589078930105557221",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjDw0KGOqFzHVKJYRbIJJH9jJku0vftZAP1CiN0b0tOFYnIzSC",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Louisiana State Police Troop L and our first responder ...",
+        "link": "https://www.instagram.com/p/DHO-EiBxYM3/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8ef97b0d0b29a9caf99fb9/images/-Vq1j6SO1_6WsWdRbOUEXEFtR7I0v-r6EGZJHWJp2-U.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjDw0KGOqFzHVKJYRbIJJH9jJku0vftZAP1CiN0b0tOFYnIzSC",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3589078930105557221",
+        "image_width": 1080,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Publication sur Instagram de la Louisiana State Police Troop L concernant leurs premiers intervenants.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Louisiana State Police Troop L",
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7341989800286063
+    },
+    {
+      "titre": "Hurricane Katrina Stock Video - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/playlist?list=PL70AB31357205C1DC",
+      "image_url": "https://i.ytimg.com/vi/RoxKQx1lF2w/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCuqct3XaGqDLSyopafx5HoaqJQAA",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvFbuRU46J11HZrWkF03EXX9CtSXgvYyZaIShgh-7IUPrntjQ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Hurricane Katrina Stock Video - YouTube",
+        "link": "https://www.youtube.com/playlist?list=PL70AB31357205C1DC",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvFbuRU46J11HZrWkF03EXX9CtSXgvYyZaIShgh-7IUPrntjQ",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/RoxKQx1lF2w/mqdefault.jpg?sqp=-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCuqct3XaGqDLSyopafx5HoaqJQAA",
+        "image_width": 180,
+        "image_height": 320
+      },
+      "webpage": {
+        "text": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket\n© 2026 Google LLC\nHurricane Katrina Stock Video - YouTube",
+        "metadata": {
+          "og:site_name": "YouTube",
+          "og:url": "http://www.youtube.com/playlist?list=PL70AB31357205C1DC",
+          "og:title": "Hurricane Katrina Stock Video",
+          "og:description": "Hurricane Katrina stock video and archive news footage shot by Breaking News Video Network, Inc. videographers. Footage from New Orleans, LA, Biloxi, MS and ...",
+          "og:image": "https://i.ytimg.com/vi/RoxKQx1lF2w/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCH66vDfSMfTjDDFs9CMG-aO9G8Xg&days_since_epoch=20702",
+          "og:image:width": "480",
+          "og:image:height": "270",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "http://www.youtube.com/playlist?list=PL70AB31357205C1DC&feature=applinks",
+          "al:android:url": "http://www.youtube.com/playlist?list=PL70AB31357205C1DC&feature=applinks",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "al:web:url": "http://www.youtube.com/playlist?list=PL70AB31357205C1DC&feature=applinks",
+          "al:web:should_fallback": "true",
+          "og:type": "website",
+          "fb:app_id": "87741124305",
+          "og:restrictions:age": "18+",
+          "twitter:title": "Hurricane Katrina Stock Video",
+          "twitter:description": "Hurricane Katrina stock video and archive news footage shot by Breaking News Video Network, Inc. videographers. Footage from New Orleans, LA, Biloxi, MS and ...",
+          "title": "Hurricane Katrina Stock Video",
+          "description": "Hurricane Katrina stock video and archive news footage shot by Breaking News Video Network, Inc. videographers. Footage from New Orleans, LA, Biloxi, MS and ...",
+          "keywords": "video, sharing, camera phone, video phone, free, upload"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Playlist de vidéos stock sur l'ouragan Katrina diffusée sur YouTube par Google LLC.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "Google LLC",
+          "NFL"
+        ],
+        "DATE": [
+          "2026"
+        ],
+        "EVENT": [
+          "Hurricane Katrina"
+        ],
+        "OTHER": [
+          "NFL Sunday Ticket"
+        ]
+      },
+      "score_e5": 0.726779744662026
+    },
+    {
+      "titre": "We are aware of the storm causing several power outages and ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/StowPoliceDepartment/posts/we-are-aware-of-the-storm-causing-several-power-outages-and-trees-down-please-re/1475854841241812/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1475854797908483",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX64dcNV5MxocLIlAasKG1gxJyeLgPFJUBO6_-4a2iQ2y38RYK",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "We are aware of the storm causing several power outages and ...",
+        "link": "https://www.facebook.com/StowPoliceDepartment/posts/we-are-aware-of-the-storm-causing-several-power-outages-and-trees-down-please-re/1475854841241812/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX64dcNV5MxocLIlAasKG1gxJyeLgPFJUBO6_-4a2iQ2y38RYK",
+        "thumbnail_width": 180,
+        "thumbnail_height": 279,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1475854797908483",
+        "image_width": 750,
+        "image_height": 1159
+      },
+      "webpage": {
+        "text": "We are aware of the... - Stow Police Department, Stow, Ohio\n\nFacebook\n\nOpen app\n\nStow Police Department, Stow, Ohio\nJul 3 ·\n\nWe are aware of the storm causing several power outages and trees down. Please remember we do not have any inside information of when power will be restored. Report outages here:... See more\n\n\n324\n\n43\n\n55\n\n\nLoading...\n\nTry again\nCancel\nLoading...\n\n\nLoading...",
+        "metadata": {
+          "title": "We are aware of the... - Stow Police Department, Stow, Ohio | Facebook",
+          "og:type": "video.other",
+          "og:title": "Stow Police Department, Stow, Ohio",
+          "og:description": "We are aware of the storm causing several power outages and trees down.  Please remember we do not have any inside information of when power will be restored.  \n\nReport outages here:...",
+          "og:url": "https://www.facebook.com/StowPoliceDepartment/posts/we-are-aware-of-the-storm-causing-several-power-outages-and-trees-down-please-re/1475854841241812/",
+          "og:image:alt": "Stow Police Department, Stow, Ohio",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1475854797908483",
+          "og:locale": "en_US",
+          "description": "We are aware of the storm causing several power outages and trees down.  Please remember we do not have any inside information of when power will be...",
+          "keywords": "power outage report,storm damage,public roadway blockage,downed power lines,report outages,power outages,storm,trees,roadway,report,firstenergy,tree,power outage,road",
+          "twitter:title": "Stow Police Department, Stow, Ohio",
+          "twitter:description": "We are aware of the storm causing several power outages and trees down.  Please remember we do not have any inside information of when power will be restored.  \n\nReport outages here:..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication Facebook de la police de Stow (Stow Police Department) le 3 juillet informant la population d'une tempête ayant provoqué des pannes de courant et des chutes d'arbres.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Stow",
+          "Ohio"
+        ],
+        "ORGANIZATION": [
+          "Stow Police Department",
+          "Facebook"
+        ],
+        "DATE": [
+          "Jul 3"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7406132399820057
+    },
+    {
+      "titre": "Two Jefferson Parish contracts poised to double without new ...",
+      "source": "NOLA.com",
+      "lien": "https://www.nola.com/news/politics/two-jefferson-parish-contracts-poised-to-double-without-new-competitive-bids/article_9d6abf3c-908f-56f1-b9c5-4f8cd03dc299.html",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/96/3968aa8e-7a6f-5c46-a747-1d7af45dbfb1/5d13a885ea1db.image.jpg?crop=572,429,23,0&resize=1200,900&order=crop,resize",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6bheI7GQJDFVQ1WEwqL1sPX8DcgSR1aZea7Vt5vFIvAGS8HNv",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Two Jefferson Parish contracts poised to double without new ...",
+        "link": "https://www.nola.com/news/politics/two-jefferson-parish-contracts-poised-to-double-without-new-competitive-bids/article_9d6abf3c-908f-56f1-b9c5-4f8cd03dc299.html",
+        "source": "NOLA.com",
+        "source_icon": "https://serpapi.com/searches/6a8ef97b0d0b29a9caf99fb9/images/OpwKiwD7D5SJNmnCU5KDKHZ9LVJZBg4m2ZEPl7pmN0c.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6bheI7GQJDFVQ1WEwqL1sPX8DcgSR1aZea7Vt5vFIvAGS8HNv",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/96/3968aa8e-7a6f-5c46-a747-1d7af45dbfb1/5d13a885ea1db.image.jpg?crop=572,429,23,0&resize=1200,900&order=crop,resize",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Two Jefferson Parish contracts poised to double without new competitive bids | Local Politics\n\nWinds from Hurricane Isaac knock down tree branches in Jefferson Parish on Aug. 29. Officials are citing storm damage to justify part of cap increases sought for contracts for tree removal and street light repairs.\n\n(Photo by Rusty Costanza, The Times-Picayune)\n\nJefferson Parish officials are considering doubling the potential value of existing contracts for tree removal and street lighting, adding $4.5 million in parish work without seeking new competitive bids. A large portion of that money is needed to pay for emergency expenses related to Hurricane Isaac and for \"time-sensitive\" work needed ahead of the Super Bowl in February, officials said.\n\nBut Council Chairman Elton Lagasse said he has questions about other proposed expenses, and he said he plans to question the administration when the Parish Council considers the proposals at a meeting scheduled for Wednesday.\n\nParish President John Young has generally favored seeking competitive offers for parish work. At his request, the Parish Council has opened for bids several contracts that had been traditionally renewed or expanded without seeking offers.\n\nBut the administration is now asking the Parish Council to raise the allowed expenses in a two-year, tree removal contract with Bayou Tree Service, almost doubling its potential value from $525,000 to just over $1 million. The administration is also proposing to double the cap for a two-year deal with W.J. Bloecher Co. for street light repairs and improvements, going from $4 million to $8 million.\n\nBoth firms obtained their current contracts by winning competitive bid processes. The proposed additions to the contracts' caps would require only Parish Council approval and would not require the parish to seek offers from other firms.\n\nYoung emphasized that both contracts were awarded to the lowest bidder for a period of two years. He said that original fee cap is only an internal accounting control. The terms of the contract allow the parish to add services during that period within the scope of the agreements, he said.\n\n\"These are low bid, good quality contractors and the scope of services is not being expanded on either contract,\" Young said.\n\nAdministration officials said part of the increases are needed to pay for emergency, storm-related items. Parkways director Wayne Nocito said the additional $500,000 in Bayou Tree's contract would help pay for almost $650,000 in tree removal costs caused by Hurricane Isaac. He said the emergency declaration during the storm allowed the administration to authorize the work immediately, and to seek the approval from the council now that the work has been completed.\n\nEngineering director Mark Drewes said the addition to the street light contract includes about $100,000 in expected emergency expenses related to Isaac. But Drewes said another $1.1 million would help pay for lighting improvements on Airline Drive, between Labarre Road and the Orleans Parish line.\n\nOfficials said the Super Bowl organizing committee asked the parish in May to consider improvements in that section of Airline, which is expected to see heavy traffic as visitors travel in and out of the city or to the Saints training facility in Metairie. Drewes said because the road is a state highway, it took until August to get all the necessary authorizations. That left little time to draft a formal bid request and complete it without risking delays to the work, he argued. He said it can take three to four months just for the manufacturer to make and deliver the decorative light poles the parish plans to install.\n\nThe Airline Drive work could not be completed under the contracts' current $4 million cap, Drewes said, which is already assigned to other projects, maintenance or unforeseen repair needs.\n\nBut the proposed increase in streetlight work would also let the administration add another $1.6 million in planned improvements, including work in the Bissonet area in Metairie and along Barataria Boulevard in Marrero. Drewes said that work is not emergency or time-sensitive. The administration's argument is that the parish could use the existing designs in the current contract to reduce costs.\n\nLagasse and Roberts, the two parishwide representative in the council, both said they plan to support the increases related to Isaac expenditures and to the Airline Drive project tied to the Super Bowl. Roberts said he also plans to support the remaining additions.\n\n\"If that is the administration's position and apparently their recommendation, I will vote favorably,\" Roberts said.\n\nBut Lagasse on Tuesday said he had questions about the work that's not related to Isaac or the Super Bowl. He said he wants to hear more from the administration about whether that work is really needed in the current contract, or whether it could be sent out for bids. \"I trust the engineers, but I have some questions and I plan to ask them,\" Lagasse said.\n\nBayou Tree didn't contribute to the campaign of any parish official in the two-year period before the contracts' approval, according to affidavits filed by the firm. W.J. Bloecher Co. and its owners listed contributions totaling $10,000 to Roberts' campaign. Roberts has said, as have other council members, that campaign contributions play no role in the council's contract decisions.\n\nThe council meeting is set to start Wednesday at 10 a.m. in the Kenner City Council Chambers, 1801 Williams Blvd.",
+        "metadata": {
+          "title": "Two Jefferson Parish contracts poised to double without new competitive bids | Local Politics | nola.com",
+          "description": "Winds from Hurricane Isaac knock down tree branches in Jefferson Parish on Aug. 29. Officials are citing storm damage to justify part of cap increases sought for contracts for tree",
+          "author": "Manuel Torres, NOLA.com | The Times-Picayune",
+          "og:type": "article",
+          "og:url": "https://www.nola.com/news/politics/two-jefferson-parish-contracts-poised-to-double-without-new-competitive-bids/article_9d6abf3c-908f-56f1-b9c5-4f8cd03dc299.html",
+          "og:image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/96/3968aa8e-7a6f-5c46-a747-1d7af45dbfb1/5d13a885ea1db.image.jpg?crop=620%2C326%2C0%2C51",
+          "og:image:width": "620",
+          "og:image:height": "326",
+          "og:title": "Two Jefferson Parish contracts poised to double without new competitive bids",
+          "og:description": "Winds from Hurricane Isaac knock down tree branches in Jefferson Parish on Aug. 29. Officials are citing storm damage to justify part of cap increases sought for contracts for tree",
+          "og:site_name": "NOLA.com",
+          "og:section": "news/politics",
+          "fb:app_id": "420458476088177",
+          "fb:pages": "44475185587",
+          "mrf:authors": "Manuel Torres, NOLA.com | The Times-Picayune",
+          "mrf:sections": "Metro New Orleans Politics | NOLA.com",
+          "tncms:ads": "lazyload,refresh_timer,dmp",
+          "parsely-title": "Two Jefferson Parish contracts poised to double without new competitive bids",
+          "parsely-author": "Manuel Torres, NOLA.com | The Times-Picayune"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "À Jefferson Parish, les responsables envisagent de doubler la valeur des contrats existants pour l'enlèvement d'arbres et l'éclairage public sans lancer de nouveaux appels d'offres compétitifs, afin de financer des dépenses d'urgence liées à l'ouragan Isaac et des travaux urgents avant le Super Bowl de février. L'administration demande d'augmenter le contrat de Bayou Tree Service et celui de W.J. Bloecher Co. Les responsables mentionnés incluent le président du conseil Elton Lagasse, le président de la paroisse John Young, le directeur des parcs Wayne Nocito et le directeur de l'ingénierie Mark Drewes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rusty Costanza",
+          "Elton Lagasse",
+          "John Young",
+          "Wayne Nocito",
+          "Mark Drewes"
+        ],
+        "LOCATION": [
+          "Jefferson Parish",
+          "Airline Drive",
+          "Labarre Ro"
+        ],
+        "ORGANIZATION": [
+          "The Times-Picayune",
+          "Bayou Tree Service",
+          "W.J. Bloecher Co."
+        ],
+        "DATE": [
+          "Aug. 29",
+          "February"
+        ],
+        "EVENT": [
+          "Hurricane Isaac",
+          "Super Bowl"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.732253818366475
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Sugar Hill RV Park",
+      "Convent La"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Wool",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Don Van Dyke",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jeff Evans",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Kelly Godsey",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Katie Moore",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Rusty Costanza",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Elton Lagasse",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "John Young",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Wayne Nocito",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Drewes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tallahassee",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Florida Panhandle",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Big Bend",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Southwest Georgia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South Central Georgia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Georgia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Cook County",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Berrien County",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nashville",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Leon County",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Grady County",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Thomas County",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "I-10",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Monroe St.",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Bloxham",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "U.S. Hwy 84",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Boston",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Stow",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ohio",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jefferson Parish",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Airline Drive",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Labarre Ro",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Weather Service",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WFO Tallahassee",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Louisiana State Police Troop L",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google LLC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NFL",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Stow Police Department",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Times-Picayune",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bayou Tree Service",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "W.J. Bloecher Co.",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 23, 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 23-24, 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "March 24, 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday morning March 23rd",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1110 AM EDT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1510 UTC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "745 AM EDT",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1145 UTC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2026",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jul 3",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Aug. 29",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Hailstorms of March 23, 2013",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Hurricane Katrina",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Hurricane Isaac",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Super Bowl",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "NFL Sunday Ticket",
+      "rangs": [
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T19:23:38.664531"
+  }
+}

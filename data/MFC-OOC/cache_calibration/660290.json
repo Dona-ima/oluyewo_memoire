@@ -1,0 +1,380 @@
+{
+  "id_rumeur": 660290,
+  "id_image": 660290,
+  "caption": "55 Savushkina Street St Petersburg said to be the headquarters of Russia s troll army",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748174/oluyewo_benchmark/si9xaoogx3ubysqctl7w.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "The Russian troll factory at the heart of the meddling ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2015/apr/02/putin-kremlin-inside-russian-troll-house",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/2/1427972487114/3bb72bd4-f013-44a2-9995-bc2a9b475052-1020x612.jpeg?width=700&quality=85&auto=format&fit=max&s=74081038e0ebd92411f4610f2e5e77bb",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5nVEvR0wQDSzLdtaC4m78v2nnQy42wEh3S1jrLOyfoVNRuJec",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "The Russian troll factory at the heart of the meddling ...",
+        "link": "https://www.theguardian.com/world/2015/apr/02/putin-kremlin-inside-russian-troll-house",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef8d6a26f56dabf7fd01f/images/V3XtiI8ux-7P9-u1FKYGrCXrTSXhnR_syuvxRYML8is.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5nVEvR0wQDSzLdtaC4m78v2nnQy42wEh3S1jrLOyfoVNRuJec",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/2/1427972487114/3bb72bd4-f013-44a2-9995-bc2a9b475052-1020x612.jpeg?width=700&quality=85&auto=format&fit=max&s=74081038e0ebd92411f4610f2e5e77bb",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "The Russian troll factory at the heart of the meddling, published by The Guardian.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Putin"
+        ],
+        "LOCATION": [
+          "Russia"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Kremlin"
+        ],
+        "DATE": [
+          "2015-04-02"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.8175777141905846
+    },
+    {
+      "titre": "Russian trolls who interfered in 2016 U.S. election also ...",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/politics/national-security/russian-trolls-who-interfered-2016-u-s-election-also-made-n1013811",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_23/2883446/190604-troll-factory-russian-propaganda-2015-ac-447p.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTis3y4Ik4TwfX_KMfWO92qsXErq5s70OZdSp_vnZxbSzR1dbHm",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Russian trolls who interfered in 2016 U.S. election also ...",
+        "link": "https://www.nbcnews.com/politics/national-security/russian-trolls-who-interfered-2016-u-s-election-also-made-n1013811",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8ef8d6a26f56dabf7fd01f/images/F2li66dONj-lnsAsBLRVOXQTSophw9vhv2cPgdl8yV0.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTis3y4Ik4TwfX_KMfWO92qsXErq5s70OZdSp_vnZxbSzR1dbHm",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_23/2883446/190604-troll-factory-russian-propaganda-2015-ac-447p.jpg",
+        "image_width": 1000,
+        "image_height": 1500
+      },
+      "webpage": null,
+      "texte_contexte": "Russian trolls who interfered in 2016 U.S. election also, reported by NBC News.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Russia",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "NBC News"
+        ],
+        "DATE": [
+          "2016"
+        ],
+        "EVENT": [
+          "2016 U.S. election"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7875948279333895
+    },
+    {
+      "titre": "St Petersburg 'troll farm' had 90 dedicated staff working to ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/news/world/europe/russia-us-election-donald-trump-st-petersburg-troll-farm-hillary-clinton-a8005276.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/17/16/savushkina-street.jpg?width=1200&height=1200&fit=crop",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflsovAPDP9AdFLwQxwgbL8-utLuor1XeaGyLyTMbmoxZLOWdL",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "St Petersburg 'troll farm' had 90 dedicated staff working to ...",
+        "link": "https://www.independent.co.uk/news/world/europe/russia-us-election-donald-trump-st-petersburg-troll-farm-hillary-clinton-a8005276.html",
+        "source": "The Independent",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSrV5qFXK4MrrpmF-qGRuGZ3XvO58kiXpkOWX91Kx8-eTpm--qUCQciIk1KfIFiK7-tBEP0myCykgJYy4NHLoay0SMKqJd_ci1MQXzy391HtuxldxaIDbUucMM",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflsovAPDP9AdFLwQxwgbL8-utLuor1XeaGyLyTMbmoxZLOWdL",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/17/16/savushkina-street.jpg?width=1200&height=1200&fit=crop",
+        "image_width": 1200,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "St Petersburg 'troll farm' had 90 dedicated staff working to, published by The Independent.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Donald Trump",
+          "Hillary Clinton"
+        ],
+        "LOCATION": [
+          "St Petersburg",
+          "Russia",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "The Independent"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "US election"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7812102241623816
+    },
+    {
+      "titre": "File:55 Savushkina Street.jpg - Wikimedia Commons",
+      "source": "Wikimedia Commons",
+      "lien": "https://commons.wikimedia.org/wiki/File:55_Savushkina_Street.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/55_Savushkina_Street.jpg/330px-55_Savushkina_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvjrjjheOxFWTVGkkxGzhyEUN7otMYnhpOE21RJaHlUa_UlHO_",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "File:55 Savushkina Street.jpg - Wikimedia Commons",
+        "link": "https://commons.wikimedia.org/wiki/File:55_Savushkina_Street.jpg",
+        "source": "Wikimedia Commons",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTKL4eFSPEnxVpZuK-uuPg1T7Fq0Mf9Q9EKykyFOXYTGf7RFB9yOJeojFa1u8ZIaifU0AK2_RSm9HKPereiDfVYhQzOQo3XEHUDiejM0E5WbEMQHPnGOstvQWU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvjrjjheOxFWTVGkkxGzhyEUN7otMYnhpOE21RJaHlUa_UlHO_",
+        "thumbnail_width": 194,
+        "thumbnail_height": 260,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/55_Savushkina_Street.jpg/330px-55_Savushkina_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+        "image_width": 247,
+        "image_height": 330
+      },
+      "webpage": null,
+      "texte_contexte": "File:55 Savushkina Street.jpg - Wikimedia Commons.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "55 Savushkina Street"
+        ],
+        "ORGANIZATION": [
+          "Wikimedia Commons"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "55 Savushkina Street.jpg"
+        ]
+      },
+      "score_e5": 0.8019342476263178
+    },
+    {
+      "titre": "Mueller charges 13 Russians with interfering in US election to ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/us-news/2018/feb/16/robert-mueller-russians-charged-election",
+      "image_url": "https://i.guim.co.uk/img/media/c11171cc4f05be77053af1082e356c45e5a1ffeb/0_0_1020_612/master/1020.jpg?width=700&quality=85&auto=format&fit=max&s=c58119d141e9cae553c9cdca255962d7",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcvi2tWePxxLjR-2ecUXw9jgpOLA6LMhHlod7LWktJGxpKtji_",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Mueller charges 13 Russians with interfering in US election to ...",
+        "link": "https://www.theguardian.com/us-news/2018/feb/16/robert-mueller-russians-charged-election",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcvi2tWePxxLjR-2ecUXw9jgpOLA6LMhHlod7LWktJGxpKtji_",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/c11171cc4f05be77053af1082e356c45e5a1ffeb/0_0_1020_612/master/1020.jpg?width=700&quality=85&auto=format&fit=max&s=c58119d141e9cae553c9cdca255962d7",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": null,
+      "texte_contexte": "Mueller charges 13 Russians with interfering in US election to, reported by The Guardian.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Robert Mueller"
+        ],
+        "LOCATION": [
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "The Guardian"
+        ],
+        "DATE": [
+          "2018-02-16"
+        ],
+        "EVENT": [
+          "US election"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7500586759063442
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Savushkina Street",
+      "St Petersburg",
+      "Russia"
+    ],
+    "ORGANIZATION": [
+      "troll army"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "55"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Putin",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Kremlin",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015-04-02",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "2016 U.S. election",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hillary Clinton",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "St Petersburg",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "US election",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "55 Savushkina Street",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikimedia Commons",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "55 Savushkina Street.jpg",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Robert Mueller",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2018-02-16",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T15:10:33.748803"
+  }
+}

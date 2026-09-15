@@ -1,0 +1,959 @@
+{
+  "id_rumeur": 1601682,
+  "id_image": 1601682,
+  "caption": "France says 130 people died in last week s attacks on a number of sites including this cafe in Paris",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747654/oluyewo_benchmark/pmxwwud92sm6hmvqukzq.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Paris attacks: UN backs 'all necessary measures' against IS ...",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-europe-34886971",
+      "image_url": "http://c.files.bbci.co.uk/11710/production/_86804417_5c8299ea-c0df-41ea-8c5d-15d8c159fb0e.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNyF5BFgmAeOSvJINCNx7gWEJgrmUK7dsgUA-Cepm6ED13od9z",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Paris attacks: UN backs 'all necessary measures' against IS ...",
+        "link": "https://www.bbc.com/news/world-europe-34886971",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNyF5BFgmAeOSvJINCNx7gWEJgrmUK7dsgUA-Cepm6ED13od9z",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://c.files.bbci.co.uk/11710/production/_86804417_5c8299ea-c0df-41ea-8c5d-15d8c159fb0e.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Paris attacks: UN backs 'all necessary measures' against IS\n\nIt came as the Belgian authorities raised the terror alert to its highest level, external in the capital, Brussels, warning of an \"imminent threat\".\n\nThe city's metro system and other underground train lines have been closed until at least Sunday, and the public has been warned to avoid crowds, including shopping centres and concerts.\n\nBelgium, and especially Brussels, have been at the centre of investigations into the militants behind the Paris attacks.\n\nOne of those being sought, Salah Abdeslam, is believed to have gone back to Belgium.\n\nThe Belgian authorities also announced that a suspect had been charged with involvement in the attacks, bringing the number of people charged there to three.\n\nOn Friday evening, large crowds converged at the scenes of the attacks across the French capital at 21:20 (20:20 GMT) to hold vigils at the time the attacks started a week ago.",
+        "metadata": {
+          "description": "The UN Security Council unanimously adopts a resolution to \"take all necessary measures\" against Islamic State, a week after the deadly attacks in Paris.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The UN Security Council unanimously adopts a resolution to \"take all necessary measures\" against Islamic State, a week after the deadly attacks in Paris.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11710/production/_86804417_5c8299ea-c0df-41ea-8c5d-15d8c159fb0e.jpg",
+          "og:image:alt": "Flowers in a window shattered by a bullet at the Carillon cafe - one of the sites of the 13 November attacks in Paris",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Paris attacks: UN backs 'all necessary measures' against IS",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-europe-34886971",
+          "article:section": "Europe",
+          "twitter:description": "The UN Security Council unanimously adopts a resolution to \"take all necessary measures\" against Islamic State, a week after the deadly attacks in Paris.",
+          "twitter:title": "Paris attacks: UN backs 'all necessary measures' against IS"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-europe-34886971",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-11-21T01:58:36.000Z",
+          "dateModified": "2015-11-21T07:16:31.000Z",
+          "description": "The UN Security Council unanimously adopts a resolution to \"take all necessary measures\" against Islamic State, a week after the deadly attacks in Paris.",
+          "headline": "Paris attacks: UN backs 'all necessary measures' against IS",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11710/production/_86804417_5c8299ea-c0df-41ea-8c5d-15d8c159fb0e.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11710/production/_86804417_5c8299ea-c0df-41ea-8c5d-15d8c159fb0e.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-europe-34886971",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Les autorités belges ont relevé le niveau d'alerte terroriste à son maximum à Bruxelles en raison d'une menace imminente, entraînant la fermeture du métro et d'autres lignes souterraines et incitant le public à éviter les foules. Ces mesures font suite aux enquêtes sur les attentats de Paris et la recherche de suspects comme Salah Abdeslam, tandis qu'un suspect a été inculpé en Belgique. Des foules se sont rassemblées sur les lieux des attaques dans la capitale française pour des veillées.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Salah Abdeslam"
+        ],
+        "LOCATION": [
+          "Paris",
+          "Brussels",
+          "Belgium",
+          "France"
+        ],
+        "ORGANIZATION": [
+          "UN",
+          "IS",
+          "BBC"
+        ],
+        "DATE": [
+          "Sunday",
+          "Friday evening"
+        ],
+        "EVENT": [
+          "Paris attacks"
+        ],
+        "OTHER": [
+          "metro"
+        ]
+      },
+      "score_e5": 0.7411438308140296
+    },
+    {
+      "titre": "Anger as Carillon escapee verbally attacks Salah Abdeslam at ...",
+      "source": "RFI",
+      "lien": "https://www.rfi.fr/en/france/20210930-anger-as-carillon-escapee-verbally-attacks-salah-abdeslam-at-paris-terror-trial",
+      "image_url": "https://s.rfi.fr/media/display/90a5e12c-118a-11ec-b7d2-005056bfb2b6/w:1280/p:3x4/AP817678738420.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ6LjF75soqkzwEZX32r7YWG1gfg3n_IhDZjxVMl8dVDkieBrS",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Anger as Carillon escapee verbally attacks Salah Abdeslam at ...",
+        "link": "https://www.rfi.fr/en/france/20210930-anger-as-carillon-escapee-verbally-attacks-salah-abdeslam-at-paris-terror-trial",
+        "source": "RFI",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIVBMVEXjABP____iAAnlCCT-7_H73N_pMkftUWP4vsXvaXn1oKr80A72AAAApUlEQVQ4je2TSRLEIAhFmQT1_geOEJNKHDZdWfZfuMAn-CkA-FpEFEdocQ2qDMBdM1CSYCVIEko85KCKTQ5gSAaA1K9V90Dx5_61HdAqWIR2QEbUCFnXw3x4D2DZB2MiKw4UtZZE3xmI0VrZ6sDSpgO5QpRAWQKSK52fNPZWz4Dw7WLRh1bCEzxszkD5A98AYh2QDoxj3zfkXpVpcS7wGrL96v2iA10oBm2y0l1hAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ6LjF75soqkzwEZX32r7YWG1gfg3n_IhDZjxVMl8dVDkieBrS",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://s.rfi.fr/media/display/90a5e12c-118a-11ec-b7d2-005056bfb2b6/w:1280/p:3x4/AP817678738420.jpg",
+        "image_width": 1706,
+        "image_height": 1279
+      },
+      "webpage": {
+        "text": "Anger as Carillon escapee verbally attacks Salah Abdeslam at Paris terror trial\n\nPARIS ATTACKS TRIAL\n\nIf the testimony of those hurt or bereaved in the November 2015 attacks has been generally characterised by tragic dignity, Wednesday's hearing was marked by an outburst of anger.\n\nIssued on: 30/09/2021 - 13:27\n\n1 min Reading time\n\n\nAfter a day devoted to those who suffered at the Stade de France, the court turned its attention to the survivors and the families of the victims at the Carillon bar and the Petit Cambodge restaurant in central Paris. Thirteen people lost their lives in a hail of automatic gunfire; dozens were injured.\n\nThere are those who, six years on, are still trying to rebuild the lives they would rather live. For whom every day is a fight. For whom the simple claim that they can stand upright and move forward is a hard-won achievement.\n\nAnd there are those who are terribly, noisily angry.\n\nOne witness spoke of the violence of the seven bullets which hit his friend, killing him. \"It took them four days to put his body back together!\"\n\nAnd he said he was before the court to settle an account with the \"insignificant little nonentities\" who perpetrated the attacks.\n\n\n'A little blackguard pretending to be a soldier'\n\nHe described the sole survivor of the killing squads, Salah Abdeslam, present in court as \"nothing but a little thug trying to live up to his reputation as a fighter.\n\n\"I saw his brother shooting defenceless girls of twenty . . .\"\n\nWhich was too much for Olivia Ronen, the lawyer defending Abdeslam.\n\nRecognising the emotion provoked by suffering, she accused the witness of provocation, as his anger turned towards her with the observation that \"if she wasn't careful, she might turn out like her client\".\n\nNot without difficulty, the court president, Jean-Louis Périès, brought the proceedings back to order, reminding the defence that their client has, himself, already provoked the assembly on several occasions with observations which have been deeply hurtful to the families of the bereaved and the survivors.\n\nAbdeslam has, notably, acknowledged that \"those you call terrorists were my brothers.\"\n\nSad dignity was, more or less, re-established.\n\nThe trial continues.\n\nRead more on related topics:",
+        "metadata": {
+          "title": "Anger as Carillon escapee verbally attacks Salah Abdeslam at Paris terror trial - RFI",
+          "og:image": "https://s.rfi.fr/media/display/90a5e12c-118a-11ec-b7d2-005056bfb2b6/w:1280/p:16x9/AP817678738420.jpg",
+          "og:locale": "en_US",
+          "og:site_name": "RFI",
+          "og:type": "article",
+          "og:title": "Anger as Carillon escapee verbally attacks Salah Abdeslam at Paris terror trial",
+          "og:description": "If the testimony of those hurt or bereaved in the November 2015 attacks has been generally characterised by tragic dignity, Wednesday's hearing was marked by an outburst of anger.",
+          "og:see_also": "https://www.rfi.fr/en/france/20210923-in-the-midst-of-the-horror-bataclan-heroism-has-its-golden-moment",
+          "og:url": "https://www.rfi.fr/en/france/20210930-anger-as-carillon-escapee-verbally-attacks-salah-abdeslam-at-paris-terror-trial",
+          "fb:app_id": "113191652055439",
+          "fb:pages": "28764872018",
+          "article:publisher": "https://www.facebook.com/RFI.English/",
+          "article:author": "https://www.facebook.com/RFI.English/",
+          "article:published_time": "2021-09-30T11:27:56+00:00",
+          "article:modified_time": "2021-09-30T11:27:56+00:00",
+          "article:section": "france",
+          "article:tag": "Jihadist",
+          "description": "If the testimony of those hurt or bereaved in the November 2015 attacks has been generally characterised by tragic dignity, Wednesday's hearing was marked by an outburst of anger.",
+          "keywords": "France,Paris,Paris attacks trial,Terrorism,Jihadist",
+          "apple-mobile-web-app-title": "RFI"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Lors du procès des attentats de Paris, un survivant de l'attaque du bar Le Carillon a eu une vive altercation verbale avec l'accusé Salah Abdeslam et son avocate Olivia Ronen. Le procès s'est concentré sur les survivants et les familles des victimes des attaques du Carillon et du restaurant Le Petit Cambodge à Paris, en présence du président du tribunal Jean-Louis Périès.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Salah Abdeslam",
+          "Olivia Ronen",
+          "Jean-Louis Périès"
+        ],
+        "LOCATION": [
+          "Paris",
+          "Stade de France",
+          "Carillon bar",
+          "Petit Cambodge restaurant"
+        ],
+        "ORGANIZATION": [
+          "RFI"
+        ],
+        "DATE": [
+          "30/09/2021",
+          "Wednesday",
+          "November 2015"
+        ],
+        "EVENT": [
+          "Paris attacks",
+          "Paris terror trial"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7645653086408413
+    },
+    {
+      "titre": "Six Ways To Support Anxious Workers In The Wake Of Paris",
+      "source": "Forbes",
+      "lien": "https://www.forbes.com/sites/roncarucci/2015/11/16/six-ways-to-support-anxious-workers-in-the-wake-of-paris/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aa6bf1efa8e4c0bb0f6c722d22b5e17/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8-X1p1392zavX2HKlbCxiop77rVC0eCswNxP1GP2FYEE1cqS",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Six Ways To Support Anxious Workers In The Wake Of Paris",
+        "link": "https://www.forbes.com/sites/roncarucci/2015/11/16/six-ways-to-support-anxious-workers-in-the-wake-of-paris/",
+        "source": "Forbes",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEUYFxb___8AAAAVFBMHBQLMzMx-fn7Q0NDU1NT7-_vY19cwLy_T09Pg4OAcGxoODAsjIiFramqsrKzm5uZWVlUsLCrx8fE8OztRUFBKSkm-vr54d3e1tbXe3t5oaGimpqWdnZ1gX19DQkKGhoaNjY0uM3eHAAAA4UlEQVQ4jdWS3RqCIAyGYSgomqiklj-l2f1fY5t4JNhxfSfybC9z-xhjvyM46pivtYpJioTf5ECITFqOSrVS-UQnEAcCrhS-NFi9kK0P4F9SBKZMENxxbnzggoBuhGuJMx9ICCi3uLnZ0gdiAgqMQ8SKe8CJHoEEAYiHiJkAMBJgALq2ivz01hhO8agGy0-AJxnV0rBfKuTo03gGjG4Kk5310O8-wLwEZth9mMhJ32UHaHqsLpzcAHpv-wpWJwnY9mEJ9kf3QRLAZ2_Z9rxMuFNeBwlTrdJpfYe7MKf7_A_6AFW3CNmtF5CiAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8-X1p1392zavX2HKlbCxiop77rVC0eCswNxP1GP2FYEE1cqS",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa6bf1efa8e4c0bb0f6c722d22b5e17/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+        "image_width": 600,
+        "image_height": 900
+      },
+      "webpage": null,
+      "texte_contexte": "Article publié par Forbes concernant le soutien aux travailleurs anxieux à la suite des attentats de Paris.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Ron Carucci"
+        ],
+        "LOCATION": [
+          "Paris"
+        ],
+        "ORGANIZATION": [
+          "Forbes"
+        ],
+        "DATE": [
+          "2015/11/16"
+        ],
+        "EVENT": [
+          "Paris attacks"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7834102550400226
+    },
+    {
+      "titre": "Our streets felt like a war zone”: a Paris resident on the ...",
+      "source": "Quartz",
+      "lien": "https://qz.com/550704/our-streets-felt-like-a-war-zone-a-paris-resident-on-the-attacks",
+      "image_url": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/b10c3c0d093469d7c8437ff444b95854.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0mFiOO7S0S_0cR-rxyXPOyPOgaRZYPl5VcVQrMskfUKJpWPO",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Our streets felt like a war zone”: a Paris resident on the ...",
+        "link": "https://qz.com/550704/our-streets-felt-like-a-war-zone-a-paris-resident-on-the-attacks",
+        "source": "Quartz",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT9LE1AJj0PKrmSOHvF6Dy3jIsaexA63quKjwW5XiwszvIk8K8WIRus4ixUXjN87lbuxVVrjttbGmkEtmFN81Vj9wrv7SEP1QEHNSg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0mFiOO7S0S_0cR-rxyXPOyPOgaRZYPl5VcVQrMskfUKJpWPO",
+        "thumbnail_width": 181,
+        "thumbnail_height": 278,
+        "image": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/b10c3c0d093469d7c8437ff444b95854.jpg",
+        "image_width": 1256,
+        "image_height": 1920
+      },
+      "webpage": {
+        "text": "Subscribe\n\n\nGlobal business news for a smarter world\n\nTopics\n\n * Business News\n * Money & Markets\n * Tech & Innovation\n * Generation A.I.\n * Lifestyle\n * Leadership\n\nProducts\n\n * Daily Brief\n * Weekly Digest\n * Member Benefits\n * Quartz Pro\n\nLegal\n\n * Sitemap\n * About\n * Accessibility\n * Privacy\n * Terms of Service\n * Advertising\n * Privacy and Cookie Settings\n\n© 2026 Quartz Media, Inc. All rights reserved.\n\n\nBusiness News\n\n\n“Our streets felt like a war zone”: a Paris resident on the attacks\n\nParis\n\nBy Lindsey Tramuta·5 min read·Updated July 21, 2022\nAdd QZ to Google\n\n\nParis\n\nWhen extremists attacked the Charlie Hebdo offices in Paris earlier this year, I was across town, watching the events unfold on Twitter $TWTR. The proximity of the attack left me stunned; its scale and brutality were paralyzing. But I was safe. I knew my husband was safe too.\n\n\nDaily Brief\n\n\nThe essential business news, delivered fresh every morning.\n\nJoin 500,000+ readers who start their day with Quartz.\n\nSign me up\n\nBy subscribing, you agree to our Terms of Service and Privacy Policy.\n\n\nBut on Friday night, news of violence in my neighborhood, the 11th arrondissement, left me breathless. I was at home texting with a friend when I glanced at my Twitter feed and spotted an update from journalist Stefan de Vries: “BREAKING: #Paris 3 people wounded after shootout; shooter on the run in the neighborhood around Place de la République.”\n\n\nMy husband was dining with colleagues on the other side of the 11th arrondissement. I texted him warning him to avoid the Place de la République on his way home. The news said the area was being evacuated; shots had been fired. “Sounds bad,” I wrote.\n\n\nMoments later, I learned that gunmen had opened fire a mere two blocks from where he was dining on Rue de Charonne, at La Belle Equipe. Frantically, I called the restaurant and asked if they were aware of the shootings nearby. They hadn’t heard. The hostess spotted my husband and his colleagues at a table nearby. “Your wife wants to know if you’re alive,” she said with a levity she surely regretted moments later.\n\nOver the next hour, I followed the news anxiously while I waited for my husband to come home. The Place de la République is the major square we pass through daily; Le Petit Cambodge is a Cambodian restaurant I’ve frequented regularly over the years. With a street-side view from my apartment, I stayed perched at my window and watched as locals hurried to get indoors.\n\n\nBy the time my husband and his colleagues left the restaurant, the French military had been deployed and the streets were cordoned off. He ran through the door at 11:30pm, visibly shaken.\n\n“These were drive-by shootings,” he said. “People on terraces or seated by windows in restaurants were easy targets. That could have been me.” We held each other, acutely aware of how lucky he’d been.\n\nBy 12:20 am, the police had stormed the Le Bataclan concert venue. I lay in bed crying, scrolling through descriptions and images of terrifying scenes. The terrorists hadn’t targeted controversial figures or anyone of a particular religious affiliation. Their targets were random: anyone who happened to be out celebrating after the end of a long week. I’d felt unsafe after Charlie Hebdo, but we were all at risk now.\n\n\nThe morning after, my husband and I scrolled through messages on texts and emails and social media. Our friends exchanged stories of ‘almosts’—cancelled plans for dinner at Le Petit Cambodge, concert tickets sold at the last minute, head colds that had kept them indoors instead of at La Belle Equipe for drinks.\n\nThe French authorities had encouraged Paris residents to stay in their homes, but the streets didn’t stay sleepy for long. My husband and I went outside to find others who had ventured out to the corner bakery or taken their dogs for walks. Neighbors talked with one another in disbelief.\n\nWe went to the local market to buy enough food to get us through the weekend. When the cashier blithely wished me “bon weekend,” I nearly burst into tears. When our familiar streets felt like a war zone, an everyday phrase was jarring. I grabbed my bags and hurried home.\n\n\nIn the aftermath of the attacks, we know why terrorists targeted these areas of Paris—chief among them the neighborhoods’ progressive population known for its social, ethnic and religious diversity. On my street alone, there are French, Tunisians, Moroccans, Algerians, Portuguese, Senegalese, Japanese, Chinese, Americans and countless other nationalities who can often be seen sipping coffee together and gossiping on street corners.\n\nThe Islamic State and other terrorist groups know that such coexistence is poison to their narrative of social division. And they know how easily an Islamophobic backlash could be ignited, given France’s already tenuous relationship with a swelling immigrant population and a history of barely-veiled contempt for religious Muslims.\n\n“The French Muslim population feels stuck,” said Andrew Aguilar, an American researcher of French Islam at the University of Oxford, when I spoke to him at our favorite local coffee shop Sunday afternoon.\n\n\n“They’re told to integrate and do what the state wants in certain cases,” he continued, “and then they’re still being told they didn’t integrate enough or being blamed for all of the social ills of society.”\n\nI’d be lying if I said I wasn’t scared about what will happen in Paris and in cities throughout the world in the weeks and months ahead. But more than anything, I am afraid that the attacks will strengthen the anti-Muslim discourse propagated by the extreme right, and that political finger-pointing could exacerbate the internal rifts that ISIS wants to generate.\n\nParisians aren’t about to stop living. We will keep seeking out comfort in the ways that enrage extremists: in cups of coffee and rounds of drinks at a bar, meals shared with one another in laughter and joy. The bon vivants will still crowd into restaurants and concert halls. My hope is that we will also come together after November 13 as a truly unified nation—refusing to succumb to vitriol and blame, and fighting together against a hateful force that wants to destroy us all.\n\n\nFollow Quartz’s coverage of the Paris attacks here",
+        "metadata": {
+          "title": "“Our streets felt like a war zone”: a Paris resident on the attacks",
+          "description": "Paris",
+          "og:title": "“Our streets felt like a war zone”: a Paris resident on the attacks",
+          "og:description": "Paris",
+          "og:url": "https://qz.com/550704/our-streets-felt-like-a-war-zone-a-paris-resident-on-the-attacks",
+          "og:site_name": "Quartz",
+          "og:image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/b10c3c0d093469d7c8437ff444b95854.jpg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "“Our streets felt like a war zone”: a Paris resident on the attacks",
+          "og:type": "article",
+          "article:published_time": "2015-11-16T08:00:44.343Z",
+          "article:modified_time": "2022-07-21T04:36:11.414Z",
+          "article:author": "https://qz.com/author/lindseytramuta",
+          "article:section": "Business News",
+          "twitter:title": "“Our streets felt like a war zone”: a Paris resident on the attacks",
+          "twitter:description": "Paris"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "“Our streets felt like a war zone”: a Paris resident on the attacks",
+          "image": [
+            "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/b10c3c0d093469d7c8437ff444b95854.jpg",
+            "https://qz.com/cdn-cgi/image/width=320,height=240,fit=cover,quality=85,format=auto/https://assets.qz.com/media/b10c3c0d093469d7c8437ff444b95854.jpg",
+            "https://qz.com/cdn-cgi/image/width=640,height=360,fit=cover,quality=85,format=auto/https://assets.qz.com/media/b10c3c0d093469d7c8437ff444b95854.jpg"
+          ],
+          "datePublished": "2015-11-16T08:00:44.343Z",
+          "dateModified": "2022-07-21T04:36:11.414Z",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Lindsey Tramuta",
+              "url": "https://qz.com/author/lindseytramuta"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Quartz",
+            "url": "https://qz.com"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Témoignage d'une résidente parisienne décrivant l'atmosphère de zone de guerre après les attentats de Paris. Elle relate les événements survenus le vendredi soir dans le 11e arrondissement, incluant une fusillade près de la Place de la République, des tirs au restaurant La Belle Équipe sur la Rue de Charonne, et l'assaut de la salle de concert Le Bataclan par la police.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Lindsey Tramuta",
+          "Stefan de Vries"
+        ],
+        "LOCATION": [
+          "Paris",
+          "Place de la République",
+          "11th arrondissement",
+          "Rue de Charonne",
+          "La Belle Equipe",
+          "Le Bataclan"
+        ],
+        "ORGANIZATION": [
+          "Quartz",
+          "Charlie Hebdo",
+          "Twitter"
+        ],
+        "DATE": [
+          "July 21, 2022",
+          "Friday"
+        ],
+        "EVENT": [
+          "Charlie Hebdo attacks",
+          "Paris attacks"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7710541978501517
+    },
+    {
+      "titre": "France's Hollande Says Paris Attacks Are an 'Act of War,' Is ...",
+      "source": "U.S. News & World Report",
+      "lien": "https://www.usnews.com/opinion/articles/2015/11/16/frances-hollande-says-paris-attacks-are-an-act-of-war-is-he-right",
+      "image_url": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/37/f1acff90a69641761ac9d0bbc67faf/media:44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSizTEB--37AtK9SPj5VayiTo1IlsYk6V7Ot27Pb3iRfkxe5cX",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "France's Hollande Says Paris Attacks Are an 'Act of War,' Is ...",
+        "link": "https://www.usnews.com/opinion/articles/2015/11/16/frances-hollande-says-paris-attacks-are-an-act-of-war-is-he-right",
+        "source": "U.S. News & World Report",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSzo2Ohr_f6hze53ceMMOVLYyapYLDplxD3tOYLBpQNBIhLmBFjHbcgVTZ1SXdK-uTFH3A1Wz--2eEdkMVCOSVdlW-Uc9nemsnUNPvevCVBWym5Dw",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSizTEB--37AtK9SPj5VayiTo1IlsYk6V7Ot27Pb3iRfkxe5cX",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/37/f1acff90a69641761ac9d0bbc67faf/media:44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+        "image_width": 647,
+        "image_height": 970
+      },
+      "webpage": {
+        "text": "France's Hollande Says Paris Attacks Are an 'Act of War,' Is He Right?\n\nThe world is still reeling from terrorist attacks Friday night in Paris that left at least 129 people dead and 352 injured. The Islamic State group has claimed responsibility for the violence, carried out by three separate teams at two restaurants, a concert hall and outside a soccer stadium. French President Francois Hollande has also blamed the terrorist group for the attacks, calling the violence \"an act of war, and on Sunday night, France bombed the Syrian city of Raqqa in retaliation.\n\nNoah Feldman at Bloomberg View warns strongly against calling such acts war. \"By saying that Islamic State is in a war with France,\" he writes, \"Hollande is unwittingly giving the ragtag group the international stature it seeks.\" And declaring war, he argues, is no real \"win\" for France, either. The country has been bombing the Islamic State group in parts of Syria since September, he notes, and ground troops are an unlikely option. \"Hollande must certainly realize that by acknowledging a war against France, he's acknowledging a war that France can't win, at least in the short to medium term,\" writes Feldman. Instead, he should've \"denounced\" them \"as murderers unworthy to be considered in a war against the great republic of France.\"\n\nBut Tom Rogan at National Review says \"the war has come home,\" and the Islamic State group is an inarguable \"special threat\" to the Western world. \"Today, as surely as at Pearl Harbor, the choice of war has been imposed by the enemy,\" he writes. President Barack Obama, writes Rogan, should not only visit France to show support, but also respond by \"energizing a more aggressive and comprehensive campaign against ISIS,\" an alternative name for the Islamic State group. Obama must also tout his successes, he writes, like a drone strike last week that killed the man known as Jihadi John, who beheaded American journalists James Foley and Steven Sotloff in now infamous videos. The Islamic State group, he writes, \"must come to perceive their banner as a magnet for purposeless death, not ordained glory.\"\n\nBut Dartmouth scholars and former national security officials Steven Simon and Daniel Benjamin, writing for The New York Times, deny that the war is here. Americans shouldn't fear the same kind of \"homegrown\" attack that Paris has undergone, they insist. First, U.S. borders are much more secure; \"Pretty much anyone coming to the United States from Middle Eastern war zones or the radical underground of Europe would need to come by plane,\" they write, \"and, since 9/11, we have made it tough for such people to fly to the United States.\" Second, European Muslims \"remain poorer, more ghettoized and more discriminated against than American Muslims,\" they write. Third, U.S. intelligence \"has been vastly improved since the cataclysm of 9/11.\" Vigilance is a must, of course, but more importantly, they argue, the U.S. should encourage Europe to \"dramatically expand\" its own intelligence, too. Despite being the \"indispensable hub of global counterterrorism efforts,\" the U.S. needs Europe to \"step up and help\" its efforts already underway.",
+        "metadata": {
+          "optimizely": "Optimizely is supported by this application but is not enabled for this page.",
+          "description": "The French president called the Islamic State group's Paris terrorist attacks an 'act of war.'",
+          "keywords": "Rachel Brody,Views You Can Use,Paris,war,terrorism,France,Islamic State,op-ed,Views You Can Use,Op-Ed",
+          "fb:pages": "5834919267",
+          "og:site_name": "US News & World Report",
+          "og:title": "Views You Can Use: Is This War?",
+          "og:description": "The French president called the Islamic State group's Paris terrorist attacks an 'act of war.'",
+          "og:url": "https://www.usnews.com/opinion/articles/2015/11/16/frances-hollande-says-paris-attacks-are-an-act-of-war-is-he-right",
+          "og:image": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F37%2Ff1acff90a69641761ac9d0bbc67faf%2Fmedia%3A44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+          "og:image:secure_url": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F37%2Ff1acff90a69641761ac9d0bbc67faf%2Fmedia%3A44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+          "twitter:image": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F37%2Ff1acff90a69641761ac9d0bbc67faf%2Fmedia%3A44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+          "og:type": "article",
+          "twitter:title": "Views You Can Use: Is This War?",
+          "twitter:description": "The French president called the Islamic State group's Paris terrorist attacks an 'act of war.'",
+          "fb:app_id": "130063997038366",
+          "sailthru.date": "2015-11-16T12:02Z",
+          "sailthru.author": "Rachel Brody",
+          "sailthru.site_portal": "Opinion",
+          "sailthru.description": "The French president called the Islamic State group's Paris terrorist attacks an 'act of war.'",
+          "sailthru.title": "Views You Can Use: Is This War?",
+          "sailthru.vertical": "News",
+          "vertical": "News",
+          "sailthru.image.full": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F37%2Ff1acff90a69641761ac9d0bbc67faf%2Fmedia%3A44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+          "sailthru.tags": "views-you-can-use,paris,war,terrorism,france,islamic-state,op-ed",
+          "preview": "The world is still reeling from terrorist attacks Friday night in Paris that left at least 129 people dead and 352 injured. The Islamic State group has claimed responsibility for the violence, carried out by three separate teams at two restaurants, a concert hall and outside a soccer stadium."
+        },
+        "jsonld": {
+          "image": {
+            "@type": "ImageObject",
+            "width": "970",
+            "url": "https://www.usnews.com/dims4/USNEWS/3cf3dbe/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F37%2Ff1acff90a69641761ac9d0bbc67faf%2Fmedia%3A44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG",
+            "height": "647"
+          },
+          "keywords": [
+            "Rachel Brody",
+            "Views You Can Use",
+            "Paris",
+            "war",
+            "terrorism",
+            "France",
+            "Islamic State",
+            "op-ed",
+            "Views You Can Use",
+            "Op-Ed"
+          ],
+          "wordCount": 509,
+          "articleBody": "The world is still reeling from terrorist attacks Friday night in Paris that left at least 129 people dead and 352 injured. The Islamic State group has claimed responsibility for the violence, carried out by three separate teams at two restaurants, a concert hall and outside a soccer stadium. French President Francois Hollande has also blamed the terrorist group for the attacks, calling the violence \"an act of war, and on Sunday night, France bombed the Syrian city of Raqqa in retaliation.   Noah Feldman at Bloomberg View warns strongly against calling such acts war. \"By saying that Islamic State is in a war with France,\" he writes, \"Hollande is unwittingly giving the ragtag group the international stature it seeks.\" And declaring war, he argues, is no real \"win\" for France, either. The country has been bombing the Islamic State group in parts of Syria since September, he notes, and ground troops are an unlikely option. \"Hollande must certainly realize that by acknowledging a war against France, he's acknowledging a war that France can't win, at least in the short to medium term,\" writes Feldman. Instead, he should've \"denounced\" them \"as murderers unworthy to be considered in a war against the great republic of France.\"   But Tom Rogan at National Review says \"the war has come home,\" and the Islamic State group is an inarguable \"special threat\" to the Western world. \"Today, as surely as at Pearl Harbor, the choice of war has been imposed by the enemy,\" he writes. President Barack Obama, writes Rogan, should not only visit France to show support, but also respond by \"energizing a more aggressive and comprehensive campaign against ISIS,\" an alternative name for the Islamic State group. Obama must also tout his successes, he writes, like a drone strike last week that killed the man known as Jihadi John, who beheaded American journalists James Foley and Steven Sotloff in now infamous videos. The Islamic State group, he writes, \"must come to perceive their banner as a magnet for purposeless death, not ordained glory.\"  But Dartmouth scholars and former national security officials Steven Simon and Daniel Benjamin, writing for The New York Times, deny that the war is here. Americans shouldn't fear the same kind of \"homegrown\" attack that Paris has undergone, they insist. First, U.S. borders are much more secure; \"Pretty much anyone coming to the United States from Middle Eastern war zones or the radical underground of Europe would need to come by plane,\" they write, \"and, since 9/11, we have made it tough for such people to fly to the United States.\" Second, European Muslims \"remain poorer, more ghettoized and more discriminated against than American Muslims,\" they write. Third, U.S. intelligence \"has been vastly improved since the cataclysm of 9/11.\" Vigilance is a must, of course, but more importantly, they argue, the U.S. should encourage Europe to \"dramatically expand\" its own intelligence, too. Despite being the \"indispensable hub of global counterterrorism efforts,\" the U.S. needs Europe to \"step up and help\" its efforts already underway.",
+          "@type": "NewsArticle",
+          "author": [
+            {
+              "image": "https://www.usnews.com/dims4/USNEWS/16be7c3/2147483647/thumbnail/300x300/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F90%2F80%2F2f391dba44df9214ed468e696aba%2Frachel-brody.jpg",
+              "@type": "Person",
+              "jobTitle": "Associate Editor for Opinion",
+              "name": "Rachel Brody",
+              "url": "https://www.usnews.com/topics/author/rachel-brody"
+            }
+          ],
+          "description": "The French president called the Islamic State group's Paris terrorist attacks an 'act of war.'",
+          "dateModified": "2015-11-16T12:02-0500",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "name": "France's Hollande Says Paris Attacks Are an 'Act of War,' Is He Right?",
+            "@id": "https://www.usnews.com/opinion/articles/2015/11/16/frances-hollande-says-paris-attacks-are-an-act-of-war-is-he-right",
+            "url": "https://www.usnews.com/opinion/articles/2015/11/16/frances-hollande-says-paris-attacks-are-an-act-of-war-is-he-right"
+          },
+          "@context": "http://www.schema.org",
+          "datePublished": "2015-11-16T12:02-0500",
+          "dateCreated": "2015-11-16T12:02-0500",
+          "publisher": {
+            "@type": "Organization",
+            "name": "U.S. News & World Report",
+            "logo": {
+              "@type": "ImageObject",
+              "width": 193,
+              "url": "https://www.usnews.com/static/images/usn-logo-print.png",
+              "height": 46
+            }
+          },
+          "headline": "Views You Can Use: Is This War?",
+          "articleSection": "opinion",
+          "thumbnailUrl": "https://www.usnews.com/dims4/USNEWS/e5e6744/2147483647/thumbnail/80x60/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F37%2Ff1acff90a69641761ac9d0bbc67faf%2Fmedia%3A44e2298a84984fd18cdc561781cea5fbFranceParisAttacks.JPEG"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le président français François Hollande a qualifié les attentats de Paris d'« acte de guerre », l'État islamique ayant revendiqué ces attaques menées contre deux restaurants, une salle de concert et un stade de football, qui ont fait 129 morts et 352 blessés. En représailles, la France a bombardé la ville syrienne de Raqqa, tandis que divers analystes et responsables débattent de la qualification de ces actes et de la réponse internationale menée notamment avec les États-Unis.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Francois Hollande",
+          "Noah Feldman",
+          "Tom Rogan",
+          "Barack Obama",
+          "Jihadi John",
+          "James Foley",
+          "Steven Sotloff",
+          "Steven Simon",
+          "Daniel Benjamin"
+        ],
+        "LOCATION": [
+          "Paris",
+          "Raqqa",
+          "Syria",
+          "United States",
+          "Europe",
+          "Middle Eastern",
+          "Pearl Harbor"
+        ],
+        "ORGANIZATION": [
+          "U.S. News & World Report",
+          "Islamic State",
+          "Bloomberg View",
+          "National Review",
+          "ISIS",
+          "New York Times"
+        ],
+        "DATE": [
+          "Friday night",
+          "Sunday night",
+          "September",
+          "last week",
+          "9/11"
+        ],
+        "EVENT": [
+          "Paris attacks"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7836094014855678
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "France",
+      "Paris"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "last week"
+    ],
+    "EVENT": [
+      "attacks"
+    ],
+    "OTHER": [
+      "130 people"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Salah Abdeslam",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Olivia Ronen",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jean-Louis Périès",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ron Carucci",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Lindsey Tramuta",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Stefan de Vries",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Francois Hollande",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Noah Feldman",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tom Rogan",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barack Obama",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jihadi John",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "James Foley",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steven Sotloff",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steven Simon",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Daniel Benjamin",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Paris",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brussels",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Belgium",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Stade de France",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Carillon bar",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Petit Cambodge restaurant",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Place de la République",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "11th arrondissement",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rue de Charonne",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "La Belle Equipe",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Le Bataclan",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Raqqa",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Syria",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Europe",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle Eastern",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pearl Harbor",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Islamic State",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "RFI",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Quartz",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Charlie Hebdo",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Twitter",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S. News & World Report",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Bloomberg View",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National Review",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ISIS",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "New York Times",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday evening",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "30/09/2021",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 2015",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015/11/16",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 21, 2022",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday night",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday night",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last week",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "9/11",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Paris attacks",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Paris terror trial",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Charlie Hebdo attacks",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "metro",
+      "rangs": [
+        1
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T11:21:22.091814"
+  }
+}

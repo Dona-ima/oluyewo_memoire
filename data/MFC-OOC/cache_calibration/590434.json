@@ -1,0 +1,247 @@
+{
+  "id_rumeur": 590434,
+  "id_image": 626291,
+  "caption": "By Sylvain Dubey University of Lausanne Communication in bulldog ants Sydney Australia",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748120/oluyewo_benchmark/oqqfts6ndr2uq02vzyuy.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Consumers couldn't have washed away cantaloupe contamination ...",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/health/health-news/consumers-couldnt-have-washed-away-cantaloupe-contamination-experts-say-flna1c6436759",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2012/October/121012/1C4262476-111019-cantaloupe-hmed-5p.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLj4TYFgBKjumh6pL3UayOL6PJ-Qe7bNHpQa0LlZ1x32JwNvL8",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Consumers couldn't have washed away cantaloupe contamination ...",
+        "link": "https://www.nbcnews.com/health/health-news/consumers-couldnt-have-washed-away-cantaloupe-contamination-experts-say-flna1c6436759",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8ef84cbc3f0baa4f4e9aa1/images/2noIsq385Y_zC_AhbnRHZFliDeYNymFCFPut7ftZI44.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLj4TYFgBKjumh6pL3UayOL6PJ-Qe7bNHpQa0LlZ1x32JwNvL8",
+        "thumbnail_width": 191,
+        "thumbnail_height": 264,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2012/October/121012/1C4262476-111019-cantaloupe-hmed-5p.jpg",
+        "image_width": 1084,
+        "image_height": 1500
+      },
+      "webpage": null,
+      "texte_contexte": "Consumers couldn't have washed away cantaloupe contamination, experts say.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "NBC News"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "cantaloupe"
+        ]
+      },
+      "score_e5": 0.719334260743348
+    },
+    {
+      "titre": "Listeria: the symptoms, the risks and how to avoid it | Food ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/world/2011/sep/29/listeria-symptoms-risks-avoid",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/9/29/1317293791795/Jensen-Farm-cantaloupe-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=1f67b20a4e134bba67ac82228fe0eba5",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFlBr7MumZXhSPrGzmEnYjr18DeQfSJrFLRCU7Q351VjzS3ceS",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Listeria: the symptoms, the risks and how to avoid it | Food ...",
+        "link": "https://www.theguardian.com/world/2011/sep/29/listeria-symptoms-risks-avoid",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8ef84cbc3f0baa4f4e9aa1/images/z302q08sxdw39zKwQ3u48pLqcK0RLtbzLQdivwc5ffE.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFlBr7MumZXhSPrGzmEnYjr18DeQfSJrFLRCU7Q351VjzS3ceS",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/9/29/1317293791795/Jensen-Farm-cantaloupe-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom,left&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=1f67b20a4e134bba67ac82228fe0eba5",
+        "image_width": 630,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Listeria: the symptoms, the risks and how to avoid it Food The Guardian",
+      "niveau_contexte": 1,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7678824082171253
+    },
+    {
+      "titre": "Fear in Colorado town at heart of Listeria outbreak",
+      "source": "www.lubbockonline.com",
+      "lien": "https://www.lubbockonline.com/story/business/agricultural/2011/10/02/fear-colorado-town-heart-listeria-outbreak/15206917007/",
+      "image_url": "https://www.lubbockonline.com/gcdn/authoring/2011/10/02/NLAJ/ghows-TX-a1696ef8-0805-4514-8158-14ed571651a6-1a5dcfea.jpeg?width=1000&height=720&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAppYJ54ZGAgytlVtHJ4GHJY_XSAMyvd6zh_qA4fXzIxl_xR5H",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Fear in Colorado town at heart of Listeria outbreak",
+        "link": "https://www.lubbockonline.com/story/business/agricultural/2011/10/02/fear-colorado-town-heart-listeria-outbreak/15206917007/",
+        "source": "www.lubbockonline.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcS36vij8seh_OPQjtJeRe6fP6CbywpItMxyX1OaWe-gAscawizbhSQxMTQz1gwPxnnvCrrB9V3b3tTylY37iNjCpY9NbVJ15lLEH3Ml5NFJnxtYVpx29uRcHeI",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAppYJ54ZGAgytlVtHJ4GHJY_XSAMyvd6zh_qA4fXzIxl_xR5H",
+        "thumbnail_width": 190,
+        "thumbnail_height": 265,
+        "image": "https://www.lubbockonline.com/gcdn/authoring/2011/10/02/NLAJ/ghows-TX-a1696ef8-0805-4514-8158-14ed571651a6-1a5dcfea.jpeg?width=1000&height=720&fit=crop&format=pjpg&auto=webp",
+        "image_width": 720,
+        "image_height": 1000
+      },
+      "webpage": null,
+      "texte_contexte": "Fear in Colorado town at heart of Listeria outbreak www.lubbockonline.com",
+      "niveau_contexte": 1,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7228207775863209
+    },
+    {
+      "titre": "The Curious Cases Of Contaminated Cantaloupes | KUNC",
+      "source": "KUNC",
+      "lien": "https://www.kunc.org/environment/2013-04-30/the-curious-cases-of-contaminated-cantaloupes",
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/c98dced/2147483647/strip/true/crop/373x208+0+36/resize/280x156!/quality/90/?url=https://media.npr.org/assets/img/2012/01/11/ap1109280160636-0fc5e3e36d3012474b3a0a7bb0162484d6fb0237.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcTSWdhS2dVFqRrVaUwh1DwmFDsGnMkDYTu0CBfHfjPxgs3T8L",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "The Curious Cases Of Contaminated Cantaloupes | KUNC",
+        "link": "https://www.kunc.org/environment/2013-04-30/the-curious-cases-of-contaminated-cantaloupes",
+        "source": "KUNC",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQXipHcmoD5NCdCuVuxJXby0qpzXchr-7NEg09BnCZUrHqMoTIinnOkzt76a5ZZX1QFQnm8sNWF0LsPlq536bItCNrofZriXlufA7mVRAYnGk4",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcTSWdhS2dVFqRrVaUwh1DwmFDsGnMkDYTu0CBfHfjPxgs3T8L",
+        "thumbnail_width": 156,
+        "thumbnail_height": 280,
+        "image": "https://npr.brightspotcdn.com/dims4/default/c98dced/2147483647/strip/true/crop/373x208+0+36/resize/280x156!/quality/90/?url=https://media.npr.org/assets/img/2012/01/11/ap1109280160636-0fc5e3e36d3012474b3a0a7bb0162484d6fb0237.jpg",
+        "image_width": 156,
+        "image_height": 280
+      },
+      "webpage": null,
+      "texte_contexte": "The Curious Cases Of Contaminated Cantaloupes KUNC KUNC",
+      "niveau_contexte": 1,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.79432250777377
+    },
+    {
+      "titre": "Colorado cantaloupe farmers to plead guilty in deadly ...",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/healthmain/colorado-cantaloupe-farmers-plead-guilty-deadly-listeria-outbreak-8c11408035",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2013/October/131016/8C9403915-131016-cantaloupephoto-hmed-0330p-files.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd31KPwk8Zth3wgLJI8g9jG3OXmchhdyM3vF7pE65ZfShu0Uui",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Colorado cantaloupe farmers to plead guilty in deadly ...",
+        "link": "https://www.nbcnews.com/healthmain/colorado-cantaloupe-farmers-plead-guilty-deadly-listeria-outbreak-8c11408035",
+        "source": "NBC News",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTyWp3RniHyHhmsHqTc5zb-2kjWkrLCZsS4XIQDq4LyYjZZFgl28s2SLJv0sjnlurLyd_DkqQ68o0jFa67Yi2vGiBvh9RuoNzUth5Y_SALQ4ivHWHM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd31KPwk8Zth3wgLJI8g9jG3OXmchhdyM3vF7pE65ZfShu0Uui",
+        "thumbnail_width": 191,
+        "thumbnail_height": 264,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2013/October/131016/8C9403915-131016-cantaloupephoto-hmed-0330p-files.jpg",
+        "image_width": 1085,
+        "image_height": 1500
+      },
+      "webpage": null,
+      "texte_contexte": "Colorado cantaloupe farmers to plead guilty in deadly Listeria outbreak.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Colorado"
+        ],
+        "ORGANIZATION": [
+          "NBC News"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Listeria outbreak"
+        ],
+        "OTHER": [
+          "cantaloupe",
+          "Listeria"
+        ]
+      },
+      "score_e5": 0.7240803523238141
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Sylvain Dubey"
+    ],
+    "LOCATION": [
+      "Sydney",
+      "Australia"
+    ],
+    "ORGANIZATION": [
+      "University of Lausanne"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "bulldog ants"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "cantaloupe",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Colorado",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Listeria outbreak",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Listeria",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:49:05.896248"
+  }
+}

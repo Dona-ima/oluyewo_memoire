@@ -1,0 +1,345 @@
+{
+  "id_rumeur": 119850,
+  "id_image": 119850,
+  "caption": "Train 188 was traveling from Washington to New York when it went off the tracks",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748097/oluyewo_benchmark/naolpydt5xxrsbfx0ax6.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "5 dead as Amtrak train crashes in Philadelphia, wreckage ...",
+      "source": "Post and Courier",
+      "lien": "https://www.postandcourier.com/business/5-dead-as-amtrak-train-crashes-in-philadelphia-wreckage-pretty-bad/article_b8924bc5-a818-5847-9151-0c4e07b333fc.html",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/96/f963cc31-788e-5785-a263-389c51f90a40/58051c030d0b7.image.jpg?resize=400,300",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlCIYIlgOXqe_-LMsuQkjsNpwtkIdacb_K2SRM6-p0p603wzZd",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "5 dead as Amtrak train crashes in Philadelphia, wreckage ...",
+        "link": "https://www.postandcourier.com/business/5-dead-as-amtrak-train-crashes-in-philadelphia-wreckage-pretty-bad/article_b8924bc5-a818-5847-9151-0c4e07b333fc.html",
+        "source": "Post and Courier",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRlrkz0l0Z_9EGyYARG2upvKjc93JhnNO1Cdd3T5f0DzeeimH_tvyKaMyaz3ndkfqWi2uFpMhhXogbEaTthX1Fo6eX3pXhczUH_tv7VN6T4sAalHRv3_4Q-3_Tv",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlCIYIlgOXqe_-LMsuQkjsNpwtkIdacb_K2SRM6-p0p603wzZd",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/96/f963cc31-788e-5785-a263-389c51f90a40/58051c030d0b7.image.jpg?resize=400,300",
+        "image_width": 300,
+        "image_height": 400
+      },
+      "webpage": null,
+      "texte_contexte": "5 dead as Amtrak train crashes in Philadelphia, wreckage.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Philadelphia"
+        ],
+        "ORGANIZATION": [
+          "Amtrak",
+          "Post and Courier"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Amtrak train crashes in Philadelphia"
+        ],
+        "OTHER": [
+          "train"
+        ]
+      },
+      "score_e5": 0.7825556309597276
+    },
+    {
+      "titre": "Death toll in Philadelphia Amtrak wreck hits 8 – The Press ...",
+      "source": "The Press Democrat",
+      "lien": "https://www.pressdemocrat.com/2015/05/14/death-toll-in-philadelphia-amtrak-wreck-hits-8/",
+      "image_url": "https://www.pressdemocrat.com/wp-content/uploads/migration/2015/05/5D15505E-52DA-4395-9DDB-66B29409CE7D.jpg?w=620",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaZLiWNICPLET7uy4SPWb2mctVyvldhKkJZj7KYyCsyVTs3NH0",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Death toll in Philadelphia Amtrak wreck hits 8 – The Press ...",
+        "link": "https://www.pressdemocrat.com/2015/05/14/death-toll-in-philadelphia-amtrak-wreck-hits-8/",
+        "source": "The Press Democrat",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTEn_uPk39LfGqfy-ZkcN--jYzc216L8IDedvjhbKuv8YwdExhHpySb9abgxAuOWErsGo3Zd_TXpAn2QLNFFVQfZnWjdEv1ZHfQ_0-rHGFeDXK9aHPvJsZ-sso",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaZLiWNICPLET7uy4SPWb2mctVyvldhKkJZj7KYyCsyVTs3NH0",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.pressdemocrat.com/wp-content/uploads/migration/2015/05/5D15505E-52DA-4395-9DDB-66B29409CE7D.jpg?w=620",
+        "image_width": 465,
+        "image_height": 620
+      },
+      "webpage": null,
+      "texte_contexte": "Death toll in Philadelphia Amtrak wreck hits 8.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Philadelphia"
+        ],
+        "ORGANIZATION": [
+          "Amtrak",
+          "The Press Democrat"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Philadelphia Amtrak wreck"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7599982678175096
+    },
+    {
+      "titre": "Official: Radio transmissions distracted Amtrak engineer ...",
+      "source": "MPR News",
+      "lien": "https://www.mprnews.org/story/2016/05/16/radio-transmissions-distracted-philadelphia-amtrak-engineer-fatal-crash",
+      "image_url": "https://img.apmcdn.org/d726c49010d45d544d50f0a532815e1a705320b8/uncropped/0c6de2-20150512-amtrakcrash2.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJkKe0k8ikp3I-xoUvnd237FptolY7MnWnn63uGFNh_Wa4yDDS",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Official: Radio transmissions distracted Amtrak engineer ...",
+        "link": "https://www.mprnews.org/story/2016/05/16/radio-transmissions-distracted-philadelphia-amtrak-engineer-fatal-crash",
+        "source": "MPR News",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSPuNGDcgpkiDtUqNpjL21tI-WBF0bflY11xGdVizs-5toSpA_pjbrglSD_Z2-rkPJc2aJbz8f1D9pM0V7ZT-WC6vch9BkjRrZ-Z7N23nYS19NvvAs",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJkKe0k8ikp3I-xoUvnd237FptolY7MnWnn63uGFNh_Wa4yDDS",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://img.apmcdn.org/d726c49010d45d544d50f0a532815e1a705320b8/uncropped/0c6de2-20150512-amtrakcrash2.jpg",
+        "image_width": 450,
+        "image_height": 600
+      },
+      "webpage": null,
+      "texte_contexte": "Official: Radio transmissions distracted Amtrak engineer in fatal crash.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Philadelphia"
+        ],
+        "ORGANIZATION": [
+          "Amtrak",
+          "MPR News"
+        ],
+        "DATE": [
+          "2016/05/16"
+        ],
+        "EVENT": [
+          "fatal crash"
+        ],
+        "OTHER": [
+          "Radio transmissions"
+        ]
+      },
+      "score_e5": 0.7658950312247037
+    },
+    {
+      "titre": "5 die in Amtrak train derailment in Philadelphia | Nation ...",
+      "source": "Yakima Herald-Republic",
+      "lien": "https://www.yakimaherald.com/news/nation_and_world/nation/5-die-in-amtrak-train-derailment-in-philadelphia/article_5e26c837-b0c6-5164-944f-77953b13b67e.html",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/e/c4/ec4c1af0-cff4-543e-9be9-fbaf9b296cfe/5553243c6447c.image.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4-eWZvUbh-UKaGarSd6SuCpu9HK1RScYGfPhmkjGhm5bFz_UG",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "5 die in Amtrak train derailment in Philadelphia | Nation ...",
+        "link": "https://www.yakimaherald.com/news/nation_and_world/nation/5-die-in-amtrak-train-derailment-in-philadelphia/article_5e26c837-b0c6-5164-944f-77953b13b67e.html",
+        "source": "Yakima Herald-Republic",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTMlkx9Dibz0eM7UqiHVeI30RATTJ4zcj4936IYbeT8if3Mw5kB0w1Sq3GS53RKJaqlSIi_yAUXoUzdlSLqV10mf91G-B1EopsZ9LjXSpZ0dkKC0Bvx5i956Q",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4-eWZvUbh-UKaGarSd6SuCpu9HK1RScYGfPhmkjGhm5bFz_UG",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/e/c4/ec4c1af0-cff4-543e-9be9-fbaf9b296cfe/5553243c6447c.image.jpg",
+        "image_width": 400,
+        "image_height": 533
+      },
+      "webpage": null,
+      "texte_contexte": "5 die in Amtrak train derailment in Philadelphia Nation.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Philadelphia"
+        ],
+        "ORGANIZATION": [
+          "Amtrak",
+          "Yakima Herald-Republic"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Amtrak train derailment in Philadelphia"
+        ],
+        "OTHER": [
+          "train"
+        ]
+      },
+      "score_e5": 0.7681181369880711
+    },
+    {
+      "titre": "Post by Paul Cheung | 鄭文耀on X: I'm ok.",
+      "source": "x.com",
+      "lien": "https://x.com/pcheung630/status/598312679275700224",
+      "image_url": "https://pbs.twimg.com/media/CE2iMx0W0AAonzV.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BSpjDcAfcBfc4KtJg3KnTddj3MNDXvMhpKVmq8OJ9vqaOXLj",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Post by Paul Cheung | 鄭文耀on X: I'm ok.",
+        "link": "https://x.com/pcheung630/status/598312679275700224",
+        "source": "x.com",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSofvqtbDtdUTZsANJSe_PTSgsuDSmzMNykD5ePbsMk3EyTY0EoF56jNp_rHuufm9BtNpZYsFhp9M6u-DLxqcg2x-FRa41-OCrNmA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BSpjDcAfcBfc4KtJg3KnTddj3MNDXvMhpKVmq8OJ9vqaOXLj",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://pbs.twimg.com/media/CE2iMx0W0AAonzV.jpg",
+        "image_width": 768,
+        "image_height": 1024
+      },
+      "webpage": null,
+      "texte_contexte": "Post by Paul Cheung 鄭文耀 on X: I'm ok.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Paul Cheung 鄭文耀"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "X"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7130510872365137
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Washington",
+      "New York"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Train 188"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Philadelphia",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Amtrak",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Post and Courier",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Press Democrat",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MPR News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yakima Herald-Republic",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "X",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Amtrak train crash in Philadelphia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Philadelphia Amtrak wreck",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Fatal crash",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Amtrak train derailment in Philadelphia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Train",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Radio transmissions",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016/05/16",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Paul Cheung 鄭文耀",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T14:40:02.838699"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "id_rumeur": 1609057,
+  "id_image": 1479248,
+  "caption": "Taiwan says it wants to join the AIIB but what will it be called",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748593/oluyewo_benchmark/ngxrakku3pqvdbjjfvnl.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "China's Baidu Tries to Wrangle Edge Over Rivals - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/chinas-baidu-tries-to-wrangle-edge-over-rivals-1437816781",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-IT079_BAIDUj_M_20150603184548.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKOUx3OvGGhYUhI2kVERziT9IOVk16D42l_oPDuNsyqB9jpNFk",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "China's Baidu Tries to Wrangle Edge Over Rivals - WSJ",
+        "link": "https://www.wsj.com/articles/chinas-baidu-tries-to-wrangle-edge-over-rivals-1437816781",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKOUx3OvGGhYUhI2kVERziT9IOVk16D42l_oPDuNsyqB9jpNFk",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-IT079_BAIDUj_M_20150603184548.jpg",
+        "image_width": 853,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "China's Baidu Tries to Wrangle Edge Over Rivals - WSJ",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Baidu",
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7626047772049556
+    },
+    {
+      "titre": "China's Baidu launches mobile payment app | Reuters",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/article/technology/chinas-baidu-launches-mobile-payment-app-idUSBREA3F03R/",
+      "image_url": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2014/04/16/CBREA3F04SX00.JPG?auth=bf1d33143cef68121087963344cc2a650c2f9fffc0ab97a926c6d2edb6f4d644&width=1920&quality=80",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXMFHadMRUvSgnSzaBf8KmkEtZBgbJf6CbwNmPuEiObBoMfDAJ",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "China's Baidu launches mobile payment app | Reuters",
+        "link": "https://www.reuters.com/article/technology/chinas-baidu-launches-mobile-payment-app-idUSBREA3F03R/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXMFHadMRUvSgnSzaBf8KmkEtZBgbJf6CbwNmPuEiObBoMfDAJ",
+        "thumbnail_width": 183,
+        "thumbnail_height": 276,
+        "image": "https://www.reuters.com/resizer/v2/https://archive-images.prod.global.a201836.reutersmedia.net/2014/04/16/CBREA3F04SX00.JPG?auth=bf1d33143cef68121087963344cc2a650c2f9fffc0ab97a926c6d2edb6f4d644&width=1920&quality=80",
+        "image_width": 1273,
+        "image_height": 1920
+      },
+      "webpage": null,
+      "texte_contexte": "China's Baidu launches mobile payment app Reuters",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Baidu",
+          "Reuters"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7448457508296102
+    },
+    {
+      "titre": "How Chinese Internet Giant Baidu Uses AI And Machine ...",
+      "source": "Forbes",
+      "lien": "https://www.forbes.com/sites/bernardmarr/2017/02/13/how-chinese-internet-giant-baidu-uses-ai-and-machine-learning/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/460583420/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ueq7ycFU5hKfgL3mTulvpCYEXAjl6Dq0neKygCvIuG2BMAXn",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "How Chinese Internet Giant Baidu Uses AI And Machine ...",
+        "link": "https://www.forbes.com/sites/bernardmarr/2017/02/13/how-chinese-internet-giant-baidu-uses-ai-and-machine-learning/",
+        "source": "Forbes",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEUYFxb___8AAAAVFBMHBQLMzMx-fn7Q0NDU1NT7-_vY19cwLy_T09Pg4OAcGxoODAsjIiFramqsrKzm5uZWVlUsLCrx8fE8OztRUFBKSkm-vr54d3e1tbXe3t5oaGimpqWdnZ1gX19DQkKGhoaNjY0uM3eHAAAA4UlEQVQ4jdWS3RqCIAyGYSgomqiklj-l2f1fY5t4JNhxfSfybC9z-xhjvyM46pivtYpJioTf5ECITFqOSrVS-UQnEAcCrhS-NFi9kK0P4F9SBKZMENxxbnzggoBuhGuJMx9ICCi3uLnZ0gdiAgqMQ8SKe8CJHoEEAYiHiJkAMBJgALq2ivz01hhO8agGy0-AJxnV0rBfKuTo03gGjG4Kk5310O8-wLwEZth9mMhJ32UHaHqsLpzcAHpv-wpWJwnY9mEJ9kf3QRLAZ2_Z9rxMuFNeBwlTrdJpfYe7MKf7_A_6AFW3CNmtF5CiAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ueq7ycFU5hKfgL3mTulvpCYEXAjl6Dq0neKygCvIuG2BMAXn",
+        "thumbnail_width": 182,
+        "thumbnail_height": 278,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/460583420/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "image_width": 900,
+        "image_height": 1375
+      },
+      "webpage": null,
+      "texte_contexte": "How Chinese Internet Giant Baidu Uses AI And Machine",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Bernard Marr"
+        ],
+        "LOCATION": [
+          "China"
+        ],
+        "ORGANIZATION": [
+          "Baidu",
+          "Forbes"
+        ],
+        "DATE": [
+          "2017-02-13"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "AI",
+          "Machine Learning"
+        ]
+      },
+      "score_e5": 0.7457592491263059
+    },
+    {
+      "titre": "Baidu's live-streaming ambitions dealt a blow by lapse of US ...",
+      "source": "South China Morning Post",
+      "lien": "https://www.scmp.com/tech/article/3246921/baidus-live-streaming-ambitions-dealt-blow-lapse-us36-billion-deal-buy-joyys-yy-live",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2024/01/01/673e1716-a18b-4435-a59d-774e17445a2e_a8eff590.jpg?itok=AZGzFT8V&v=1704124177",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdht40upPjNdflg-64Y8FQvk_06HcCIYea02bwNmUwP1wZiZNI",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Baidu's live-streaming ambitions dealt a blow by lapse of US ...",
+        "link": "https://www.scmp.com/tech/article/3246921/baidus-live-streaming-ambitions-dealt-blow-lapse-us36-billion-deal-buy-joyys-yy-live",
+        "source": "South China Morning Post",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcEz-_v7-_v7-_v7-_v7_ygL___8AGVQAAEv_45aWmqyVmqux_VYvAAAABXRSTlMA7oD2d5l5iZ4AAAA4SURBVDiNY2AYOYCFmRELYGaBK2BiwwqYkBRwskIBGxs7BHBwEVLATbEJowpoE9QEoptgghn-AAD_Hwk3Zp2AlAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdht40upPjNdflg-64Y8FQvk_06HcCIYea02bwNmUwP1wZiZNI",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2024/01/01/673e1716-a18b-4435-a59d-774e17445a2e_a8eff590.jpg?itok=AZGzFT8V&v=1704124177",
+        "image_width": 680,
+        "image_height": 1020
+      },
+      "webpage": {
+        "text": "Baidu’s live-streaming ambitions dealt a blow by lapse of US$3.6 billion deal to buy Joyy’s YY Live\n\nBaidu’s bid to acquire Joyy’s live-streaming business for China has lapsed, dealing a blow to the search engine and artificial intelligence (AI) giant’s attempt to advance into the digital video arena.\n\nThe Beijing-based company said its US$3.6 billion deal for Joyy’s YY Live has expired three years after it was unveiled because regulators did not approve the transaction by December 31, according to a Hong Kong stock exchange filing on Monday. The deal was previously slated to close in the first half of 2021.\n\nMoon SPV, an affiliate of Baidu, terminated its share purchase agreement with Joyy because certain conditions had not been met, including “obtaining necessary regulatory approvals from authorities”, the statement said.\n\nBaidu first announced the acquisition in November 2020 as part of a strategy to broaden its content offerings to better diversify its revenue.\n\nThat approach has become less relevant over the past year as the tech industry’s focus has turned to generative AI, in which Baidu has been seen as an early domestic leader.\n\nThe setback marks another challenge for Baidu’s efforts to catch up with companies like ByteDance in the online entertainment arena, after its relatively late start in newer spheres such as live streaming.",
+        "metadata": {
+          "description": "Baidu says its bid to buy Joyy’s YY Live has expired three years after it was unveiled because regulators did not approve the transaction.",
+          "fb:app_id": "282931841805811",
+          "og:title": "Baidu’s bid to buy Joyy’s live-streaming business lapses",
+          "og:description": "Baidu says its bid to buy Joyy’s YY Live has expired three years after it was unveiled because regulators did not approve the transaction.",
+          "og:url": "https://www.scmp.com/tech/article/3246921/baidus-live-streaming-ambitions-dealt-blow-lapse-us36-billion-deal-buy-joyys-yy-live",
+          "og:type": "article",
+          "og:image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/01/3223dd3a-830e-42e6-9df0-ac1624723245_c51b526a.jpg?itok=-rL8BSe3&v=1704124176",
+          "og:site_name": "South China Morning Post",
+          "al:ios:app_store_id": "623201967",
+          "al:ios:app_name": "SCMP",
+          "al:android:package": "com.scmp.newspulse",
+          "al:android:app_name": "SCMP",
+          "keywords": "Baidu, live-streaming, Joyy",
+          "news_keywords": "Baidu, live-streaming, Joyy",
+          "article:section": "Business",
+          "article:tag": "Video gaming",
+          "article:published_time": "2024-01-01T23:23:21+08:00",
+          "article:modified_time": "2024-01-02T14:28:09+08:00",
+          "cXenseParse:author": "Bloomberg",
+          "cXenseParse:image": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2024/01/01/3223dd3a-830e-42e6-9df0-ac1624723245_c51b526a.jpg?itok=1Bmr7FP8&v=1704124176",
+          "al:ios:url": "scmp://tech/article/3246921/baidus-live-streaming-ambitions-dealt-blow-lapse-us36-billion-deal-buy-joyys-yy-live?entity=node&type=article&id=3246921",
+          "al:android:url": "scmp://tech/article/3246921/baidus-live-streaming-ambitions-dealt-blow-lapse-us36-billion-deal-buy-joyys-yy-live?entity=node&type=article&id=3246921"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@id": "https://www.scmp.com#organization",
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+852-2680-8888"
+          },
+          "logo": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-512x512.png",
+          "name": "South China Morning Post",
+          "sameAs": [
+            "https://www.facebook.com/southchinamorningpost/",
+            "https://twitter.com/SCMPNews",
+            "https://www.youtube.com/southchinamorningpost",
+            "https://www.linkedin.com/company/south-china-morning-post",
+            "https://www.instagram.com/scmpnews",
+            "https://plus.google.com/b/109548181662196012156/+SouthChinaMorningPostSCMP"
+          ],
+          "url": "https://www.scmp.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Baidu's live-streaming ambitions dealt a blow by lapse of US$3.6 billion deal to buy Joyy's YY Live. The Beijing-based company's US$3.6 billion deal for Joyy's YY Live has expired three years after it was unveiled because regulators did not approve the transaction by December 31, according to a Hong Kong stock exchange filing on Monday. Moon SPV, an affiliate of Baidu, terminated its share purchase agreement with Joyy. Baidu first announced the acquisition in November 2020.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "China",
+          "Beijing",
+          "Hong Kong",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "Baidu",
+          "Joyy",
+          "YY Live",
+          "Moon SPV",
+          "ByteDance",
+          "Hong Kong Stock Exchange",
+          "South China Morning Post"
+        ],
+        "DATE": [
+          "December 31",
+          "Monday",
+          "2021",
+          "November 2020"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "AI"
+        ]
+      },
+      "score_e5": 0.7667248943967887
+    },
+    {
+      "titre": "Baidu Boosts Location-Based Platform With New Services | Vox",
+      "source": "Vox",
+      "lien": "https://www.vox.com/2014/9/3/11630458/baidu-boosts-location-based-platform-with-new-services",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15804083/baidu-sign.0.1543105125.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSprv-2AuhoM5qfKeBWkwfhMSZxVSp-vFPFZtAbTy5mRfKf_KCa",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Baidu Boosts Location-Based Platform With New Services | Vox",
+        "link": "https://www.vox.com/2014/9/3/11630458/baidu-boosts-location-based-platform-with-new-services",
+        "source": "Vox",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEX_8gAAAACclABUUAAqKADk2ACrowAQDwDWywDy5QDo3AD87wAfHQA5NgCnngC_tQBgWwDJvwCimgBkXwAKCQBqZACyqQDOwwAbGgAUEwAjIQB2cACKgwBvaQCRigB8dgBQTABFQgCVjgA2MwCawW2VAAAA0UlEQVQ4jdWS2RKDIAxFY0UFcQG1m3Xv__9jkeCMZXnu9D4lc88kXCPA3yipLodSCjLVVSPPSBtpZVR3souiK_uacUOgNG0cCWvJHQFiWvFgFpAj8DQtaexn8g4JjvN67gQpEMhxw-YmLRHQKZLCHaDerVXv9WtwfRgRqFTJejvCrgGBSZXT7PGhQUB5nOQ-oEagBahGnw8UgUXlSbwAO45R21c4lGmgh4UGAGLuHQd8WHGHkCFAILCGfJhP39qrTfvvoG9-ujQM0Fip9dz59_oAaHMGpP4nAqAAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSprv-2AuhoM5qfKeBWkwfhMSZxVSp-vFPFZtAbTy5mRfKf_KCa",
+        "thumbnail_width": 161,
+        "thumbnail_height": 312,
+        "image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15804083/baidu-sign.0.1543105125.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+        "image_width": 331,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Baidu Boosts Location-Based Platform With New Services Vox",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Baidu",
+          "Vox"
+        ],
+        "DATE": [
+          "2014-09-03"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7537723653094414
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Taiwan"
+    ],
+    "ORGANIZATION": [
+      "AIIB"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "China",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Baidu",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bernard Marr",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2017-02-13",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "AI",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Machine Learning",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beijing",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hong Kong",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Joyy",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YY Live",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Moon SPV",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ByteDance",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hong Kong Stock Exchange",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South China Morning Post",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 31",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November 2020",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Vox",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014-09-03",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:12:06.735066"
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "id_rumeur": 1577536,
+  "id_image": 548487,
+  "caption": "iPhone owners used Periscope to share the wait for the birth of Princess Charlotte",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747414/oluyewo_benchmark/bjgri7nkd4aoopriabmd.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "You Be You: How Retail Can Learn From Uber, Without Trying ...",
+      "source": "Forbes",
+      "lien": "https://www.forbes.com/sites/michaeljones/2016/04/29/how-retail-can-learn-from-uber/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/34979667/960x0.jpg?height=468&width=711&fit=bounds",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtGXoQmGKDTPiSZPYLayFL9fuyE_GioM9H5eZr0F9_KTvtaPcD",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "You Be You: How Retail Can Learn From Uber, Without Trying ...",
+        "link": "https://www.forbes.com/sites/michaeljones/2016/04/29/how-retail-can-learn-from-uber/",
+        "source": "Forbes",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEUYFxb___8AAAAVFBMHBQLMzMx-fn7Q0NDU1NT7-_vY19cwLy_T09Pg4OAcGxoODAsjIiFramqsrKzm5uZWVlUsLCrx8fE8OztRUFBKSkm-vr54d3e1tbXe3t5oaGimpqWdnZ1gX19DQkKGhoaNjY0uM3eHAAAA4UlEQVQ4jdWS3RqCIAyGYSgomqiklj-l2f1fY5t4JNhxfSfybC9z-xhjvyM46pivtYpJioTf5ECITFqOSrVS-UQnEAcCrhS-NFi9kK0P4F9SBKZMENxxbnzggoBuhGuJMx9ICCi3uLnZ0gdiAgqMQ8SKe8CJHoEEAYiHiJkAMBJgALq2ivz01hhO8agGy0-AJxnV0rBfKuTo03gGjG4Kk5310O8-wLwEZth9mMhJ32UHaHqsLpzcAHpv-wpWJwnY9mEJ9kf3QRLAZ2_Z9rxMuFNeBwlTrdJpfYe7MKf7_A_6AFW3CNmtF5CiAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtGXoQmGKDTPiSZPYLayFL9fuyE_GioM9H5eZr0F9_KTvtaPcD",
+        "thumbnail_width": 182,
+        "thumbnail_height": 276,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/34979667/960x0.jpg?height=468&width=711&fit=bounds",
+        "image_width": 468,
+        "image_height": 708
+      },
+      "webpage": null,
+      "texte_contexte": "Article Forbes intitulé 'You Be You: How Retail Can Learn From Uber, Without Trying' par Michael Jones, publié le 29 avril 2016.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Jones"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Forbes",
+          "Uber"
+        ],
+        "DATE": [
+          "2016-04-29",
+          "2016"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7401044164166127
+    },
+    {
+      "titre": "2014 New Year's Eve: How to Avoid Surge Pricing on Uber's ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/Business/2014-years-eve-avoid-surge-pricing-ubers-busiest/story?id=27900049",
+      "image_url": "https://s.abcnews.com/images/Lifestyle/GTY_uber_sk_141103_16x9_1600.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz0EgkCK37EdWM4e3OsoQ4zdZj8gPcX2_wj3k1kfM7__bQ941D",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "2014 New Year's Eve: How to Avoid Surge Pricing on Uber's ...",
+        "link": "https://abcnews.com/Business/2014-years-eve-avoid-surge-pricing-ubers-busiest/story?id=27900049",
+        "source": "ABC News",
+        "source_icon": "https://serpapi.com/searches/6a8edc5731866011c2a49744/images/ZL87PhVpVw0gLht9-ulkoNrvlDdb6VXZFbadHLJZ9UA.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz0EgkCK37EdWM4e3OsoQ4zdZj8gPcX2_wj3k1kfM7__bQ941D",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://s.abcnews.com/images/Lifestyle/GTY_uber_sk_141103_16x9_1600.jpg",
+        "image_width": 900,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "2014 New Year's Eve: How to Avoid Surge Pricing on Uber's Busiest Night\n\nCar service app Uber expects 2 million rides in 24 hours starting Wednesday.\n\n&#151; -- Car service company Uber says it expects to deliver more than 2 million rides in 24 hours this New Year's Eve, its \"busiest night ever.\" That means Uber app users should be on the alert for surge pricing that can cause driving services to multiply by as much as seven times.\n\nWhile the demand for cars will exceed available drivers, Uber may make as much as $100 million in revenue on New Year's Eve, says Business Insider, though a company spokeswoman declined to comment to ABC News.\n\nTo avoid previous snafus, when many users fumed at higher prices, Uber offers tips explaining when to request a car and how to navigate pricing.\n\nUber, which doesn't cap prices, reminds users that you’ll be notified in advance and asked to confirm increased rates. You can also estimate your fare before requesting a car.\n\n\nUber defends surge pricing as incentives for drivers to pick up customers during busy times, such as when people were trying to clear out of downtown Sydney during a hostage situation two weeks ago. But after a public backlash in that case, Uber said it would refund customers who were subject to surge pricing and offered free rides that day.\n\n\nAs for the worst time to request an Uber car on New Year's Eve, Uber expects the highest demand -- and fares -- between 12:30 and 2:30 a.m. local time.\n\n\n\"For the most affordable rides, request right when the ball drops at midnight or wait until later for prices to return to normal,\" Uber says, adding users can be notified when prices drop. Uber is available in over 260 cities in 53 countries.\n\n\nPopular Reads\n\n\nCompetitor Lyft’s “Prime Time” New Year's Eve maximum will be double the normal 200 percent cap.\n\nAlternative options include Flywheel, an app that hails taxis in San Francisco, Sacramento, Seattle and San Diego that will offer flat $10 rides from 8 p.m. Wednesday until 3 a.m. Thursday. Another app, SurgeProtector, aims to show Uber users the nearest \"no-surge zone,\" which at times can be just blocks away.\n\nIf you can't afford a ride, you could consider spending the night in with hotel apps like Hotel Tonight, which immediately finds cheaper hotel deals around you.\n\n\nSponsored Content by Taboola",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "Here's how to avoid Uber's New Year's Eve surge pricing.",
+          "keywords": "Uber, New Year's Eve, NYE, pricing, surge, prices, car, service",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "2014 New Year's Eve: How to Avoid Surge Pricing on Uber's Busiest Night",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/Business/2014-years-eve-avoid-surge-pricing-ubers-busiest/story?id=27900049",
+          "og:title": "2014 New Year's Eve: How to Avoid Surge Pricing on Uber's Busiest Night",
+          "og:description": "Here's how to avoid Uber's New Year's Eve surge pricing.",
+          "og:image": "https://s.abcnews.com/images/Lifestyle/GTY_uber_sk_141103_16x9_992.jpg?w=1600",
+          "og:type": "article",
+          "lastPublishedDate": "2014-12-30T17:45:59Z",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "55845270277",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@ABC",
+          "twitter:creator": "ABC News",
+          "twitter:title": "2014 New Year's Eve: How to Avoid Surge Pricing on Uber's Busiest Night",
+          "twitter:description": "Here's how to avoid Uber's New Year's Eve surge pricing.",
+          "twitter:url": "https://abcnews.com/Business/2014-years-eve-avoid-surge-pricing-ubers-busiest/story?id=27900049",
+          "twitter:image": "https://s.abcnews.com/images/Lifestyle/GTY_uber_sk_141103_16x9_992.jpg?w=1600",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "al:iphone:url": "abcnewsiphone://link/prism-story,27900049",
+          "al:iphone:app_store_id": "300255638",
+          "al:iphone:app_name": "ABC News - Breaking US & World News",
+          "al:ipad:url": "abcnewsipad://link/prism-story,27900049",
+          "al:ipad:app_store_id": "380520716",
+          "al:ipad:app_name": "ABC News for ipad",
+          "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.com/Business/2014-years-eve-avoid-surge-pricing-ubers-busiest/story?id=27900049",
+          "al:android:app_name": "ABC News Breaking Latest News",
+          "al:android:package": "com.abc.abcnews",
+          "al:web:url": "https://abcnews.com/Business/2014-years-eve-avoid-surge-pricing-ubers-busiest/story?id=27900049"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article d'ABC News sur le Nouvel An 2014 et l'application de service de transport Uber, qui prévoit 2 millions de courses en 24 heures lors de sa nuit la plus chargée, tout en avertissant les utilisateurs des hausses de prix dynamiques (surge pricing). L'article mentionne également d'autres applications et services comme Lyft, Flywheel, SurgeProtector et Hotel Tonight, ainsi qu'un incident récent à Sydney.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Sydney",
+          "San Francisco",
+          "Sacramento",
+          "Seattle",
+          "San Diego"
+        ],
+        "ORGANIZATION": [
+          "ABC News",
+          "Uber",
+          "Business Insider",
+          "Lyft",
+          "Flywheel",
+          "SurgeProtector",
+          "Hotel Tonight",
+          "Taboola"
+        ],
+        "DATE": [
+          "2014",
+          "Wednesday",
+          "Thursday",
+          "New Year's Eve"
+        ],
+        "EVENT": [
+          "2014 New Year's Eve",
+          "New Year's Eve"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7465280928910452
+    },
+    {
+      "titre": "Uber's first self-driving car spotted in Pittsburgh | Uber ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2015/may/22/uber-self-driving-car-pittsburgh",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/26/1432660748152/368be8cf-0e69-4215-8ef2-bfe254dca325-2060x1236.jpeg?width=220&dpr=1&s=none&crop=5:4",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThKeO7f5KiS7918l6rEN36AUANFzWkYxTr_WYQEgIRDSqNbxAE",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Uber's first self-driving car spotted in Pittsburgh | Uber ...",
+        "link": "https://www.theguardian.com/technology/2015/may/22/uber-self-driving-car-pittsburgh",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThKeO7f5KiS7918l6rEN36AUANFzWkYxTr_WYQEgIRDSqNbxAE",
+        "thumbnail_width": 176,
+        "thumbnail_height": 220,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/26/1432660748152/368be8cf-0e69-4215-8ef2-bfe254dca325-2060x1236.jpeg?width=220&dpr=1&s=none&crop=5:4",
+        "image_width": 176,
+        "image_height": 220
+      },
+      "webpage": {
+        "text": "Uber’s first self-driving car spotted in Pittsburgh | Uber\n\nThe first test vehicle for Uber’s self-driving car programme has been spotted driving around the streets of Pittsburgh covered in cameras and sensors.\n\n\nThe modified Ford branded with “Uber’s Advanced Technologies Center”, was spotted on residential streets by the Pittsburgh Business Times. Uber announced in February that it would open a research centre in Pittsburgh to develop self-driving technology to replace drivers in its taxis.\n\n“This vehicle is part of our early research efforts regarding mapping, safety and autonomy systems,” Uber said in a statement.\n\nThe modified car, much like the one from Apple that was spotted roaming San Francisco’s streets in February, had multiple cameras and a spinning lidar sensor on the roof indicating that the car’s purpose is to map the streets. Google’s Street View and self-driving cars use similar technology.\n\nAccurate mapping at street level is one of the key cornerstones of autonomous vehicles, which rely on an accurate digital representation of the real world to guide themselves through streets and roads.\n\nUber’s autonomous car efforts are being driven by Carnegie Mellon University, which has an advanced robotics centre that has spawned various examples of self-driving technology, including a portion of Google’s efforts.\n\nUber chief executive Travis Kalanick has been bullish about his desire to automate the company’s cars and cut out the human element of the taxi service, which is its largest operating cost.\n\nTaxi drivers the world over have been vocal in their protest at at the encroachment of Uber cars powered by human drivers into their market. The replacement of humans with robots would allow Uber to further undercut the competition and increase it’s profits.\n\nGoogle acknowledges its self-driving cars had 11 minor accidents",
+        "metadata": {
+          "title": "Uber’s first self-driving car spotted in Pittsburgh | Uber | The Guardian",
+          "description": "A car fitted with cameras and laser scanners has been seen driving on public roads in the US, as Uber’s research centre starts testing technology",
+          "og:url": "http://www.theguardian.com/technology/2015/may/22/uber-self-driving-car-pittsburgh",
+          "article:author": "https://www.theguardian.com/profile/samuel-gibbs",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/22/1432289404837/282c49b6-cbf1-4268-a954-ff6a6efbe811-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=55d951c5147afc5045001674eb708dd0",
+          "al:ios:url": "gnmguardian://technology/2015/may/22/uber-self-driving-car-pittsburgh?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Uber’s first self-driving car spotted in Pittsburgh",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-21T18:02:09.000Z",
+          "og:image:height": "720",
+          "og:description": "A car fitted with cameras and laser scanners has been seen driving on public roads in the US, as Uber’s research centre starts testing technology",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2015-05-22T10:39:24.000Z",
+          "article:tag": "Uber,Robots,Self-driving cars,Motoring,Technology,Apps",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article du The Guardian concernant la première voiture autonome d'Uber repérée à Pittsburgh, couverte de caméras et de capteurs. Le véhicule modifié de marque Ford, associé au centre de technologies avancées d'Uber, est destiné à la recherche sur la cartographie, la sécurité et l'autonomie. L'article mentionne le PDG d'Uber Travis Kalanick, Carnegie Mellon University, Apple et Google.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Travis Kalanick"
+        ],
+        "LOCATION": [
+          "Pittsburgh",
+          "San Francisco"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Uber",
+          "Pittsburgh Business Times",
+          "Ford",
+          "Apple",
+          "Google",
+          "Carnegie Mellon University"
+        ],
+        "DATE": [
+          "February"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7199806905701468
+    },
+    {
+      "titre": "How Your Uber Rating Can Make You a Better Person",
+      "source": "TIME",
+      "lien": "https://time.com/3151915/how-your-uber-rating-can-make-you-a-better-person/",
+      "image_url": "https://static.time.com/v3/assets/bltea6093859af6183b/blt666416333ff250e5/69869f6a810bbb32d3c92ff7/453253488.jpg?branch=production",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_cDVCZA-3oR4WyxRZIf-5sCHaItMsp8hZONbPeVJiPY-Dser",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "How Your Uber Rating Can Make You a Better Person",
+        "link": "https://time.com/3151915/how-your-uber-rating-can-make-you-a-better-person/",
+        "source": "TIME",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQLkC9O8HOnYr_07aQpVH3Dji3lwMOP75fpX5DEbEna-d7ulYie9pAdRCCmBHIbbkUAemYSRveOPIm6rKjH7DGj4rgsWyEqCJBgMsA9vQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt_cDVCZA-3oR4WyxRZIf-5sCHaItMsp8hZONbPeVJiPY-Dser",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt666416333ff250e5/69869f6a810bbb32d3c92ff7/453253488.jpg?branch=production",
+        "image_width": 2667,
+        "image_height": 4000
+      },
+      "webpage": {
+        "text": "How Your Uber Rating Can Make You a Better Person\n\nOne of the many cool things about Uber is that it allows passengers to rate the driver. Not surprisingly, the drivers are very friendly. A recent hack of Uber’s site highlighted that the sauce-for-the-gander reverse is also true: the drivers rate us passengers. Even better, for a while it was possible to crack Uber’s database and see the driver’s ratings for you. With enough cleverness, you could even pry loose how others were rated.\n\nAt first this might seem a creepy invasion of privacy, especially if you’re less than a five-star passenger. But there’s a virtue to losing your anonymity. Once you know you’re being rated, just like the driver, you’re likely to be a bit nicer, sit in the front, and make conversation. The world becomes slightly more civil.\n\nPlato in The Republic writes about the Ring of Gyges, a mythical piece of jewelry that allows its wearer to become invisible. His question is whether such a person would always be moral when assured that no one could see him. Plato’s brother Glaucon says it’s obvious that we’re more likely to behave like a jerk, or worse, when we know that we’ll never be caught or called out.\n\nCivil liberties junkies sometimes confuse the worthy ideal of privacy with anonymity, a less exalted concept. The idea that we should be able to interact with other people anonymously is rather new in human history. It arose when people started moving from tight-knit communities to urban areas where they were generally unknown. When I was a kid in New Orleans, if I went to the local store and bought a pack of Marlboros, it would get back to my parents in about five minutes. Now we can buy anything anonymously and, worse yet, say anything.\n\nThis has not elevated the civic discourse. If I could conjure up a magic Plato ring, it would allow me to know and publicly reveal the names and addresses of all people who anonymously post vulgar rants and racist tweets. I would use it only sparingly, but I suspect that just a few such revelations would make the Twittersphere and Blogosphere suddenly a bit more civil, or at least subdued.\n\nIn the early days of the online world, people who posted in virtual communities such as The WELL knew that, even if they were using a pseudonym, they were creating an online identity and reputation that was worth tending. A year ago, the Huffington Post began requiring people to register in order to comment, and it has elevated the discourse on the site.\n\nWhen the Internet Protocol was created in the early 1970s, it did not grant total anonymity to users. To this day, unless you take special precautions, a good hacker – or the NSA – can track down your I.P. address, location, and even your true identity. If a few white-hat hackers or NSA leakers published the names and addresses of, say, the trolls who hounded Robin Williams’s daughter, there would understandably be an outcry among privacy (read: anonymity) advocates, but it would have the silver lining of muting some of the haters.\n\nLikewise, if we all thought we were subject to being rated, we might work harder to be on our best behavior. In the world of Yelp and TripAdvisor and HealthGrades, we get to rate our restaurants and hotels and doctors. I hope that expands. College students rate their professors in many places; it would be nice to allow kids and parents to rate their high school teachers. In the sauce-for-the-gander category, if teachers and waiters and hotels were all rating us, it might feel a bit Orwellian. Nevertheless, it’s a cool Ring of Gyges thought experiment to imagine how much better we would behave.\n\n\nWalter Isaacson, a former managing editor of TIME, is the president and CEO of the Aspen Institute, a nonpartisan educational and policy studies institute based in Washington, DC. A former chairman and CEO of CNN, he is the author of Steve Jobs(2011),Einstein: His Life and Universe(2007), Benjamin Franklin: An American Life(2003), Kissinger: A Biography(1992), and the forthcoming The Innovators (October 2014), as well as the coauthor of The Wise Men: Six Friends and the World They Made(1986). This article also appears in the Aspen Journal of ideas",
+        "metadata": {
+          "title": "How Your Uber Rating Can Make You a Better Person",
+          "description": "How Your Uber Rating Can Make You a Better Person",
+          "author": "Walter Isaacson",
+          "pinterest:description": "If we all thought we were subject to being reviewed by the people around us, we might work harder to be on our best behavior",
+          "og:title": "How Your Uber Rating Can Make You a Better Person",
+          "og:description": "If we all thought we were subject to being reviewed by the people around us, we might work harder to be on our best behavior",
+          "og:url": "https://time.com/3151915/how-your-uber-rating-can-make-you-a-better-person/",
+          "og:site_name": "TIME",
+          "og:image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt666416333ff250e5/69869f6a810bbb32d3c92ff7/453253488.jpg?branch=production&width=4000&quality=75&auto=webp&crop=16:9",
+          "og:image:width": "4000",
+          "og:image:height": "2250",
+          "og:image:alt": "The Hamptons Lure Uber Top Drivers Amid NYC Slow Summer Weekends",
+          "og:type": "article",
+          "twitter:title": "How Your Uber Rating Can Make You a Better Person",
+          "twitter:description": "If we all thought we were subject to being reviewed by the people around us, we might work harder to be on our best behavior"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de TIME intitulé 'How Your Uber Rating Can Make You a Better Person', abordant le système de notation mutuelle entre chauffeurs et passagers sur Uber, et discutant de la vie privée, de l'anonymat en ligne, de la philosophie de Platon et de divers sujets sociétaux liés à Internet.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Plato",
+          "Glaucon",
+          "Robin Williams"
+        ],
+        "LOCATION": [
+          "New Orleans"
+        ],
+        "ORGANIZATION": [
+          "TIME",
+          "Uber",
+          "Huffington Post",
+          "NSA"
+        ],
+        "DATE": [
+          "1970s",
+          "a year ago"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Ring of Gyges",
+          "The WELL"
+        ]
+      },
+      "score_e5": 0.7506316298059622
+    },
+    {
+      "titre": "Uber drivers are employees not contractors, California rules ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2015/jun/17/uber-drivers-are-employees-not-contractors-in-california-ruling",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/17/1434553024267/7d0a5a22-ec7b-43b6-acf3-b11ee330a93a-2060x1236.jpeg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5lkw6VEdMmVbVahYHWr2R_e3K2SFg-030qCygs6qkyVQywzKk",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Uber drivers are employees not contractors, California rules ...",
+        "link": "https://www.theguardian.com/technology/2015/jun/17/uber-drivers-are-employees-not-contractors-in-california-ruling",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5lkw6VEdMmVbVahYHWr2R_e3K2SFg-030qCygs6qkyVQywzKk",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/17/1434553024267/7d0a5a22-ec7b-43b6-acf3-b11ee330a93a-2060x1236.jpeg?width=465&dpr=1&s=none&crop=none",
+        "image_width": 279,
+        "image_height": 465
+      },
+      "webpage": {
+        "text": "Uber drivers are employees not contractors, California rules | Uber\n\nUber has appealed a California labor commission ruling that declared employees of the ride-sharing company are employees and not contractors.\n\nIn its ruling, the California labor commissioner said Uber is “involved in every aspect of the operation”, negating the company’s longstanding claim that its drivers are contractors.\n\nThe decision appears to imply that Uber is in reality a transport operator and could have a significant impact on its business model. The company had argued that drivers were contractors, with Uber acting as a logistics software company.\n\nIf Uber drivers are employees, that opens Uber up to higher costs, including Social Security, workers’ compensation and unemployment insurance. That could affect its valuation, currently above $40 billion, and the valuation of other companies that rely on large networks of individuals to provide rides, clean houses and other services.\n\nBut the commission said Uber controls the tools driver use, monitors their approval ratings and terminates their access to the system if their ratings fall below 4.6 stars.\n\nThe company had appealed the commission’s decision to award Barbara Ann Berwick, an Uber driver in San Francisco, more than $4,000 in expenses.\n\nThe ruling was issued earlier this month and came to light when Uber filed its appeal in state court in San Francisco on Tuesday evening.\n\nUber supporters argued the ruling could have a negative impact on other so-called sharing economy companies that also use private contractors.\n\n“This ruling will have a chilling effect on the entire sharing economy,” said Berin Szoka, President of libertarian think tank TechFreedom. “The independent-contractor business model helped drive the success of Uber, Lyft, Airbnb, and other sharing-economy companies. The commission’s ruling could force sharing-economy companies to scale back their offerings and increase prices, which could also rob consumers of the flexibility and broad range of choices currently offered by these companies.”\n\nReuters contributed to this report",
+        "metadata": {
+          "title": "Uber drivers are employees not contractors, California rules | Uber | The Guardian",
+          "description": "Uber to appeal California Labor Commission ruling that it is ‘involved in every aspect of the operation’",
+          "og:url": "http://www.theguardian.com/technology/2015/jun/17/uber-drivers-are-employees-not-contractors-in-california-ruling",
+          "article:author": "https://www.theguardian.com/profile/chris-johnston",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/17/1434553024267/7d0a5a22-ec7b-43b6-acf3-b11ee330a93a-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=b408a19a3d2f9c34b0b30369306ee480",
+          "al:ios:url": "gnmguardian://technology/2015/jun/17/uber-drivers-are-employees-not-contractors-in-california-ruling?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Uber drivers are employees not contractors, California rules",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-07-14T21:01:01.000Z",
+          "og:image:height": "720",
+          "og:description": "Uber to appeal California Labor Commission ruling that it is ‘involved in every aspect of the operation’",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2015-06-17T16:10:29.000Z",
+          "article:tag": "Uber,Technology,Transport policy,Business,California,US news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article du The Guardian indiquant qu'une commission du travail californienne a statué que les chauffeurs Uber sont des employés et non des sous-traitants. Uber a fait appel de cette décision concernant la conductrice Barbara Ann Berwick à San Francisco. L'article mentionne les impacts potentiels sur l'économie du partage et cite Berin Szoka de TechFreedom, ainsi que Lyft et Airbnb.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Barbara Ann Berwick",
+          "Berin Szoka"
+        ],
+        "LOCATION": [
+          "California",
+          "San Francisco"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Uber",
+          "Reuters",
+          "TechFreedom",
+          "Lyft",
+          "Airbnb"
+        ],
+        "DATE": [
+          "earlier this month",
+          "Tuesday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7242443545356213
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Princess Charlotte"
+    ],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Apple",
+      "Periscope"
+    ],
+    "DATE": [],
+    "EVENT": [
+      "birth of Princess Charlotte"
+    ],
+    "OTHER": [
+      "iPhone"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Michael Jones",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Travis Kalanick",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Plato",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Glaucon",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Robin Williams",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Barbara Ann Berwick",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Berin Szoka",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sydney",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Francisco",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Sacramento",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Seattle",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Diego",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Pittsburgh",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Orleans",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "California",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Uber",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Business Insider",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lyft",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Flywheel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "SurgeProtector",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hotel Tonight",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Taboola",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Pittsburgh Business Times",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Ford",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Apple",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Carnegie Mellon University",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "TIME",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Huffington Post",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NSA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "TechFreedom",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Airbnb",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016-04-29",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2014",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "New Year's Eve",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "February",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1970s",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "a year ago",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "earlier this month",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "2014 New Year's Eve",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "New Year's Eve",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ring of Gyges",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "The WELL",
+      "rangs": [
+        4
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T09:54:01.697670"
+  }
+}

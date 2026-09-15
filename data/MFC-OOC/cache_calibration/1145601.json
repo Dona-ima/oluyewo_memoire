@@ -1,0 +1,841 @@
+{
+  "id_rumeur": 1145601,
+  "id_image": 1145601,
+  "caption": "Perhaps he was after something like this Soaring photo of New York s stately George Washington Bridge",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756641/oluyewo_benchmark/winhaxob8ow1adtryzrp.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Murphy insists he has 'understanding' with Cuomo on ...",
+      "source": "Politico",
+      "lien": "https://www.politico.com/states/new-york/city-hall/story/2019/04/25/murphy-insists-he-has-understanding-with-cuomo-on-manhattan-tolls-988921",
+      "image_url": "https://www.politico.com/dims4/default/a86e839/2147483647/resize/1200x/quality/90/?url=https://static.politico.com/72/ae/a3b685664433afee8145c40fe508/gw-bridge.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM1YPuJdVgi0LQq54-xuf9yuB3hmeKcygFOPTnDcPBkuqknB6s",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Murphy insists he has 'understanding' with Cuomo on ...",
+        "link": "https://www.politico.com/states/new-york/city-hall/story/2019/04/25/murphy-insists-he-has-understanding-with-cuomo-on-manhattan-tolls-988921",
+        "source": "Politico",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIVBMVEXXGSD____bLTPys7XtmJviV1z64uPdPUPmam_2ysz98vOAhDRmAAAAaklEQVQ4jd3SSwrAMAgE0Eyi5nP_A9dA6QemZtt2lvqQKEnpXyl7pD0AHDFdAIAO8XqdaR0YmYO9XAAJQfZnhCAZsAIjBAr0CKjxPR3IjG9JB1wPZewMJxhC-xM09VTavW3xYuC_LQZfzgbXPAGk0mr1IAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM1YPuJdVgi0LQq54-xuf9yuB3hmeKcygFOPTnDcPBkuqknB6s",
+        "thumbnail_width": 165,
+        "thumbnail_height": 305,
+        "image": "https://www.politico.com/dims4/default/a86e839/2147483647/resize/1200x/quality/90/?url=https://static.politico.com/72/ae/a3b685664433afee8145c40fe508/gw-bridge.jpg",
+        "image_width": 629,
+        "image_height": 1160
+      },
+      "webpage": null,
+      "texte_contexte": "Murphy insists he has 'understanding' with Cuomo on Manhattan tolls.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Murphy",
+          "Cuomo"
+        ],
+        "LOCATION": [
+          "Manhattan"
+        ],
+        "ORGANIZATION": [
+          "Politico"
+        ],
+        "DATE": [
+          "2019/04/25"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7200328817109295
+    },
+    {
+      "titre": "Fort Lee, N.J., Reflects on Year Since George Washington ...",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/fort-lee-n-j-reflects-on-year-since-george-washington-bridge-scandal-1410226507",
+      "image_url": "https://s.wsj.net/public/resources/images/NY-DE829_BRIDGE_FR_20140908184600.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsNx6bbWScYTgaEZCrd8gfemOl3FMxoLRl5lxvI4rLnk5tgQk2",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Fort Lee, N.J., Reflects on Year Since George Washington ...",
+        "link": "https://www.wsj.com/articles/fort-lee-n-j-reflects-on-year-since-george-washington-bridge-scandal-1410226507",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsNx6bbWScYTgaEZCrd8gfemOl3FMxoLRl5lxvI4rLnk5tgQk2",
+        "thumbnail_width": 254,
+        "thumbnail_height": 198,
+        "image": "https://s.wsj.net/public/resources/images/NY-DE829_BRIDGE_FR_20140908184600.jpg",
+        "image_width": 810,
+        "image_height": 632
+      },
+      "webpage": null,
+      "texte_contexte": "Fort Lee, N.J., Reflects on Year Since George Washington Bridge Scandal.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "George Washington"
+        ],
+        "LOCATION": [
+          "Fort Lee",
+          "N.J."
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "George Washington Bridge Scandal"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.783565726344802
+    },
+    {
+      "titre": "George Washington Bridge - Wikipedia",
+      "source": "Wikipedia",
+      "lien": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GWBfromFortLeeHistoricPark.JPG/1280px-GWBfromFortLeeHistoricPark.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU45NbiYOHnbjKEDBlW1YJ9t9D66-fGhm4P620hJHpiD24wDQJ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "George Washington Bridge - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
+        "source": "Wikipedia",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRLIcgPlYxOaoBg0MnSobLYyflrgF_RLdwAY09AXHWGy2jqWQnuIBNCY5I1BuzY7jeAJga0y0b9htBHe94i3Pg4B0NhHMNDVsmS-FVRKL014d-Xf6sX",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU45NbiYOHnbjKEDBlW1YJ9t9D66-fGhm4P620hJHpiD24wDQJ",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GWBfromFortLeeHistoricPark.JPG/1280px-GWBfromFortLeeHistoricPark.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+        "image_width": 960,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "George Washington Bridge\n\nSuspension bridge between New Jersey and New York\n\n\nThis article is about the bridge between Manhattan and New Jersey. For other uses, see Washington Bridge. \"GW Bridge\" redirects here. For the comic book character, see G. W. Bridge.\n\nGeorge Washington Bridge\nThe bridge as seen from Fort Lee, New Jersey, in September\n2013\nCoordinates          40°51′06″N 73°57′10″W﻿ / ﻿40.8517°N 73.9527°W﻿ / 40.8517;\n                     -73.9527﻿ (George Washington Bridge)\nCarries               * 14 lanes (8 upper deck, 6 lower deck) of I-95 / US 1-9\n                        (full length) / US 46 (NJ side)\n                      * Upper deck sidewalk (north side): pedestrians and\n                        cyclists\nCrosses              Hudson River\nLocale               Fort Lee, New Jersey–New York City (Washington Heights,\n                     Manhattan), New York\nOther names           * GWB\n                      * GW\n                      * GW Bridge\n                      * The George\n                      * G-Dub\nNamed for            U.S. President George Washington\nMaintained by        Port Authority of New York and New Jersey\nCharacteristics\nDesign               Double-decked suspension bridge\nMaterial             Steel\nTotal length         4,760 ft (1,450 m)[1]\nWidth                119 ft (36 m)[1]\nHeight               604 ft (184 m)[1]\nLongest span         3,500 ft (1,067 m)[2]\nClearance above      14 ft (4.3 m) (upper level), 13.5 ft (4.1 m) (lower\n                     level)[3]\nClearance below      212 ft (65 m) at mid-span[1]\nHistory\nDesigner             Othmar Ammann (chief engineer)\n                     Edward W. Stearns (assistant chief engineer)\n                     Allston Dana (design engineer)\n                     Cass Gilbert (architect)\n                     Montgomery Case (construction engineer)\nConstruction start   September 21, 1927; 98 years ago (1927-09-21) (bridge\n                     construction/upper level)\n                     June 2, 1959; 67 years ago (1959-06-02) (lower level)\nOpened               October 25, 1931; 94 years ago (1931-10-25) (bridge\n                     construction/upper level)\n                     August 29, 1962; 64 years ago (1962-08-29) (lower level)\nStatistics\nDaily traffic        289,827 (2016)[4]\nToll                 For cars, eastbound only, as of July 12, 2026:\n                      * Tolls by Mail: $23.30\n                      * E-ZPass Mid-Tier: $19.55\n                      * E-ZPass Peak: $16.79 (Weekdays: 6‍–‍10 am & 4‍–‍8 pm;\n                        Weekends: 11 am‍–‍9 pm)\n                      * E-ZPass Off-peak: $14.79\n                     \n                     These toll rates:\n                      * view\n                      * talk\n                      * edit\nLocation\nInteractive map of George Washington Bridge\n\nThe George Washington Bridge is a double-decked suspension bridge spanning the Hudson River, connecting Fort Lee in Bergen County, New Jersey, with the Washington Heights neighborhood of Manhattan, New York City. It is named after George Washington, a Founding Father of the United States and the country's first president. The George Washington Bridge is the world's busiest motor vehicle bridge,[5] carrying a traffic volume of over 104 million vehicles in 2019,[6] and is the world's only suspension bridge with 14 vehicular lanes.[7] The George Washington Bridge measures 4,760 feet (1,450 m) long, and its main span is 3,500 feet (1,100 m) long. It was the longest main bridge span in the world from its 1931 opening until the Golden Gate Bridge in San Francisco opened in 1937.\n\nThe bridge is informally known as the GW Bridge, the GWB, the GW, or the George,[8] and was known as the Fort Lee Bridge or Hudson River Bridge during construction. It is owned by the Port Authority of New York and New Jersey, a bi-state government agency that operates infrastructure in the Port of New York and New Jersey. The George Washington Bridge is an important travel corridor within the New York metropolitan area. It has an upper level that carries four lanes in each direction and a lower level with three lanes in each direction, for a total of 14 lanes of travel.\n\nThe speed limit on the bridge is 45 mph (72 km/h). The bridge's upper level also carries pedestrian and bicycle traffic. Interstate 95 (I-95) and U.S. Route 1/9 (US 1/9, composed of US 1 and US 9) cross the river via the bridge. U.S. Route 46 (US 46), which lies entirely within New Jersey, terminates halfway across the bridge at the state border with New York. At its eastern terminus in New York City, the bridge continues onto the Trans-Manhattan Expressway (part of I-95, connecting to the Cross Bronx Expressway).\n\nThe idea of a bridge across the Hudson River was first proposed in 1906. In 1925, the state legislatures of New York and New Jersey voted to allow for the planning and construction. Construction on the George Washington Bridge started in September 1927; the bridge was ceremonially dedicated on October 24, 1931, and opened to traffic the next day. The opening of the George Washington Bridge contributed to the development of Bergen County, New Jersey, in which Fort Lee is located. The upper deck was widened from six to eight lanes in 1946. The six-lane lower deck was constructed beneath the existing span from 1959 to 1962 because of increasing traffic.\n\n\nDesign\n\nThe George Washington Bridge was designed by chief civil engineer Othmar Ammann,[9][10][11] design engineer Allston Dana,[12][10] and assistant chief engineer Edward W. Stearns,[13][10] with Cass Gilbert as consulting architect.[14][15] It connects Fort Lee in Bergen County, New Jersey, with Washington Heights in Manhattan, New York.[16][17] The bridge's construction required 113,000 short tons (101,000 long tons; 103,000 t) of fabricated steel; 28,000 short tons (25,000 long tons; 25,000 t) of wire, stretching 106,000 miles (171,000 km); and 20,000 short tons (18,000 long tons; 18,000 t) of masonry.[18][11]\n\n\nDecks\n\nThe George Washington Bridge has a total length of 4,760 feet (1,450 m), while its main span is 3,500 feet (1,100 m) long.[1][18] Accounting for the height of the lower deck, the bridge stretches 212 feet (65 m) above mean high water at its center,[1] and 195 feet (59 m) above mean high water under the New York anchorage.[19] The bridge's main span was the longest main bridge span in the world at the time of its opening in 1931, and was nearly double the 1,850 feet (560 m) of the previous recordholder, the Ambassador Bridge in Detroit.[20][21] It held this title until the opening of the Golden Gate Bridge in 1937.[2] Prior to the bridge's construction, engineers had believed that a suspension span's length was a large indicator of a suspension bridge's economic feasibility, but the bridge's completion proved that longer suspension bridges were both physically and economically feasible.[22]\n\nThe George Washington Bridge's total width is 119 feet (36 m).[1] When the upper deck was built, it was only 12 feet (3.7 m) thick without any stiffening trusses on the sides, resulting in a deck weighing 1,100 pounds per square foot (5,400 kg/m2) and a length-to-thickness ratio of about 350 to 1.[23][24] At the time of the George Washington Bridge's opening, most long suspension spans had stiffening trusses on their sides, and spans generally had a length-to-thickness ratio of 60 to 1, which translated to a weight of 13,000 to 14,000 pounds per square foot (63,000 to 68,000 kg/m2) and a thickness equivalent to an 11-story building.[25][22][26]\n\nRoadways and sidewalks\n\nThe bridge carries 14 lanes of traffic, seven in each direction.[16][17] As such, the George Washington Bridge contains more vehicular lanes than any other suspension bridge and is the world's busiest vehicular bridge.[5][27][28][29] The fourteen lanes of the bridge are split unevenly across two levels: the upper level contains eight lanes while the lower level contains six lanes.[16][17] The upper level opened on October 25, 1931,[30] and is 90 feet (27 m) wide.[1] The upper level originally had six lanes, though two more lanes were added in 1946.[31]\n\nAlthough the lower level was part of the original plans for the bridge, it did not open until August 29, 1962.[17] The upper level has a vertical clearance of 14 feet (4.3 m), and all trucks and other oversize vehicles must use the upper level. Trucks are banned from the lower level, which has a clearance of 13.6 feet (4.1 m). All lanes on both levels are 11 feet 0 inches (3.35 m) wide.[3][32] Vehicles carrying hazardous materials (HAZMATs) are prohibited on the lower level due to its enclosed nature. HAZMAT-carrying vehicles may use the upper level, provided that they conform to strict guidelines as outlined in the Port Authority's \"Red Book\".[3][33]\n\nThere are two sidewalks on the upper span of the bridge, one on each side.[34] The northern sidewalk was largely closed after the September 11 attacks;[35] it reopened in 2017 while a temporary suicide prevention fence was installed on the southern sidewalk, in preparation for the installation of permanent fences on both sidewalks.[36][37] Prior to the northern sidewalk's reconstruction in 2023, pedestrians had to traverse a total of 171 steps while using the northern sidewalk. As part of a renovation, the steps were replaced by a ramp, and two viewing platforms were added.[35][38] As of 2024, the northern sidewalk is closed at night.[39]\n\nStiffening trusses\n\nDuring the planning process, Ammann designed the deck around the \"deflection theory\", an as-yet-unconfirmed assumption that a longer suspension deck did not need to be as stiff in proportion to its length, because the weight of the longer deck itself would provide a counterweight against the deck's movement. This had been tested by Leon Moisseiff when he designed the Manhattan Bridge in 1909, though it was less than half the length of the George Washington Bridge.[26]\n\nStiffening trusses were ultimately excluded from the George Washington Bridge's design to save money. Instead, a system of plate girders was installed under the upper deck. This provided the stiffening that was necessary for the bridge deck, and it was replicated on the lower deck during its construction. The plate-girders underneath each deck, combined with an open-truss design on the bridge's side that connected the decks with each other, resulted in an even stiffer span that was able to resist torsional forces.[25]\n\n\nCables\n\nFour 3-foot (0.91 m)-diameter main cables support the bridge deck.[11] Each main cable contained 61 strands of wire rope, with each strand made of 434 individual wires, for a total of 26,474 wires per main cable, and 105,986 in all. The cables are covered by a sheath of weather-resistant steel.[40][41][42] The upper bridge deck is held by vertical suspender cables attached directly to the main cables by saddle connections; the lower deck is supported by girders attached to the upper.[43][44][45] There are 592 suspender cables, which are 38 to 674 feet (12 to 205 m) long.[46]\n\nThe main cables are anchored in concrete on both sides of the bridge, in a purpose-built anchorage on the New York side and bored and set directly into the cliffs of the Palisades on the New Jersey side.[47][48] Originally, the end of each cable was supposed to receive one of several ornamental designs, such as a wing, fin, tire, or statue; cost-savings after the start of the Great Depression in 1929 preempted the flourishes.[49]\n\n\nSuspension towers\n\nThe suspension towers on each side of the river are each 604 feet (184 m) tall.[1] They are composed of sections weighing between 37 and 40 short tons (33 and 36 long tons) and contain a combined 475,000 rivets.[50] Each bridge has two archways, one above and one below the decks.[11] The George Washington Bridge is classified as a fracture critical bridge, making it vulnerable to collapse if parts of the towers were to fail, although the towers are located offshore.[51]\n\nThe original design called for the towers to be encased in concrete and granite in a Revival style, similar to the Brooklyn Bridge.[50][15][52] Additional scrutiny of the proposed bridge's engineering found that the steel alone could support the towers,[53] with only a decorative stone facade being retained in the plan.[54][55] Elevators to carry sightseers to restaurants and observatory proposed decks at the top of each tower were also pared from the design.[15][56][47] Ultimately, even stone facades were postponed in 1929 during the Great Depression due to rising material costs.[57][58][59] Even though the steel towers had been left that way for cost reasons, some aesthetic critiques of the bare steel towers were favorable.[59][58] Several groups, such as the American Institute of Steel Construction, believed that covering the steel framework with masonry would be both misleading and \"fundamentally ugly\".[60]\n\nWhile the exposed steel towers' design was negatively received by a few critics such as Raymond Hood and William A. Boring, the public reception at the bridge's opening was generally positive.[18] The Swiss-French architect Le Corbusier wrote of the towers: \"The structure is so pure, so resolute, so regular that here, finally, steel architecture seems to laugh.\"[61][21] Milton MacKaye wrote in The New Yorker that the George Washington Bridge had established Ammann as \"one of the immortals of bridge engineering and design, a genius.\"[62] Ammann never incorporated masonry towers in his bridge plans again.[50] He wrote that the \"sturdy appearance and well-balanced distribution of steel in the columns and bracing\" gave the bridge's towers \"a good appearance, a neat appearance\".[15][63] Over time, the exposed steel towers, with their distinctive criss-crossed bracing, became one of the George Washington Bridge's most identifiable characteristics.[40][2]\n\n\nAmerican flag\n\nSince 1947 or 1948,[a] the bridge has flown the world's largest free-flying American flag on special occasions. Hung inside the arch of the New Jersey tower, it measures 90 feet (27 m) long, 60 feet (18 m) wide, and 450 pounds (200 kg).[64][16] Until 1976, the flag was taken out of a garage in New Jersey and manually erected on national holidays. During the United States' bicentennial, a mechanical hoisting system was installed, and the flag was stored along the bridge's girders when not in use.[64]\n\nWhen weather allows,[65][66] it is hoisted on Martin Luther King Jr. Day, Presidents Day, Memorial Day, Flag Day, Independence Day, Labor Day, Columbus Day, and Veterans Day.[16] Since 2006, the flag is also flown on September 11 of each year, honoring those lost in the September 11 attacks.[66] On events where the flag is flown, the tower lights are lit from dusk until 11:59 p.m.[1]\n\n\nHistory\n\nThe bridge sits near the sites of Fort Washington (in New York) and Fort Lee (in New Jersey), which were fortified positions used by General George Washington and his American forces as they attempted to deter the occupation of New York City in 1776 during the American Revolutionary War. Unsuccessful, Washington evacuated Manhattan by ferrying his army between the two forts.[67][b]\n\nBy the end of the 19th century there were more than 200 separate municipalities along the lower Hudson River and the New York Bay, with no unified agency to control commerce or transport in the area[69] and no fixed crossing. The first was proposed in 1888 by civil engineer Gustav Lindenthal, who later became New York City's bridge commissioner.[70] The Hudson and Manhattan Railroad and the Pennsylvania Railroad opened three pairs of tubes under the lower Hudson in the 1900s.[71] The first vehicular crossing across the lower Hudson River, the Holland Tunnel, was opened in 1927, connecting Lower Manhattan with Jersey City.[72][73]\n\n\nPlanning\n\nA vehicular bridge across the Hudson River was being considered as early as 1906, during the planning for the Holland Tunnel.[74] Three possible locations for a suspension bridge were considered in the vicinity of 57th, 110th, and 179th Streets in Manhattan,[75] with others rejected on the grounds of aesthetics, geography, or traffic flows.[74][76] In 1920, English architect Alfred C. Bossom proposed a double-decker bridge with room for vehicular and railroad traffic near 57th Street in Midtown Manhattan. The same year, Othmar Ammann and Gustav Lindenthal proposed a vehicular and railroad bridge to 57th Street in Manhattan, topped by an office building on the Manhattan end that would have been the world's tallest.[77] Lindenthal's plan failed because it did not receive permits from the United States Army Corps of Engineers or approval from the city, and because Midtown Manhattan real estate developers and planners opposed the plan. Ammann unsuccessfully attempted to convince Lindenthal to build his bridge elsewhere, without a tower atop the bridge's terminus.[78] In January 1924, the New York State Chamber of Commerce voted against the 57th Street location in favor of another upstream.[79] Despite this, Lindenthal proposed that a bridge be built there, and carry 16 railroad tracks and 12 lanes of automotive traffic.[80]\n\nMeanwhile, Ammann became chief engineer of the Port of New York Authority (now the Port Authority of New York and New Jersey), which was created in 1921 to oversee commerce and transport along the lower Hudson River and New York Bay.[69] He had disassociated himself from Lindenthal's proposal by 1923, conducting his own studies on the feasibility of a bridge from 178th Street in Fort Washington, Manhattan, to Fort Lee in New Jersey.[78] Ammann's advocacy for the Fort Washington–Fort Lee bridge gained support from both New Jersey governor George Silzer and New York governor Alfred E. Smith by mid-1923.[69][78] In May 1924, Colonel Frederick Stuart Greene, the New York Superintendent of Public Works, announced a plan to construct a suspension bridge between Fort Lee and Fort Washington. At that location, both sides were surrounded by steep cliffs (The Palisades on the New Jersey side, and Washington Heights on the New York side). Thus, it was possible to build the bridge without either impeding maritime traffic or requiring lengthy approach ramps from ground level.[81]\n\nA New Jersey state assemblyman introduced a bill for the Hudson River bridge that December.[82] This bill was passed in the New Jersey Assembly in February 1925.[83] After an initial rejection by Silzer, the Assembly made modifications before passing the bill again in March,[84] after which Silzer signed the bill.[85] Around the same time, the New York state legislature was also considering a similar bill.[9] A dispute developed between New York civic groups, who supported the construction of the Hudson River Bridge; and the Parks Conservation Association, who believed that the bridge towers would degrade the quality of Fort Washington Park directly underneath the proposed bridge's deck.[86][87] In late March 1925, the chairman of the Parks Conservation Association noted that the proposed New York state legislation would provide for the actual construction of the bridge, rather than just the planning.[88] Ultimately, the Hudson River bridge bill was passed in the New York state legislature, and Smith approved the bill that April.[89]\n\nIn March 1925, Silzer asked Ammann to devise preliminary plans for the Hudson River bridge. Ammann found that the width of the Hudson River decreased by more than 1,000 feet (300 m) when it passed between Fort Lee and Fort Washington. The ledges of Fort Lee and Fort Washington were respectively 300 and 200 feet (91 and 61 m) above mean water level at this point, which was not only ideal geography for a suspension bridge, but also allowed the bridge to be high enough to give sufficient clearance for maritime traffic.[9] However, the differing heights meant that a large cut had to be made through the Fort Lee ledge so that the bridge approach could be built the",
+        "metadata": {
+          "title": "George Washington Bridge - Wikipedia",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GWBfromFortLeeHistoricPark.JPG/1280px-GWBfromFortLeeHistoricPark.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+          "og:image:width": "1200",
+          "og:image:height": "900",
+          "og:title": "George Washington Bridge - Wikipedia",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "name": "George Washington Bridge",
+          "url": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
+          "sameAs": "http://www.wikidata.org/entity/Q125821",
+          "mainEntity": "http://www.wikidata.org/entity/Q125821",
+          "author": {
+            "@type": "Organization",
+            "name": "Contributors to Wikimedia projects"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Wikimedia Foundation, Inc.",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.wikimedia.org/static/images/wmf-hor-googpub.png"
+            }
+          },
+          "datePublished": "2003-02-22T12:50:08Z",
+          "dateModified": "2026-09-05T14:51:04Z",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/GWBfromFortLeeHistoricPark.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+          "headline": "bridge in New York City"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le George Washington Bridge est un pont suspendu à deux tabourets enjambant le fleuve Hudson, reliant Fort Lee dans le New Jersey au quartier de Washington Heights à Manhattan, New York. Nommé d'après George Washington, il est géré par la Port Authority of New York and New Jersey. Ouvert en octobre 1931, il comporte 14 voies de circulation et supporte un trafic important.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "George Washington",
+          "Othmar Ammann",
+          "Edward W. Stearns",
+          "Allston Dana",
+          "Cass Gilbert",
+          "Montgomery Case"
+        ],
+        "LOCATION": [
+          "New Jersey",
+          "New York",
+          "Manhattan",
+          "Fort Lee",
+          "Washington Heights",
+          "New York City",
+          "Hudson River",
+          "San Francisco"
+        ],
+        "ORGANIZATION": [
+          "Wikipedia",
+          "Port Authority of New York and New Jersey"
+        ],
+        "DATE": [
+          "September 2013",
+          "September 21, 1927",
+          "June 2, 1959",
+          "October 25, 1931",
+          "August 29, 1962",
+          "2016",
+          "July 12, 2026",
+          "2019",
+          "1937"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "George Washington Bridge",
+          "GW Bridge",
+          "I-95",
+          "US 1-9",
+          "US 46",
+          "Golden Gate Bridge"
+        ]
+      },
+      "score_e5": 0.7866571302718356
+    },
+    {
+      "titre": "Prosecutor: Christie told about plan to close lanes near ...",
+      "source": "6ABC",
+      "lien": "https://6abc.com/post/prosecutor-christie-told-about-plan-to-close-lanes-near-bridge/1517666/",
+      "image_url": "https://cdn.abcotvs.com/dip/images/1339896_051516-wpvi-george-washington-bridge-fort-lee-bridgegate-img.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnhlK1N5RqBwpvFNlR6Y5Nqitex8PmXSEW98SzMV8O1A59Tw2",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Prosecutor: Christie told about plan to close lanes near ...",
+        "link": "https://6abc.com/post/prosecutor-christie-told-about-plan-to-close-lanes-near-bridge/1517666/",
+        "source": "6ABC",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQGSzx24DtJloC1GHHgA69RQISVbotg08Yzxs0xg3BundDnvSxEu39VtWZAPHuOVMA9JrrIRIV9TQJepxzTtQ9g4Fe5PEGI4CnZKAn6PA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnhlK1N5RqBwpvFNlR6Y5Nqitex8PmXSEW98SzMV8O1A59Tw2",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://cdn.abcotvs.com/dip/images/1339896_051516-wpvi-george-washington-bridge-fort-lee-bridgegate-img.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "Prosecutor: Christie told about plan to close lanes near bridge\n\nNEWARK, N.J. (WPVI) -- A federal prosecutor told jurors Monday that a witness will testify that Republican Gov. Chris Christie was told about a plan to close traffic lanes near the George Washington Bridge as the shutdown was happening, a claim he has contested for years.\n\nThe trial comes three years after gridlock paralyzed a town next to the busy bridge connecting New Jersey to New York City for four days. Prosecutors said Bill Baroni and Bridget Kelly, two former Christie allies, had sought political revenge against Fort Lee Mayor Mark Sokolich. Baroni was a top Christie appointee to Port Authority of New York and New Jersey. Kelly was Christie's former chief of staff.\n\nAssistant U.S. Attorney Vikas Khanna told jurors that David Wildstein, another Port Authority official, will testify he and Baroni made Christie aware of the plan during a 9/11 memorial in New York City in 2013, three days after the gridlock started.\n\n\"The evidence will show that ... they bragged about the fact that there were traffic problems in Fort Lee and that Mayor Sokolich was not getting his calls returned,\" Khanna said.\n\nChristie has denied knowing about the scheme and wasn't charged in the federal investigation. A message left at his office Monday seeking comment wasn't immediately returned.\n\nBaroni's attorney told jurors Monday that Wildstein is a twisted, vindictive individual who is a habitual liar. He said Baroni acted in good faith throughout and the lane closures were a legitimate attempt to study traffic patterns at the bridge.\n\nKelly's attorney was due to make his opening statement later Monday\n\nChristie, an unsuccessful candidate for the Republican presidential nomination, conceded last week that the bridge scandal was a factor in GOP nominee Donald Trump's not picking him as a running mate.\n\nAccording to a federal indictment, Kelly and Baroni conspired to reduce access lanes to the bridge in Fort Lee, across the Hudson River from New York City, in September 2013 after the town's Democratic mayor declined to endorse Christie's re-election. About 150,000 vehicles cross the bridge each day, making it one of the world's busiest.\n\nThey face counts of wire fraud, conspiracy, deprivation of civil rights and misusing an organization receiving federal funds. The organization is the Port Authority of New York and New Jersey, which runs area bridges, tunnels and transit hubs and where Baroni served as deputy executive director.\n\nThe most serious charge in the indictment, wire fraud conspiracy, carries a maximum 20-year prison term.\n\nProsecutors are expected to introduce texts and emails showing the defendants joking about the traffic jams even as Sokolich - who hadn't been notified ahead of time about the closures - called and sent emails seeking help.\n\nThey'll also show jurors an email from Kelly to another Port Authority official a month before the traffic jams saying, \"Time for some traffic problems in Fort Lee.\"\n\nThat official, Wildstein, pleaded guilty in 2015 and will be the government's key witness. Wildstein is a onetime political blogger and high school classmate of Christie's who served as the Port Authority's director of interstate capital projects, a position created for him..",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "A federal prosecutor told jurors Monday that a witness will testify that Republican Gov. Chris Christie was told about a plan to close traffic lanes near the George Washington Bridge as the shutdown was happening, a claim he has contested for years.",
+          "keywords": "bridgegate, chris christie, trial, opening statements, traffic jam, george washington bridge, new jersey news , 1517666",
+          "image-credit": "AP Photo/Mel Evans",
+          "fb:app_id": "2022478634557698",
+          "fb:pages": "9335481377",
+          "og:site_name": "6abc Philadelphia",
+          "og:url": "https://6abc.com/post/prosecutor-christie-told-about-plan-to-close-lanes-near-bridge/1517666/",
+          "og:title": "Prosecutor: Christie told about plan to close lanes near bridge",
+          "og:description": "A federal prosecutor told jurors Monday that a witness will testify that Republican Gov. Chris Christie was told about a plan to close traffic lanes near the George Washington Bridge as the shutdown was happening, a claim he has contested for years.",
+          "og:image": "https://cdn.abcotvs.com/dip/images/1339896_051516-wpvi-george-washington-bridge-fort-lee-bridgegate-img.jpg?w=1600",
+          "og:type": "article",
+          "twitter:title": "Prosecutor: Christie told about plan to close lanes near bridge",
+          "twitter:description": "A federal prosecutor told jurors Monday that a witness will testify that Republican Gov. Chris Christie was told about a plan to close traffic lanes near the George Washington Bridge as the shutdown was happening, a claim he has contested for years.",
+          "article:published_time": "2016-09-19T20:07:54Z",
+          "article:modified_time": "2016-09-19T20:07:55Z",
+          "article:section": "news",
+          "title": "Prosecutor: Christie told about plan to close lanes near bridge"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "url": "https://6abc.com/post/prosecutor-christie-told-about-plan-to-close-lanes-near-bridge/1517666/",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "contentUrl": "https://cdn.abcotvs.com/dip/images/1339896_051516-wpvi-george-washington-bridge-fort-lee-bridgegate-img.jpg?w=1600"
+          },
+          "name": "Prosecutor: Christie told about plan to close lanes near bridge"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un procureur fédéral a déclaré lors d'un procès concernant la fermeture de voies de circulation près du pont George Washington que le gouverneur républicain Chris Christie avait été informé du plan pendant qu'il se déroulait. L'affaire fait suite à des embouteillages ayant paralysé une ville près du pont reliant le New Jersey à New York. Bill Baroni et Bridget Kelly, des alliés de Christie, sont impliqués, aux côtés de David Wildstein, le maire de Fort Lee Mark Sokolich étant visé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Chris Christie",
+          "Bill Baroni",
+          "Bridget Kelly",
+          "Mark Sokolich",
+          "Vikas Khanna",
+          "David Wildstein",
+          "Donald Trump",
+          "George Washington"
+        ],
+        "LOCATION": [
+          "Newark",
+          "New Jersey",
+          "New York City",
+          "Fort Lee",
+          "Hudson River"
+        ],
+        "ORGANIZATION": [
+          "6ABC",
+          "Port Authority of New York and New Jersey"
+        ],
+        "DATE": [
+          "Monday",
+          "2013",
+          "last week",
+          "September 2013"
+        ],
+        "EVENT": [
+          "9/11 memorial"
+        ],
+        "OTHER": [
+          "George Washington Bridge"
+        ]
+      },
+      "score_e5": 0.7397536012251673
+    },
+    {
+      "titre": "French shutterbug who scaled Brooklyn Bridge gets 240 hours ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/us-news/2014/dec/10/french-tourist-gets-to-240-hours-at-jail-cleaning",
+      "image_url": "https://i.guim.co.uk/img/media/066befd30241d9ed5dfcb81d93cfa1da4bb52d12/0_542_4528_2714/2000.jpg?width=700&quality=85&auto=format&fit=max&s=90ec95fcded27d071172f40996d250d6",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNa_gd05KjKKIHEx0tAafN-hbrDLQdRzbRvpB2iuOsjnHSBjyb",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "French shutterbug who scaled Brooklyn Bridge gets 240 hours ...",
+        "link": "https://www.theguardian.com/us-news/2014/dec/10/french-tourist-gets-to-240-hours-at-jail-cleaning",
+        "source": "The Guardian",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTGkJ2lOYVSIOhi880D0uswecbqGuSjIlz5UWc4HY-z8YRos7LFIliOgiIFncvguseMArKN9O-bKIF7doOLOlRQmfTpk4mE18UQrIr1rnEq4WInhrI8oH7U",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNa_gd05KjKKIHEx0tAafN-hbrDLQdRzbRvpB2iuOsjnHSBjyb",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/media/066befd30241d9ed5dfcb81d93cfa1da4bb52d12/0_542_4528_2714/2000.jpg?width=700&quality=85&auto=format&fit=max&s=90ec95fcded27d071172f40996d250d6",
+        "image_width": 420,
+        "image_height": 700
+      },
+      "webpage": {
+        "text": "French shutterbug who scaled Brooklyn Bridge gets 240 hours in jail – cleaning | New York\n\nA French tourist will have to spend 240 hours cleaning a Manhattan jail for scaling the Brooklyn Bridge to take photos.\n\nYonathan Souid of Esnandes, France, got the community service sentence on Tuesday.\n\nThe French university student will be assigned to the Manhattan Detention Center.\n\nSouid’s lawyer said his client “prefers cleaning a jail than to actually live in one.”\n\nSouid had pleaded guilty to a misdemeanor charge.\n\nHe said it wasn’t his intention to hurt anyone. He said he climbed the bridge last month because he has a passion for photography.\n\nIn July, two German artists swiped two American flags from the famous span and replaced them with white ones. A month later, a Russian tourist climbed the bridge to take pictures.",
+        "metadata": {
+          "title": "French shutterbug who scaled Brooklyn Bridge gets 240 hours in jail – cleaning | New York | The Guardian",
+          "description": "University student assigned to clean Manhattan Detention Center as community service for scaling Brooklyn Bridge",
+          "og:url": "http://www.theguardian.com/us-news/2014/dec/10/french-tourist-gets-to-240-hours-at-jail-cleaning",
+          "article:author": "Associated Press in New York",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/media/066befd30241d9ed5dfcb81d93cfa1da4bb52d12/0_542_4528_2714/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=b2b62a042d9c8f1cdf94308e686f853f",
+          "al:ios:url": "gnmguardian://us-news/2014/dec/10/french-tourist-gets-to-240-hours-at-jail-cleaning?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "French shutterbug who scaled Brooklyn Bridge gets 240 hours at jail – cleaning",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-07-14T21:39:36.000Z",
+          "og:image:height": "719",
+          "og:description": "University student assigned to clean Manhattan Detention Center as community service for scaling Brooklyn Bridge",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "US news",
+          "article:published_time": "2014-12-10T16:12:24.000Z",
+          "article:tag": "New York,US news,France,World news,Europe",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un touriste français, Yonathan Souid, a escaladé le pont de Brooklyn pour prendre des photos et a été condamné à 240 heures de travaux d'intérêt général consistant à nettoyer une prison de Manhattan (le Manhattan Detention Center).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Yonathan Souid"
+        ],
+        "LOCATION": [
+          "Brooklyn",
+          "New York",
+          "Manhattan",
+          "Esnandes",
+          "France",
+          "Germany",
+          "Russia"
+        ],
+        "ORGANIZATION": [
+          "The Guardian",
+          "Manhattan Detention Center"
+        ],
+        "DATE": [
+          "Tuesday",
+          "last month",
+          "July",
+          "A month later"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Brooklyn Bridge"
+        ]
+      },
+      "score_e5": 0.7810740146849341
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "New York",
+      "George Washington Bridge"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Soaring photo"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Murphy",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cuomo",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Manhattan",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Politico",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2019/04/25",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "George Washington",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fort Lee",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Jersey",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "George Washington Bridge Scandal",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Othmar Ammann",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Edward W. Stearns",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Allston Dana",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Cass Gilbert",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Montgomery Case",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York City",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington Heights",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Hudson River",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "San Francisco",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Wikipedia",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Port Authority of New York and New Jersey",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 2013",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September 21, 1927",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2, 1959",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 25, 1931",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August 29, 1962",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2016",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 12, 2026",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2019",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1937",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "George Washington Bridge",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "GW Bridge",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "I-95",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "US 1-9",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "US 46",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Golden Gate Bridge",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Chris Christie",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bill Baroni",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bridget Kelly",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mark Sokolich",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Vikas Khanna",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David Wildstein",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Newark",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "6ABC",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2013",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last week",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "9/11 memorial",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Yonathan Souid",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brooklyn",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New York",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Esnandes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "France",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Germany",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Russia",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Manhattan Detention Center",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last month",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "A month later",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Brooklyn Bridge",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T16:03:11.573914"
+  }
+}

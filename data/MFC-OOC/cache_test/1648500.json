@@ -1,0 +1,378 @@
+{
+  "id_rumeur": "610602",
+  "id_image": "1648500",
+  "caption": "Delegates at the Liberal Democrat autumn conference in Bournemouth",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122867/1648500.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Cardiff and Newport urged to support England - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-wales-south-east-wales-32092777",
+      "image_url": "http://news.bbcimg.co.uk/media/images/81957000/jpg/_81957848_017910863-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDtUdroIxhf2QakUI6BZmJ31UUlAUhMn-JNYlaeHM7zZIjeKvk",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Cardiff and Newport urged to support England - BBC News",
+        "source": "BBC",
+        "link": "https://www.bbc.com/news/uk-wales-south-east-wales-32092777",
+        "imageUrl": "http://news.bbcimg.co.uk/media/images/81957000/jpg/_81957848_017910863-1.jpg",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDtUdroIxhf2QakUI6BZmJ31UUlAUhMn-JNYlaeHM7zZIjeKvk"
+      },
+      "webpage": {
+        "text": "Cardiff and Newport urged to support England\n\nThe Football League's digital arm has apologised after an email was sent to Cardiff City and Newport County fans urging them to support England.\n\nThe email, on behalf of the English Football Association, encouraged fans to join a scheme offering priority tickets for Wembley games.\n\nIt was sent to fans who had opted to receive marketing emails.\n\nFL Interactive apologised, saying: \"The overwhelming majority of each club's fanbase will clearly follow Wales\".",
+        "metadata": {
+          "description": "The Football League's digital arm apologises after an email was sent to Cardiff City and Newport County fans urging them to support England.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The Football League's digital arm apologises after an email was sent to Cardiff City and Newport County fans urging them to support England.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/81957000/jpg/_81957848_017910863-1.jpg",
+          "og:image:alt": "Newport County fans",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Cardiff and Newport urged to support England",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-wales-south-east-wales-32092777",
+          "article:section": "South East Wales",
+          "twitter:description": "The Football League's digital arm apologises after an email was sent to Cardiff City and Newport County fans urging them to support England.",
+          "twitter:title": "Cardiff and Newport urged to support England"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-wales-south-east-wales-32092777",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-03-27T17:33:22.000Z",
+          "dateModified": "2015-03-27T17:33:22.000Z",
+          "description": "The Football League's digital arm apologises after an email was sent to Cardiff City and Newport County fans urging them to support England.",
+          "headline": "Cardiff and Newport urged to support England",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/81957000/jpg/_81957848_017910863-1.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/81957000/jpg/_81957848_017910863-1.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-wales-south-east-wales-32092777",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La branche numérique de la Football League s'est excusée après l'envoi d'un courriel aux supporters de Cardiff City et de Newport County les incitant à soutenir l'Angleterre et à participer à un programme offrant des billets prioritaires pour les matchs à Wembley, au nom de la Fédération anglaise de football.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Cardiff",
+          "Newport",
+          "England",
+          "Wembley",
+          "Wales"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Cardiff City",
+          "Newport County",
+          "English Football Association",
+          "FL Interactive"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Football League"
+        ]
+      },
+      "score_e5": 0.7351419526824807
+    },
+    {
+      "titre": "100 things I love about Cambridge United : Greaves, Russell: Amazon.com.au: Books",
+      "source": "Amazon.com.au",
+      "lien": "https://www.amazon.com.au/things-love-about-Cambridge-United/dp/1914408756",
+      "image_url": "https://m.media-amazon.com/images/I/91hn31FKzUL._AC_UF1000,1000_QL80_.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCC_8Piq2BakTSI_cDRudvpvByJ1g630Wr5lsUsgE9dtfjNfz3",
+      "rang_lens": 2,
+      "brut": {
+        "title": "100 things I love about Cambridge United : Greaves, Russell: Amazon.com.au: Books",
+        "source": "Amazon.com.au",
+        "link": "https://www.amazon.com.au/things-love-about-Cambridge-United/dp/1914408756",
+        "imageUrl": "https://m.media-amazon.com/images/I/91hn31FKzUL._AC_UF1000,1000_QL80_.jpg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCC_8Piq2BakTSI_cDRudvpvByJ1g630Wr5lsUsgE9dtfjNfz3"
+      },
+      "webpage": {
+        "text": "100 things I love about Cambridge United : Greaves, Russell: Amazon.com.au: Books\n\n* Books\n * Sports & Outdoors\n * Soccer\n * Clubs\n\nHardcover\nfrom $137.99\n\n\nOther Used and New from $137.99\n\nHardcover from $137.99\n\nDownload the free Kindle app and start reading Kindle books instantly on your smartphone, tablet or computer—no Kindle device required.\n\nRead instantly on your browser with Kindle for Web.\n\nUsing your mobile phone camera, scan the code below and download the Kindle app.\n\n\n * Image Unavailable\n   \n   Image not available for\n   Colour:\n\n\n * VIDEOS\n * 360° VIEW\n * IMAGES\n\n\n100 things I love about Cambridge United\n\nby Russell Greaves (Author) Format: Hardcover\n\n4.8 out of 5 stars (7)\n\nSorry, there was a problem loading this page.Try again.\n\n----------------------------------------\n\nA book brought to life by the lived experiences of Abbey heroes and diehard fans. it is a vivid journey through the wonderful world of the U's taking a hand-picked selection of one hundred things that make this football club so special.\n\nReport an issue with this product\n\nPrevious slide of product details\n\n 1. Print length\n    \n    144 pages\n\n 2. Language\n    \n    English\n\n 3. Publisher\n    \n    Biddles Books\n\n 4. Publication date\n    \n    22 December 2021\n\n 5. ISBN-10\n    \n    1914408756\n\n 6. ISBN-13\n    \n    978-1914408755\n\nNext slide of product details\n\nSee all details\n\nPersonalised books for your reading life\n\nBooks matched to your reading taste. See books for you\n\n\nProduct details\n\n * Publisher ‏ : ‎ Biddles Books\n * Publication date ‏ : ‎ 22 December 2021\n * Language ‏ : ‎ English\n * Print length ‏ : ‎ 144 pages\n * ISBN-10 ‏ : ‎ 1914408756\n * ISBN-13 ‏ : ‎ 978-1914408755\n * Item weight ‏ : ‎ 788 g\n * Customer Reviews:\n   \n   4.8 out of 5 stars (7)\n\n\nCustomer reviews\n\n4.8 out of 5 stars\n\n7 global ratings\n\nHow are ratings calculated?\n\n\nView Image Gallery\n\nAmazon Customer\n\n5.0 out of 5 stars\n\n\nImages in this review\n\nThere was a problem filtering reviews. Please reload the page.\n\n\nTop reviews from Australia\n\nThere are 0 reviews from Australia\n\n\nTop reviews from other countries\n\n * jJM Boden\n   \n   5 out of 5 stars\n   \n   An absolute must for any CUFC fan\n   \n   Reviewed in the United Kingdom on 17 February 2022\n   \n   Verified Purchase\n   \n   Brief content visible, double tap to read full content.\n   \n   Full content visible, double tap to read brief content.\n   \n   Amazing book. Brought back many happy memories.Every one of the 100 titles are\n   \n   really enjoyable.\n   \n   Report\n   \n   Sending feedback...\n   \n   Thanks, we'll investigate in the next few days.\n   \n   Sorry, We failed to report this review. Please try again\n   \n   We'll check if this review meets our community guidelinesOpens in a new tab. If it doesn't, we'll remove it.\n\n * Peter D.\n   \n   5 out of 5 stars\n   \n   My favourite club\n   \n   Reviewed in the United Kingdom on 4 March 2022\n   \n   Verified Purchase\n   \n   Brief content visible, double tap to read full content.\n   \n   Full content visible, double tap to read brief content.\n   \n   Great item and well presented. Really good service\n   \n   Report\n   \n   Sending feedback...\n   \n   Thanks, we'll investigate in the next few days.\n   \n   Sorry, We failed to report this review. Please try again\n   \n   We'll check if this review meets our community guidelinesOpens in a new tab. If it doesn't, we'll remove it.\n\nSee more reviews",
+        "metadata": {
+          "title": "100 things I love about Cambridge United : Greaves, Russell: Amazon.com.au: Books",
+          "description": "100 things I love about Cambridge United : Greaves, Russell: Amazon.com.au: Books"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Livre intitulé '100 things I love about Cambridge United' écrit par Russell Greaves, publié le 22 décembre 2021 par Biddles Books, comptant 144 pages et traitant du club de football de Cambridge United.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Russell Greaves",
+          "Greaves"
+        ],
+        "LOCATION": [
+          "Australia",
+          "United Kingdom"
+        ],
+        "ORGANIZATION": [
+          "Amazon.com.au",
+          "Cambridge United",
+          "Biddles Books",
+          "CUFC"
+        ],
+        "DATE": [
+          "22 December 2021",
+          "17 February 2022",
+          "4 March 2022"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Kindle",
+          "Hardcover"
+        ]
+      },
+      "score_e5": 0.7118266832999984
+    },
+    {
+      "titre": "Framed Print of Wolverhampton Wanderers Print: Players Celebrate Premier League Promotion",
+      "source": "Media Storehouse",
+      "lien": "https://www.mediastorehouse.com/wolverhampton-wanderers-football-club/wolverhampton-wanderers-print-players-celebrate-premier-league-promotion-1495265.html",
+      "image_url": "https://www.mediastorehouse.com/sq/208/classic-matches/wolves-v-qpr-18-4-09-promotion/wolverhampton-wanderers-promoted-unforgettable-moments-wolves-vs-qpr-championship-1495527.jpg.webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjwdUa7KE9vCnT_cyKjvHq1vdOsNGs9qqJyjZaxUNQRM9YXz0N",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Framed Print of Wolverhampton Wanderers Print: Players Celebrate Premier League Promotion",
+        "source": "Media Storehouse",
+        "link": "https://www.mediastorehouse.com/wolverhampton-wanderers-football-club/wolverhampton-wanderers-print-players-celebrate-premier-league-promotion-1495265.html",
+        "imageUrl": "https://www.mediastorehouse.com/sq/208/classic-matches/wolves-v-qpr-18-4-09-promotion/wolverhampton-wanderers-promoted-unforgettable-moments-wolves-vs-qpr-championship-1495527.jpg.webp",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjwdUa7KE9vCnT_cyKjvHq1vdOsNGs9qqJyjZaxUNQRM9YXz0N"
+      },
+      "webpage": {
+        "text": "Wolverhampton Wanderers Print: Players Celebrate Premier League Promotion\n\nFramed Prints From Wolverhampton Wanderers Football Club\n\n$89.99\n\nProduct30.5cm x 25.4cm\nImage20.4cm x 12.6cm\n\nGreat Value 100% Secure Payment\n\n\nFramed Print of Wolverhampton Wanderers: Unforgettable Promotion to Premier League - Celebrating in the Dressing Room\n\nPlayers of Wolverhampton Wanderers celebrate in the dressing room after winning promotion to the premier league.\nPicture: Sam Bagnall/AMA/Wolverhampton Wanderers\nPool Picture - copyright Wolverhampton Wanderers. Official Wolves photography from Molineux, printed and framed to order. © 2008 Matthew Ashton/AMA www.matthewashton.com www.AMAsportsphotoagency.com info\n\nArtwork Licensed From Wolverhampton Wanderers FC (Matthew Ashton/AMA)\n\nYour chosen combination is quickly and professionally made to order - Shipping & Delivery Details\n\nIf you are not entirely happy with your items, simply return them to us within 30 days for a replacement or full refund - 30 Day Returns\n\nMedia ID 1495265\n\n\nEditors' Comments\n\nA print of Wolverhampton Wanderers players celebrating in the dressing room after securing promotion to the Premier League. The photograph captures a moment of elation as they share a triumphant moment together. In this image, you can see the joy and relief on their faces, frozen in time forever. This limited edition print features an unforgettable match between Wolves and Queens Park Rangers from 2009, where Wolves secured promotion to the Premier League with a convincing 4-0 win.\n\n\nModern 12\"x10\"\n\nReady to Hang Contemporary Framed Prints adds style, protection, and a polished touch to your space - effortlessly.\n\nRelive the thrilling moment of Wolverhampton Wanderers' historic promotion to the Premier League with our Framed Prints. This image captures the jubilant scene in the dressing room as the players celebrate their hard-earned victory. Taken by renowned sports photographer Sam Bagnall/AMA, this print is a must-have for any Wolves fan. Celebrate your team's unforgettable achievement with this piece of memorabilia.\n\nYour artwork will be printed as shown in the preview. To adjust please select Print Options under the Buy button\n\nMaterials, size and specification\n\nMade and Shipped from within the USA or Canada as appropriate. Printed on 10\"x8\" Premium Matte Paper offering bright, white paper with a matte finish with a digitally rendered mat surround offering the timeless look of professionally mounted artwork. Our 1″ Frames are available in a range of colours with clear acrylic shatterproof glazing and Kraft pad backer. Matte Paper offer a lighter-weight alternative to fine art paper which is optimized for artwork and can be suitable for photography in scenarios where a less glossy appearance is preferred. This sustainable paper printing is an alternative to our premium fine art paper. Each frame is 1″ wide by 3/4″ deep and glazed using standard 1/16” clear PETG to protect and enhance the visibility of each print. Ready to hang with a sawtooth metal hanger and sturdy backer.\n\nThese are individually made so all sizes are approximate\n\nEstimated Image Size (if not cropped) is 20.4cm x 12.6cm (8\" x 5\")\n\nEstimated Product Size is 30.5cm x 25.4cm (12\" x 10\")\n\n\nThis artwork is also available as\n\n * Photo Printsfrom $19.00\n * Jigsaw Puzzlesfrom $56.36\n * Poster Printsfrom $40.00\n * Canvas Printsfrom $114.99\n * Fine Art Printsfrom $61.90\n * Metal Printsfrom $211.48\n * Photo Mugsfrom $25.98\n * Pillowsfrom $59.99\n * Mouse Matsfrom $25.98\n\n\nFeatures in These Collections\n\nHome > Wolverhampton Wanderers Football Club > Classic Matches > Wolves v QPR, 18-4-09 - Promotion\n\n\nGallery Wall Inspiration\n\n\nTrending Items in Similar Collections\n\n\nWolverhampton Wanderers Print: Promotion Celebration\n\nWolverhampton Wanderers Premier League Promotion Print\n\nWolverhampton Wanderers Print: Fans Celebrate Premier League Promotion\n\nWolverhampton Wanderers FC Print - Wolves Promotion Victory\n\nWolverhampton Wanderers Premier League Promotion Print\n\nWolves Secure Promotion Print - April 18, 2009 Matchday Programme\n\nWolverhampton Wanderers vs Queens Park Rangers Print\n\nWolves vs QPR Print - 18/4/09 Promotion Match Programme\n\nWolverhampton Wanderers Promoted Print\n\nWolverhampton Wanderers Promoted Print\n\nWolverhampton Wanderers FC Print: Wolves Secure Promotion",
+        "metadata": {
+          "title": "Wolverhampton Wanderers Print: Players Celebrate Premier League Promotion | Framed Print",
+          "description": "Players celebrate in the dressing room after securing promotion to the Premier League. Available as a Framed Print, printed to order.",
+          "og:site_name": "Media Storehouse",
+          "og:type": "product",
+          "og:title": "Wolverhampton Wanderers Print: Players Celebrate Premier League Promotion | Framed Print",
+          "og:url": "https://www.mediastorehouse.com/framed-prints/wolverhampton-wanderers-football-club/wolverhampton-wanderers-print-players-celebrate-premier-league-promotion-1495265.html",
+          "og:description": "Framed Print of Players of Wolverhampton Wanderers celebrate in the dressing room after winning promotion to the premier league. Picture: Sam Bagnall/AMA/Wolverhampton Wanderers Pool Picture - copyright Wolverhampton Wanderers",
+          "og:image": "https://www.mediastorehouse.com/image/208/1495265/1495265_700_700_6980_1790_fit_0_af5c8b3d81d58873eaad5495701e8e9e.jpg.webp",
+          "product:brand": "Media Storehouse",
+          "product:availability": "in stock",
+          "product:condition": "new",
+          "product:price:amount": "89.99",
+          "product:price:currency": "USD",
+          "product:retailer_item_id": "dmcs_1495265_6980_1790",
+          "twitter:title": "Wolverhampton Wanderers Print: Players Celebrate Premier League Promotion | Framed Print",
+          "twitter:description": "Framed Print of Players of Wolverhampton Wanderers celebrate in the dressing room after winning promotion to the premier league. Picture: Sam Bagnall/AMA/Wolverhampton Wanderers Pool Picture - copyright Wolverhampton Wanderers"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Impression encadrée représentant des joueurs de Wolverhampton Wanderers célébrant dans le vestiaire leur accession en Premier League après une victoire 4-0 contre les Queens Park Rangers en 2009. Photographie prise par Sam Bagnall/AMA.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Sam Bagnall",
+          "Matthew Ashton"
+        ],
+        "LOCATION": [
+          "USA",
+          "Canada",
+          "Molineux"
+        ],
+        "ORGANIZATION": [
+          "Media Storehouse",
+          "Wolverhampton Wanderers Football Club",
+          "Wolverhampton Wanderers",
+          "Queens Park Rangers",
+          "AMA"
+        ],
+        "DATE": [
+          "2008",
+          "2009",
+          "30 days"
+        ],
+        "EVENT": [
+          "Premier League Promotion"
+        ],
+        "OTHER": [
+          "Premier League",
+          "Framed Print"
+        ]
+      },
+      "score_e5": 0.7178184861910629
+    },
+    {
+      "titre": "39827793-Fans celebrate Derry Cty's Europa Conference League win against HB Torshavn, at the Brandywell, on Thursday evening. Photo: George Sweeney. DER2329GS – 58 MNL-230721-094736005 MNL-230721-09 - Iconic Media Group | Newsprints",
+      "source": "Newsprints",
+      "lien": "https://nationalworld.newsprints.co.uk/39827793-fans-celebrate-derry-ctys-europa-conference-league-win-against-hb-torshavn-at-the-brandywell-on-thursday-evening-photo-george-sweeney-der2329gs-58-mnl-230721-094736005-mnl-230721-09/",
+      "image_url": "https://cdn11.bigcommerce.com/s-37hyw9a1zz/images/stencil/590x590/products/769625/664665/39827790__54520.1689931540.jpg?c=1",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT9Cs5Ptg_JVPWSj5DM8PCxbwQAPScYNbjxKndMI9fSjbMyWbX",
+      "rang_lens": 4,
+      "brut": {
+        "title": "39827793-Fans celebrate Derry Cty's Europa Conference League win against HB Torshavn, at the Brandywell, on Thursday evening. Photo: George Sweeney. DER2329GS – 58 MNL-230721-094736005 MNL-230721-09 - Iconic Media Group | Newsprints",
+        "source": "Newsprints",
+        "link": "https://nationalworld.newsprints.co.uk/39827793-fans-celebrate-derry-ctys-europa-conference-league-win-against-hb-torshavn-at-the-brandywell-on-thursday-evening-photo-george-sweeney-der2329gs-58-mnl-230721-094736005-mnl-230721-09/",
+        "imageUrl": "https://cdn11.bigcommerce.com/s-37hyw9a1zz/images/stencil/590x590/products/769625/664665/39827790__54520.1689931540.jpg?c=1",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT9Cs5Ptg_JVPWSj5DM8PCxbwQAPScYNbjxKndMI9fSjbMyWbX"
+      },
+      "webpage": {
+        "text": "39827793-Fans celebrate Derry Cty’s Europa Conference League win against  HB Torshavn, at the Brandywell, on Thursday evening. Photo: George Sweeney. DER2329GS – 58 MNL-230721-094736005 MNL-230721-09 - Iconic Media Group\n\nFans celebrate Derry Cty’s Europa Conference League win against HB Torshavn, at the Brandywell, on Thursday evening. Photo: George Sweeney. DER2329GS – 58 MNL-230721-094736005 MNL-230721-094736005_der - derry city v hb torshavn 58\n\nUpload Date: 21 Jul 2023\n\nOriginal Filename: MNL-230721-094736005_der - derry city v hb torshavn 58.JPG\n\nStore Filename: 39827793.jpg\n\nByline: George Sweeney\n\n\nAbout our products\n\n\nOur box canvas products are handcrafted by our skilled and trained craftsman here in our NewsPrint Bureau. With box canvas quality checked for scratches and marks, we ensure that the product we produce is of the best possible quality.\n\n\nAs each image comes into the NewsPrint Bureau, our team of colour correction analysts check and correct each photograph for colour and brightness, making sure each print is picture perfect. Our photographic prints are finished in either Lustre or Glossy on Fuji DPII Archival Paper.",
+        "metadata": {
+          "title": "39827793-Fans celebrate Derry Cty’s Europa Conference League win against HB Torshavn, at the Brandywell, on Thursday evening. Photo: George Sweeney. DER2329GS – 58 MNL-230721-094736005 MNL-230721-09 - Iconic Media Group | Newsprints",
+          "product:price:amount": "8.95",
+          "product:price:currency": "GBP",
+          "og:url": "https://iconic.newsprints.co.uk/39827793-fans-celebrate-derry-ctys-europa-conference-league-win-against-hb-torshavn-at-the-brandywell-on-thursday-evening-photo-george-sweeney-der2329gs-58-mnl-230721-094736005-mnl-230721-09/",
+          "og:site_name": "Iconic Media Group | Newsprints",
+          "og:type": "product",
+          "og:title": "39827793-Fans celebrate Derry Cty’s Europa Conference League win against  HB Torshavn, at the Brandywell, on Thursday evening. Photo: George Sweeney. DER2329GS – 58 MNL-230721-094736005 MNL-230721-09",
+          "og:image": "https://cdn11.bigcommerce.com/s-37hyw9a1zz/products/769622/images/664662/39827793__92293.1689931406.386.513.jpg?c=1",
+          "pinterest:richpins": "enabled"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des supporters célèbrent la victoire de Derry City en Europa Conference League contre HB Torshavn au Brandywell un jeudi soir, sur une photo de George Sweeney.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "George Sweeney"
+        ],
+        "LOCATION": [
+          "Brandywell"
+        ],
+        "ORGANIZATION": [
+          "Iconic Media Group",
+          "NewsPrint Bureau",
+          "Derry Cty",
+          "HB Torshavn"
+        ],
+        "DATE": [
+          "Thursday evening",
+          "21 Jul 2023"
+        ],
+        "EVENT": [
+          "Europa Conference League win"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7503475683842123
+    },
+    {
+      "titre": "18185609-SWA CT 7. 8. 11 NEWPORT COUNTY V UNDY AFC CHRISTOPHER PARRY ON THE BALL - Newsquest | Newsprints",
+      "source": "Newsprints",
+      "lien": "https://newsquest.newsprints.co.uk/18185609-swa-ct-7-8-11-newport-county-v-undy-afc-christopher-parry-on-the-ball/",
+      "image_url": "https://cdn11.bigcommerce.com/s-5lcgr92ggz/images/stencil/590x590/products/500439/213507/39808552__79729.1688468726.jpg?c=1",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmZQMOHN4eZxC71nssGOT5VigEpJOdCodk7DAu3P36-_KErZQ4",
+      "rang_lens": 5,
+      "brut": {
+        "title": "18185609-SWA CT 7. 8. 11 NEWPORT COUNTY V UNDY AFC CHRISTOPHER PARRY ON THE BALL - Newsquest | Newsprints",
+        "source": "Newsprints",
+        "link": "https://newsquest.newsprints.co.uk/18185609-swa-ct-7-8-11-newport-county-v-undy-afc-christopher-parry-on-the-ball/",
+        "imageUrl": "https://cdn11.bigcommerce.com/s-5lcgr92ggz/images/stencil/590x590/products/500439/213507/39808552__79729.1688468726.jpg?c=1",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmZQMOHN4eZxC71nssGOT5VigEpJOdCodk7DAu3P36-_KErZQ4"
+      },
+      "webpage": {
+        "text": "18185609-SWA CT 7. 8. 11 NEWPORT COUNTY V UNDY AFC CHRISTOPHER PARRY ON THE BALL - Newsquest\n\nSWA CT 7. 8. 11 NEWPORT COUNTY V UNDY AFC CHRISTOPHER PARRY ON THE BALL\n\nUpload Date: 07 Aug 2011\n\nOriginal Filename: SWA_CT_4215_02.JPG\n\nStore Filename: 18185609.jpg\n\nKeywords: SWA CT 4215 02.JPG\n\n\nAbout our products\n\n\nOur box canvas products are handcrafted by our skilled and trained craftsman here in our NewsPrint Bureau. With box canvas quality checked for scratches and marks, we ensure that the product we produce is of the best possible quality.\n\n\nAs each image comes into the NewsPrint Bureau, our team of colour correction analysts check and correct each photograph for colour and brightness, making sure each print is picture perfect. Our photographic prints are finished in either Lustre or Glossy on Fuji DPII Archival Paper.",
+        "metadata": {
+          "title": "18185609-SWA CT 7. 8. 11 NEWPORT COUNTY V UNDY AFC CHRISTOPHER PARRY ON THE BALL - Newsquest | Newsprints",
+          "product:price:amount": "9.25",
+          "product:price:currency": "GBP",
+          "og:url": "https://newsquest.newsprints.co.uk/18185609-swa-ct-7-8-11-newport-county-v-undy-afc-christopher-parry-on-the-ball/",
+          "og:site_name": "Newsquest | Newsprints",
+          "og:type": "product",
+          "og:title": "18185609-SWA CT 7. 8. 11 NEWPORT COUNTY V UNDY AFC CHRISTOPHER PARRY ON THE BALL",
+          "og:image": "https://cdn11.bigcommerce.com/s-5lcgr92ggz/products/10199/images/10450/18185609__73059.1663485419.386.513.jpg?c=1",
+          "og:availability": "instock",
+          "pinterest:richpins": "enabled"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Photographie du match de football entre Newport County et Undy AFC montrant Christopher Parry sur le ballon, archivée sous la date du 7 août 2011.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Christopher Parry"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Newsquest",
+          "NewsPrint Bureau",
+          "Newport County",
+          "Undy AFC"
+        ],
+        "DATE": [
+          "07 Aug 2011"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7279051434870347
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Bournemouth"
+    ],
+    "ORGANIZATION": [
+      "Liberal Democrat"
+    ],
+    "DATE": [],
+    "EVENT": [
+      "Liberal Democrat autumn conference"
+    ],
+    "OTHER": [
+      "Delegates"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Newport County",
+      "NewsPrint Bureau"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7503475683842123,
+  "S_ent": 0.0,
+  "S_OOC": 0.3751737841921062,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "EVENT",
+    "OTHER"
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "id_rumeur": "1527079",
+  "id_image": "1527079",
+  "caption": "The bowl which dates from the time of the Roman conquest was described as an awkward object by Colchester Museums conservator",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122819/1527079.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Colchester Roman 'jigsaw puzzle' bowl repaired for fourth time - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-england-essex-35111626",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/D45B/production/_87236345_bowl1.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgpZf3KmVv41ZaNMLzGv9OQNi9oLkgxRjlTYytUudEEn2QaO6E",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Colchester Roman 'jigsaw puzzle' bowl repaired for fourth time - BBC News",
+        "source": "BBC",
+        "link": "https://www.bbc.com/news/uk-england-essex-35111626",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/D45B/production/_87236345_bowl1.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgpZf3KmVv41ZaNMLzGv9OQNi9oLkgxRjlTYytUudEEn2QaO6E"
+      },
+      "webpage": {
+        "text": "Colchester Roman 'jigsaw puzzle' bowl repaired for fourth time\n\nA Roman glass bowl has caused museum staff a headache after having to be put back together four times.\n\nThe bowl, which was excavated in 1988, had already been reconstructed three times when it was smashed by a skull at Colchester Castle in September.\n\nWork is under way to restore the \"50 or 60\" fragments to their former glory.\n\n\"Normally you'll work on something once and won't see it again, but perhaps it just likes to be in the limelight,\" said conservator Emma Hogarth.\n\nThe \"awkward\" object, which dates from the time of the Roman conquest in 43AD, was discovered at a late Iron Age British-Roman burial site in Stanway, near Colchester.\n\n\"It's not a very common type - you can see an example of it in a wall painting in Pompeii,\" Ms Hogarth said.",
+        "metadata": {
+          "description": "A Roman glass bowl causes museum staff a headache after smashing and needing to be repaired for the fourth time since it was unearthed.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A Roman glass bowl causes museum staff a headache after smashing and needing to be repaired for the fourth time since it was unearthed.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/D45B/production/_87236345_bowl1.jpg",
+          "og:image:alt": "Roman glass bowl",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Colchester Roman 'jigsaw puzzle' bowl repaired for fourth time",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-england-essex-35111626",
+          "article:section": "Essex",
+          "twitter:description": "A Roman glass bowl causes museum staff a headache after smashing and needing to be repaired for the fourth time since it was unearthed.",
+          "twitter:title": "Colchester Roman 'jigsaw puzzle' bowl repaired for fourth time"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-england-essex-35111626",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2015-12-28T03:15:13.000Z",
+          "dateModified": "2015-12-28T03:15:13.000Z",
+          "description": "A Roman glass bowl causes museum staff a headache after smashing and needing to be repaired for the fourth time since it was unearthed.",
+          "headline": "Colchester Roman 'jigsaw puzzle' bowl repaired for fourth time",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/D45B/production/_87236345_bowl1.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/D45B/production/_87236345_bowl1.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-england-essex-35111626",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un bol en verre romain, souvent appelé 'jigsaw puzzle' bowl et découvert en 1988 sur un site funéraire britanno-romain de la fin de l'âge du fer à Stanway près de Colchester, a causé des difficultés au personnel du musée après avoir dû être reconstitué pour la quatrième fois. Déjà reconstitué trois fois, il a été brisé par un crâne au château de Colchester en septembre. Des travaux sont en cours pour restaurer les 50 ou 60 fragments de cet objet rare datant de la conquête romaine en 43 après J.-C., dont un exemple similaire est visible dans une peinture murale à Pompéi.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Emma Hogarth"
+        ],
+        "LOCATION": [
+          "Colchester",
+          "Colchester Castle",
+          "Stanway",
+          "Pompeii"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "BBC News"
+        ],
+        "DATE": [
+          "1988",
+          "September",
+          "43AD"
+        ],
+        "EVENT": [
+          "Roman conquest"
+        ],
+        "OTHER": [
+          "Colchester Roman 'jigsaw puzzle' bowl"
+        ]
+      },
+      "score_e5": 0.8255270197256809
+    },
+    {
+      "titre": "Edward McGlinchey - Operations Business Intelligence Coordinator | LinkedIn",
+      "source": "LinkedIn",
+      "lien": "https://uk.linkedin.com/in/edward-mcglinchey-143065145",
+      "image_url": "https://media.licdn.com/dms/image/v2/C4D22AQEWgkc_hDIaLw/feedshare-shrink_800/feedshare-shrink_800/0/1579903094236?e=2147483647&v=beta&t=sjKv7SR3IENvDSXHHherSnso1MQeyS0bynpSV6ZpvEc",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHjQ3His-FHZjG6IZ6zLNRNIvcxUpJXzcqfeUd9nCNnJYUeHT",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Edward McGlinchey - Operations Business Intelligence Coordinator | LinkedIn",
+        "source": "LinkedIn",
+        "link": "https://uk.linkedin.com/in/edward-mcglinchey-143065145",
+        "imageUrl": "https://media.licdn.com/dms/image/v2/C4D22AQEWgkc_hDIaLw/feedshare-shrink_800/feedshare-shrink_800/0/1579903094236?e=2147483647&v=beta&t=sjKv7SR3IENvDSXHHherSnso1MQeyS0bynpSV6ZpvEc",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHjQ3His-FHZjG6IZ6zLNRNIvcxUpJXzcqfeUd9nCNnJYUeHT"
+      },
+      "webpage": {
+        "text": "Edward McGlinchey\n\nGreater Ipswich Area\n53 followers 50 connections\n\n\nSmartestEnergy\n\nUniversity of Lincoln\n\n\nActivity\n\n\n53 followers\n\n\n * Edward McGlinchey\n   \n   6y\n   \n   \n   A Roman glass bowl I had the pleasure of piecing back together for Colchester Museum after it was sadly broken by another object falling onto it. Now back on display at Colchester Castle! #museum #roman #archaeology #museums #conservation #restoration\n   \n   8\n\n\n* Edward McGlinchey liked this\n   \n   Last night’s install @artspace_woodbridge which I’ve organised as an introduction to Hythe Conservation alongside a decorative arts sale! Open from today Thursday, July 21, 10:00 AM - Wednesday, July 27, 2022 5:00 PM View before and after photos of restored work undertaken by Harriet in her studio. Also on display, a sale of paintings and interesting items - even a set of bagpipes!\n   \n   15 1 Comment\n   \n * Edward McGlinchey liked this\n   \n   We filmed an exciting new episode of Rugby Fit for World Rugby yesterday. We had presenter Greg O’Shea join Ealing Trailfinders in a competitive rowing session on the Thames. This was the first time I’ve pitched an idea and seen it come to life, and even had the chance to learn off the team and shoot a part of it myself. Lots more episodes of Rugby Fit are being filmed right now, with the team delivering it for September. So keep your eyes peeled.\n   \n   32\n   \n * Edward McGlinchey liked this\n\n\nEmilie Farrimond\n   \n   5y\n   \n   Absolutely thrilled to be apart of such a great team! #projectmanagment #housingdevelopment\n   ",
+        "metadata": {
+          "title": "Edward McGlinchey - SmartestEnergy | LinkedIn",
+          "al:android:url": "https://uk.linkedin.com/in/edward-mcglinchey-143065145",
+          "al:android:package": "com.linkedin.android",
+          "al:android:app_name": "LinkedIn",
+          "al:ios:url": "https://uk.linkedin.com/in/edward-mcglinchey-143065145",
+          "al:ios:app_store_id": "288429040",
+          "al:ios:app_name": "LinkedIn",
+          "description": "Experience: SmartestEnergy · Education: University of Lincoln · Location: Greater Ipswich Area · 50 connections on LinkedIn. View Edward McGlinchey’s profile on LinkedIn, a professional community of 1 billion members.",
+          "twitter:description": "Experience: SmartestEnergy · Education: University of Lincoln · Location: Greater Ipswich Area · 50 connections on LinkedIn. View Edward McGlinchey’s profile on LinkedIn, a professional community of 1 billion members.",
+          "og:description": "Experience: SmartestEnergy · Education: University of Lincoln · Location: Greater Ipswich Area · 50 connections on LinkedIn. View Edward McGlinchey’s profile on LinkedIn, a professional community of 1 billion members.",
+          "og:title": "Edward McGlinchey - SmartestEnergy | LinkedIn",
+          "og:image": "https://media.licdn.com/dms/image/v2/C5603AQGFDwBQ9-_J0A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1659644264767?e=2147483647&v=beta&t=7z8U8uEN3OLdXTvA0vNgdY451c8uEtDVhtBd91ho8ko",
+          "og:type": "profile",
+          "profile:first_name": "Edward",
+          "profile:last_name": "McGlinchey",
+          "og:url": "https://uk.linkedin.com/in/edward-mcglinchey-143065145",
+          "twitter:title": "Edward McGlinchey - SmartestEnergy | LinkedIn"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Edward McGlinchey, coordinateur de l'intelligence d'affaires des opérations et étudiant à l'Université de Lincoln, évoque un bol en verre romain qu'il a eu le plaisir de reconstituer pour le musée de Colchester après qu'il ait été cassé par un autre objet, désormais exposé au château de Colchester. Il mentionne également l'organisation d'une exposition et vente d'arts décoratifs à Artspace Woodbridge pour l'introduction de Hythe Conservation, ainsi que le tournage d'un épisode de Rugby Fit pour World Rugby avec le présentateur Greg O'Shea et Ealing Trailfinders sur la Tamise.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Edward McGlinchey",
+          "Harriet",
+          "Greg O'Shea",
+          "Emilie Farrimond"
+        ],
+        "LOCATION": [
+          "Greater Ipswich Area",
+          "Colchester Museum",
+          "Colchester Castle",
+          "Thames"
+        ],
+        "ORGANIZATION": [
+          "SmartestEnergy",
+          "University of Lincoln",
+          "Artspace Woodbridge",
+          "Hythe Conservation",
+          "World Rugby",
+          "Ealing Trailfinders"
+        ],
+        "DATE": [
+          "Thursday, July 21, 2022",
+          "Wednesday, July 27, 2022",
+          "September"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Rugby Fit",
+          "Roman glass bowl"
+        ]
+      },
+      "score_e5": 0.7976383893930022
+    },
+    {
+      "titre": "Moser Amber Cut Wolfgang Berndt Haida Glass Vase",
+      "source": "LiveAuctioneers",
+      "lien": "https://www.liveauctioneers.com/price-result/moser-amber-cut-wolfgang-berndt-haida-glass-vase/",
+      "image_url": "https://p1.liveauctioneers.com/1565/35622/14793400_1_x.jpg?height=282&quality=95&version=1355161697&width=564",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsve13GpbIvph0IRBSvSztI1JZxoTCQEC_2wICjCEvKbmpKNPs",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Moser Amber Cut Wolfgang Berndt Haida Glass Vase",
+        "source": "LiveAuctioneers",
+        "link": "https://www.liveauctioneers.com/price-result/moser-amber-cut-wolfgang-berndt-haida-glass-vase/",
+        "imageUrl": "https://p1.liveauctioneers.com/1565/35622/14793400_1_x.jpg?height=282&quality=95&version=1355161697&width=564",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsve13GpbIvph0IRBSvSztI1JZxoTCQEC_2wICjCEvKbmpKNPs"
+      },
+      "webpage": {
+        "text": "Moser Amber Cut Wolfgang Berndt Haida Glass Vase\n\nTotal Sales1 Sold\n\nMedian Sale Price\n\nSale Price Range",
+        "metadata": {
+          "apple-mobile-web-app-title": "LiveAuctioneers",
+          "og:locale": "en_US",
+          "og:type": "website",
+          "description": "A gorgeous Bohemian amber cut glass vase with beautiful heavy hand painted frosted band with gold and black leaves. The",
+          "og:description": "A gorgeous Bohemian amber cut glass vase with beautiful heavy hand painted frosted band with gold and black leaves. The",
+          "og:title": "Moser Amber Cut Wolfgang Berndt Haida Glass Vase",
+          "og:url": "https://www.liveauctioneers.com/c/vases/",
+          "og:image": "https://p1.liveauctioneers.com/1565/35622/14793400_1_x.jpg?height=512&quality=70&version=1355161697",
+          "og:image:secure_url": "https://p1.liveauctioneers.com/1565/35622/14793400_1_x.jpg?height=512&quality=70&version=1355161697",
+          "twitter:description": "A gorgeous Bohemian amber cut glass vase with beautiful heavy hand painted frosted band with gold and black leaves. The",
+          "twitter:title": "Moser Amber Cut Wolfgang Berndt Haida Glass Vase",
+          "og:site_name": "LiveAuctioneers"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": {
+                "@id": "https://www.liveauctioneers.com",
+                "name": "Home"
+              },
+              "position": 0
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@id": "https://www.liveauctioneers.com/c/home-and-decor/",
+                "name": "Home & Décor"
+              },
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@id": "https://www.liveauctioneers.com/c/decorative-objects/",
+                "name": "Decorative Objects"
+              },
+              "position": 2
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@id": "https://www.liveauctioneers.com/c/vases-and-vessels/",
+                "name": "Vases & Vessels"
+              },
+              "position": 3
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@id": "https://www.liveauctioneers.com/c/vases/",
+                "name": "Vases"
+              },
+              "position": 4
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@id": "https://www.liveauctioneers.com/price-result/moser-amber-cut-wolfgang-berndt-haida-glass-vase/",
+                "name": "Moser Amber Cut Wolfgang Berndt Haida Glass Vase"
+              },
+              "position": 5
+            }
+          ]
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Vase en verre Moser Amber Cut de Wolfgang Berndt Haida référencé sur une plateforme de vente aux enchères.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Wolfgang Berndt"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Moser",
+          "LiveAuctioneers"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Moser Amber Cut Wolfgang Berndt Haida Glass Vase"
+        ]
+      },
+      "score_e5": 0.7236502719174687
+    },
+    {
+      "titre": "Glaschip & Dip Schüssel Set Anker Hocking Wellige Bernstein Glas Party Essen Schüsseln Fußball Party Snacks Schale Vintage Glas Servierschalen - 2er Set - Etsy.de",
+      "source": "Etsy",
+      "lien": "https://www.etsy.com/de/listing/666684403/glaschip-dip-schussel-set-anker-hocking",
+      "image_url": "https://i.etsystatic.com/17048980/r/il/083586/1716253262/il_570xN.1716253262_j1dd.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5a1MWJpHRvQeAucnacGW_HC6T0uyO6eYDQedOwH8LzTxNQVr_",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Glaschip & Dip Schüssel Set Anker Hocking Wellige Bernstein Glas Party Essen Schüsseln Fußball Party Snacks Schale Vintage Glas Servierschalen - 2er Set - Etsy.de",
+        "source": "Etsy",
+        "link": "https://www.etsy.com/de/listing/666684403/glaschip-dip-schussel-set-anker-hocking",
+        "imageUrl": "https://i.etsystatic.com/17048980/r/il/083586/1716253262/il_570xN.1716253262_j1dd.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5a1MWJpHRvQeAucnacGW_HC6T0uyO6eYDQedOwH8LzTxNQVr_"
+      },
+      "webpage": {
+        "text": "Glass Chip & Dip Bowl Set Anchor Hocking Wavy Amber Glass Party Food Bowls Football Party Snacks Bowl Vintage Glass Serving Bowls - Set of 2\n\nYou can only make an offer when buying a single item\n\nStar Seller. This seller consistently earned 5-star reviews, shipped on time, and replied quickly to any messages they received.\n\n\nBe the first to review this item\n\nThis is a unique item, and there are no reviews yet. See what customers say about other items from this shop.\n\nWe calculate this number using a recency-weighted average of all ratings, with a rating's value decreasing by half each year to best reflect the current experience. 5.0\n\n·\n\n1.5k sales\n\n·\n\nTypically responds within a few hours\n\nTypically responds within a few hours\n\nSmooth shipping Has a history of shipping on time with tracking.\n\nSpeedy replies Has a history of replying to messages quickly.\n\nRave reviews Average review rating is 4.8 or higher.\n\nLoading promoted picks for you...\n\nListed on Sep 4, 2026\n\n43 favorites",
+        "metadata": {
+          "title": "Glass Chip &amp; Dip Bowl Set Anchor Hocking Wavy Amber Glass Party Food Bowls Football Party Snacks Bowl Vintage Glass Serving Bowls - Set of 2 - Etsy.de",
+          "fb:app_id": "89186614300",
+          "description": "This Bowls item by CollectedAndCoolShop has 43 favorites from Etsy shoppers. Ships from United States. Listed on Sep 4, 2026",
+          "og:title": "Glass Chip & Dip Bowl Set Anchor Hocking Wavy Amber Glass Party Food Bowls Football Party Snacks Bowl Vintage Glass Serving Bowls - Set of 2 - Etsy.de",
+          "og:description": "This Bowls item by CollectedAndCoolShop has 43 favorites from Etsy shoppers. Ships from United States. Listed on Sep 4, 2026",
+          "og:type": "product",
+          "og:url": "https://www.etsy.com/de-en/listing/666684403/glass-chip-dip-bowl-set-anchor-hocking?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
+          "og:image": "https://i.etsystatic.com/17048980/r/il/744584/1763705083/il_1080xN.1763705083_cqd7.jpg",
+          "product:price:amount": "40,95",
+          "product:price:currency": "USD",
+          "al:ios:url": "etsy://listing/666684403?ref=applinks_ios",
+          "al:ios:app_store_id": "477128284",
+          "al:ios:app_name": "Etsy",
+          "al:android:url": "etsy://listing/666684403?ref=applinks_android",
+          "al:android:package": "com.etsy.android",
+          "al:android:app_name": "Etsy",
+          "apple-mobile-web-app-title": "Etsy"
+        },
+        "jsonld": {
+          "@type": "Product",
+          "@id": "https://www.etsy.com/de-en/listing/666684403/glass-chip-dip-bowl-set-anchor-hocking#product",
+          "@context": "https://schema.org",
+          "url": "https://www.etsy.com/de-en/listing/666684403/glass-chip-dip-bowl-set-anchor-hocking",
+          "name": "Glass Chip & Dip Bowl Set Anchor Hocking Wavy Amber Glass Party Food Bowls Football Party Snacks Bowl Vintage Glass Serving Bowls - Set of 2",
+          "sku": "666684403",
+          "description": "This is a great set of two mid century honey gold amber glass bowls. Made in the 1970s by Anchor Hocking, these two bowls are the perfect chip and dip bowl set. This 2 piece set has a  larger chip bowl and a smaller dip bowl. Whether you bring it as a hostess gift, or use it at your next game day party these pinched glass bowls will look gorgeous!\n\n**Please note:  This listing includes the two bowls but no holding rack.\n\n\n\nMARKINGS\n_____________\n\nThere are no visible markings or brandings.\n\n\nCONDITION\n_______________\n\nExcellent Condition! \n\nAll of our items are in previously owned and loved conditions and therefore may contain unseen dirt, scratches, flaws or imperfections. I have tried to include in my description and in my photos anything that I notice. I have no knowledge of any item&#39;s history unless otherwise mentioned in the listing. I’m not a vintage or antique expert, however, I try to research my items and find the best possible descriptions and dates for approximately when items were manufactured. Please feel free to ask questions before purchasing.\n\n\nDIMENSIONS\n________________\n\nThe large bowl - 9&quot; in diameter x 4&quot; high\n\nThe smaller bowl - 5&quot; in diameter x 2 1/2&quot; high \n\n\nPROPS NOT INCLUDED\n___________________________\n\nThis listing is for the item listed only and does not include any of the photography props used or seen.\n\n\nCLEANING OF ITEMS\n________________________\n\nWe have chosen to leave most items in their original condition without major cleaning. We feel like the buyer should have the choice of how to restore it. Some light dusting, hand washing (only with glassware) and all-natural cleaning of sticky areas or dirt when appropriate.\n\nThank you for visiting our store. Please come again to Collected & Cool!\n\nCheck out the rest of our VINTAGE listings: https://www.etsy.com/shop/CollectedAndCoolShop\n\nIf you love NATURAL STONES & MINERALS, check out our other Esty shop, Mine To Shelf: https://www.etsy.com/shop/MineToShelf",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/744584/1763705083/il_fullxfull.1763705083_cqd7.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/744584/1763705083/il_340x270.1763705083_cqd7.jpg",
+              "description": "May include: Two amber glass bowls with wavy edges. The larger bowl is on a clear stand and the smaller bowl is in front of it. Both bowls are empty and there is a green leafy branch in front of them."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/083586/1716253262/il_fullxfull.1716253262_j1dd.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/083586/1716253262/il_340x270.1716253262_j1dd.jpg",
+              "description": "May include: A set of two amber glass bowls with a wavy, scalloped edge. The larger bowl is on top of the smaller bowl."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/fbd3d5/1716250530/il_fullxfull.1716250530_quqo.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/fbd3d5/1716250530/il_340x270.1716250530_quqo.jpg",
+              "description": "May include: A set of two amber glass bowls with a wavy, organic shape. The larger bowl sits on top of the smaller bowl."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/3d89e5/1716250024/il_fullxfull.1716250024_9vxz.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/3d89e5/1716250024/il_340x270.1716250024_9vxz.jpg",
+              "description": "May include: A set of two amber glass bowls with a wavy, organic shape. The larger bowl is nested inside the smaller bowl."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/afbf16/1716249866/il_fullxfull.1716249866_grvx.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/afbf16/1716249866/il_340x270.1716249866_grvx.jpg",
+              "description": "May include: A wavy amber glass bowl with a unique, rounded, heart-shaped indentation in the center."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/86c483/1716250390/il_fullxfull.1716250390_stbu.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/86c483/1716250390/il_340x270.1716250390_stbu.jpg",
+              "description": "May include: Two amber glass bowls with a wavy, organic shape. The larger bowl is empty and the smaller bowl has a white flower inside."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/3b03f0/1716250650/il_fullxfull.1716250650_nh27.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/3b03f0/1716250650/il_340x270.1716250650_nh27.jpg",
+              "description": "May include: A set of two amber glass bowls with a wavy, organic shape. The smaller bowl fits inside the larger bowl."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/635b03/1716250760/il_fullxfull.1716250760_dcah.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/635b03/1716250760/il_340x270.1716250760_dcah.jpg",
+              "description": "May include: A brown glass bowl with a wavy rim and a smaller bowl inside. The smaller bowl has a white flower with a pink center."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/1b00cd/1716250872/il_fullxfull.1716250872_nf8y.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/1b00cd/1716250872/il_340x270.1716250872_nf8y.jpg",
+              "description": "May include: A set of two amber glass bowls, one nested inside the other. The larger bowl has a wavy, organic shape. A white orchid sits in the smaller bowl."
+            },
+            {
+              "@type": "ImageObject",
+              "@context": "https://schema.org",
+              "author": "CollectedAndCoolShop",
+              "contentURL": "https://i.etsystatic.com/17048980/r/il/68bfb4/1716251006/il_fullxfull.1716251006_ro7p.jpg",
+              "thumbnail": "https://i.etsystatic.com/17048980/r/il/68bfb4/1716251006/il_340x270.1716251006_ro7p.jpg",
+              "description": "May include: A set of two amber glass bowls with a wavy, scalloped edge. The bowls are nested together."
+            }
+          ],
+          "category": "Home & Living < Kitchen & Dining < Dining & Serving < Bowls",
+          "brand": {
+            "@type": "Brand",
+            "@context": "https://schema.org",
+            "name": "CollectedAndCoolShop",
+            "@id": "https://www.etsy.com/de-en/shop/CollectedAndCoolShop#shop"
+          },
+          "logo": "https://i.etsystatic.com/17048980/r/isla/a265f2/29469286/isla_500x500.29469286_5fzv735u.jpg",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": 451,
+            "@id": "https://www.etsy.com/de-en/shop/CollectedAndCoolShop#rating"
+          },
+          "offers": {
+            "@type": "Offer",
+            "eligibleQuantity": 1,
+            "price": "43.87",
+            "@id": "https://www.etsy.com/de-en/listing/666684403/glass-chip-dip-bowl-set-anchor-hocking#offer",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingOrigin": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              }
+            }
+          },
+          "material": "Glass"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Ensemble de deux bols à chips et dip en verre ambre ondulé de marque Anchor Hocking, destinés aux fêtes et snacks de football, répertorié comme article vintage sur une boutique en ligne.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Anker Hocking",
+          "Anchor Hocking",
+          "Etsy"
+        ],
+        "DATE": [
+          "Sep 4, 2026"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Glass Chip & Dip Bowl Set"
+        ]
+      },
+      "score_e5": 0.7533508750564643
+    },
+    {
+      "titre": "Handgefertigte Schalen aus Bernsteinglas mit Chips and Dip aus der Mitte des Jahrhunderts, USA, ca. 1960er Jahre im Angebot bei 1stDibs Deutschland",
+      "source": "1stDibs",
+      "lien": "https://www.1stdibs.com/de/möbel/serviergeschirr-keramik-silber-und-glas/servierschalen/handgefertigte-schalen-aus-bernsteinglas-mit-chips-dip-aus-der-mitte-des-jahrhunderts-usa-ca-1960er-jahre/id-f_40980122/",
+      "image_url": "https://a.1stdibscdn.com/mid-century-modern-hand-crafted-amber-glass-chips-dip-bowls-usa-c-1960s-for-sale-picture-2/f_74132/f_409801221723046037301/AM02277_02_master.jpg?width=768",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZexfR9fu6peca_rwlWw9kyf5EKyKnzwq4_fTzGJmb3U9q67EB",
+      "rang_lens": 5,
+      "brut": {
+        "title": "Handgefertigte Schalen aus Bernsteinglas mit Chips and Dip aus der Mitte des Jahrhunderts, USA, ca. 1960er Jahre im Angebot bei 1stDibs Deutschland",
+        "source": "1stDibs",
+        "link": "https://www.1stdibs.com/de/möbel/serviergeschirr-keramik-silber-und-glas/servierschalen/handgefertigte-schalen-aus-bernsteinglas-mit-chips-dip-aus-der-mitte-des-jahrhunderts-usa-ca-1960er-jahre/id-f_40980122/",
+        "imageUrl": "https://a.1stdibscdn.com/mid-century-modern-hand-crafted-amber-glass-chips-dip-bowls-usa-c-1960s-for-sale-picture-2/f_74132/f_409801221723046037301/AM02277_02_master.jpg?width=768",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZexfR9fu6peca_rwlWw9kyf5EKyKnzwq4_fTzGJmb3U9q67EB"
+      },
+      "webpage": {
+        "text": "Handgefertigte Schalen aus Bernsteinglas mit Chips and Dip aus der Mitte des Jahrhunderts, USA, ca. 1960er Jahre im Angebot bei 1stDibs Deutschland\n\nEchtheit garantiert\n\nIst es kein Original − Geld zurück. Wir geben Ihnen ein ganzes Jahr lang Zeit, um etwaige Probleme mit der Echtheit eines Objekts geltend zu machen und eine 100-prozentige Rückerstattung zu erhalten. Weitere Informationen\n\nAnbieter*innen, die wir kennen und denen wir vertrauen\n\nBei uns können keine x-beliebigen Anbieter*innen ihre Objekte verkaufen. Alle Anbieter*innen auf unserer Plattform sind Profis, die unsere strengen Qualitäts- und Servicestandards erfüllt haben, bevor sie auch nur ein einziges Objekt einstellen dürfen. Weitere Informationen\n\nGeld-Zurück-Garantie\n\nWenn Ihr Objekt beschädigt ist, nicht der Beschreibung entspricht oder nicht bei Ihnen ankommt, kontaktieren Sie uns bitte innerhalb von 7 Tagen. Wir schalten uns ein und holen Ihr Geld zurück. Weitere Informationen\n\nPreisgarantie\n\nUmständliches Suchen bleibt Ihnen erspart. Sollte ein*e Anbieter*in dieses Objekt anderswo zu einem günstigeren Preis anbieten, passen wir unseren Preis entsprechend an. Weitere Informationen\n\n24 Stunden „Bedenkzeit“\n\nEinen Kauf bereut? Das kann passieren. Sie haben 24 Stunden Zeit, Ihre Bestellung aus beliebigen Gründen zu stornieren – ohne Erklärung und ohne Gebühren. Weitere Informationen\n\nAbgesicherter weltweiter Versand\n\nWir kooperieren mit spezialisierten Versandunternehmen, die sich im Umgang mit Luxusgütern auskennen. Ihre Sendung wird nachverfolgt, ist sicher und gelangt genau an den gewünschten Ort. Weitere Informationen",
+        "metadata": {
+          "description": "Im Angebot bei 1stDibs – Wir stellen ein ästhetisch ansprechendes Set handgefertigter Servierschalen vor. Mit einem brillanten Messingaufhänger, der die kleinere der beiden Schalen",
+          "og:title": "Handgefertigte Schalen aus Bernsteinglas mit Chips and Dip aus der Mitte des Jahrhunderts, USA, ca. 1960er Jahre",
+          "twitter:title": "Handgefertigte Schalen aus Bernsteinglas mit Chips and Dip aus der Mitte des Jahrhunderts, USA, ca. 1960er Jahre",
+          "twitter:description": "Im Angebot bei 1stDibs – Wir stellen ein ästhetisch ansprechendes Set handgefertigter Servierschalen vor. Mit einem brillanten Messingaufhänger, der die kleinere der beiden Schalen"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Bols faits main en verre ambre avec fonction 'chips and dip' datant du milieu du siècle, proposés à la vente aux États-Unis par des marchands professionnels sur une plateforme spécialisée dans le design et l'art.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "USA",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "1stDibs"
+        ],
+        "DATE": [
+          "1960s"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7377060761344526
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Colchester Museums"
+    ],
+    "DATE": [],
+    "EVENT": [
+      "Roman conquest"
+    ],
+    "OTHER": [
+      "bowl"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Colchester Castle"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "September"
+    ],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.8255270197256809,
+  "S_ent": 0.0,
+  "S_OOC": 0.41276350986284044,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION",
+    "DATE",
+    "EVENT",
+    "OTHER"
+  ]
+}

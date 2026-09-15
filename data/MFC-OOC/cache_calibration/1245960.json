@@ -1,0 +1,564 @@
+{
+  "id_rumeur": 1245960,
+  "id_image": 1245960,
+  "caption": "Floods hit Helston in west Cornwall where nearly 200 residents were evacuated from their homes overnight",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747489/oluyewo_benchmark/nwekb4mk8pxezngvnwty.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas ...",
+      "source": "The Home Depot",
+      "lien": "https://www.homedepot.com/p/Unbrand-26-37-in-3-Pack-Metal-Snowman-Santa-Deer-Christmas-Yard-Stakes-Outdoor-Decor-ENHD20374/339752257",
+      "image_url": "https://images.thdstatic.com/productImages/9d3018c2f0f0452f86a4709144517bf4/svn/unbrand-decorative-garden-stakes-enhd20374-c3_600.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3MW7GgYiohPMp9_40pmr7-64bgmRwG2WZ1xxnEfW5yiwbl50",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas ...",
+        "link": "https://www.homedepot.com/p/Unbrand-26-37-in-3-Pack-Metal-Snowman-Santa-Deer-Christmas-Yard-Stakes-Outdoor-Decor-ENHD20374/339752257",
+        "source": "The Home Depot",
+        "source_icon": "https://serpapi.com/searches/6a8edca2e9639b339655de67/images/rGgLOJ2P2gwgXKbVzCcPNeHbN3RA0Ar7hQxXHoTA3zk.png",
+        "price": {
+          "value": "$78*",
+          "extracted_value": 78.0,
+          "currency": "$"
+        },
+        "in_stock": true,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3MW7GgYiohPMp9_40pmr7-64bgmRwG2WZ1xxnEfW5yiwbl50",
+        "thumbnail_width": 225,
+        "thumbnail_height": 225,
+        "image": "https://images.thdstatic.com/productImages/9d3018c2f0f0452f86a4709144517bf4/svn/unbrand-decorative-garden-stakes-enhd20374-c3_600.jpg",
+        "image_width": 600,
+        "image_height": 600
+      },
+      "webpage": {
+        "text": "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas Yard Stakes - Outdoor Decor ENHD20374\n\n© 2000-2026 Home Depot. All Rights Reserved. Use of this site is subject to certain Terms Of Use.\n\nLocal store prices may vary from those displayed. Products shown as available are normally stocked but inventory levels cannot be guaranteed.\n\nFor screen reader problems with this website, please call 1-800-430-3376 or text 38698 (standard carrier rates apply to texts).",
+        "metadata": {
+          "og:title": "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas Yard Stakes - Outdoor Decor ENHD20374 - The Home Depot",
+          "description": "Bring modern and contemporary design to your space by selecting this Unbrand Metal Snowman Santa Deer Christmas Yard Stakes Outdoor Decor",
+          "og:description": "Bring modern and contemporary design to your space by selecting this Unbrand Metal Snowman Santa Deer Christmas Yard Stakes Outdoor Decor",
+          "og:url": "https://www.homedepot.com/p/Unbrand-26-37-in-3-Pack-Metal-Snowman-Santa-Deer-Christmas-Yard-Stakes-Outdoor-Decor-ENHD20374/339752257",
+          "fb:admins": "100005416960152",
+          "og:image": "https://images.thdstatic.com/productImages/3971ff7827274d2c9b770a5467ae2dfb/svn/unbrand-decorative-garden-stakes-enhd20374-64_1000.jpg",
+          "og:type": "product",
+          "og:site_name": "The Home Depot"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas Yard Stakes - Outdoor Decor ENHD20374",
+          "image": [
+            "https://images.thdstatic.com/productImages/3971ff7827274d2c9b770a5467ae2dfb/svn/unbrand-decorative-garden-stakes-enhd20374-64_100.jpg",
+            "https://images.thdstatic.com/productImages/9d3018c2f0f0452f86a4709144517bf4/svn/unbrand-decorative-garden-stakes-enhd20374-c3_100.jpg",
+            "https://images.thdstatic.com/productImages/b3163db1f54a4919a6f13c79d4de5759/svn/unbrand-decorative-garden-stakes-enhd20374-4f_100.jpg",
+            "https://images.thdstatic.com/productImages/241a94e3b8bd4e20ab48a7fded880354/svn/unbrand-decorative-garden-stakes-enhd20374-1f_100.jpg"
+          ],
+          "description": "This 3-in-1 festive garden stake features a charming combination of Santa, Snowman, and Reindeer, creating a warm and inviting atmosphere for your outdoor space. Santa holds a Christmas tree, the reindeer carries a Christmas gift, and together with the “MERRY CHRISTMAS” letter sign, they draw attention with their friendly, joyful charm. The intricate 3D design gives the figures a lifelike and cozy appearance, perfect for lighting up your yard with holiday spirit.",
+          "productID": "339752257",
+          "sku": "1015001111",
+          "gtin13": "0124416304634",
+          "model": "ENHD20374",
+          "depth": "",
+          "height": "26.37 in",
+          "width": "15.94 in",
+          "color": "Brown",
+          "weight": "",
+          "brand": {
+            "@type": "Brand",
+            "name": "Unbrand"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.homedepot.com/p/Unbrand-26-37-in-3-Pack-Metal-Snowman-Santa-Deer-Christmas-Yard-Stakes-Outdoor-Decor-ENHD20374/339752257",
+            "priceCurrency": "USD",
+            "price": 78.33,
+            "priceValidUntil": "9/6/2026",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 90
+            }
+          },
+          "review": []
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de vente pour un produit de décoration extérieure de Noël, le 'Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas Yard Stakes - Outdoor Decor ENHD20374', proposé par Home Depot.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Home Depot",
+          "Unbrand"
+        ],
+        "DATE": [
+          "2000-2026"
+        ],
+        "EVENT": [
+          "Christmas"
+        ],
+        "OTHER": [
+          "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas Yard Stakes - Outdoor Decor ENHD20374"
+        ]
+      },
+      "score_e5": 0.7056454157891007
+    },
+    {
+      "titre": "Christmas Travel Forecast | Weather Blog | wktv.com",
+      "source": "WKTV",
+      "lien": "https://www.wktv.com/weather/blog/christmas-travel-forecast/article_d02ecdfc-0717-54c5-8a91-40ad745569a4.html",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/0/3b/03b43da1-efa5-51f0-b8ef-cb15034cdbdf/61d31d209f909.image.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRK72YWICcIZUrwQ-IR3QBGElafLed-a_0fKMVuRZ5yvW8FGea",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Christmas Travel Forecast | Weather Blog | wktv.com",
+        "link": "https://www.wktv.com/weather/blog/christmas-travel-forecast/article_d02ecdfc-0717-54c5-8a91-40ad745569a4.html",
+        "source": "WKTV",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAArlBMVEX______v_-______3OJBPJHRHCHRm8HRnCGhH68PHTIxbPIxXLIA_OHhHFHxHGHxbOJhvPLCPMLiXea2ThpqLy1dH87u3ty8rgko7NRDzVNyvihX342tz87O_ceHa8GRTYT0Xtwb7subbQZGT13NjMOTHJRD_ADwfYa2belpmyEhLgiIbquby1JSTUeXi1HB_yxcjGU07qrq3IY2nWXFfQhIbCKiW1JiqrHCCnEhZqG4ZGAAAA1UlEQVQYlS3M0VKDMBCF4bMJgaANEdpCq0BK1FJSKhYVy_u_mKHjd7MzZ3Z-BA-PgVopIUSidRgaBIFSq6c0yzItpQ4jKJWuN9s8jvNit5cmwvNLSZwYJw5W1X44bMFZ3timgl9fDVS6e6vfQymPFYFZHxUik0K24SkHUeeQiCRp5f5cggH9xUFrqdd9zMB58TG4Abo9fhIjKrvr4Nwwoz1UxLm9RsZ584ys4P672YzNaO3Yf-Hbt4iI-cNAvEMdL_L43w-iaZoui9-7G4xZcoPP3d3-AFcfFgPLK5beAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRK72YWICcIZUrwQ-IR3QBGElafLed-a_0fKMVuRZ5yvW8FGea",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/0/3b/03b43da1-efa5-51f0-b8ef-cb15034cdbdf/61d31d209f909.image.jpg",
+        "image_width": 450,
+        "image_height": 800
+      },
+      "webpage": {
+        "text": "Christmas Travel Forecast | Weather Blog\n\nHappy holidays and Merry Christmas! The weather is looking pretty quiet heading into the holiday.  Cold this Thursday, with temperatures only in the 20s. We do expect widespread light snow Thursday night, with a general 1-3\" of accumulation. The snow looks to come to an end before Friday morning.\n\nFor folks traveling over the next three days, expect dry weather on Friday. Cloudy and not as cold, with highs in the mid 30s. Low pressure approaches from the west on Christmas Eve night, bringing widespread light rain with the chance of a wintry mix north and east of Utica overnight. Temperatures only drop into the low 30s on Friday night.\n\nChristmas Day looks mild and wet, with widespread rain. Temperatures climb into the mid 30s. Rain continues into Saturday night, changing to snow showers on Sunday.\n\nSunday's forecast looks cloudy and unsettled, with a few snow showers expected. Breezy, with temperatures in the 30s.\n\nLooking ahead, the weather continues to stay milder than average as our winter remains driven by a La Niña weather pattern.",
+        "metadata": {
+          "title": "Christmas Travel Forecast | Weather Blog | wktv.com",
+          "keywords": "weather, temperature, meteorology, christmas, shower, forecast, holiday, cold",
+          "news_keywords": "weather, temperature, meteorology, christmas, shower, forecast, holiday, cold",
+          "description": "Happy holidays and Merry Christmas! The weather is looking pretty quiet heading into the holiday. Cold this Thursday, with temperatures only in the 20s. We do expect widespread light snow",
+          "author": "Bill Kardas",
+          "og:type": "article",
+          "og:url": "https://www.wktv.com/weather/blog/christmas-travel-forecast/article_d02ecdfc-0717-54c5-8a91-40ad745569a4.html",
+          "og:image": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/0/3b/03b43da1-efa5-51f0-b8ef-cb15034cdbdf/61d31d209f909.image.jpg?crop=800%2C420%2C0%2C14",
+          "og:image:width": "800",
+          "og:image:height": "420",
+          "og:title": "Christmas Travel Forecast",
+          "og:description": "Happy holidays and Merry Christmas! The weather is looking pretty quiet heading into the holiday. Cold this Thursday, with temperatures only in the 20s. We do expect widespread light snow",
+          "og:site_name": "WKTV NewsChannel2",
+          "og:section": "Weather Blog",
+          "fb:app_id": "468062626031027",
+          "article:publisher": "https://www.facebook.com/wktv2",
+          "tncms:ads": "smart,lazyload,refresh,dmp"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Prévisions météo et blog sur les voyages de Noël par WKTV, annonçant du temps froid avec de la neige légère, suivi d'un radoucissement, de pluie et d'un schéma météorologique La Niña.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Utica",
+          "Southern California"
+        ],
+        "ORGANIZATION": [
+          "WKTV"
+        ],
+        "DATE": [
+          "Thursday",
+          "Friday",
+          "Christmas Eve",
+          "Christmas Day",
+          "Saturday",
+          "Sunday"
+        ],
+        "EVENT": [
+          "Christmas",
+          "Christmas Travel"
+        ],
+        "OTHER": [
+          "La Niña"
+        ]
+      },
+      "score_e5": 0.7137533832627714
+    },
+    {
+      "titre": "Merry Christmas Snowman Metal Garden Stake | Hobby ...",
+      "source": "Hobby Lobby",
+      "lien": "https://www.hobbylobby.com/christmas-decorations/christmas-home-decor/christmas-garden-flags-stakes/merry-christmas-snowman-metal-garden-stake/p/80922829",
+      "image_url": "https://cdn.media.amplience.net/s/hobbylobby/205657929-80922829-08292024-IMGSET?w=1600&h=900",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpLK_fzX-6LQWIUB_vrEHdkBnmJDOUFgW8-g0WUsAi704GO8Xt",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Merry Christmas Snowman Metal Garden Stake | Hobby ...",
+        "link": "https://www.hobbylobby.com/christmas-decorations/christmas-home-decor/christmas-garden-flags-stakes/merry-christmas-snowman-metal-garden-stake/p/80922829",
+        "source": "Hobby Lobby",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEX____WRB7WRBz9___WQhv___38_fr-_P_8__3XRCLVRh3RRR_RQxbZRRnPRRfaQx7hSEYHAAAATklEQVQYla2P2w6AMAhDqWVz4mX__7eriWJ8X19KTkoJZlMEsAKyF4SXNdzgmVjYtpB9YD_O6weih0DXzPasqEeJUiqzVEAy5lni1pxHBr2pAW34UAe7AAAAAElFTkSuQmCC.png",
+        "price": {
+          "value": "$9*",
+          "extracted_value": 9.0,
+          "currency": "$"
+        },
+        "in_stock": true,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpLK_fzX-6LQWIUB_vrEHdkBnmJDOUFgW8-g0WUsAi704GO8Xt",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://cdn.media.amplience.net/s/hobbylobby/205657929-80922829-08292024-IMGSET?w=1600&h=900",
+        "image_width": 900,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Merry Christmas Snowman Metal Garden Stake | Hobby Lobby\n\nShipping:\n\nPlease provide a physical street address for the shipment of merchandise orders. PO Box shipping addresses may be provided for gift card only orders. Most orders will ship within 1-2 business days and tracking is provided via email when the order ships. Delivery usually takes an additional 3-4 business days. Keep in mind, some orders may require an additional business day to process, and some locations can require 5-7 business days for delivery. \n\nReturns:\n\nWe want you to be happy with your purchase! If you're not completely satisfied, you can return qualifying items within 90 days.\n\nVisit our Shipping & Returns page for complete information.",
+        "metadata": {
+          "description": "Invite a frosty friend to your flower bed by displaying this Merry Christmas Snowman Metal Garden Stake. This piece features a bashful snowman with a perforated metal body and subtly textured head. They wear a polka dot vest and striped scarf embellished with glitter to match the red band on their top hat. In one of their branch hands, they hold a present to give to a special someone. This holiday-inspired stake is the perfect way to welcome guests as they approach your home!",
+          "og:title": "Merry Christmas Snowman Metal Garden Stake | Hobby Lobby | 205657929",
+          "og:description": "Invite a frosty friend to your flower bed by displaying this Merry Christmas Snowman Metal Garden Stake. This piece features a bashful snowman with a perforated metal body and subtly textured head. They wear a polka dot vest and striped scarf embellished with glitter to match the red band on their top hat. In one of their branch hands, they hold a present to give to a special someone. This holiday-inspired stake is the perfect way to welcome guests as they approach your home!"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "https://www.hobbylobby.com/",
+          "logo": "https://imgprd19.hobbylobby.com/sys-master/migrated/hbc/h78/h00/9714481922078/HLLogo_RGB_286x33.png",
+          "name": "Hobby Lobby"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page produit de Hobby Lobby concernant le piquet de jardin en métal représentant un bonhomme de neige, intitulé 'Merry Christmas Snowman Metal Garden Stake', avec les informations de livraison et de retour.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Hobby Lobby"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Christmas"
+        ],
+        "OTHER": [
+          "Merry Christmas Snowman Metal Garden Stake"
+        ]
+      },
+      "score_e5": 0.6979264083000025
+    },
+    {
+      "titre": "Dangerous holiday storm arriving in Southern California ...",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=zAoO-L79cVQ",
+      "image_url": "https://i.ytimg.com/vi/zAoO-L79cVQ/sddefault.jpg?v=694ae6b9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37cZ2ADWkdHVG3xZEKQnC1b2Ih18ppG6EAQ_ZigDKbc1ueNGH",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Dangerous holiday storm arriving in Southern California ...",
+        "link": "https://www.youtube.com/watch?v=zAoO-L79cVQ",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37cZ2ADWkdHVG3xZEKQnC1b2Ih18ppG6EAQ_ZigDKbc1ueNGH",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://i.ytimg.com/vi/zAoO-L79cVQ/sddefault.jpg?v=694ae6b9",
+        "image_width": 480,
+        "image_height": 640
+      },
+      "webpage": {
+        "text": "Dangerous holiday storm arriving in Southern California\n\nFOX 11 Los Angeles\n\nA dangerous holiday storm is making its way into Southern California.This story and more on Good Day LA.Subscribe to FOX 11 on YouTube: https://www.youtube.c...",
+        "metadata": {
+          "title": "Dangerous holiday storm arriving in Southern California",
+          "description": "A dangerous holiday storm is making its way into Southern California.This story and more on Good Day LA.Subscribe to FOX 11 on YouTube: https://www.youtube.c...",
+          "keywords": "california news, christmas storm, good day la, live news, rain in la, southern california weather, weather",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=zAoO-L79cVQ",
+          "og:title": "Dangerous holiday storm arriving in Southern California",
+          "og:image": "https://i.ytimg.com/vi/zAoO-L79cVQ/maxresdefault.jpg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "A dangerous holiday storm is making its way into Southern California.This story and more on Good Day LA.Subscribe to FOX 11 on YouTube: https://www.youtube.c...",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=zAoO-L79cVQ&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=zAoO-L79cVQ&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=zAoO-L79cVQ&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/zAoO-L79cVQ",
+          "og:video:secure_url": "https://www.youtube.com/embed/zAoO-L79cVQ",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "weather",
+          "fb:app_id": "87741124305",
+          "twitter:title": "Dangerous holiday storm arriving in Southern California",
+          "twitter:description": "A dangerous holiday storm is making its way into Southern California.This story and more on Good Day LA.Subscribe to FOX 11 on YouTube: https://www.youtube.c..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Publication YouTube de FOX 11 Los Angeles concernant une tempête hivernale dangereuse arrivant en Californie du Sud, mentionnée dans l'émission Good Day LA.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Southern California",
+          "Los Angeles"
+        ],
+        "ORGANIZATION": [
+          "FOX 11",
+          "YouTube",
+          "FOX 11 Los Angeles"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Good Day LA"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7274071473244551
+    },
+    {
+      "titre": "Merry Christmas Snowman Wood Decor | Hobby Lobby | 206417182",
+      "source": "Hobby Lobby",
+      "lien": "https://www.hobbylobby.com/christmas-decorations/christmas-home-decor/christmas-table-decor/merry-christmas-snowman-wood-decor/p/81294558",
+      "image_url": "https://cdn.media.amplience.net/s/hobbylobby/206417182-81294558-08192026-IMGSET?w=1200&h=900",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT28bA12zAcvwQg7sS8-I4d878b7OKcAYbyby6zKtLlzAPsdkbv",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Merry Christmas Snowman Wood Decor | Hobby Lobby | 206417182",
+        "link": "https://www.hobbylobby.com/christmas-decorations/christmas-home-decor/christmas-table-decor/merry-christmas-snowman-wood-decor/p/81294558",
+        "source": "Hobby Lobby",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEX____WRB7WRBz9___WQhv___38_fr-_P_8__3XRCLVRh3RRR_RQxbZRRnPRRfaQx7hSEYHAAAATklEQVQYla2P2w6AMAhDqWVz4mX__7eriWJ8X19KTkoJZlMEsAKyF4SXNdzgmVjYtpB9YD_O6weih0DXzPasqEeJUiqzVEAy5lni1pxHBr2pAW34UAe7AAAAAElFTkSuQmCC.png",
+        "price": {
+          "value": "$2*",
+          "extracted_value": 2.0,
+          "currency": "$"
+        },
+        "in_stock": true,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT28bA12zAcvwQg7sS8-I4d878b7OKcAYbyby6zKtLlzAPsdkbv",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://cdn.media.amplience.net/s/hobbylobby/206417182-81294558-08192026-IMGSET?w=1200&h=900",
+        "image_width": 900,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Merry Christmas Snowman Wood Decor | Hobby Lobby\n\nShipping:\n\nPlease provide a physical street address for the shipment of merchandise orders. PO Box shipping addresses may be provided for gift card only orders. Most orders will ship within 1-2 business days and tracking is provided via email when the order ships. Delivery usually takes an additional 3-4 business days. Keep in mind, some orders may require an additional business day to process, and some locations can require 5-7 business days for delivery. \n\nReturns:\n\nWe want you to be happy with your purchase! If you're not completely satisfied, you can return qualifying items within 90 days.\n\nVisit our Shipping & Returns page for complete information.",
+        "metadata": {
+          "description": "Infuse a cheerful element into your home, such as this Merry Christmas Snowman Wood Decor. This small wooden decoration is shaped like a snowman wearing a red and green striped scarf and a tall top hat. On his body is the phrase \"Merry Christmas\" and is surrounded by glittery silver snowflakes. Display this on your countertop for a jolly look! ",
+          "og:title": "Merry Christmas Snowman Wood Decor | Hobby Lobby | 206417182",
+          "og:description": "Infuse a cheerful element into your home, such as this Merry Christmas Snowman Wood Decor. This small wooden decoration is shaped like a snowman wearing a red and green striped scarf and a tall top hat. On his body is the phrase \"Merry Christmas\" and is surrounded by glittery silver snowflakes. Display this on your countertop for a jolly look! "
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "https://www.hobbylobby.com/",
+          "logo": "https://imgprd19.hobbylobby.com/sys-master/migrated/hbc/h78/h00/9714481922078/HLLogo_RGB_286x33.png",
+          "name": "Hobby Lobby"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page produit de Hobby Lobby pour une décoration en bois de bonhomme de neige de Noël ('Merry Christmas Snowman Wood Decor Hobby Lobby 206417182'), avec les conditions de livraison et de retour.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Hobby Lobby"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Christmas"
+        ],
+        "OTHER": [
+          "Merry Christmas Snowman Wood Decor"
+        ]
+      },
+      "score_e5": 0.6747880500982687
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Helston",
+      "Cornwall"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "overnight"
+    ],
+    "EVENT": [
+      "Floods"
+    ],
+    "OTHER": [
+      "residents"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Home Depot",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Unbrand",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2000-2026",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Christmas",
+      "rangs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Unbrand 26.37 in. 3-Pack Metal Snowman Santa Deer Christmas Yard Stakes - Outdoor Decor ENHD20374",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Utica",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Southern California",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WKTV",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Christmas Eve",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Christmas Day",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Christmas Travel",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "La Niña",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hobby Lobby",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Merry Christmas Snowman Metal Garden Stake",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Los Angeles",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "FOX 11 Los Angeles",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Good Day LA",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Merry Christmas Snowman Wood Decor",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T10:13:02.125697"
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "id_rumeur": "366036",
+  "id_image": "366036",
+  "caption": "The University of Arizona campus in Tucson",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122892/366036.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "University of Ariz. student falls from tower, dies",
+      "source": "USA Today",
+      "lien": "https://www.usatoday.com/story/news/nation/2014/04/04/university-of-arizona-student-falls/7328897/",
+      "image_url": "https://www.usatoday.com/gcdn/-mm-/49f959f1a87a950b952708947c9c91ee4653581e/c=0-138-3000-1830/local/-/media/USATODAY/USATODAY/2014/04/04//1396657900000-AP-Travel-Trip-5-Free-Things-Tucson.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLCJQVl5MuDIOsGj6UMiZz44PYTjVjWhUuajCb5kK9JZ0Hlgmz",
+      "rang_lens": 1,
+      "brut": {
+        "title": "University of Ariz. student falls from tower, dies",
+        "source": "USA Today",
+        "link": "https://www.usatoday.com/story/news/nation/2014/04/04/university-of-arizona-student-falls/7328897/",
+        "imageUrl": "https://www.usatoday.com/gcdn/-mm-/49f959f1a87a950b952708947c9c91ee4653581e/c=0-138-3000-1830/local/-/media/USATODAY/USATODAY/2014/04/04//1396657900000-AP-Travel-Trip-5-Free-Things-Tucson.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLCJQVl5MuDIOsGj6UMiZz44PYTjVjWhUuajCb5kK9JZ0Hlgmz"
+      },
+      "webpage": {
+        "text": "University of Ariz. student falls from tower, dies\n\nPolice say a University of Arizona student died after falling from a roof-top structure at a residence hall Friday morning.\n\nPolice said 19-year-old freshman Michael Evan Anderson from Mission Viejo, Calif., was climbing a 20-foot metal cooling tower on the top of the three-story Colonia de la Paz residence hall when he slipped and fell.\n\nUniversity police said the fall appeared to be an accident.\n\nUniversity police and the Tucson Fire Department responded to a 911 call shortly before 4 a.m., and Anderson was pronounced dead at the scene, said UA Police Sgt. Filbert Barrera. Police haven't determined yet whether alcohol was a factor.\n\nA witness told police that he and Anderson got onto the roof by climbing the exterior wall of the residence hall. Then they climbed the metal frame of the cooling unit. Anderson fell off the cooling unit and onto the roof.\n\nCounselors are on hand to support friends of the victim and students at the residence hall. Police believe the victim lived at the co-ed residence hall, which is on Highland Avenue west of the football stadium and is owned and operated by the university. Colonia de la Paz is one of the newer residents halls on campus, built in 1995, and houses about 500 students.\n\nThe death marks the second time in less than a week that an Arizona college student has died related to falling from a building. Early Sunday morning, an 18-year-old Arizona State University student plunged to her death from a 10th-story balcony at an off-campus high rise in Tempe.\n\nPolice believe Naomi McClendon was intoxicated when she was taken to an apartment where she later walked onto the balcony, lost her balance and fell to her death. The accident occurred at 922 Place, a high-rise apartment complex that caters to students near Rural Road and Apache Boulevard.\n\nLocal police say such incidents are rare. But cases occasionally pop up nationally. Sometimes they are ruled accidents; other times suicides. In November, a 20-year-old Penn State student died after falling from a ninth floor apartment balcony. The previous April, a Penn State cheerleader survived after accidentally falling from a fifth-floor window of another building.\n\nIn recent years, both ASU and the UA have seen more high-rise buildings catering to students in the neighborhoods surrounding the universities.\n\nThe Arizona Board of Regents, who oversee the state universities, last year launched a student safety task force over concerns of recent student deaths and injuries, many of them related to fraternities and alcohol consumption. Seven months later, the regents have yet to hold any public meetings on the topic. But reports and recommendations from the universities are due in June.\n\nContributing: Jim Walsh, Arizona Republic, The Associated Press",
+        "metadata": {
+          "title": "University of Ariz. student falls from tower, dies"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un étudiant de 19 ans de l'Université de l'Arizona, Michael Evan Anderson, est décédé après avoir fait une chute accidentelle d'une tour de refroidissement métallique sur le toit de la résidence universitaire Colonia de la Paz. Un autre décès par chute impliquant une étudiante de 18 ans de l'Arizona State University, Naomi McClendon, est survenu peu de temps avant depuis le balcon d'un immeuble à Tempe.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Michael Evan Anderson",
+          "Filbert Barrera",
+          "Naomi McClendon",
+          "Jim Walsh"
+        ],
+        "LOCATION": [
+          "Mission Viejo",
+          "Calif.",
+          "Colonia de la Paz",
+          "Highland Avenue",
+          "Tucson",
+          "Arizona",
+          "Tempe",
+          "Penn State"
+        ],
+        "ORGANIZATION": [
+          "University of Arizona",
+          "USA Today",
+          "Tucson Fire Department",
+          "UA Police",
+          "Arizona State University",
+          "Arizona Board of Regents",
+          "Arizona Republic",
+          "The Associated Press"
+        ],
+        "DATE": [
+          "Friday morning",
+          "1995",
+          "November",
+          "April",
+          "last year"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7777677204379889
+    },
+    {
+      "titre": "Dems target college campuses over Congress' spring break",
+      "source": "MS NOW",
+      "lien": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+      "image_url": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg?w=1024&h=512&crop=1",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTJcuMyURlQoeOiMjG6pXR3cLZFnh-M5rTe6t5WFO-Cprwa_R0",
+      "rang_lens": 2,
+      "brut": {
+        "title": "Dems target college campuses over Congress' spring break",
+        "source": "MS NOW",
+        "link": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+        "imageUrl": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg?w=1024&h=512&crop=1",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTJcuMyURlQoeOiMjG6pXR3cLZFnh-M5rTe6t5WFO-Cprwa_R0"
+      },
+      "webpage": {
+        "text": "Dems target college campuses over Congress' spring break\n\nMS NOW\n\nThere's a larger trend underway, with GOP policymakers — at the state and federal level — dramatically scaling back investment in higher education.\n\n\nApril 1, 2015, 11:22 AM EDT\n\nCongress’ spring break is underway, with lawmakers away from Capitol Hill through the end of next week, and Roll Call reports that the Democratic Congressional Campaign Committee is using the opportunity to take the Dems’ message to college campuses.\n\n> House Democrats will launch a series of attacks on Republicans over college affordability over the next two weeks, when members of Congress will fan out across the country for the Easter recess.\n> \n> The Democratic Congressional Campaign Committee will hit 15 Republicans via advertisements in student newspapers at colleges and universities in their districts, according to a release provided first to CQ Roll Call. The ads attack these Republicans for not supporting Pell Grants — which provide funding for low-income students working toward undergraduate degrees.\n\nAmong the campuses the DCCC is focusing on is the University of Arizona in Tucson, pictured above. It’s represented by freshman Rep. Martha McSally (R-Ariz.).\n\nFor many young people and their families, this is clearly a potent issue — the House GOP budget, approved last week, would impose a 10-year freeze on maximum Pell Grant awards. The Senate Republicans’ plan would “no longer guarantee funding” for Pell Grants going forward.\n\nBut stepping back, there’s an even larger trend underway, with GOP policymakers at the state level dramatically scaling back investment in higher education.\n\nIn Wisconsin, for example, Gov. Scott Walker (R) has proposed slashing public university budgets. As Rachel noted on the show in February, “To put it in perspective, the chancellor of the University of Wisconsin at Madison … says that if she just outright eliminates the school of nursing, and the law school, and the business school, and the pharmacy school, and the school of veterinary medicine, if she outright eliminates all of those schools from the Madison campus, that still would not be enough to make up for what Scott Walker wants to make up from that campus.”\n\nThere was also this report out of Louisiana this week: “Under what leaders are calling a ‘doomsday scenario,’ Louisiana’s public universities and colleges would get about $123 million in state funding to split among their campuses next year — about an 82 percent cut from their current funding level.”\n\nAnd it’s not just funding. The New Yorker recently published an alarming piece about developments for higher education in North Carolina (thanks to my colleague Cory Gnazzo for the heads-up).\n\n> For several years, there have been indications that the state’s new [Republican] leaders want to change the mission of public higher education in North Carolina. In 2013, the Republican governor, Pat McCrory, told William Bennett, a conservative talk-show host and former Secretary of Education, that the state shouldn’t “subsidize” courses in gender studies or Swahili (that is, offer them at public universities). […]\n> \n> On February 27th, the board, which had conducted a five-month-long review of all two hundred and forty centers and institutes at U.N.C., voted to eliminate three of them. Although the board has legal authority to govern U.N.C. as it sees fit, university policy and tradition had reserved this sort of decision for the schools. One of the closed centers was dedicated to the environment, another to voter engagement. The third, which many faculty members describe as the real target, was the Center on Poverty, Work, and Opportunity, run by Gene Nichol, a law professor and a vituperative critic of the Republican legislature. In one of a series of opinion pieces criticizing spending cuts, published in Raleigh’s News & Observer, he had referred to the legislature’s “unforgivable war on poor people.” Nichol has no doubt that the closing of the center was intended as punishment. On several occasions, “my dean was compelled to call me into his office and relate threats received from Republican leaders of the General Assembly if I didn’t stop writing articles for the News & Observer,” he wrote in an e-mail.\n\nIs it any wonder Democrats are eager to take their message to colleges and universities?\n\nSteve Benen\n\nSteve Benen is a producer for \"The Rachel Maddow Show,\" the editor of MaddowBlog and an MS NOW political contributor. He's also the bestselling author of \"Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past.\"",
+        "metadata": {
+          "title": "Dems target college campuses over Congress&#039; spring break",
+          "description": "There's a larger trend underway, with GOP policymakers -- at the state and federal level -- dramatically scaling back investment in higher education.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Dems target college campuses over Congress' spring break",
+          "og:description": "There's a larger trend underway, with GOP policymakers -- at the state and federal level -- dramatically scaling back investment in higher education.",
+          "og:url": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+          "og:site_name": "MS NOW",
+          "article:publisher": "https://www.facebook.com/msnownews/",
+          "article:published_time": "2015-04-01T15:22:39+00:00",
+          "article:modified_time": "2025-09-22T13:22:44+00:00",
+          "og:image": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg",
+          "twitter:description": "There's a larger trend underway, with GOP policymakers -- at the state and federal level -- dramatically scaling back investment in higher education.",
+          "vf:container_id": "506725",
+          "vf:url": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+          "sailthru.title": "Dems target college campuses over Congress’ spring break",
+          "sailthru.author": "Steve Benen",
+          "sailthru.description": "There's a larger trend underway, with GOP policymakers -- at the state and federal level -- dramatically scaling back investment in higher education."
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#article",
+              "isPartOf": {
+                "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641"
+              },
+              "author": [
+                {
+                  "@type": [
+                    "Person"
+                  ],
+                  "@id": "",
+                  "url": "https://www.ms.now/author/steve-benen"
+                }
+              ],
+              "headline": "Dems target college campuses over Congress&#8217; spring break",
+              "alternativeHeadline": "Dems target college campuses over Congress&#039; spring break",
+              "datePublished": "2015-04-01T15:22:39+00:00",
+              "dateModified": "2025-09-22T13:22:44+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641"
+              },
+              "wordCount": 670,
+              "publisher": {
+                "@id": "https://www.ms.now/#organization"
+              },
+              "image": {
+                "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#primaryimage"
+              },
+              "thumbnailUrl": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg",
+              "articleSection": [
+                "MS NOW",
+                "Rachel Maddow Show"
+              ],
+              "inLanguage": "en-US",
+              "articleBody": "Congress' spring break is underway, with lawmakers away from Capitol Hill through the end of next week, and Roll Call reports that the Democratic Congressional Campaign Committee is using the opportunity to take the Dems' message to college campuses.\n\n\nHouse Democrats will launch a series of attacks on Republicans over college affordability over the next two weeks, when members of Congress will fan out across the country for the Easter recess. The Democratic Congressional Campaign Committee will hit 15 Republicans via advertisements in student newspapers at colleges and universities in their districts, according to a release provided first to CQ Roll Call. The ads attack these Republicans for not supporting Pell Grants -- which provide funding for low-income students working toward undergraduate degrees.\n\n\nAmong the campuses the DCCC is focusing on is the University of Arizona in Tucson, pictured above. It's represented by freshman Rep. Martha McSally (R-Ariz.).\n\n\n \n\n\nFor many young people and their families, this is clearly a potent issue -- the House GOP budget, approved last week, would impose a 10-year freeze on maximum Pell Grant awards. The Senate Republicans' plan would \"no longer guarantee funding\" for Pell Grants going forward.\n\n\n \n\n\nBut stepping back, there's an even larger trend underway, with GOP policymakers at the state level dramatically scaling back investment in higher education.\n\n\n\n\n\n \n\n\nIn Wisconsin, for example, Gov. Scott Walker (R) has proposed slashing public university budgets. As Rachel noted on the show in February, \"To put it in perspective, the chancellor of the University of Wisconsin at Madison … says that if she just outright eliminates the school of nursing, and the law school, and the business school, and the pharmacy school, and the school of veterinary medicine, if she outright eliminates all of those schools from the Madison campus, that still would not be enough to make up for what Scott Walker wants to make up from that campus.\"\n\n\n \n\n\nThere was also this report out of Louisiana this week: \"Under what leaders are calling a 'doomsday scenario,' Louisiana's public universities and colleges would get about $123 million in state funding to split among their campuses next year -- about an 82 percent cut from their current funding level.\"\n\n\n \n\n\nAnd it's not just funding. The New Yorker recently published an alarming piece about developments for higher education in North Carolina (thanks to my colleague Cory Gnazzo for the heads-up).\n\n\nFor several years, there have been indications that the state's new [Republican] leaders want to change the mission of public higher education in North Carolina. In 2013, the Republican governor, Pat McCrory, told William Bennett, a conservative talk-show host and former Secretary of Education, that the state shouldn't \"subsidize\" courses in gender studies or Swahili (that is, offer them at public universities). [...] On February 27th, the board, which had conducted a five-month-long review of all two hundred and forty centers and institutes at U.N.C., voted to eliminate three of them. Although the board has legal authority to govern U.N.C. as it sees fit, university policy and tradition had reserved this sort of decision for the schools. One of the closed centers was dedicated to the environment, another to voter engagement. The third, which many faculty members describe as the real target, was the Center on Poverty, Work, and Opportunity, run by Gene Nichol, a law professor and a vituperative critic of the Republican legislature. In one of a series of opinion pieces criticizing spending cuts, published in Raleigh's News &amp; Observer, he had referred to the legislature's \"unforgivable war on poor people.\" Nichol has no doubt that the closing of the center was intended as punishment. On several occasions, \"my dean was compelled to call me into his office and relate threats received from Republican leaders of the General Assembly if I didn't stop writing articles for the News &amp; Observer,\" he wrote in an e-mail.\n\n\nIs it any wonder Democrats are eager to take their message to colleges and universities?\n\n\n ",
+              "description": "There's a larger trend underway, with GOP policymakers -- at the state and federal level -- dramatically scaling back investment in higher education.",
+              "url": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+              "copyrightYear": "2015",
+              "copyrightHolder": {
+                "@id": "https://www.ms.now/#organization"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+              "url": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641",
+              "name": "Dems target college campuses over Congress' spring break",
+              "isPartOf": {
+                "@id": "https://www.ms.now/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#primaryimage"
+              },
+              "image": {
+                "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#primaryimage"
+              },
+              "thumbnailUrl": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg",
+              "datePublished": "2015-04-01T15:22:39+00:00",
+              "dateModified": "2025-09-22T13:22:44+00:00",
+              "description": "There's a larger trend underway, with GOP policymakers -- at the state and federal level -- dramatically scaling back investment in higher education.",
+              "breadcrumb": {
+                "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#primaryimage",
+              "url": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg",
+              "contentUrl": "https://www.ms.now/wp-content/uploads/2025/09/travel-trip-5_free_things-tucson.jpeg-0ff5a.jpg",
+              "width": 2100,
+              "height": 1400,
+              "caption": "University of Arizona campus in Tucson."
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.ms.now/rachel-maddow-show/dems-target-college-campuses-over-congress-spring-break-msna563641#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.ms.now/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Dems target college campuses over Congress&#8217; spring break"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.ms.now/#website",
+              "url": "https://www.ms.now/",
+              "name": "MS NOW",
+              "description": "My source | News | Opinion | World",
+              "publisher": {
+                "@id": "https://www.ms.now/#organization"
+              },
+              "alternateName": "MSNBC",
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.ms.now/#organization",
+              "name": "MS NOW",
+              "alternateName": "MSNBC",
+              "url": "https://www.ms.now/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.ms.now/#/schema/logo/image/",
+                "url": "https://www.ms.now/wp-content/uploads/2025/10/ms-now-org-image.jpg",
+                "contentUrl": "https://www.ms.now/wp-content/uploads/2025/10/ms-now-org-image.jpg",
+                "width": 696,
+                "height": 696,
+                "caption": "MS NOW"
+              },
+              "image": "https://www.ms.now/wp-content/uploads/2025/10/ms-now-org-image.jpg",
+              "sameAs": [
+                "https://www.facebook.com/msnownews/",
+                "https://x.com/MSNOWNews",
+                "https://www.instagram.com/msnbc",
+                "https://www.youtube.com/msnbc",
+                "https://www.pinterest.com/msnbc/",
+                "https://www.snapchat.com/add/msnbc",
+                "https://www.tiktok.com/@msnbc?lang=en",
+                "https://x.com/msnbc",
+                "https://www.facebook.com/msnbc"
+              ],
+              "masthead": "https://www.ms.now/msnow/msnbccom-digital-contacts-rcna53317"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le Democratic Congressional Campaign Committee utilise les vacances de printemps du Congrès pour mener une série d'attaques contre des républicains sur la question du coût abordable de l'université, notamment à travers des publicités dans des journaux étudiants ciblant 15 républicains pour ne pas avoir soutenu les bourses Pell. L'Université de l'Arizona à Tucson est l'un des campus ciblés, représentée par la députée Martha McSally. Parallèlement, des réductions de budget pour l'enseignement supérieur sont observées ou proposées dans d'autres États comme le Wisconsin par le gouverneur Scott Walker, en Louisiane, et en Caroline du Nord par le gouverneur Pat McCrory.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Rachel Maddow",
+          "Martha McSally",
+          "Scott Walker",
+          "Cory Gnazzo",
+          "Pat McCrory",
+          "William Bennett"
+        ],
+        "LOCATION": [
+          "Capitol Hill",
+          "Tucson",
+          "Arizona",
+          "Wisconsin",
+          "Madison",
+          "Louisiana",
+          "North Carolina"
+        ],
+        "ORGANIZATION": [
+          "MS NOW",
+          "Roll Call",
+          "Democratic Congressional Campaign Committee",
+          "CQ Roll Call",
+          "House",
+          "GOP",
+          "University of Arizona",
+          "Senate",
+          "University of Wisconsin at Madison",
+          "New Yorker"
+        ],
+        "DATE": [
+          "April 1, 2015",
+          "the next two weeks",
+          "Easter recess",
+          "last week",
+          "February",
+          "this week",
+          "next year",
+          "For several years",
+          "2013"
+        ],
+        "EVENT": [
+          "Congress’ spring break"
+        ],
+        "OTHER": [
+          "Pell Grants"
+        ]
+      },
+      "score_e5": 0.767368557104258
+    },
+    {
+      "titre": "Regents: Why we're behind Ducey's university funding plan",
+      "source": "azcentral.com and The Arizona Republic",
+      "lien": "https://www.azcentral.com/story/opinion/op-ed/2017/03/31/regents-ducey-university-funding/99763222/",
+      "image_url": "https://www.azcentral.com/gcdn/-mm-/be279a9702667c30a2a62ff75766eb64c6f52ce1/c=115-0-417-402/local/-/media/2015/03/25/Phoenix/Phoenix/635628774003229804-ua.PNG",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5hwyAIbGZsC2GVoXD7lXxbZt_wr8pAuirrTm1owpTrCk1swYM",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Regents: Why we're behind Ducey's university funding plan",
+        "source": "azcentral.com and The Arizona Republic",
+        "link": "https://www.azcentral.com/story/opinion/op-ed/2017/03/31/regents-ducey-university-funding/99763222/",
+        "imageUrl": "https://www.azcentral.com/gcdn/-mm-/be279a9702667c30a2a62ff75766eb64c6f52ce1/c=115-0-417-402/local/-/media/2015/03/25/Phoenix/Phoenix/635628774003229804-ua.PNG",
+        "thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5hwyAIbGZsC2GVoXD7lXxbZt_wr8pAuirrTm1owpTrCk1swYM"
+      },
+      "webpage": {
+        "text": "Regents: Why we're behind Ducey's university funding plan\n\nQuality education increasingly is recognized as providing expanded opportunities and improved economics for graduates.\n\nWhile Arizona is blessed with three public universities that are among the nation’s finest, a new plan is necessary to enable these institutions to grow and evolve to meet the needs of our students, the challenges of a new economy and the expectations of the citizens of Arizona.\n\nReady or not, our state is locked in a global competition for the most talented students and faculty, the best jobs and economic growth.\n\n\nWe can rebuild without raising taxes \n\nThat’s why we strongly endorse Gov. Doug Ducey’s innovative plan to construct, renew and rebuild infrastructure across the campuses of Arizona State University, Northern Arizona University and the University of Arizona. The governor’s approach will spark a capital construction campaign that addresses overdue maintenance needs while providing critical dollars for the next generation of facilities for education, research and development.\n\nAnd all without raising taxes.\n\nMORE: House budget rejects Ducey's university funding idea\n\nRELATED: What is Arizona's budget holdup? Education funding\n\nHow? Simply put, the universities would recapture the sales tax they have already paid.\n\nFor context, it is important for taxpayers to know that Arizona is one of only six states nationally that impose a sales tax on public university purchases. Returning those tax dollars to the universities would annually save them an estimated $37 million, which when matched with university funds, immediately provides $1 billion in bonding capacity.\n\n\nExpect a big return on investment\n\nOur experience tells us the state’s return on investment would be massive.\n\nIn 2003, the state Legislature authorized the Board of Regents to use an annual appropriation of $35 million per year to construct roughly $500 million worth of research facilities at our state universities.  The projects were completed in the 2004-07 period and led to a 50 percent increase in annual research activity to nearly $1.1 billion once the facilities were completed and fully staffed.\n\nVIEWPOINTS: How to reach our college goals? Ducey's budget is a good start\n\nEDITORIAL: Make a good university funding plan better\n\nThis funding made possible the construction of numerous research and other facilities, including the Biodesign Institute at Arizona State University, the University of Arizona Keating Bioresearch Building and the Arizona Biomedical Collaborative 1 on the Phoenix Biomedical Campus. Northern Arizona University's Applied Research and Development building continued NAU's expansion into national defense and infectious disease research.\n\nSince 2003, university invention disclosures have increased by 154 percent. The number of degrees awarded in science, technology, engineering and mathematics (STEM) fields by our respective institutions has nearly doubled in the last eight years alone.\n\n\nWe're facing leaky roofs, poor A/C\n\nThe governor’s plan will position Arizona’s public universities among the nation’s leaders in the areas of research and innovation, spinning off startup companies and generating research grants and economic activity at rates not currently possible.\n\nThe influx of funding also will address a backlog of university repairs that has been accumulating for decades. A formula has long been established in state law to ensure universities receive state assistance to fund capital repairs, but the formula has only been fully funded one time, in 1999.\n\nThat was four governors ago.\n\nMY TURN: Arizona State University can't live on state funding alone\n\nAcross Arizona’s public universities, deferred maintenance – everything from leaky roofs to decrepit air conditioning units – now stands at an estimated $671 million. These increasingly desperate repair needs are undermining our universities at the very time we are modernizing educational practices and technology, embarking on new research and enrolling students in record numbers.\n\nWhat we need is a consistent, devoted and predictable revenue stream to address these maintenance issues. That’s where the Governor Ducey’s foresight and plan come in. The scope and flexibility of Governor Ducey’s capital funding proposal empowers the universities to take significant steps towards addressing these critical facility needs.\n\n\nWhy university growth matters\n\nEvery Arizonan has a stake in public higher education and its unbreakable bond with the economy. By the time this year’s freshman class graduates from college, it is estimated two out of every three U.S. jobs will require some kind of postsecondary education.\n\nTo help meet this employer demand, the Arizona Board of Regents has set a goal to increase the number of bachelor’s degrees awarded to 40,000 annually by 2025. That’s a 45 percent increase.\n\nGOVERNOR: Why Arizona needs more college grads\n\nReaching this and other lofty goals will require further innovation, including increased use of online and distance learning. But there is no question our bricks-and-mortar facilities must expand if our public universities are to continue in their role as economic engines and hubs of research and higher learning.\n\nAttracting talented faculty and staff – and securing critical grants to keep us on the cutting edge – will require research facilities and classrooms worthy of the academic work being done inside them.\n\nWe ask legislators to say “yes” to Governor Ducey’s capital construction plan and the benefits it will bring to Arizona’s students, our universities and the larger economy.\n\nThe ABOR Enterprise Executive Committee consists of Eileen Klein, president of the Arizona Board of Regents; Michael Crow, president of Arizona State University; Rita Cheng, president of Northern Arizona University; and Ann Weaver Hart, president of the University of Arizona.",
+        "metadata": {
+          "title": "Regents: Why we're behind Ducey's university funding plan"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le gouverneur Doug Ducey propose un plan de financement pour construire, rénover et reconstruire des infrastructures sur les campus de l'Arizona State University, de Northern Arizona University et de l'Université de l'Arizona grâce à la récupération de la taxe de vente payée sur les achats des universités publiques. Ce plan vise à stimuler la construction et la recherche, à l'instar d'initiatives similaires menées depuis 2003 qui ont permis le développement de centres de recherche tels que le Biodesign Institute.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Doug Ducey"
+        ],
+        "LOCATION": [
+          "Arizona",
+          "Phoenix"
+        ],
+        "ORGANIZATION": [
+          "Arizona State University",
+          "Northern Arizona University",
+          "University of Arizona",
+          "Board of Regents",
+          "Biodesign Institute",
+          "University of Arizona Keating Bioresearch Building",
+          "Arizona Biomedical Collaborative 1"
+        ],
+        "DATE": [
+          "2017",
+          "2003",
+          "2004-07",
+          "the last eight years"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "STEM"
+        ]
+      },
+      "score_e5": 0.7794943468885338
+    },
+    {
+      "titre": "UoA Memes (@UoaMemes) • Facebook",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/UoaMemes/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=217242201733779",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtH-T5yETwCur3Nx43BufXfQQlkw1UdRs0CYK98_DdRD7-9ejL",
+      "rang_lens": 4,
+      "brut": {
+        "title": "UoA Memes (@UoaMemes) • Facebook",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/UoaMemes/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=217242201733779",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtH-T5yETwCur3Nx43BufXfQQlkw1UdRs0CYK98_DdRD7-9ejL"
+      },
+      "webpage": {
+        "text": "UoA Memes\n\nLog In\n\nForgot Account?\n\n\nUoA Memes \n\n113 followers • 7 following\n\n\nPosts\n\nAbout\n\nPhotos\n\nMore\n\n\nPosts\n\nAbout\n\n\nPhotos\n\n\nUoA Memes\n\n\nPhotos\n\n \nSee all photos\n\n\n * Privacy  ·\n * Consumer Health Privacy  ·\n * Terms  ·\n * Advertising  ·\n * Ad Choices   ·\n * Cookies  ·\n * More\n\n\nSee more from UoA Memes\nSee more from UoA Memes\nEmail or phone number\nPassword\n\nForgot password?\nor\n\nCreate new account",
+        "metadata": {
+          "title": "UoA Memes | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://profile/100066630776404",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://profile/100066630776404",
+          "og:type": "video.other",
+          "og:title": "UoA Memes",
+          "og:description": "UoA Memes. 113 likes. Wildcats, make and submit memes using memegenerator.net or quickmeme.com! It's time to put the books",
+          "og:url": "https://www.facebook.com/UoaMemes/",
+          "og:image:alt": "UoA Memes",
+          "og:image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/301560468_419000820330940_7693677289216777596_n.jpg?stp=dst-jpg_tt6&cstp=mx400x368&ctp=s400x368&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=hXtv-kGEHmYQ7kNvwHFa9w-&_nc_oc=AdqqCIjyyPdm3o_Wgn6WQLjCXYjL4fvVl8aGE6WRW9M4OvCiBeqzn8_wkXTjAXZA1g4&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=XkfuTjgyDwg9B2vM6ncFbQ&_nc_ss=79289&oh=00_AQJgw2gAVVTzaStxzVpM0cPMAGmypoV_cqv_mX2mQfqcbA&oe=6AA9E90D",
+          "og:locale": "en_US",
+          "description": "UoA Memes. 113 likes. Wildcats, make and submit memes using memegenerator.net or quickmeme.com! It's time to put the books",
+          "twitter:title": "UoA Memes",
+          "twitter:description": "UoA Memes. 113 likes. Wildcats, make and submit memes using memegenerator.net or quickmeme.com! It's time to put the books",
+          "application-title": "Facebook"
+        },
+        "credits": 10
+      },
+      "texte_contexte": "Page Facebook de UoA Memes indiquant les informations de base du profil, notamment le nombre d'abonnés et les options de connexion.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "UoA Memes",
+          "Facebook"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.728659893645525
+    },
+    {
+      "titre": "File:Old Main, north view.jpg - Wikimedia Commons",
+      "source": "Wikimedia.org",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_Main,_north_view.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Old_Main,_north_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0WFg9jV4tpDx-YC51Zg-R3f84U0pEBL-3Phw09AE_T14Ytx0a",
+      "rang_lens": 5,
+      "brut": {
+        "title": "File:Old Main, north view.jpg - Wikimedia Commons",
+        "source": "Wikimedia.org",
+        "link": "https://commons.wikimedia.org/wiki/File:Old_Main,_north_view.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Old_Main,_north_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0WFg9jV4tpDx-YC51Zg-R3f84U0pEBL-3Phw09AE_T14Ytx0a"
+      },
+      "webpage": {
+        "text": "File:Old Main, north view.jpg\n\nPermission\n(Reusing this file)\n\n   This image was originally posted to Flickr by matsubatsu at    \n   https://www.flickr.com/photos/33323978@N04/3109024663. It\n   was reviewed on 01:43, 13 October 2009 (UTC) by\n   FlickreviewR, who found it to be licensed under the terms of\n   the cc-by-sa-2.0, which is compatible with the Commons. It\n   is, however, not the same license as specified on upload,\n   which was the cc-by-2.0, and it is unknown whether that\n   license ever was valid.\n\n\nThis file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.\n\nYou are free:\n * to share – to copy, distribute and transmit the work\n * to remix – to adapt the work\n\nUnder the following conditions:\n * attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n * share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.",
+        "metadata": {
+          "title": "File:Old Main, north view.jpg - Wikimedia Commons",
+          "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Old_Main%2C_north_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "og:image:width": "1200",
+          "og:image:height": "900",
+          "og:title": "File:Old Main, north view.jpg - Wikimedia Commons",
+          "og:type": "website"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Old_Main%2C_north_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "license": "https://creativecommons.org/licenses/by-sa/2.0",
+          "acquireLicensePage": "//commons.wikimedia.org/wiki/File:Old_Main,_north_view.jpg",
+          "name": "Old Main, north view",
+          "uploadDate": "2009-04-11 04:19:23",
+          "width": "1024 px",
+          "height": "768 px",
+          "contentSize": 254763,
+          "encodingFormat": "image/jpeg"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Fichier image représentant Old Main (vue nord), initialement posté sur Flickr et publié sous licence Creative Commons Attribution-Share Alike 2.0 Generic sur Wikimedia Commons.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "matsubatsu",
+          "FlickreviewR"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Wikimedia Commons",
+          "Flickr"
+        ],
+        "DATE": [
+          "01:43, 13 October 2009"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Creative Commons Attribution-Share Alike 2.0 Generic license",
+          "Old Main, north view.jpg"
+        ]
+      },
+      "score_e5": 0.7277502080819956
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Tucson"
+    ],
+    "ORGANIZATION": [
+      "University of Arizona"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [
+      "Tucson",
+      "Arizona"
+    ],
+    "ORGANIZATION": [
+      "University of Arizona",
+      "Arizona State University",
+      "Arizona Board of Regents"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 1,
+    "ORGANIZATION": 1,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7794943468885338,
+  "S_ent": 1.0,
+  "S_OOC": 0.8897471734442669,
+  "classe_predite": "nooc",
+  "categories_comparables": [
+    "LOCATION",
+    "ORGANIZATION"
+  ]
+}

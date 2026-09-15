@@ -1,0 +1,703 @@
+{
+  "id_rumeur": 296469,
+  "id_image": 296469,
+  "caption": "Pensioners wait for the opening of the National Bank of Greece to withdraw a maximum of 120 euros for the week in central Athens Photo is from July 15 2015",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787757015/oluyewo_benchmark/isl68ckpvmcmku1sw5i7.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "European Markets Extend Rally - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/european-markets-extend-rally-1437377868",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-JL696_euromk_M_20150720033530.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFmcgD5wdq1AG9L9ELV5IKEeGrHbk0Ov2QHpc6JQVeo6yOH4nB",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "European Markets Extend Rally - WSJ",
+        "link": "https://www.wsj.com/articles/european-markets-extend-rally-1437377868",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFmcgD5wdq1AG9L9ELV5IKEeGrHbk0Ov2QHpc6JQVeo6yOH4nB",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-JL696_euromk_M_20150720033530.jpg",
+        "image_width": 853,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "European Markets Extend Rally",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "European Markets"
+        ]
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "Bank holidays extended till July 16 in Greece - ARMENPRESS ...",
+      "source": "armenpress.am",
+      "lien": "https://armenpress.am/en/article/812252",
+      "image_url": "https://armenpress.am/static/news/b/2015/07/812252.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyFdHY5xZIZRSeAJsLcYv0A5KsqiK6-ndPXEf_bLHbKQ6j9SOh",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Bank holidays extended till July 16 in Greece - ARMENPRESS ...",
+        "link": "https://armenpress.am/en/article/812252",
+        "source": "armenpress.am",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQVe47-o3rSKkb1ioh3zj3wXW6cC9iGzEwB2RE8XjymAmjKg9_EBSseM-FBLLsBHyPn4AUjQb6vpbR9zqQAdZAc8OYY21vHoA6eaN_udmW7sioJ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyFdHY5xZIZRSeAJsLcYv0A5KsqiK6-ndPXEf_bLHbKQ6j9SOh",
+        "thumbnail_width": 184,
+        "thumbnail_height": 274,
+        "image": "https://armenpress.am/static/news/b/2015/07/812252.jpg",
+        "image_width": 450,
+        "image_height": 670
+      },
+      "webpage": {
+        "text": "Bank holidays extended till July 16 in Greece\n\nYEREVAN, JULY 15, ARMENPRESS. The Greek government announced on Monday evening that the bank holiday introduced on June 29 will be extended once again to July 16.\n\nAs Armenpress reports citing “Focus News,” the laconic press release of the finance ministry that the banks will remain closed also on Tuesday and Wednesday this week was issued after the European Central Bank’s (ECB) governing council decided during a teleconference held earlier on Monday to leave the financing cap for Greek banks through the Emergency Liquidity Assistance (ELA) unchanged, Xinhua reported.\n\nAthens hoped that European partners would immediately release some liquidity assistance to Greece’s banking sector after the debt deal was struck during the euro zone summit in Brussels earlier in the day. However, financial analysts in Athens noted that Greece’s creditors and ECB seem to have eventually opted for a wait and see stance and intend to disburse any aid after the Greek parliament has first ratified by Thursday the first set of prior actions under Monday’s agreement.\n\nWith no liquidity support from ECB, Athens was left with no choice but to extend the bank holiday as well as capital controls. Since June 29 Greek depositors are allowed to withdraw up to 60 euros daily per debit card in a bid to avert the collapse of the banking system which faces a severe liquidity shortage since late June.\n\nIn addition to ECB’s decision, Monday’s Eurogroup talks also ended with no concrete outcome for Greece on bridge financing in coming days to help the debt laden country meet its international financial obligations to ECB and International Monetary Fund in July and August, as euro zone leaders agreed. Eurogroup chief Jeroen Dijsselbloem said during a press briefing on Monday that the “complex” issue will be examined on Tuesday at by the Euro Working Group first.",
+        "metadata": {
+          "description": "The Greek government announced on Monday evening that the bank holiday introduced on June 29 will be extended once again to July 16.\r\nAs Armenpress reports citing...",
+          "og:title": "Bank holidays extended till July 16 in Greece  ",
+          "og:type": "article",
+          "og:image": "https://armenpress.am/static/news/b/2015/07/812252.jpg",
+          "og:url": "https://armenpress.am/en/article/812252",
+          "og:description": "The Greek government announced on Monday evening that the bank holiday introduced on June 29 will be extended once again to July 16.\r\nAs Armenpress reports citing...",
+          "og:site_name": "Armenpress",
+          "fb:app_id": "788294517951552",
+          "twitter:title": "Bank holidays extended till July 16 in Greece  ",
+          "twitter:description": "The Greek government announced on Monday evening that the bank holiday introduced on June 29 will be extended once again to July 16.\r\nAs Armenpress reports citing..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Bank holidays extended till July 16 in Greece. The Greek government announced that the bank holiday introduced on June 29 will be extended to July 16, with banks remaining closed on Tuesday and Wednesday. The European Central Bank's governing council decided during a teleconference to leave the financing cap for Greek banks through the Emergency Liquidity Assistance unchanged. Athens hoped for immediate liquidity assistance after a debt deal during the euro zone summit in Brussels, but creditors and the ECB opted for a wait-and-see stance until the Greek parliament ratifies prior actions. Capital controls and withdrawal limits of up to 60 euros daily per debit card remain in place. Eurogroup talks ended without concrete outcome for bridge financing, with the issue to be examined by the Euro Working Group.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jeroen Dijsselbloem"
+        ],
+        "LOCATION": [
+          "Greece",
+          "Yerevan",
+          "Athens",
+          "Brussels"
+        ],
+        "ORGANIZATION": [
+          "ARMENPRESS",
+          "Focus News",
+          "European Central Bank",
+          "Emergency Liquidity Assistance",
+          "Xinhua",
+          "Eurogroup",
+          "Euro Working Group"
+        ],
+        "DATE": [
+          "July 16",
+          "July 15",
+          "Monday",
+          "June 29",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "July",
+          "August"
+        ],
+        "EVENT": [
+          "euro zone summit"
+        ],
+        "OTHER": [
+          "debit card"
+        ]
+      },
+      "score_e5": 0.7834339476858316
+    },
+    {
+      "titre": "Surviving Greece's Liquidity Crisis - WSJ",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/articles/surviving-greeces-liquidity-crisis-1437337642",
+      "image_url": "https://s.wsj.net/public/resources/images/BN-JL509_edp072_G_20150719104454.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHuoV_tT1aj1ZmIolf7mEFqWv6avFE4GAu_CL8QbsuOjfaxra",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Surviving Greece's Liquidity Crisis - WSJ",
+        "link": "https://www.wsj.com/articles/surviving-greeces-liquidity-crisis-1437337642",
+        "source": "WSJ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSe2ErC0CeFfg_EEhtTTAO1ADeDgIr6x-7nOv1iZ5BcQrUtWt-r8plkprevrOH2ms7Vp9mqyJOJL78PzGIYDuMa5buaL9yzPXNxxZqRndadRQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHuoV_tT1aj1ZmIolf7mEFqWv6avFE4GAu_CL8QbsuOjfaxra",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://s.wsj.net/public/resources/images/BN-JL509_edp072_G_20150719104454.jpg",
+        "image_width": 369,
+        "image_height": 553
+      },
+      "webpage": null,
+      "texte_contexte": "Surviving Greece's Liquidity Crisis",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Greece"
+        ],
+        "ORGANIZATION": [
+          "WSJ"
+        ],
+        "DATE": [],
+        "EVENT": [
+          "Liquidity Crisis"
+        ],
+        "OTHER": []
+      },
+      "score_e5": null
+    },
+    {
+      "titre": "Grexit Still Remains the Most Likely Outcome - Newsweek",
+      "source": "Newsweek",
+      "lien": "https://www.newsweek.com/grexit-still-remains-most-likely-outcome-355824",
+      "image_url": "https://assets.newsweek.com/wp-content/uploads/2025/08/355827-0721-greece-banks.jpg?w=1600&h=900&q=88",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfVQzGELIWX3Ra-Bg8C-IipN0kp6a35IWIi5XVUdKRxYlo6eA",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Grexit Still Remains the Most Likely Outcome - Newsweek",
+        "link": "https://www.newsweek.com/grexit-still-remains-most-likely-outcome-355824",
+        "source": "Newsweek",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTL3zocgowwlqREzSUlrRnJDAiBLqRa7IRyGJKbQWRubik5gizFVgWVmngk0LMNzVXXOMre7nmZu8VIW1fqG6uflFSOeVbJy9jqZ4rAl8ASGNAnrhIe",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfVQzGELIWX3Ra-Bg8C-IipN0kp6a35IWIi5XVUdKRxYlo6eA",
+        "thumbnail_width": 186,
+        "thumbnail_height": 271,
+        "image": "https://assets.newsweek.com/wp-content/uploads/2025/08/355827-0721-greece-banks.jpg?w=1600&h=900&q=88",
+        "image_width": 1095,
+        "image_height": 1600
+      },
+      "webpage": {
+        "text": "Grexit Still Remains the Most Likely Outcome\n\nPublished\n\nJul 21, 2015 at 10:54 AM EDT\n\nupdated\n\nApr 09, 2016 at 05:15 PM EDT\n\nGreek banks reopened on Monday, but there isn't much you can do at them. Capital controls and withdrawal limits remain in effect, money transfers are barred (except for tax, social security or a few other allowed domestic transactions) and new accounts or loans effectively are ruled out.\n\nGreeks now will be able to deposit checks, access safety deposit boxes and withdraw money without an ATM card. All good things, though I suspect that any political boost from the visuals relating to reopening will proved short-lived.\n\nAmidst concern that the financing needs will outstrip the three-year, €86 billion ($93 billion) financing gap agreed last weekend, attention now turns to the €30-40 billion ($32-43 billion) European rescue facility (ESM) that must be negotiated quickly.\n\nThis occurs against an unsettled political backdrop—a second vote on July 22 on justice and banking reforms should pass, but may see more defections from the government side than last week's vote. With new elections now expected for September or October, there is a narrow window in which to get a financing agreement done.\n\nMeanwhile, industrial activity data show a continuing decline, and anecdotal evidence suggests a continuing, broad-based drop in activity. The €7.2 billion ($7.8 billion) bridge loan released today will allow the government to meet European Central Bank payments and eliminate arrears to the International Monetary Fund and Greek central bank, stepping back from one cliff.\n\nBut now the question of reactivating an economy that ground to a halt during the crisis moves to the fore, and the imposition of new taxes approved last week will not help in the near term.\n\nThe banks will remain in this semi-frozen state pending an asset review and recapitalization (and bail in of unsecured creditors) expected by early 2016. Unrealistic expectations about a return to economic normalcy may represent the most immediate threat to the program in coming days.\n\nThis is why I believe, like others (for example, here), that \"Grexit\" remains the most likely outcome. As the reality of the path the government has chosen sets in, the next month may prove the most difficult yet.\n\nRobert Kahn is Steven A. Tananbaum Senior Fellow for InternationalEconomics at the Council on Foreign Relations. This article first appeared on the Council on Foreign Relations website.",
+        "metadata": {
+          "title": "Grexit Still Remains the Most Likely Outcome - Newsweek",
+          "fb:pages": "18343191100",
+          "article:publisher": "https://www.facebook.com/Newsweek",
+          "description": "The rescue deal leaves Greece with a slumping economy and obligations that will make matters even worse.",
+          "fb:app_id": "245537789135954",
+          "og:title": "Grexit Still Remains the Most Likely Outcome",
+          "og:description": "The rescue deal leaves Greece with a slumping economy and obligations that will make matters even worse.",
+          "og:url": "http://blogs.cfr.org/kahn/2015/07/20/greece-the-hardest-month/?cid=otr-partner_site-Newsweek",
+          "og:site_name": "Newsweek",
+          "og:image": "https://assets.newsweek.com/wp-content/uploads/2025/08/355827-0721-greece-banks.jpg?w=1200&crop=1",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "0721_greece_banks",
+          "og:type": "article",
+          "twitter:title": "Grexit Still Remains the Most Likely Outcome",
+          "twitter:description": "The rescue deal leaves Greece with a slumping economy and obligations that will make matters even worse."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Grexit still remains the most likely outcome. Greek banks reopened with capital controls, withdrawal limits, barred money transfers, and restricted new accounts or loans. Greeks can deposit checks, access safety deposit boxes, and withdraw money without an ATM card. Attention turns to a three-year financing gap and an ESM European rescue facility, alongside votes on justice and banking reforms and expected new elections in September or October. A bridge loan released allows the government to meet European Central Bank payments and eliminate arrears to the International Monetary Fund and Greek central bank. Robert Kahn is Senior Fellow for International Economics at the Council on Foreign Relations.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Robert Kahn",
+          "Steven A. Tananbaum"
+        ],
+        "LOCATION": [
+          "Greece"
+        ],
+        "ORGANIZATION": [
+          "Newsweek",
+          "ESM",
+          "European Central Bank",
+          "International Monetary Fund",
+          "Council on Foreign Relations"
+        ],
+        "DATE": [
+          "Jul 21, 2015",
+          "Apr 09, 2016",
+          "Monday",
+          "July 22",
+          "September",
+          "October",
+          "early 2016",
+          "next month"
+        ],
+        "EVENT": [
+          "Grexit"
+        ],
+        "OTHER": [
+          "ATM card"
+        ]
+      },
+      "score_e5": 0.7893065558475045
+    },
+    {
+      "titre": "Greece: The Hardest Month | Council on Foreign Relations",
+      "source": "Council on Foreign Relations",
+      "lien": "https://www.cfr.org/articles/greece-hardest-month",
+      "image_url": "https://assets.cfr.org/images/t_cfr_3_2/f_auto/w_1920/v1758964411/GreekBanks/GreekBanks.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLIe71p8lD_lnqHCj-Taas2XQsDyrVcDjKKVcwXx9iEL1woxv7",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Greece: The Hardest Month | Council on Foreign Relations",
+        "link": "https://www.cfr.org/articles/greece-hardest-month",
+        "source": "Council on Foreign Relations",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQWpgPO-fKzAqpWqCHVRJaONN-Xd89hbcqEp2sMYAUWmeCBYYX4oXlXUzjhVonD5JjSQhdCLFpK1eSjpsoCb8AvGnFutt55cZrmBqH4X6-6Zg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLIe71p8lD_lnqHCj-Taas2XQsDyrVcDjKKVcwXx9iEL1woxv7",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://assets.cfr.org/images/t_cfr_3_2/f_auto/w_1920/v1758964411/GreekBanks/GreekBanks.jpg",
+        "image_width": 1279,
+        "image_height": 1920
+      },
+      "webpage": {
+        "text": "Greece: The Hardest Month\n\nBy experts and staff\n\nPublishedJuly 20, 2015 8:50 a.m.\n\nGreek banks reopened today, but there isn’t much you can do at them. Capital controls and withdrawal limits remain in effect, money transfers are barred (except for tax, social security or a few other allowed domestic transactions) and new accounts or loans effectively ruled out. Greeks now will be able to deposit checks, access safety deposit boxes, and withdraw money without an ATM card. All good things, though I suspect that any political boost from the visuals relating to reopening will proved short-lived.\n\nAmidst concern that the financing needs will outstrip the three-year, €86 billion financing gap agreed last weekend, attention now turns to the €30-40 billion European rescue facility (ESM) that must be negotiated quickly. This occurs against an unsettled political backdrop—a second vote this Wednesday on justice and banking reforms should pass, but may see more defections from the government side than last week’s vote. With new elections now expected for September or October, there is a narrow window in which to get a financing agreement done.\n\nMeanwhile, industrial activity data show a continuing decline, and anecdotal evidence suggests a continuing, broad-based drop in activity. The €7.2 billion bridge loan released today will allow the government to meet ECB payments and eliminate arrears to the IMF and Greek central bank, stepping back from one cliff. But now the question of reactivating an economy that ground to a halt during the crisis moves to the fore, and the imposition of new taxes approved last week will not help in the near term. The banks will remain in this semi-frozen state pending an asset review and recapitalization (and bail in of unsecured creditors) expected by early 2016. Unrealistic expectations about a return to economic normalcy may represent the most immediate threat to the program in coming days. This is why I believe, like others (for example, here), that “Grexit” remains the most likely outcome. As the reality of the path the government has chosen sets in, the next month may prove the most difficult yet.",
+        "metadata": {
+          "title": "Greece: The Hardest Month | Council on Foreign Relations",
+          "description": "Greek banks reopened today, but there isn’t much you can do at them. Capital controls and withdrawal limits remain in effect, money transfers are barred (except for tax, social security or a few other allowed domestic transactions) and new accounts or loans effectively ruled out. Greeks now will be able to deposit checks, access safety […]",
+          "fb:app_id": "1202896923085736",
+          "og:title": "Greece: The Hardest Month | Council on Foreign Relations",
+          "og:description": "Greek banks reopened today, but there isn’t much you can do at them. Capital controls and withdrawal limits remain in effect, money transfers are barred (except for tax, social security or a few other allowed domestic transactions) and new accounts or loans effectively ruled out. Greeks now will be able to deposit checks, access safety […]",
+          "og:image": "https://assets.cfr.org/images/t_og_image_landscape/v1758964411/GreekBanks/GreekBanks.jpg",
+          "twitter:title": "Greece: The Hardest Month | Council on Foreign Relations",
+          "twitter:description": "Greek banks reopened today, but there isn’t much you can do at them. Capital controls and withdrawal limits remain in effect, money transfers are barred (except for tax, social security or a few other allowed domestic transactions) and new accounts or loans effectively ruled out. Greeks now will be able to deposit checks, access safety […]"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "AnalysisNewsArticle",
+          "headline": "Greece: The Hardest Month",
+          "image": [
+            "https://assets.cfr.org/images/w_1200/t_cfr_16_9/f_auto/v1758964411/GreekBanks/GreekBanks.webp",
+            "https://assets.cfr.org/images/w_1200/t_cfr_4_3/f_auto/v1758964411/GreekBanks/GreekBanks.webp",
+            "https://assets.cfr.org/images/w_1200/t_cfr_1_1/f_auto/v1758964411/GreekBanks/GreekBanks.webp"
+          ],
+          "thumbnailUrl": "https://assets.cfr.org/images/w_480/t_cfr_1_1/f_auto/v1758964411/GreekBanks/GreekBanks.webp",
+          "articleSection": "Article",
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Robert Kahn"
+            }
+          ],
+          "url": "https://www.cfr.org/articles/greece-hardest-month",
+          "datePublished": "2015-07-20T08:50:52-04:00",
+          "dateModified": "2015-07-20T08:50:52-04:00",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Council on Foreign Relations",
+            "logo": "https://assets.cfr.org/dmovl8u5q/images/v1756392849/share-image_4721e2107/share-image_4721e2107.png"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Greece: The Hardest Month. Greek banks reopened with capital controls, withdrawal limits, barred money transfers, and restricted new accounts or loans, while allowing check deposits, safety deposit box access, and withdrawals without an ATM card. Attention turns to a three-year financing gap and a European rescue facility (ESM). A second vote on justice and banking reforms is scheduled for Wednesday, with new elections expected in September or October. A bridge loan released today allows the government to meet ECB payments and eliminate arrears to the IMF and Greek central bank. The article was published by experts and staff at the Council on Foreign Relations.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Greece"
+        ],
+        "ORGANIZATION": [
+          "Council on Foreign Relations",
+          "ESM",
+          "ECB",
+          "IMF",
+          "Greek central bank"
+        ],
+        "DATE": [
+          "July 20, 2015",
+          "today",
+          "last weekend",
+          "Wednesday",
+          "September",
+          "October",
+          "early 2016",
+          "next month"
+        ],
+        "EVENT": [
+          "Grexit"
+        ],
+        "OTHER": [
+          "ATM card"
+        ]
+      },
+      "score_e5": 0.805308186312046
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "Pensioners"
+    ],
+    "LOCATION": [
+      "Athens",
+      "central Athens"
+    ],
+    "ORGANIZATION": [
+      "National Bank of Greece"
+    ],
+    "DATE": [
+      "July 15 2015",
+      "the week"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "120 euros"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "European Markets",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jeroen Dijsselbloem",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Greece",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Yerevan",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Athens",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brussels",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ARMENPRESS",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Focus News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "European Central Bank",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Emergency Liquidity Assistance",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Xinhua",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Eurogroup",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Euro Working Group",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 16",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 15",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 29",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "August",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "euro zone summit",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "debit card",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Liquidity Crisis",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Robert Kahn",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steven A. Tananbaum",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Newsweek",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ESM",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "International Monetary Fund",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Council on Foreign Relations",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jul 21, 2015",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Apr 09, 2016",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 22",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "September",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "early 2016",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next month",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Grexit",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "ATM card",
+      "rangs": [
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ECB",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "IMF",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Greek central bank",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July 20, 2015",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "today",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "last weekend",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T18:49:58.970445"
+  }
+}

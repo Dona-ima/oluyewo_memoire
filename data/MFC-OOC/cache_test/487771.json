@@ -1,0 +1,377 @@
+{
+  "id_rumeur": "487771",
+  "id_image": "487771",
+  "caption": "A refugee child takes a jumper from a pile of clothes at the main railway station in Hamburg Germany",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1789122908/487771.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Germany drops plans to hold asylum-seekers in airport-style border 'transit zones'",
+      "source": "The Telegraph",
+      "lien": "https://www.telegraph.co.uk/news/worldnews/europe/germany/11979583/Germany-drops-plans-to-hold-asylum-seekers-in-airport-style-border-transit-zones.html",
+      "image_url": "https://www.telegraph.co.uk/multimedia/archive/03493/germany-refugee_3493894b.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScJYFYsLFF8Grvv-a7vG85TIAogSJMUKa7KJKHH8pZjDFzWE7L",
+      "rang_lens": 1,
+      "brut": {
+        "title": "Germany drops plans to hold asylum-seekers in airport-style border 'transit zones'",
+        "source": "The Telegraph",
+        "link": "https://www.telegraph.co.uk/news/worldnews/europe/germany/11979583/Germany-drops-plans-to-hold-asylum-seekers-in-airport-style-border-transit-zones.html",
+        "imageUrl": "https://www.telegraph.co.uk/multimedia/archive/03493/germany-refugee_3493894b.jpg",
+        "thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScJYFYsLFF8Grvv-a7vG85TIAogSJMUKa7KJKHH8pZjDFzWE7L"
+      },
+      "webpage": {
+        "text": "Access Restricted\n\nTELEGRAPH MEDIA GROUP HOLDINGS Ltd\n\n\nAccess Restricted\n\nThank you for your interest. Unauthorised access is prohibited. To access this content, you must have prior permission and a valid contract. Please contact our team at licensing@telegraph.co.uk to discuss licensing options.\n\nIf you are a Telegraph Subscriber, please contact customerservice@telegraph.co.uk , quoting the reference code on this page.\n\nReference ID: 0.405c617.1789147454.1e372e93",
+        "metadata": {
+          "title": "Access Restricted"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Germany drops plans to hold asylum-seekers in airport-style border transit zones.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Germany"
+        ],
+        "ORGANIZATION": [
+          "The Telegraph",
+          "Telegraph Media Group Holdings Ltd"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7676814325027773
+    },
+    {
+      "titre": "One woman coat drive collects 250 coats for local shelters",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/1274290836964840/posts/1274585276935396/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1296651947574977",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxHkYdkEX4W9p6d1hiNviJ5e9TzWg91AK4Y44iASbPY0jOAj7",
+      "rang_lens": 2,
+      "brut": {
+        "title": "One woman coat drive collects 250 coats for local shelters",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/groups/1274290836964840/posts/1274585276935396/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1296651947574977",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxHkYdkEX4W9p6d1hiNviJ5e9TzWg91AK4Y44iASbPY0jOAj7"
+      },
+      "webpage": {
+        "text": "Show us your special-DSM | I started a one woman coat drive 10 years ago\n\nI started a one woman coat drive 10 years ago. This year I've dropped off close to 250 coats, along with gloves, hats, scarves, mittens and socks, to local shelters in the Metro area. It's still... Lihat lainnya",
+        "metadata": {
+          "title": "Show us your special-DSM | I started a one woman coat drive 10 years ago | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTEwMDAwMDExNzc5NzM3NTpWSzoxMjc0NTg1Mjc2OTM1Mzk2",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTEwMDAwMDExNzc5NzM3NTpWSzoxMjc0NTg1Mjc2OTM1Mzk2",
+          "og:type": "video.other",
+          "og:title": "Show us your special-DSM | I started a one woman coat drive 10 years ago | Facebook",
+          "og:description": "I started a one woman coat drive 10 years ago. This year I've dropped off close to 250 coats, along with gloves, hats, scarves, mittens and socks, to local shelters in the Metro area. It's still...",
+          "og:url": "https://www.facebook.com/groups/1274290836964840/posts/1274585276935396/",
+          "og:image:alt": "Show us your special-DSM | I started a one woman coat drive 10 years ago | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10222114666054621",
+          "og:locale": "en_US",
+          "description": "I started a one woman coat drive 10 years ago. This year I've dropped off close to 250 coats, along with gloves, hats, scarves, mittens and socks, to...",
+          "twitter:title": "Show us your special-DSM | I started a one woman coat drive 10 years...",
+          "twitter:description": "I started a one woman coat drive 10 years ago. This year I've dropped off close to 250 coats, along with gloves, hats, scarves, mittens and socks, to local shelters in the Metro area. It's still..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A one-woman coat drive collected close to 250 coats, along with gloves, hats, scarves, mittens and socks, for local shelters in the Metro area.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Metro area"
+        ],
+        "ORGANIZATION": [
+          "Facebook"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7534292838599438
+    },
+    {
+      "titre": "Winter supply donations needed for homeless friends",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/opentablenashville/posts/temperatures-will-be-getting-really-low-over-the-next-week-and-we-need-winter-su/762221785931200/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156430343365426",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkEFDX5EdvLWiACmg2L6clUwME3puirvHt27k8S4EqyNMFnp7H",
+      "rang_lens": 3,
+      "brut": {
+        "title": "Winter supply donations needed for homeless friends",
+        "source": "Facebook",
+        "link": "https://www.facebook.com/opentablenashville/posts/temperatures-will-be-getting-really-low-over-the-next-week-and-we-need-winter-su/762221785931200/",
+        "imageUrl": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156430343365426",
+        "thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkEFDX5EdvLWiACmg2L6clUwME3puirvHt27k8S4EqyNMFnp7H"
+      },
+      "webpage": {
+        "text": "Temperatures will be getting...\n\nOpen Table Nashville, Inc.'s Post\n\n\n----------------------------------------\n\n\nOpen Table Nashville, Inc.\n\nJanuary 12, 2024  ·\nTemperatures will be getting really low over the next week, and we need winter supplies to distribute to our friends! Our top needs are sleeping bags, hats, gloves, blankets, and hand warmers. You can email donate@opentablenashville.org to coordinate a donation drop off or order from our Amazon wishlist to send donations directly to our door!\nAmazon wishlist: https://www.amazon.com/gp/registry/wishlist/3JTNX35QYFXMU\nSign up to be a winter canvassing volunteer: https://signup.com/.../invit.../secure/972583862040/false...\n\n\nAll reactions:\n70\n7 comments\n102 shares\n\nComment\n\nMost relevant\n﻿\n\nJen Wolczyk\nWhere is a good drop off location?\n\n * 2y\n\n1\n\n\nAuthor\nOpen Table Nashville, Inc.\nJen Wolczyk you can email donate@opentablenashville.org to coordinate a drop off!\n\n * 2y\n\n1\n\n\nPatty Murtaugh Wise\nHello - What’s your shipping address? When I add my Amazon login, it has my shipping address. I need to manually switch it to your address. Thank you!!!\n\n * 2y\n\n\nAuthor\nOpen Table Nashville, Inc.\nWe direct messaged you!\n\n * 2y",
+        "metadata": {
+          "title": "Temperatures will be getting... - Open Table Nashville, Inc.",
+          "og:type": "video.other",
+          "og:title": "Open Table Nashville, Inc.",
+          "og:description": "Temperatures will be getting really low over the next week, and we need winter supplies to distribute to our friends! Our top needs are sleeping bags, hats, gloves, blankets, and hand warmers. You...",
+          "og:url": "https://www.facebook.com/opentablenashville/posts/temperatures-will-be-getting-really-low-over-the-next-week-and-we-need-winter-su/762221785931200/",
+          "og:image:alt": "Open Table Nashville, Inc.",
+          "og:image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/485769662_1050640520422657_8693758537946928283_n.jpg?stp=dst-jpg_tt6&cstp=mx886x886&ctp=s600x600&_nc_cat=106&ccb=1-7&_nc_sid=cae128&_nc_ohc=73qiiQH2inAQ7kNvwGG9vxZ&_nc_oc=AdpCrv7CpZITR42x1B0SlevMdoqvvP1j9Ec42IPG4PVdN2-76cjjB9ELmCEa4yXzNYU&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Y-YHd6K9MRRP9bFY5DOhSA&_nc_ss=7b289&oh=00_AQKVE5hW2Kx4QGkcVWEJayCBcrHp2ItOppZgRXtPdVAvDw&oe=6AAA2249",
+          "og:locale": "en_US",
+          "description": "Temperatures will be getting really low over the next week, and we need winter supplies to distribute to our friends! Our top needs are sleeping bags,...",
+          "twitter:title": "Open Table Nashville, Inc.",
+          "twitter:description": "Temperatures will be getting really low over the next week, and we need winter supplies to distribute to our friends! Our top needs are sleeping bags, hats, gloves, blankets, and hand warmers. You...",
+          "application-title": "Facebook"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Open Table Nashville, Inc. needs winter supplies such as sleeping bags, hats, gloves, blankets, and hand warmers to distribute due to very low temperatures over the next week.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jen Wolczyk",
+          "Patty Murtaugh Wise"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Facebook",
+          "Open Table Nashville, Inc.",
+          "Amazon"
+        ],
+        "DATE": [
+          "January 12, 2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7455446909516563
+    },
+    {
+      "titre": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis",
+      "source": "Star Tribune",
+      "lien": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722",
+      "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/startribunemedia/CIRUCSYODV2GMHJ2VNPLYQE27Q.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXjhoqNF2hasahCjjHnjK2YaWiXshOqZQ2v08F6km8C_nvXcE",
+      "rang_lens": 4,
+      "brut": {
+        "title": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis",
+        "source": "Star Tribune",
+        "link": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722",
+        "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/startribunemedia/CIRUCSYODV2GMHJ2VNPLYQE27Q.jpg",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXjhoqNF2hasahCjjHnjK2YaWiXshOqZQ2v08F6km8C_nvXcE"
+      },
+      "webpage": {
+        "text": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis\n\nAn exterior inspection of the building determined that the eastern portion cannot be salvaged.\n\nThe Minnesota Star Tribune\n\nDecember 27, 2019 at 7:09AM\n\nImage 1 of 33\n\nStanding beneath the smoke-drenched skies outside the Francis Drake Hotel on Christmas morning, Dominique Howell began to feel overwhelmed with fear and uncertainty.\n\nTwo days earlier, Howell, 32, learned that she was pregnant, and now the apartment that took her months to find was ablaze with flames shooting out the windows. No one could tell her when or if she could return to the building to grab her few belongings; or how she would find a new place with a poor credit score amid a severe shortage of affordable rental units.\n\n“I feel like a refugee,” said Howell, who was busy sweeping the floors of a crowded room at Bethlehem Baptist Church in downtown Minneapolis on Thursday. She and more than 100 others evacuated from the hotel slept there Christmas night. “It’s hard to wrap my head around the fact that I’ve lost everything and there is no plan for a better living situation.”\n\nEven before the flames ignited the Drake Hotel in a Christmas Day blaze, there was a state of crisis for people struggling to find affordable housing.\n\nThe county’s population of homeless adults has surged 40% in the past year, and the housing crisis had grown so dire that Gov. Tim Walz had just announced a new public-private sector partnership to secure millions of dollars to expand the state’s emergency shelter capacity.\n\nAnd then came the fire, destroying an aging building that served as the county’s only overflow shelter for families with children experiencing homelessness.\n\nFire crews finally vanquished the blaze at 416 S. 10th St. midday Thursday, but not before the city of Minneapolis used its emergency authority to order the demolition of part of the hotel, which opened in 1926.\n\n\nOvernight, a crisis worsens\n\n\nOvernight, a vital piece of the emergency shelter system — a facility that, at its peak, housed 133 families who might otherwise be sleeping in the streets — was gone, and city and county officials were scrambling to find new transitional housing within an already overstretched system.\n\nThe 111 people who evacuated from the Drake spent the night on cots in the assembly hall at Bethlehem Baptist Church. Half were children.\n\nThe Red Cross spoke with two other facilities that offered to help people in the longer-term and was working Thursday to determine which one would be the best fit, said regional CEO Phil Hansen.\n\nIt is still unclear, however, how the county will find new transitional housing to replace the Drake, which was considered the “shelter of last resort” for parents with children experiencing homelessness.\n\nMost of the large shelters in the Twin Cities metro area, such as the Higher Ground Shelter and Salvation Army’s Harbor Light Center, accommodate single adults and do not accept families.\n\nAbout noon Thursday, children at the shelter were still running around in their pajamas, filled with nervous energy.\n\n“This persistent homelessness and the issue of housing becomes starkly real here,” Walz said after walking amid the cots and talking to displaced residents at the church. “We knew it was out there. It’s always around us. But a lot of times, without these tragedies, it may not come home to people the same way.”\n\nMike Herzing, who oversees safety and stability issues for Hennepin County Human Services, said staff had already begun assessing people’s needs.\n\nIn the short term, they’ll try to work within the county’s family shelter system.\n\n“The Drake served as the overflow,” he said. “As our family shelters filled up, the Drake was there to accept people who had no other places to go.”\n\nPeople at the church have been asking when they can return to the Drake Hotel to get their belongings.\n\nBut the eastern half is too dangerous to leave standing, according to the city.\n\nMinneapolis Community Planning and Economic Development Director David Frank said he was on the site with others from the city and made the determination for a partial demolition based on what they could see from the outside.\n\nThe eastern roof of the three-story building collapsed during the fire, and then the third floor collapsed onto the second.\n\nThe second floor filled with water and debris, causing the walls to bow out with bricks being pushed loose from the wall.\n\nGiven the danger to the public — who will soon be walking and driving past — the right thing is to take down that portion of the building, Frank said.\n\nAfter contractors begin their work, he said, they’ll know more about whether the remainder of it should be demolished.\n\nThe Drake Hotel is owned by Leamington Co. Brian Short, the company’s CEO, said Thursday afternoon that he hadn’t yet been allowed inside but thought it “looks like the correct decisions are being made.”\n\n“I’m very grateful that there was apparently no loss of life, but incredibly sad that people who live in the margins of society lost everything,” Short said.\n\nIt’s unclear what caused the fire. Investigators from the city and the State Fire Marshal’s office finished their on-scene work just before 1 p.m. Thursday. Minneapolis Fire Chief John Frue- tel said he expects investigators to release a formal report in a few days.\n\n\nInspection history\n\n\nUnder state law, the State Fire Marshal Division is required to inspect the hotel every three years.\n\nThe most recent inspection, on Nov. 9, 2018, found eight code violations, state records show.\n\nThe inspector ordered the building owner to remove obstructions blocking exits, display evacuation diagrams in guest rooms, ensure sprinkler systems were installed correctly in required areas and repair electrical hazards.\n\nWhen the inspector returned for a follow-up in June, all of those violations had been fixed, said Jen Long-aecker, spokeswoman for the Minnesota Department of Public Safety.\n\nMany people displaced by the fire expressed their frustration and bitterness over conditions at the Drake Hotel.\n\nHowell said she and her boyfriend moved into the Drake a year and a half ago because they were told it was “affordable and safe.”\n\nShe said there were cockroaches in the bedroom, mice that scratched and scurried in the walls at night, and water that ran brown from the faucets. The roof of the lobby leaked.\n\nEven so, Howell said, she paid a monthly rent of $860, which is most of what she earns as a cook at a local restaurant.\n\n“That place was so rundown it should have been condemned years ago,” she said. “It was not fit for human habitation.”\n\nShort said that his company has leased the building to Drake Hotel Properties for roughly 20 years and that “upkeep is really their responsibility,” though his company does inspect the building “periodically.”\n\nDavid Anderson, an attorney for Drake Hotel Properties, said he did not have information about any complaints like what Howell reported, but that the CEO, Tim Treiber, worked diligently to fix anything that was flagged during inspections by the required dates. In September, a city inspector noted mouse droppings.\n\nAnderson described the fire as a “triple tragedy.” Many of the employees also lived on-site and are now homeless, too, he said.\n\n“Moving into the future, hopefully there will be a home for them,” he said.\n\nStaff writer Andy Mannix contributed to this report.\n\n\nExpanded image view\n\n",
+        "metadata": {
+          "title": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis",
+          "description": "An exterior inspection of the building determined that the eastern portion cannot be salvaged.",
+          "author": "Chris Serres",
+          "cXenseParse:author": "Chris Serres, Liz Navratil, Rochelle Olson",
+          "article:author": "Rochelle Olson",
+          "og:book:author": "Chris Serres",
+          "book:author": "Chris Serres",
+          "article.author": "Chris Serres",
+          "og:title": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis",
+          "og:description": "An exterior inspection of the building determined that the eastern portion cannot be salvaged.",
+          "og:url": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722",
+          "og:image": "https://arc.stimg.co/startribunemedia/MSEK2X6DONVNS7JEF6AETGLHIQ.jpg?&w=1200&ar=1.91:1&fit=crop",
+          "og:image:alt": "Fire investigators head into the Francis Drake Hotel apartments, gutted during a Christmas Day fire.",
+          "og:image:type": "image/jpeg",
+          "og:image:secure_url": "https://arc.stimg.co/startribunemedia/MSEK2X6DONVNS7JEF6AETGLHIQ.jpg?&w=1200&ar=1.91:1&fit=crop",
+          "og:type": "article",
+          "article:published_time": "2019-12-27T13:09:31.000Z",
+          "article:section": "Minneapolis",
+          "twitter:title": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis",
+          "twitter:description": "An exterior inspection of the building determined that the eastern portion cannot be salvaged.",
+          "al:ios:url": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722",
+          "al:ios:app_store_id": "476107280",
+          "al:ios:app_name": "The Minnesota Star Tribune",
+          "al:android:url": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722",
+          "al:android:package": "com.startribune.android.newsclient",
+          "al:android:app_name": "The Minnesota Star Tribune",
+          "al:web:url": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722",
+          "al:web:should_fallback": "true"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": "Uprooted by fire, dozens of homeless families face an uncertain future amid housing crisis",
+          "description": "An exterior inspection of the building determined that the eastern portion cannot be salvaged.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.startribune.com/uprooted-by-fire-dozens-of-homeless-families-face-an-uncertain-future-amid-housing-crisis/566490722"
+          },
+          "datePublished": "2019-12-27T13:09:31.000Z",
+          "dateModified": "2025-10-21T16:16:45.161Z",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/startribunemedia/MSEK2X6DONVNS7JEF6AETGLHIQ.jpg",
+            "width": 1024,
+            "height": 765
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "The Minnesota Star Tribune",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.startribune.com/star-tribune-logo.svg",
+              "width": 54,
+              "height": 54
+            }
+          },
+          "keywords": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Chris Serres",
+              "url": "/author/chris-serres/6370536",
+              "jobTitle": "Reporter",
+              "description": "<strong>Chris Serres</strong> is a staff writer for the Star Tribune who covers social services."
+            },
+            {
+              "@type": "Person",
+              "name": "Liz Navratil",
+              "url": "/author/liz-navratil/6370437",
+              "image": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/startribunemedia/260f11f9-50d8-4960-a553-0c62e613bec8.png",
+              "jobTitle": "Reporter",
+              "description": "<strong>Liz Navratil </strong>covers communities in the western Twin Cities metro area. She previously covered Minneapolis City Hall as leaders responded to the coronavirus pandemic and George Floyd’s murder. "
+            },
+            {
+              "@type": "Person",
+              "name": "Rochelle Olson",
+              "url": "/author/rochelle-olson/6370582",
+              "image": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/startribunemedia/45da3960-595c-4e08-88e9-c7ad90369c84.png",
+              "jobTitle": "Editorial Columnist",
+              "description": "Rochelle Olson is a columnist on the Minnesota Star Tribune Editorial Board focused on politics and governance."
+            }
+          ],
+          "articleSection": "Minneapolis",
+          "isAccessibleForFree": false,
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".paywalled-content"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Dozens of homeless families were uprooted by a fire that destroyed the Francis Drake Hotel in Minneapolis on Christmas Day, forcing evacuees to stay at Bethlehem Baptist Church amid a severe housing crisis.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Dominique Howell",
+          "Tim Walz",
+          "Phil Hansen"
+        ],
+        "LOCATION": [
+          "Minneapolis",
+          "Twin Cities metro area",
+          "Francis Drake Hotel",
+          "Bethlehem Baptist Church",
+          "416 S. 10th St."
+        ],
+        "ORGANIZATION": [
+          "Star Tribune",
+          "Minnesota Star Tribune",
+          "Red Cross",
+          "Higher Ground Shelter",
+          "Salvation Army's Harbor Light Center"
+        ],
+        "DATE": [
+          "December 27, 2019",
+          "Christmas morning",
+          "Christmas Day",
+          "Thursday",
+          "1926",
+          "the past year"
+        ],
+        "EVENT": [
+          "Christmas Day blaze"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7214408572356381
+    },
+    {
+      "titre": "RiseUpForTheChildren 💪 Had such an amazing time meeting Maycee Barber (@mayceebarber) and fighting for the end of human trafficking with @goya & @ourrescue! #endhumantrafficking⁣ ⁣ #GoyaCares⁣ #childtrafficking⁣ #undergroundrailroad⁣ #ourrescue ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/p/CSIqqSYF4NR/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2786705347354140364",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAiEPoI4wrPUXj_QMsyi-TGoI6k_c7CdUkg-nWhQMyZT7GbR9",
+      "rang_lens": 5,
+      "brut": {
+        "title": "RiseUpForTheChildren 💪 Had such an amazing time meeting Maycee Barber (@mayceebarber) and fighting for the end of human trafficking with @goya & @ourrescue! #endhumantrafficking⁣ ⁣ #GoyaCares⁣ #childtrafficking⁣ #undergroundrailroad⁣ #ourrescue ...",
+        "source": "Instagram",
+        "link": "https://www.instagram.com/p/CSIqqSYF4NR/",
+        "imageUrl": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2786705347354140364",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAiEPoI4wrPUXj_QMsyi-TGoI6k_c7CdUkg-nWhQMyZT7GbR9"
+      },
+      "webpage": null,
+      "texte_contexte": "Meeting Maycee Barber and fighting to end human trafficking with Goya and Our Rescue.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Maycee Barber"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Instagram",
+          "Goya",
+          "Our Rescue"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7423869251893159
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [
+      "refugee child"
+    ],
+    "LOCATION": [
+      "Hamburg",
+      "Germany"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "main railway station",
+      "jumper",
+      "clothes"
+    ]
+  },
+  "entites_dominantes": {
+    "PERSON": [],
+    "LOCATION": [],
+    "ORGANIZATION": [
+      "Facebook"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "comparaison_entites": {
+    "PERSON": 0,
+    "LOCATION": 0,
+    "ORGANIZATION": 0,
+    "DATE": 0,
+    "EVENT": 0,
+    "OTHER": 0
+  },
+  "S_sem": 0.7676814325027773,
+  "S_ent": 0.0,
+  "S_OOC": 0.38384071625138866,
+  "classe_predite": "ooc",
+  "categories_comparables": [
+    "PERSON",
+    "LOCATION",
+    "ORGANIZATION",
+    "OTHER"
+  ]
+}

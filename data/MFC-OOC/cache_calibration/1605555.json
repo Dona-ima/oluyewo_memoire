@@ -1,0 +1,905 @@
+{
+  "id_rumeur": 1605555,
+  "id_image": 584329,
+  "caption": "The strikes were the first time US forces have been directly involved in a military operation in Iraq since 2011",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748193/oluyewo_benchmark/hibkvefwn6ou78gyvhvi.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Gaza's economy could take decades to recover, UN trade body ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/world/middle-east/gazas-economy-could-take-decades-recover-un-trade-body-says-2024-01-31/",
+      "image_url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CJPG2L5G45NCDK5IJNC5XT2ORA.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMA13sTBeO0kFPPz-tCFwGs9FBFYCRSGHaE0CDsCAOj2jhSYTn",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Gaza's economy could take decades to recover, UN trade body ...",
+        "link": "https://www.reuters.com/world/middle-east/gazas-economy-could-take-decades-recover-un-trade-body-says-2024-01-31/",
+        "source": "Reuters",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEzWQADVQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQADWQADWQADWQAB9OIA5AAAAD3RSTlMAMQVhIxd1uQ2lSc2N4_TJiz7UAAABMklEQVQokW1T2QLDIAjDu578_9-Oo63O6kPnDGAIEeBvNWz0DRa-y2X6ICIHofnAF2IEqFglKH3zuyQZ2VGoLwv2X-5qEQoVeVkUzHu1Srh7_vjhdjwTXvZDRym-et7aKp0uKwRKyhLzlI1WLpdAw007Ogi0F74ecdBPYkkAovSvK-X7BOku07Vg2jSxAbFPBfxOlnSYDZC61wr18SYmicKxwpCFQUkGxqLjXp8b6Ep_h-Q2JhiaNFvrH3ctalp4To64lopfs4Cd3eDtJjszehe48QRJZRW2vvo9UqvNqAFhQfODwuYJXnSnceuojYXrSXQ0492blsw0tES-oPSDbQ6GbvMNHPG8vJHOhHJ6Rxz02rm8PCoaoWWHldNIsjy9wUHxNNIw2LgSBCfFb6pqxpn-A6mRC0oo2BsaAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMA13sTBeO0kFPPz-tCFwGs9FBFYCRSGHaE0CDsCAOj2jhSYTn",
+        "thumbnail_width": 182,
+        "thumbnail_height": 277,
+        "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CJPG2L5G45NCDK5IJNC5XT2ORA.jpg",
+        "image_width": 1808,
+        "image_height": 2756
+      },
+      "webpage": null,
+      "texte_contexte": "Reuters article titled 'Gaza's economy could take decades to recover, UN trade body' published on January 31, 2024.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Gaza"
+        ],
+        "ORGANIZATION": [
+          "Reuters",
+          "UN trade body"
+        ],
+        "DATE": [
+          "January 31, 2024",
+          "2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7038936552998327
+    },
+    {
+      "titre": "Biden warns Israel is losing global support over ...",
+      "source": "PBS",
+      "lien": "https://www.pbs.org/newshour/show/biden-warns-israel-is-losing-global-support-over-indiscriminate-bombing-in-gaza",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/gaza-5-1024x768.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2dP_RMRC5GS71X9R0gDFb8EOx57Zu2sB6piJbiNFlYYGOAnY",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Biden warns Israel is losing global support over ...",
+        "link": "https://www.pbs.org/newshour/show/biden-warns-israel-is-losing-global-support-over-indiscriminate-bombing-in-gaza",
+        "source": "PBS",
+        "source_icon": "https://serpapi.com/searches/6a8ef8fcc29c3d9715d36885/images/50kWtNSWaW1MMQYr3F2JdmJgO_U4yQa5h4KdZIgMOdk.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE2dP_RMRC5GS71X9R0gDFb8EOx57Zu2sB6piJbiNFlYYGOAnY",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/gaza-5-1024x768.jpg",
+        "image_width": 768,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "Biden warns Israel is losing global support over 'indiscriminate bombing' in Gaza\n\nThe UN General Assembly approved a measure calling for a humanitarian ceasefire in Gaza. The U.S. was one of ten nations to vote against the non-binding resolution. Before the vote, President Biden said Israeli Prime Minister Benjamin Netanyahu needs to change his hardline government, adding that Israel is losing global support due to its “indiscriminate bombing” in Gaza. Geoff Bennett reports.\n\nNotice: Transcripts are machine and human generated and lightly edited for accuracy. They may contain errors.\n\nGeoff Bennett:\n\nThe United Nations General Assembly has overwhelmingly approved a measure calling for a humanitarian cease-fire in Gaza.\n\nThe U.S. was one of 10 nations to vote against the nonbinding resolution. Before today's vote, President Joe Biden said Israeli Prime Minister Benjamin Netanyahu needs to change his hard-line government, adding that Israel is losing global support due to what he called its indiscriminate bombing in Gaza.\n\nPresident Biden's off-camera remarks to Democratic donors in Washington today are the latest sign of increasing U.S. concern about Israel's bombing campaign in Gaza, which has killed thousands of Palestinian civilians.\n\n\"Bibi's got a tough decision to make,\" the president said of Israel's prime minister. \"This is the most conservative government in Israel's history,\" said Mr. Biden, adding that the Netanyahu-led coalition doesn't want a two-state solution, Washington's preferred outcome after the war with Hamas.\n\nThe president also said Israel is starting to lose support around the world, saying of Netanyahu: \"I think he has to change, and with this government, this government in Israel is making it very difficult for him to move.\"\n\nEarlier today, Netanyahu said Israel enjoys U.S. support for its goal of destroying Hamas, while he acknowledged differing views about a plan for after the war.\n\nBenjamin Netanyahu, Israeli Prime Minister (through interpreter):\n\nYes, there are disputes about the day after Hamas, and I hope we will reach an agreement here as well. I will not allow that, after the great sacrifice of our citizens and fighters, we bring into Gaza those who teach terrorism, support terrorism, finance terrorism.\n\nGeoff Bennett:\n\nIt all comes as Israel's siege on Gaza today continued in all directions.\n\nTawfik Abu Breika, Gaza Strip Resident (through interpreter):\n\nThe world's conscience is dead, no humanity or any kind of morals.\n\nGeoff Bennett:\n\nFrom the north, Israeli soldiers pushed their ground invasion further into the Gaza Strip, as hospitals struggle to keep up with the injured and often orphaned children now in their care.\n\nRazan Shabat, Palestinian Orphan (through interpreter):\n\nI wish the war ends and we go back to our relatives and our home and that's it.\n\nGeoff Bennett:\n\nTen-year-old Razan Shabat lost her parents, two siblings and other members of her extended family in an Israeli airstrike.\n\nDr. Younis Al-Ajla, Gaza (through interpreter):\n\nA lot of children who come here, we don't know their names. And we write \"Unknown\" on their entry files until someone comes and recognizes them, including the patient, you mentioned her earlier, Razan Sameer Shabat. She was unknown for days and days in the cardiac ICU until a relative came and recognized her.\n\nGeoff Bennett:\n\nBut the strikes keep coming, filling streets with smoke and debris and leaving Palestinians without homes and increasingly hope.",
+        "metadata": {
+          "title": "Biden warns Israel is losing global support over 'indiscriminate bombing' in Gaza | PBS News",
+          "description": "The UN General Assembly approved a measure calling for a humanitarian ceasefire in Gaza. The U.S. was one of ten nations to vote against the non-binding resolution. Before the vote, President Biden said Israeli Prime Minister Benjamin Netanyahu needs to change his hardline government, adding that Israel is losing global support due to its “indiscriminate bombing” in Gaza. Geoff Bennett reports.",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:site_name": "PBS News",
+          "og:title": "Biden warns Israel is losing global support over 'indiscriminate bombing' in Gaza",
+          "og:description": "The UN General Assembly approved a measure calling for a humanitarian ceasefire in Gaza. The U.S. was one of ten nations to vote against the non-binding resolution. Before the vote, President Biden said Israeli Prime Minister Benjamin Netanyahu needs to change his hardline government, adding that Israel is losing global support due to its “indiscriminate bombing” in Gaza. Geoff Bennett reports.",
+          "og:image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/gaza-5-1024x768.jpg",
+          "og:image:height": "768",
+          "og:image:width": "1024",
+          "og:url": "https://www.pbs.org/newshour/show/biden-warns-israel-is-losing-global-support-over-indiscriminate-bombing-in-gaza",
+          "article:publisher": "https://www.facebook.com/newshour/",
+          "article:published_time": "2023-12-12T18:50:32-04:00",
+          "article:section": "World",
+          "article:tag": "benjamin netanyahu, gaza, israel-hamas war, joe biden, palestinians, united nations",
+          "fb:app_id": "114150878604116",
+          "fb:pages": "6491828674",
+          "twitter:title": "Biden warns Israel is losing global support over 'indiscriminate bombing' in Gaza",
+          "twitter:description": "The UN General Assembly approved a measure calling for a humanitarian ceasefire in Gaza. The U.S. was one of ten nations to vote against the non-binding resolution. Before the vote, President Biden said Israeli Prime Minister Benjamin Netanyahu needs to change his hardline government, adding that Israel is losing global support due to its “indiscriminate bombing” in Gaza. Geoff Bennett reports.",
+          "news_keywords": "benjamin netanyahu, gaza, israel-hamas war, joe biden, palestinians, united nations, world"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "PBS report discussing President Joe Biden's warnings that Israel is losing global support over its indiscriminate bombing in Gaza. The UN General Assembly approved a non-binding resolution calling for a humanitarian ceasefire, with the U.S. voting against it. Mentions Prime Minister Benjamin Netanyahu, U.S. concerns about civilian casualties, the Netanyahu-led coalition, Hamas, and ground operations in the Gaza Strip affecting hospitals and civilians such as Razan Shabat.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Joe Biden",
+          "Benjamin Netanyahu",
+          "Geoff Bennett",
+          "Tawfik Abu Breika",
+          "Razan Shabat",
+          "Younis Al-Ajla"
+        ],
+        "LOCATION": [
+          "Israel",
+          "Gaza",
+          "Washington",
+          "Gaza Strip"
+        ],
+        "ORGANIZATION": [
+          "PBS",
+          "UN",
+          "United Nations General Assembly",
+          "U.S.",
+          "Democratic Party",
+          "Hamas"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7340989726016278
+    },
+    {
+      "titre": "Israeli strikes kill at least 100 in Gaza as status of 3 ...",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/world/middle-east/israel-gaza-war-strikes-children-killed-hostages-netanyahu-rcna205526",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-05/250508-gaza-mb-1037-ab3bd5.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHAdRcA3vrFRBI5k2CG_P-DMGgeNziGzuJGZumvt4183MAR9nn",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Israeli strikes kill at least 100 in Gaza as status of 3 ...",
+        "link": "https://www.nbcnews.com/world/middle-east/israel-gaza-war-strikes-children-killed-hostages-netanyahu-rcna205526",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8ef8fcc29c3d9715d36885/images/FjOYMqZFJJCun49usE3n2-ZlQNXTbX_l3CiD5r5bP_8.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHAdRcA3vrFRBI5k2CG_P-DMGgeNziGzuJGZumvt4183MAR9nn",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-05/250508-gaza-mb-1037-ab3bd5.jpg",
+        "image_width": 507,
+        "image_height": 760
+      },
+      "webpage": {
+        "text": "Israeli strikes kill at least 100 in Gaza as status of 3 living hostages remains 'uncertain'\n\nMay 8, 2025, 9:47 AM EDT\n\nFears of famine in the Gaza Strip grew Thursday as a major aid group said it had run out of food amid Israeli strikes that killed at least 100 people, including children, across the besieged Palestinian enclave.\n\nScores more were injured in the bombardments across the strip, according to the Palestinian Health Ministry in the enclave, which has been run by Hamas since 2007.\n\nThe bodies of young children could be seen lying among the dead at Al-Shifa Hospital in Gaza City, in footage taken by an NBC News’ crew on the ground shortly after strikes rained down on the north of the enclave.\n\nOne woman said her grandson had been killed in one of the attacks.\n\n“Why are they killing us?” she said. “There are no rockets here, no fighters.” She added that there was “no food, no water, nothing” available in Gaza.\n\n\nAid groups are warning of an increasingly dire humanitarian crisis in Gaza as Israel’s blockade on food and aid enters its third month.\n\nAs a result, leading aid group World Central Kitchen said in a statement Wednesday that it has been forced to suspend operations and shutter its community kitchens, as it faced empty warehouses and no replenishment of supplies. The group said it had served 133,000 meals per day and baked 80,000 loaves of bread over the past few weeks.\n\nAbeer Etefa, a spokesperson for the World Food Programme (WFP), told NBC News on Wednesday that a famine had “not yet” been declared. But she said an analysis would be released next week by the Integrated Food Security Phase Classification, which sets a scale the United Nations and governments use to assess hunger.\n\nThe WFP warned last month that it had run out of its last remaining food stocks for hot meal kitchens in the Gaza Strip. More than 116,000 metric tons of food assistance, enough to feed 1 million people for up to four months, was waiting at aid corridors to be allowed into the enclave, it added.\n\nPalestinian health officials say the Israeli offensive has killed more than 52,000 people in the Gaza Strip since Oct. 7, 2023, when Hamas-led attacks on Israel killed 1,200 people and 250 taken were taken hostage, according to Israeli officials.\n\n\nThe mounting crisis in Gaza came as Israeli Prime Minister Benjamin Netanyahu on Wednesday confirmed statements from President Donald Trump this week suggesting that three of the 24 hostages believed to remain alive in Hamas’ captivity may be dead.\n\nTrump sparked confusion among the families of the hostages Tuesdayby sayingthat the number of hostages believed to still be alive in Gaza had fallen to 21, from 24, without providing details.\n\nNetanyahu on Wednesday confirmed that the status of three hostages believed to be in Gaza was now “uncertain,” adding: “We know for certain that 21 hostages are alive, there’s no dispute about that.”\n\nIt comes as Trump prepares for a visit to the Middle East next week, with trips planned to both Saudi Arabia, the United Arab Emirates and Qatar. He is not scheduled to visit Israel during the trip.\n\n\nDanny Danon, Israel’s ambassador to the United Nations, said he met with Trump’s Middle East envoy Wednesday. He said in a post on X that they had an “important discussion on regional developments.”\n\nAsked by reporters at the White House on Monday whether there was progress toward a new deal between Israel and Hamas to end fighting in the enclave and release the remaining hostages, Trump did not directly respond.\n\n“There’s a lot of talk going on about Gaza right now. You know that, right?” he said, adding, “You’ll be knowing probably in the next 24 hours.”",
+        "metadata": {
+          "title": "Live",
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "Chantal Da Silva | Abigail Williams",
+          "description": "Fears of famine in the Gaza Strip grew Thursday as a major aid group said it had run out of food amid Israeli strikes that killed at least 100 people.",
+          "og:url": "https://www.nbcnews.com/world/middle-east/israel-gaza-war-strikes-children-killed-hostages-netanyahu-rcna205526",
+          "og:title": "Israeli strikes kill at least 100 in Gaza as status of 3 living hostages remains 'uncertain'",
+          "og:description": "Leading aid group World Central Kitchen said that it has been forced to suspend its operations in the Gaza Strip and shutter its community kitchens.",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250508-gaza-mb-1036-518f48.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250508-gaza-mb-1036-518f48.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Israeli strikes kill at least 100 in Gaza as status of 3 living hostages remains 'uncertain'",
+          "branch:deeplink:description": "Leading aid group World Central Kitchen said that it has been forced to suspend its operations in the Gaza Strip and shutter its community kitchens.",
+          "twitter:title": "Israeli strikes kill at least 100 in Gaza as status of 3 living hostages remains 'uncertain'",
+          "twitter:description": "Leading aid group World Central Kitchen said that it has been forced to suspend its operations in the Gaza Strip and shutter its community kitchens.",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2025-05-08T13:47:17.852Z",
+          "article:modified_time": "2025-05-08T13:58:12.870Z",
+          "branch:deeplink:authorThumbnail1": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2024_32/3658438/240730-chantal-da-silva.jpg",
+          "branch:deeplink:authorName1": "Chantal Da Silva"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Israeli strikes kill at least 100 in Gaza as status of 3 living hostages remains 'uncertain'",
+          "url": "https://www.nbcnews.com/world/middle-east/israel-gaza-war-strikes-children-killed-hostages-netanyahu-rcna205526",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2025-05/250508-gaza-mb-1036-518f48.jpg",
+          "alternativeHeadline": "Israeli strikes kill at least 100 in Gaza as status of 3 living hostages remains 'uncertain'",
+          "articleBody": "Fears of famine in the Gaza Strip grew Thursday as a major aid group said it had run out of food amid Israeli strikes that killed at least 100 people, including children, across the besieged Palestinian enclave.   Scores more were injured in the bombardments across the strip, according to the Palestinian Health Ministry in the enclave, which has been run by Hamas since 2007.  The bodies of young children could be seen lying among the dead at Al-Shifa Hospital in Gaza City, in footage taken by an NBC News’ crew on the ground shortly after strikes rained down on the north of the enclave.  One woman said her grandson had been killed in one of the attacks.  “Why are they killing us?” she said. “There are no rockets here, no fighters.” She added that there was “no food, no water, nothing” available in Gaza.  Aid groups are warning of an increasingly dire humanitarian crisis in Gaza as Israel’s blockade on food and aid enters its third month.  As a result, leading aid group World Central Kitchen said in a statement Wednesday that it has been forced to suspend operations and shutter its community kitchens, as it faced empty warehouses and no replenishment of supplies. The group said it had served 133,000 meals per day and baked 80,000 loaves of bread over the past few weeks. Abeer Etefa, a spokesperson for the World Food Programme (WFP), told NBC News on Wednesday that a famine had “not yet” been declared. But she said an analysis would be released next week by the Integrated Food Security Phase Classification, which sets a scale the United Nations and governments use to assess hunger.  The WFP warned last month that it had run out of its last remaining food stocks for hot meal kitchens in the Gaza Strip. More than 116,000 metric tons of food assistance, enough to feed 1 million people for up to four months, was waiting at aid corridors to be allowed into the enclave, it added.  Palestinian health officials say the Israeli offensive has killed more than 52,000 people in the Gaza Strip since Oct. 7, 2023, when Hamas-led attacks on Israel killed 1,200 people and 250 taken were taken hostage, according to Israeli officials. The mounting crisis in Gaza came as Israeli Prime Minister Benjamin Netanyahu on Wednesday confirmed statements from President Donald Trump this week suggesting that three of the 24 hostages believed to remain alive in Hamas’ captivity may be dead. Trump sparked confusion among the families of the hostages Tuesday by saying that the number of hostages believed to still be alive in Gaza had fallen to 21, from 24, without providing details. Netanyahu on Wednesday confirmed that the status of three hostages believed to be in Gaza was now “uncertain,” adding: “We know for certain that 21 hostages are alive, there’s no dispute about that.” It comes as Trump prepares for a visit to the Middle East next week, with trips planned to both Saudi Arabia, the United Arab Emirates and Qatar. He is not scheduled to visit Israel during the trip.  Danny Danon, Israel’s ambassador to the United Nations, said he met with Trump’s Middle East envoy Wednesday. He said in a post on X that they had an “important discussion on regional developments.” Asked by reporters at the White House on Monday whether there was progress toward a new deal between Israel and Hamas to end fighting in the enclave and release the remaining hostages, Trump did not directly respond.   “There’s a lot of talk going on about Gaza right now. You know that, right?” he said, adding, “You’ll be knowing probably in the next 24 hours.”",
+          "dateModified": "2025-05-08T13:47:17.852Z",
+          "datePublished": "2025-05-08T13:47:17.852Z",
+          "articleSection": "world",
+          "articleId": "rcna205526",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "rcna205526"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-05/250508-gaza-mb-1036-518f48.jpg",
+            "caption": "A Palestinian man reacts following an Israeli strike on a Thai restaurant in Gaza City on Wednesday.",
+            "height": 1667,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Chantal Da Silva",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2024_32/3658438/240730-chantal-da-silva.jpg",
+              "jobTitle": null,
+              "description": "Chantal Da Silva reports on world news for NBC News Digital and is based in London.",
+              "url": "https://www.nbcnews.com/author/chantal-da-silva-ncpn1269216"
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": "Fears of famine in the Gaza Strip grew Thursday as a major aid group said it had run out of food amid Israeli strikes that killed at least 100 people.",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.nbcnews.com/world/middle-east/israel-gaza-war-strikes-children-killed-hostages-netanyahu-rcna205526"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true,
+          "contributor": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "Abigail Williams",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2020_02/3181676/abigail-williams-circle-byline-template.jpg",
+              "jobTitle": "Coordinating Producer and Off‑Air Reporter",
+              "description": "Abigail Williams is a producer and reporter for NBC News covering the State Department.",
+              "url": "https://www.nbcnews.com/author/abigail-williams-ncpn99346"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "NBC News report from May 8, 2025, stating Israeli strikes killed at least 100 people in Gaza, raising famine fears as aid groups run out of food. Mentions Al-Shifa Hospital in Gaza City, World Central Kitchen suspending operations, the World Food Programme (WFP), the Palestinian Health Ministry, and the Integrated Food Security Phase Classification. Also covers statements by Prime Minister Benjamin Netanyahu and President Donald Trump regarding the uncertain status of three living hostages in Hamas captivity out of 24 remaining alive, following the October 7, 2023 attacks.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Abeer Etefa",
+          "Benjamin Netanyahu",
+          "Donald Trump"
+        ],
+        "LOCATION": [
+          "Gaza",
+          "Gaza Strip",
+          "Gaza City",
+          "Middle East"
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Palestinian Health Ministry",
+          "Hamas",
+          "Al-Shifa Hospital",
+          "World Central Kitchen",
+          "World Food Programme",
+          "Integrated Food Security Phase Classification",
+          "United Nations"
+        ],
+        "DATE": [
+          "May 8, 2025",
+          "2007",
+          "Wednesday",
+          "Thursday",
+          "October 7, 2023",
+          "next week"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7113927789982564
+    },
+    {
+      "titre": "Nearly a fifth of Gaza's buildings destroyed or damaged: UN ...",
+      "source": "Reuters",
+      "lien": "https://www.reuters.com/world/middle-east/nearly-fifth-gazas-buildings-destroyed-or-damaged-un-estimate-2023-12-12/",
+      "image_url": "https://www.reuters.com/resizer/v2/F3LFXQSXLNL7PIQI2P52FAHWNA.jpg?auth=8e8a0fd61191a9597f68fb212f3130997f43293dbc590854b1fab9649723a4a6&height=1500&width=1200&quality=80&smart=true",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQwHkvGse-8nJ1OngdHu_6lcQhOYA_TShzW-tloWVumjpfW7ii",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Nearly a fifth of Gaza's buildings destroyed or damaged: UN ...",
+        "link": "https://www.reuters.com/world/middle-east/nearly-fifth-gazas-buildings-destroyed-or-damaged-un-estimate-2023-12-12/",
+        "source": "Reuters",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTNHh6oiaXzUIwxZSM0gUOrc7N7g2N8RKkqbWOzXvOso5vcZ8DTO8KL450TYRQU_6wWHhohpQncTnHivZOyNKNUZXHsNglCx-gji29ZNZahhZ4HRxc",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQwHkvGse-8nJ1OngdHu_6lcQhOYA_TShzW-tloWVumjpfW7ii",
+        "thumbnail_width": 251,
+        "thumbnail_height": 201,
+        "image": "https://www.reuters.com/resizer/v2/F3LFXQSXLNL7PIQI2P52FAHWNA.jpg?auth=8e8a0fd61191a9597f68fb212f3130997f43293dbc590854b1fab9649723a4a6&height=1500&width=1200&quality=80&smart=true",
+        "image_width": 1500,
+        "image_height": 1200
+      },
+      "webpage": null,
+      "texte_contexte": "Reuters report from December 12, 2023, regarding a UN estimate that nearly a fifth of Gaza's buildings were destroyed or damaged.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Gaza"
+        ],
+        "ORGANIZATION": [
+          "Reuters",
+          "UN"
+        ],
+        "DATE": [
+          "December 12, 2023"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.698691911649293
+    },
+    {
+      "titre": "Israeli military strikes southern suburb of Beirut before ...",
+      "source": "WKMG",
+      "lien": "https://www.clickorlando.com/news/2026/05/28/israeli-strikes-kill-at-least-8-in-lebanons-fourth-largest-city-ahead-of-washington-talks/",
+      "image_url": "https://www.clickorlando.com/resizer/v2/VLFIN7KU7REMPOCBHHWS2LMENU.jpg?auth=fd9be13454e4e48c4ac3120c421dba62a8f2a75379c28c19e0defcd975a0179d",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcrdvmbCOd1o76HCudj-fuSYyaLObYB5geBCIfEY-oLgLLrhAS",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Israeli military strikes southern suburb of Beirut before ...",
+        "link": "https://www.clickorlando.com/news/2026/05/28/israeli-strikes-kill-at-least-8-in-lebanons-fourth-largest-city-ahead-of-washington-talks/",
+        "source": "WKMG",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQM7BJKI7G8YqrWUFu1e5lfwOhBr4F6t6TpCHFWBbofPGO8vHQm9wqqUsIBArydgYQpdGc2Wf6pdYbNemio2nlKa0ux0wqQifBbWiOC7O_tFw1cji5rHt4_rw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcrdvmbCOd1o76HCudj-fuSYyaLObYB5geBCIfEY-oLgLLrhAS",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://www.clickorlando.com/resizer/v2/VLFIN7KU7REMPOCBHHWS2LMENU.jpg?auth=fd9be13454e4e48c4ac3120c421dba62a8f2a75379c28c19e0defcd975a0179d",
+        "image_width": 3333,
+        "image_height": 5000
+      },
+      "webpage": {
+        "text": "Israeli military strikes southern suburb of Beirut before crucial Lebanon-Israel talks in Washington\n\nNews\n\n\n1 / 5\n\n\nCopyright 2026 The Associated Press. All right reserved\n\nPeople and security officers gather in front of a destroyed apartment that was hit in an Israeli airstrike in the town of Choueifat, south of Beirut, Lebanon, Thursday, May 28, 2026. (AP Photo/Hussein Malla)\n\nBEIRUT – Israel’s air force carried out an airstrike on a southern suburb of Lebanon's capital on Thursday afternoon, the Israeli military said, further straining a fragile ceasefire a day before crucial negotiations in Washington.\n\nThe strike hit an apartment building, but the target of the attack wasn't immediately clear. White smoke billowed from a residential neighborhood in the suburb of Choueifat, close to Beirut's international airport.\n\nTensions have been increasing in southern Lebanon, where Israeli troops recently crossed the strategic Litani River, which the Israeli military has used as a de facto boundary. Large areas to the south are under Israeli military control, despite the Washington-brokered ceasefire from April 17.\n\nThis was the first attack close to Beirut since May 6, when an Israeli strike killed a military official with Hezbollah militant group’s elite Radwan Forces in another southern suburb.\n\nOvernight, Israeli forces pounded Tyre, Lebanon's fourth-largest city, and killed at least 14 people across the south of the country in their ongoing military escalation against Hezbollah before the Lebanon-Israel talks in Washington.\n\nFive women and children and a Lebanese soldier were among those killed in the strikes. Dozens of others were wounded, according to the Lebanese Health Ministry and the state-run National News Agency, or NNA.\n\nThe Israeli military said, meanwhile, that one of its soldiers was killed in a Hezbollah drone attack in northern Israel.\n\nLebanese Prime Minister Nawaf Salam condemned the widespread attacks on Tyre and Nabatiyeh, describing them as “onslaughts” and calling the ongoing displacement “collective punishment.”\n\n“This only strengthens our resolve for the necessity of an immediate ceasefire, working toward a complete Israeli withdrawal from our land,” Salam said in a social media post.\n\nLebanese minister seeks end to Tyre attacks\n\nOn Thursday afternoon, the Israeli military issued another evacuation warning for Tyre and its suburbs.\n\nConsidered one of the oldest metropolises of the world, Tyre has several archaeological sites, some of them submerged. The city was officially declared a UNESCO World heritage site in 1984.\n\nForeign Minister Youssef Raggi said in a statement Thursday that he's been following “with deep pain and profound concern” the ongoing Israeli attacks on Tyre.\n\nIsraeli Prime Minister Benjamin Netanyahu on Monday announced an expansion of the Israeli military's attacks in Lebanon, apparently sparked by Hezbollah's use of fiber-optic exploding drones that have struck Israeli troops in Lebanon and reached some of Israel's northern border towns. The Israeli military said that it has launched hundreds of attacks targeting what it said were Hezbollah military assets.\n\nLebanese and Israeli military officials will hold their first security talks on Friday in Washington. Despite the nominal ceasefire, Israeli attacks have recently intensified, while largely sparing Beirut.\n\nHezbollah has dismissed the talks, and has repeatedly called on Lebanon's leadership to withdraw from them. The militant group believes that Beirut doesn't have the leverage to stop the war and have Israel withdraw its troops.\n\n“The ruling authority persists in pursuing a downward trajectory, compromising both sovereignty and rights under the pretext that it is compelled to continue direct negotiations with the enemy,” Hezbollah’s parliamentary bloc said in a statement Thursday.\n\nThe group instead endorsed its key ally Iran, which has made ending the war in Lebanon a condition for its own talks with Washington brokered by Pakistan.\n\n“Yet, instead of seizing this opportunity, the Lebanese authorities are attempting to undermine it — actively working to obstruct it, even at the cost of their own people’s blood,” the statement said.\n\nIsraeli government spokesman David Mencer said that Netanyahu instructed the military “to deepen our operation in Lebanon” to protect the communities of Israel’s north.\n\nMencer said that Israel would continue U.S.-mediated negotiations with Lebanon in Washington, saying that the talks aim to disarm Hezbollah and reach “a peace agreement that will strengthen security and stability in our region and promote prosperity and peace.\"\n\nFurther north in the city of Sidon, an Israeli drone struck an apartment building where some displaced families lived, killing five people and wounding 21 others, among them five children.\n\nMohammad Al-Gharbi, who lived across the street from the building in Sidon, woke to the sound of the explosion.\n\n“I was in my room when part of the wall and shattered glass fell on me, and everything was thrown into chaos,” he said. “This building that was hit had six apartments occupied by poor families who had fled from the south to escape the attacks there, only to be hit here.”\n\nIn the nearby coastal town of Adloun, an Israeli drone struck a car with a family that was fleeing, killing six people, of which four were two children and their parents, the Lebanese Health Ministry said. Another drone strike that came without warning killed two people on a motorcycle near Tyre. The target of the attack wasn't immediately clear, NNA reported.\n\nElsewhere near the city of Nabatiyeh, the Lebanese military said that a soldier was killed in an Israeli drone strike while he was riding his motorcycle.\n\nHezbollah attacks target Israeli forces\n\nThe Israeli military said Thursday that a soldier in northern Israel was killed in a Hezbollah drone attack and two reservists were wounded.\n\nHezbollah says it has carried out dozens of drone and rocket attacks targeting Israeli troops in southern Lebanon and northern Israel. The group said Thursday that it launched several attacks on Israeli troops and tanks that have crossed the Litani River into the town of Zawtar al-Sharqieh near Nabatiyeh, as close-range fighting continues.\n\nMore than 1 million people in Lebanon have been displaced by the Israel-Hezbollah war, which was sparked when Hezbollah fired rockets into northern Israel on March 2 in solidarity with Iran, two days after the Iran war began.\n\nAt least 3,269 people have been killed in Israeli strikes since the start of the war, according to the Lebanese Health Ministry, with more than 9,800 wounded.\n\nAccording to Netanyahu’s office, at least 23 Israeli soldiers and a defense contractor have been killed in or near southern Lebanon and two civilians have been killed in northern Israel, the vast majority by drones.\n\n___\n\nBassem Mroue in Beirut, Koral Saeed in Abu Snan, Israel, and Natalie Melzer in Nahariya, Israel, contributed to this report.\n\nCopyright 2026 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.\n\n----------------------------------------",
+        "metadata": {
+          "title": "Israeli military strikes southern suburb of Beirut before crucial Lebanon-Israel talks in Washington",
+          "og:url": "https://www.clickorlando.com/news/2026/05/28/israeli-strikes-kill-at-least-8-in-lebanons-fourth-largest-city-ahead-of-washington-talks/",
+          "og:title": "Israeli military strikes southern suburb of Beirut before crucial Lebanon-Israel talks in Washington",
+          "og:type": "article",
+          "og:description": "Israel's military says that the air force has carried out an airstrike on a southern suburb of Lebanon's capital.",
+          "og:image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/APPGATL5OVCHXHBWS7C36CXL2Y.jpg",
+          "og:site_name": "WKMG",
+          "og:locale": "en_US",
+          "article:published_time": "2026-05-28T07:43:40Z",
+          "article:modified_time": "2026-05-28T18:36:30Z",
+          "article:section": "News",
+          "article:tag": "Mohammad Al-Gharbi,World news,Benjamin Netanyahu",
+          "article:content_tier": "free",
+          "article:opinion": "false",
+          "keywords": "Mohammad Al-Gharbi,World news,Benjamin Netanyahu",
+          "author": "Kareem Chehayeb, Associated Press",
+          "description": "Israel's military says that the air force has carried out an airstrike on a southern suburb of Lebanon's capital.",
+          "content_restriction": "no_restrictions",
+          "twitter:title": "Israeli military strikes southern suburb of Beirut before crucial Lebanon-Israel talks in Washington",
+          "twitter:description": "Israel's military says that the air force has carried out an airstrike on a southern suburb of Lebanon's capital.",
+          "fb:app_id": "398048186916440",
+          "al:ios:app_store_id": "426128464",
+          "al:ios:app_name": "clickorlando.com",
+          "al:android:package": "com.ibsys.app.pns_orlpn",
+          "al:android:app_name": "clickorlando.com",
+          "coid": "IMWROUQJPVBEFB4BKFYRCXSSMM",
+          "type": "article"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "WKMG report on Israeli military strikes in the southern suburb of Beirut (Choueifat) and Tyre, Lebanon, ahead of Lebanon-Israel talks in Washington. Mentions a ceasefire brokered by Washington on April 17, Hezbollah, the Litani River, the Lebanese Health Ministry, National News Agency (NNA), Lebanese Prime Minister Nawaf Salam, Foreign Minister Youssef Raggi, and Prime Minister Benjamin Netanyahu's announcement expanding military attacks.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Hussein Malla",
+          "Nawaf Salam",
+          "Youssef Raggi",
+          "Benjamin Netanyahu"
+        ],
+        "LOCATION": [
+          "Beirut",
+          "Choueifat",
+          "Lebanon",
+          "Washington",
+          "Litani River",
+          "Tyre",
+          "Nabatiyeh",
+          "Israel"
+        ],
+        "ORGANIZATION": [
+          "WKMG",
+          "Associated Press",
+          "Hezbollah",
+          "Radwan Forces",
+          "Lebanese Health Ministry",
+          "National News Agency",
+          "UNESCO"
+        ],
+        "DATE": [
+          "May 28, 2026",
+          "Thursday",
+          "April 17",
+          "May 6",
+          "1984",
+          "Monday"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7476235897417788
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "United States",
+      "Iraq"
+    ],
+    "ORGANIZATION": [
+      "US forces"
+    ],
+    "DATE": [
+      "2011"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "strikes"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza",
+      "rangs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza Strip",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Israel",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington",
+      "rangs": [
+        2,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gaza City",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle East",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Beirut",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Choueifat",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Lebanon",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Litani River",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tyre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Nabatiyeh",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reuters",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN trade body",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "PBS",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UN",
+      "rangs": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "United Nations General Assembly",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "U.S.",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Democratic Party",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hamas",
+      "rangs": [
+        2,
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Palestinian Health Ministry",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al-Shifa Hospital",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Central Kitchen",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "World Food Programme",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Integrated Food Security Phase Classification",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WKMG",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Hezbollah",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Radwan Forces",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lebanese Health Ministry",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "National News Agency",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "UNESCO",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joe Biden",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Benjamin Netanyahu",
+      "rangs": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Geoff Bennett",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Tawfik Abu Breika",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Razan Shabat",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Younis Al-Ajla",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Abeer Etefa",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Donald Trump",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Hussein Malla",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nawaf Salam",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Youssef Raggi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "January 31, 2024",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2024",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 8, 2025",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2007",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "October 7, 2023",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "next week",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "December 12, 2023",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 28, 2026",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 17",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May 6",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "1984",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T18:25:50.952616"
+  }
+}

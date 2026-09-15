@@ -1,0 +1,838 @@
+{
+  "id_rumeur": 1584740,
+  "id_image": 1584740,
+  "caption": "Indian armed forces have rescued many foreign pilgrims stranded in Uttarakhand",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748207/oluyewo_benchmark/qpgchqhezq7roaggbyg9.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "India floods: Foreign survivors 'lucky to be alive' - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/world-asia-india-23095732",
+      "image_url": "http://news.bbcimg.co.uk/media/images/68431000/jpg/_68431898_68431897.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoYmZ626zv2pe4cYNI9cqvYMe4FdjlD4d8mQbVXNff7qvOGVBk",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "India floods: Foreign survivors 'lucky to be alive' - BBC News",
+        "link": "https://www.bbc.com/news/world-asia-india-23095732",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoYmZ626zv2pe4cYNI9cqvYMe4FdjlD4d8mQbVXNff7qvOGVBk",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/68431000/jpg/_68431898_68431897.jpg",
+        "image_width": 576,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "India floods: Foreign survivors 'lucky to be alive'\n\nOn Monday 17 June, we woke up in the morning to the announcement that the bridge we had crossed to get to the ashram (religious retreat) had been washed away, that the river was rising and there was talk of evacuation.\n\nThe next day, there was a landslide on our side of the river which redirected the course of the river. It was flowing amazingly fast, just 100 yards away from the ashram.\n\nThe only inconvenience we faced was a lack of power but we had a small car battery with a solar generator that helped us charge mobiles.\n\nWhat we saw was the power of nature. It was something to behold. But I never felt any fear. We were meditating seven hours a day.\n\nThis would be selfish considering the tragedy to others. But my predominant emotion was disappointment that we would have to leave this beautiful place.\n\nWe pray for those who have suffered greatly. I have been inconvenienced, but have not suffered. I have been given great care and attention and I feel safe.",
+        "metadata": {
+          "description": "BBC Hindi's Vineet Khare meets foreign survivors of the floods in the northern Indian state of Uttarakhand where more than 800 people have died.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "BBC Hindi's Vineet Khare meets foreign survivors of the floods in the northern Indian state of Uttarakhand where more than 800 people have died.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/68431000/jpg/_68431898_68431897.jpg",
+          "og:image:alt": "Indian security personnel help rescue foreign visitors stranded by flood waters in Uttarakhand state, on June 22, 2013",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "India floods: Foreign survivors 'lucky to be alive'",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/world-asia-india-23095732",
+          "article:section": "India",
+          "twitter:description": "BBC Hindi's Vineet Khare meets foreign survivors of the floods in the northern Indian state of Uttarakhand where more than 800 people have died.",
+          "twitter:title": "India floods: Foreign survivors 'lucky to be alive'"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/world-asia-india-23095732",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2013-06-29T00:10:53.000Z",
+          "dateModified": "2013-06-29T00:10:53.000Z",
+          "description": "BBC Hindi's Vineet Khare meets foreign survivors of the floods in the northern Indian state of Uttarakhand where more than 800 people have died.",
+          "headline": "India floods: Foreign survivors 'lucky to be alive'",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/68431000/jpg/_68431898_68431897.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/68431000/jpg/_68431898_68431897.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/world-asia-india-23095732",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le lundi 17 juin, des survivants étrangers d'inondations en Inde se sont retrouvés dans un ashram après qu'un pont a été emporté et qu'une coulée de boue a modifié le cours de la rivière. Malgré un manque d'électricité, ils ont utilisé une petite batterie de voiture et un générateur solaire, tout en méditant sept heures par jour.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "India"
+        ],
+        "ORGANIZATION": [
+          "BBC News",
+          "BBC"
+        ],
+        "DATE": [
+          "Monday 17 June"
+        ],
+        "EVENT": [
+          "India floods"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7736450578426589
+    },
+    {
+      "titre": "インド水害、死者550人に なお3万人以上が救助を待つ 写真11枚 ...",
+      "source": "AFPBB News",
+      "lien": "https://www.afpbb.com/articles/-/2951988",
+      "image_url": "https://afpbb.ismcdn.jp/mwimgs/1/8/-/img_1849d7ca24abdbac31916a25cc6d099a161895.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuFpnHlz2vDmEAj2RD4Kx-cWFm6y2GUp9-3lvllgQ416nhUM5y",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "インド水害、死者550人に なお3万人以上が救助を待つ 写真11枚 ...",
+        "link": "https://www.afpbb.com/articles/-/2951988",
+        "source": "AFPBB News",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEUyWv____8uV__m6_9Rcf8WS_8jUf-hsf8nU_8gT__y9f-su_8qVf9Mbf-Zqv_4-v_r7_9BZf-Up_-6yP_O2P9fff9jgP87Yv_W3f_e5f-ot_9EaP_a4f8AQ_-Qo_9uiP_Gz_8OSP9_lf-Gmv-crv9xjP9c-YbFAAAA3ElEQVQ4jcWS3RKCIBCFERVZRVGzLNPUft7_FUtWDMcdr5rpXLIfnLO7MPYPQWgFnKwffKsqIAh59Bb5BMDTfB8IE28XkCdvF-D12VQuTUwDs0EcXH0SUCk-nYmABHjdokHHaQBupq57RQOLATAakAMmBEYDkFkDGuBMGyDpPmscCwKo5umhNpMUd28rB-CMqLsAJPuAfFB1Bxjxl7TPaFay3qZCA81BoCBdtal6bWdsM68HJdBg-Da9BmSEkVLlAOZOjkCRTbGal3AWU5TTWVnMTZpgirkyZ5L9Qm96NQnLoD-6mwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuFpnHlz2vDmEAj2RD4Kx-cWFm6y2GUp9-3lvllgQ416nhUM5y",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://afpbb.ismcdn.jp/mwimgs/1/8/-/img_1849d7ca24abdbac31916a25cc6d099a161895.jpg",
+        "image_width": 384,
+        "image_height": 512
+      },
+      "webpage": {
+        "text": "インド水害、死者550人に なお3万人以上が救助を待つ　写真11枚　国際ニュース：AFPBB News\n\n* 画像作成中 ！\n\n【6月23日 AFP】夏季の季節風による豪雨に見舞われたインド北部ウッタラカンド州では22日、再び豪雨になるという予報を受け、巡礼地や観光地に取り残された人たちの救助が急ピッチで続けられた。\n\n\n関連記事",
+        "metadata": {
+          "title": "インド水害、死者550人に なお3万人以上が救助を待つ　写真11枚　国際ニュース：AFPBB News",
+          "description": "【6月23日 AFP】夏季の季節風（モンスーン）による豪雨に見舞われたインド北部ウッタラカンド（Uttarakhand）州では22日、再び豪雨になるという予報を受け、巡礼地や観光地に取り残された人たちの救助が急ピッチで続けられた。",
+          "og:title": "インド水害、死者550人に なお3万人以上が救助を待つ",
+          "og:type": "article",
+          "og:url": "https://www.afpbb.com/articles/-/2951988",
+          "og:image": "https://afpbb.ismcdn.jp/mwimgs/f/8/1000x/img_f8cb9c219ffd7424e59d49758eff1149390380.jpg",
+          "og:description": "【6月23日 AFP】夏季の季節風（モンスーン）による豪雨に見舞われたインド北部ウッタラカンド（Uttarakhand）州では22日、再び豪雨になるという予報を受け、巡礼地や観光地に取り残された人たちの救助が急ピッチで続けられた。",
+          "fb:admins": "148818285196349",
+          "fb:pages": "148818285196349",
+          "article:modified_time": "2013-06-23T13:26:54+09:00"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Le 22 juin, dans l'État d'Uttarakhand, au nord de l'Inde, touché par des moussons et des pluies torrentielles, les inondations ont fait 550 morts et plus de 30 000 personnes attendaient encore des secours dans les zones de pèlerinage et touristiques.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "India",
+          "Uttarakhand"
+        ],
+        "ORGANIZATION": [
+          "AFPBB News",
+          "AFP"
+        ],
+        "DATE": [
+          "6月23日",
+          "22日"
+        ],
+        "EVENT": [
+          "インド水害"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7644173633881991
+    },
+    {
+      "titre": "Weather Hampers Rescue of Flood Victims in India - The New ...",
+      "source": "The New York Times",
+      "lien": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+      "image_url": "https://static01.nyt.com/images/2013/06/24/world/india/india-superJumbo.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT76KsFpJ4c-RQlz6VElUk4No62PPvdzyhgG_STTKeSl3MLp2Re",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Weather Hampers Rescue of Flood Victims in India - The New ...",
+        "link": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+        "source": "The New York Times",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwSEhISEhISEhIYGBgSEhITExMSEhISEhIUFBQSEhISEhITExMSEhIUFBQbGxsSEhISEhK8R-FnAAAAEXRSTlMAqdTxDrYqyJkai15L4jsFd3oeBHkAAAD8SURBVDiNxZNJcsQgDEUZJMDMuv9lI6DdbURnmYoWlOG_QsPHSv1PQNbuPEy-GJ1egqck9GZohsXeeFuoXLvu6RPWW17zBlQ6YgcSUUE09qObPUUmw-WBi-9UosjLBF5ibKol7UvBKrt0QXWr-aN3BfWQxxyQjHKRaFx1fQE4ea-jgl-AwHVDewG5H7rjBlHBAqqlKIE4lQXMoQUBIJ_F-wamjXSzsKJvQHXko3YAvsGzi92LodjaHoDTssuRg4HoFoA7kKdBUS-LLgAt3IL1oPwaISRDVvThbptR62n5Maq-vycrdS7j8ZzuXCJLeOsBvujzloCIQf4Sfx0_-9wR8otzrKEAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT76KsFpJ4c-RQlz6VElUk4No62PPvdzyhgG_STTKeSl3MLp2Re",
+        "thumbnail_width": 185,
+        "thumbnail_height": 272,
+        "image": "https://static01.nyt.com/images/2013/06/24/world/india/india-superJumbo.jpg",
+        "image_width": 1399,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Weather Hampers Rescue of Flood Victims in India\n\nNEW DELHI — Dense fog and rain briefly hampered efforts on Sunday to evacuate thousands of people stranded in the northern Indian state of Uttarakhand, where at least 1,000 people have died in monsoon flooding and landslides, army officials said.\n\nThe army suspended helicopter flights to rescue stranded people after heavy fog descended on the Himalayan region on Sunday morning, but the evacuation flights resumed in the afternoon, the military said. Troops were also building makeshift bridges, and some people were being rescued by soldiers on the ground, according to a statement released by the Defense Ministry.\n\nOn Sunday, Indian troops evacuated 1,000 stranded people from the mountains around Jungle Chatti in the Kedar Valley of Uttarakhand, the ministry said.\n\nMore rain is expected in the area over the next few days, according to the India Meteorological Department.\n\nMost of those who were stranded were on a pilgrimage known as Char Dham Yatra, which takes Hindus to four of the holiest shrines in Uttarakhand between May and November. But thousands of residents of villages in the flood-hit areas have also been affected.\n\n\n“I was stranded in a bus for three days, and we were stuck near a village where the roads had been washed away by the floods,” said Avinash Kumar, a businessman from the state of Uttar Pradesh, who had gone on the pilgrimage with his wife and two sons. “We could see the nearby village from the bus, and the floods and lightning had destroyed most of its houses away. Who knows what happened to the villagers?”\n\nBhaskaranand Joshi, secretary of revenue and disaster management in Uttarakhand, said that the number of people evacuated had risen to 94,000 on Sunday and that 9,000 people were still stranded. Mr. Joshi said 127 relief camps had been set up throughout the state.\n\nSeveral telephone hot lines have been by set up by the government for relatives of the missing. “The phone hasn’t stopped ringing for a moment,” said a Uttarakhand police officer assigned to answer calls. “We are taking the details of the missing persons, their last locations, and forwarding them to the personnel carrying out the rescue operations.”\n\nWith the military and the police focused on the rescue operation, little has been done to recover bodies buried under debris and mud. Officials fear that once a concerted recovery effort begins, the number of dead may grow substantially. “It is hard to come up with a definite death count till the forces can look through the debris and the slush,” a police officer said.\n\nThe Sunday Tribune, an Indian newspaper, reported from the hardest-hit area in Uttarakhand that “an overwhelming stench of bodies and rotting carcasses pervades the air.”\n\nIndian volunteer groups have been collecting clothes, food, blankets and money for residents of Uttarakhand, The Associated Press reported, and the American ambassador to India, Nancy J. Powell, said Sunday that the United States would provide $150,000 in emergency relief to families living in remote areas of the state.\n\nHari Kumar and Malavika Vyawahare contributed reporting.\n\nA version of this article appears in print on , Section A, Page 10 of the New York edition with the headline: Weather Hampers Rescue Of Flood Victims in India. Order Reprints | Today’s Paper | Subscribe\n\n\nRelated Content\n\n",
+        "metadata": {
+          "description": "Dense fog slowed efforts to evacuate thousands of people stranded in the northern India state of Uttarakhand, where at least 1,000 people have died.",
+          "twitter:url": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "twitter:title": "Weather Hampers Rescue of Flood Victims in India (Published 2013)",
+          "twitter:description": "Dense fog slowed efforts to evacuate thousands of people stranded in the northern India state of Uttarakhand, where at least 1,000 people have died.",
+          "twitter:image": "https://static01.nyt.com/images/2013/06/24/world/india/india-articleLarge.jpg?year=2013&h=410&w=600&s=0a80e856485b5ae5ad1064b3d9c0aa016f80e1808ccfd562049ae01380477e05&k=ZQJBKqZ0VN&tw=1",
+          "twitter:image:alt": "A soldier during rescue operations on Sunday in the northern Indian state of Uttarakhand. More rain is expected in the area.",
+          "twitter:card": "summary_large_image",
+          "og:url": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "og:type": "article",
+          "og:title": "Weather Hampers Rescue of Flood Victims in India (Published 2013)",
+          "og:image": "https://static01.nyt.com/images/2013/06/24/world/india/india-articleLarge.jpg?year=2013&h=410&w=600&s=0a80e856485b5ae5ad1064b3d9c0aa016f80e1808ccfd562049ae01380477e05&k=ZQJBKqZ0VN",
+          "og:image:alt": "A soldier during rescue operations on Sunday in the northern Indian state of Uttarakhand. More rain is expected in the area.",
+          "og:description": "Dense fog slowed efforts to evacuate thousands of people stranded in the northern India state of Uttarakhand, where at least 1,000 people have died.",
+          "article:published_time": "2013-06-23T13:07:28.000Z",
+          "article:modified_time": "2013-06-23T15:23:55.000Z",
+          "news_keywords": "Flood,Evacuation,Weather,Uttarakhand India,Rescue,Landslides;Mudslides,India",
+          "article:section": "World",
+          "article:tag": "India",
+          "article:opinion": "false",
+          "article:content_tier": "metered",
+          "al:android:url": "nyt://article/13dea391-6773-502c-b5d3-34c1841f59ee",
+          "al:android:package": "com.nytimes.android",
+          "al:android:app_name": "NYTimes",
+          "al:iphone:url": "nytimes://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "al:iphone:app_store_id": "284862083",
+          "al:iphone:app_name": "NYTimes",
+          "al:ipad:url": "nytimes://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "al:ipad:app_store_id": "357066198",
+          "al:ipad:app_name": "NYTimes",
+          "fb:app_id": "9869919170"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "@id": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "description": "Dense fog slowed efforts to evacuate thousands of people stranded in the northern India state of Uttarakhand, where at least 1,000 people have died.",
+          "image": {
+            "@context": "https://schema.org",
+            "@type": "ImageObject",
+            "url": "https://static01.nyt.com/images/2013/06/24/world/india/india-superJumbo.jpg",
+            "height": 1399,
+            "width": 2048,
+            "contentUrl": "https://static01.nyt.com/images/2013/06/24/world/india/india-superJumbo.jpg",
+            "caption": "A soldier during rescue operations on Sunday in the northern Indian state of Uttarakhand. More rain is expected in the area.",
+            "creditText": "Danish Siddiqui/Reuters"
+          },
+          "mainEntityOfPage": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "url": "https://www.nytimes.com/2013/06/24/world/asia/weather-hampers-rescue-of-flood-victims-in-india.html",
+          "author": [
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "url": "",
+              "name": "Basharat Peer"
+            }
+          ],
+          "dateModified": "2013-06-23T15:23:55.000Z",
+          "datePublished": "2013-06-23T13:07:28.000Z",
+          "headline": "Weather Hampers Rescue of Flood Victims in India",
+          "alternativeHeadline": "Weather Hampers Rescue Of Flood Victims in India",
+          "publisher": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".meteredContent"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "The New York Times",
+            "productID": "nytimes.com:basic"
+          },
+          "copyrightHolder": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "sourceOrganization": {
+            "@id": "https://www.nytimes.com/#publisher",
+            "name": "The New York Times"
+          },
+          "copyrightYear": 2026,
+          "articleSection": "World, Asia Pacific",
+          "keywords": [
+            "Floods",
+            "Peer, Basharat",
+            "Weather",
+            "Uttarakhand (India)",
+            "Rescues",
+            "India"
+          ],
+          "isAccessibleForFree": false
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des pluies et un brouillard dense ont perturbé les opérations de secours dans l'État d'Uttarakhand, dans le nord de l'Inde, où au moins 1 000 personnes ont péri dans des inondations de mousson et des glissements de terrain. Des troupes de l'armée ont évacué des personnes bloquées, notamment autour de Jungle Chatti dans la vallée de Kedar, tandis que des milliers d'autres effectuaient le pèlerinage Char Dham Yatra. Le gouvernement a mis en place 127 camps de secours et des lignes téléphoniques d'urgence, et l'ambassadrice des États-Unis en Inde, Nancy J. Powell, a annoncé une aide d'urgence.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Avinash Kumar",
+          "Bhaskaranand Joshi",
+          "Nancy J. Powell"
+        ],
+        "LOCATION": [
+          "NEW DELHI",
+          "India",
+          "Uttarakhand",
+          "Jungle Chatti",
+          "Kedar Valley",
+          "Uttar Pradesh",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "The New York Times",
+          "Defense Ministry",
+          "India Meteorological Department",
+          "The Sunday Tribune",
+          "Associated Press"
+        ],
+        "DATE": [
+          "Sunday",
+          "May",
+          "November",
+          "three days"
+        ],
+        "EVENT": [
+          "Char Dham Yatra"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.8051101626342142
+    },
+    {
+      "titre": "More rain expected amid flooding in northern India",
+      "source": "The Columbus Dispatch",
+      "lien": "https://www.dispatch.com/story/news/2013/06/24/more-rain-expected-amid-flooding/23801103007/",
+      "image_url": "https://www.dispatch.com/gcdn/authoring/2013/06/24/NCOD/ghows-OH-55515740-4bdc-4ae3-92c9-b15de0d540dd-ac97e162.jpeg?crop=599,339,x0,y30&width=599&height=299&format=pjpg&auto=webp",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLpN6zwVYyF8ZZSlqDx0vYXr5L0zo--KMwsh7BEojVpL1oxQme",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "More rain expected amid flooding in northern India",
+        "link": "https://www.dispatch.com/story/news/2013/06/24/more-rain-expected-amid-flooding/23801103007/",
+        "source": "The Columbus Dispatch",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQLUa512kdsEpYSQxivfdyr-gAVV8Haij9u_rEj8kYVtAHaU1rkHrZHonv0_uvrsLF0Jqb3Zu_uYTIx_24cMPfwB259gfxEK4ZNrt3kXsyRvJevtpGV",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLpN6zwVYyF8ZZSlqDx0vYXr5L0zo--KMwsh7BEojVpL1oxQme",
+        "thumbnail_width": 158,
+        "thumbnail_height": 318,
+        "image": "https://www.dispatch.com/gcdn/authoring/2013/06/24/NCOD/ghows-OH-55515740-4bdc-4ae3-92c9-b15de0d540dd-ac97e162.jpeg?crop=599,339,x0,y30&width=599&height=299&format=pjpg&auto=webp",
+        "image_width": 299,
+        "image_height": 599
+      },
+      "webpage": {
+        "text": "More rain expected amid flooding in northern India\n\nNEW DELHI — Dense fog and rain briefly hampered efforts yesterday to evacuate thousands of people stranded in the northern Indian state of Uttarakhand, where at least 1,000 people have died in monsoon flooding and landslides, army officials said.\n\nThe army suspended helicopter flights to rescue stranded people after heavy fog descended on the Himalayan region yesterday morning, but the evacuation flights resumed in the afternoon, the military said. Troops also were building makeshift bridges, and some people were being rescued by soldiers on the ground, according to a statement released by the Defense Ministry.\n\nYesterday, Indian troops evacuated 1,000 stranded people from the mountains around Jungle Chatti in the Kedar Valley of Uttarakhand, the ministry said.\n\nMore rain is expected in the area over the next few days, the India Meteorological Department said.\n\nMost of those who were stranded were on a pilgrimage known as Char Dham Yatra, which takes Hindus to four of the holiest shrines in Uttarakhand between May and November. But thousands of residents of villages in the flood-hit areas also have been affected.\n\n“I was stranded in a bus for three days, and we were stuck near a village where the roads had been washed away by the floods,” said Avinash Kumar, a businessman from the state of Uttar Pradesh who had gone on the pilgrimage with his wife and two sons. “We could see the nearby village from the bus, and the floods and lightning had destroyed most of its houses. ... Who knows what happened to the villagers?”\n\nBhaskaranand Joshi, secretary of revenue and disaster management in Uttarakhand, said that the number of people evacuated had risen to 94,000 yesterday and that 9,000 remained stranded. Joshi said 127 relief camps had been set up throughout the state.\n\nSeveral telephone hot lines have been by set up by the government for relatives of the missing. “ The phone hasn’t stopped ringing for a moment,” said an Uttarakhand police officer assigned to answer calls. “We are taking the details of the missing persons, their last locations, and forwarding them to the personnel carrying out the rescue operations.”\n\nWith the military and the police focused on the rescue operation, little has been done to recover bodies buried under debris and mud. Officials fear that once a concerted recovery effort begins, the number of dead might grow substantially. “It is hard to come up with a definite death count till the forces can look through the debris and the slush,” a police officer said.\n\nThe Sunday Tribune, an Indian newspaper, reported from the hardest-hit area in Uttarakhand, “An overwhelming stench of bodies and rotting carcasses pervades the air.”\n\nIndian volunteer groups have been collecting clothes, food, blankets and money for residents of Uttarakhand, the Associated Press reported. The U.S. ambassador to India, Nancy J. Powell, said yesterday that the United States will provide $150,000 in emergency relief to families living in remote areas of the state.",
+        "metadata": {
+          "title": "More rain expected amid flooding in northern India"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un épais brouillard et de la pluie ont brièvement entravé les efforts d'évacuation dans l'État d'Uttarakhand, dans le nord de l'Inde, frappé par des inondations de mousson et des glissements de terrain ayant fait au moins 1 000 morts. L'armée a suspendu puis repris ses vols d'hélicoptères pour secourir des personnes bloquées, notamment près de Jungle Chatti dans la vallée de Kedar. De nombreux pèlerins effectuant le Char Dham Yatra ainsi que des habitants ont été touchés. L'ambassadrice des États-Unis en Inde, Nancy J. Powell, a annoncé une aide d'urgence de 150 000 dollars.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Avinash Kumar",
+          "Bhaskaranand Joshi",
+          "Joshi",
+          "Nancy J. Powell"
+        ],
+        "LOCATION": [
+          "NEW DELHI",
+          "India",
+          "Uttarakhand",
+          "Jungle Chatti",
+          "Kedar Valley",
+          "Uttar Pradesh",
+          "United States"
+        ],
+        "ORGANIZATION": [
+          "The Columbus Dispatch",
+          "Defense Ministry",
+          "India Meteorological Department",
+          "The Sunday Tribune",
+          "Associated Press"
+        ],
+        "DATE": [
+          "yesterday",
+          "May",
+          "November",
+          "three days"
+        ],
+        "EVENT": [
+          "Char Dham Yatra"
+        ],
+        "OTHER": [
+          "150,000$"
+        ]
+      },
+      "score_e5": 0.8051315613957383
+    },
+    {
+      "titre": "Flash flooding in Uttarakhand, India, kills 4, dozens still ...",
+      "source": "ABC News",
+      "lien": "https://abcnews.com/International/flash-flooding-uttarakhand-india-kills-dozens-missing-local/story?id=124404685",
+      "image_url": "https://i.abcnewsfe.com/a/1dd98dd7-539a-4dde-9c78-6948faee8eb4/INDIA-MAIN_1754485356831_hpMain.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVm7yo1a3_icvPUZo88TdxGN8bIsxHKrtQpFsvQFxBHc8onxOG",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Flash flooding in Uttarakhand, India, kills 4, dozens still ...",
+        "link": "https://abcnews.com/International/flash-flooding-uttarakhand-india-kills-dozens-missing-local/story?id=124404685",
+        "source": "ABC News",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSdDthOrHkB1b96UNLuMPbE4vVuL5NiDZTko3J-5DIK22_kLyBpIKBSKl80dqNb6nykKXM-Kqn6YZiii7CYJzvu5_QN0NEepvDAToLVeL8WKw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVm7yo1a3_icvPUZo88TdxGN8bIsxHKrtQpFsvQFxBHc8onxOG",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://i.abcnewsfe.com/a/1dd98dd7-539a-4dde-9c78-6948faee8eb4/INDIA-MAIN_1754485356831_hpMain.jpg",
+        "image_width": 2048,
+        "image_height": 3072
+      },
+      "webpage": {
+        "text": "Flash flooding in Uttarakhand, India, kills 4, dozens still missing, local officials say\n\nDozens of people remain missing after heavy flash flooding and a mudslide devastated a village in northern India, killing at least four people, local officials said.\n\nThe Indian army and air force, along with regional police and rescue teams, were searching under mud and debris for survivors in Dharali, a village of 500 nestled in the Himalayas known as a tourist destination and pilgrimage stop, Indian army officials said. Several houses in Dharali were swept away; many that remain are now submerged in mud.\n\nEleven Indian army soldiers are also missing after flash flooding hit a nearby army post, according to the army.\n\n\nOver 70 people have been rescued so far, according to the Indian Army's Directorate General of Public Information. Rescuers have deployed earth-moving equipment, drones and rescue dogs and provided immediate first aid to evacuated individuals.\n\nThe flash flooding, a surge of water that cascaded down the mountains and through the village, occurred on Tuesday afternoon. The Indian army said a team of 150 rescuers arrived within 10 minutes after the impact.\n\n\"I express my condolences to the people affected by this tragedy in Dharali, Uttarkashi,\" Indian Prime Minister Narendra Modi posted on X. \"No stone is being left unturned in providing help to the people.\"\n\n\nHeavy rains, impassable roads and the mountainous terrain continue to impede search efforts, according to rescue teams.\n\n\nPopular Reads\n\n\n\"This disaster has caused immense grief to many families, we understand their pain,\" wrote Uttarakhand Chief Minister Pushkar Singh Dhami, who arrived at the site and met with survivors, including children, elderly men and women, and the injured.\n\n\n\"Instructions have been given to officials to restore the arrangements of drinking water, electricity, and communication in the affected areas as soon as possible,\" he added.\n\nThe flash flooding was caused by a rare weather event called a cloudburst, a sudden, heavy downpour where an unusually large amount of rain falls in a short period of time, according to Indian weather officials.\n\n\nUttarakhand, the mountainous northern state that hosts Dharali, has been devastated by cloudbursts before. A June 2013 cloudburst killed over 6,000 people in Uttarakhand and surrounding states, becoming the country's worst natural disaster in ten years. In 2021, flash flooding triggered by a cloudburst killed over 200.\n\nClimate scientists said they believe the increasing frequency of cloudbursts in the Himalayan foothills is linked to human-induced climate change.",
+        "metadata": {
+          "og:locale": "en_US",
+          "description": "Search efforts continue on the day after flash flooding swept through a village in northern India.",
+          "author": "ABC News",
+          "fb:admins": "704409894",
+          "fb:app_id": "4942312939",
+          "fb_title": "Flash flooding in Uttarakhand, India, kills 4, dozens still missing, local officials say",
+          "og:site_name": "ABC News",
+          "og:url": "https://abcnews.com/International/flash-flooding-uttarakhand-india-kills-dozens-missing-local/story?id=124404685",
+          "og:title": "Flash flooding in Uttarakhand, India, kills 4, dozens still missing, local officials say",
+          "og:description": "Search efforts continue on the day after flash flooding swept through a village in northern India.",
+          "og:image": "https://i.abcnewsfe.com/a/1dd98dd7-539a-4dde-9c78-6948faee8eb4/INDIA-MAIN_1754485356831_hpMain_16x9.jpg?w=1600",
+          "og:type": "article",
+          "lastPublishedDate": "2025-08-06T13:10:15Z",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "fb:pages": "55845270277",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@ABC",
+          "twitter:creator": "ABC News",
+          "twitter:title": "Flash flooding in Uttarakhand, India, kills 4, dozens still missing, local officials say",
+          "twitter:description": "Search efforts continue on the day after flash flooding swept through a village in northern India.",
+          "twitter:url": "https://abcnews.com/International/flash-flooding-uttarakhand-india-kills-dozens-missing-local/story?id=124404685",
+          "twitter:image": "https://i.abcnewsfe.com/a/1dd98dd7-539a-4dde-9c78-6948faee8eb4/INDIA-MAIN_1754485356831_hpMain_16x9.jpg?w=1600",
+          "twitter:image:width": "640",
+          "twitter:image:height": "360",
+          "al:iphone:url": "abcnewsiphone://link/prism-story,124404685",
+          "al:iphone:app_store_id": "300255638",
+          "al:iphone:app_name": "ABC News - Breaking US & World News",
+          "al:ipad:url": "abcnewsipad://link/prism-story,124404685",
+          "al:ipad:app_store_id": "380520716",
+          "al:ipad:app_name": "ABC News for ipad",
+          "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.com/International/flash-flooding-uttarakhand-india-kills-dozens-missing-local/story?id=124404685",
+          "al:android:app_name": "ABC News Breaking Latest News",
+          "al:android:package": "com.abc.abcnews",
+          "al:web:url": "https://abcnews.com/International/flash-flooding-uttarakhand-india-kills-dozens-missing-local/story?id=124404685"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "ABC News",
+          "url": "https://abcnews.com"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des crues éclair et des coulées de boue ont dévasté le village de Dharali, situé dans l'État d'Uttarakhand dans le nord de l'Inde, faisant au moins quatre morts et des dizaines de disparus, dont onze soldats de l'armée indienne. Les autorités, dont le Premier ministre Narendra Modi et le ministre en chef de l'Uttarakhand Pushkar Singh Dhami, ont mobilisé des équipes de secours. Les inondations soudaines ont été provoquées par un phénomène météorologique rare appelé déluge localisé (cloudburst).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Narendra Modi",
+          "Pushkar Singh Dhami"
+        ],
+        "LOCATION": [
+          "Uttarakhand",
+          "India",
+          "Dharali",
+          "Himalayas",
+          "Uttarkashi"
+        ],
+        "ORGANIZATION": [
+          "ABC News",
+          "Indian army",
+          "Indian air force"
+        ],
+        "DATE": [
+          "Tuesday",
+          "June 2013",
+          "2021"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.762337921248198
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Uttarakhand"
+    ],
+    "ORGANIZATION": [
+      "Indian armed forces"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "foreign pilgrims"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "India",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC News",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday 17 June",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "India floods",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uttarakhand",
+      "rangs": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFPBB News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "6月23日",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "22日",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "インド水害",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Avinash Kumar",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Bhaskaranand Joshi",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Nancy J. Powell",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "New Delhi",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Jungle Chatti",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kedar Valley",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uttar Pradesh",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The New York Times",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Defense Ministry",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "India Meteorological Department",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Sunday Tribune",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Associated Press",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Sunday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "May",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "November",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "three days",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Char Dham Yatra",
+      "rangs": [
+        3,
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Joshi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Columbus Dispatch",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "yesterday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "150,000$",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Narendra Modi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Pushkar Singh Dhami",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dharali",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Himalayas",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Uttarkashi",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "ABC News",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Indian army",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Indian air force",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Tuesday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 2013",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2021",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T18:47:52.052826"
+  }
+}

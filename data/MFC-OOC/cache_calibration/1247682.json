@@ -1,0 +1,768 @@
+{
+  "id_rumeur": 1247682,
+  "id_image": 989806,
+  "caption": "Clicks on bitly links about Egypt",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748600/oluyewo_benchmark/n7pxark8vbhoqll1rzqp.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Google Malaysia taken offline by Pakistani hackers | Google ...",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2013/oct/11/google-malaysia-taken-offline-by-pakistani-hackers",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/10/11/1381486160578/d6fb1e17-eef7-40c9-9c6d-443075b0017d-620x372.png?width=445&dpr=1&s=none&crop=none",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkC9Z_qoomevPLPr5bCdlFqFh-sE5czmOUVxA0vktB4xzpoYKB",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Google Malaysia taken offline by Pakistani hackers | Google ...",
+        "link": "https://www.theguardian.com/technology/2013/oct/11/google-malaysia-taken-offline-by-pakistani-hackers",
+        "source": "The Guardian",
+        "source_icon": "https://serpapi.com/searches/6a8efc4b932b0e7a1e3b0ba3/images/lWZ6znVCzhLb9J53js7dpQ5nRy81XRYfa02ZX47CETg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkC9Z_qoomevPLPr5bCdlFqFh-sE5czmOUVxA0vktB4xzpoYKB",
+        "thumbnail_width": 174,
+        "thumbnail_height": 290,
+        "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/10/11/1381486160578/d6fb1e17-eef7-40c9-9c6d-443075b0017d-620x372.png?width=445&dpr=1&s=none&crop=none",
+        "image_width": 267,
+        "image_height": 445
+      },
+      "webpage": {
+        "text": "Google Malaysia taken offline by Pakistani hackers | Google\n\nGoogle’s Malaysian site has been hacked by a Pakistani group calling itself “Team Madleets”. The search service was replaced with a splash screen crediting the group before it was taken completely offline.\n\nThe group hacked into the Malaysia Network Information Centre (MYNIC), an agency under the Malaysian ministry of communications and multimedia, and conducted a DNS redirect attack altering Google’s Malaysian DNS records to redirect visitors to hacker-controlled servers on Thursday. The site was later taken completely offline.\n\nMYNIC is the sole administrator for web addresses that end with .my in Malaysia.\n\nA statement on the MYNIC site confirmed the attack and that it had been resolved pending propagation across the internet:\n\n> We can confirm there was unauthorised redirection of www.google.com.my and www.google.my to another IP address by a group which called themselves TeaM MADLEETS.\n> \n> The problem was alerted in the early morning and MYNIC Computer Security Incident Response Team (CSIRT) immediately started to resolve the issue. The domain name www.google.com.my has been restored to their correct information at 7.10 am today and www.google.my is still resolving.\n\nDNS records provide a routing lookup for the internet, telling computers where to find servers or other computers. Altering the DNS record can misdirect all the traffic that relies on it. Because changes in DNS records propagate around the internet between servers, their effects can last for days even after the original change has been undone.\n\nA Google Malaysia spokesperson said: “For a short period, some users visiting google.com.my were redirected to a different website; Google services for the google.com.my domain were not hacked. We've been in contact with the organisation responsible for managing this domain name and the issue should be resolved.\"\n\n\n'We are anti-hackers'\n\nA statement on the hacking group’s Facebook page claiming responsibility for the hack suggested the attack was random:\n\n> We feel we need to alert anyone, that we don’t hack any country tlds for example google.com.my as a result of any kind of hate, We don’t hate anyone, We love all humanity, there is no obvious reason for stamping the tlds.\n> \n> Least the reason is not any kind of hate.\n> \n> Whatever the reason is we can’t explain except we love all of you.\n> \n> MadLeets is a Ethical and 1337 White Hat Hackers Community. We are Anti Hackers , we teach how to protect yourself from getting hacked.\n\nThe hacker group claims to be attacking sites for non-political reasons, simply because it can, and to educate users about lack of security. In a statement released to the technology blog TechCrunch, the hackers said:\n\n> There’s not much reason behind it, only to prove that security is just an illusion. It does not exist.\n> \n> We have no political intentions whatsoever.\n\nGoogle Malaysia was targeted in July along with other high-profile Malaysian sites for Skype, Bing, Kaspersky, Dell and MSN by hackers protesting against the treatment of Bangladeshi workers.\n\nAVG, Avira and WhatsApp were the subject of a similar DNS attack on 8 October by a pro-Palestinian hacker group. \n\nIn June 2012, Google warned users of “state-sponsored” hacking of the company’s email service.",
+        "metadata": {
+          "title": "Google Malaysia taken offline by Pakistani hackers | Google | The Guardian",
+          "description": "DNS redirect hack sends unwitting Google Malaysia visitors to hacker group&rsquo;s server before the site is taken completely offline. By <strong>Samuel Gibbs</strong>",
+          "og:url": "http://www.theguardian.com/technology/2013/oct/11/google-malaysia-taken-offline-by-pakistani-hackers",
+          "article:author": "https://www.theguardian.com/profile/samuel-gibbs",
+          "og:image:width": "1200",
+          "og:image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/10/11/1381485796564/6bdf16ef-830b-4a53-b2fb-e53ff9b37fc8-1020x612.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=7763dd0546b8ce4d91e827a078f5b40a",
+          "al:ios:url": "gnmguardian://technology/2013/oct/11/google-malaysia-taken-offline-by-pakistani-hackers?contenttype=Article&source=applinks",
+          "article:publisher": "https://www.facebook.com/theguardian",
+          "og:title": "Google Malaysia taken offline by Pakistani hackers",
+          "fb:app_id": "180444840287",
+          "article:modified_time": "2017-02-21T19:09:20.000Z",
+          "og:image:height": "720",
+          "og:description": "DNS redirect hack sends unwitting Google Malaysia visitors to hacker group’s server before the site is taken completely offline. By Samuel Gibbs",
+          "og:type": "article",
+          "al:ios:app_store_id": "409128287",
+          "article:section": "Technology",
+          "article:published_time": "2013-10-11T11:18:34.000Z",
+          "article:tag": "Google,Malaysia,Technology,Data and computer security,Hacking,Internet,Asia Pacific,World news",
+          "al:ios:app_name": "The Guardian",
+          "og:site_name": "the Guardian"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Google's Malaysian site was taken offline and subjected to a DNS redirect attack by a Pakistani hacker group calling itself 'Team Madleets' or 'TeaM MADLEETS'. The attack altered Google's Malaysian DNS records to redirect visitors to hacker-controlled servers. The incident involved the Malaysia Network Information Centre (MYNIC), an agency under the Malaysian ministry of communications and multimedia.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Malaysia"
+        ],
+        "ORGANIZATION": [
+          "Google",
+          "The Guardian",
+          "Team Madleets",
+          "Malaysia Network Information Centre",
+          "MYNIC",
+          "Malaysian ministry of communications and multimedia",
+          "MYNIC Computer Security Incident Response Team",
+          "TechCrunch"
+        ],
+        "DATE": [
+          "Thursday",
+          "7.10 am today",
+          "July"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          ".my",
+          "DNS",
+          "www.google.com.my",
+          "www.google.my"
+        ]
+      },
+      "score_e5": 0.7529765058047261
+    },
+    {
+      "titre": "Google glitch sends thousands of emails to man's Hotmail account",
+      "source": "NBC News",
+      "lien": "https://www.nbcnews.com/tech/tech-news/google-glitch-sends-thousands-emails-mans-hotmail-account-flna2d11988974",
+      "image_url": "http://media2.s-nbcnews.com/i/streams/2014/January/140124/2D11416861-140124-gmail-5p.jpg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Hg5QMoHHsqtMQ3ONcxqG0TbX0-RK5op5wgiaIZo7QHTuB6o6",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Google glitch sends thousands of emails to man's Hotmail account",
+        "link": "https://www.nbcnews.com/tech/tech-news/google-glitch-sends-thousands-emails-mans-hotmail-account-flna2d11988974",
+        "source": "NBC News",
+        "source_icon": "https://serpapi.com/searches/6a8efc4b932b0e7a1e3b0ba3/images/J40GwlHKDTR07YSH5Y8mqPnfuVr9Dt68Bmqyle60p94.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0Hg5QMoHHsqtMQ3ONcxqG0TbX0-RK5op5wgiaIZo7QHTuB6o6",
+        "thumbnail_width": 157,
+        "thumbnail_height": 322,
+        "image": "http://media2.s-nbcnews.com/i/streams/2014/January/140124/2D11416861-140124-gmail-5p.jpg",
+        "image_width": 1219,
+        "image_height": 2500
+      },
+      "webpage": {
+        "text": "Google glitch sends thousands of emails to man's Hotmail account\n\nUpdated at 6:06 p.m. ET:\nA Google spokesperson says the search glitch that flooded Peck's inbox was not related to the Gmail outage. Here's the statement provided to NBC News:\n\n\"Due to a technical glitch, some email addresses on public webpages appeared too prominently in search results. We’ve fixed the issue and are sorry for any inconvenience caused.\"\n\nOriginal story:\nDavid S. Peck won’t ever be one to complain about never getting any (e)mail anymore.\n\n\nThe Fresno, Calif., man on Friday was deluged with thousands of empty emails from strangers, all due to an apparent glitch in Google search.\n\nMany users who searched for the term “gmail” were led to a results page with a normal-looking top result: “Gmail – Email from Google.” Just below the entry were two sublinks, one for “Email” and one for “Gmail – Google.” Clicking on the first sublink launched a Gmail window with a Hotmail email address – which happened to be poor Mr. Peck’s – automatically populated in the “To” field.\n\nPeck told TechCrunch the flood of unsolicited emails started on Thursday. He said he deleted all the extraneous emails Thursday night, but woke up Friday to find his Hotmail inbox filled with 1,900 new emails. The email deluge continued for much of the day Friday.\n\n“I've been getting thousands of no-subject, blank emails,” he told TechCrunch. “Five hundred of them come every hour, I can’t stop them.”\n\nWe were earlier able to reproduce the glitch, but by Friday afternoon Google appeared to have remedied the problem by removing the sublinks from the search result. (The Google search result/email glitch may have been going on for days; Search Engine Land reported on it on Monday.)\n\nIt was unclear whether the bug that bombarded Peck's inbox was related to a widespread Gmail outage reported by Google on Friday. The outage left many Gmail users around the world unable to send or receive email.\n\nWe’ve reached out to Google for comment and will update this story when we hear back.",
+        "metadata": {
+          "fb:app_id": "143643636297368",
+          "fb:pages": "1508175089456029",
+          "og:site_name": "NBC News",
+          "og:locale": "en_US",
+          "cXenseParse:author": "James Eng",
+          "og:url": "http://www.nbcnews.com/tech/tech-news/google-glitch-sends-thousands-emails-mans-hotmail-account-flna2D11988974",
+          "og:title": "Google glitch sends thousands of emails to man's Hotmail account",
+          "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/streams/2014/January/140124/2D11416861-140124-gmail-5p.jpg",
+          "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/streams/2014/January/140124/2D11416861-140124-gmail-5p.jpg",
+          "og:image:type": "image/jpeg",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "article",
+          "branch:deeplink:title": "Google glitch sends thousands of emails to man's Hotmail account",
+          "twitter:title": "Google glitch sends thousands of emails to man's Hotmail account",
+          "article:opinion": "false",
+          "article:content_tier": "free",
+          "article:published_time": "2014-01-24T23:06:00.000Z",
+          "article:modified_time": "2014-01-24T23:09:13.000Z",
+          "branch:deeplink:authorName1": "James Eng"
+        },
+        "jsonld": {
+          "@context": {
+            "@vocab": "http://schema.org",
+            "articleId": {
+              "@id": "Text",
+              "@type": "@id"
+            },
+            "topics": {
+              "@id": "Text",
+              "@type": "@id"
+            }
+          },
+          "@type": "NewsArticle",
+          "headline": "Google glitch sends thousands of emails to man's Hotmail account",
+          "url": "http://www.nbcnews.com/tech/tech-news/google-glitch-sends-thousands-emails-mans-hotmail-account-flna2D11988974",
+          "thumbnailUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/streams/2014/January/140124/2D11416861-140124-gmail-5p.jpg",
+          "alternativeHeadline": "Google glitch sends thousands of emails to man's Hotmail account",
+          "articleBody": "Updated at 6:06 p.m. ET:A Google spokesperson says the search glitch that flooded Peck's inbox was not related to the Gmail outage. Here's the statement provided to NBC News: \"Due to a technical glitch, some email addresses on public webpages appeared too prominently in search results. We’ve fixed the issue and are sorry for any inconvenience caused.\" Original story:David S. Peck won’t ever be one to complain about never getting any (e)mail anymore. The Fresno, Calif., man on Friday was deluged with thousands of empty emails from strangers, all due to an apparent glitch in Google search. Many users who searched for the term “gmail” were led to a results page with a normal-looking top result: “Gmail – Email from Google.” Just below the entry were two sublinks, one for “Email” and one for “Gmail – Google.” Clicking on the first sublink launched a Gmail window with a Hotmail email address – which happened to be poor Mr. Peck’s – automatically populated in the “To” field. Peck told TechCrunch the flood of unsolicited emails started on Thursday. He said he deleted all the extraneous emails Thursday night, but woke up Friday to find his Hotmail inbox filled with 1,900 new emails. The email deluge continued for much of the day Friday. “I've been getting thousands of no-subject, blank emails,” he told TechCrunch. “Five hundred of them come every hour, I can’t stop them.” We were earlier able to reproduce the glitch, but by Friday afternoon Google appeared to have remedied the problem by removing the sublinks from the search result. (The Google search result/email glitch may have been going on for days; Search Engine Land reported on it on Monday.) It was unclear whether the bug that bombarded Peck's inbox was related to a widespread Gmail outage reported by Google on Friday. The outage left many Gmail users around the world unable to send or receive email. We’ve reached out to Google for comment and will update this story when we hear back.",
+          "dateModified": "2014-01-24T23:06:00.000Z",
+          "datePublished": "2014-01-24T23:06:00.000Z",
+          "articleSection": "tech",
+          "articleId": "flna2D11988974",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "uid",
+            "value": "flna2D11988974"
+          },
+          "topics": "",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2014/January/140124/2D11416861-140124-gmail-5p.jpg",
+            "caption": "Screenshot of Google search page",
+            "height": 1219,
+            "width": 2500
+          },
+          "author": [
+            {
+              "@context": "https://schema.org/",
+              "@type": "Person",
+              "name": "James Eng",
+              "image": null,
+              "jobTitle": null
+            }
+          ],
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "NBC News",
+            "masthead": "https://www.nbcnews.com/news/us-news/nbc-news-digital-editors-n893846",
+            "url": "https://www.nbcnews.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_60/v1696280688/newsgroup-logos/nbcnews/logo/primary-black-424x45.png"
+            },
+            "sameAs": [
+              "https://x.com/nbcnews",
+              "https://www.pinterest.com/nbcnews/",
+              "https://www.facebook.com/NBCNews/",
+              "https://www.instagram.com/nbcnews/",
+              "https://www.youtube.com/nbcnews",
+              "https://www.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/2193844248074240",
+              "https://www.tiktok.com/@nbcnews?lang=en",
+              "https://en.wikipedia.org/wiki/NBC_News"
+            ],
+            "subOrganization": {
+              "@type": "NewsMediaOrganization",
+              "name": "NBC Selected",
+              "alternateName": "NBC Select",
+              "masthead": "https://www.nbcnews.com/select/shopping/masthead-rcna167949",
+              "url": "https://www.nbcnews.com/select",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://media-cldnry.s-nbcnews.com/image/upload/h_112/rockcms/2026-05/selected-black-horizontal-f762bb.png"
+              },
+              "sameAs": [
+                "https://x.com/nbcselect",
+                "https://www.facebook.com/NBCSelect",
+                "https://www.instagram.com/nbcselect/",
+                "https://www.youtube.com/@NBCSelect",
+                "https://www.tiktok.com/@nbcselect",
+                "https://www.threads.com/@nbcselect",
+                "https://bsky.app/profile/nbcselect.nbcnews.com",
+                "https://x.com/nbcselected",
+                "https://www.facebook.com/NBCSelected",
+                "https://www.instagram.com/nbcselected/",
+                "https://www.youtube.com/@NBCSelected",
+                "https://www.tiktok.com/@nbcselected",
+                "https://www.threads.com/@nbcselected",
+                "https://bsky.app/profile/nbcselected.nbcnews.com",
+                "https://www.linkedin.com/showcase/nbc-selected/"
+              ]
+            }
+          },
+          "description": null,
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http://www.nbcnews.com/tech/tech-news/google-glitch-sends-thousands-emails-mans-hotmail-account-flna2D11988974"
+          },
+          "keywords": "News",
+          "isAccessibleForFree": true
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A technical glitch in Google search caused public email addresses to appear too prominently in search results, resulting in a man named David S. Peck from Fresno, California, receiving thousands of empty and unsolicited emails to his Hotmail account.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "David S. Peck",
+          "Peck"
+        ],
+        "LOCATION": [
+          "Fresno",
+          "Calif."
+        ],
+        "ORGANIZATION": [
+          "NBC News",
+          "Google",
+          "Gmail",
+          "TechCrunch",
+          "Search Engine Land"
+        ],
+        "DATE": [
+          "6:06 p.m. ET",
+          "Friday",
+          "Thursday",
+          "Thursday night",
+          "Monday"
+        ],
+        "EVENT": [
+          "Gmail outage"
+        ],
+        "OTHER": [
+          "Hotmail",
+          "To"
+        ]
+      },
+      "score_e5": 0.7851683457611409
+    },
+    {
+      "titre": "Google May Soon Pass up Facebook in Ads",
+      "source": "WSJ",
+      "lien": "https://www.wsj.com/video/google-may-soon-pass-up-facebook-in-ads/489238D3-7DCA-45E1-991D-04B25787EDD7",
+      "image_url": "http://m.wsj.net/video/20120920/092012digitsgoogle/092012digitsgoogle_1280x720.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ37KIL1kiJfN7Gr4QDhM_msFkT-oHUosEPqt6rWG1KjWe134Lb",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Google May Soon Pass up Facebook in Ads",
+        "link": "https://www.wsj.com/video/google-may-soon-pass-up-facebook-in-ads/489238D3-7DCA-45E1-991D-04B25787EDD7",
+        "source": "WSJ",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX___8AAACrq6t0dHRtbW3t7e3Kysrg4OCzs7NycnL4-PjX19eJiYnl5eV4eHiEhISenp5SUlLy8vJmZmZeXl5DQ0OSkpK5ubk-Pj7Q0NAPDw-_v78hISEZGRnFxcWZmZkzMzMnJydZWVkvLy9KSkoFeU1DAAABEElEQVQ4je2RCXaDMAxEZ4LNHrMGQrOQtLn_GTsir0nhCq3ew5blz8iSgH97WuFCVsQuigrUrsQ-VGniFa-z4OKFCIyAhrXcj9yzxY4GoFtCshN7YGYpt0dJbee9xSPunoDnBYh5kBekpEi5BnCWZELdxCl6i6bJGuh5wpXcY05QkwW8XwM1BwydKJcDNBJrINYr3SjK6TCJ8BugVf4sYZNbIRjJ4wbAjcUA3uNxOaVkugEyVlccGCTdWpX83AA7S1vxJnfWl6sx1_E3UFgTRnYmZufmorb48AZy00yW1kc2n6af2Cjx6TXRr0oLJ5vcefFaST6Yv4DMnn208ofJ1Q9VM3bV8sNPjtfy3j3-kn0DFmYKh8s-0igAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ37KIL1kiJfN7Gr4QDhM_msFkT-oHUosEPqt6rWG1KjWe134Lb",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://m.wsj.net/video/20120920/092012digitsgoogle/092012digitsgoogle_1280x720.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": null,
+      "texte_contexte": "Google may soon pass up Facebook in ads, according to a WSJ video report.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "WSJ",
+          "Google",
+          "Facebook"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Ads"
+        ]
+      },
+      "score_e5": 0.7474812451254391
+    },
+    {
+      "titre": "How to Turn Off Google Instant Search - YouTube",
+      "source": "YouTube",
+      "lien": "https://www.youtube.com/watch?v=ItWVLWB1XIA",
+      "image_url": "https://i.ytimg.com/vi/ItWVLWB1XIA/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT23WrCKAaHgX_JBEQFpgtoJeGlNuyStupRZO7PeDfq6ciJmdxi",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "How to Turn Off Google Instant Search - YouTube",
+        "link": "https://www.youtube.com/watch?v=ItWVLWB1XIA",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT23WrCKAaHgX_JBEQFpgtoJeGlNuyStupRZO7PeDfq6ciJmdxi",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://i.ytimg.com/vi/ItWVLWB1XIA/maxresdefault.jpg",
+        "image_width": 720,
+        "image_height": 1280
+      },
+      "webpage": {
+        "text": "How to Turn Off Google Instant Search\n\nLifehacker\n\nFor more details, see http://lifehacker.com/5632939/google-instant-filters-your-google-search-results-as-you-type",
+        "metadata": {
+          "title": "How to Turn Off Google Instant Search",
+          "description": "For more details, see http://lifehacker.com/5632939/google-instant-filters-your-google-search-results-as-you-type",
+          "keywords": "Lifehacker, search results, life hacks, Gawker Media, google, search, google instant, settings, as you type",
+          "og:site_name": "YouTube",
+          "og:url": "https://www.youtube.com/watch?v=ItWVLWB1XIA",
+          "og:title": "How to Turn Off Google Instant Search",
+          "og:image": "https://i.ytimg.com/vi/ItWVLWB1XIA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgYygWMA8=&rs=AOn4CLAY6gsv1yTc8T1kUOYv13b-oYyLCg",
+          "og:image:width": "1280",
+          "og:image:height": "720",
+          "og:description": "For more details, see http://lifehacker.com/5632939/google-instant-filters-your-google-search-results-as-you-type",
+          "al:ios:app_store_id": "544007664",
+          "al:ios:app_name": "YouTube",
+          "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=ItWVLWB1XIA&feature=applinks",
+          "al:android:url": "vnd.youtube://www.youtube.com/watch?v=ItWVLWB1XIA&feature=applinks",
+          "al:web:url": "http://www.youtube.com/watch?v=ItWVLWB1XIA&feature=applinks",
+          "og:type": "video.other",
+          "og:video:url": "https://www.youtube.com/embed/ItWVLWB1XIA",
+          "og:video:secure_url": "https://www.youtube.com/embed/ItWVLWB1XIA",
+          "og:video:type": "text/html",
+          "og:video:width": "1280",
+          "og:video:height": "720",
+          "al:android:app_name": "YouTube",
+          "al:android:package": "com.google.android.youtube",
+          "og:video:tag": "as you type",
+          "fb:app_id": "87741124305",
+          "twitter:title": "How to Turn Off Google Instant Search",
+          "twitter:description": "For more details, see http://lifehacker.com/5632939/google-instant-filters-your-google-search-results-as-you-type"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "A tutorial by Lifehacker explaining how to turn off Google Instant Search, which filters search results as you type.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "YouTube",
+          "Lifehacker",
+          "Google"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "Google Instant Search"
+        ]
+      },
+      "score_e5": 0.774742595662457
+    },
+    {
+      "titre": "Google Instant - 2015-02-25 - The Google Search Evolution",
+      "source": "Forbes",
+      "lien": "https://www.forbes.com/pictures/eide45lee/google-instant/",
+      "image_url": "https://imageio.forbes.com/blogs-images/michaelmillenson/files/2015/02/0ffI1qz07Q18d_811.jpg?format=jpg&height=1200&width=400&fit=bounds",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCMXyaPkz4IOv1R3FiosS1ivRKGIP3MVOnZN2ZYh0yJDHAda9",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Google Instant - 2015-02-25 - The Google Search Evolution",
+        "link": "https://www.forbes.com/pictures/eide45lee/google-instant/",
+        "source": "Forbes",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEUYFxb___8AAAAVFBMHBQLMzMx-fn7Q0NDU1NT7-_vY19cwLy_T09Pg4OAcGxoODAsjIiFramqsrKzm5uZWVlUsLCrx8fE8OztRUFBKSkm-vr54d3e1tbXe3t5oaGimpqWdnZ1gX19DQkKGhoaNjY0uM3eHAAAA4UlEQVQ4jdWS3RqCIAyGYSgomqiklj-l2f1fY5t4JNhxfSfybC9z-xhjvyM46pivtYpJioTf5ECITFqOSrVS-UQnEAcCrhS-NFi9kK0P4F9SBKZMENxxbnzggoBuhGuJMx9ICCi3uLnZ0gdiAgqMQ8SKe8CJHoEEAYiHiJkAMBJgALq2ivz01hhO8agGy0-AJxnV0rBfKuTo03gGjG4Kk5310O8-wLwEZth9mMhJ32UHaHqsLpzcAHpv-wpWJwnY9mEJ9kf3QRLAZ2_Z9rxMuFNeBwlTrdJpfYe7MKf7_A_6AFW3CNmtF5CiAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCMXyaPkz4IOv1R3FiosS1ivRKGIP3MVOnZN2ZYh0yJDHAda9",
+        "thumbnail_width": 188,
+        "thumbnail_height": 268,
+        "image": "https://imageio.forbes.com/blogs-images/michaelmillenson/files/2015/02/0ffI1qz07Q18d_811.jpg?format=jpg&height=1200&width=400&fit=bounds",
+        "image_width": 280,
+        "image_height": 400
+      },
+      "webpage": {
+        "text": "Google Instant - 2015-02-25\n\nGoogle Instant\n\nJon Wiley and his User Experience (UX) team put proposed changes like Google Instant, which displays relevant search results as you type and offer predictions for your query, through a rigorous process of testing with real-life users.",
+        "metadata": {
+          "og:site_name": "Forbes",
+          "og:title": "Google Instant - 2015-02-25 - The Google Search Evolution",
+          "og:type": "article",
+          "og:url": "https://www.forbes.com/pictures/eide45lee/google-instant/",
+          "og:image": "https://imageio.forbes.com/blogs-images/michaelmillenson/files/2015/02/0ffI1qz07Q18d_811.jpg?format=jpg&height=491&width=655&fit=bounds",
+          "og:image:type": "image/jpg",
+          "og:description": "Jon Wiley and his User Experience (UX) team put proposed changes like Google Instant, which displays relevant search results as you type and offer predictions for your query, through a rigorous process of testing with real-life users.",
+          "fb:app_id": "123694841080850",
+          "twitter:title": "Google Instant",
+          "twitter:description": "Jon Wiley and his User Experience (UX) team put proposed changes like Google Instant, which displays relevant search results as you type and offer predictions for your query, through a rigorous process of testing with real-life users.",
+          "description": "Jon Wiley and his User Experience (UX) team put proposed changes like Google Instant, which displays relevant search results as you type and offer predictions for your query, through a rigorous process of testing with real-life users."
+        },
+        "jsonld": {
+          "@context": "http://schema.org/",
+          "@type": "ImageGallery",
+          "image": [
+            {
+              "@type": "ImageObject"
+            },
+            {
+              "@type": "ImageObject"
+            },
+            {
+              "@type": "ImageObject"
+            },
+            {
+              "@type": "ImageObject"
+            },
+            {
+              "@type": "ImageObject"
+            },
+            {
+              "@type": "ImageObject"
+            },
+            {
+              "@type": "ImageObject"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Google Instant, developed by Jon Wiley and his User Experience (UX) team, displays relevant search results as you type and offers predictions for queries after a rigorous process of testing with real-life users.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jon Wiley"
+        ],
+        "LOCATION": [],
+        "ORGANIZATION": [
+          "Forbes",
+          "Google"
+        ],
+        "DATE": [
+          "2015-02-25"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Google Instant",
+          "User Experience"
+        ]
+      },
+      "score_e5": 0.758619690330519
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Egypt"
+    ],
+    "ORGANIZATION": [
+      "Bitly"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Malaysia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Google",
+      "rangs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Guardian",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Team Madleets",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Malaysia Network Information Centre",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MYNIC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Malaysian ministry of communications and multimedia",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MYNIC Computer Security Incident Response Team",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "TechCrunch",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        1,
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "7.10 am today",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "July",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": ".my",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "DNS",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "www.google.com.my",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "www.google.my",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "David S. Peck",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Fresno",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Calif.",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "NBC News",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Gmail",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Search Engine Land",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "6:06 p.m. ET",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday night",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Gmail outage",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Hotmail",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "To",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "WSJ",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Ads",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "YouTube",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Lifehacker",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Google Instant Search",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Jon Wiley",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Forbes",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2015-02-25",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Google Instant",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "User Experience",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T01:19:20.306015"
+  }
+}

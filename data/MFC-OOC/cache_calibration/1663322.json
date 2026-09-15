@@ -1,0 +1,537 @@
+{
+  "id_rumeur": 1663322,
+  "id_image": 1663322,
+  "caption": "Icicles at Black Water near Garve in Rossshire",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787747225/oluyewo_benchmark/tb3ekdp2q3g8adlb0ni6.jpg",
+  "matched": true,
+  "resultats_lens": [
+    {
+      "titre": "Winter's lowest temperature recorded in Kinbrace - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/uk-scotland-highlands-islands-35350458",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/10476/production/_87787666_ice.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbvxY3oxfP9Fk4IoG6ZGuxJ7KphxCEW3iioKzrIFTVEkbSjnHN",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Winter's lowest temperature recorded in Kinbrace - BBC News",
+        "link": "https://www.bbc.com/news/uk-scotland-highlands-islands-35350458",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEX___8AAAAEBASvr6_Z2dmDg4MVFRWysrK2trbz8_Pn5-cZGRkICAhir1qnAAAASUlEQVQ4je2POQ4AIRDDYAiE6__vhVCstqNDFLixFLmYce5xFQgil0qZteQ14Auit0kDu9yJJvv4C0QCTTYireFwsDly--bjCgaXqwK154oknQAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbvxY3oxfP9Fk4IoG6ZGuxJ7KphxCEW3iioKzrIFTVEkbSjnHN",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/10476/production/_87787666_ice.jpg",
+        "image_width": 549,
+        "image_height": 976
+      },
+      "webpage": {
+        "text": "Winter's lowest temperature recorded in Kinbrace\n\nShe added: \"It will be localised however, so one spot may dip to -12C, but down the road it could be -1C.\"\n\nThe freezing temperatures come during a cold spell that has already brought ice and snow to large parts of Scotland.\n\nAll five of Scotland's mountain snowsports centres have been able to open to skiers and snowboarders.\n\nPhotographers, meanwhile, have been drawn to Black Water near Garve in Ross-shire where huge icicles have formed.\n\nThe Sportscotland Avalanche Information Service, external has rated the potential risk of avalanches in areas popular with climbers and hillwalkers as \"considerable\".",
+        "metadata": {
+          "description": "The UK has recorded its lowest temperature of the winter so far after the mercury fell to -12.4C in Kinbrace in Sutherland at 09:00 on Tuesday.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "The UK has recorded its lowest temperature of the winter so far after the mercury fell to -12.4C in Kinbrace in Sutherland at 09:00 on Tuesday.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10476/production/_87787666_ice.jpg",
+          "og:image:alt": "Icicles at Black Water near Garve",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Winter's lowest temperature recorded in Kinbrace",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/uk-scotland-highlands-islands-35350458",
+          "article:section": "Highlands & Islands",
+          "twitter:description": "The UK has recorded its lowest temperature of the winter so far after the mercury fell to -12.4C in Kinbrace in Sutherland at 09:00 on Tuesday.",
+          "twitter:title": "Winter's lowest temperature recorded in Kinbrace"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/uk-scotland-highlands-islands-35350458",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2016-01-19T09:13:43.000Z",
+          "dateModified": "2016-01-19T13:35:14.000Z",
+          "description": "The UK has recorded its lowest temperature of the winter so far after the mercury fell to -12.4C in Kinbrace in Sutherland at 09:00 on Tuesday.",
+          "headline": "Winter's lowest temperature recorded in Kinbrace",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10476/production/_87787666_ice.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10476/production/_87787666_ice.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/uk-scotland-highlands-islands-35350458",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Winter's lowest temperature recorded in Kinbrace. A cold spell has brought ice and snow to large parts of Scotland, allowing all five of Scotland's mountain snowsports centres to open for skiers and snowboarders. Photographers have visited Black Water near Garve in Ross-shire to see huge icicles. The Sportscotland Avalanche Information Service rated the potential risk of avalanches as considerable in popular climbing and hillwalking areas.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Kinbrace",
+          "Scotland",
+          "Black Water",
+          "Garve",
+          "Ross-shire"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Sportscotland Avalanche Information Service"
+        ],
+        "DATE": [
+          "Winter"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "icicles",
+          "snow",
+          "ice"
+        ]
+      },
+      "score_e5": 0.8698263194135093
+    },
+    {
+      "titre": "Gibsons Cave today , so beautiful",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/2323819774355476/posts/28120292994281467/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1133101438389806",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRplONzzVNR7C_fThxluw-gdQiIs2JKpI7vRD5ulrKXCQDneD2o",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Gibsons Cave today , so beautiful",
+        "link": "https://www.facebook.com/groups/2323819774355476/posts/28120292994281467/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRplONzzVNR7C_fThxluw-gdQiIs2JKpI7vRD5ulrKXCQDneD2o",
+        "thumbnail_width": 259,
+        "thumbnail_height": 194,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1133101438389806",
+        "image_width": 2048,
+        "image_height": 1536
+      },
+      "webpage": {
+        "text": "Barnard Castle Official | Gibsons Cave today , so beautiful\n\nBarnard Castle Official\n\nSteph Claire · Jan 12, 2025\n\n·\n\n\nGibsons Cave today , so beautiful\n\n\n109\n\n2\n\n6",
+        "metadata": {
+          "title": "Barnard Castle Official | Gibsons Cave today , so beautiful | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTEwMDA1MDY5ODgwNzQ4MTpWSzoyODEyMDI5Mjk5NDI4MTQ2Nw==",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTEwMDA1MDY5ODgwNzQ4MTpWSzoyODEyMDI5Mjk5NDI4MTQ2Nw==",
+          "og:type": "video.other",
+          "og:title": "Barnard Castle Official | Gibsons Cave today , so beautiful | Facebook",
+          "og:description": "Gibsons Cave today , so beautiful",
+          "og:url": "https://www.facebook.com/groups/2323819774355476/posts/28120292994281467/",
+          "og:image:alt": "Barnard Castle Official | Gibsons Cave today , so beautiful | Facebook",
+          "og:image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/473190074_601051689136565_792075679689908908_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c26028&_nc_ohc=QA1dFvyiIpEQ7kNvwHI21Kc&_nc_oc=AdqOfFdRxl2UAaGH4BaoJQ4sQDrHghEcgS1D7j9DPW4rU1326LsjqvcYaXy0UafnJdN88lpjjyZC3G3Z4pcsZrry&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=bQNGdiTkgsrC9vwYtbkB7w&_nc_ss=7020f&oh=00_AQIC-z1Xo5x1VOlCIJj9E5DapjvVT7RF7-o7NFQP1Pi1fw&oe=6AA29BA2",
+          "og:locale": "en_US",
+          "description": "Gibsons Cave today , so beautiful",
+          "twitter:title": "Barnard Castle Official | Gibsons Cave today , so beautiful | Facebook",
+          "twitter:description": "Gibsons Cave today , so beautiful"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Gibsons Cave today, so beautiful, posted in Barnard Castle Official by Steph Claire.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Steph Claire"
+        ],
+        "LOCATION": [
+          "Gibsons Cave",
+          "Barnard Castle"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Barnard Castle Official"
+        ],
+        "DATE": [
+          "Jan 12, 2025"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7446078855856817
+    },
+    {
+      "titre": "Brookmill Cabin | Perhaps we got this cinema thingy right ...",
+      "source": "Instagram",
+      "lien": "https://www.instagram.com/reel/C5PYZstRzHx/",
+      "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3549095006814091360",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdEJq8XuwXki0_ll6NyzM4xqnombWAKWZWJt0P26YCkod_U4E-",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Brookmill Cabin | Perhaps we got this cinema thingy right ...",
+        "link": "https://www.instagram.com/reel/C5PYZstRzHx/",
+        "source": "Instagram",
+        "source_icon": "https://serpapi.com/searches/6a8edb9a998aad4ccb56e7d5/images/ZniVdQr6_Add0RCn-W8oXz72LEDDkoVUooDY2uQBrAo.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdEJq8XuwXki0_ll6NyzM4xqnombWAKWZWJt0P26YCkod_U4E-",
+        "thumbnail_width": 250,
+        "thumbnail_height": 201,
+        "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3549095006814091360",
+        "image_width": 1791,
+        "image_height": 1440
+      },
+      "webpage": null,
+      "texte_contexte": "Brookmill Cabin Perhaps we got this cinema thingy right",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Brookmill Cabin"
+        ],
+        "ORGANIZATION": [
+          "Instagram"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "cinema"
+        ]
+      },
+      "score_e5": 0.7532082722558036
+    },
+    {
+      "titre": "Mother Nature's art work in the West Kootenay",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/groups/britishcolumbiaphotos/posts/4384488628437688/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2655592444816961",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWzWIGNbEBXEXp3zv3M7yk75FePGCMzVl9LDSfuf1-NPIfenO",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Mother Nature's art work in the West Kootenay",
+        "link": "https://www.facebook.com/groups/britishcolumbiaphotos/posts/4384488628437688/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWzWIGNbEBXEXp3zv3M7yk75FePGCMzVl9LDSfuf1-NPIfenO",
+        "thumbnail_width": 279,
+        "thumbnail_height": 181,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2655592444816961",
+        "image_width": 2048,
+        "image_height": 1328
+      },
+      "webpage": {
+        "text": "British Columbia Photos | Mother Nature's art work in the West Kootenay\n\nFacebook\n\nApri app\nAccedi\nBritish Columbia Photos\nMarcia Hogg · 26 gen\n·\n\n\nMother Nature's art work in the West Kootenay\n\n\n113\n\n1\n\n4\n\n\nCaricamento...\n\nRiprova\nAnnulla\nCaricamento...\n\n\nCaricamento...",
+        "metadata": {
+          "title": "British Columbia Photos | Mother Nature&#039;s art work in the West Kootenay | Facebook",
+          "al:android:app_name": "Facebook",
+          "al:android:package": "com.facebook.katana",
+          "al:android:url": "fb://native_post/UzpfSTEwMDAxMDk4Njk0MDE1MjpWSzo0Mzg0NDg4NjI4NDM3Njg4",
+          "al:ios:app_name": "Facebook",
+          "al:ios:app_store_id": "284882215",
+          "al:ios:url": "fb://story/?graphqlid=UzpfSTEwMDAxMDk4Njk0MDE1MjpWSzo0Mzg0NDg4NjI4NDM3Njg4",
+          "og:type": "video.other",
+          "og:title": "British Columbia Photos | Mother Nature's art work in the West Kootenay | Facebook",
+          "og:description": "Mother Nature's art work in the West Kootenay",
+          "og:url": "https://www.facebook.com/groups/britishcolumbiaphotos/posts/4384488628437688/",
+          "og:image:alt": "British Columbia Photos | Mother Nature's art work in the West Kootenay | Facebook",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2655592444816961",
+          "og:locale": "en_US",
+          "description": "Mother Nature's art work in the West Kootenay",
+          "twitter:title": "British Columbia Photos | Mother Nature's art work in the West...",
+          "twitter:description": "Mother Nature's art work in the West Kootenay"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Mother Nature's art work in the West Kootenay, posted by Marcia Hogg on British Columbia Photos.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Marcia Hogg"
+        ],
+        "LOCATION": [
+          "West Kootenay",
+          "British Columbia"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "British Columbia Photos"
+        ],
+        "DATE": [
+          "26 gen"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.793417544849366
+    },
+    {
+      "titre": "Great Smoky Mountains National Park, April 6, 2024. The ...",
+      "source": "Reddit",
+      "lien": "https://www.reddit.com/r/NationalPark/comments/1by58dj/great_smoky_mountains_national_park_april_6_2024/",
+      "image_url": "https://preview.redd.it/great-smoky-mountains-national-park-april-6-2024-the-drive-v0-rvu00aa9d2tc1.jpg?width=640&crop=smart&auto=webp&s=617504e7042cd36e2f9fb214acf955592db0bb50",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPr5vaj99GTYC0x--KhVi29xEpVWwlmO6q5oSZA7kA8_LeaY-F",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Great Smoky Mountains National Park, April 6, 2024. The ...",
+        "link": "https://www.reddit.com/r/NationalPark/comments/1by58dj/great_smoky_mountains_national_park_april_6_2024/",
+        "source": "Reddit",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEVHcEz_RQD_RgD_RQD_RQD_RQD_RAD_RQD_RQD_RQD-____RQD_NwD_PQD_QQDw9vj3_P3i7O_M2eD07-z6fFvQ4OcBBAb_Ug30uKz408n7Zjr7jnLa5Ojcj4T5cEzYop7Qz9HDycv0nYrLQiXpWzwZJChaNitkZWaiLgTvGwCIfHuOW01HcEyTqjndAAAALXRSTlMAyU9SiuIMIvWe_____________________________________________wAEJt9nAAABrUlEQVQ4jYVTWXaDMAyEpKyyvBA7Zg9kb3v_-1U2JYG2eZ0fY8_YEtIoCB6It1mYAqRhto2D30gyIh_Ikp_8G_zA2_p6tCKRMQ7R4pEkXfGsqaoaIU1e8HjMCZY_Fev3-f2mSHBEgOiv_E6X64eSUjrBlGmyzv5y4rpVquB-54Jky-f5_co51ofOToKM6ucJpD1naPX1U1vGGHJ_BGkcbN1_Wa2B9eUu99iVPQNNQqI2LgJrBJ1W-QIVaUXDXIwQUOcvoBHCIAVWvRJUDNIAHoLDYSbmLxKAE5RCyjzv3uvv8-6972iRonSCFHhtSCFOUJ8nwRnqkyDe1NQPShKwb0lxtrb_zs3aMxW77anaoS8kBRGy0s1ch0ZXUvgA9JuuUNiIHUmkKoZxHArXKyFEg75QMZmBg1FKCXHZe1yIVaoFV-t4ahZq07ZKjJNgdHSrcWrW1G7sTFEYNd72-9uoWlOYDud2T4ZheigKp1HGrYNmC2t7y6E9DsaTxgxH6-9HK9NyhLopCU0N3gsLW8-m4jQQzizT7sn_miqP6B_-OXqbP9g0ez13bvw3i_H_Asr5MBnHLL6RAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPr5vaj99GTYC0x--KhVi29xEpVWwlmO6q5oSZA7kA8_LeaY-F",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://preview.redd.it/great-smoky-mountains-national-park-april-6-2024-the-drive-v0-rvu00aa9d2tc1.jpg?width=640&crop=smart&auto=webp&s=617504e7042cd36e2f9fb214acf955592db0bb50",
+        "image_width": 360,
+        "image_height": 640
+      },
+      "webpage": null,
+      "texte_contexte": "Great Smoky Mountains National Park, April 6, 2024.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Great Smoky Mountains National Park"
+        ],
+        "ORGANIZATION": [
+          "Reddit"
+        ],
+        "DATE": [
+          "April 6, 2024"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7489202610503174
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Black Water",
+      "Garve",
+      "Rossshire"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Icicles"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Kinbrace",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Black Water",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Garve",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ross-shire",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Sportscotland Avalanche Information Service",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Winter",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "icicles",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "snow",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "ice",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Steph Claire",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Gibsons Cave",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Barnard Castle",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Barnard Castle Official",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Jan 12, 2025",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Brookmill Cabin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Instagram",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "cinema",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Marcia Hogg",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "West Kootenay",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "British Columbia",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "British Columbia Photos",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "26 gen",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Great Smoky Mountains National Park",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reddit",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "April 6, 2024",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T02:21:48.319825"
+  }
+}

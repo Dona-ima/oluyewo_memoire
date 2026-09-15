@@ -1,0 +1,559 @@
+{
+  "id_rumeur": 767445,
+  "id_image": 1668000,
+  "caption": "Bayern Munich supporters pose next to a member of The Queen s Life Guard standing on duty in central London",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748238/oluyewo_benchmark/a21buddh1csxkevilvr8.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Iranians mock Israeli prime minster Netanyahu over jeans ...",
+      "source": "The Independent",
+      "lien": "https://www.independent.co.uk/news/world/middle-east/iranians-mock-israeli-prime-minster-netanyahu-over-jeans-comment-8865968.html",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/10/08/08/Tehranjeans.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQODSuphab5QdZAkf5S9U8U3Q7KPuDadNuUrSHapQlfHuqWhfpk",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Iranians mock Israeli prime minster Netanyahu over jeans ...",
+        "link": "https://www.independent.co.uk/news/world/middle-east/iranians-mock-israeli-prime-minster-netanyahu-over-jeans-comment-8865968.html",
+        "source": "The Independent",
+        "source_icon": "https://serpapi.com/searches/6a8ef95aa7d784b28ae06d44/images/JOsj6gI20bGq_Jr_Nv0zEHmdW30BykyydqsdYo7efjY.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQODSuphab5QdZAkf5S9U8U3Q7KPuDadNuUrSHapQlfHuqWhfpk",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/10/08/08/Tehranjeans.jpg",
+        "image_width": 1536,
+        "image_height": 2048
+      },
+      "webpage": {
+        "text": "Iranians mock Israeli prime minster Netanyahu over jeans comment | The Independent\n\nIranians have used social media to mock Benjamin Netanyahu, the Israeli prime minister, over comments he made suggesting they were not allowed to wear jeans.\n\nDuring an interview with BBC Perisan TV, Mr Netanyahu said that if Iranians were free, they would wear blue jeans and listen to Western music, leading to a campaign from Iranians on social media sites mocking his comments.\n\nMany posted images of young Iranians in comic poses wearing jeans and listening to Western music. One images showed an Iranian closet piled high with denim and a young boy in jeans whispering into the ear of Supreme Leader Ayatollah Ali Khamenei.\n\nJeans are not a banned item of clothing in Iran and some Western style music is tolerated.\n\nThe backlash also carried a more serious side. Some comments insisted that Israeli Prime Minister Benjamin Netanyahu is out of touch with ordinary life in Iran, where political dissent is often stifled but some Western-style amenities are common.",
+        "metadata": {
+          "fb:app_id": "235586169789578",
+          "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+          "description": " ",
+          "og:updated_time": "2013-10-08T08:03:36.000Z",
+          "article:published_time": "2013-10-08T08:03:36.000Z",
+          "article:modified_time": "2013-10-08T08:03:36.000Z",
+          "date": "2013-10-08T08:03:36.000Z",
+          "og:site_name": "The Independent",
+          "article:section": "News",
+          "article:subsection": "World",
+          "article:category": "News",
+          "article:author_name": "Heather Saul",
+          "article:content_type": "story",
+          "article:word_count": "170",
+          "article:image_count": "1",
+          "article:embed_count": "0",
+          "article:video_count": "0",
+          "article:internal_link_count": "0",
+          "article:external_link_count": "0",
+          "og:title": "Iranians mock Israeli prime minster Netanyahu over jeans comment",
+          "twitter:title": "Iranians mock Israeli prime minster Netanyahu over jeans comment",
+          "og:url": "https://www.independent.co.uk/news/world/middle-east/iranians-mock-israeli-prime-minster-netanyahu-over-jeans-comment-8865968.html",
+          "og:type": "article",
+          "og:description": " ",
+          "twitter:description": " ",
+          "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/10/08/08/Tehranjeans.jpg?width=1200&height=800&crop=1200:800",
+          "og:image:secure_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/10/08/08/Tehranjeans.jpg?width=1200&height=800&crop=1200:800",
+          "og:locale": "en_GB"
+        },
+        "jsonld": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.independent.co.uk/img/logo.png",
+            "width": 504,
+            "height": 60
+          },
+          "sameAs": [
+            "https://twitter.com/Independent",
+            "https://www.facebook.com/TheIndependentOnline",
+            "https://www.youtube.com/theindependent"
+          ],
+          "@id": "independent.co.uk"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des Iraniens se moquent du Premier ministre israélien Benjamin Netanyahu sur les réseaux sociaux après une interview accordée à BBC Persian TV, où il a affirmé que si les Iraniens étaient libres, ils porteraient des jeans et écouteraient de la musique occidentale. De nombreux utilisateurs ont publié des images humoristiques de jeunes Iraniens en jean, et certains commentaires ont souligné qu'il était déconnecté de la vie quotidienne en Iran, où les jeans ne sont pas interdits.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Benjamin Netanyahu",
+          "Ayatollah Ali Khamenei"
+        ],
+        "LOCATION": [
+          "Iran",
+          "Israel"
+        ],
+        "ORGANIZATION": [
+          "The Independent",
+          "BBC Persian TV"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "jeans",
+          "Western music"
+        ]
+      },
+      "score_e5": 0.6831518237501364
+    },
+    {
+      "titre": "Botox on the rise among Iranian men - AL-MONITOR: The ...",
+      "source": "Al-Monitor",
+      "lien": "https://www.al-monitor.com/originals/2014/08/iran-botox-men.html",
+      "image_url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/almpics/2014/07/183558824.jpg/183558824.jpg?h=c2c5b897&itok=YGFLmNGn",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMf35lOzZPNBhwFDc5SijyG7jKauR2ftDrZMol7albzRDucDR",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Botox on the rise among Iranian men - AL-MONITOR: The ...",
+        "link": "https://www.al-monitor.com/originals/2014/08/iran-botox-men.html",
+        "source": "Al-Monitor",
+        "source_icon": "https://serpapi.com/searches/6a8ef95aa7d784b28ae06d44/images/_83SSzy3yE-4JvUBjOI0l8nBfxrPBKhkARrsH1b6y_Q.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMf35lOzZPNBhwFDc5SijyG7jKauR2ftDrZMol7albzRDucDR",
+        "thumbnail_width": 162,
+        "thumbnail_height": 311,
+        "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/almpics/2014/07/183558824.jpg/183558824.jpg?h=c2c5b897&itok=YGFLmNGn",
+        "image_width": 628,
+        "image_height": 1200
+      },
+      "webpage": {
+        "text": "Botox on the rise among Iranian men\n\nWhy AL-MONITOR?\n\n\nAL-MONITOR is an award-winning media outlet covering the Middle East, valued for its independence, diversity and analysis. It is read widely by US, international and Middle East decision makers at the highest levels, as well as by media, thought and business leaders and academia.\n\n\nLive news & notifications\n\n\nFollow over 100 expert journalists based across the region and get notified in real time of breaking stories and exclusives. *Expanded coverage on Energy & Defense sectors.\n\n\nPremier analysis of the Middle East\n\n\nAccess the sharpest and most diverse regional minds giving you all the angles on regional trends.\n\n\nLive events & video\n\n\nPriority access to roundtables, summits and other events alongside AL-MONITOR's global community of regional influencers.\n\n\nSpecialized Newsletters\n\n\nGet timely reporting on key countries and sectors with up to 10 daily and weekly newsletters straight to your inbox.\n\n\nBig, exclusive interviews\n\n\nFollow conversations with the region's biggest names in politics and business.\n\n\nAL-MONITOR archives since 2012\n\n\nAccess a repository of over a decade's worth of regional coverage, insights and trends.",
+        "metadata": {
+          "title": "Botox on the rise among Iranian men - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012",
+          "description": "Iran’s Ministry of Health has announced that over the past year there has been a 20% increase in rejuvenation procedures received by Iranian men.",
+          "og:site_name": "AL-MONITOR: The Middle Eastʼs leading independent news source since 2012",
+          "og:type": "article",
+          "og:url": "https://www.al-monitor.com/originals/2014/08/iran-botox-men.html",
+          "og:title": "Botox on the rise among Iranian men",
+          "og:description": "Iran’s Ministry of Health has announced that over the past year there has been a 20% increase in rejuvenation procedures received by Iranian men.",
+          "og:image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/almpics/2014/07/183558824.jpg/183558824.jpg?h=c2c5b897&itok=YGFLmNGn",
+          "og:image:width": "1200",
+          "og:image:height": "628",
+          "og:image:alt": "Iranian men pose in a shop selling jeans in Tajrish Bazaar in Tehran on October 7, 2013. A campaign launched by young Iranians on internet networking sites Facebook and Twitter were mocking Israeli President Benjamin Netayahu following his comments during an interview diffused on October 5, in which he implied there is a supposed ban on wearing jeans and listening to Western music in the Islamic Republic. AFP PHOTO/ATTA KENARE (Photo credit should read ATTA KENARE/AFP/Getty Images)",
+          "twitter:description": "Iran’s Ministry of Health has announced that over the past year there has been a 20% increase in rejuvenation procedures received by Iranian men.",
+          "twitter:title": "Botox on the rise among Iranian men"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Présentation du média Al-Monitor, un média couvrant le Moyen-Orient et lu par des décideurs internationaux, des dirigeants et des universitaires, proposant des analyses, des actualités en direct, des événements et des bulletins d'information.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Middle East",
+          "US"
+        ],
+        "ORGANIZATION": [
+          "Al-Monitor"
+        ],
+        "DATE": [
+          "2012"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7045614309683627
+    },
+    {
+      "titre": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla ...",
+      "source": "Helsingin Sanomat",
+      "lien": "https://www.hs.fi/maailma/art-2000002679379.html",
+      "image_url": "https://images.sanoma-sndp.fi/ed55b1ae937341a89837241bdfd4efb6.jpg/normal/978.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKH43LrC8EGTHC-KJEumUB9Xuszlw5GOQ4ysHKiQiysbekzlLJ",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla ...",
+        "link": "https://www.hs.fi/maailma/art-2000002679379.html",
+        "source": "Helsingin Sanomat",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEX___8AAABAQEAgICDf39-AgIBgYGBQUFBwcHC_v7_v7-8QEBAwMDCQkJCfn5_Pz8-vr68oKp7FAAAAxklEQVQ4je2RURaFIAhEGRA1LWv_q32gr5O2huaHPNwGB4k-TdqYORAdzNlP0Y58zkCpQLEOUIkUnADoYhGRvFQIBUSioC9AcXhJ2I2N_hnKC9ABMPHbnUanHldTIJPPl-sNCP5Sar3GsPTb3UfzC7tkIRisJvNxb-1-PPVPS9e1Y-sJ1InJIt44D8CQtABi8WcHV8XTL-iLtv_8knlsQdID2BOMRUavFiBvZ54nhPvO4vlH3NrmlFmEbUbZxYxZRPa87unTD1A8BA0zbbN1AAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKH43LrC8EGTHC-KJEumUB9Xuszlw5GOQ4ysHKiQiysbekzlLJ",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://images.sanoma-sndp.fi/ed55b1ae937341a89837241bdfd4efb6.jpg/normal/978.jpg",
+        "image_width": 651,
+        "image_height": 978
+      },
+      "webpage": {
+        "text": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla\n\n* Siirry sivun pääsisältöön.\n * Siirry sivuston hakuun.\n\nIranilaiset ovat irvailleet Israelin pääministerin Benjamin Netanjahun kustannuksella lataamalla sosiaaliseen mediaan kuvia itsestään farkuissa.\n\nTeheran. Iranilaiset ovat irvailleet Israelin pääministerin Benjamin Netanjahun kustannuksella lataamalla sosiaaliseen mediaan kuvia itsestään farkuissa.\n\nNetanjahu sanoi lauantaina farsinkielisen brittikanava BBC:n haastattelussa, että jos \"iranilaiset olisivat vapaita, he pitäisivät farkkuja ja kuuntelisivat länsimaista musiikkia\".\n\n\nLue lisää kirjoittajalta\n\nAFP–HS\n\n\n----------------------------------------\n\n\nArtikkeliin liittyvää\n\n\nLuitko jo nämä?",
+        "metadata": {
+          "og:url": "https://www.hs.fi/maailma/art-2000002679379.html",
+          "keywords": "Helsingin Sanomat",
+          "al:ios:url": "https://www.hs.fi/maailma/art-2000002679379.html",
+          "al:ios:app_store_id": "380643421",
+          "al:ios:app_name": "Helsingin Sanomat",
+          "al:android:package": "fi.hs.android",
+          "al:android:app_name": "Helsingin Sanomat",
+          "og:site_name": "Helsingin Sanomat",
+          "description": "Iranilaiset ovat irvailleet Israelin pääministerin Benjamin Netanjahun kustannuksella lataamalla sosiaaliseen mediaan kuvia itsestään farkuissa. ",
+          "og:description": "Iranilaiset ovat irvailleet Israelin pääministerin Benjamin Netanjahun kustannuksella lataamalla sosiaaliseen mediaan kuvia itsestään farkuissa. ",
+          "og:title": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla",
+          "twitter:title": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla",
+          "apple-mobile-web-app-title": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla",
+          "article:section": "Maailma",
+          "og:image": "https://images.sanoma-sndp.fi/ed55b1ae937341a89837241bdfd4efb6.jpg/some/hs-default.jpg",
+          "fb:app_id": "188500207846299",
+          "og:type": "article",
+          "og:locale": "fi_FI"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.hs.fi/maailma/art-2000002679379.html"
+          },
+          "image": "https://images.sanoma-sndp.fi/ed55b1ae937341a89837241bdfd4efb6.jpg/normal/978.jpg",
+          "dateModified": "2013-10-07T19:57:18.000+03:00",
+          "publisher": {
+            "name": "Helsingin Sanomat",
+            "@type": "Organization"
+          },
+          "isPartOf": {
+            "@type": [
+              "CreativeWork",
+              "Product"
+            ],
+            "name": "Helsingin Sanomat",
+            "productID": "hs.fi:showcase"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AFP–HS"
+          },
+          "headline": "Iranilaiset irvailevat Israelin Netanjahulle farkkukuvilla",
+          "isAccessibleForFree": false,
+          "description": "Iranilaiset ovat irvailleet Israelin pääministerin Benjamin Netanjahun kustannuksella lataamalla sosiaaliseen mediaan kuvia itsestään farkuissa. ",
+          "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": false,
+            "cssSelector": ".paywall-section"
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Des Iraniens se moquent du Premier ministre israélien Benjamin Netanyahu en publiant des photos d'eux en jean sur les réseaux sociaux. Cette réaction fait suite aux propos de Netanyahu lors d'une interview sur la chaîne britannique en langue farsi de la BBC, déclarant que si les iraniens étaient libres, ils porteraient des jeans et écouteraient de la musique occidentale.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Benjamin Netanyahu"
+        ],
+        "LOCATION": [
+          "Iran",
+          "Israel",
+          "Tehran"
+        ],
+        "ORGANIZATION": [
+          "Helsingin Sanomat",
+          "AFP",
+          "BBC"
+        ],
+        "DATE": [
+          "Saturday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "jeans",
+          "Western music"
+        ]
+      },
+      "score_e5": 0.6929621935948727
+    },
+    {
+      "titre": "مهرناز صمیمی - AL-MONITOR: The Middle Eastʼs leading ...",
+      "source": "Al-Monitor",
+      "lien": "https://www.al-monitor.com/fa/contents/authors/mehrnaz-samimi.html",
+      "image_url": "https://www.al-monitor.com/sites/default/files/styles/article_header/public/almpics/2014/07/183558824.jpg/183558824.jpg?h=c2c5b897&itok=xItjORG1",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9vL5E53MmBwJGONXyc5HbtX_DBLF9GAEIFi36wyxAEi8XzpUz",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "مهرناز صمیمی - AL-MONITOR: The Middle Eastʼs leading ...",
+        "link": "https://www.al-monitor.com/fa/contents/authors/mehrnaz-samimi.html",
+        "source": "Al-Monitor",
+        "source_icon": "https://serpapi.com/searches/6a8ef95aa7d784b28ae06d44/images/OijgJGTCabO18wrAdQDKpRalvO2Y07MhvsVEmnoL7d4.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9vL5E53MmBwJGONXyc5HbtX_DBLF9GAEIFi36wyxAEi8XzpUz",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://www.al-monitor.com/sites/default/files/styles/article_header/public/almpics/2014/07/183558824.jpg/183558824.jpg?h=c2c5b897&itok=xItjORG1",
+        "image_width": 489,
+        "image_height": 870
+      },
+      "webpage": {
+        "text": "مهرناز صمیمی\n\nNewsletters Events\n\n\n * Subscribe\n * Sign in\n\n\nThe Middle Eastʼs leading independent news source since 2012\n\n\nSearch\n\n\nمهرناز صمیمی\n\nIn Washington, DC, reporting on Iranian culture\n\n\nمهرناز صمیمی یک روزنامه نگار ایرانی-آمریکایی است. \n\n\nگرایش فزاینده مردان ایرانی به تزریق بوتاکس\n\n\nMehrnaz Samimi\n\nIn Washington, DC, reporting on Iranian culture\n\n\nمَجازی اما غیرمُجاز: دوستیابی اینترنتی در ایران\n\n\nMehrnaz Samimi\n\nIn Washington, DC, reporting on Iranian culture",
+        "metadata": {
+          "title": "مهرناز صمیمی - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012",
+          "description": "مهرناز صمیمی یک روزنامه نگار ایرانی-آمریکایی است.",
+          "og:site_name": "AL-MONITOR: The Middle Eastʼs leading independent news source since 2012",
+          "og:type": "article",
+          "og:url": "https://www.al-monitor.com/fa/contents/authors/mehrnaz-samimi.html",
+          "og:title": "مهرناز صمیمی",
+          "og:description": "مهرناز صمیمی یک روزنامه نگار ایرانی-آمریکایی است.",
+          "og:image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/authors/MEHRNAZ.jpg/MEHRNAZ.jpg?h=55541bb6&itok=XXK06FCT",
+          "og:image:width": "1200",
+          "og:image:height": "628",
+          "twitter:description": "مهرناز صمیمی یک روزنامه نگار ایرانی-آمریکایی است.",
+          "twitter:title": "مهرناز صمیمی"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Page de l'auteur Mehrnaz Samimi sur le site d'Al-Monitor, couvrant la culture iranienne depuis Washington, DC.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Mehrnaz Samimi"
+        ],
+        "LOCATION": [
+          "Washington, DC",
+          "Iran"
+        ],
+        "ORGANIZATION": [
+          "Al-Monitor"
+        ],
+        "DATE": [
+          "2012"
+        ],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7326510921001196
+    },
+    {
+      "titre": "イランはジーンズ禁止？イスラエル首相の「勘違い」に嘲笑の声 ...",
+      "source": "www.afpbb.com",
+      "lien": "https://www.afpbb.com/articles/photo-slide-mcs/3001029?pno=1",
+      "image_url": "https://afpbb.ismcdn.jp/mwimgs/6/0/384x/img_6002bf4ae55a1f8a7a67967ffc7e8de585014.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWP8jEmFJiY_nXFnqRr7bzKuXJKMPeL8BL6tPUaE_qOCUJRFHU",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "イランはジーンズ禁止？イスラエル首相の「勘違い」に嘲笑の声 ...",
+        "link": "https://www.afpbb.com/articles/photo-slide-mcs/3001029?pno=1",
+        "source": "www.afpbb.com",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEUyWv____8uV__m6_9Rcf8WS_8jUf-hsf8nU_8gT__y9f-su_8qVf9Mbf-Zqv_4-v_r7_9BZf-Up_-6yP_O2P9fff9jgP87Yv_W3f_e5f-ot_9EaP_a4f8AQ_-Qo_9uiP_Gz_8OSP9_lf-Gmv-crv9xjP9c-YbFAAAA3ElEQVQ4jcWS3RKCIBCFERVZRVGzLNPUft7_FUtWDMcdr5rpXLIfnLO7MPYPQWgFnKwffKsqIAh59Bb5BMDTfB8IE28XkCdvF-D12VQuTUwDs0EcXH0SUCk-nYmABHjdokHHaQBupq57RQOLATAakAMmBEYDkFkDGuBMGyDpPmscCwKo5umhNpMUd28rB-CMqLsAJPuAfFB1Bxjxl7TPaFay3qZCA81BoCBdtal6bWdsM68HJdBg-Da9BmSEkVLlAOZOjkCRTbGal3AWU5TTWVnMTZpgirkyZ5L9Qm96NQnLoD-6mwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWP8jEmFJiY_nXFnqRr7bzKuXJKMPeL8BL6tPUaE_qOCUJRFHU",
+        "thumbnail_width": 275,
+        "thumbnail_height": 183,
+        "image": "https://afpbb.ismcdn.jp/mwimgs/6/0/384x/img_6002bf4ae55a1f8a7a67967ffc7e8de585014.jpg",
+        "image_width": 384,
+        "image_height": 256
+      },
+      "webpage": {
+        "text": "イランはジーンズ禁止？イスラエル首相の「勘違い」に嘲笑の声　写真4枚　マリ・クレール スタイル : marie claire style\n\n<< 記事詳細へ",
+        "metadata": {
+          "title": "イランはジーンズ禁止？イスラエル首相の「勘違い」に嘲笑の声　写真4枚　マリ・クレール スタイル : marie claire style",
+          "description": "【10月8日 AFP】イスラエルのベンヤミン・ネタニヤフ（Benjamin Netanyahu）首相が、テレビインタビューの中で、イランではジーンズをはくことや西洋の音楽を楽しむことが禁じられているといった趣旨の発言をし、ソーシャルメディア上ではイランの人々からの激しい反論と嘲笑の声が相次いでいる。",
+          "keywords": "イラン,核開発,イスラエル,ファッション,社会,音楽",
+          "og:title": "イランはジーンズ禁止？イスラエル首相の「勘違い」に嘲笑の声",
+          "og:type": "article",
+          "og:url": "https://www.afpbb.com/articles/marieclairestylejp/3001029",
+          "og:image": "https://afpbb.ismcdn.jp/mwimgs/6/0/384x/img_6002bf4ae55a1f8a7a67967ffc7e8de585014.jpg",
+          "fb:admins": "148818285196349"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Article de www.afpbb.com abordant les réactions de moquerie face à l'idée du Premier ministre israélien selon laquelle les jeans seraient interdits en Iran.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Iran",
+          "Israel"
+        ],
+        "ORGANIZATION": [
+          "Marie Claire Style",
+          "www.afpbb.com"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "jeans"
+        ]
+      },
+      "score_e5": 0.7274464578041401
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "London",
+      "central London"
+    ],
+    "ORGANIZATION": [
+      "Bayern Munich",
+      "The Queen s Life Guard"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": []
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "PERSON",
+      "entite": "Benjamin Netanyahu",
+      "rangs": [
+        1,
+        3
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Ayatollah Ali Khamenei",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "Mehrnaz Samimi",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Iran",
+      "rangs": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Israel",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Middle East",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "United States",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Tehran",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Washington, DC",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "The Independent",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC Persian TV",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Al-Monitor",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Helsingin Sanomat",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "AFP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Marie Claire Style",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "www.afpbb.com",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "2012",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "jeans",
+      "rangs": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Western music",
+      "rangs": [
+        1,
+        3
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T19:08:01.119993"
+  }
+}

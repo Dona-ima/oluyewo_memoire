@@ -1,0 +1,556 @@
+{
+  "id_rumeur": 60603,
+  "id_image": 170888,
+  "caption": "Syrians arrive in Gabcikovo Slovakia this month",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787756966/oluyewo_benchmark/rfjknpimrilycht17o6i.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Spring Eastrail Closures Update - Eastrail",
+      "source": "Eastrail",
+      "lien": "https://eastrail.org/spring-eastrail-closures-update/",
+      "image_url": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeRlOg8vAaab7IZsPwbYl9BUeqAWQmCNciEZRehsckbPHM5eXo",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Spring Eastrail Closures Update - Eastrail",
+        "link": "https://eastrail.org/spring-eastrail-closures-update/",
+        "source": "Eastrail",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEUArkL___-q5MAhuFqv5sS76c0zvmiI2admzo5VyYEMskv1_PiO26vq-O9fzIjP8NuX3rLa8-SA16FFxHVu0ZR0ThpAAAAAWUlEQVQ4jWNgGFSAi5sRBniwKmBm5GWFAj4cCljwWzFiFPBzgAEbTgVQIIDbBE4wYKahIylXIMgOAUJcOBTAAQ5_sMEBfqvIA8JMGEAYRQEHIwYQoYVDyAMAFzMCqDsC_1QAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeRlOg8vAaab7IZsPwbYl9BUeqAWQmCNciEZRehsckbPHM5eXo",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+        "image_width": 1920,
+        "image_height": 2560
+      },
+      "webpage": {
+        "text": "Spring Eastrail Closures Update\n\nSeveral closures along the Eastrail this winter required trail users in Renton and Kirkland to follow detours due to planned maintenance, utility upgrades, and adjacent construction projects. This week, the major closure at the south end of the Cross-Kirkland Corridor reopened. However, additional closures are expected later this year. Below is a status update on current and planned closures along the Eastrail.\n\nSouthern Kirkland Closure\nEmergency repair work on the Eastside Interceptor sewer line required an unplanned, multi-month closure between NE 52nd Street and 108th Avenue NE in Kirkland. That section of trail has now reopened. Additional work may require another temporary closure this summer. Eastrail Partners will coordinate with King County and the City of Kirkland to share updates and detour information if that occurs.\n\nCentral Kirkland Closure\nThe City of Kirkland has closed a section of trail near NE 85th Street to accommodate construction of a pedestrian connection associated with a future transit project. Two detour routes are currently in place. The trail segment is expected to reopen in late June 2026.\n\nSlater Avenue / 132nd Crossing (Totem Lake area)\nA short detour remains in place east of Totem Lake where the trail crosses Slater Avenue. The City of Kirkland is installing a signalized crossing at this intersection to improve safety and accessibility. Construction is expected to be completed in April.\n\nEastrail Partners recognizes that closures can disrupt both daily transportation and recreational use. We continue working closely with our public agency partners to minimize impacts and provide timely, clear communication. If you have questions or concerns about a closure, please contact us at info@eastrailpartners.org.",
+        "metadata": {
+          "title": "Spring Eastrail Closures Update - Eastrail",
+          "og:locale": "en_US",
+          "og:type": "article",
+          "og:title": "Spring Eastrail Closures Update - Eastrail",
+          "og:description": "Several closures along the Eastrail this winter required trail users in Renton and Kirkland to follow detours due to planned maintenance, utility upgrades, and adjacent construction projects. This week, the major closure at the south end of the Cross-Kirkland Corridor reopened. However, additional closures are expected later this year. Below is a status update on […]",
+          "og:url": "https://eastrail.org/spring-eastrail-closures-update/",
+          "og:site_name": "Eastrail",
+          "article:published_time": "2026-02-27T20:00:49+00:00",
+          "article:modified_time": "2026-02-27T20:00:52+00:00",
+          "og:image": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+          "og:image:width": "2560",
+          "og:image:height": "1920",
+          "og:image:type": "image/jpeg",
+          "author": "Colin Petkus"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Article",
+              "@id": "https://eastrail.org/spring-eastrail-closures-update/#article",
+              "isPartOf": {
+                "@id": "https://eastrail.org/spring-eastrail-closures-update/"
+              },
+              "author": {
+                "name": "Colin Petkus",
+                "@id": "https://eastrail.org/#/schema/person/63dd69d32067b6a9288457be039a2493"
+              },
+              "headline": "Spring Eastrail Closures Update",
+              "datePublished": "2026-02-27T20:00:49+00:00",
+              "dateModified": "2026-02-27T20:00:52+00:00",
+              "mainEntityOfPage": {
+                "@id": "https://eastrail.org/spring-eastrail-closures-update/"
+              },
+              "wordCount": 271,
+              "image": {
+                "@id": "https://eastrail.org/spring-eastrail-closures-update/#primaryimage"
+              },
+              "thumbnailUrl": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+              "articleSection": [
+                "Construction Updates"
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://eastrail.org/spring-eastrail-closures-update/",
+              "url": "https://eastrail.org/spring-eastrail-closures-update/",
+              "name": "Spring Eastrail Closures Update - Eastrail",
+              "isPartOf": {
+                "@id": "https://eastrail.org/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://eastrail.org/spring-eastrail-closures-update/#primaryimage"
+              },
+              "image": {
+                "@id": "https://eastrail.org/spring-eastrail-closures-update/#primaryimage"
+              },
+              "thumbnailUrl": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+              "datePublished": "2026-02-27T20:00:49+00:00",
+              "dateModified": "2026-02-27T20:00:52+00:00",
+              "author": {
+                "@id": "https://eastrail.org/#/schema/person/63dd69d32067b6a9288457be039a2493"
+              },
+              "breadcrumb": {
+                "@id": "https://eastrail.org/spring-eastrail-closures-update/#breadcrumb"
+              },
+              "inLanguage": "en-US",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://eastrail.org/spring-eastrail-closures-update/"
+                  ]
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://eastrail.org/spring-eastrail-closures-update/#primaryimage",
+              "url": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+              "contentUrl": "https://eastrail.org/wp-content/uploads/2026/02/20251001_103424-scaled.jpg",
+              "width": 2560,
+              "height": 1920
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://eastrail.org/spring-eastrail-closures-update/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://eastrail.org/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Spring Eastrail Closures Update"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://eastrail.org/#website",
+              "url": "https://eastrail.org/",
+              "name": "Eastrail",
+              "description": "We envision an Eastrail that is for everyone, every day.",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://eastrail.org/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "Person",
+              "@id": "https://eastrail.org/#/schema/person/63dd69d32067b6a9288457be039a2493",
+              "name": "Colin Petkus",
+              "image": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://secure.gravatar.com/avatar/0e68b72e4c157e1ec77873ab46003b579b7f0d3c158ad36c058b772caabb9eb1?s=96&d=mm&r=g",
+                "url": "https://secure.gravatar.com/avatar/0e68b72e4c157e1ec77873ab46003b579b7f0d3c158ad36c058b772caabb9eb1?s=96&d=mm&r=g",
+                "contentUrl": "https://secure.gravatar.com/avatar/0e68b72e4c157e1ec77873ab46003b579b7f0d3c158ad36c058b772caabb9eb1?s=96&d=mm&r=g",
+                "caption": "Colin Petkus"
+              },
+              "sameAs": [
+                "https://eastrail.org/"
+              ],
+              "url": "https://eastrail.org/author/colin/"
+            }
+          ]
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Mise à jour des fermetures du printemps sur l'Eastrail, nécessitant des déviations en raison de maintenances, de mises à niveau de services publics et de projets de construction à Renton et Kirkland. Le tronçon sud du Cross-Kirkland Corridor a rouvert, mais d'autres fermetures sont prévues. Des travaux d'urgence sur la ligne d'égout Eastside Interceptor ont entraîné une fermeture à Kirkland entre la NE 52nd Street et la 108th Avenue NE, maintenant rouverte. Une section près de la NE 85th Street est fermée pour un projet de transport jusqu'en juin 2026. Un autre aménagement a lieu près de Slater Avenue et de la zone de Totem Lake.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Renton",
+          "Kirkland",
+          "Cross-Kirkland Corridor",
+          "NE 52nd Street",
+          "108th Avenue NE",
+          "NE 85th Street",
+          "Slater Avenue",
+          "Totem Lake",
+          "King County"
+        ],
+        "ORGANIZATION": [
+          "Eastrail",
+          "Eastrail Partners"
+        ],
+        "DATE": [
+          "spring",
+          "this winter",
+          "this week",
+          "later this year",
+          "this summer",
+          "late June 2026",
+          "April"
+        ],
+        "EVENT": [
+          "Spring Eastrail Closures Update"
+        ],
+        "OTHER": [
+          "Eastside Interceptor sewer line"
+        ]
+      },
+      "score_e5": 0.6962614310065636
+    },
+    {
+      "titre": "Motorcyclist killed in crash on Route 715 in Chestnuthill ...",
+      "source": "WFMZ.com",
+      "lien": "https://www.wfmz.com/news/area/poconos-coal/motorcyclist-killed-in-crash-on-route-715-in-chestnuthill/article_9dcc9b4c-f1d1-11ed-9130-bbe92bda5daa.html",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/05/505578ec-f1d2-11ed-b674-3f43cd69eef4/645ffc4f26852.image.jpg?crop=1920,1008,0,35&resize=438,230&order=crop,resize",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKLwNDCHAIbR1_7_3Gt1wJ7S8WSZ_SbBg9I-f0ghbHnQgMACHn",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Motorcyclist killed in crash on Route 715 in Chestnuthill ...",
+        "link": "https://www.wfmz.com/news/area/poconos-coal/motorcyclist-killed-in-crash-on-route-715-in-chestnuthill/article_9dcc9b4c-f1d1-11ed-9130-bbe92bda5daa.html",
+        "source": "WFMZ.com",
+        "source_icon": "https://serpapi.com/searches/6a8f01a710c26d5280cd9800/images/PMTabidyX55659vDBswudfNbQuHRECpb_PEQDhJdL-E.jpeg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKLwNDCHAIbR1_7_3Gt1wJ7S8WSZ_SbBg9I-f0ghbHnQgMACHn",
+        "thumbnail_width": 163,
+        "thumbnail_height": 310,
+        "image": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/05/505578ec-f1d2-11ed-b674-3f43cd69eef4/645ffc4f26852.image.jpg?crop=1920,1008,0,35&resize=438,230&order=crop,resize",
+        "image_width": 230,
+        "image_height": 438
+      },
+      "webpage": {
+        "text": "Motorcyclist killed in crash on Route 715 in Chestnuthill | Poconos and Coal Region\n\nCHESTNUTHILL TWP., Pa. — A motorcyclist was killed Saturday afternoon in a crash in Monroe County.\n\nThe crash happened shortly before 3:30 p.m. on Route 715 in the area of Cottontail Lane in Chestnuthill Township.\n\nThe coroner told 69 News that he was called to the scene, but he could not provide any information about the victim.\n\nPennsylvania State Police are investigating the crash, but they declined to release any information.\n\n\nThis is at least the second fatal crash involving a motorcycle in the 69 News viewing area in the past 24 hours.\n\nA 32-year-old man was killed Friday evening, when his motorcycle hit a parked car in the 1400 block of Hampden Boulevard in northeast Reading.",
+        "metadata": {
+          "title": "Motorcyclist killed in crash on Route 715 in Chestnuthill | Poconos and Coal Region | wfmz.com",
+          "keywords": "chestnuthill township, pennsylvania, monroe county, pennsylvania state police, motorcycle, motorcycle crash, accident, poconos",
+          "news_keywords": "chestnuthill township, pennsylvania, monroe county, pennsylvania state police, motorcycle, motorcycle crash, accident, poconos",
+          "description": "The coroner told 69 News that he was called to the scene, but he could not provide any information about the victim.",
+          "author": "WFMZ-TV",
+          "article:author": "https://www.facebook.com/69WFMZ",
+          "og:type": "article",
+          "og:url": "https://www.wfmz.com/news/area/poconos-coal/motorcyclist-killed-in-crash-on-route-715-in-chestnuthill/article_9dcc9b4c-f1d1-11ed-9130-bbe92bda5daa.html",
+          "og:image": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/05/505578ec-f1d2-11ed-b674-3f43cd69eef4/645ffc4f26852.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:title": "Motorcyclist killed in crash on Route 715 in Chestnuthill",
+          "og:description": "The coroner told 69 News that he was called to the scene, but he could not provide any information about the victim.",
+          "og:site_name": "WFMZ.com",
+          "og:section": "news/area/poconos-coal",
+          "fb:app_id": "236814379695677",
+          "article:publisher": "https://www.facebook.com/69WFMZ",
+          "fb:pages": "37677635556",
+          "tncms:ad_instory": "800,776,1164,2000",
+          "tncms:ads": "smart,lazyload,refresh,dmp",
+          "mrf:sections": "news/area/poconos-coal; _homepage_top_stories",
+          "mrf:canonical": "https://www.wfmz.com/news/area/poconos-coal/motorcyclist-killed-in-crash-on-route-715-in-chestnuthill/article_9dcc9b4c-f1d1-11ed-9130-bbe92bda5daa.html"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un motocycliste a été tué dans un accident survenu un samedi après-midi sur la Route 715, dans la zone de Cottontail Lane à Chestnuthill Township, dans le comté de Monroe. La police de l'État de Pennsylvanie enquête sur l'accident. Un autre accident mortel impliquant une moto s'est produit la veille au soir sur Hampden Boulevard à Reading.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Route 715",
+          "Chestnuthill",
+          "Chestnuthill Township",
+          "Monroe County",
+          "Cottontail Lane",
+          "Hampden Boulevard",
+          "Reading"
+        ],
+        "ORGANIZATION": [
+          "69 News",
+          "Pennsylvania State Police"
+        ],
+        "DATE": [
+          "Saturday afternoon",
+          "the past 24 hours",
+          "Friday evening"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "motorcycle"
+        ]
+      },
+      "score_e5": 0.7031521312231886
+    },
+    {
+      "titre": "Medford Fit for Life 5K a success",
+      "source": "Wicked Local",
+      "lien": "https://www.wickedlocal.com/story/medford-transcript/2009/09/24/medford-fit-for-life-5k/40342662007/",
+      "image_url": "https://www.wickedlocal.com/gcdn/authoring/2009/09/24/NWKL/ghows-WL-22565b11-8da1-4b0e-be6a-ee42cb9c6a8f-cd769982.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpwrgoy7A7xPxbOA3l7fb3WFXJjeruGROW0qg7ZfelSbeMgAo",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "Medford Fit for Life 5K a success",
+        "link": "https://www.wickedlocal.com/story/medford-transcript/2009/09/24/medford-fit-for-life-5k/40342662007/",
+        "source": "Wicked Local",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEX___9fX18_Pz-fzuhfrdnf7_cvLy8_nNLf39-Pj4-vr687OztGRkZvb2-8vLw3NzdaWlpmZmanp6cXFxcmJibHx8eWlpaEhIT29vacnJxUVFQcHByHh4fT09MsLCzu7u7S4emtu8Sawdegq7HG1-GLssixydd9vOBWqNcAfMPb7fe32u4ZicnKysp2ud91dXWczOg1l8-bCP5YAAAAwUlEQVQ4je3PXRNCQBTG8d2DfWPXWyIRKpFCvv-Xi6sa3DXTlf_1b86cB6GtP0aU7UnsmC7xJIDn74IZsPd-yDFEBwIMEMNczIATQ6wwjKdMBLACwmPisxGk5JStXvCIODFsJTFJOHBlx3OQBXkRFefLtczTUtyEWu7QNEQrnVa1cW90Y2XoBAydoubx1CbAVKSyoG0XAFVdNwHH7XtpmtYcRK-6phPAjAuJsfyAoaLjB3U3NIM-aL1rcQi_wdbvvQGZwA0BPjqHVwAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpwrgoy7A7xPxbOA3l7fb3WFXJjeruGROW0qg7ZfelSbeMgAo",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://www.wickedlocal.com/gcdn/authoring/2009/09/24/NWKL/ghows-WL-22565b11-8da1-4b0e-be6a-ee42cb9c6a8f-cd769982.jpeg",
+        "image_width": 3000,
+        "image_height": 4000
+      },
+      "webpage": {
+        "text": "Medford Fit for Life 5K a success\n\nThe Medford Fit for Life 5K Run and Walk was first started by Kristin Howell, Ann Marie Cugno and I (Breanna Lungo-Koehn) in 2007 as a way to keep people fit and honor one we miss. In 2008 and this past weekend, we were lucky to get additional help from Allison Goldsberry and Jack Dempsey, which allowed us to make the event even better.\n\nThe event went on without a hitch this past weekend on Sept. 20. More than 250 people of all ages came out to walk or run a 5K in honor of the late Medford D.A.R.E. Police Officer Patrick Fahey.\n\nOfficer Fahey touched so many lives and it was nice to once again see so many people take part. It was such a beautiful day and a nice way to remember all that Pat did for the city of Medford and the youth population.\n\nThis year, we were able to raise more than $3,000, which will allow us to give 16 scholarships to underprivileged children in Medford. The scholarships will be for a weeklong entrance fee to Medford’s summer camp at the Columbus School in honor of Officer Fahey. Without all of the participants and supporters, it could not have been possible.\n\nOn behalf of the Medford Fit for Life 5K Committee, we would like to thank all those who made this all possible. Thank you to all of our financial supporters, who include: Raso’s, which donated all of our wonderful food, John Brewers Tavern, which donated eight gift certificates, Saucony and Modells Sporting Goods. \n\nThank you also to all who volunteered, including: DJ Dave McCourt, who provided the great music, Medford High School students, Athletic Director Bob Maloney, Medford Police, Medford DPW, Paulette Van der Kloot, the Cugno family, the Lungo family, David Koehn, Lou Ruggerio and Cathleen Collins.\n\nThe following are the results of this year’s race:\n\nTop Male Winner: Chris Laffey, 19:58                \n\nTop Female Winner: Sarah Philips, 21:03\n\nTop three for each age group are as follows: \n\nMale Age 10-15: Nolan Hart, 22:29; Chris McCarthy, 23:25; and Alexander Aisensult, 25:33          \n\nFemale Age 10-15: Kelley Carr, 29:17; Jen Sullivan, 30:00; and Anna Steele, 31:23\n\nMale Age 16-29: Matthew Killion, 20:02; Kyle Liberti, 21:00; and Nick Curley, 21:22        Female Age 16-29: Ann Morrissey, 21:30; Katie Smith, 23:43; and Bonnie Ferreira , 23:52\n\nMale Age 30-49: William Fahey, 21:58; Kevin Landt, 22:51; and John Falco, 23:50      \n\nFemale Age 30-49: Dina Scarpelli, 24:23; Tammy Van Kradenburg, 28:17; and Debbie Riparo, 29:55\n\nMale Age 50-99: Bill Donlon, 22:58; Paul Krueger, 27:54; and Edward Nolan, 28:20                                                              Female Age 50-99: Cathy Williams, 28:58 and Marianne Stanton, 35:24",
+        "metadata": {
+          "title": "Medford Fit for Life 5K a success"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "La course et marche Medford Fit for Life 5K s'est déroulée le 20 septembre, organisée par Kristin Howell, Ann Marie Cugno, Breanna Lungo-Koehn, avec l'aide d'Allison Goldsberry et Jack Dempsey. Plus de 250 personnes y ont participé en l'honneur de l'officier de police D.A.R.E. de Medford, Patrick Fahey. L'événement a permis de lever plus de 3 000 $ pour des bourses destinées au camp d'été de Medford à la Columbus School. Les vainqueurs de la course sont Chris Laffey (homme) et Sarah Philips (femme).",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Kristin Howell",
+          "Ann Marie Cugno",
+          "Breanna Lungo-Koehn",
+          "Allison Goldsberry",
+          "Jack Dempsey",
+          "Patrick Fahey",
+          "Bob Maloney",
+          "Paulette Van der Kloot",
+          "David Koehn",
+          "Lou Ruggerio",
+          "Cathleen Collins",
+          "Chris Laffey",
+          "Sarah Philips",
+          "Nolan Hart",
+          "Chris McCarthy",
+          "Alexander Aisensult",
+          "Kelley Carr",
+          "Jen Sullivan",
+          "Anna Steele",
+          "Matthew Killion",
+          "Kyle Liberti",
+          "Nick Curley",
+          "Ann Morrissey",
+          "Katie Smith",
+          "Bonnie Ferreira",
+          "William Fahey",
+          "Kevin Landt",
+          "John Falco",
+          "Dina Scarpelli",
+          "Tammy Van Kradenburg",
+          "Debbie Riparo",
+          "Bill Donlon",
+          "Paul Krueger",
+          "Edward Nolan",
+          "Cathy Williams",
+          "Marianne Stanton",
+          "Dave McCourt"
+        ],
+        "LOCATION": [
+          "Medford",
+          "Columbus School"
+        ],
+        "ORGANIZATION": [
+          "Medford D.A.R.E.",
+          "Medford Fit for Life 5K Committee",
+          "Raso’s",
+          "John Brewers Tavern",
+          "Saucony",
+          "Modells Sporting Goods",
+          "Medford High School",
+          "Medford Police",
+          "Medford DPW"
+        ],
+        "DATE": [
+          "2007",
+          "2008",
+          "Sept. 20",
+          "This year"
+        ],
+        "EVENT": [
+          "Medford Fit for Life 5K Run and Walk"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.6973891852318486
+    },
+    {
+      "titre": "With hot weather and river spots in high demand, here's a ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/arlingtonwa/posts/with-hot-weather-and-river-spots-in-high-demand-heres-a-quick-update-from-snohom/1159382389538667/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1052807446934939",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbCds3RQWr5Vo1jIJb54ND9dfTfKxvE1VPGU7q_TYT_3Jx0Q9",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "With hot weather and river spots in high demand, here's a ...",
+        "link": "https://www.facebook.com/arlingtonwa/posts/with-hot-weather-and-river-spots-in-high-demand-heres-a-quick-update-from-snohom/1159382389538667/",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbCds3RQWr5Vo1jIJb54ND9dfTfKxvE1VPGU7q_TYT_3Jx0Q9",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1052807446934939",
+        "image_width": 1500,
+        "image_height": 2000
+      },
+      "webpage": {
+        "text": "With hot... - City of Arlington, Washington - Government\n\nWith hot weather and river spots in high demand, here’s a quick update from Snohomish County Public Works: 🚫 No Parking on Jordan Road Parking is not allowed along Jordan Road—especially during... See more",
+        "metadata": {
+          "title": "With hot... - City of Arlington, Washington - Government | Facebook",
+          "og:type": "video.other",
+          "og:title": "City of Arlington, Washington - Government",
+          "og:description": "With hot weather and river spots in high demand, here’s a quick update from Snohomish County Public Works:\n\n🚫 No Parking on Jordan Road Parking is not allowed along Jordan Road—especially during...",
+          "og:url": "https://www.facebook.com/arlingtonwa/posts/with-hot-weather-and-river-spots-in-high-demand-heres-a-quick-update-from-snohom/1159382389538667/",
+          "og:image:alt": "City of Arlington, Washington - Government",
+          "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1052807446934939",
+          "og:locale": "en_US",
+          "description": "With hot weather and river spots in high demand, here’s a quick update from Snohomish County Public Works:\n\n🚫 No Parking on Jordan Road Parking is not...",
+          "twitter:title": "City of Arlington, Washington - Government",
+          "twitter:description": "With hot weather and river spots in high demand, here’s a quick update from Snohomish County Public Works:\n\n🚫 No Parking on Jordan Road Parking is not allowed along Jordan Road—especially during..."
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Mise à jour de la ville d'Arlington, Washington, concernant le temps chaud et la forte demande pour les sites fluides du comté de Snohomish, indiquant qu'il n'y a aucun stationnement autorisé sur Jordan Road.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Arlington",
+          "Washington",
+          "Snohomish County",
+          "Jordan Road"
+        ],
+        "ORGANIZATION": [
+          "Snohomish County Public Works",
+          "City of Arlington, Washington"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": []
+      },
+      "score_e5": 0.7110592287571926
+    },
+    {
+      "titre": "Sprint's top male, female finishers: A Masuk alum and his ...",
+      "source": "The Monroe Sun",
+      "lien": "https://themonroesun.com/sprints-top-male-female-finishers-a-masuk-alum-and-his-fiancee/",
+      "image_url": "https://media.themonroesun.com/2021/08/IMG_8258-336x191.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0oalPDHcCwVt4g5p1fiSAdsGB_Pas6GUar6-U1837R9EZS66",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "Sprint's top male, female finishers: A Masuk alum and his ...",
+        "link": "https://themonroesun.com/sprints-top-male-female-finishers-a-masuk-alum-and-his-fiancee/",
+        "source": "The Monroe Sun",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSdOd3KODqrSerdm7eWQDVpxRmYhAga5ACCAK8520vkCYpp7pKjRxslPb8wqjaxIMVzntLQeGHgvKdjpY6L27827WgqX9DCmqqT_c70iRhGXREzplk-",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0oalPDHcCwVt4g5p1fiSAdsGB_Pas6GUar6-U1837R9EZS66",
+        "thumbnail_width": 169,
+        "thumbnail_height": 298,
+        "image": "https://media.themonroesun.com/2021/08/IMG_8258-336x191.jpg",
+        "image_width": 191,
+        "image_height": 336
+      },
+      "webpage": {
+        "text": "Sprint’s top male, female finishers: A Masuk alum and his fiancée\n\nMONROE, CT — Jake Duckworth, who grew up in Monroe, finished first overall in the Sprint for Monroe 5K at Wolfe Park Sunday, and his fiancée, Josie Jacob-Dolan, took first place among all female runners.\n\nThe couple met at Fordham University, where both competed as distance runners, and their passion for the sport brought them together.\n\n“I didn’t want to miss the hometown race,” said Duckworth, 26, who now lives in New Haven and works as an insurance underwriter for CIRMA.\n\nJacob-Dolan, 26, grew up in Massachusetts. She participated in last year’s virtual Sprint for Monroe, but Sunday was her first time experiencing the live, in-person event.\n\n“I love the bells on the side and the people cheering — people letting me know there was another woman behind me,” she said. “It was really fun. The weather was perfect. This was only the second race I ever won.”\n\nJacob-Dolan competed in cross country and track at Arlington High School, but said the only other race she had won was a 5k in Montana in 2017.\n\nOn Sunday, her time was 19 minutes and 5 seconds as she finished fifth overall.\n\nDuckworth, a member of Masuk’s Class of 2013, ran cross country and was a long distance runner for track and field in high school. He is currently a member of the New Haven Road Runners, a running club.\n\n“I’m training for my first marathon,” he said of an upcoming race in Philadelphia.\n\n“I don’t run in marathons,” said Jacob-Dolan, who will be training for a 5K in Hartford this October.\n\nOn his first place finish in Monroe Sunday, Duckworth said, “It was a nice\n\n\nday. You’re always kind of rolling the dice in August. It was cool. It was my best time.”\n\nHis time was 15 minutes and 31 seconds.\n\n“It was fun to win with him,” Jacob-Dolan said, before smiling and adding, “well, several minutes behind him. We both wanted to win today.”",
+        "metadata": {
+          "title": "Sprint’s top male, female finishers: A Masuk alum and his fiancée | The Monroe Sun",
+          "description": "MONROE, CT — Jake Duckworth, who grew up in Monroe, finished first overall in the Sprint for Monroe 5K at Wolfe Park Sunday, and his fiancée, Josie Jacob-Dolan, took first place among all female runners. The couple met at Fordham University, where both competed as distance runners, and their passion for the sport brought them",
+          "author": "Bill Bittar",
+          "og:locale": "en_US",
+          "og:site_name": "The Monroe Sun",
+          "og:type": "article",
+          "og:title": "Sprint’s top male, female finishers: A Masuk alum and his fiancée | The Monroe Sun",
+          "og:description": "MONROE, CT — Jake Duckworth, who grew up in Monroe, finished first overall in the Sprint for Monroe 5K at Wolfe Park Sunday, and his fiancée, Josie Jacob-Dolan, took first place among all female runners. The couple met at Fordham University, where both competed as distance runners, and their passion for the sport brought them",
+          "og:url": "https://themonroesun.com/sprints-top-male-female-finishers-a-masuk-alum-and-his-fiancee/",
+          "og:image": "https://media.themonroesun.com/2021/08/IMG_8320.jpg",
+          "og:image:secure_url": "https://media.themonroesun.com/2021/08/IMG_8320.jpg",
+          "og:image:width": "1190",
+          "og:image:height": "1200",
+          "article:published_time": "2021-08-30T03:42:52+00:00",
+          "article:modified_time": "2021-08-31T15:14:35+00:00",
+          "twitter:title": "Sprint’s top male, female finishers: A Masuk alum and his fiancée | The Monroe Sun",
+          "twitter:description": "MONROE, CT — Jake Duckworth, who grew up in Monroe, finished first overall in the Sprint for Monroe 5K at Wolfe Park Sunday, and his fiancée, Josie Jacob-Dolan, took first place among all female runners. The couple met at Fordham University, where both competed as distance runners, and their passion for the sport brought them"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Jake Duckworth, originaire de Monroe et ancien élève de Masuk, a terminé premier de la course Sprint for Monroe 5K au Wolfe Park un dimanche. Sa fiancée, Josie Jacob-Dolan, a pris la première place chez les femmes. Duckworth a réalisé un temps de 15 minutes et 31 secondes, et Jacob-Dolan un temps de 19 minutes et 5 secondes.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "Jake Duckworth",
+          "Josie Jacob-Dolan"
+        ],
+        "LOCATION": [
+          "Monroe",
+          "Wolfe Park",
+          "New Haven",
+          "Massachusetts",
+          "Arlington",
+          "Montana",
+          "Philadelphia",
+          "Hartford"
+        ],
+        "ORGANIZATION": [
+          "Fordham University",
+          "CIRMA",
+          "Arlington High School",
+          "New Haven Road Runners",
+          "Masuk"
+        ],
+        "DATE": [
+          "Sunday",
+          "last year",
+          "2017",
+          "August",
+          "this October"
+        ],
+        "EVENT": [
+          "Sprint for Monroe 5K"
+        ],
+        "OTHER": []
+      },
+      "score_e5": 0.7114676685707712
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Gabcikovo",
+      "Slovakia"
+    ],
+    "ORGANIZATION": [],
+    "DATE": [
+      "this month"
+    ],
+    "EVENT": [],
+    "OTHER": [
+      "Syrians"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Arlington",
+      "rangs": [
+        4,
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-07T18:20:59.409522"
+  }
+}

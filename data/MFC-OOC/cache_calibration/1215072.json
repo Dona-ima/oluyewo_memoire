@@ -1,0 +1,883 @@
+{
+  "id_rumeur": 1215072,
+  "id_image": 1628846,
+  "caption": "Woodlands Respite Care Centre should be saved a delegation from The Access Committee for Leeds has told council",
+  "url_image": "https://res.cloudinary.com/doxozwalc/image/upload/v1787748389/oluyewo_benchmark/loqcoblcztqfyvra6luk.jpg",
+  "matched": false,
+  "resultats_lens": [
+    {
+      "titre": "Man injured in bus stop assault in Edinburgh - BBC News",
+      "source": "BBC",
+      "lien": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-27867093",
+      "image_url": "http://news.bbcimg.co.uk/media/images/75550000/jpg/_75550597_75550595.jpg",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkaWNe65m9ftWuhcpyRtp3C2xCXAuzbgw62g9TZVDIudzmzk3h",
+      "rang_lens": 1,
+      "brut": {
+        "position": 1,
+        "title": "Man injured in bus stop assault in Edinburgh - BBC News",
+        "link": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-27867093",
+        "source": "BBC",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEX___8AAABDQ0PQ0NA_Pz_l5eXT09PW1tYZGRnf39_5-fn29vbZ2dnp6elSUlJiYmJoaGgQEBA7OzsJnrLuAAAAW0lEQVQ4je2Quw7AIAgArQKKb_3_j60Vk45uTt50ITcASl2O4a2ZWB-iWAz_bAQpgx5AQa5ilbGI5TQCbM-kM4EYEHexhl_g1phJi2nilbpTwW7J7ZnbR10O8QLINgU5f1dY_AAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkaWNe65m9ftWuhcpyRtp3C2xCXAuzbgw62g9TZVDIudzmzk3h",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "http://news.bbcimg.co.uk/media/images/75550000/jpg/_75550597_75550595.jpg",
+        "image_width": 351,
+        "image_height": 624
+      },
+      "webpage": {
+        "text": "Man injured in bus stop assault in Edinburgh\n\nPublished\n16 June 2014\n\nShare\nclose panel\nShare page\nCopy link\nAbout sharing\n\n\nA man has been left with serious facial injuries after he was attacked at an Edinburgh bus stop.\n\nThe 37-year-old was assaulted on Calder Road sometime between 00:50 and 01:15 on Friday.\n\nThe bus stop is between the junction at Calder Crescent and the underpass near Wester Hailes Road.\n\nPolice Scotland appealed for anyone who saw anything suspicious at the time to come forward. The male attacker was wearing dark clothes.\n\n\nRelated internet links\n\n * Police Scotland\n\nThe BBC is not responsible for the content of external sites.",
+        "metadata": {
+          "description": "A man is left with serious facial injuries after he was attacked at an Edinburgh bus stop on Calder Road.",
+          "article:author": "https://www.facebook.com/bbcnews",
+          "fb:admins": "100004154058350",
+          "fb:app_id": "3662195467332439",
+          "og:description": "A man is left with serious facial injuries after he was attacked at an Edinburgh bus stop on Calder Road.",
+          "og:image": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/75550000/jpg/_75550597_75550595.jpg",
+          "og:image:alt": "Calder Road, Edinburgh",
+          "og:locale": "en_GB",
+          "og:site_name": "BBC News",
+          "og:title": "Man injured in bus stop assault in Edinburgh",
+          "og:type": "article",
+          "og:url": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-27867093",
+          "article:section": "Edinburgh, Fife & East Scotland",
+          "twitter:description": "A man is left with serious facial injuries after he was attacked at an Edinburgh bus stop on Calder Road.",
+          "twitter:title": "Man injured in bus stop assault in Edinburgh"
+        },
+        "jsonld": {
+          "@context": "http://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-27867093",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          },
+          "datePublished": "2014-06-16T09:04:20.000Z",
+          "dateModified": "2014-06-16T09:04:20.000Z",
+          "description": "A man is left with serious facial injuries after he was attacked at an Edinburgh bus stop on Calder Road.",
+          "headline": "Man injured in bus stop assault in Edinburgh",
+          "image": {
+            "@type": "ImageObject",
+            "width": 1200,
+            "height": 675,
+            "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/75550000/jpg/_75550597_75550595.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/75550000/jpg/_75550597_75550595.jpg",
+          "mainEntityOfPage": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-27867093",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un homme de 37 ans a été blessé au visage lors d'une agression survenue à un arrêt de bus situé sur Calder Road à Édimbourg, entre Calder Crescent et le passage souterrain près de Wester Hailes Road, un vendredi entre 00:50 et 01:15. La police écossaise (Police Scotland) a lancé un appel à témoignages.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Edinburgh",
+          "Calder Road",
+          "Calder Crescent",
+          "Wester Hailes Road"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "Police Scotland"
+        ],
+        "DATE": [
+          "16 June 2014",
+          "Friday"
+        ],
+        "EVENT": [
+          "Bus stop assault in Edinburgh"
+        ],
+        "OTHER": [
+          "dark clothes"
+        ]
+      },
+      "score_e5": 0.7175325187439451
+    },
+    {
+      "titre": "Rawmarsh: Van driver dies after collision involving ...",
+      "source": "Facebook",
+      "lien": "https://www.facebook.com/yorkshirepost.newspaper/posts/rawmarsh-van-driver-dies-after-collision-involving-motorbike-as-police-launch-ap/1300004452331815/",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1300004415665152",
+      "thumbnail_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaIWKPTYCKZclhrHirIE_g_RH7dyKswrtAfTDTE2xnyVwXZPQ_",
+      "rang_lens": 2,
+      "brut": {
+        "position": 2,
+        "title": "Rawmarsh: Van driver dies after collision involving ...",
+        "link": "https://www.facebook.com/yorkshirepost.newspaper/posts/rawmarsh-van-driver-dies-after-collision-involving-motorbike-as-police-launch-ap/1300004452331815/",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaIWKPTYCKZclhrHirIE_g_RH7dyKswrtAfTDTE2xnyVwXZPQ_",
+        "thumbnail_width": 183,
+        "thumbnail_height": 275,
+        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1300004415665152",
+        "image_width": 688,
+        "image_height": 1032
+      },
+      "webpage": {
+        "text": "Yorkshire Post\n\nYorkshire Post's Post\n\n\n----------------------------------------\n\n\nYorkshire Post \n\nJune 29  ·\nRawmarsh: Van driver dies after collision involving motorbike as police launch appeal\n\n\nAll reactions:\n5\n1 comment\n\nComment\n\nMost relevant\n﻿\n\nAuthor\nYorkshire Post\nFull story: https://trib.al/yF6zd6I\n\nYORKSHIREPOST.CO.UK\nVan driver dies after collision involving motorbike as police launch appeal\n\n\nVan driver dies after collision involving motorbike as police launch appeal\n\n * 9w",
+        "metadata": {
+          "title": "Yorkshire Post - Rawmarsh: Van driver dies after collision...",
+          "og:type": "video.other",
+          "og:title": "Yorkshire Post",
+          "og:description": "Rawmarsh: Van driver dies after collision involving motorbike as police launch appeal",
+          "og:url": "https://www.facebook.com/yorkshirepost.newspaper/posts/rawmarsh-van-driver-dies-after-collision-involving-motorbike-as-police-launch-ap/1300004452331815/",
+          "og:image:alt": "Yorkshire Post",
+          "og:image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/734808128_1724105792065173_3016251200171255955_n.png?stp=dst-jpg_tt6&cstp=mx1032x688&ctp=p600x600&_nc_cat=102&ccb=1-7&_nc_sid=cae128&_nc_ohc=ehW9QzGc-4oQ7kNvwGKEO1w&_nc_oc=AdoOPeo3c5sDbd27ZH1gc31a8KZJsiKh6ucEqisWJqWd7kqTaOMjW6czhTXCtYvOKnA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Vf_42HcbVXazK8XRbhCBnw&_nc_ss=7b289&oh=00_AQKMY_TMJv3HBhBdvjp8DR5GBSgh6nzwJBnmMp5F4xSMPQ&oe=6AA3C647",
+          "og:locale": "en_US",
+          "description": "Rawmarsh: Van driver dies after collision involving motorbike as police launch appeal",
+          "keywords": "van driver dies,collision involving motorbike,police launch appeal,rawmarsh,van driver,motorbike,collision,police,motorcycle",
+          "twitter:title": "Yorkshire Post",
+          "twitter:description": "Rawmarsh: Van driver dies after collision involving motorbike as police launch appeal",
+          "application-title": "Facebook"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un conducteur de camionnette est décédé à Rawmarsh à la suite d'une collision impliquant une moto, et la police a lancé un appel à témoins.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Rawmarsh"
+        ],
+        "ORGANIZATION": [
+          "Facebook",
+          "Yorkshire Post"
+        ],
+        "DATE": [
+          "June 29"
+        ],
+        "EVENT": [
+          "Collision involving motorbike"
+        ],
+        "OTHER": [
+          "Van",
+          "Motorbike"
+        ]
+      },
+      "score_e5": 0.721802778445032
+    },
+    {
+      "titre": "€269,950 | 14 Forest Lawns, Kingswood, Kingswood, Dublin 24 ...",
+      "source": "MyHome.ie",
+      "lien": "https://www.myhome.ie/residential/brochure/14-forest-lawns-kingswood-kingswood-dublin-24/3843003",
+      "image_url": "https://photos-a.propertyimages.ie/media/3/0/0/3843003/41c5f5f0-4cc9-408b-ad24-6f16975a83ef_l.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcRQoOCSjdO9dWnKRTc1sscZO9UPoUJH8PQPuIQm4KC-HhlN4",
+      "rang_lens": 3,
+      "brut": {
+        "position": 3,
+        "title": "€269,950 | 14 Forest Lawns, Kingswood, Kingswood, Dublin 24 ...",
+        "link": "https://www.myhome.ie/residential/brochure/14-forest-lawns-kingswood-kingswood-dublin-24/3843003",
+        "source": "MyHome.ie",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRDB4L9I6mvl1LZzIp32mWiqqkcGwIyGYSKZg7qWv-5Zq6-cadOZRrhaRoeJYNqJm1DaU7LR7tSrDkCJ9jx5URnEXdcLGQXqSnuCGt65eRKsDoZ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcRQoOCSjdO9dWnKRTc1sscZO9UPoUJH8PQPuIQm4KC-HhlN4",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://photos-a.propertyimages.ie/media/3/0/0/3843003/41c5f5f0-4cc9-408b-ad24-6f16975a83ef_l.jpg",
+        "image_width": 501,
+        "image_height": 668
+      },
+      "webpage": {
+        "text": "Home Ireland Dublin Dublin 24 Kingswood\n+ 16\n\n1/21\n\n2/21\n\n3/21\n\nSale Agreed (€2,700 per m²)\n\n\n14 Forest Lawns, Kingswood, Kingswood, Dublin 24\n\n\nSale Agreed\n\nBeds                   3 beds\nPrice                  Sale Agreed\nProperty Type          Terraced House\nSize                   100 meters2\nEnergy Rating          BER-D2\nRefreshed on           \nEircode                \nGroup Name             HWP Residential\nSales License Number   003512\n\nDescription\n\nHWP are delighted to present to the market this beautifully presented three bedroom mid terrace house in Kingswood. The accommodation comprises of entrance hallway, Sitting Room with cornice coving and dado rail, dimming centre light and wall lights, open fireplace and quality laminate flooring. Double doors lead to the Kitchen and Dining Room with double glaze French doors to the back garden and decked patio area. The kitchen units are tasteful with a matching dresser in the dining room. The first floor has two double bedrooms and a good size single bedroom. The family bathroom is delightfully tiled with mosaic; a montage of mirrored tiles makes it bright and airy. The South Westerly facing rear garden has been landscaped with Lilly ponds and is an oasis of tranquillity having all afternoon and evening sunshine to the decking patio area. A glass house, garden shed, patio heater and parasol are included in the sale. The front has off street parking and unobstructed views overlooking a green area and LUAS line in the middle distance. Close to all amenities including LUAS, shops, schools, M50 and N7 motorways etc.\n\nBER Details\n\nBER: D2 BER No.109328864\n\n\n14 Forest Lawns, Kingswood, Kingswood, Dublin 24\n\n3 beds\n1 bath\n100 m²\n\nTerraced House\n\n\nDescription\n\nHWP are delighted to present to the market this beautifully presented three bedroom mid terrace house in Kingswood. The accommodation comprises of entrance hallway, Sitting Room with cornice coving and dado rail, dimming centre light and wall lights, open fireplace and quality laminate flooring. Double doors lead to the Kitchen and Dining Room with double glaze French doors to the back garden and decked patio area. The kitchen units are tasteful with a matching dresser in the dining room. The first floor has two double bedrooms and a good size single bedroom. The family bathroom is delightfully tiled with mosaic; a montage of mirrored tiles makes it bright and airy. The South Westerly facing rear garden has been landscaped with Lilly ponds and is an oasis of tranquillity having all afternoon and evening sunshine to the decking patio area. A glass house, garden shed, patio heater and parasol are included in the sale. The front has off street parking and unobstructed views overlooking a green area and LUAS line in the middle distance. Close to all amenities including LUAS, shops, schools, M50 and N7 motorways etc.\n\nBER Details\n\nBER: D2 BER No.109328864\nShow more...\nAlso looking at similar homes? Get email alerts for 3 beds homes in Kingswood\n\n\nMap\n\nCommute timesStreet ViewSatellite View\n\n\nMore Listings by this Agent\n\n\nSimilar properties for sale near Kingswood\nProperty Services\nMortgage calculator\nNeighbourhood Guide\nPrice Changes in Kingswood\nSold Properties in Kingswood\n34 The Grove, Kingswood, Dublin 24\n\n-€50,000 (-10.53%)\n€475,000\n\n€425,000\n25th Mar 26\n\nView All Price Changes in Kingswood\nHWP Residential\nTel: 01 46...\nPSRA No. 003512\nSEND\nReport Property\n\nDate created: 20 Dec 2016Updated on: 26 Jan 2017\n\n\nHWP Residential\nPSRA Licence No. 003512\nCall: 01 46...\n\nEmail Agent\n\nHelp\nJobs\nAbout\nContact\n\nEquality Guidelines\nBrand Safety\nTerms & Conditions\nCookie Policy\nCookie Settings\nPrivacy Policy\nDigital Services Act\nSitemap\n© Copyright MyHome 2026\nPlease enable JavaScript to continue using this application.",
+        "metadata": {
+          "title": "Sale Agreed | 14 Forest Lawns, Kingswood, Kingswood, Dublin 24 - HWP Residential - 3843003 - MyHome.ie Residential",
+          "og:site_name": "MyHome.ie",
+          "description": "14 Forest Lawns, Kingswood, Kingswood, Dublin 24, 3 Bed, asking price €269,950, brought to market by HWP Residential, Residential - 3843003 (rated D2)",
+          "og:url": "https://www.myhome.ie/residential/brochure/14-forest-lawns-kingswood-kingswood-dublin-24/3843003",
+          "og:title": "14 Forest Lawns, Kingswood, Kingswood, Dublin 24 - HWP Residential - 3843003 - MyHome.ie Residential",
+          "og:description": "14 Forest Lawns, Kingswood, Kingswood, Dublin 24, 3 Bed, asking price €269,950, brought to market by HWP Residential, Residential - 3843003 (rated D2)",
+          "og:image": "https://photos-a.propertyimages.ie/media/3/0/0/3843003/062853ff-0b61-4c18-bcc2-acd447e8609d_x.jpg",
+          "og:image:url": "https://photos-a.propertyimages.ie/media/3/0/0/3843003/062853ff-0b61-4c18-bcc2-acd447e8609d_x.jpg",
+          "og:image:secure_url": "https://photos-a.propertyimages.ie/media/3/0/0/3843003/062853ff-0b61-4c18-bcc2-acd447e8609d_x.jpg",
+          "twitter:card": "summary",
+          "twitter:site": "https://www.myhome.ie/residential/brochure/14-forest-lawns-kingswood-kingswood-dublin-24/3843003",
+          "twitter:title": "14 Forest Lawns, Kingswood, Kingswood, Dublin 24 - HWP Residential - 3843003 - MyHome.ie Residential",
+          "twitter:image": "https://photos-a.propertyimages.ie/media/3/0/0/3843003/062853ff-0b61-4c18-bcc2-acd447e8609d_x.jpg",
+          "twitter:description": "14 Forest Lawns, Kingswood, Kingswood, Dublin 24, 3 Bed, asking price €269,950, brought to market by HWP Residential, Residential - 3843003 (rated D2)",
+          "og:image:type": "image/jpeg",
+          "og:type": "website",
+          "og:locale": "en_IE"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Une maison mitoyenne de trois chambres située au 14 Forest Lawns, Kingswood, Dublin 24, est en vente convenue pour 269 950 €. La propriété comprend un salon, une cuisine et salle à manger, une salle de bains familiale et un jardin orienté sud-ouest avec bassins à nénuphars et terrasse. Elle offre une vue sur un espace vert et la ligne LUAS à proximité des commodités, des axes M50 et N7.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Ireland",
+          "Dublin",
+          "Dublin 24",
+          "Kingswood",
+          "14 Forest Lawns",
+          "M50",
+          "N7"
+        ],
+        "ORGANIZATION": [
+          "MyHome.ie",
+          "HWP Residential Sales",
+          "HWP"
+        ],
+        "DATE": [],
+        "EVENT": [],
+        "OTHER": [
+          "LUAS",
+          "BER-D2"
+        ]
+      },
+      "score_e5": 0.6995181316436949
+    },
+    {
+      "titre": "Motorcyclist suffers life-threatening injuries in Rawmarsh crash",
+      "source": "BBC",
+      "lien": "https://www.bbc.com/news/articles/cgr09190n51o",
+      "image_url": "https://c.files.bbci.co.uk/596e/live/0d856670-9dc1-11ef-935d-3107d1c873e8.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyafvK_kkGKkR0OYsnhhZIKZd_nLZLaAsUb4WyrfikHGHBKhM",
+      "rang_lens": 4,
+      "brut": {
+        "position": 4,
+        "title": "Motorcyclist suffers life-threatening injuries in Rawmarsh crash",
+        "link": "https://www.bbc.com/news/articles/cgr09190n51o",
+        "source": "BBC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRqQdPtFBN3bPsr-Qgzb7Y0PF6GpVT51CS6HYSB6PXjFM1KQM0riEjmg6eZuNil3vXzxVUlL9E0q5Xq_wIPsMz28MXi8-AtXYEI7eLNJMpzlQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyafvK_kkGKkR0OYsnhhZIKZd_nLZLaAsUb4WyrfikHGHBKhM",
+        "thumbnail_width": 168,
+        "thumbnail_height": 300,
+        "image": "https://c.files.bbci.co.uk/596e/live/0d856670-9dc1-11ef-935d-3107d1c873e8.jpg",
+        "image_width": 336,
+        "image_height": 599
+      },
+      "webpage": {
+        "text": "Motorcyclist suffers life-threatening injuries in Rawmarsh crash\n\nA motorcyclist has been taken to hospital with life-threatening injuries following a crash in South Yorkshire.\n\nThe incident happened on Haugh Road in the Rawmarsh area of Rotherham at about 19:15 GMT on Thursday, South Yorkshire Police said.\n\nThe collision involved a motorcycle and a grey Jaguar F-PACE, the force added.\n\nThe motorcyclist, a man in his 30s, remains in hospital, with police investigations described as \"ongoing\".\n\nThe road was closed following the collision but reopened at 07:00 on Friday.",
+        "metadata": {
+          "description": "A man in his 30s is being treated in hospital following a crash in Rotherham on Thursday night.",
+          "og:title": "Motorcyclist suffers life-threatening injuries in Rawmarsh crash",
+          "og:type": "article",
+          "og:url": "https://www.bbc.com/news/articles/cgr09190n51o",
+          "twitter:title": "Motorcyclist suffers life-threatening injuries in Rawmarsh crash",
+          "og:description": "A man in his 30s is being treated in hospital following a crash in Rotherham on Thursday night.",
+          "twitter:description": "A man in his 30s is being treated in hospital following a crash in Rotherham on Thursday night.",
+          "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/596e/live/0d856670-9dc1-11ef-935d-3107d1c873e8.jpg",
+          "og:image:width": "1024",
+          "og:image:height": "576",
+          "og:image:alt": "A suburban road flanked by trees and a grass verge on one side and a pavement, lamppost and a green metal fence on the other.",
+          "al:ios:url": "bbcx://news/articles/cgr09190n51o",
+          "al:ios:app_store_id": "364147881",
+          "al:ios:app_name": "BBC: World News & Stories",
+          "al:android:url": "bbcx://news/articles/cgr09190n51o",
+          "al:android:app_name": "BBC: World News & Stories",
+          "al:android:package": "bbc.mobile.news.ww",
+          "al:web:url": "https://bbc.com/news/articles/cgr09190n51o"
+        },
+        "jsonld": {
+          "@context": "https://schema.org",
+          "@type": "ReportageNewsArticle",
+          "url": "https://www.bbc.com/news/articles/cgr09190n51o",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "publishingPrinciples": "http://www.bbc.co.uk/news/help-41670342",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+            }
+          },
+          "datePublished": "2024-11-08T12:04:08.992Z",
+          "dateModified": "2024-11-08T12:04:08.992Z",
+          "description": "A man in his 30s is being treated in hospital following a crash in Rotherham on Thursday night.",
+          "headline": "Motorcyclist suffers life-threatening injuries in Rawmarsh crash",
+          "image": {
+            "@type": "ImageObject",
+            "width": "1024",
+            "height": "576",
+            "url": "https://ichef.bbci.co.uk/news/1024/branded_news/596e/live/0d856670-9dc1-11ef-935d-3107d1c873e8.jpg"
+          },
+          "thumbnailUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/596e/live/0d856670-9dc1-11ef-935d-3107d1c873e8.jpg",
+          "mainEntityOfPage": "https://www.bbc.com/news/articles/cgr09190n51o",
+          "author": {
+            "@type": "NewsMediaOrganization",
+            "name": "BBC News",
+            "noBylinesPolicy": "http://www.bbc.co.uk/news/help-41670342#authorexpertise",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png"
+            }
+          }
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un motocycliste a subi des blessures mettant en jeu son pronostic vital à la suite d'une collision sur Haugh Road dans le quartier de Rawmarsh à Rotherham, impliquant une moto et une Jaguar F-PACE grise. L'incident s'est produit vers 19:15 GMT un jeudi. Le conducteur, un homme d'une trentaine d'années, a été hospitalisé.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [],
+        "LOCATION": [
+          "Rawmarsh",
+          "South Yorkshire",
+          "Haugh Road",
+          "Rotherham"
+        ],
+        "ORGANIZATION": [
+          "BBC",
+          "South Yorkshire Police"
+        ],
+        "DATE": [
+          "Thursday",
+          "07:00 on Friday"
+        ],
+        "EVENT": [
+          "Rawmarsh crash"
+        ],
+        "OTHER": [
+          "Jaguar F-PACE",
+          "Motorcycle"
+        ]
+      },
+      "score_e5": 0.706116758531377
+    },
+    {
+      "titre": "2 bedroom flat for rent in Central Drive, Shotton, Deeside, CH5",
+      "source": "Rightmove",
+      "lien": "https://www.rightmove.co.uk/properties/91242711",
+      "image_url": "https://media.rightmove.co.uk/property-photo/433515c3f/91242711/433515c3f17198b47409577811837e35.jpeg",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZmH-xtcIxAoMJYondbzkxyZKX5i9hlQ4n0v2Np3fwOC-Frwfv",
+      "rang_lens": 5,
+      "brut": {
+        "position": 5,
+        "title": "2 bedroom flat for rent in Central Drive, Shotton, Deeside, CH5",
+        "link": "https://www.rightmove.co.uk/properties/91242711",
+        "source": "Rightmove",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRHT67yXPtAA43rxNBIgj_Y_RolseecpKD-mX3UZTfiYcYNxcj53KuA-0BZXfB_BCYxNZvWU2gr45zHlcn_i4fQR4TxWqzPScGO8C8HQwGzWwjK3BB8tkXl",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZmH-xtcIxAoMJYondbzkxyZKX5i9hlQ4n0v2Np3fwOC-Frwfv",
+        "thumbnail_width": 194,
+        "thumbnail_height": 259,
+        "image": "https://media.rightmove.co.uk/property-photo/433515c3f/91242711/433515c3f17198b47409577811837e35.jpeg",
+        "image_width": 768,
+        "image_height": 1024
+      },
+      "webpage": {
+        "text": "2 bedroom flat for rent in Central Drive, Shotton, Deeside, CH5\n\nReid & Roberts office is situated in the main thoroughfare of Estate Agents in the centre of Mold. Mold being the largest historical market town in the County of Flintshire and has a proud history. The medieval church of St Mary's is the centre piece to the town. The beautiful Clwyd Hills to the west of the town are ever popular with walkers and is located on the northern section of the Offa's Dyke Path, the long distance walk that leads from Prestatyn to Chepstow in the south of Wales.\n\nToday Mold is in easy reach of the many tourist destinations throughout North Wales which boasts a vast variety of restaurants, shopping and cultural activities, in particular the popular Clwyd Theatre Cymru overlooking the lyn valley. The theatre building also houses a restaurant and cinema.\n\nThe town centre is busy with activity during the traditional Wednesdays and Saturday street markets. The livestock market is held adjacent to the town centre on Monday and Friday each week. On the first Saturday of each month, Mold Farmers' Market sells fresh local produce direct to customers from the St Mary's Church Hall. In contrast Mold has a variety of main supermarket chains and stores.\n\nMold has a selection of established successful English and Welsh speaking schools both at Primary and Secondary level, including a catholic primary school with transport to Catholic Secondary School in neighbouring town of Flint. Extensive public sports facilities can be found at the Mold Sports Centre with the addition of a bowling green, cricket club, rugby club, tennis courts and astro turf flood lit football ground.\n\nMold is situated off the main A55 express way providing excellent transport links to major motorways and easy access to neighbouring towns, including Chester CityCentre and the North West.",
+        "metadata": {
+          "title": "2 bedroom flat for rent in Central Drive, Shotton, Deeside, CH5",
+          "description": "2 bedroom flat for rent in Central Drive, Shotton, Deeside, CH5 - Rightmove.",
+          "apple-mobile-web-app-title": "Rightmove",
+          "smartbanner:title": "Rightmove Property Search",
+          "smartbanner:author": "Rightmove"
+        },
+        "credits": 2
+      },
+      "texte_contexte": "Un appartement de 2 chambres à louer est situé à Central Drive, Shotton, Deeside, CH5. L'agence Reid & Roberts se trouve à Mold, la plus grande ville de marché historique du comté de Flintshire, qui abrite l'église médiévale de St Mary et est proche des collines de Clwyd et du sentier Offa's Dyke Path. La ville propose divers équipements, des marchés hebdomadaires, des écoles et des installations sportives, avec un accès routier via l'axe A55 vers Chester et le nord-ouest.",
+      "niveau_contexte": 3,
+      "entites": {
+        "PERSON": [
+          "St Mary"
+        ],
+        "LOCATION": [
+          "Central Drive",
+          "Shotton",
+          "Deeside",
+          "CH5",
+          "Mold",
+          "Flintshire",
+          "Clwyd Hills",
+          "Prestatyn",
+          "Chepstow",
+          "Wales",
+          "North Wales",
+          "Flint",
+          "Chester CityCentre",
+          "North West",
+          "A55"
+        ],
+        "ORGANIZATION": [
+          "Rightmove",
+          "Reid & Roberts",
+          "Clwyd Theatre Cymru",
+          "St Mary's Church"
+        ],
+        "DATE": [
+          "Wednesdays",
+          "Saturday",
+          "Monday",
+          "Friday"
+        ],
+        "EVENT": [],
+        "OTHER": [
+          "Offa's Dyke Path"
+        ]
+      },
+      "score_e5": 0.7290017305307378
+    }
+  ],
+  "entites_rumeur": {
+    "PERSON": [],
+    "LOCATION": [
+      "Leeds"
+    ],
+    "ORGANIZATION": [
+      "The Access Committee for Leeds",
+      "council"
+    ],
+    "DATE": [],
+    "EVENT": [],
+    "OTHER": [
+      "Woodlands Respite Care Centre"
+    ]
+  },
+  "entites_regroupees": [
+    {
+      "categorie": "LOCATION",
+      "entite": "Edinburgh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Calder Road",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Calder Crescent",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wester Hailes Road",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "BBC",
+      "rangs": [
+        1,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Police Scotland",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "16 June 2014",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Friday",
+      "rangs": [
+        1,
+        5
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Bus stop assault in Edinburgh",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "dark clothes",
+      "rangs": [
+        1
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rawmarsh",
+      "rangs": [
+        2,
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Facebook",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Yorkshire Post",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "June 29",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Collision involving motorbike",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Van",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Motorbike",
+      "rangs": [
+        2
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Ireland",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dublin",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Dublin 24",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Kingswood",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "14 Forest Lawns",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "M50",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "N7",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "MyHome.ie",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HWP Residential Sales",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "HWP",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "LUAS",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "BER-D2",
+      "rangs": [
+        3
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "South Yorkshire",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Haugh Road",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Rotherham",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "South Yorkshire Police",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Thursday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "07:00 on Friday",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "EVENT",
+      "entite": "Rawmarsh crash",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Jaguar F-PACE",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Motorcycle",
+      "rangs": [
+        4
+      ]
+    },
+    {
+      "categorie": "PERSON",
+      "entite": "St Mary",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Central Drive",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Shotton",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Deeside",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "CH5",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Mold",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Flintshire",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Clwyd Hills",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Prestatyn",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chepstow",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Wales",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North Wales",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Flint",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "Chester CityCentre",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "North West",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "LOCATION",
+      "entite": "A55",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Rightmove",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Reid & Roberts",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "Clwyd Theatre Cymru",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "ORGANIZATION",
+      "entite": "St Mary's Church",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Wednesdays",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Saturday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "DATE",
+      "entite": "Monday",
+      "rangs": [
+        5
+      ]
+    },
+    {
+      "categorie": "OTHER",
+      "entite": "Offa's Dyke Path",
+      "rangs": [
+        5
+      ]
+    }
+  ],
+  "meta": {
+    "k_max": 5,
+    "cree_le": "2026-09-06T22:14:25.093013"
+  }
+}
