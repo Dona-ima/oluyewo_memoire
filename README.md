@@ -18,6 +18,7 @@ Un dernier nœud Gemini rassemble les résultats et produit le rapport. L'API tr
 - Une clé API SerpApi
 - Un jeton Hugging Face pour accéder au Space PaliGemma
 - Un compte Cloudinary et ses identifiants pour l'hébergement des images
+- Une base PostgreSQL pour les comptes et l'historique des utilisateurs connectés
 
 ## Installation
 
@@ -64,9 +65,13 @@ HF_TOKEN=your_huggingface_token
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+
+DATABASE_URL=postgresql://user:password@host:5432/database
+SECRET_KEY=replace_with_a_long_random_secret
 ```
 
 `GEMINI_TRANSLATION_MODEL` est facultative ; le modèle par défaut est `gemini-3.5-flash-lite`.
+La base PostgreSQL est facultative pour les vérifications anonymes. Elle est nécessaire pour créer un compte, se connecter et conserver un historique. `SECRET_KEY` doit être définie pour émettre ou vérifier les jetons d'authentification ; utilise une valeur robuste en production.
 
 ## Lancement
 
@@ -103,6 +108,18 @@ curl -N -X POST "http://127.0.0.1:8000/verify-rumor/stream" \
 La réponse est un flux NDJSON, avec un objet JSON par ligne. Les événements comprennent le démarrage (`start`), les étapes terminées (`etape_terminee`), puis le rapport final (`resultat`, dans `donnees`). Si une erreur survient après le démarrage du flux, un événement `erreur` est envoyé.
 
 Le rapport final comprend notamment le texte et l'image soumis, la classe OOC, les données techniques des analyses et les métriques de performance. Le détail du rapport de vérification est généré par Gemini.
+
+### Vérifications anonymes et historique
+
+Une vérification peut être lancée sans compte ; elle n'est alors pas enregistrée dans la base. Pour retrouver ses vérifications, l'utilisateur doit se connecter et envoyer le jeton reçu dans l'en-tête `Authorization: Bearer <access_token>`. Les vérifications réussies sont alors enregistrées automatiquement et le rapport final contient aussi leur `verification_id`.
+
+- `POST /auth/register` — créer un compte avec un objet JSON `{ "nom": "...", "prenom": "...", "email": "...", "password": "..." }`.
+- `POST /auth/login` — se connecter avec un objet JSON `{ "email": "...", "password": "..." }`, ou avec les champs de formulaire OAuth2 `username` et `password`. La réponse contient `access_token` et `user`.
+- `GET /auth/me` (alias `GET /me`) — obtenir le profil associé au jeton.
+- `GET /history` — lister les vérifications de l'utilisateur connecté, des plus récentes aux plus anciennes.
+- `GET /history/{verification_id}` — retrouver le rapport complet d'une vérification appartenant à l'utilisateur connecté.
+
+Les endpoints de profil et d'historique exigent un jeton valide. Un utilisateur ne peut pas consulter les vérifications d'un autre compte.
 
 ## Structure principale
 

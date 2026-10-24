@@ -1,26 +1,55 @@
 import os
 import shutil
 import json
+import logging
 import time
 import requests
-from fastapi import FastAPI, UploadFile, File, Form, HTTPException
+from contextlib import asynccontextmanager
+from fastapi import Depends, FastAPI, File, Form, HTTPException, Request, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import StreamingResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from dotenv import load_dotenv
 from datetime import datetime
+from pydantic import BaseModel, EmailStr, Field
+from sqlalchemy.exc import IntegrityError, OperationalError, SQLAlchemyError
 
 from app.services.storage_service import uploader_image
 from app.graph.build import compiler_graphe
+from app.auth import (
+    hasher_password,
+    obtenir_utilisateur_courant,
+    obtenir_utilisateur_optionnel,
+    verifier_password,
+    creer_token,
+)
 # Constante ré-utilisée uniquement pour documenter la méthode d'agrégation
 # réellement appliquée au score sémantique dans la réponse API (voir plus bas).
 from app.graph.node_1.n1_smOOC import METHODE_AGREGATION_DEFAUT
 
 load_dotenv()
 
+logger = logging.getLogger(__name__)
+
+
+@asynccontextmanager
+async def lifespan(_: FastAPI):
+    if os.getenv("DATABASE_URL"):
+        from app.database import initialiser_bdd
+        try:
+            initialiser_bdd()
+        except OperationalError:
+            logger.exception(
+                "Connexion à PostgreSQL impossible au démarrage. "
+                "Les comptes et l'historique resteront indisponibles."
+            )
+    yield
+
+
 app = FastAPI(
     title="Oluyewo Backend API",
     description="Moteur de fact-checking multimodal basé sur une architecture multi-agents (LangGraph & Gemini)",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan,
 )
 
 app.add_middleware(
@@ -30,6 +59,16 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+@app.exception_handler(SQLAlchemyError)
+async def gerer_erreur_base_de_donnees(_: Request, erreur: SQLAlchemyError):
+    logger.error("Erreur lors de l'accès à PostgreSQL.", exc_info=erreur)
+    return JSONResponse(
+        status_code=503,
+        content={"detail": "La base de données est indisponible. Réessayez plus tard."}
+    )
+
 
 UPLOAD_DIR = "uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
@@ -47,6 +86,13 @@ LIBELLES_ETAPES = {
     "node_comparaison_visuelle": "Comparaison visuelle image/texte",
     "node_2": "Rédaction du rapport final",
 }
+
+
+class InscriptionRequest(BaseModel):
+    nom: str = Field(min_length=1, max_length=100)
+    prenom: str = Field(min_length=1, max_length=100)
+    email: EmailStr
+    password: str = Field(min_length=8, max_length=128)
 
 
 def telecharger_image_depuis_url(url: str) -> str:
@@ -171,7 +217,12 @@ def construire_reponse_finale(etat_final: dict, rumor_text: str, url_image: str)
     }
 
 
-async def executer_graphe_stream(etat_initial: dict, rumor_text: str, url_image: str):
+async def executer_graphe_stream(
+    etat_initial: dict,
+    rumor_text: str,
+    url_image: str,
+    user_id: int | None = None
+):
     """
     Générateur asynchrone : exécute le graphe via astream(stream_mode="updates")
     et streame un événement NDJSON (une ligne = un objet JSON) à chaque nœud
@@ -205,6 +256,15 @@ async def executer_graphe_stream(etat_initial: dict, rumor_text: str, url_image:
                 }) + "\n"
 
         reponse_finale = construire_reponse_finale(etat_courant, rumor_text, url_image)
+        if user_id is not None:
+            from app.database import sauvegarder_verification
+            reponse_finale["verification_id"] = sauvegarder_verification(
+                rumor_text=rumor_text,
+                image_path=url_image,
+                resultat_graphe=etat_courant,
+                reponse_finale_json=reponse_finale,
+                user_id=user_id,
+            )
         yield json.dumps({"type": "resultat", "donnees": reponse_finale}) + "\n"
 
     except Exception as e:
@@ -216,10 +276,156 @@ async def executer_graphe_stream(etat_initial: dict, rumor_text: str, url_image:
         }) + "\n"
 
 
+TYPES_IMAGE_AUTORISES = {"image/jpeg", "image/png", "image/webp"}
+
+
+def fichier_fourni(image_file: UploadFile | None) -> bool:
+    """Vrai seulement si un vrai fichier a été envoyé (pas un champ vide)."""
+    return bool(image_file and image_file.filename)
+
+
+def valider_fichier_image(image_file: UploadFile) -> None:
+    if image_file.content_type not in TYPES_IMAGE_AUTORISES:
+        raise ValueError("Le fichier doit être une image PNG, JPG ou WEBP.")
+    image_file.file.seek(0, os.SEEK_END)
+    taille = image_file.file.tell()
+    image_file.file.seek(0)
+    if taille == 0:
+        raise ValueError("Le fichier image est vide.")
+    if taille > TAILLE_MAX_IMAGE_OCTETS:
+        raise ValueError("L'image dépasse la taille maximale autorisée (10MB).")
+
+
 # --- Routes santé ---
 @app.get("/")
 def read_root():
     return {"status": "online", "application": "Oluyewo Fact-Checking Engine"}
+
+
+@app.post("/auth/register", status_code=201)
+def register_user(donnees: InscriptionRequest):
+    from app.database import creer_utilisateur, obtenir_utilisateur_par_email
+
+    nom = donnees.nom.strip()
+    prenom = donnees.prenom.strip()
+    if not nom or not prenom:
+        raise HTTPException(status_code=422, detail="Le nom et le prénom sont obligatoires.")
+    if len(donnees.password.encode("utf-8")) > 72:
+        raise HTTPException(status_code=422, detail="Le mot de passe ne peut pas dépasser 72 octets.")
+
+    email = str(donnees.email).lower()
+    try:
+        utilisateur_existant = obtenir_utilisateur_par_email(email)
+    except RuntimeError as error:
+        raise HTTPException(
+            status_code=503,
+            detail="La base de données n'est pas configurée."
+        ) from error
+    if utilisateur_existant:
+        raise HTTPException(status_code=409, detail="Cette adresse e-mail est déjà utilisée.")
+
+    try:
+        user_id = creer_utilisateur(
+            nom=nom,
+            prenom=prenom,
+            email=email,
+            hashed_password=hasher_password(donnees.password),
+        )
+    except IntegrityError as error:
+        raise HTTPException(status_code=409, detail="Cette adresse e-mail est déjà utilisée.") from error
+    except RuntimeError as error:
+        raise HTTPException(
+            status_code=503,
+            detail="La base de données n'est pas configurée."
+        ) from error
+
+    return {
+        "message": "Compte créé avec succès.",
+        "user": {
+            "id": user_id,
+            "nom": nom,
+            "prenom": prenom,
+            "email": email,
+        }
+    }
+
+
+class ConnexionRequest(BaseModel):
+    email: EmailStr
+    password: str
+
+
+@app.post("/auth/login")
+def login_user(donnees: ConnexionRequest):
+    from app.database import obtenir_utilisateur_par_email
+
+    email = str(donnees.email).strip().lower()
+    password = donnees.password
+
+    try:
+        user = obtenir_utilisateur_par_email(email)
+    except RuntimeError as error:
+        raise HTTPException(
+            status_code=503,
+            detail="La base de données n'est pas configurée."
+        ) from error
+
+    if not user or not verifier_password(password, user["hashed_password"]):
+        raise HTTPException(status_code=401, detail="E-mail ou mot de passe incorrect.")
+
+    try:
+        token = creer_token({"sub": str(user["id"])})
+    except RuntimeError as error:
+        raise HTTPException(
+            status_code=503,
+            detail="L'authentification n'est pas configurée."
+        ) from error
+
+    return {
+        "access_token": token,
+        "token_type": "bearer",
+        "user": {
+            "id": user["id"],
+            "nom": user["nom"],
+            "prenom": user["prenom"],
+            "email": user["email"],
+        },
+    }
+
+@app.get("/auth/me")
+@app.get("/me")
+def read_current_user(user: dict = Depends(obtenir_utilisateur_courant)):
+    return user
+
+
+@app.get("/history")
+def read_verification_history(user: dict = Depends(obtenir_utilisateur_courant)):
+    from app.database import obtenir_historique_utilisateur
+    try:
+        return obtenir_historique_utilisateur(user["id"])
+    except RuntimeError as error:
+        raise HTTPException(
+            status_code=503,
+            detail="La base de données n'est pas configurée."
+        ) from error
+
+
+@app.get("/history/{verification_id}")
+def read_verification_detail(
+    verification_id: int,
+    user: dict = Depends(obtenir_utilisateur_courant)
+):
+    from app.database import obtenir_detail_verification
+    try:
+        verification = obtenir_detail_verification(verification_id, user["id"])
+    except RuntimeError as error:
+        raise HTTPException(
+            status_code=503,
+            detail="La base de données n'est pas configurée."
+        ) from error
+    if verification is None:
+        raise HTTPException(status_code=404, detail="Vérification introuvable.")
+    return verification
 
 
 # --- Route principale (streaming) ---
@@ -228,6 +434,7 @@ async def verify_rumor_stream(
     rumor_text: str = Form(...),
     image_file: UploadFile = File(None),
     image_url: str = Form(None),
+    user: dict | None = Depends(obtenir_utilisateur_optionnel),
 ):
     if not rumor_text.strip():
         raise HTTPException(
@@ -235,11 +442,18 @@ async def verify_rumor_stream(
             detail="Le texte de la rumeur ne peut pas être vide."
         )
 
-    image_url_fournie = bool(image_url and image_url.strip())
-    if not image_file and not image_url_fournie:
+    a_fichier = fichier_fourni(image_file)
+    a_url = bool(image_url and image_url.strip())
+
+    if not a_fichier and not a_url:
         raise HTTPException(
             status_code=400,
-            detail="Une image est requise (fichier ou URL)."
+            detail="Une image est requise : téléversez un fichier ou collez un lien."
+        )
+    if a_fichier and a_url:
+        raise HTTPException(
+            status_code=400,
+            detail="Fournissez soit un fichier, soit un lien, pas les deux."
         )
 
     chemin_image_temporaire = ""
@@ -252,8 +466,9 @@ async def verify_rumor_stream(
     # plus lever d'HTTPException proprement — voir le bloc except dans
     # executer_graphe_stream pour les erreurs survenant après ce point).
     try:
-        if image_file:
-            nom_unique = f"photo_{time.time()}_{image_file.filename}"
+        if a_fichier:
+            valider_fichier_image(image_file)
+            nom_unique = f"photo_{time.time()}_{os.path.basename(image_file.filename)}"
             chemin_image_temporaire = os.path.join(UPLOAD_DIR, nom_unique)
             with open(chemin_image_temporaire, "wb") as buffer:
                 shutil.copyfileobj(image_file.file, buffer)
@@ -286,6 +501,11 @@ async def verify_rumor_stream(
     }
 
     return StreamingResponse(
-        executer_graphe_stream(etat_initial, rumor_text, url_image_cloudinary),
+        executer_graphe_stream(
+            etat_initial,
+            rumor_text,
+            url_image_cloudinary,
+            user_id=user["id"] if user else None,
+        ),
         media_type="application/x-ndjson",
     )

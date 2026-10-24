@@ -24,6 +24,14 @@ from typing import Dict, Any, List, Optional
 
 from dotenv import load_dotenv
 from google import genai
+from google.genai import errors as genai_errors
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_exponential,
+    retry_if_exception,
+    before_sleep_log,
+)
 
 
 # ============================================================
@@ -173,17 +181,81 @@ def construction_prompt_synthese(
         3. RÉSUMÉ DESTINÉ AU CITOYEN
         ============================================================
 
-        Le champ "resume" doit être rédigé en langage naturel, de façon
-        fluide, concise, neutre et accessible.
+        RÈGLE ESSENTIELLE : tout ce qui apparaît entre guillemets dans
+        cette section (exemples, formulations, phrases types) sert
+        uniquement à illustrer le ton et l'idée. Ne les recopie jamais
+        telles quelles. Reformule avec tes propres mots, en les adaptant
+        aux données réelles de cette vérification : la rumeur, les
+        lieux, les dates et les sources concernés. Les consignes
+        (ce qui est écrit sans guillemets) décrivent ce que le résumé
+        doit faire. Ce ne sont jamais des phrases à écrire.
+        Le citoyen ne doit jamais lire de formulation qui ressemble à
+        une instruction ou à une consigne.
 
-        Ne suis aucun plan fixe et n'impose aucun nombre de paragraphes.
-        Explique ce que le texte affirme, ce que les recherches ont permis
-        de retrouver, ce que l'analyse visuelle indique et ce qu'il est
-        raisonnable d'en conclure, selon les informations disponibles.
+        Le champ "resume" s'adresse à une personne qui n'a aucune
+        connaissance technique et qui lit sur son téléphone. Écris comme
+        un journaliste qui explique à un proche, en 4 à 6 phrases courtes.
 
-        Relie naturellement les observations à leurs justifications :
-        le citoyen doit comprendre pourquoi une conclusion est avancée,
-        sans devoir lui-même rapprocher des informations dispersées.
+        ORDRE À SUIVRE :
+        1. Commence directement par ce que nous avons constaté sur
+            l'image. Ne répète pas et ne résume pas la rumeur : le
+            citoyen vient de la saisir.
+            Si verdict = "ooc" : l'image semble provenir d'un autre
+            événement que celui décrit.
+            Si verdict = "nooc" : les publications retrouvées vont dans
+            le sens de ce que décrit la rumeur et aucune ne rattache
+            l'image à un autre moment ou lieu. Le citoyen doit
+            comprendre que cela ne prouve pas que la rumeur est vraie,
+            mais tu l'exprimes avec tes propres mots, une seule fois.
+        2. Explique pourquoi, avec les faits : où et quand l'image
+           est déjà apparue, et ce que disaient ces publications.
+           Cite la date de l'événement d'origine et compare-la à ce
+           que dit la rumeur.
+        3. Termine par une précaution simple si nécessaire (par
+           exemple : l'image ressemble à celle de ces articles mais on
+           ne peut pas être sûr qu'il s'agisse exactement de la même).
+
+        STYLE :
+        - Vocabulaire de tous les jours.
+        - Interdit : "recherche inversée", "analyse visuelle",
+          "score", "similarité", "entités", "modèle", "classe",
+          "neutre", "cohérente", "détournement de contexte".
+        - Dis plutôt : "nous avons retrouvé cette image dans...",
+          "elle accompagnait un article du...", "elle ne semble pas
+          correspondre à...".
+        - Ne parle jamais de PaliGemma ni de pourcentages.
+        - Ne recopie ni ne résume la rumeur en introduction. Tu peux
+          y faire référence brièvement, seulement quand c'est
+          nécessaire pour une comparaison (date, lieu, circonstances).
+
+        INTÉGRATION DE CE QUE MONTRE L'IMAGE :
+        Le contenu de l'image n'est jamais un paragraphe à part, ni une
+        phrase finale. Il s'intègre en UNE phrase, placée juste après
+        les preuves d'origine, et il doit renforcer le raisonnement,
+        jamais le contredire ni le relativiser.
+
+        Choisis la formulation selon le cas :
+
+        - verdict "ooc" et image qui correspond à la description de la
+          rumeur : "L'image montre bien [ce que décrit la rumeur], mais
+          c'est un autre événement : elle date de [date d'origine]."
+          La ressemblance explique pourquoi l'image trompe, elle ne
+          rend pas la rumeur plus crédible.
+        - verdict "ooc" et image qui ne correspond pas : "De plus, ce
+          que montre l'image ne correspond pas à ce que décrit la
+          rumeur."
+        - verdict "nooc" et image qui correspond : "Ce que montre
+          l'image correspond à la description, et nous n'avons rien
+          trouvé qui la rattache à un autre événement."
+        - classe visuelle neutre ou absente : ne présente pas cela
+          comme un doute. Dis seulement ce que l'image montre, sans
+          phrase du type "rien ne prouve" ou "rien ne permet de dire".
+        - explication visuelle absente : n'en parle pas.
+
+        INTERDIT : répéter une précaution déjà exprimée, finir par une
+        suite de négations ("mais rien ne prouve, rien n'indique..."),
+        ou laisser l'analyse visuelle nuancer un verdict déjà énoncé.
+        Le verdict ne change jamais à cause de l'image.
 
         INTÉGRATION DES SOURCES :
 
@@ -227,6 +299,11 @@ def construction_prompt_synthese(
         - "mise_en_relation", "conclusion" et "avertissement" :
         restent cohérents avec le verdict et le résumé. Évite les
         répétitions inutiles. Signale les limites lorsque nécessaire.
+        - Dans "analyse_visuelle_image_rumeur", "conclusion" tient en une
+        phrase qui dit si l'image correspond à la description de la
+        rumeur, et "explication" décrit simplement ce qu'on voit.
+        Ces champs ne répètent pas le résumé et ne remettent pas le
+        verdict en cause. Ne dis jamais "neutre".
 
         ============================================================
         5. INTERDICTIONS
@@ -318,6 +395,27 @@ def construction_prompt_synthese(
     return prompt
 
 
+def _erreur_serveur_gemini(exc: BaseException) -> bool:
+    """Réessaie seulement sur les erreurs serveur temporaires (5xx)."""
+    return isinstance(exc, genai_errors.ServerError)
+
+
+@retry(
+    stop=stop_after_attempt(4),
+    wait=wait_exponential(multiplier=3, min=3, max=20),
+    retry=retry_if_exception(_erreur_serveur_gemini),
+    reraise=True,
+    before_sleep=before_sleep_log(logger, logging.WARNING),
+)
+def _generer_synthese(prompt: str):
+    return client.models.generate_content(
+        model=MODEL_GEMINI,
+        contents=prompt,
+        config={"response_mime_type": "application/json"},
+    )
+
+
+
 # ============================================================
 # APPEL DU LLM
 # ============================================================
@@ -329,13 +427,7 @@ def appel_llm_synthese(
     Appelle Gemini et récupère la synthèse au format JSON.
     """
     try:
-        response = client.models.generate_content(
-            model=MODEL_GEMINI,
-            contents=prompt,
-            config={
-                "response_mime_type": "application/json"
-            }
-        )
+        response = _generer_synthese(prompt)
 
         texte = response.text.strip()
         resultat = json.loads(texte)

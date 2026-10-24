@@ -10,11 +10,13 @@ import requests
 from requests.exceptions import RequestException, Timeout
 from dotenv import load_dotenv
 from google import genai
+from google.genai import types
 from tenacity import (
     retry,
     stop_after_attempt,
     wait_exponential,
     retry_if_exception_type,
+    retry_if_exception,
     retry_if_not_exception_type,
     before_sleep_log,
 )
@@ -92,10 +94,45 @@ HF_API_URL = (
 )
 HF_MODEL_NAME = "intfloat/multilingual-e5-large"
 
-RETRY_CONFIG = dict(
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=1, max=8),
-    retry=retry_if_exception_type((Timeout, requests.HTTPError)),
+CODES_HTTP_RETENTABLES = {429, 500, 502, 503, 504}
+
+EMBEDDING_BACKEND = os.getenv("EMBEDDING_BACKEND", "gemini").strip().lower()
+if EMBEDDING_BACKEND not in {"e5", "gemini"}:
+    raise RuntimeError(
+        f"EMBEDDING_BACKEND invalide : {EMBEDDING_BACKEND!r} (valeurs : 'e5' ou 'gemini')."
+    )
+
+MODELE_EMBEDDING_GEMINI = "gemini-embedding-001"
+# Nom du modèle réellement utilisé, à joindre aux résultats pour les tracer.
+MODELE_EMBEDDING_ACTIF = (
+    HF_MODEL_NAME if EMBEDDING_BACKEND == "e5" else MODELE_EMBEDDING_GEMINI
+)
+
+GEMINI_API_KEY_EMBEDDING = os.getenv("GEMINI_API_KEY_EMBEDDING")
+client_embedding = None
+if EMBEDDING_BACKEND == "gemini":
+    if not GEMINI_API_KEY_EMBEDDING:
+        raise RuntimeError(
+            "GEMINI_API_KEY_EMBEDDING est absente alors que EMBEDDING_BACKEND=gemini."
+        )
+    client_embedding = genai.Client(api_key=GEMINI_API_KEY_EMBEDDING)
+
+
+logger.info("[Embedding] Backend actif : %s (%s)", EMBEDDING_BACKEND, MODELE_EMBEDDING_ACTIF)
+
+
+def _erreur_hf_retentable(exc: BaseException) -> bool:
+    """Réessaie seulement sur les erreurs temporaires."""
+    if isinstance(exc, (Timeout, ErreurModeleEnChargement)):
+        return True
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return exc.response.status_code in CODES_HTTP_RETENTABLES
+    return False
+
+RETRY_CONFIG_HF = dict(
+    stop=stop_after_attempt(4),
+    wait=wait_exponential(multiplier=2, min=2, max=15),
+    retry=retry_if_exception(_erreur_hf_retentable),   
     reraise=True,
     before_sleep=before_sleep_log(logger, logging.WARNING),
 )
@@ -199,7 +236,7 @@ def _verifie_quota_serpapi(response: requests.Response) -> None:
 # 1. RECHERCHE INVERSÉE AVEC GOOGLE LENS VIA SERPAPI
 # ================================================================
 
-@retry(**RETRY_CONFIG)
+@retry(**RETRY_CONFIG_HF)
 def _get_serpapi_lens(url_image: str, forcer_fraicheur: bool = False) -> requests.Response:
     """
     forcer_fraicheur=True ajoute no_cache=true : SerpAPI sert par défaut
@@ -860,18 +897,6 @@ class ErreurModeleEnChargement(Exception):
     """Levée quand HF renvoie un modèle en cours de chargement (cold start)."""
     pass
 
-
-RETRY_CONFIG_HF = dict(
-    stop=stop_after_attempt(4),
-    wait=wait_exponential(multiplier=2, min=2, max=15),
-    retry=retry_if_exception_type(
-        (Timeout, requests.HTTPError, ErreurModeleEnChargement)
-    ),
-    reraise=True,
-    before_sleep=before_sleep_log(logger, logging.WARNING),
-)
-
-
 @retry(**RETRY_CONFIG_HF)
 def _post_hf_embedding(textes: List[str]) -> requests.Response:
     response = requests.post(
@@ -900,16 +925,8 @@ def _post_hf_embedding(textes: List[str]) -> requests.Response:
     return response
 
 
-def get_hf_embedding(textes: List[str]) -> Optional[List[List[float]]]:
-    """
-    Récupère les embeddings E5 pour une liste de textes.
-    Retourne None en cas d'échec définitif.
-    """
-
-    if not textes:
-        logger.warning("[HF] Liste de textes vide — aucun appel effectué.")
-        return None
-
+def _embedding_e5(textes: List[str]) -> Optional[List[List[float]]]:
+    """Embeddings E5 via l'API Hugging Face."""
     try:
         response = _post_hf_embedding(textes)
     except Timeout:
@@ -934,19 +951,53 @@ def get_hf_embedding(textes: List[str]) -> Optional[List[List[float]]]:
     if isinstance(embeddings, dict) and "error" in embeddings:
         logger.error("[HF] Erreur retournée par le modèle : %s", embeddings["error"])
         return None
-
     if not isinstance(embeddings, list):
-        logger.error("[HF] Format de réponse inattendu (ni liste ni erreur connue).")
+        logger.error("[HF] Format de réponse inattendu.")
+        return None
+    if len(embeddings) != len(textes):
+        logger.error("[HF] Nombre d'embeddings (%d) ≠ textes (%d).", len(embeddings), len(textes))
+        return None
+    return embeddings
+
+
+def _embedding_gemini(textes: List[str]) -> Optional[List[List[float]]]:
+    """Embeddings Gemini. Pas de préfixes E5, le type de tâche les remplace."""
+    textes_propres = [
+        t.replace("query: ", "", 1).replace("passage: ", "", 1) for t in textes
+    ]
+    try:
+        reponse = client_embedding.models.embed_content(
+            model=MODELE_EMBEDDING_GEMINI,
+            contents=textes_propres,
+            config=types.EmbedContentConfig(task_type="SEMANTIC_SIMILARITY"),
+        )
+        embeddings = [e.values for e in reponse.embeddings]
+    except Exception as e:
+        logger.error("[Embedding] Échec Gemini : %s", e)
         return None
 
     if len(embeddings) != len(textes):
         logger.error(
-            "[HF] Nombre d'embeddings (%d) différent du nombre de textes envoyés (%d).",
+            "[Embedding] Nombre d'embeddings (%d) différent du nombre de textes (%d).",
             len(embeddings), len(textes)
         )
         return None
-
     return embeddings
+
+
+def get_hf_embedding(textes: List[str]) -> Optional[List[List[float]]]:
+    """
+    Point d'entrée unique, appelé par calcule_scores_e5.
+    Le nom est conservé pour ne rien changer au reste du code.
+    Le backend est choisi par EMBEDDING_BACKEND (.env).
+    """
+    if not textes:
+        logger.warning("[Embedding] Liste de textes vide — aucun appel effectué.")
+        return None
+
+    if EMBEDDING_BACKEND == "gemini":
+        return _embedding_gemini(textes)
+    return _embedding_e5(textes)
 
 
 def cosine_similarity(vecteur_a: List[float], vecteur_b: List[float]) -> float:
@@ -1075,6 +1126,7 @@ def classifier_ooc_llm(
     entites_dominantes: Dict[str, List[str]],
     comparaison_entites: Dict[str, Any],
     resultats: List[Dict],
+    date_reference: Optional[str] = None,
 ) -> str:
     """Classe le contexte OOC à partir des seuls signaux de recherche inversée."""
     resultats_pour_llm = [
@@ -1086,6 +1138,7 @@ def classifier_ooc_llm(
             "contexte": resultat.get("texte_contexte", ""),
             "score_e5": resultat.get("score_e5"),
             "entites": resultat.get("entites", schema_entites_vide()),
+            "date_publication": resultat.get("date_publication", ""),
         }
         for resultat in resultats
     ]
@@ -1141,6 +1194,26 @@ def classifier_ooc_llm(
     - Lorsque les scores divergent, examine les résultats et les entités pour comprendre cette divergence avant de décider.
     - Si un score est absent ou non calculable, ne le considère pas comme égal à zéro et n'invente aucune valeur. Fonde ta décision sur les autres éléments disponibles.
     Aucun seuil numérique ne doit déterminer automatiquement la classe. Les scores sont des indices à interpréter, et non des verdicts définitifs.
+
+    ### 3.4. Cohérence temporelle
+    - date_reference est la date de soumission de la rumeur (aujourd'hui).
+    - Si la rumeur présente l'événement comme récent ou lui donne une date, et que des résultats pertinents associent la même image à un événement nettement antérieur (date dans le contexte ou date_publication), c'est un indice FORT en faveur de "ooc".
+    - Cet indice prévaut sur une similarité sémantique élevée : un même type d'événement (accident, incendie) rend les textes proches sans prouver que l'image provient du bon moment.
+    - Une date seulement absente des résultats n'est pas un indice. L'indice vient d'une date antérieure explicite et crédible.
+
+    ### 3.5. Analyse obligatoire des entités, catégorie par catégorie
+    Avant de décider, examine CHAQUE catégorie présente dans comparaison_entites, une par une, en confrontant entites_rumeur, entites_dominantes ET les contextes des résultats. Pour chacune, détermine la nature de l'écart :
+    - "concordance" : mêmes entités, ou variantes évidentes.
+    - "contradiction" : entités incompatibles et pertinentes (autre lieu, autre date, autre événement, autre personne). Indice fort en faveur de "ooc" si les résultats décrivent bien la même image.
+    - "absence" : l'entité de la rumeur n'apparaît pas dans les résultats, sans les contredire. Ce n'est PAS un indice.
+    - "bruit" : entité sans valeur factuelle pour le contexte (nom d'une plateforme comme Facebook ou YouTube, source de la page, terme générique). À ignorer.
+    Règles :
+    - Un 0 dans comparaison_entites ne vaut pas contradiction : vérifie lequel des quatre cas s'applique.
+    - Pondère par importance : LOCATION, DATE et EVENT contredits pèsent plus que OTHER ou ORGANIZATION.
+    - Ne te fie pas au score S_ent : il compte toutes les catégories de la même façon.
+    - Une seule contradiction forte (par exemple une date ou un lieu clairement différent, attesté par des résultats qui décrivent la même image) peut suffire pour "ooc", même si les autres catégories concordent.
+    - Plusieurs concordances sur des catégories secondaires ne compensent pas une contradiction forte sur une catégorie centrale.
+    - Vérifie aussi que les résultats parlent bien de la MÊME image et du MÊME événement, pas seulement d'un événement du même type.
 
     ## 4. ANALYSE DES RÉSULTATS DE RECHERCHE INVERSÉE
     Pour chaque résultat pertinent, examine :
@@ -1719,6 +1792,7 @@ def sous_module_ooc(
 
     return {
         "statut": "succes",
+        "modele_embedding": MODELE_EMBEDDING_ACTIF,
         "classe_ooc": classe_ooc,
         "S_sem": S_sem,
         "S_ent": score_ent,

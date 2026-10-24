@@ -5,15 +5,29 @@ explication sont conservés; l'explication est traduite en français pour N2.
 """
 
 import os
+import logging
+from concurrent.futures import TimeoutError as FuturesTimeout
 from typing import Dict, Any, Optional
+
+import httpx
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from gradio_client import Client, handle_file
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_fixed,
+    retry_if_exception,
+    before_sleep_log,
+)
 
 load_dotenv()
+logger = logging.getLogger("sous_module_coherence")
 
 PALIGEMMA_SPACE = "dona-ima/paligemma-snli-ve-demo"
+
+TIMEOUT_PALIGEMMA_S = 90  # attente max d'UN appel (file ZeroGPU + calcul)
 
 _paligemma_client = None
 _gemini_client = None
@@ -39,11 +53,51 @@ def est_erreur_quota_zerogpu(erreur: Exception) -> bool:
     return "zerogpu quota" in message or "free zerogpu" in message
 
 
+
+
 def chargement_paligemma():
     global _paligemma_client
     if _paligemma_client is None:
-        _paligemma_client = Client(PALIGEMMA_SPACE, token=os.environ.get("HF_TOKEN"))
+        # Token du compte lié au quota ZeroGPU ; repli sur HF_TOKEN si absent.
+        token = os.environ.get("HF_TOKEN_PALIGEMMA") or os.environ.get("HF_TOKEN")
+        _paligemma_client = Client(
+            PALIGEMMA_SPACE,
+            token=token,
+            # Défaut httpx = 5 s, trop court pour ZeroGPU.
+            # 15 s pour se connecter, TIMEOUT_PALIGEMMA_S pour attendre la réponse.
+            httpx_kwargs={"timeout": httpx.Timeout(TIMEOUT_PALIGEMMA_S, connect=15.0)},
+        )
     return _paligemma_client
+
+
+def _erreur_paligemma_retentable(exc: BaseException) -> bool:
+    """Réessaie seulement sur les erreurs temporaires (timeout, coupure réseau)."""
+    if est_erreur_quota_zerogpu(exc):  # un quota épuisé ne se règle pas en réessayant
+        return False
+    return isinstance(exc, (httpx.TransportError, FuturesTimeout))
+
+
+@retry(
+    stop=stop_after_attempt(2),  # 1 essai + 1 nouvel essai
+    wait=wait_fixed(5),
+    retry=retry_if_exception(_erreur_paligemma_retentable),
+    reraise=True,
+    before_sleep=before_sleep_log(logger, logging.WARNING),
+)
+def _appeler_paligemma(url_image: str, hypothese_anglaise: str):
+    client = chargement_paligemma()
+    # submit() + result(timeout=...) borne le temps total de l'appel,
+    # contrairement à predict() qui peut attendre sans limite.
+    job = client.submit(
+        image=handle_file(url_image),
+        hypothesis=hypothese_anglaise,
+        api_name="/predict",
+    )
+    try:
+        return job.result(timeout=TIMEOUT_PALIGEMMA_S)
+    except FuturesTimeout:
+        job.cancel()  # libère la place dans la file d'attente
+        raise
 
 
 def traduire_texte(texte: str, langue_cible: str) -> str:
@@ -102,12 +156,8 @@ def evaluer_paligemma(
     try:
         if not hypothese_anglaise:
             hypothese_anglaise = traduire_texte(texte_rumeur, "anglais")
-        client = chargement_paligemma()
-        resultat = client.predict(
-            image=handle_file(url_image),
-            hypothesis=hypothese_anglaise,
-            api_name="/predict"
-        )
+        resultat = _appeler_paligemma(url_image, hypothese_anglaise)
+
         if not isinstance(resultat, (list, tuple)) or len(resultat) < 3:
             raise ValueError("Le Space PaliGemma doit renvoyer classe, score et explication.")
 
@@ -130,7 +180,7 @@ def evaluer_paligemma(
             raise QuotaZeroGPUEpuiseError(
                 f"Quota ZeroGPU Hugging Face épuisé : {e}"
             ) from e
-        print(f"[PaliGemma2] Erreur lors du calcul : {e}")
+        logger.error("[PaliGemma2] Échec : %s — %s", type(e).__name__, e)
         return None
 
 
