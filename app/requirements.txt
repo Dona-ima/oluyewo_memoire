@@ -6,7 +6,7 @@ pydantic[email]
 requests
 httpx
 sqlalchemy
-psycopg2-binary
+psycopg[binary]
 python-jose[cryptography]
 passlib
 bcrypt==4.0.1
